@@ -1,0 +1,577 @@
+{
+  "bookId": "GEN",
+  "chapter": 1,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the beginning, God created the heavens and the earth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起初， 神创造天地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起初，上帝創造天地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地是空虚混沌，渊面黑暗； 神的灵运行在水面上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地是空虛混沌，淵面黑暗；上帝的靈運行在水面上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "God said, “Let there be light,” and there was light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「要有光」，就有了光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「要有光」，就有了光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "God saw the light, and saw that it was good. God divided the light from the darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神看光是好的，就把光暗分开了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝看光是好的，就把光暗分開了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神称光为「昼」，称暗为「夜」。有晚上，有早晨，这是头一日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝稱光為「晝」，稱暗為「夜」。有晚上，有早晨，這是頭一日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「诸水之间要有空气，将水分为上下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「諸水之間要有空氣，將水分為上下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就造出空气，将空气以下的水、空气以上的水分开了。事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就造出空氣，將空氣以下的水、空氣以上的水分開了。事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "God called the expanse “sky”. There was evening and there was morning, a second day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神称空气为「天」。有晚上，有早晨，是第二日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝稱空氣為「天」。有晚上，有早晨，是第二日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「天下的水要聚在一处，使旱地露出来。」事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「天下的水要聚在一處，使旱地露出來。」事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神称旱地为「地」，称水的聚处为「海」。 神看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝稱旱地為「地」，稱水的聚處為「海」。上帝看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「地要发生青草和结种子的菜蔬，并结果子的树木，各从其类，果子都包着核。」事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「地要發生青草和結種子的菜蔬，並結果子的樹木，各從其類，果子都包着核。」事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是地发生了青草和结种子的菜蔬，各从其类；并结果子的树木，各从其类；果子都包着核。 神看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是地發生了青草和結種子的菜蔬，各從其類；並結果子的樹木，各從其類；果子都包着核。上帝看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "There was evening and there was morning, a third day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有晚上，有早晨，是第三日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有晚上，有早晨，是第三日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「天上要有光体，可以分昼夜，作记号，定节令、日子、年岁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「天上要有光體，可以分晝夜，作記號，定節令、日子、年歲，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and let them be for lights in the expanse of the sky to give light on the earth;” and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并要发光在天空，普照在地上。」事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並要發光在天空，普照在地上。」事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是 神造了两个大光，大的管昼，小的管夜，又众星，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是上帝造了兩個大光，大的管晝，小的管夜，又眾星，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "God set them in the expanse of the sky to give light to the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就把这些光摆列在天空，普照在地上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就把這些光擺列在天空，普照在地上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管理昼夜，分别明暗。 神看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管理晝夜，分別明暗。上帝看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "There was evening and there was morning, a fourth day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有晚上，有早晨，是第四日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有晚上，有早晨，是第四日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「水要多多滋生有生命的物；要有雀鸟飞在地面以上，天空之中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「水要多多滋生有生命的物；要有雀鳥飛在地面以上，天空之中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就造出大鱼和水中所滋生各样有生命的动物，各从其类；又造出各样飞鸟，各从其类。 神看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就造出大魚和水中所滋生各樣有生命的動物，各從其類；又造出各樣飛鳥，各從其類。上帝看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就赐福给这一切，说：「滋生繁多，充满海中的水；雀鸟也要多生在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就賜福給這一切，說：「滋生繁多，充滿海中的水；雀鳥也要多生在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "There was evening and there was morning, a fifth day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有晚上，有早晨，是第五日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有晚上，有早晨，是第五日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。」事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「地要生出活物來，各從其類；牲畜、昆蟲、野獸，各從其類。」事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是 神造出野兽，各从其类；牲畜，各从其类；地上一切昆虫，各从其类。 神看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是上帝造出野獸，各從其類；牲畜，各從其類；地上一切昆蟲，各從其類。上帝看着是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「我们要照着我们的形象、按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜，和全地，并地上所爬的一切昆虫。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「我們要照着我們的形像、按着我們的樣式造人，使他們管理海裏的魚、空中的鳥、地上的牲畜，和全地，並地上所爬的一切昆蟲。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就照着自己的形像造人，乃是照着他的形像造男造女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就赐福给他们，又对他们说：「要生养众多，遍满地面，治理这地，也要管理海里的鱼、空中的鸟，和地上各样行动的活物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就賜福給他們，又對他們說：「要生養眾多，遍滿地面，治理這地，也要管理海裏的魚、空中的鳥，和地上各樣行動的活物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "God said, “Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:29 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「看哪，我将遍地上一切结种子的菜蔬和一切树上所结有核的果子全赐给你们作食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「看哪，我將遍地上一切結種子的菜蔬和一切樹上所結有核的果子全賜給你們作食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于地上的走兽和空中的飞鸟，并各样爬在地上有生命的物，青草它们作食物。」事就这样成了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於地上的走獸和空中的飛鳥，並各樣爬在地上有生命的物，青草牠們作食物。」事就這樣成了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神看着一切所造的都甚好。有晚上，有早晨，是第六日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝看着一切所造的都甚好。有晚上，有早晨，是第六日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "bookId": "PSA",
+  "chapter": 10,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Why do you stand far off, LORD? Why do you hide yourself in times of trouble?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你为什么站在远处？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你為甚麼站在遠處？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "In arrogance, the wicked hunt down the weak. They are caught in the schemes that they devise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人在骄横中把困苦人追得火急；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人在驕橫中把困苦人追得火急；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For the wicked boasts of his heart’s cravings. He blesses the greedy and condemns the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为恶人以心愿自夸； 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:3 或译：他祝福贪财的，却轻慢耶和华"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為惡人以心願自誇； 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:3 或譯：他祝福貪財的，卻輕慢耶和華"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The wicked, in the pride of his face, has no room in his thoughts for God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人面带骄傲，：耶和华必不追究；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人面帶驕傲，：耶和華必不追究；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "His ways are prosperous at all times. He is arrogant, and your laws are far from his sight. As for all his adversaries, he sneers at them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡他所做的，时常稳固；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡他所做的，時常穩固；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He says in his heart, “I shall not be shaken. For generations I shall have no trouble.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他心里说：我必不动摇，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他心裏說：我必不動搖，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "His mouth is full of cursing, deceit, and oppression. Under his tongue is mischief and iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他满口是咒骂、诡诈、欺压，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他滿口是咒罵、詭詐、欺壓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He lies in wait near the villages. From ambushes, he murders the innocent. His eyes are secretly set against the helpless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在村庄埋伏等候；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在村莊埋伏等候；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He lurks in secret as a lion in his ambush. He lies in wait to catch the helpless. He catches the helpless when he draws him in his net.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他埋伏在暗地，如狮子蹲在洞中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他埋伏在暗地，如獅子蹲在洞中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The helpless are crushed. collapse. fall under his strength.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他屈身蹲伏， 之下。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:10 爪牙：或译强暴人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他屈身蹲伏， 之下。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:10 爪牙：或譯強暴人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He says in his heart, “God has forgotten. He hides his face. He will never see it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他心里说： 神竟忘记了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他心裏說：上帝竟忘記了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Arise, LORD! God, lift up your hand! forget the helpless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你起来！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你起來！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Why does the wicked person condemn God, and say in his heart, “God won’t call me into account”?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人为何轻慢 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人為何輕慢上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But you do see trouble and grief. You consider it to take it into your hand. You help the victim and the fatherless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你已经观看； 交托你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你已經觀看； 交託你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Break the arm of the wicked. As for the evil man, seek out his wickedness until you find none.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你打断恶人的膀臂；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你打斷惡人的膀臂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD is King forever and ever! The nations will perish out of his land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华永永远远为王；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華永永遠遠為王；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "LORD, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，谦卑人的心愿， 。 ，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:17 原文是听见"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，謙卑人的心願， 。 ，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:17 原文是聽見"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "to judge the fatherless and the oppressed, that man who is of the earth may terrify no more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要给孤儿和受欺压的人伸冤，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要給孤兒和受欺壓的人伸冤，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

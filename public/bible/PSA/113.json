@@ -1,0 +1,185 @@
+{
+  "bookId": "PSA",
+  "chapter": 113,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Praise the LORD! Praise, you servants of the LORD, praise the LORD’s name.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "113:1 Hebrew: יה Yah"
+          },
+          {
+            "id": "f2",
+            "text": "113:1 LORD or GOD in all caps is from the Hebrew יהוה‎ Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要赞美耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要讚美耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Blessed be the LORD’s name, from this time forward and forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的名是应当称颂的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的名是應當稱頌的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "From the rising of the sun to its going down, the LORD’s name is to be praised.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从日出之地到日落之处，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從日出之地到日落之處，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD is high above all nations, his glory above the heavens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华超乎万民之上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華超乎萬民之上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Who is like the LORD, our God, who has his seat on high,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁像耶和华—我们的 神呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰像耶和華－我們的上帝呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "who stoops down to see in heaven and on the earth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自己谦卑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自己謙卑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He raises up the poor out of the dust, and lifts up the needy from the ash heap,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从灰尘里抬举贫寒人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從灰塵裏抬舉貧寒人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "that he may set him with princes, with the princes of his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使他们与王子同坐，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使他們與王子同坐，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He settles the barren woman in her home as a joyful mother of children. Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "113:9 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使不能生育的妇人安居家中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使不能生育的婦人安居家中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

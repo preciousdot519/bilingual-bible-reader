@@ -1,0 +1,401 @@
+{
+  "bookId": "PSA",
+  "chapter": 49,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Hear this, all you peoples. of the world,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万民哪，你们都当听这话！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬民哪，你們都當聽這話！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "both low and high, and poor together.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论上流下流，富足贫穷，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論上流下流，富足貧窮，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "My mouth will speak words of wisdom. My heart will utter understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我口要说智慧的言语；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我口要說智慧的言語；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I will incline my ear to a proverb. I will solve my riddle on the harp.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要侧耳听比喻，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要側耳聽比喻，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Why should I fear in the days of evil, at my heels surrounds me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在患难的日子，奸恶随我脚跟，四面环绕我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在患難的日子，奸惡隨我腳跟，四面環繞我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Those who trust in their wealth, and boast in the multitude of their riches—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些倚仗财货自夸钱财多的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些倚仗財貨自誇錢財多的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "none of them can by any means redeem his brother, give God a ransom for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一个也无法赎自己的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一個也無法贖自己的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For the redemption of their life is costly, no payment is ever enough,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8-9",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫他长远活着，不见朽坏；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫他長遠活着，不見朽壞；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "that he should live on forever, that he should not see corruption.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For he sees that wise men die; the fool and the senseless perish, and leave their wealth to others.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必见智慧人死，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必見智慧人死，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们心里思想：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們心裏思想：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But man, despite his riches, doesn’t endure. He is like the animals that perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但人居尊贵中不能长久，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但人居尊貴中不能長久，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "This is the destiny of those who are foolish, and of those who approve their sayings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们行的这道本为自己的愚昧；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們行的這道本為自己的愚昧；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They are appointed as a flock for Sheol. shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol, their mansion.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "49:14 Sheol is the place of the dead."
+          },
+          {
+            "id": "f2",
+            "text": "49:14 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们如同羊群派定下阴间；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們如同羊群派定下陰間；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But God will redeem my soul from the power of Sheol, for he will receive me.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "49:15 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是 神必救赎我的灵魂脱离阴间的权柄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是上帝必救贖我的靈魂脫離陰間的權柄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Don’t be afraid when a man is made rich, when the glory of his house is increased;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见人发财、家室增荣的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見人發財、家室增榮的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "for when he dies he will carry nothing away. His glory won’t descend after him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，他死的时候什么也不能带去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，他死的時候甚麼也不能帶去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Though while he lived he blessed his soul— and men praise you when you do well for yourself—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他活着的时候，虽然自夸为有福",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他活着的時候，雖然自誇為有福",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "he shall go to the generation of his fathers. They shall never see the light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他仍必归到他历代的祖宗那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他仍必歸到他歷代的祖宗那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "A man who has riches without understanding, is like the animals that perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在尊贵中而不醒悟，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在尊貴中而不醒悟，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "bookId": "GEN",
+  "chapter": 7,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对说：「你和你的全家都要进入方舟；因为在这世代中，我见你在我面前是义人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對說：「你和你的全家都要進入方舟；因為在這世代中，我見你在我面前是義人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡洁净的畜类，你要带七公七母；不洁净的畜类，你要带一公一母；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡潔淨的畜類，你要帶七公七母；不潔淨的畜類，你要帶一公一母；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "空中的飞鸟也要带七公七母，可以留种，活在全地上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "空中的飛鳥也要帶七公七母，可以留種，活在全地上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为再过七天，我要降雨在地上四十昼夜，把我所造的各种活物都从地上除灭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為再過七天，我要降雨在地上四十晝夜，把我所造的各種活物都從地上除滅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Noah did everything that the LORD commanded him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就遵着耶和华所吩咐的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就遵着耶和華所吩咐的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Noah was six hundred years old when the flood of waters came on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当洪水泛滥在地上的时候，整六百岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當洪水氾濫在地上的時候，整六百歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Noah went into the ship with his sons, his wife, and his sons’ wives, because of the floodwaters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就同他的妻和儿子儿妇都进入方舟，躲避洪水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就同他的妻和兒子兒婦都進入方舟，躲避洪水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Clean animals, unclean animals, birds, and everything that creeps on the ground",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洁净的畜类和不洁净的畜类，飞鸟并地上一切的昆虫，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "潔淨的畜類和不潔淨的畜類，飛鳥並地上一切的昆蟲，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "went by pairs to Noah into the ship, male and female, as God commanded Noah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都是一对一对地，有公有母，到那里进入方舟，正如 神所吩咐的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都是一對一對地，有公有母，到那裏進入方舟，正如上帝所吩咐的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "After the seven days, the floodwaters came on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了那七天，洪水泛滥在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了那七天，洪水氾濫在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky’s windows opened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当六百岁，二月十七日那一天，大渊的泉源都裂开了，天上的窗户也敞开了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當六百歲，二月十七日那一天，大淵的泉源都裂開了，天上的窗戶也敞開了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "It rained on the earth forty days and forty nights.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四十昼夜降大雨在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四十晝夜降大雨在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正当那日，和他三个儿子、、，并的妻子和三个儿妇，都进入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正當那日，和他三個兒子、、，並的妻子和三個兒婦，都進入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们和百兽，各从其类，一切牲畜，各从其类，爬在地上的昆虫，各从其类，一切禽鸟，各从其类，都进入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們和百獸，各從其類，一切牲畜，各從其類，爬在地上的昆蟲，各從其類，一切禽鳥，各從其類，都進入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Pairs from all flesh with the breath of life in them went into the ship to Noah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有血肉、有气息的活物，都一对一对地到那里，进入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有血肉、有氣息的活物，都一對一對地到那裏，進入方舟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Those who went in, went in male and female of all flesh, as God commanded him; then the LORD shut him in.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有血肉进入方舟的，都是有公有母，正如 神所吩咐的。耶和华就把他关在方舟里头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有血肉進入方舟的，都是有公有母，正如上帝所吩咐的。耶和華就把他關在方舟裏頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洪水泛滥在地上四十天，水往上长，把方舟从地上漂起。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洪水氾濫在地上四十天，水往上長，把方舟從地上漂起。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水势浩大，在地上大大地往上长，方舟在水面上漂来漂去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水勢浩大，在地上大大地往上長，方舟在水面上漂來漂去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The waters rose very high on the earth. All the high mountains that were under the whole sky were covered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水势在地上极其浩大，天下的高山都淹没了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水勢在地上極其浩大，天下的高山都淹沒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The waters rose fifteen cubits higher, and the mountains were covered.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:20 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水势比山高过十五肘，山岭都淹没了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水勢比山高過十五肘，山嶺都淹沒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡在地上有血肉的动物，就是飞鸟、牲畜、走兽，和爬在地上的昆虫，以及所有的人，都死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡在地上有血肉的動物，就是飛鳥、牲畜、走獸，和爬在地上的昆蟲，以及所有的人，都死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "All on the dry land, in whose nostrils was the breath of the spirit of life, died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡在旱地上、鼻孔有气息的生灵都死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡在旱地上、鼻孔有氣息的生靈都死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡地上各类的活物，连人带牲畜、昆虫，以及空中的飞鸟，都从地上除灭了，只留下和那些与他同在方舟里的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡地上各類的活物，連人帶牲畜、昆蟲，以及空中的飛鳥，都從地上除滅了，只留下和那些與他同在方舟裏的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The waters flooded the earth one hundred fifty days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水势浩大，在地上共一百五十天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水勢浩大，在地上共一百五十天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

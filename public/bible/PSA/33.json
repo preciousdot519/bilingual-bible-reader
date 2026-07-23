@@ -1,0 +1,405 @@
+{
+  "bookId": "PSA",
+  "chapter": 33,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Rejoice in the LORD, you righteous! Praise is fitting for the upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人哪，你们应当靠耶和华欢乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人哪，你們應當靠耶和華歡樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Give thanks to the LORD with the lyre. Sing praises to him with the harp of ten strings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们应当弹琴称谢耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們應當彈琴稱謝耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Sing to him a new song. Play skillfully with a shout of joy!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "应当向他唱新歌，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "應當向他唱新歌，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For the LORD’s word is right. All his work is done in faithfulness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华的言语正直；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華的言語正直；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He loves righteousness and justice. The earth is full of the loving kindness of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他喜爱仁义公平；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他喜愛仁義公平；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "By the LORD’s word, the heavens were made: all their army by the breath of his mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸天借耶和华的命而造；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸天藉耶和華的命而造；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He gathers the waters of the sea together as a heap. He lays up the deeps in storehouses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他聚集海水如垒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他聚集海水如壘，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Let all the earth fear the LORD. all the inhabitants of the world stand in awe of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿全地都敬畏耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願全地都敬畏耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For he spoke, and it was done. He commanded, and it stood firm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他说有，就有，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他說有，就有，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The LORD brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使列国的筹算归于无有，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使列國的籌算歸於無有，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The counsel of the LORD stands fast forever, the thoughts of his heart to all generations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的筹算永远立定；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的籌算永遠立定；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Blessed is the nation whose God is the LORD, the people whom he has chosen for his own inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以耶和华为 神的，那国是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以耶和華為上帝的，那國是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The LORD looks from heaven. He sees all the sons of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华从天上观看；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華從天上觀看；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "From the place of his habitation he looks out on all the inhabitants of the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从他的居所往外察看地上一切的居民—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從他的居所往外察看地上一切的居民－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "he who fashions all of their hearts; and he considers all of their works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是那造成他们众人心的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是那造成他們眾人心的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "There is no king saved by the multitude of an army. A mighty man is not delivered by great strength.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "君王不能因兵多得胜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "君王不能因兵多得勝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "A horse is a vain thing for safety, neither does he deliver any by his great power.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "靠马得救是枉然的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靠馬得救是枉然的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Behold, the LORD’s eye is on those who fear him, on those who hope in his loving kindness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的眼目看顾敬畏他的人",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的眼目看顧敬畏他的人",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "to deliver their soul from death, to keep them alive in famine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要救他们的命脱离死亡，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要救他們的命脫離死亡，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Our soul has waited for the LORD. He is our help and our shield.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的心向来等候耶和华；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的心向來等候耶和華；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For our heart rejoices in him, because we have trusted in his holy name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的心必靠他欢喜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的心必靠他歡喜，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Let your loving kindness be on us, LORD, we have hoped in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你照着我们所仰望你的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你照着我們所仰望你的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

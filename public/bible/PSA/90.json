@@ -1,0 +1,325 @@
+{
+  "bookId": "PSA",
+  "chapter": 90,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Lord, you have been our dwelling place for all generations.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "90:1 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，你世世代代作我们的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，你世世代代作我們的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Before the mountains were born, before you had formed the earth and the world, even from everlasting to everlasting, you are God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸山未曾生出，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸山未曾生出，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You turn man to destruction, saying, Return, you children of men.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你使人归于尘土，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你使人歸於塵土，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For a thousand years in your sight are just like yesterday when it is past, like a watch in the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你看来，千年如已过的昨日，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你看來，千年如已過的昨日，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You sweep them away as they sleep. In the morning they sprout like new grass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你叫他们如水冲去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你叫他們如水沖去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "In the morning it sprouts and springs up. By evening, it is withered and dry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "早晨发芽生长，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "早晨發芽生長，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For we are consumed in your anger. We are troubled in your wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们因你的怒气而消灭，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們因你的怒氣而消滅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You have set our iniquities before you, our secret sins in the light of your presence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你将我们的罪孽摆在你面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你將我們的罪孽擺在你面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For all our days have passed away in your wrath. We bring our years to an end as a sigh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们经过的日子都在你震怒之下；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們經過的日子都在你震怒之下；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The days of our years are seventy, or even by reason of strength eighty years; yet their pride is but labor and sorrow, for it passes quickly, and we fly away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们一生的年日是七十岁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們一生的年日是七十歲，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Who knows the power of your anger, your wrath according to the fear that is due to you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁晓得你怒气的权势？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰曉得你怒氣的權勢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So teach us to count our days, that we may gain a heart of wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你指教我们怎样数算自己的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你指教我們怎樣數算自己的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Relent, LORD! How long? Have compassion on your servants!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "90:13 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我们要等到几时呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我們要等到幾時呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Satisfy us in the morning with your loving kindness, that we may rejoice and be glad all our days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你使我们早早饱得你的慈爱，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你使我們早早飽得你的慈愛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Make us glad for as many days as you have afflicted us, for as many years as we have seen evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你照着你使我们受苦的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你照着你使我們受苦的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Let your work appear to your servants, your glory to their children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你的作为向你仆人显现；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你的作為向你僕人顯現；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Let the favor of the Lord our God be on us. Establish the work of our hands for us. establish the work of our hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿主—我们 神的荣美归于我们身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願主－我們上帝的榮美歸於我們身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

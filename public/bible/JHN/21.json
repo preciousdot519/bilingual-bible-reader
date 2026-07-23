@@ -1,0 +1,504 @@
+{
+  "bookId": "JHN",
+  "chapter": 21,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事以后，耶稣在边又向门徒显现。他怎样显现记在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事以後，耶穌在邊又向門徒顯現。他怎樣顯現記在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Simon Peter, Thomas called Didymus, Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:2 or, Twin"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有和称为的，并的人，还有的两个儿子，又有两个门徒，都在一处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有和稱為的，並的人，還有的兩個兒子，又有兩個門徒，都在一處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Simon Peter said to them, “I’m going fishing.” They told him, “We are also coming with you.” They immediately went out and entered into the boat. That night, they caught nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说：「我打鱼去。」他们说：「我们也和你同去。」他们就出去，上了船；那一夜并没有打着什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「我打魚去。」他們說：「我們也和你同去。」他們就出去，上了船；那一夜並沒有打着甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But when day had already come, Jesus stood on the beach; yet the disciples didn’t know that it was Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天将亮的时候，耶稣站在岸上，门徒却不知道是耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天將亮的時候，耶穌站在岸上，門徒卻不知道是耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jesus therefore said to them, Children, have you anything to eat?” They answered him, “No.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就对他们说：「小子！你们有吃的没有？」他们回答说：「没有。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就對他們說：「小子！你們有吃的沒有？」他們回答說：「沒有。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He said to them, Castthe net on the right side of the boat, and you will find some.” They cast it therefore, and now they weren’t able to draw it in for the multitude of fish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们把网撒在船的右边，就必得着。」他们便撒下网去，竟拉不上来了，因为鱼甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們把網撒在船的右邊，就必得着。」他們便撒下網去，竟拉不上來了，因為魚甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "That disciple therefore whom Jesus loved said to Peter, “It’s the Lord!” So when Simon Peter heard that it was the Lord, he wrapped his coat around himself (for he was naked), and threw himself into the sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣所爱的那门徒对说：「是主！」那时赤着身子，一听见是主，就束上一件外衣，跳在海里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌所愛的那門徒對說：「是主！」那時赤着身子，一聽見是主，就束上一件外衣，跳在海裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits away), dragging the net full of fish.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:8 200 cubits is about 100 yards or about 91 meters"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的门徒离岸不远，约有二百肘，就在小船上把那网鱼拉过来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:8 古时以肘为尺，一肘约有今时尺半"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的門徒離岸不遠，約有二百肘，就在小船上把那網魚拉過來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:8 古時以肘為尺，一肘約有今時尺半"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So when they got out on the land, they saw a fire of coals there, with fish and bread laid on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们上了岸，就看见那里有炭火，上面有鱼，又有饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們上了岸，就看見那裏有炭火，上面有魚，又有餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Jesus said to them, Bringsome of the fish which you have just caught.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「把刚才打的鱼拿几条来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「把剛才打的魚拿幾條來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就去，把网拉到岸上。那网满了大鱼，共一百五十三条；鱼虽这样多，网却没有破。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:11 或译：上船"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就去，把網拉到岸上。那網滿了大魚，共一百五十三條；魚雖這樣多，網卻沒有破。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:11 或譯：上船"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jesus said to them, Comeand eat breakfast!” None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们来吃早饭。」门徒中没有一个敢问他：「你是谁？」因为知道是主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們來吃早飯。」門徒中沒有一個敢問他：「你是誰？」因為知道是主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then Jesus came and took the bread, gave it to them, and the fish likewise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就来拿饼和鱼给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就來拿餅和魚給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "This is now the third time that Jesus was revealed to his disciples after he had risen from the dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣从死里复活以后，向门徒显现，这是第三次。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌從死裏復活以後，向門徒顯現，這是第三次。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "So when they had eaten their breakfast, Jesus said to Simon Peter, Simon, son of Jonah, do you love me more than these?” He said to him, “Yes, Lord; you know that I have affection for you.” He said to him, Feedmy lambs.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们吃完了早饭，耶稣对说：「的儿子，你爱我比这些更深吗？」说：「主啊，是的，你知道我爱你。」耶稣对他说：「你喂养我的小羊。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:15 在马太十六章十七节称约拿"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們吃完了早飯，耶穌對說：「的兒子，你愛我比這些更深嗎？」說：「主啊，是的，你知道我愛你。」耶穌對他說：「你餵養我的小羊。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:15 在馬太十六章十七節稱約拿"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He said to him again a second time, Simon, son of Jonah, do you love me?” He said to him, “Yes, Lord; you know that I have affection for you.” He said to him, mysheep.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣第二次又对他说：「的儿子，你爱我吗？」说：「主啊，是的，你知道我爱你。」耶稣说：「你牧养我的羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌第二次又對他說：「的兒子，你愛我嗎？」說：「主啊，是的，你知道我愛你。」耶穌說：「你牧養我的羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He said to him the third time, Simon, son of Jonah, do you have affection for me?” Peter was grieved because he asked him the third time, Doyou have affection for me?”He said to him, “Lord, you know everything. You know that I have affection for you.” Jesus said to him, Feedmy sheep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第三次对他说：「的儿子，你爱我吗？」因为耶稣第三次对他说「你爱我吗」，就忧愁，对耶稣说：「主啊，你是无所不知的；你知道我爱你。」耶稣说：「你喂养我的羊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第三次對他說：「的兒子，你愛我嗎？」因為耶穌第三次對他說「你愛我嗎」，就憂愁，對耶穌說：「主啊，你是無所不知的；你知道我愛你。」耶穌說：「你餵養我的羊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "certainlyI tell you, when you were young, you dressed yourself and walked where you wanted to. But when you are old, you will stretch out your hands, and another will dress you and carry you where you don’ t want to go.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你，你年少的时候，自己束上，随意往来；但年老的时候，你要伸出手来，别人要把你束上，带你到不愿意去的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你，你年少的時候，自己束上，隨意往來；但年老的時候，你要伸出手來，別人要把你束上，帶你到不願意去的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now he said this, signifying by what kind of death he would glorify God. When he had said this, he said to him, Followme.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "（耶稣说这话是指着要怎样死，荣耀 神。）说了这话，就对他说：「你跟从我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "（耶穌說這話是指着要怎樣死，榮耀上帝。）說了這話，就對他說：「你跟從我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then Peter, turning around, saw a disciple following. This was the disciple whom Jesus loved, the one who had also leaned on Jesus’ chest at the supper and asked, “Lord, who is going to betray you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "转过来，看见耶稣所爱的那门徒跟着，（就是在晚饭的时候，靠着耶稣胸膛说：「主啊，卖你的是谁？」的那门徒。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "轉過來，看見耶穌所愛的那門徒跟着，（就是在晚飯的時候，靠着耶穌胸膛說：「主啊，賣你的是誰？」的那門徒。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Peter, seeing him, said to Jesus, “Lord, what about this man?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见他，就问耶稣说：「主啊，这人将来如何？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見他，就問耶穌說：「主啊，這人將來如何？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Jesus said to him, IfI desire that he stay until I come, what is that to you? You follow me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「我若要他等到我来的时候，与你何干？你跟从我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「我若要他等到我來的時候，與你何干？你跟從我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "This saying therefore went out among the brothers that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, IfI desire that he stay until I come, what is that to you?”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:23 The word for “brothers” here may be also correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是这话传在弟兄中间，说那门徒不死。其实，耶稣不是说他不死，乃是说：「我若要他等到我来的时候，与你何干？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是這話傳在弟兄中間，說那門徒不死。其實，耶穌不是說他不死，乃是說：「我若要他等到我來的時候，與你何干？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "This is the disciple who testifies about these things, and wrote these things. We know that his witness is true.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为这些事作见证，并且记载这些事的就是这门徒；我们也知道他的见证是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為這些事作見證，並且記載這些事的就是這門徒；我們也知道他的見證是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣所行的事还有许多，若是一一地都写出来，我想，所写的书就是世界也容不下了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌所行的事還有許多，若是一一地都寫出來，我想，所寫的書就是世界也容不下了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "bookId": "JHN",
+  "chapter": 19,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "So Pilate then took Jesus and flogged him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下将耶稣鞭打了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下將耶穌鞭打了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兵丁用荆棘编做冠冕戴在他头上，给他穿上紫袍，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兵丁用荊棘編做冠冕戴在他頭上，給他穿上紫袍，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They kept saying, “Hail, King of the Jews!” and they kept slapping him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又挨近他，说：「恭喜，人的王啊！」他们就用手掌打他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又挨近他，說：「恭喜，人的王啊！」他們就用手掌打他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then Pilate went out again, and said to them, “Behold, I bring him out to you, that you may know that I find no basis for a charge against him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又出来对众人说：「我带他出来见你们，叫你们知道我查不出他有什么罪来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又出來對眾人說：「我帶他出來見你們，叫你們知道我查不出他有甚麼罪來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jesus therefore came out, wearing the crown of thorns and the purple garment. Pilate said to them, “Behold, the man!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣出来，戴着荆棘冠冕，穿着紫袍。对他们说：「你们看这个人！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌出來，戴着荊棘冠冕，穿着紫袍。對他們說：「你們看這個人！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When therefore the chief priests and the officers saw him, they shouted, saying, “Crucify! Crucify!” Pilate said to them, “Take him yourselves and crucify him, for I find no basis for a charge against him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司长和差役看见他，就喊着说：「钉他十字架！钉他十字架！」说：「你们自己把他钉十字架吧！我查不出他有什么罪来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司長和差役看見他，就喊着說：「釘他十字架！釘他十字架！」說：「你們自己把他釘十字架吧！我查不出他有甚麼罪來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The Jews answered him, “We have a law, and by our law he ought to die, because he made himself the Son of God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人回答说：「我们有律法，按那律法，他是该死的，因他以自己为 神的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人回答說：「我們有律法，按那律法，他是該死的，因他以自己為上帝的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When therefore Pilate heard this saying, he was more afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听见这话，越发害怕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽見這話，越發害怕，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He entered into the Praetorium again, and said to Jesus, “Where are you from?” But Jesus gave him no answer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又进衙门，对耶稣说：「你是哪里来的？」耶稣却不回答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又進衙門，對耶穌說：「你是哪裏來的？」耶穌卻不回答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Pilate therefore said to him, “Aren’t you speaking to me? Don’t you know that I have power to release you and have power to crucify you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你不对我说话吗？你岂不知我有权柄释放你，也有权柄把你钉十字架吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你不對我說話嗎？你豈不知我有權柄釋放你，也有權柄把你釘十字架嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Jesus answered, Youwould have no power at all against me, unless it were given to you from above. Therefore he who delivered me to you has greater sin.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「若不是从上头赐给你的，你就毫无权柄办我。所以，把我交给你的那人罪更重了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「若不是從上頭賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "At this, Pilate was seeking to release him, but the Jews cried out, saying, “If you release this man, you aren’t Caesar’s friend! Everyone who makes himself a king speaks against Caesar!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从此，想要释放耶稣，无奈人喊着说：「你若释放这个人，就不是凯撒的忠臣。凡以自己为王的，就是背叛凯撒了。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:12 原文是朋友"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從此，想要釋放耶穌，無奈人喊着說：「你若釋放這個人，就不是凱撒的忠臣。凡以自己為王的，就是背叛凱撒了。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:12 原文是朋友"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When Pilate therefore heard these words, he brought Jesus out and sat down on the judgment seat at a place called “The Pavement”, but in Hebrew, “Gabbatha.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听见这话，就带耶稣出来，到了一个地方，名叫「铺华石处」，希伯来话叫，就在那里坐堂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽見這話，就帶耶穌出來，到了一個地方，名叫「鋪華石處」，希伯來話叫，就在那裏坐堂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Now it was the Preparation Day of the Passover, at about the sixth hour. He said to the Jews, “Behold, your King!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:14 “the sixth hour” would have been 6:00 a.m. according to the Roman timekeeping system, or noon for the Jewish timekeeping system in use, then."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日是预备逾越的日子，约有午正。对人说：「看哪，这是你们的王！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日是預備逾越的日子，約有午正。對人說：「看哪，這是你們的王！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "They cried out, “Away with him! Away with him! Crucify him!” Pilate said to them, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们喊着说：「除掉他！除掉他！钉他在十字架上！」说：「我可以把你们的王钉十字架吗？」祭司长回答说：「除了凯撒，我们没有王。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們喊着說：「除掉他！除掉他！釘他在十字架上！」說：「我可以把你們的王釘十字架嗎？」祭司長回答說：「除了凱撒，我們沒有王。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So then he delivered him to them to be crucified. So they took Jesus and led him away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是将耶稣交给他们去钉十字架。 （太27·32—44；可15·21—32；路23·26—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是將耶穌交給他們去釘十字架。 （太27‧32－44；可15‧21－32；路23‧26－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He went out, bearing his cross, to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就把耶稣带了去。耶稣背着自己的十字架出来，到了一个地方，名叫「髑髅地」，希伯来话叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就把耶穌帶了去。耶穌背着自己的十字架出來，到了一個地方，名叫「髑髏地」，希伯來話叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "where they crucified him, and with him two others, on either side one, and Jesus in the middle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就在那里钉他在十字架上，还有两个人和他一同钉着，一边一个，耶稣在中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就在那裏釘他在十字架上，還有兩個人和他一同釘着，一邊一個，耶穌在中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Pilate wrote a title also, and put it on the cross. There was written, “JESUS OF NAZARETH, THE KING OF THE JEWS.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又写了一个名号，安在十字架上，写的是：「人的王，人耶稣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又寫了一個名號，安在十字架上，寫的是：「人的王，人耶穌。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore many of the Jews read this title, for the place where Jesus was crucified was near the city; and it was written in Hebrew, in Latin, and in Greek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多人念这名号；因为耶稣被钉十字架的地方与城相近，并且是用、、三样文字写的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多人念這名號；因為耶穌被釘十字架的地方與城相近，並且是用、、三樣文字寫的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The chief priests of the Jews therefore said to Pilate, “Don’t write, ‘The King of the Jews,’ but, ‘he said, “I am King of the Jews.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的祭司长就对说：「不要写『人的王』，要写『他自己说：我是人的王』。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的祭司長就對說：「不要寫『人的王』，要寫『他自己說：我是人的王』。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Pilate answered, “What I have written, I have written.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我所写的，我已经写上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我所寫的，我已經寫上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the tunic. Now the tunic was without seam, woven from the top throughout.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兵丁既然将耶稣钉在十字架上，就拿他的衣服分为四分，每兵一分；又拿他的里衣，这件里衣原来没有缝儿，是上下一片织成的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兵丁既然將耶穌釘在十字架上，就拿他的衣服分為四分，每兵一分；又拿他的裏衣，這件裏衣原來沒有縫兒，是上下一片織成的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then they said to one another, “Let’s not tear it, but cast lots for it to decide whose it will be,” that the Scripture might be fulfilled, which says, They parted my garments among them. They cast lots for my clothing.” Therefore the soldiers did these things.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:24 Psalms 22:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他们就彼此说：「我们不要撕开，只要拈阄，看谁得着。」这要应验经上的话说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就彼此說：「我們不要撕開，只要拈鬮，看誰得着。」這要應驗經上的話說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But standing by Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "站在耶稣十字架旁边的，有他母亲与他母亲的姊妹，并的妻子，和的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "站在耶穌十字架旁邊的，有他母親與他母親的姊妹，並的妻子，和的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Therefore when Jesus saw his mother, and the disciple whom he loved standing there, he said to his mother, Woman, behold, your son!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣见母亲和他所爱的那门徒站在旁边，就对他母亲说：「母亲，看，你的儿子！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:26 原文是妇人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌見母親和他所愛的那門徒站在旁邊，就對他母親說：「母親，看，你的兒子！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:26 原文是婦人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Then he said to the disciple, Behold, your mother!”From that hour, the disciple took her to his own home.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对那门徒说：「看，你的母亲！」从此，那门徒就接她到自己家里去了。 （太27·45—56；可15·33—41；路23·44—49）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對那門徒說：「看，你的母親！」從此，那門徒就接她到自己家裏去了。 （太27‧45－56；可15‧33－41；路23‧44－49）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "After this, Jesus, seeing that all things were now finished, that the Scripture might be fulfilled, said, Iam thirsty!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:28 NU, TR read “knowing” instead of “seeing”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，耶稣知道各样的事已经成了，为要使经上的话应验，就说：「我渴了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，耶穌知道各樣的事已經成了，為要使經上的話應驗，就說：「我渴了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Now a vessel full of vinegar was set there; so they put a sponge full of the vinegar on hyssop, and held it at his mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个器皿盛满了醋，放在那里；他们就拿海绒蘸满了醋，绑在牛膝草上，送到他口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個器皿盛滿了醋，放在那裏；他們就拿海絨蘸滿了醋，綁在牛膝草上，送到他口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "When Jesus therefore had received the vinegar, he said, Itis finished!”Then he bowed his head and gave up his spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣尝了那醋，就说：「成了！」便低下头，将灵魂交付 了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:30 原文是受"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌嘗了那醋，就說：「成了！」便低下頭，將靈魂交付了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:30 原文是受"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken and that they might be taken away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人因这日是预备日，又因那安息日是个大日，就求叫人打断他们的腿，把他们拿去，免得尸首当安息日留在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人因這日是預備日，又因那安息日是個大日，就求叫人打斷他們的腿，把他們拿去，免得屍首當安息日留在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Therefore the soldiers came and broke the legs of the first and of the other who was crucified with him;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是兵丁来，把头一个人的腿，并与耶稣同钉第二个人的腿，都打断了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是兵丁來，把頭一個人的腿，並與耶穌同釘第二個人的腿，都打斷了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "but when they came to Jesus and saw that he was already dead, they didn’t break his legs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是来到耶稣那里，见他已经死了，就不打断他的腿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是來到耶穌那裏，見他已經死了，就不打斷他的腿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "However, one of the soldiers pierced his side with a spear, and immediately blood and water came out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有一个兵拿枪扎他的肋旁，随即有血和水流出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有一個兵拿槍扎他的肋旁，隨即有血和水流出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He who has seen has testified, and his testimony is true. He knows that he tells the truth, that you may believe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见的那人就作见证—他的见证也是真的，并且他知道自己所说的是真的—叫你们也可以信。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見的那人就作見證－他的見證也是真的，並且他知道自己所說的是真的－叫你們也可以信。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "For these things happened that the Scripture might be fulfilled, “A bone of him will not be broken.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:36 Exodus 12:46; Numbers 9:12; Psalms 34:20",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这些事成了，为要应验经上的话说：「他的骨头一根也不可折断。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事成了，為要應驗經上的話說：「他的骨頭一根也不可折斷。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Again another Scripture says, “They will look on him whom they pierced.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:37 Zechariah 12:10",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "经上又有一句说：「他们要仰望自己所扎的人。」 （太27·57—61；可15·42—47；路23·50—56）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "經上又有一句說：「他們要仰望自己所扎的人。」 （太27‧57－61；可15‧42－47；路23‧50－56）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "After these things, Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away Jesus’ body. Pilate gave him permission. He came therefore and took away his body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事以后，有人，是耶稣的门徒，只因怕人，就暗暗地作门徒。他来求，要把耶稣的身体领去。允准，他就把耶稣的身体领去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事以後，有人，是耶穌的門徒，只因怕人，就暗暗地作門徒。他來求，要把耶穌的身體領去。允准，他就把耶穌的身體領去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred Roman pounds.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:39 100 Roman pounds of 12 ounces each, or about 72 pounds, or 33 Kilograms."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有，就是先前夜里去见耶稣的，带着没药和沉香约有一百斤前来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有，就是先前夜裏去見耶穌的，帶着沒藥和沉香約有一百斤前來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "So they took Jesus’ body, and bound it in linen cloths with the spices, as the custom of the Jews is to bury.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就照人殡葬的规矩，把耶稣的身体用细麻布加上香料裹好了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就照人殯葬的規矩，把耶穌的身體用細麻布加上香料裹好了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Now in the place where he was crucified there was a garden. In the garden was a new tomb in which no man had ever yet been laid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶稣钉十字架的地方有一个园子，园子里有一座新坟墓，是从来没有葬过人的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶穌釘十字架的地方有一個園子，園子裏有一座新墳墓，是從來沒有葬過人的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Then, because of the Jews’ Preparation Day (for the tomb was near at hand), they laid Jesus there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只因是人的预备日，又因那坟墓近，他们就把耶稣安放在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只因是人的預備日，又因那墳墓近，他們就把耶穌安放在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

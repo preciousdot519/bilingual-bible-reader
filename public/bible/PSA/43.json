@@ -1,0 +1,109 @@
+{
+  "bookId": "PSA",
+  "chapter": 43,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Vindicate me, God, and plead my cause against an ungodly nation. deliver me from deceitful and wicked men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，求你伸我的冤，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，求你伸我的冤，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For you are the God of my strength. Why have you rejected me? Why do I go mourning because of the oppression of the enemy?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你是赐我力量的 神，为何丢弃我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你是賜我力量的上帝，為何丟棄我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Oh, send out your light and your truth. Let them lead me. Let them bring me to your holy hill, to your tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你发出你的亮光和真实，好引导我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你發出你的亮光和真實，好引導我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then I will go to the altar of God, to God, my exceeding joy. will praise you on the harp, God, my God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就走到 神的祭坛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就走到上帝的祭壇，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的心哪，你为何忧闷？ ，是我的 神。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 43:5 原文是帮助"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的心哪，你為何憂悶？ ，是我的上帝。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 43:5 原文是幫助"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

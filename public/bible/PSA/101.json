@@ -1,0 +1,163 @@
+{
+  "bookId": "PSA",
+  "chapter": 101,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I will sing of loving kindness and justice. To you, LORD, I will sing praises.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要歌唱慈爱和公平；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要歌唱慈愛和公平；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will be careful to live a blameless life. When will you come to me? I will walk within my house with a blameless heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要用智慧行完全的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要用智慧行完全的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I will set no vile thing before my eyes. I hate the deeds of faithless men. They will not cling to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邪僻的事，我都不摆在我眼前；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "邪僻的事，我都不擺在我眼前；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "A perverse heart will be far from me. I will have nothing to do with evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弯曲的心思，我必远离； ，我不认识。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 101:4 或译：恶事"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彎曲的心思，我必遠離； ，我不認識。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 101:4 或譯：惡事"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I will silence whoever secretly slanders his neighbor. I won’t tolerate one who is arrogant and conceited.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在暗中谗谤他邻居的，我必将他灭绝；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在暗中讒謗他鄰居的，我必將他滅絕；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "My eyes will be on the faithful of the land, that they may dwell with me. He who walks in a perfect way, he will serve me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我眼要看国中的诚实人，叫他们与我同住；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我眼要看國中的誠實人，叫他們與我同住；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He who practices deceit won’t dwell within my house. He who speaks falsehood won’t be established before my eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行诡诈的，必不得住在我家里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行詭詐的，必不得住在我家裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Morning by morning, I will destroy all the wicked of the land, to cut off all the workers of iniquity from the LORD’s city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我每日早晨要灭绝国中所有的恶人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我每日早晨要滅絕國中所有的惡人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

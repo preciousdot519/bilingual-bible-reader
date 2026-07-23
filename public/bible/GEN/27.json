@@ -1,0 +1,837 @@
+{
+  "bookId": "GEN",
+  "chapter": 27,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said to him, “My son?” He said to him, “Here I am.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "年老，眼睛昏花，不能看见，就叫了他大儿子来，说：「我儿。」说：「我在这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "年老，眼睛昏花，不能看見，就叫了他大兒子來，說：「我兒。」說：「我在這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said, “See now, I am old. I don’t know the day of my death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「我如今老了，不知道哪一天死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「我如今老了，不知道哪一天死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Now therefore, please take your weapons, your quiver and your bow, and go out to the field, and get me venison.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在拿你的器械，就是箭囊和弓，往田野去为我打猎，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在拿你的器械，就是箭囊和弓，往田野去為我打獵，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Make me savory food, such as I love, and bring it to me, that I may eat, and that my soul may bless you before I die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照我所爱的做成美味，拿来给我吃，使我在未死之先给你祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照我所愛的做成美味，拿來給我吃，使我在未死之先給你祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Rebekah heard when Isaac spoke to Esau his son. Esau went to the field to hunt for venison, and to bring it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他儿子说话，也听见了。往田野去打猎，要得野味带来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他兒子說話，也聽見了。往田野去打獵，要得野味帶來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Rebekah spoke to Jacob her son, saying, “Behold, I heard your father speak to Esau your brother, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对她儿子说：「我听见你父亲对你哥哥说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對她兒子說：「我聽見你父親對你哥哥說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "‘Bring me venison, and make me savory food, that I may eat, and bless you before the LORD before my death.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『你去把野兽带来，做成美味给我吃，我好在未死之先，在耶和华面前给你祝福。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『你去把野獸帶來，做成美味給我吃，我好在未死之先，在耶和華面前給你祝福。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Now therefore, my son, obey my voice according to that which I command you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在，我儿，你要照着我所吩咐你的，听从我的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在，我兒，你要照着我所吩咐你的，聽從我的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Go now to the flock and get me two good young goats from there. I will make them savory food for your father, such as he loves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你到羊群里去，给我拿两只肥山羊羔来，我便照你父亲所爱的给他做成美味。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你到羊群裏去，給我拿兩隻肥山羊羔來，我便照你父親所愛的給他做成美味。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall bring it to your father, that he may eat, so that he may bless you before his death.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你拿到你父亲那里给他吃，使他在未死之先给你祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你拿到你父親那裏給他吃，使他在未死之先給你祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Jacob said to Rebekah his mother, “Behold, Esau my brother is a hairy man, and I am a smooth man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他母亲说：「我哥哥浑身是有毛的，我身上是光滑的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他母親說：「我哥哥渾身是有毛的，我身上是光滑的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "What if my father touches me? I will seem to him as a deceiver, and I would bring a curse on myself, and not a blessing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若我父亲摸着我，必以我为欺哄人的，我就招咒诅，不得祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若我父親摸着我，必以我為欺哄人的，我就招咒詛，不得祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "His mother said to him, “Let your curse be on me, my son. Only obey my voice, and go get them for me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他母亲对他说：「我儿，你招的咒诅归到我身上；你只管听我的话，去把羊羔给我拿来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他母親對他說：「我兒，你招的咒詛歸到我身上；你只管聽我的話，去把羊羔給我拿來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He went, and got them, and brought them to his mother. His mother made savory food, such as his father loved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他便去拿来，交给他母亲；他母亲就照他父亲所爱的做成美味。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他便去拿來，交給他母親；他母親就照他父親所愛的做成美味。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Rebekah took the good clothes of Esau, her elder son, which were with her in the house, and put them on Jacob, her younger son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又把家里所存大儿子上好的衣服给她小儿子穿上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又把家裏所存大兒子上好的衣服給她小兒子穿上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "She put the skins of the young goats on his hands, and on the smooth of his neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用山羊羔皮包在的手上和颈项的光滑处，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用山羊羔皮包在的手上和頸項的光滑處，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "She gave the savory food and the bread, which she had prepared, into the hand of her son Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就把所做的美味和饼交在她儿子的手里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就把所做的美味和餅交在她兒子的手裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He came to his father, and said, “My father?” He said, “Here I am. Who are you, my son?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到他父亲那里说：「我父亲！」他说：「我在这里。我儿，你是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到他父親那裏說：「我父親！」他說：「我在這裏。我兒，你是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Jacob said to his father, “I am Esau your firstborn. I have done what you asked me to do. Please arise, sit and eat of my venison, that your soul may bless me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他父亲说：「我是你的长子；我已照你所吩咐我的行了。请起来坐着，吃我的野味，好给我祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他父親說：「我是你的長子；我已照你所吩咐我的行了。請起來坐着，吃我的野味，好給我祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Isaac said to his son, “How is it that you have found it so quickly, my son?” He said, “Because the LORD your God gave me success.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他儿子说：「我儿，你如何找得这么快呢？」他说：「因为耶和华—你的 神使我遇见好机会得着的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他兒子說：「我兒，你如何找得這麼快呢？」他說：「因為耶和華－你的上帝使我遇見好機會得着的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Isaac said to Jacob, “Please come near, that I may feel you, my son, whether you are really my son Esau or not.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我儿，你近前来，我摸摸你，知道你真是我的儿子不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我兒，你近前來，我摸摸你，知道你真是我的兒子不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Jacob went near to Isaac his father. He felt him, and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就挨近他父亲。摸着他，说：「声音是的声音，手却是的手。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就挨近他父親。摸着他，說：「聲音是的聲音，手卻是的手。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He didn’t recognize him, because his hands were hairy, like his brother Esau’s hands. So he blessed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就辨不出他来；因为他手上有毛，像他哥哥的手一样，就给他祝福；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就辨不出他來；因為他手上有毛，像他哥哥的手一樣，就給他祝福；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He said, “Are you really my son Esau?” He said, “I am.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「你真是我儿子吗？」他说：「我是。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「你真是我兒子嗎？」他說：「我是。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He said, “Bring it near to me, and I will eat of my son’s venison, that my soul may bless you.” He brought it near to him, and he ate. He brought him wine, and he drank.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你递给我，我好吃我儿子的野味，给你祝福。」就递给他，他便吃了，又拿酒给他，他也喝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你遞給我，我好吃我兒子的野味，給你祝福。」就遞給他，他便吃了，又拿酒給他，他也喝了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "His father Isaac said to him, “Come near now, and kiss me, my son.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲对他说：「我儿，你上前来与我亲嘴。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親對他說：「我兒，你上前來與我親嘴。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He came near, and kissed him. He smelled the smell of his clothing, and blessed him, and said, Behold, the smell of my son is as the smell of a field which the LORD has blessed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就上前与父亲亲嘴。他父亲一闻他衣服上的香气，就给他祝福，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就上前與父親親嘴。他父親一聞他衣服上的香氣，就給他祝福，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "God give you of the dew of the sky, of the fatness of the earth, and plenty of grain and new wine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿 神赐你天上的甘露，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願上帝賜你天上的甘露，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Let peoples serve you, and nations bow down to you. Be lord over your brothers. your mother’s sons bow down to you. Cursed be everyone who curses you. Blessed be everyone who blesses you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿多民事奉你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願多民事奉你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "As soon as Isaac had finished blessing Jacob, and Jacob had just gone out from the presence of Isaac his father, Esau his brother came in from his hunting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为祝福已毕，从他父亲那里才出来，他哥哥正打猎回来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為祝福已畢，從他父親那裏才出來，他哥哥正打獵回來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He also made savory food, and brought it to his father. He said to his father, “Let my father arise, and eat of his son’s venison, that your soul may bless me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也做了美味，拿来给他父亲，说：「请父亲起来，吃你儿子的野味，好给我祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也做了美味，拿來給他父親，說：「請父親起來，吃你兒子的野味，好給我祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Isaac his father said to him, “Who are you?” He said, “I am your son, your firstborn, Esau.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲对他说：「你是谁？」他说：「我是你的长子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親對他說：「你是誰？」他說：「我是你的長子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Isaac trembled violently, and said, “Who, then, is he who has taken venison, and brought it to me, and I have eaten of all before you came, and have blessed him? Yes, he will be blessed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就大大地战兢，说：「你未来之先，是谁得了野味拿来给我呢？我已经吃了，为他祝福；他将来也必蒙福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就大大地戰兢，說：「你未來之先，是誰得了野味拿來給我呢？我已經吃了，為他祝福；他將來也必蒙福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "When Esau heard the words of his father, he cried with an exceedingly great and bitter cry, and said to his father, “Bless me, even me also, my father.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听了他父亲的话，就放声痛哭，说：「我父啊，求你也为我祝福！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽了他父親的話，就放聲痛哭，說：「我父啊，求你也為我祝福！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He said, “Your brother came with deceit, and has taken away your blessing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你兄弟已经用诡计来将你的福分夺去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你兄弟已經用詭計來將你的福分奪去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He said, “Isn’t he rightly named Jacob? For he has supplanted me these two times. He took away my birthright. See, now he has taken away my blessing.” He said, “Haven’t you reserved a blessing for me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「他名，岂不是正对吗？因为他欺骗了我两次：他从前夺了我长子的名分，你看，他现在又夺了我的福分。」又说：「你没有留下为我可祝的福吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「他名，豈不是正對嗎？因為他欺騙了我兩次：他從前奪了我長子的名分，你看，他現在又奪了我的福分。」又說：「你沒有留下為我可祝的福嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Isaac answered Esau, “Behold, I have made him your lord, and all his brothers I have given to him for servants. I have sustained him with grain and new wine. What then will I do for you, my son?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "回答说：「我已立他为你的主，使他的弟兄都给他作仆人，并赐他五谷新酒可以养生。我儿，现在我还能为你做什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "回答說：「我已立他為你的主，使他的弟兄都給他作僕人，並賜他五穀新酒可以養生。我兒，現在我還能為你做甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Esau said to his father, “Do you have just one blessing, my father? Bless me, even me also, my father.” Esau lifted up his voice, and wept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他父亲说：「父啊，你只有一样可祝的福吗？我父啊，求你也为我祝福！」就放声而哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他父親說：「父啊，你只有一樣可祝的福嗎？我父啊，求你也為我祝福！」就放聲而哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Isaac his father answered him, Behold, your dwelling will be of the fatness of the earth, and of the dew of the sky from above.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "You will live by your sword, and you will serve your brother. It will happen, when you will break loose, that you will shake his yoke from off your neck.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必倚靠刀剑度日，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必倚靠刀劍度日，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Esau hated Jacob because of the blessing with which his father blessed him. Esau said in his heart, “The days of mourning for my father are at hand. Then I will kill my brother Jacob.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他父亲给祝的福，就怨恨，心里说：「为我父亲居丧的日子近了，到那时候，我要杀我的兄弟。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他父親給祝的福，就怨恨，心裏說：「為我父親居喪的日子近了，到那時候，我要殺我的兄弟。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The words of Esau, her elder son, were told to Rebekah. She sent and called Jacob, her younger son, and said to him, “Behold, your brother Esau comforts himself about you by planning to kill you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人把大儿子的话告诉，她就打发人去，叫了她小儿子来，对他说：「你哥哥杀你，报仇雪恨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人把大兒子的話告訴，她就打發人去，叫了她小兒子來，對他說：「你哥哥殺你，報仇雪恨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Now therefore, my son, obey my voice. Arise, flee to Laban, my brother, in Haran.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在，我儿，你要听我的话：起来，逃往、我哥哥那里去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在，我兒，你要聽我的話：起來，逃往、我哥哥那裏去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Stay with him a few days, until your brother’s fury turns away—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同他住些日子，直等你哥哥的怒气消了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同他住些日子，直等你哥哥的怒氣消了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send, and get you from there. Why should I be bereaved of you both in one day?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你哥哥向你消了怒气，忘了你向他所做的事，我便打发人去把你从那里带回来。为什么一日丧你们二人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你哥哥向你消了怒氣，忘了你向他所做的事，我便打發人去把你從那裏帶回來。為甚麼一日喪你們二人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Rebekah said to Isaac, “I am weary of my life because of the daughters of Heth. If Jacob takes a wife of the daughters of Heth, such as these, of the daughters of the land, what good will my life do me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我因这人的女子连性命都厌烦了；倘若也娶人的女子为妻，像这些一样，我活着还有什么益处呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我因這人的女子連性命都厭煩了；倘若也娶人的女子為妻，像這些一樣，我活着還有甚麼益處呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

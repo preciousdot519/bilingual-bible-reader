@@ -1,0 +1,232 @@
+{
+  "bookId": "PSA",
+  "chapter": 16,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Preserve me, God, for I take refuge in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，求你保佑我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，求你保佑我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "My soul, you have said to the LORD, “You are my Lord. from you I have no good thing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "，你曾对耶和华说：你是我的主；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "，你曾對耶和華說：你是我的主；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "As for the saints who are on the earth, they are the excellent ones in whom is all my delight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到世上的圣民，他们又美又善，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到世上的聖民，他們又美又善，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Their sorrows shall be multiplied who give gifts to another god. Their drink offerings of blood I will not offer, nor take their names on my lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以别代替的，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:4 或译：送礼物给别神的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以別代替的，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:4 或譯：送禮物給別神的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD assigned my portion and my cup. made my lot secure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华是我的产业，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華是我的產業，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The lines have fallen to me in pleasant places. I have a good inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用绳量给我的地界，坐落在佳美之处；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用繩量給我的地界，坐落在佳美之處；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I will bless the LORD, who has given me counsel. my heart instructs me in the night seasons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必称颂那指教我的耶和华；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必稱頌那指教我的耶和華；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I have set the LORD always before me. Because he is at my right hand, I shall not be moved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将耶和华常摆在我面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將耶和華常擺在我面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Therefore my heart is glad, and my tongue rejoices. My body shall also dwell in safety.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我的心欢喜，我的灵快乐；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:9 原文是荣耀"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我的心歡喜，我的靈快樂；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:9 原文是榮耀"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For you will not leave my soul in Sheol, neither will you allow your holy one to see corruption.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:10 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你必不将我的灵魂撇在阴间，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你必不將我的靈魂撇在陰間，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必将生命的道路指示我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必將生命的道路指示我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

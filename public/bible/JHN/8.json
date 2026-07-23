@@ -1,0 +1,1121 @@
+{
+  "bookId": "JHN",
+  "chapter": 8,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "but Jesus went to the Mount of Olives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是各人都回家去了；耶稣却往去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是各人都回家去了；耶穌卻往去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Now very early in the morning, he came again into the temple, and all the people came to him. He sat down and taught them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "清早又回到殿里。众百姓都到他那里去，他就坐下，教训他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "清早又回到殿裏。眾百姓都到他那裏去，他就坐下，教訓他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The scribes and the Pharisees brought a woman taken in adultery. Having set her in the middle,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "文士和法利赛人带着一个行淫时被拿的妇人来，叫她站在当中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "文士和法利賽人帶着一個行淫時被拿的婦人來，叫她站在當中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "they told him, “Teacher, we found this woman in adultery, in the very act.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对耶稣说：「夫子，这妇人是正行淫之时被拿的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對耶穌說：「夫子，這婦人是正行淫之時被拿的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Now in our law, Moses commanded us to stone such women. What then do you say about her?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "8:5 Leviticus 20:10; Deuteronomy 22:22",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "在律法上吩咐我们把这样的妇人用石头打死。你说该把她怎么样呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在律法上吩咐我們把這樣的婦人用石頭打死。你說該把她怎麼樣呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They said this testing him, that they might have something to accuse him of. But Jesus stooped down and wrote on the ground with his finger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说这话，乃试探耶稣，要得着告他的把柄。耶稣却弯着腰，用指头在地上画字。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說這話，乃試探耶穌，要得着告他的把柄。耶穌卻彎着腰，用指頭在地上畫字。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But when they continued asking him, he looked up and said to them, Hewho is without sin among you, let him throw the first stone at her.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们还是不住地问他，耶稣就直起腰来，对他们说：「你们中间谁是没有罪的，谁就可以先拿石头打她。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們還是不住地問他，耶穌就直起腰來，對他們說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Again he stooped down and wrote on the ground with his finger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是又弯着腰，用指头在地上画字。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是又彎着腰，用指頭在地上畫字。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们听见这话，就从老到少，一个一个地都出去了，只剩下耶稣一人，还有那妇人仍然站在当中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們聽見這話，就從老到少，一個一個地都出去了，只剩下耶穌一人，還有那婦人仍然站在當中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Jesus, standing up, saw her and said, Woman, where are your accusers? Did no one condemn you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就直起腰来，对她说：「妇人，那些人在哪里呢？没有人定你的罪吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就直起腰來，對她說：「婦人，那些人在哪裏呢？沒有人定你的罪嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "She said, “No one, Lord.” Jesus said, Neitherdo I condemn you. Go your way. From now on, sin no more.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:11 NU includes John 7:53–John 8:11, but puts brackets around it to indicate that the textual critics had less confidence that this was original."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她说：「主啊，没有。」耶稣说：「我也不定你的罪。去吧，从此不要再犯罪了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她說：「主啊，沒有。」耶穌說：「我也不定你的罪。去吧，從此不要再犯罪了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Again, therefore, Jesus spoke to them, saying, Iam the light of the world. Hewho follows me will not walk in the darkness, but will have the light of life.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "8:12 Isaiah 60:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣又对众人说：「我是世界的光。跟从我的，就不在黑暗里走，必要得着生命的光。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對眾人說：「我是世界的光。跟從我的，就不在黑暗裏走，必要得着生命的光。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The Pharisees therefore said to him, “You testify about yourself. Your testimony is not valid.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人对他说：「你是为自己作见证，你的见证不真。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人對他說：「你是為自己作見證，你的見證不真。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Jesus answered them, Evenif I testify about myself, my testimony is true, for I know where I came from, and where I am going; but you don’ t know where I came from, or where I am going.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我虽然为自己作见证，我的见证还是真的；因我知道我从哪里来，往哪里去；你们却不知道我从哪里来，往哪里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我雖然為自己作見證，我的見證還是真的；因我知道我從哪裏來，往哪裏去；你們卻不知道我從哪裏來，往哪裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Youjudge according to the flesh. I judge no one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们是以外貌判断人，我却不判断人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:15 原文是凭肉身"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們是以外貌判斷人，我卻不判斷人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:15 原文是憑肉身"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Evenif I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是判断人，我的判断也是真的；因为不是我独自在这里，还有差我来的父与我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是判斷人，我的判斷也是真的；因為不是我獨自在這裏，還有差我來的父與我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "It’s also written in your law that the testimony of two people is valid.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "8:17 Deuteronomy 17:6; 19:15",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你们的律法上也记着说：『两个人的见证是真的。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的律法上也記着說：『兩個人的見證是真的。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Iam one who testifies about myself, and the Father who sent me testifies about me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是为自己作见证，还有差我来的父也是为我作见证。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是為自己作見證，還有差我來的父也是為我作見證。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They said therefore to him, “Where is your Father?” Jesus answered, Youknow neither me nor my Father. If you knew me, you would know my Father also.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就问他说：「你的父在哪里？」耶稣回答说：「你们不认识我，也不认识我的父；若是认识我，也就认识我的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就問他說：「你的父在哪裏？」耶穌回答說：「你們不認識我，也不認識我的父；若是認識我，也就認識我的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Jesus spoke these words in the treasury, as he taught in the temple. Yet no one arrested him, because his hour had not yet come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些话是耶稣在殿里的库房、教训人时所说的，也没有人拿他，因为他的时候还没有到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些話是耶穌在殿裏的庫房、教訓人時所說的，也沒有人拿他，因為他的時候還沒有到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jesus said therefore again to them, Iam going away, and you will seek me, and you will die in your sins. Where I go, you can’t come.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对他们说：「我要去了，你们要找我，并且你们要死在罪中。我所去的地方，你们不能到。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對他們說：「我要去了，你們要找我，並且你們要死在罪中。我所去的地方，你們不能到。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The Jews therefore said, “Will he kill himself, because he says, WhereI am going, you can’t come’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人说：「他说『我所去的地方，你们不能到』，难道他要自尽吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人說：「他說『我所去的地方，你們不能到』，難道他要自盡嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said to them, Youare from beneath. I am from above. You are of this world. I am not of this world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们是从下头来的，我是从上头来的；你们是属这世界的，我不是属这世界的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們是從下頭來的，我是從上頭來的；你們是屬這世界的，我不是屬這世界的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Isaid therefore to you that you will die in your sins; for unless you believe that I am he, you will die in your sins.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:24 or, I AM"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我对你们说，你们要死在罪中。你们若不信我是，必要死在罪中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我對你們說，你們要死在罪中。你們若不信我是，必要死在罪中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They said therefore to him, “Who are you?” Jesus said to them, Justwhat I have been saying to you from the beginning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就问他说：「你是谁？」耶稣对他们说：「就是我从起初所告诉你们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就問他說：「你是誰？」耶穌對他們說：「就是我從起初所告訴你們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Ihave many things to speak and to judge concerning you. However, he who sent me is true; and the things which I heard from him, these I say to the world.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我有许多事讲论你们，判断你们；但那差我来的是真的，我在他那里所听见的，我就传给世人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我有許多事講論你們，判斷你們；但那差我來的是真的，我在他那裏所聽見的，我就傳給世人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They didn’t understand that he spoke to them about the Father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不明白耶稣是指着父说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不明白耶穌是指着父說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Jesus therefore said to them, Whenyou have lifted up the Son of Man, then you will know that I am he, and I do nothing of myself, but as my Father taught me, I say these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶稣说：「你们举起人子以后，必知道我是，并且知道我没有一件事是凭着自己做的。我说这些话乃是照着父所教训我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶穌說：「你們舉起人子以後，必知道我是，並且知道我沒有一件事是憑着自己做的。我說這些話乃是照着父所教訓我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Hewho sent me is with me. The Father hasn’ t left me alone, for I always do the things that are pleasing to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那差我来的是与我同在；他没有撇下我独自在这里，因为我常做他所喜悦的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那差我來的是與我同在；他沒有撇下我獨自在這裏，因為我常做他所喜悅的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "As he spoke these things, many believed in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说这话的时候，就有许多人信他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說這話的時候，就有許多人信他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Jesus therefore said to those Jews who had believed him, Ifyou remain in my word, then you are truly my disciples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对信他的人说：「你们若常常遵守我的道，就真是我的门徒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對信他的人說：「你們若常常遵守我的道，就真是我的門徒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Youwill know the truth, and the truth will make you free.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "8:32 Psalms 119:45",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你们必晓得真理，真理必叫你们得以自由。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們必曉得真理，真理必叫你們得以自由。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They answered him, “We are Abraham’s offspring, and have never been in bondage to anyone. How do you say, Youwill be made free’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们回答说：「我们是的后裔，从来没有作过谁的奴仆。你怎么说『你们必得以自由』呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們回答說：「我們是的後裔，從來沒有作過誰的奴僕。你怎麼說『你們必得以自由』呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Jesus answered them, Itell you, everyone who commits sin is the bondservant of sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我实实在在地告诉你们，所有犯罪的就是罪的奴仆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我實實在在地告訴你們，所有犯罪的就是罪的奴僕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Abondservant doesn’ t live in the house forever. A son remains forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奴仆不能永远住在家里；儿子是永远住在家里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奴僕不能永遠住在家裏；兒子是永遠住在家裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Iftherefore the Son makes you free, you will be free indeed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以儿子若叫你们自由，你们就真自由了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以兒子若叫你們自由，你們就真自由了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Iknow that you are Abraham’s offspring, yet you seek to kill me, because my word finds no place in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道你们是的子孙，你们却想要杀我，因为你们心里容不下我的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道你們是的子孫，你們卻想要殺我，因為你們心裏容不下我的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Isay the things which I have seen with my Father; and you also do the things which you have seen with your father.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所说的是在我父那里看见的；你们所行的是在你们的父那里听见的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所說的是在我父那裏看見的；你們所行的是在你們的父那裏聽見的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "They answered him, “Our father is Abraham.” Jesus said to them, Ifyou were Abraham’s children, you would do the works of Abraham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「我们的父就是。」耶稣说：「你们若是的儿子，就必行所行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「我們的父就是。」耶穌說：「你們若是的兒子，就必行所行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Butnow you seek to kill me, a man who has told you the truth which I heard from God. Abraham didn’t do this.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将在 神那里所听见的真理告诉了你们，现在你们却想要杀我，这不是所行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將在上帝那裏所聽見的真理告訴了你們，現在你們卻想要殺我，這不是所行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Youdo the works of your father.” They said to him, “We were not born of sexual immorality. We have one Father, God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们是行你们父所行的事。」他们说：「我们不是从淫乱生的；我们只有一位父，就是 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們是行你們父所行的事。」他們說：「我們不是從淫亂生的；我們只有一位父，就是上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Therefore Jesus said to them, IfGod were your father, you would love me, for I came out and have come from God. For I haven’ t come of myself, but he sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「倘若 神是你们的父，你们就必爱我；因为我本是出于 神，也是从 神而来，并不是由着自己来，乃是他差我来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「倘若上帝是你們的父，你們就必愛我；因為我本是出於上帝，也是從上帝而來，並不是由着自己來，乃是他差我來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Whydon’ t you understand my speech? Because you can’t hear my word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们为什么不明白我的话呢？无非是因你们不能听我的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們為甚麼不明白我的話呢？無非是因你們不能聽我的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Youare of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’ t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们是出于你们的父魔鬼，你们父的私欲你们偏要行。他从起初是杀人的，不守真理，因他心里没有真理。他说谎是出于自己；因他本来是说谎的，也是说谎之人的父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們是出於你們的父魔鬼，你們父的私慾你們偏要行。他從起初是殺人的，不守真理，因他心裏沒有真理。他說謊是出於自己；因他本來是說謊的，也是說謊之人的父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Butbecause I tell the truth, you don’ t believe me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将真理告诉你们，你们就因此不信我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將真理告訴你們，你們就因此不信我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Whichof you convicts me of sin? If I tell the truth, why do you not believe me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间谁能指证我有罪呢？我既然将真理告诉你们，为什么不信我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間誰能指證我有罪呢？我既然將真理告訴你們，為甚麼不信我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Hewho is of God hears the words of God. For this cause you don’ t hear, because you are not of God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "出于 神的，必听 神的话；你们不听，因为你们不是出于 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "出於上帝的，必聽上帝的話；你們不聽，因為你們不是出於上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Then the Jews answered him, “Don’t we say well that you are a Samaritan, and have a demon?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人回答说：「我们说你是人，并且是鬼附着的，这话岂不正对吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人回答說：「我們說你是人，並且是鬼附着的，這話豈不正對嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Jesus answered, Idon’ t have a demon, but I honor my Father and you dishonor me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我不是鬼附着的；我尊敬我的父，你们倒轻慢我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我不是鬼附着的；我尊敬我的父，你們倒輕慢我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "ButI don’ t seek my own glory. There is one who seeks and judges.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不求自己的荣耀，有一位求、定是非的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不求自己的榮耀，有一位求、定是非的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "certainly, I tell you, if a person keeps my word, he will never see death.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你们，人若遵守我的道，就永远不见死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你們，人若遵守我的道，就永遠不見死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "Then the Jews said to him, “Now we know that you have a demon. Abraham died, as did the prophets; and you say, Ifa man keeps my word, he will never taste of death.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人对他说：「现在我们知道你是鬼附着的。死了，众先知也死了，你还说：『人若遵守我的道，就永远不尝死味。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人對他說：「現在我們知道你是鬼附着的。死了，眾先知也死了，你還說：『人若遵守我的道，就永遠不嘗死味。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "Are you greater than our father Abraham, who died? The prophets died. Who do you make yourself out to be?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "难道你比我们的祖宗还大吗？他死了，众先知也死了，你将自己当作什么人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "難道你比我們的祖宗還大嗎？他死了，眾先知也死了，你將自己當作甚麼人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "Jesus answered, IfI glorify myself, my glory is nothing. It is my Father who glorifies me, of whom you say that he is our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我若荣耀自己，我的荣耀就算不得什么；荣耀我的乃是我的父，就是你们所说是你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我若榮耀自己，我的榮耀就算不得甚麼；榮耀我的乃是我的父，就是你們所說是你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "Youhave not known him, but I know him. If I said, ‘I don’ t know him,’ I would be like you, a liar. But I know him and keep his word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们未曾认识他；我却认识他。我若说不认识他，我就是说谎的，像你们一样；但我认识他，也遵守他的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們未曾認識他；我卻認識他。我若說不認識他，我就是說謊的，像你們一樣；但我認識他，也遵守他的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "Yourfather Abraham rejoiced to see my day. He saw it and was glad.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们的祖宗欢欢喜喜地仰望我的日子，既看见了就快乐。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的祖宗歡歡喜喜地仰望我的日子，既看見了就快樂。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "The Jews therefore said to him, “You are not yet fifty years old! Have you seen Abraham?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人说：「你还没有五十岁，岂见过呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人說：「你還沒有五十歲，豈見過呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "Jesus said to them, Itell you, before Abraham came into existence, I AM.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "8:58 Exodus 3:14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我实实在在地告诉你们，还没有就有了我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我實實在在地告訴你們，還沒有就有了我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "Therefore they took up stones to throw at him, but Jesus hid himself and went out of the temple, having gone through the middle of them, and so passed by.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们拿石头要打他；耶稣却躲藏，从殿里出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們拿石頭要打他；耶穌卻躲藏，從殿裏出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

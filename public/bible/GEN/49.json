@@ -1,0 +1,633 @@
+{
+  "bookId": "GEN",
+  "chapter": 49,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫了他的儿子们来，说：「你们都来聚集，我好把你们日后必遇的事告诉你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫了他的兒子們來，說：「你們都來聚集，我好把你們日後必遇的事告訴你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Assemble yourselves, and hear, you sons of Jacob. Listen to Israel, your father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子们，你们要聚集而听， 的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子們，你們要聚集而聽， 的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Reuben, you are my firstborn, my might, and the beginning of my strength, in dignity, and excelling in power.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哪，你是我的长子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哪，你是我的長子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Boiling over like water, you shall not excel, because you went up to your father’s bed, then defiled it. He went up to my couch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你滚沸如水，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你滾沸如水，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Simeon and Levi are brothers. swords are weapons of violence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和是弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和是弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "My soul, don’t come into their council. My glory, don’t be united to their assembly; for in their anger they killed men. In their self-will they hamstrung cattle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的灵啊，不要与他们同谋；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的靈啊，不要與他們同謀；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Cursed be their anger, for it was fierce; and their wrath, for it was cruel. I will divide them in Jacob, and scatter them in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的怒气暴烈可咒； ， 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的怒氣暴烈可咒； ， 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Judah, your brothers will praise you. Your hand will be on the neck of your enemies. Your father’s sons will bow down before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "啊，你弟兄们必赞美你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "啊，你弟兄們必讚美你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Judah is a lion’s cub. From the prey, my son, you have gone up. He stooped down, he crouched as a lion, as a lioness. Who will rouse him up?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是个小狮子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是個小獅子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The scepter will not depart from Judah, nor the ruler’s staff from between his feet, until he comes to whom it belongs. The obedience of the peoples will be to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圭必不离， 来到，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:10 就是赐平安者"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "圭必不離， 來到，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:10 就是賜平安者"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Binding his foal to the vine, his donkey’s colt to the choice vine, he has washed his garments in wine, his robes in the blood of grapes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把小驴拴在葡萄树上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把小驢拴在葡萄樹上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "His eyes will be red with wine, his teeth white with milk.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的眼睛必因酒红润；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的眼睛必因酒紅潤；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Zebulun will dwell at the haven of the sea. He will be for a haven of ships. His border will be on Sidon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必住在海口， 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必住在海口， 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Issachar is a strong donkey, lying down between the saddlebags.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是个强壮的驴，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是個強壯的驢，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He saw a resting place, that it was good, the land, that it was pleasant. He bows his shoulder to the burden, and becomes a servant doing forced labor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他以安静为佳，以肥地为美，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他以安靜為佳，以肥地為美，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Dan will judge his people, as one of the tribes of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必判断他的民， 支派之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必判斷他的民， 支派之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Dan will be a serpent on the trail, an adder in the path, that bites the horse’s heels, so that his rider falls backward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必作道上的蛇，路中的虺，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必作道上的蛇，路中的虺，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I have waited for your salvation, LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我向来等候你的救恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我向來等候你的救恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“A troop will press on Gad, but he will press on their heel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必被敌军追逼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必被敵軍追逼，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Asher’s food will be rich. He will produce royal dainties.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "之地必出肥美的粮食，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "之地必出肥美的糧食，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Naphtali is a doe set free, beautiful fawns.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是被释放的母鹿；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是被釋放的母鹿；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Joseph is a fruitful vine, a fruitful vine by a spring. His branches run over the wall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是多结果子的树枝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是多結果子的樹枝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The archers have severely grieved him, shot at him, and persecuted him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弓箭手将他苦害，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弓箭手將他苦害，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But his bow remained strong. The arms of his hands were made strong, by the hands of the Mighty One of Jacob, from there is the shepherd, the stone of Israel),",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但他的弓仍旧坚硬； 的牧者，的磐石— 的大能者。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他的弓仍舊堅硬； 的牧者，的磐石－ 的大能者。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "even by the God of your father, who will help you, by the Almighty, who will bless you, with blessings of heaven above, blessings of the deep that lies below, blessings of the breasts, and of the womb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你父亲的 神必帮助你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你父親的上帝必幫助你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The blessings of your father have prevailed above the blessings of my ancestors, above the boundaries of the ancient hills. They will be on the head of Joseph, on the crown of the head of him who is separated from his brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你父亲所祝的福 的头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你父親所祝的福 的頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Benjamin is a ravenous wolf. In the morning he will devour the prey. At evening he will divide the plunder.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是个撕掠的狼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是個撕掠的狼，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "All these are the twelve tribes of Israel, and this is what their father spoke to them, and blessed them. He blessed everyone according to his own blessing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一切是的十二支派；这也是他们的父亲对他们所说的话，为他们所祝的福，都是按着各人的福分为他们祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一切是的十二支派；這也是他們的父親對他們所說的話，為他們所祝的福，都是按着各人的福分為他們祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He instructed them, and said to them, “I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又嘱咐他们说：「我将要归到我列祖那里，你们要将我葬在人田间的洞里，与我祖我父在一处，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:29 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又囑咐他們說：「我將要歸到我列祖那裏，你們要將我葬在人田間的洞裏，與我祖我父在一處，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:29 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as a burial place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是在地前、田间的洞；那洞和田是向人买来为业，作坟地的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是在地前、田間的洞；那洞和田是向人買來為業，作墳地的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife, and there I buried Leah:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在那里葬了和他妻子，又在那里葬了和他的妻子；我也在那里葬了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在那裏葬了和他妻子，又在那裏葬了和他的妻子；我也在那裏葬了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "the field and the cave that is therein, which was purchased from the children of Heth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那块田和田间的洞原是向人买的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那塊田和田間的洞原是向人買的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "When Jacob finished charging his sons, he gathered up his feet into the bed, breathed his last breath, and was gathered to his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "嘱咐众子已毕，就把脚收在床上，气绝而死，归他列祖那里去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:33 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "囑咐眾子已畢，就把腳收在床上，氣絕而死，歸他列祖那裏去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 49:33 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

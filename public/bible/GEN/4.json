@@ -1,0 +1,516 @@
+{
+  "bookId": "GEN",
+  "chapter": 4,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The man knew Eve his wife. She conceived, and gave birth to Cain, and said, “I have gotten a man with the LORD’s help.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:1 or, lay with, or, had relations with"
+          },
+          {
+            "id": "f2",
+            "text": "4:1 or, became pregnant"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一日，那人和他妻子同房，就怀孕，生了，便说：「耶和华使我得了一个男子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:1 就是得的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一日，那人和他妻子同房，就懷孕，生了，便說：「耶和華使我得了一個男子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:1 就是得的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又生了的兄弟。是牧羊的；是种地的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又生了的兄弟。是牧羊的；是種地的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "As time passed, Cain brought an offering to the LORD from the fruit of the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一日，拿地里的出产为供物献给耶和华；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一日，拿地裏的出產為供物獻給耶和華；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Abel also brought some of the firstborn of his flock and of its fat. The LORD respected Abel and his offering,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也将他羊群中头生的和羊的脂油献上。耶和华看中了和他的供物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也將他羊群中頭生的和羊的脂油獻上。耶和華看中了和他的供物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是看不中和他的供物。就大大地发怒，变了脸色。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是看不中和他的供物。就大大地發怒，變了臉色。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD said to Cain, “Why are you angry? Why has the expression of your face fallen?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对说：「你为什么发怒呢？你为什么变了脸色呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對說：「你為甚麼發怒呢？你為甚麼變了臉色呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若行得好，岂不蒙悦纳？你若行得不好，罪就伏在门前。它必恋慕你，你却要制伏它。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若行得好，豈不蒙悅納？你若行得不好，罪就伏在門前。它必戀慕你，你卻要制伏它。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与他兄弟说话；二人正在田间。起来打他兄弟，把他杀了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與他兄弟說話；二人正在田間。起來打他兄弟，把他殺了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对说：「你兄弟在哪里？」他说：「我不知道！我岂是看守我兄弟的吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對說：「你兄弟在哪裏？」他說：「我不知道！我豈是看守我兄弟的嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The LORD said, “What have you done? The voice of your brother’s blood cries to me from the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「你做了什么事呢？你兄弟的血有声音从地里向我哀告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「你做了甚麼事呢？你兄弟的血有聲音從地裏向我哀告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地开了口，从你手里接受你兄弟的血。现在你必从这地受咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地開了口，從你手裏接受你兄弟的血。現在你必從這地受咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "From now on, when you till the ground, it won’t yield its strength to you. You will be a fugitive and a wanderer on the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你种地，地不再给你效力；你必流离飘荡在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你種地，地不再給你效力；你必流離飄蕩在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Cain said to the LORD, “My punishment is greater than I can bear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对耶和华说：「我的刑罚太重，过于我所能当的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對耶和華說：「我的刑罰太重，過於我所能當的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Behold, you have driven me out today from the surface of the ground. I will be hidden from your face, and I will be a fugitive and a wanderer on the earth. Whoever finds me will kill me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你如今赶逐我离开这地，以致不见你面；我必流离飘荡在地上，凡遇见我的必杀我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你如今趕逐我離開這地，以致不見你面；我必流離飄蕩在地上，凡遇見我的必殺我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The LORD said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” The LORD appointed a sign for Cain, so that anyone finding him would not strike him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对他说：「凡杀的，必遭报七倍。」耶和华就给立一个记号，免得人遇见他就杀他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對他說：「凡殺的，必遭報七倍。」耶和華就給立一個記號，免得人遇見他就殺他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Cain left the LORD’s presence, and lived in the land of Nod, east of Eden.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是离开耶和华的面，去住在东边之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是離開耶和華的面，去住在東邊之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Cain knew his wife. She conceived, and gave birth to Enoch. He built a city, and named the city after the name of his son, Enoch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与妻子同房，他妻子就怀孕，生了。建造了一座城，就按着他儿子的名将那城叫做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與妻子同房，他妻子就懷孕，生了。建造了一座城，就按着他兒子的名將那城叫做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Irad was born to Enoch. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生；生；生；生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生；生；生；生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Lamech took two wives: the name of the first one was Adah, and the name of the second one was Zillah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "娶了两个妻：一个名叫，一个名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "娶了兩個妻：一個名叫，一個名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Adah gave birth to Jabal, who was the father of those who dwell in tents and have livestock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生；就是住帐棚、牧养牲畜之人的祖师。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生；就是住帳棚、牧養牲畜之人的祖師。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "His brother’s name was Jubal, who was the father of all who handle the harp and pipe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的兄弟名叫；他是一切弹琴吹箫之人的祖师。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兄弟名叫；他是一切彈琴吹簫之人的祖師。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Zillah also gave birth to Tubal Cain, the forger of every cutting instrument of bronze and iron. Tubal Cain’s sister was Naamah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又生了；他是打造各样铜铁利器的。的妹子是。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:22 或译：是铜匠铁匠的祖师"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又生了；他是打造各樣銅鐵利器的。的妹子是。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:22 或譯：是銅匠鐵匠的祖師"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Lamech said to his wives, Adah and Zillah, hear my voice. You wives of Lamech, listen to my speech, for I have slain a man for wounding me, a young man for bruising me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他两个妻子说： 、，听我的声音； 的妻子，细听我的话语： 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:23 或译：我杀壮士却伤自己，我害幼童却损本身"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他兩個妻子說： 、，聽我的聲音； 的妻子，細聽我的話語： 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:23 或譯：我殺壯士卻傷自己，我害幼童卻損本身"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "If Cain will be avenged seven times, truly Lamech seventy-seven times.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若杀，遭报七倍， ，必遭报七十七倍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若殺，遭報七倍， ，必遭報七十七倍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for God has given me another child instead of Abel, for Cain killed him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又与妻子同房，她就生了一个儿子，起名叫，意思说：「 神另给我立了一个儿子代替，因为杀了他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又與妻子同房，她就生了一個兒子，起名叫，意思說：「上帝另給我立了一個兒子代替，因為殺了他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "A son was also born to Seth, and he named him Enosh. At that time men began to call on the LORD’s name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也生了一个儿子，起名叫。那时候，人才求告耶和华的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也生了一個兒子，起名叫。那時候，人才求告耶和華的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

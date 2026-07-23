@@ -1,0 +1,263 @@
+{
+  "bookId": "PSA",
+  "chapter": 108,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My heart is steadfast, God. will sing and I will make music with my soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，我心坚定； 要唱诗歌颂！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 108:1 原文是荣耀"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，我心堅定； 要唱詩歌頌！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 108:1 原文是榮耀"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Wake up, harp and lyre! I will wake up the dawn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "琴瑟啊，你们当醒起！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "琴瑟啊，你們當醒起！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I will give thanks to you, LORD, among the nations. I will sing praises to you among the peoples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我要在万民中称谢你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我要在萬民中稱謝你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For your loving kindness is great above the heavens. Your faithfulness reaches to the skies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，你的慈爱大过诸天；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，你的慈愛大過諸天；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Be exalted, God, above the heavens! your glory be over all the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，愿你崇高过于诸天！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，願你崇高過於諸天！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "That your beloved may be delivered, with your right hand, and answer us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你应允我们，用右手拯救我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你應允我們，用右手拯救我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "God has spoken from his sanctuary: “In triumph, will divide Shechem, and measure out the valley of Succoth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神已经指着他的圣洁说： ， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 108:7 说：或译应许我"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝已經指着他的聖潔說： ， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 108:7 說：或譯應許我"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Gilead is mine. Manasseh is mine. also is my helmet. is my scepter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是我的； 是我的； 是护卫我头的； 是我的杖；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是我的； 是我的； 是護衛我頭的； 是我的杖；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Moab is my wash pot. will toss my sandal on Edom. will shout over Philistia.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是我的沐浴盆； 抛鞋； 呼喊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是我的沐浴盆； 拋鞋； 呼喊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Who will bring me into the fortified city? will lead me to Edom?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁能领我进坚固城？ 地？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰能領我進堅固城？ 地？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Haven’t you rejected us, God? You don’t go out, God, with our armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，你不是丢弃了我们吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，你不是丟棄了我們嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Give us help against the enemy, for the help of man is vain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你帮助我们攻击敌人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你幫助我們攻擊敵人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Through God, we will do valiantly, for it is he who will tread down our enemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们倚靠 神才得施展大能，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們倚靠上帝才得施展大能，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

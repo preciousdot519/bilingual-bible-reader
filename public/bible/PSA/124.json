@@ -1,0 +1,163 @@
+{
+  "bookId": "PSA",
+  "chapter": 124,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "If it had not been the LORD who was on our side, let Israel now say,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人要说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人要說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "if it had not been the LORD who was on our side, when men rose up against us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不是耶和华帮助我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不是耶和華幫助我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "then they would have swallowed us up alive, their wrath was kindled against us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向我们发怒的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向我們發怒的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "then the waters would have overwhelmed us, the stream would have gone over our soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，波涛必漫过我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，波濤必漫過我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the proud waters would have gone over our soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "狂傲的水必淹没我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "狂傲的水必淹沒我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Blessed be the LORD, who has not given us as a prey to their teeth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华是应当称颂的！ 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 124:6 原文是牙齿"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華是應當稱頌的！ 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 124:6 原文是牙齒"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们好像雀鸟，从捕鸟人的网罗里逃脱；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們好像雀鳥，從捕鳥人的網羅裏逃脫；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Our help is in the LORD’s name, who made heaven and earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们得帮助， 造天地之耶和华的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們得幫助， 造天地之耶和華的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

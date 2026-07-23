@@ -1,0 +1,99 @@
+{
+  "bookId": "PSA",
+  "chapter": 70,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Hurry, God, to deliver me. Come quickly to help me, LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，求你搭救我！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，求你搭救我！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Let them be disappointed and confounded who seek my soul. who desire my ruin be turned back in disgrace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿那些寻索我命的，抱愧蒙羞；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願那些尋索我命的，抱愧蒙羞；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Let them be turned because of their shame who say, “Aha! Aha!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿那些对我说阿哈、阿哈的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願那些對我說阿哈、阿哈的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Let all those who seek you rejoice and be glad in you. Let those who love your salvation continually say, Let God be exalted!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿一切寻求你的，因你高兴欢喜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願一切尋求你的，因你高興歡喜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But I am poor and needy. to me quickly, God. You are my help and my deliverer. LORD, don’t delay.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我是困苦穷乏的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我是困苦窮乏的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

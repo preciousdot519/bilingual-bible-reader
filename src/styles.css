@@ -81,3 +81,132 @@ footer { text-align: center; padding: 26px; opacity: .55; font-size: 13px; }
   .chapter-heading button { padding-inline: 10px; font-size: 13px; }
   .chapter-heading h2 { font-size: 22px; }
 }
+
+.verse-tools {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.verse-tools button {
+  width: 28px;
+  min-height: 26px;
+  border: 0;
+  border-radius: 7px;
+  background: transparent;
+  color: #527a98;
+  padding: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  font-size: 10px;
+}
+
+.verse .note-marker {
+  opacity: 1;
+}
+
+.verse .copy-button {
+  opacity: 0;
+}
+
+.verse:hover .copy-button,
+.verse.active .copy-button {
+  opacity: 1;
+}
+
+.footnote-marker {
+  background: #e9f3f8 !important;
+}
+
+.reference-marker {
+  background: #f1edf9 !important;
+  color: #70558f !important;
+}
+
+.dark .footnote-marker {
+  background: #263b4b !important;
+}
+
+.dark .reference-marker {
+  background: #382f4a !important;
+  color: #d8c8ee !important;
+}
+
+.notes-panel {
+  margin-top: 18px;
+  border: 1px solid rgba(148,163,184,.35);
+  border-left: 4px solid #527a98;
+  border-radius: 14px;
+  padding: 20px 22px;
+  background: rgba(255,255,255,.88);
+  box-shadow: 0 12px 35px rgba(30,41,59,.06);
+}
+
+.notes-panel.crossReference {
+  border-left-color: #70558f;
+}
+
+.dark .notes-panel {
+  background: #1b2432;
+  border-color: #334155;
+  border-left-color: #6fa1c4;
+}
+
+.dark .notes-panel.crossReference {
+  border-left-color: #a98cc9;
+}
+
+.notes-panel-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.notes-panel-heading h3 {
+  margin: 5px 0 3px;
+  font-family: "Noto Serif SC", Georgia, serif;
+}
+
+.notes-panel-heading small {
+  opacity: .65;
+}
+
+.note-type {
+  color: #527a98;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.crossReference .note-type {
+  color: #70558f;
+}
+
+.notes-panel > p {
+  margin: 16px 0 0;
+  line-height: 1.75;
+}
+
+.notes-close {
+  border: 1px solid rgba(100,116,139,.25);
+  border-radius: 9px;
+  background: transparent;
+  color: inherit;
+  padding: 7px;
+  display: inline-flex;
+}
+
+@media (max-width: 760px) {
+  .verse {
+    grid-template-columns: 24px 1fr 28px;
+  }
+
+  .notes-panel {
+    padding: 17px;
+  }
+}

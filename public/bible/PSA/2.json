@@ -1,0 +1,240 @@
+{
+  "bookId": "PSA",
+  "chapter": 2,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Why do the nations rage, and the peoples plot a vain thing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "外邦为什么争闹？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "外邦為甚麼爭鬧？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The kings of the earth take a stand, and the rulers take counsel together, against the LORD, and against his Anointed,saying,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:2 The word “Anointed” is the same as the word for “Messiah” or “Christ”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "世上的君王一齐起来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "世上的君王一齊起來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Let’s break their bonds apart, and cast their cords from us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：我们要挣开他们的捆绑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：我們要掙開他們的捆綁，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He who sits in the heavens will laugh. The Lord will have them in derision.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:4 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那坐在天上的必发笑；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那坐在天上的必發笑；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then he will speak to them in his anger, and terrify them in his wrath:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，他要在怒中责备他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，他要在怒中責備他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“Yet I have set my King on my holy hill of Zion.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：我已经立我的君 —我的圣山上了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：我已經立我的君 －我的聖山上了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I will tell of the decree: The LORD said to me, “You are my son. Today I have become your father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "：我要传旨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "：我要傳旨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你求我，我就将列国赐你为基业，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你求我，我就將列國賜你為基業，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必用铁杖打破他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必用鐵杖打破他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now therefore be wise, you kings. Be instructed, you judges of the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在，你们君王应当省悟！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在，你們君王應當省悟！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Serve the LORD with fear, and rejoice with trembling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当存畏惧事奉耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當存畏懼事奉耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Give sincere homage to the Son, lest he be angry, and you perish on the way, for his wrath will soon be kindled. are all those who take refuge in him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:12 or, Kiss the son"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当以嘴亲子，恐怕他发怒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當以嘴親子，恐怕他發怒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

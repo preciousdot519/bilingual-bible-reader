@@ -1,0 +1,240 @@
+{
+  "bookId": "PSA",
+  "chapter": 30,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I will extol you, LORD, for you have raised me up, and have not made my foes to rejoice over me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我要尊崇你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我要尊崇你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "LORD my God, I cried to you, and you have healed me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我的 神啊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我的上帝啊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "LORD, you have brought up my soul from Sheol. have kept me alive, that I should not go down to the pit.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "30:3 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你曾把我的灵魂从阴间救上来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你曾把我的靈魂從陰間救上來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Sing praise to the LORD, you saints of his. Give thanks to his holy name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的圣民哪，你们要歌颂他， 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聖民哪，你們要歌頌他， 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For his anger is but for a moment. His favor is for a lifetime. may stay for the night, but joy comes in the morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，他的怒气不过是转眼之间；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，他的怒氣不過是轉眼之間；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "As for me, I said in my prosperity, I shall never be moved.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于我，我凡事平顺，便说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於我，我凡事平順，便說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You, LORD, when you favored me, made my mountain stand strong; but when you hid your face, I was troubled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你曾施恩，叫我的山稳固；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你曾施恩，叫我的山穩固；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I cried to you, LORD. I made supplication to the Lord:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我曾求告你； ：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我曾求告你； ：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“What profit is there in my destruction, if I go down to the pit? Shall the dust praise you? Shall it declare your truth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我被害流血，下到坑中，有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我被害流血，下到坑中，有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Hear, LORD, and have mercy on me. LORD, be my helper.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你应允我，怜恤我！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你應允我，憐恤我！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You have turned my mourning into dancing for me. You have removed my sackcloth, and clothed me with gladness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你已将我的哀哭变为跳舞，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你已將我的哀哭變為跳舞，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "to the end that my heart may sing praise to you, and not be silent. LORD my God, I will give thanks to you forever!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好叫我的灵歌颂你，并不住声。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:12 原文是荣耀"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好叫我的靈歌頌你，並不住聲。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:12 原文是榮耀"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

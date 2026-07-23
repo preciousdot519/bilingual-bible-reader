@@ -1,0 +1,55 @@
+{
+  "bookId": "PSA",
+  "chapter": 117,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Praise the LORD, all you nations! Extol him, all you peoples!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "117:1 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万国啊，你们都当赞美耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬國啊，你們都當讚美耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For his loving kindness is great toward us. The LORD’s faithfulness endures forever. Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "117:2 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他向我们大施慈爱；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他向我們大施慈愛；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

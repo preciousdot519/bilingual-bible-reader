@@ -1,0 +1,513 @@
+{
+  "bookId": "GEN",
+  "chapter": 45,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Joseph couldn’t control himself before all those who stood before him, and he called out, “Cause everyone to go out from me!” No one else stood with him, while Joseph made himself known to his brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在左右站着的人面前情不自禁，吩咐一声说：「人都要离开我出去！」和弟兄们相认的时候并没有一人站在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在左右站着的人面前情不自禁，吩咐一聲說：「人都要離開我出去！」和弟兄們相認的時候並沒有一人站在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He wept aloud. The Egyptians heard, and the house of Pharaoh heard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就放声大哭；人和法老家中的人都听见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就放聲大哭；人和法老家中的人都聽見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Joseph said to his brothers, “I am Joseph! Does my father still live?” His brothers couldn’t answer him; for they were terrified at his presence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他弟兄们说：「我是。我的父亲还在吗？」他弟兄不能回答，因为在他面前都惊惶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他弟兄們說：「我是。我的父親還在嗎？」他弟兄不能回答，因為在他面前都驚惶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Joseph said to his brothers, “Come near to me, please.” came near. He said, “I am Joseph, your brother, whom you sold into Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对他弟兄们说：「请你们近前来。」他们就近前来。他说：「我是你们的兄弟，就是你们所卖到的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對他弟兄們說：「請你們近前來。」他們就近前來。他說：「我是你們的兄弟，就是你們所賣到的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Now don’t be grieved, nor angry with yourselves, that you sold me here, for God sent me before you to preserve life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在，不要因为把我卖到这里自忧自恨。这是 神差我在你们以先来，为要保全生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在，不要因為把我賣到這裏自憂自恨。這是上帝差我在你們以先來，為要保全生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For these two years the famine has been in the land, and there are yet five years, in which there will be no plowing and no harvest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在这地的饥荒已经二年了，还有五年不能耕种，不能收成。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在這地的饑荒已經二年了，還有五年不能耕種，不能收成。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "God sent me before you to preserve for you a remnant on the earth, and to save you alive by a great deliverance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神差我在你们以先来，为要给你们存留余种在世上，又要大施拯救，保全你们的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝差我在你們以先來，為要給你們存留餘種在世上，又要大施拯救，保全你們的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "So now it wasn’t you who sent me here, but God, and he has made me a father to Pharaoh, lord of all his house, and ruler over all the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，差我到这里来的不是你们，乃是 神。他又使我如法老的父，作他全家的主，并全地的宰相。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，差我到這裏來的不是你們，乃是上帝。他又使我如法老的父，作他全家的主，並全地的宰相。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Hurry, and go up to my father, and tell him, ‘This is what your son Joseph says, “God has made me lord of all Egypt. Come down to me. Don’t wait.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要赶紧上到我父亲那里，对他说：『你儿子这样说： 神使我作全的主，请你下到我这里来，不要耽延。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要趕緊上到我父親那裏，對他說：『你兒子這樣說：上帝使我作全的主，請你下到我這裏來，不要耽延。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall dwell in the land of Goshen, and you will be near to me, you, your children, your children’s children, your flocks, your herds, and all that you have.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你和你的儿子孙子，连牛群羊群，并一切所有的，都可以住在地，与我相近。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你和你的兒子孫子，連牛群羊群，並一切所有的，都可以住在地，與我相近。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "There I will provide for you; for there are yet five years of famine; lest you come to poverty, you, and your household, and all that you have.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要在那里奉养你；因为还有五年的饥荒，免得你和你的眷属，并一切所有的，都败落了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要在那裏奉養你；因為還有五年的饑荒，免得你和你的眷屬，並一切所有的，都敗落了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "况且你们的眼和我兄弟的眼都看见是我亲口对你们说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "況且你們的眼和我兄弟的眼都看見是我親口對你們說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall tell my father of all my glory in Egypt, and of all that you have seen. You shall hurry and bring my father down here.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也要将我在一切的荣耀和你们所看见的事都告诉我父亲，又要赶紧地将我父亲搬到我这里来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也要將我在一切的榮耀和你們所看見的事都告訴我父親，又要趕緊地將我父親搬到我這裏來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He fell on his brother Benjamin’s neck and wept, and Benjamin wept on his neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是伏在他兄弟的颈项上哭，也在他的颈项上哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是伏在他兄弟的頸項上哭，也在他的頸項上哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He kissed all his brothers, and wept on them. After that his brothers talked with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又与众弟兄亲嘴，抱着他们哭，随后他弟兄们就和他说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又與眾弟兄親嘴，抱着他們哭，隨後他弟兄們就和他說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The report of it was heard in Pharaoh’s house, saying, “Joseph’s brothers have come.” It pleased Pharaoh well, and his servants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这风声传到法老的宫里，说：「的弟兄们来了。」法老和他的臣仆都很喜欢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這風聲傳到法老的宮裏，說：「的弟兄們來了。」法老和他的臣僕都很喜歡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Pharaoh said to Joseph, “Tell your brothers, ‘Do this: Load your animals, and go, travel to the land of Canaan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老对说：「你吩咐你的弟兄们说：『你们要这样行：把驮子抬在牲口上，起身往地去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老對說：「你吩咐你的弟兄們說：『你們要這樣行：把馱子抬在牲口上，起身往地去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Take your father and your households, and come to me, and I will give you the good of the land of Egypt, and you will eat the fat of the land.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将你们的父亲和你们的眷属都搬到我这里来，我要把地的美物赐给你们，你们也要吃这地肥美的出产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將你們的父親和你們的眷屬都搬到我這裏來，我要把地的美物賜給你們，你們也要吃這地肥美的出產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now you are commanded to do this: Take wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我吩咐你们要这样行：从地带着车辆去，把你们的孩子和妻子，并你们的父亲都搬来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我吩咐你們要這樣行：從地帶着車輛去，把你們的孩子和妻子，並你們的父親都搬來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Also, don’t concern yourselves about your belongings, for the good of all the land of Egypt is yours.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们眼中不要爱惜你们的家具，因为全地的美物都是你们的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們眼中不要愛惜你們的家具，因為全地的美物都是你們的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The sons of Israel did so. Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子们就如此行。照着法老的吩咐给他们车辆和路上用的食物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子們就如此行。照着法老的吩咐給他們車輛和路上用的食物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He gave each one of them changes of clothing, but to Benjamin he gave three hundred pieces of silver and five changes of clothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又给他们各人一套衣服，惟独给三百银子，五套衣服；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又給他們各人一套衣服，惟獨給三百銀子，五套衣服；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He sent the following to his father: ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain and bread and provision for his father by the way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "送给他父亲公驴十匹，驮着的美物，母驴十匹，驮着粮食与饼和菜，为他父亲路上用。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "送給他父親公驢十匹，馱着的美物，母驢十匹，馱着糧食與餅和菜，為他父親路上用。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "So he sent his brothers away, and they departed. He said to them, “See that you don’t quarrel on the way.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是打发他弟兄们回去，又对他们说：「你们不要在路上相争。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是打發他弟兄們回去，又對他們說：「你們不要在路上相爭。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They went up out of Egypt, and came into the land of Canaan, to Jacob their father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从上去，来到地、他们的父亲那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從上去，來到地、他們的父親那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They told him, saying, “Joseph is still alive, and he is ruler over all the land of Egypt.” His heart fainted, for he didn’t believe them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "告诉他说：「还在，并且作全地的宰相。」心里冰凉，因为不信他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "告訴他說：「還在，並且作全地的宰相。」心裏冰涼，因為不信他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They told him all the words of Joseph, which he had said to them. When he saw the wagons which Joseph had sent to carry him, the spirit of Jacob, their father, revived.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们便将对他们说的一切话都告诉了他。他们父亲又看见打发来接他的车辆，心就苏醒了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們便將對他們說的一切話都告訴了他。他們父親又看見打發來接他的車輛，心就甦醒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Israel said, “It is enough. Joseph my son is still alive. I will go and see him before I die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「罢了！罢了！我的儿子还在，趁我未死以先，我要去见他一面。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「罷了！罷了！我的兒子還在，趁我未死以先，我要去見他一面。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "bookId": "PSA",
+  "chapter": 97,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD reigns! Let the earth rejoice! Let the multitude of islands be glad!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华作王！愿地快乐！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華作王！願地快樂！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Clouds and darkness are around him. Righteousness and justice are the foundation of his throne.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "密云和幽暗在他的四围；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "密雲和幽暗在他的四圍；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "A fire goes before him, and burns up his adversaries on every side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有烈火在他前头行，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有烈火在他前頭行，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "His lightning lights up the world. The earth sees, and trembles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的闪电光照世界，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的閃電光照世界，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The mountains melt like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸山见耶和华的面，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸山見耶和華的面，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The heavens declare his righteousness. All the peoples have seen his glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸天表明他的公义；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸天表明他的公義；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "97:7 LXX reads “angels” instead of “gods”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿一切事奉雕刻的偶像、 自夸的，都蒙羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願一切事奉雕刻的偶像、 自誇的，都蒙羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Zion heard and was glad. The daughters of Judah rejoiced because of your judgments, LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，听见你的判断就欢喜； 的城邑也都快乐。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 97:8 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，聽見你的判斷就歡喜； 的城邑也都快樂。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 97:8 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For you, LORD, are most high above all the earth. You are exalted far above all gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你—耶和华至高，超乎全地；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你－耶和華至高，超乎全地；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You who love the LORD, hate evil! He preserves the souls of his saints. He delivers them out of the hand of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们爱耶和华的，都当恨恶罪恶；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們愛耶和華的，都當恨惡罪惡；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Light is sown for the righteous, and gladness for the upright in heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "散布亮光是为义人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "散布亮光是為義人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Be glad in the LORD, you righteous people! Give thanks to his holy Name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们义人当靠耶和华欢喜， 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們義人當靠耶和華歡喜， 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "bookId": "PSA",
+  "chapter": 104,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Bless the LORD, my soul. The LORD, my God, you are very great. You are clothed with honor and majesty.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "104:1 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的心哪，你要称颂耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的心哪，你要稱頌耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He covers himself with light as with a garment. He stretches out the heavens like a curtain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "披上亮光，如披外袍，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "披上亮光，如披外袍，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He lays the beams of his rooms in the waters. He makes the clouds his chariot. He walks on the wings of the wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在水中立楼阁的栋梁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在水中立樓閣的棟樑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He makes his messengers winds, and his servants flames of fire.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "104:4 or, angels"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以风为使者，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以風為使者，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He laid the foundations of the earth, that it should not be moved forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将地立在根基上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將地立在根基上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You covered it with the deep as with a cloak. The waters stood above the mountains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你用深水遮盖地面，犹如衣裳；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你用深水遮蓋地面，猶如衣裳；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "At your rebuke they fled. At the voice of your thunder they hurried away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的斥责一发，水便奔逃；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的斥責一發，水便奔逃；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The mountains rose, the valleys sank down, to the place which you had assigned to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸山升上，诸谷沉下，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 104:8 或译：随山上翻，随谷下流"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸山升上，諸谷沉下，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 104:8 或譯：隨山上翻，隨谷下流"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You have set a boundary that they may not pass over, that they don’t turn again to cover the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你定了界限，使水不能过去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你定了界限，使水不能過去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He sends springs into the valleys. run among the mountains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使泉源涌在山谷，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使泉源湧在山谷，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They give drink to every animal of the field. The wild donkeys quench their thirst.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使野地的走兽有水喝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使野地的走獸有水喝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The birds of the sky nest by them. They sing among the branches.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天上的飞鸟在水旁住宿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天上的飛鳥在水旁住宿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He waters the mountains from his rooms. The earth is filled with the fruit of your works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从楼阁中浇灌山岭；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從樓閣中澆灌山嶺；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He causes the grass to grow for the livestock, and plants for man to cultivate, that he may produce food out of the earth:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使草生长，给六畜吃，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使草生長，給六畜吃，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "wine that makes the heart of man glad, oil to make his face to shine, and bread that strengthens man’s heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又得酒能悦人心，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又得酒能悅人心，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD’s trees are well watered, the cedars of Lebanon, which he has planted,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "佳美的树木，就是的香柏树， 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "佳美的樹木，就是的香柏樹， 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "where the birds make their nests. The stork makes its home in the cypress trees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雀鸟在其上搭窝；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雀鳥在其上搭窩；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The high mountains are for the wild goats. The rocks are a refuge for the rock badgers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "高山为野山羊；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "高山為野山羊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He appointed the moon for seasons. The sun knows when to set.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你安置月亮为定节令；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你安置月亮為定節令；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You make darkness, and it is night, in which all the animals of the forest prowl.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你造黑暗为夜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你造黑暗為夜，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The young lions roar after their prey, and seek their food from God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "少壮狮子吼叫，要抓食，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "少壯獅子吼叫，要抓食，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The sun rises, and they steal away, and lie down in their dens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头一出，兽便躲避，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭一出，獸便躲避，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Man goes out to his work, to his labor until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人出去做工，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人出去做工，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "LORD, how many are your works! In wisdom, you have made them all. The earth is full of your riches.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你所造的何其多！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你所造的何其多！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There is the sea, great and wide, in which are innumerable living things, both small and large animals.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那里有海，又大又广；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那裏有海，又大又廣；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "There the ships go, and leviathan, whom you formed to play there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那里有船行走，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那裏有船行走，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "These all wait for you, that you may give them their food in due season.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都仰望你按时给它食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都仰望你按時給牠食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "You give to them; they gather. You open your hand; they are satisfied with good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你给它们，它们便拾起来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你給牠們，牠們便拾起來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "You hide your face; they are troubled. You take away their breath; they die and return to the dust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你掩面，它们便惊惶；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你掩面，牠們便驚惶；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "You send out your Spirit and they are created. You renew the face of the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你发出你的灵，它们便受造；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你發出你的靈，牠們便受造；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Let the LORD’s glory endure forever. Let the LORD rejoice in his works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿耶和华的荣耀存到永远！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願耶和華的榮耀存到永遠！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He looks at the earth, and it trembles. touches the mountains, and they smoke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他看地，地便震动；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他看地，地便震動；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "I will sing to the LORD as long as I live. I will sing praise to my God while I have any being.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要一生向耶和华唱诗！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要一生向耶和華唱詩！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Let my meditation be sweet to him. I will rejoice in the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿他以我的默念为甘甜！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願他以我的默念為甘甜！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless the LORD, my soul. Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "104:35 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          },
+          {
+            "id": "f2",
+            "text": "104:35 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿罪人从世上消灭！ ！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 104:35 原文是哈利路亚；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願罪人從世上消滅！ ！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 104:35 原文是哈利路亞；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "bookId": "PSA",
+  "chapter": 150,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Praise the LORD! Praise God in his sanctuary! Praise him in his heavens for his acts of power!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "150:1 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要赞美耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要讚美耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Praise him for his mighty acts! Praise him according to his excellent greatness!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要因他大能的作为赞美他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要因他大能的作為讚美他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Praise him with the sounding of the trumpet! Praise him with harp and lyre!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用角声赞美他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用角聲讚美他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Praise him with tambourine and dancing! Praise him with stringed instruments and flute!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "击鼓跳舞赞美他！ 赞美他！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "擊鼓跳舞讚美他！ 讚美他！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Praise him with loud cymbals! Praise him with resounding cymbals!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用大响的钹赞美他！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用大響的鈸讚美他！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Let everything that has breath praise the LORD! Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "150:6 Hebrew: יה Yah"
+          },
+          {
+            "id": "f2",
+            "text": "150:6 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有气息的都要赞美耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有氣息的都要讚美耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

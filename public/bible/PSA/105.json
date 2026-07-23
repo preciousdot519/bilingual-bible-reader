@@ -1,0 +1,847 @@
+{
+  "bookId": "PSA",
+  "chapter": 105,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Give thanks to the LORD! Call on his name! Make his doings known among the peoples.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "105:1 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要称谢耶和华，求告他的名，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要稱謝耶和華， 求告他的名，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Sing to him, sing praises to him! Tell of all his marvelous works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要向他唱诗歌颂，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要向他唱詩歌頌，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Glory in his holy name. Let the heart of those who seek the LORD rejoice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要以他的圣名夸耀！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要以他的聖名誇耀！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Seek the LORD and his strength. Seek his face forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要寻求耶和华与他的能力，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要尋求耶和華與他的能力，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Remember his marvelous works that he has done: his wonders, and the judgments of his mouth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5-6",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他仆人的后裔， 的子孙哪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他僕人的後裔， 的子孫哪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "you offspring of Abraham, his servant, you children of Jacob, his chosen ones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He is the LORD, our God. His judgments are in all the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是耶和华—我们的 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是耶和華－我們的上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He has remembered his covenant forever, the word which he commanded to a thousand generations,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他记念他的约，直到永远；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他記念他的約，直到永遠；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "the covenant which he made with Abraham, his oath to Isaac,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是与所立的， 所起的誓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是與所立的， 所起的誓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and confirmed it to Jacob for a statute; to Israel for an everlasting covenant,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又将这约向定为律例， 定为永远的约，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又將這約向定為律例， 定為永遠的約，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "saying, “To you I will give the land of Canaan, the lot of your inheritance,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：我必将地赐给你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：我必將地賜給你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "when they were but a few men in number, very few, and foreigners in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，他们人丁有限，数目稀少，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，他們人丁有限，數目稀少，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They went about from nation to nation, from one kingdom to another people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从这邦游到那邦，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從這邦遊到那邦，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He allowed no one to do them wrong. he reproved kings for their sakes,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不容什么人欺负他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不容甚麼人欺負他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Don’t touch my anointed ones! Do my prophets no harm!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：不可难为我受膏的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：不可難為我受膏的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He called for a famine on the land. He destroyed the food supplies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他命饥荒降在那地上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他命饑荒降在那地上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He sent a man before them. Joseph was sold for a slave.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们以先打发一个人去 被卖为奴仆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們以先打發一個人去 被賣為奴僕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They bruised his feet with shackles. His neck was locked in irons,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人用脚镣伤他的脚； 捆拘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人用腳鐐傷他的腳； 捆拘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "until the time that his word happened, and the LORD’s word proved him true.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话试炼他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話試煉他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The king sent and freed him, the ruler of peoples, and let him go free.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王打发人把他解开，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王打發人把他解開，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He made him lord of his house, and ruler of all of his possessions,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "立他作王家之主，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "立他作王家之主，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "to discipline his princes at his pleasure, and to teach his elders wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使他随意捆绑他的臣宰，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使他隨意捆綁他的臣宰，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Israel also came into Egypt. Jacob lived in the land of Ham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也到了； 在地寄居。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也到了； 在地寄居。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He increased his people greatly, and made them stronger than their adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使他的百姓生养众多，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使他的百姓生養眾多，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He turned their heart to hate his people, to conspire against his servants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使敌人的心转去恨他的百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使敵人的心轉去恨他的百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He sent Moses, his servant, and Aaron, whom he had chosen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他打发他的仆人 ，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他打發他的僕人 ，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They performed miracles among them, and wonders in the land of Ham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在敌人中间显他的神迹， 地显他的奇事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在敵人中間顯他的神蹟， 地顯他的奇事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He sent darkness, and made it dark. They didn’t rebel against his words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他命黑暗，就有黑暗；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他命黑暗，就有黑暗；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He turned their waters into blood, and killed their fish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他叫的水变为血，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他叫的水變為血，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Their land swarmed with frogs, in the rooms of their kings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们的地上以及王宫的内室，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們的地上以及王宮的內室，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He spoke, and swarms of flies came, and lice in all their borders.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说一声，苍蝇就成群而来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說一聲，蒼蠅就成群而來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He gave them hail for rain, with lightning in their land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他给他们降下冰雹为雨，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他給他們降下冰雹為雨，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He struck their vines and also their fig trees, and shattered the trees of their country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也击打他们的葡萄树和无花果树，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也擊打他們的葡萄樹和無花果樹，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He spoke, and the locusts came the grasshoppers, without number.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说一声，就有蝗虫蚂蚱上来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說一聲，就有蝗蟲螞蚱上來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "They ate up every plant in their land, and ate up the fruit of their ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃尽了他们地上各样的菜蔬",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃盡了他們地上各樣的菜蔬",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He struck also all the firstborn in their land, the first fruits of all their manhood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又击杀他们国内一切的长子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又擊殺他們國內一切的長子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He brought them out with silver and gold. was not one feeble person among his tribes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他领自己的百姓带银子金子出来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他領自己的百姓帶銀子金子出來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Egypt was glad when they departed, for the fear of them had fallen on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们出来的时候，人便欢喜； 人惧怕他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們出來的時候，人便歡喜； 人懼怕他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "He spread a cloud for a covering, to give light in the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他铺张云彩当遮盖，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他鋪張雲彩當遮蓋，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "They asked, and he brought quails, and satisfied them with the bread of the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们一求，他就使鹌鹑飞来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們一求，他就使鵪鶉飛來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He opened the rock, and waters gushed out. ran as a river in the dry places.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他打开磐石，水就涌出；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他打開磐石，水就湧出；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "For he remembered his holy word, and Abraham, his servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都因他记念他的圣言 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都因他記念他的聖言 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He brought his people out with joy, his chosen with singing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带领百姓欢乐而出，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶領百姓歡樂而出，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "He gave them the lands of the nations. They took the labor of the peoples in possession,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将列国的地赐给他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將列國的地賜給他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "that they might keep his statutes, and observe his laws. Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "105:45 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好使他们遵他的律例，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好使他們遵他的律例，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

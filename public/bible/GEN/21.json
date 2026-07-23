@@ -1,0 +1,656 @@
+{
+  "bookId": "GEN",
+  "chapter": 21,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD visited Sarah as he had said, and the LORD did to Sarah as he had spoken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华按着先前的话眷顾，便照他所说的给成就。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華按着先前的話眷顧，便照他所說的給成就。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当年老的时候，怀了孕；到 神所说的日期，就给生了一个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當年老的時候，懷了孕；到上帝所說的日期，就給生了一個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Abraham called his son who was born to him, whom Sarah bore to him, Isaac.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:3 Isaac means “He laughs”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给所生的儿子起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給所生的兒子起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Abraham circumcised his son, Isaac, when he was eight days old, as God had commanded him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生下来第八日，照着 神所吩咐的，给行了割礼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生下來第八日，照着上帝所吩咐的，給行了割禮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Abraham was one hundred years old when his son, Isaac, was born to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他儿子生的时候，年一百岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他兒子生的時候，年一百歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Sarah said, “God has made me laugh. Everyone who hears will laugh with me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「 神使我喜笑，凡听见的必与我一同喜笑」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「上帝使我喜笑，凡聽見的必與我一同喜笑」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "She said, “Who would have said to Abraham that Sarah would nurse children? For I have borne him a son in his old age.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「谁能预先对说『要乳养婴孩』呢？因为在他年老的时候，我给他生了一个儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「誰能預先對說『要乳養嬰孩』呢？因為在他年老的時候，我給他生了一個兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The child grew and was weaned. Abraham made a great feast on the day that Isaac was weaned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子渐长，就断了奶。断奶的日子，设摆丰盛的筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子漸長，就斷了奶。斷奶的日子，設擺豐盛的筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，看见人给所生的儿子戏笑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，看見人給所生的兒子戲笑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Therefore she said to Abraham, “Cast out this servant and her son! For the son of this servant will not be heir with my son, Isaac.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对说：「你把这使女和她儿子赶出去！因为这使女的儿子不可与我的儿子一同承受产业。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對說：「你把這使女和她兒子趕出去！因為這使女的兒子不可與我的兒子一同承受產業。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The thing was very grievous in Abraham’s sight on account of his son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他儿子的缘故很忧愁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他兒子的緣故很憂愁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "God said to Abraham, “Don’t let it be grievous in your sight because of the boy, and because of your servant. In all that Sarah says to you, listen to her voice. For your offspring will be named through Isaac.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神对说：「你不必为这童子和你的使女忧愁。凡对你说的话，你都该听从；因为从生的，才要称为你的后裔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝對說：「你不必為這童子和你的使女憂愁。凡對你說的話，你都該聽從；因為從生的，才要稱為你的後裔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "I will also make a nation of the son of the servant, because he is your child.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于使女的儿子，我也必使他成立一国，因为他是你所生的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於使女的兒子，我也必使他成立一國，因為他是你所生的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Abraham rose up early in the morning, and took bread and a container of water, and gave it to Hagar, putting it on her shoulder; and gave her the child, and sent her away. She departed, and wandered in the wilderness of Beersheba.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "清早起来，拿饼和一皮袋水，给了，搭在她的肩上，又把孩子，打发她走。就走了，在的旷野走迷了路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "清早起來，拿餅和一皮袋水，給了，搭在她的肩上，又把孩子，打發她走。就走了，在的曠野走迷了路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The water in the container was spent, and she put the child under one of the shrubs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "皮袋的水用尽了，就把孩子撇在小树底下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "皮袋的水用盡了，就把孩子撇在小樹底下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "She went and sat down opposite him, a good way off, about a bow shot away. For she said, “Don’t let me see the death of the child.” She sat opposite him, and lifted up her voice, and wept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自己走开约有一箭之远，相对而坐，说：「我不忍见孩子死」，就相对而坐，放声大哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自己走開約有一箭之遠，相對而坐，說：「我不忍見孩子死」，就相對而坐，放聲大哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "God heard the voice of the boy. The angel of God called to Hagar out of the sky, and said to her, “What troubles you, Hagar? Don’t be afraid. For God has heard the voice of the boy where he is.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神听见童子的声音； 神的使者从天上呼叫说：「，你为何这样呢？不要害怕， 神已经听见童子的声音了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝聽見童子的聲音；上帝的使者從天上呼叫說：「，你為何這樣呢？不要害怕，上帝已經聽見童子的聲音了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Get up, lift up the boy, and hold him with your hand. For I will make him a great nation.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起来！把童子抱在怀中，我必使他成为大国。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:18 怀：原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起來！把童子抱在懷中，我必使他成為大國。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:18 懷：原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "God opened her eyes, and she saw a well of water. She went, filled the container with water, and gave the boy a drink.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神使的眼睛明亮，她就看见一口水井，便去将皮袋盛满了水，给童子喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝使的眼睛明亮，她就看見一口水井，便去將皮袋盛滿了水，給童子喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "God was with the boy, and he grew. He lived in the wilderness, and as he grew up, he became an archer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神保佑童子，他就渐长，住在旷野，成了弓箭手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝保佑童子，他就漸長，住在曠野，成了弓箭手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He lived in the wilderness of Paran. His mother got a wife for him out of the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他住在的旷野；他母亲从地给他娶了一个妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他住在的曠野；他母親從地給他娶了一個妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "At that time, Abimelech and Phicol the captain of his army spoke to Abraham, saying, “God is with you in all that you do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那时候，同他军长对说：「凡你所行的事都有 神的保佑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那時候，同他軍長對說：「凡你所行的事都有上帝的保佑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Now, therefore, swear to me here by God that you will not deal falsely with me, nor with my son, nor with my son’s son. But according to the kindness that I have done to you, you shall do to me, and to the land in which you have lived as a foreigner.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我愿你如今在这里指着 神对我起誓，不要欺负我与我的儿子，并我的子孙。我怎样厚待了你，你也要照样厚待我与你所寄居这地的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我願你如今在這裏指着上帝對我起誓，不要欺負我與我的兒子，並我的子孫。我怎樣厚待了你，你也要照樣厚待我與你所寄居這地的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Abraham said, “I will swear.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我情愿起誓。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我情願起誓。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Abraham complained to Abimelech because of a water well, which Abimelech’s servants had violently taken away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前，的仆人霸占了一口水井，为这事指责。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前，的僕人霸佔了一口水井，為這事指責。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Abimelech said, “I don’t know who has done this thing. You didn’t tell me, and I didn’t hear of it until today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「谁做这事，我不知道，你也没有告诉我，今日我才听见了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「誰做這事，我不知道，你也沒有告訴我，今日我才聽見了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Abraham took sheep and cattle, and gave them to Abimelech. Those two made a covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把羊和牛给了，二人就彼此立约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把羊和牛給了，二人就彼此立約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Abraham set seven ewe lambs of the flock by themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把七只母羊羔另放在一处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把七隻母羊羔另放在一處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Abimelech said to Abraham, “What do these seven ewe lambs, which you have set by themselves, mean?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "问说：「你把这七只母羊羔另放在一处，是什么意思呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "問說：「你把這七隻母羊羔另放在一處，是甚麼意思呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He said, “You shall take these seven ewe lambs from my hand, that it may be a witness to me, that I have dug this well.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「你要从我手里受这七只母羊羔，作我挖这口井的证据。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「你要從我手裏受這七隻母羊羔，作我挖這口井的證據。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Therefore he called that place Beersheba, because they both swore an oath there.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:31 Beersheba can mean “well of the oath” or “well of seven”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以他给那地方起名叫，因为他们二人在那里起了誓。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:31 就是盟誓的井的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以他給那地方起名叫，因為他們二人在那裏起了誓。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:31 就是盟誓的井的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "So they made a covenant at Beersheba. Abimelech rose up with Phicol, the captain of his army, and they returned into the land of the Philistines.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在立了约，就同他军长起身回地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在立了約，就同他軍長起身回地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the LORD, the Everlasting God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:33 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在栽上一棵垂丝柳树，又在那里求告耶和华—永生 神的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在栽上一棵垂絲柳樹，又在那裏求告耶和華－永生上帝的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Abraham lived as a foreigner in the land of the Philistines many days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在人的地寄居了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在人的地寄居了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

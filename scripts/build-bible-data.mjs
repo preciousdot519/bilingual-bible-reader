@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+﻿import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import usfm from "usfm-js";
@@ -30,21 +30,20 @@ const outputDirectory = path.join(
 const testBooks = {
   GEN: {
     english: "Genesis",
-    zhSimplified: "创世记",
-    zhTraditional: "創世記",
+    zhSimplified: "\u521B\u4E16\u8BB0",
+    zhTraditional: "\u5275\u4E16\u8A18",
   },
   PSA: {
     english: "Psalms",
-    zhSimplified: "诗篇",
-    zhTraditional: "詩篇",
+    zhSimplified: "\u8BD7\u7BC7",
+    zhTraditional: "\u8A69\u7BC7",
   },
   JHN: {
     english: "John",
-    zhSimplified: "约翰福音",
-    zhTraditional: "約翰福音",
+    zhSimplified: "\u7EA6\u7FF0\u798F\u97F3",
+    zhTraditional: "\u7D04\u7FF0\u798F\u97F3",
   },
 };
-
 async function listUsfmFiles(directory) {
   const entries = await fs.readdir(directory, {
     withFileTypes: true,
@@ -124,6 +123,32 @@ function mergeNestedResult(target, nested) {
   );
 }
 
+function cleanWordContent(value) {
+  return String(value ?? "")
+    .replace(/\|.*$/, "");
+}
+
+function cleanNoteContent(value) {
+  return normalizeText(
+    String(value ?? "")
+      .replace(/\\(?:fr|ft|fq|fqa|fk|fl|fp|fv|fdc)\s*/g, " ")
+      .replace(/\\\+?(?:wh|w)\s*/g, "")
+      .replace(/\\\+?(?:wh|w)\*/g, "")
+      .replace(/\|[^\\\s]+/g, "")
+      .replace(/\\f\*/g, " ")
+      .replace(/^\+\s*/, "")
+  );
+}
+
+function cleanCrossReferenceContent(value) {
+  return normalizeText(
+    String(value ?? "")
+      .replace(/\\(?:xo|xt|xk|xq|xta)\s*/g, " ")
+      .replace(/\\x\*/g, " ")
+      .replace(/^\+\s*/, "")
+  );
+}
+
 function extractTextFromVerseObjects(
   verseObjects = []
 ) {
@@ -139,33 +164,24 @@ function extractTextFromVerseObjects(
     }
 
     if (
-      object.type === "text" ||
-      object.type === "word"
+      object.type === "footnote" ||
+      object.tag === "f"
     ) {
-      result.text += object.text ?? "";
-      continue;
-    }
-
-    if (object.type === "milestone") {
-      continue;
-    }
-
-    if (object.type === "footnote") {
       const nested = extractTextFromVerseObjects(
-        object.content ??
+        object.children ??
           object.verseObjects ??
           []
       );
 
-      const noteText = normalizeText(
-        nested.text
+      const noteText = cleanNoteContent(
+        typeof object.content === "string"
+          ? object.content
+          : nested.text
       );
 
       if (noteText) {
         result.footnotes.push({
-          id: `f${
-            result.footnotes.length + 1
-          }`,
+          id: `f${result.footnotes.length + 1}`,
           text: noteText,
         });
       }
@@ -175,29 +191,66 @@ function extractTextFromVerseObjects(
 
     if (
       object.type === "crossReference" ||
-      object.type === "cross-reference"
+      object.type === "cross-reference" ||
+      object.tag === "x"
     ) {
       const nested = extractTextFromVerseObjects(
-        object.content ??
+        object.children ??
           object.verseObjects ??
           []
       );
 
-      const referenceText = normalizeText(
-        nested.text
-      );
+      const referenceText =
+        cleanCrossReferenceContent(
+          typeof object.content === "string"
+            ? object.content
+            : nested.text
+        );
 
       if (referenceText) {
         result.crossReferences.push({
-          id: `x${
-            result.crossReferences.length + 1
-          }`,
+          id: `x${result.crossReferences.length + 1}`,
           text: referenceText,
           targets: [],
         });
       }
 
       continue;
+    }
+
+    if (
+      object.type === "text" ||
+      object.type === "word"
+    ) {
+      result.text += object.text ?? "";
+    }
+
+    if (typeof object.content === "string") {
+      if (
+        object.tag === "w" ||
+        object.tag === "+w" ||
+        object.tag === "wj" ||
+        object.tag === "+wj"
+      ) {
+        const word = cleanWordContent(
+          object.content
+        );
+
+        if (word) {
+          result.text += `${word} `;
+        }
+      } else if (
+        object.tag === "w*" ||
+        object.tag === "+w*" ||
+        object.tag === "wj*" ||
+        object.tag === "+wj*"
+      ) {
+        result.text +=
+          String(object.content ?? "") +
+          String(object.endMarkerChar ?? "");
+      } else if (!object.type) {
+        result.text += object.content;
+      }
     }
 
     if (Array.isArray(object.verseObjects)) {
@@ -217,19 +270,31 @@ function extractTextFromVerseObjects(
 
       mergeNestedResult(result, nested);
     }
+
+    if (Array.isArray(object.children)) {
+      const nested =
+        extractTextFromVerseObjects(
+          object.children
+        );
+
+      mergeNestedResult(result, nested);
+    }
   }
 
   return {
-    text: normalizeText(result.text),
+    text: normalizeText(result.text)
+      .replace(/^[|\s]+/, "")
+      .replace(/\s+([,.;:!?])/g, "$1")
+      .replace(/([“‘([{])\s+/g, "$1")
+      .replace(/\s+([”’)\]}])/g, "$1"),
     footnotes: result.footnotes,
     crossReferences:
       result.crossReferences,
   };
 }
-
 function parseUsfmBook(usfmText) {
   const parsed = usfm.toJSON(usfmText, {
-    chunk: true,
+    chunk: false,
     convertToInt: false,
   });
 
@@ -249,6 +314,10 @@ function parseUsfmBook(usfmText) {
     ] of Object.entries(
       chapterData ?? {}
     )) {
+      if (verseNumber === "front") {
+        continue;
+      }
+
       const verseObjects =
         verseData?.verseObjects ??
         verseData?.verseobjects ??
@@ -524,3 +593,11 @@ main().catch((error) => {
 
   process.exitCode = 1;
 });
+
+
+
+
+
+
+
+

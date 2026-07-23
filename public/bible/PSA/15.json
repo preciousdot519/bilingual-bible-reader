@@ -1,0 +1,99 @@
+{
+  "bookId": "PSA",
+  "chapter": 15,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "LORD, who shall dwell in your sanctuary? Who shall live on your holy hill?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，谁能寄居你的帐幕？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，誰能寄居你的帳幕？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He who walks blamelessly and does what is right, and speaks truth in his heart;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是行为正直、做事公义、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是行為正直、做事公義、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "he who doesn’t slander with his tongue, nor does evil to his friend, nor casts slurs against his fellow man;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不以舌头谗谤人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不以舌頭讒謗人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "in whose eyes a vile man is despised, but who honors those who fear the LORD; he who keeps an oath even when it hurts, and doesn’t change;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他眼中藐视匪类，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他眼中藐視匪類，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "he who doesn’t lend out his money for usury, nor take a bribe against the innocent. He who does these things shall never be shaken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不放债取利，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不放債取利，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

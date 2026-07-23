@@ -1,0 +1,608 @@
+{
+  "bookId": "GEN",
+  "chapter": 18,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在橡树那里向显现出来。那时正热，坐在帐棚门口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在橡樹那裏向顯現出來。那時正熱，坐在帳棚門口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He lifted up his eyes and looked, and saw that three men stood near him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "举目观看，见有三个人在对面站着。他一见，就从帐棚门口跑去迎接他们，俯伏在地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "舉目觀看，見有三個人在對面站着。他一見，就從帳棚門口跑去迎接他們，俯伏在地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我主，我若在你眼前蒙恩，求你不要离开仆人往前去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我主，我若在你眼前蒙恩，求你不要離開僕人往前去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now let a little water be fetched, wash your feet, and rest yourselves under the tree.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "容我拿点水来，你们洗洗脚，在树下歇息歇息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "容我拿點水來，你們洗洗腳，在樹下歇息歇息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I will get a piece of bread so you can refresh your heart. After that you may go your way, now that you have come to your servant.” They said, “Very well, do as you have said.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我再拿一点饼来，你们可以加添心力，然后往前去。你们既到仆人这里来，理当如此。」他们说：「就照你说的行吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我再拿一點餅來，你們可以加添心力，然後往前去。你們既到僕人這裏來，理當如此。」他們說：「就照你說的行吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Abraham hurried into the tent to Sarah, and said, “Quickly prepare three seahs of fine meal, knead it, and make cakes.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "18:6 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "急忙进帐棚见，说：「你速速拿三细亚细面调和做饼。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "急忙進帳棚見，說：「你速速拿三細亞細麵調和做餅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Abraham ran to the herd, and fetched a tender and good calf, and gave it to the servant. He hurried to dress it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又跑到牛群里，牵了一只又嫩又好的牛犊来，交给仆人，仆人急忙预备好了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又跑到牛群裏，牽了一隻又嫩又好的牛犢來，交給僕人，僕人急忙預備好了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又取了奶油和奶，并预备好的牛犊来，摆在他们面前，自己在树下站在旁边，他们就吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又取了奶油和奶，並預備好的牛犢來，擺在他們面前，自己在樹下站在旁邊，他們就吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They asked him, “Where is Sarah, your wife?” He said, “There, in the tent.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们问说：「你妻子在哪里？」他说：「在帐棚里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們問說：「你妻子在哪裏？」他說：「在帳棚裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He said, “I will certainly return to you at about this time next year; and behold, Sarah your wife will have a son.” Sarah heard in the tent door, which was behind him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "三人中有一位说：「到明年这时候，我必要回到你这里；你的妻子必生一个儿子。」在那人后边的帐棚门口也听见了这话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "三人中有一位說：「到明年這時候，我必要回到你這裏；你的妻子必生一個兒子。」在那人後邊的帳棚門口也聽見了這話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now Abraham and Sarah were old, well advanced in age. Sarah had passed the age of childbearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和年纪老迈，的月经已断绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和年紀老邁，的月經已斷絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Sarah laughed within herself, saying, “After I have grown old will I have pleasure, my lord being old also?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心里暗笑，说：「我既已衰败，我主也老迈，岂能有这喜事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心裏暗笑，說：「我既已衰敗，我主也老邁，豈能有這喜事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The LORD said to Abraham, “Why did Sarah laugh, saying, ‘Will I really bear a child when I am old?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对说：「为什么暗笑，说：『我既已年老，果真能生养吗？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對說：「為甚麼暗笑，說：『我既已年老，果真能生養嗎？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Is anything too hard for the LORD? At the set time I will return to you, when the season comes around, and Sarah will have a son.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华岂有难成的事吗？到了日期，明年这时候，我必回到你这里，必生一个儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華豈有難成的事嗎？到了日期，明年這時候，我必回到你這裏，必生一個兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then Sarah denied it, saying, “I didn’t laugh,” for she was afraid. He said, “No, but you did laugh.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就害怕，不承认，说：「我没有笑。」那位说：「不然，你实在笑了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就害怕，不承認，說：「我沒有笑。」那位說：「不然，你實在笑了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "三人就从那里起行，向观看，也与他们同行，要送他们一程。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "三人就從那裏起行，向觀看，也與他們同行，要送他們一程。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The LORD said, “Will I hide from Abraham what I do,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我所要做的事岂可瞒着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我所要做的事豈可瞞着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed in him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必要成为强大的国；地上的万国都必因他得福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必要成為強大的國；地上的萬國都必因他得福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For I have known him, to the end that he may command his children and his household after him, that they may keep the way of the LORD, to do righteousness and justice; to the end that the LORD may bring on Abraham that which he has spoken of him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我眷顾他，为要叫他吩咐他的众子和他的眷属遵守我的道，秉公行义，使我所应许的话都成就了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我眷顧他，為要叫他吩咐他的眾子和他的眷屬遵守我的道，秉公行義，使我所應許的話都成就了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The LORD said, “Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「和的罪恶甚重，声闻于我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「和的罪惡甚重，聲聞於我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现在要下去，察看他们所行的，果然尽像那达到我耳中的声音一样吗？若是不然，我也必知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現在要下去，察看他們所行的，果然盡像那達到我耳中的聲音一樣嗎？若是不然，我也必知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The men turned from there, and went toward Sodom, but Abraham stood yet before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人转身离开那里，向去；但仍旧站在耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人轉身離開那裏，向去；但仍舊站在耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Abraham came near, and said, “Will you consume the righteous with the wicked?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "近前来，说：「无论善恶，你都要剿灭吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "近前來，說：「無論善惡，你都要剿滅嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假若那城里有五十个义人，你还剿灭那地方吗？不为城里这五十个义人饶恕其中的人吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假若那城裏有五十個義人，你還剿滅那地方嗎？不為城裏這五十個義人饒恕其中的人嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "May it be far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将义人与恶人同杀，将义人与恶人一样看待，这断不是你所行的。审判全地的主岂不行公义吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將義人與惡人同殺，將義人與惡人一樣看待，這斷不是你所行的。審判全地的主豈不行公義嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The LORD said, “If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我若在城里见有五十个义人，我就为他们的缘故饶恕那地方的众人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我若在城裏見有五十個義人，我就為他們的緣故饒恕那地方的眾人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Abraham answered, “See now, I have taken it on myself to speak to the Lord, although I am dust and ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我虽然是灰尘，还敢对主说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我雖然是灰塵，還敢對主說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "What if there will lack five of the fifty righteous? Will you destroy all the city for lack of five?” He said, “I will not destroy it if I find forty-five there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假若这五十个义人短了五个，你就因为短了五个毁灭全城吗？」他说：「我在那里若见有四十五个，也不毁灭那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假若這五十個義人短了五個，你就因為短了五個毀滅全城嗎？」他說：「我在那裏若見有四十五個，也不毀滅那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He spoke to him yet again, and said, “What if there are forty found there?” He said, “I will not do it for the forty’s sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对他说：「假若在那里见有四十个怎么样呢？」他说：「为这四十个的缘故，我也不做这事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對他說：「假若在那裏見有四十個怎麼樣呢？」他說：「為這四十個的緣故，我也不做這事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He said, “Oh don’t let the Lord be angry, and I will speak. What if there are thirty found there?” He said, “I will not do it if I find thirty there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「求主不要动怒，容我说，假若在那里见有三十个怎么样呢？」他说：「我在那里若见有三十个，我也不做这事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「求主不要動怒，容我說，假若在那裏見有三十個怎麼樣呢？」他說：「我在那裏若見有三十個，我也不做這事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He said, “See now, I have taken it on myself to speak to the Lord. What if there are twenty found there?” He said, “I will not destroy it for the twenty’s sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我还敢对主说话，假若在那里见有二十个怎么样呢？」他说：「为这二十个的缘故，我也不毁灭那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我還敢對主說話，假若在那裏見有二十個怎麼樣呢？」他說：「為這二十個的緣故，我也不毀滅那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He said, “Oh don’t let the Lord be angry, and I will speak just once more. What if ten are found there?” He said, “I will not destroy it for the ten’s sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「求主不要动怒，我再说这一次，假若在那里见有十个呢？」他说：「为这十个的缘故，我也不毁灭那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「求主不要動怒，我再說這一次，假若在那裏見有十個呢？」他說：「為這十個的緣故，我也不毀滅那城。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The LORD went his way as soon as he had finished communing with Abraham, and Abraham returned to his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华与说完了话就走了；也回到自己的地方去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華與說完了話就走了；也回到自己的地方去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

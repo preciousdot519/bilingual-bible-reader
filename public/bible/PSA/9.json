@@ -1,0 +1,394 @@
+{
+  "bookId": "PSA",
+  "chapter": 9,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I will give thanks to the LORD with my whole heart. of all your marvelous works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要一心称谢耶和华；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要一心稱謝耶和華；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will be glad and rejoice in you. I will sing praise to your name, O Most High.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要因你欢喜快乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要因你歡喜快樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When my enemies turn back, they stumble and perish in your presence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的仇敌转身退去的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的仇敵轉身退去的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For you have maintained my just cause. You sit on the throne judging righteously.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因你已经为我伸冤，为我辨屈；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因你已經為我伸冤，為我辨屈；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You have rebuked the nations. You have destroyed the wicked. You have blotted out their name forever and ever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你曾斥责外邦，你曾灭绝恶人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你曾斥責外邦，你曾滅絕惡人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The enemy is overtaken by endless ruin. The very memory of the cities which you have overthrown has perished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仇敌到了尽头；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "仇敵到了盡頭；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But the LORD reigns forever. He has prepared his throne for judgment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟耶和华坐着，直到永远；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟耶和華坐着，直到永遠；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He will judge the world in righteousness. He will administer judgment to the peoples in uprightness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要按公义审判世界，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要按公義審判世界，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD will also be a high tower for the oppressed; a high tower in times of trouble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又要给受欺压的人作高台，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又要給受欺壓的人作高臺，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Those who know your name will put their trust in you, for you, LORD, have not forsaken those who seek you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，认识你名的人要倚靠你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，認識你名的人要倚靠你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Sing praises to the LORD, who dwells in Zion, and declare among the people what he has done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "应当歌颂居的耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "應當歌頌居的耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For he who avenges blood remembers them. He doesn’t forget the cry of the afflicted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为那追讨流人血之罪的—他记念受屈的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為那追討流人血之罪的－他記念受屈的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Have mercy on me, LORD. my affliction by those who hate me, and lift me up from the gates of death,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你是从死门把我提拔起来的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你是從死門把我提拔起來的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "that I may show all of your praise. I will rejoice in your salvation in the gates of the daughter of Zion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好叫我述说你一切的美德； 城的门因你的救恩欢乐。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:14 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好叫我述說你一切的美德； 城的門因你的救恩歡樂。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:14 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The nations have sunk down in the pit that they made. In the net which they hid, their own foot is taken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "外邦人陷在自己所掘的坑中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "外邦人陷在自己所掘的坑中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD has made himself known. He has executed judgment. The wicked is snared by the work of his own hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华已将自己显明了，他已施行审判； 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:16 或译：他叫恶人被自己手所做的累住了"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華已將自己顯明了，他已施行審判； 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:16 或譯：他叫惡人被自己手所做的累住了"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The wicked shall be turned back to Sheol, even all the nations that forget God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:17 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人，就是忘记 神的外邦人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人，就是忘記上帝的外邦人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For the needy shall not always be forgotten, the hope of the poor perish forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "穷乏人必不永久被忘；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "窮乏人必不永久被忘；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Arise, LORD! Don’t let man prevail. Let the nations be judged in your sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你起来，不容人得胜！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你起來，不容人得勝！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Put them in fear, LORD. the nations know that they are only men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你使外邦人恐惧；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你使外邦人恐懼；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

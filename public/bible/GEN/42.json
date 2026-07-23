@@ -1,0 +1,698 @@
+{
+  "bookId": "GEN",
+  "chapter": 42,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, “Why do you look at one another?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见有粮，就对儿子们说：「你们为什么彼此观望呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見有糧，就對兒子們說：「你們為甚麼彼此觀望呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said, “Behold, I have heard that there is grain in Egypt. Go down there, and buy for us from there, so that we may live, and not die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见有粮，你们可以下去，从那里为我们籴些来，使我们可以存活，不至于死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見有糧，你們可以下去，從那裏為我們糴些來，使我們可以存活，不至於死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Joseph’s ten brothers went down to buy grain from Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，的十个哥哥都下籴粮去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，的十個哥哥都下糴糧去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But Jacob didn’t send Benjamin, Joseph’s brother, with his brothers; for he said, “Lest perhaps harm happen to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但的兄弟，没有打发他和哥哥们同去，因为说：「恐怕他遭害。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但的兄弟，沒有打發他和哥哥們同去，因為說：「恐怕他遭害。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The sons of Israel came to buy among those who came, for the famine was in the land of Canaan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "来籴粮的人中有的儿子们，因为地也有饥荒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "來糴糧的人中有的兒子們，因為地也有饑荒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Joseph was the governor over the land. It was he who sold to all the people of the land. Joseph’s brothers came, and bowed themselves down to him with their faces to the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时治理地的是；粜粮给那地众民的就是他。的哥哥们来了，脸伏于地，向他下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時治理地的是；糶糧給那地眾民的就是他。的哥哥們來了，臉伏於地，向他下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Joseph saw his brothers, and he recognized them, but acted like a stranger to them, and spoke roughly with them. He said to them, “Where did you come from?” They said, “From the land of Canaan, to buy food.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见他哥哥们，就认得他们，却装作生人，向他们说些严厉话，问他们说：「你们从哪里来？」他们说：「我们从地来籴粮。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見他哥哥們，就認得他們，卻裝作生人，向他們說些嚴厲話，問他們說：「你們從哪裏來？」他們說：「我們從地來糴糧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Joseph recognized his brothers, but they didn’t recognize him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "认得他哥哥们，他们却不认得他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "認得他哥哥們，他們卻不認得他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Joseph remembered the dreams which he dreamed about them, and said to them, “You are spies! You have come to see the nakedness of the land.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "想起从前所做的那两个梦，就对他们说：「你们是奸细，来窥探这地的虚实。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "想起從前所做的那兩個夢，就對他們說：「你們是奸細，來窺探這地的虛實。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They said to him, “No, my lord, but your servants have come to buy food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们对他说：「我主啊，不是的。仆人们是籴粮来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們對他說：「我主啊，不是的。僕人們是糴糧來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "We are all one man’s sons; we are honest men. Your servants are not spies.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们都是一个人的儿子，是诚实人；仆人们并不是奸细。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們都是一個人的兒子，是誠實人；僕人們並不是奸細。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He said to them, “No, but you have come to see the nakedness of the land!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「不然，你们必是窥探这地的虚实来的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「不然，你們必是窺探這地的虛實來的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They said, “We, your servants, are twelve brothers, the sons of one man in the land of Canaan; and behold, the youngest is today with our father, and one is no more.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「仆人们本是弟兄十二人，是地一个人的儿子，顶小的现今在我们的父亲那里，有一个没有了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「僕人們本是弟兄十二人，是地一個人的兒子，頂小的現今在我們的父親那裏，有一個沒有了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Joseph said to them, “It is like I told you, saying, ‘You are spies!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我才说你们是奸细，这话实在不错。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我才說你們是奸細，這話實在不錯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "By this you shall be tested. By the life of Pharaoh, you shall not go out from here, unless your youngest brother comes here.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我指着法老的性命起誓，若是你们的小兄弟不到这里来，你们就不得出这地方，从此就可以把你们证验出来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我指着法老的性命起誓，若是你們的小兄弟不到這裏來，你們就不得出這地方，從此就可以把你們證驗出來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Send one of you, and let him get your brother, and you shall be bound, that your words may be tested, whether there is truth in you, or else by the life of Pharaoh surely you are spies.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "须要打发你们中间一个人去，把你们的兄弟带来。至于你们，都要囚在这里，好证验你们的话真不真，若不真，我指着法老的性命起誓，你们一定是奸细。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "須要打發你們中間一個人去，把你們的兄弟帶來。至於你們，都要囚在這裏，好證驗你們的話真不真，若不真，我指着法老的性命起誓，你們一定是奸細。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He put them all together into custody for three days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是把他们都下在监里三天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是把他們都下在監裏三天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Joseph said to them the third day, “Do this, and live, for I fear God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到第三天，对他们说：「我是敬畏 神的；你们照我的话行就可以存活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到第三天，對他們說：「我是敬畏上帝的；你們照我的話行就可以存活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "If you are honest men, then let one of your brothers be bound in your prison; but you go, carry grain for the famine of your houses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们如果是诚实人，可以留你们中间的一个人囚在监里，但你们可以带着粮食回去，救你们家里的饥荒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們如果是誠實人，可以留你們中間的一個人囚在監裏，但你們可以帶着糧食回去，救你們家裏的饑荒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Bring your youngest brother to me; so will your words be verified, and you won’t die.” They did so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把你们的小兄弟带到我这里来，如此，你们的话便有证据，你们也不至于死。」他们就照样而行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把你們的小兄弟帶到我這裏來，如此，你們的話便有證據，你們也不至於死。」他們就照樣而行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They said to one another, “We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn’t listen. Therefore this distress has come upon us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们彼此说：「我们在兄弟身上实在有罪。他哀求我们的时候，我们见他心里的愁苦，却不肯听，所以这场苦难临到我们身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們彼此說：「我們在兄弟身上實在有罪。他哀求我們的時候，我們見他心裏的愁苦，卻不肯聽，所以這場苦難臨到我們身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Reuben answered them, saying, “Didn’t I tell you, saying, ‘Don’t sin against the child,’ and you wouldn’t listen? Therefore also, behold, his blood is required.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我岂不是对你们说过，不可伤害那孩子吗？只是你们不肯听，所以流他血的罪向我们追讨。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我豈不是對你們說過，不可傷害那孩子嗎？只是你們不肯聽，所以流他血的罪向我們追討。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They didn’t know that Joseph understood them; for there was an interpreter between them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不知道听得出来，因为在他们中间用通事传话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不知道聽得出來，因為在他們中間用通事傳話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He turned himself away from them, and wept. Then he returned to them, and spoke to them, and took Simeon from among them, and bound him before their eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "转身退去，哭了一场，又回来对他们说话，就从他们中间挑出来，在他们眼前把他捆绑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "轉身退去，哭了一場，又回來對他們說話，就從他們中間挑出來，在他們眼前把他捆綁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Then Joseph gave a command to fill their bags with grain, and to restore each man’s money into his sack, and to give them food for the way. So it was done to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吩咐人把粮食装满他们的器具，把各人的银子归还在各人的口袋里，又给他们路上用的食物，人就照他的话办了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吩咐人把糧食裝滿他們的器具，把各人的銀子歸還在各人的口袋裏，又給他們路上用的食物，人就照他的話辦了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They loaded their donkeys with their grain, and departed from there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就把粮食驮在驴上，离开那里去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就把糧食馱在驢上，離開那裏去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "As one of them opened his sack to give his donkey food in the lodging place, he saw his money. Behold, it was in the mouth of his sack.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了住宿的地方，他们中间有一个人打开口袋，要拿料喂驴，才看见自己的银子仍在口袋里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了住宿的地方，他們中間有一個人打開口袋，要拿料餵驢，才看見自己的銀子仍在口袋裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He said to his brothers, “My money is restored! Behold, it is in my sack!” Their hearts failed them, and they turned trembling to one another, saying, “What is this that God has done to us?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对弟兄们说：「我的银子归还了，看哪，仍在我口袋里！」他们就提心吊胆，战战兢兢地彼此说：「这是 神向我们做什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對弟兄們說：「我的銀子歸還了，看哪，仍在我口袋裏！」他們就提心吊膽，戰戰兢兢地彼此說：「這是上帝向我們做甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They came to Jacob their father, to the land of Canaan, and told him all that had happened to them, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来到地、他们的父亲那里，将所遭遇的事都告诉他，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來到地、他們的父親那裏，將所遭遇的事都告訴他，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“The man, the lord of the land, spoke roughly with us, and took us for spies of the country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那地的主对我们说严厉的话，把我们当作窥探那地的奸细。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那地的主對我們說嚴厲的話，把我們當作窺探那地的奸細。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "We said to him, ‘We are honest men. We are no spies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们对他说：『我们是诚实人，并不是奸细。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們對他說：『我們是誠實人，並不是奸細。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "We are twelve brothers, sons of our father; one is no more, and the youngest is today with our father in the land of Canaan.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们本是弟兄十二人，都是一个父亲的儿子，有一个没有了，顶小的如今同我们的父亲在地。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們本是弟兄十二人，都是一個父親的兒子，有一個沒有了，頂小的如今同我們的父親在地。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The man, the lord of the land, said to us, ‘By this I will know that you are honest men: leave one of your brothers with me, and take grain for the famine of your houses, and go your way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那地的主对我们说：『若要我知道你们是诚实人，可以留下你们中间的一个人在我这里，你们可以带着回去，救你们家里的饥荒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那地的主對我們說：『若要我知道你們是誠實人，可以留下你們中間的一個人在我這裏，你們可以帶着回去，救你們家裏的饑荒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把你们的小兄弟带到我这里来，我便知道你们不是奸细，乃是诚实人。这样，我就把你们的弟兄交给你们，你们也可以在这地做买卖。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把你們的小兄弟帶到我這裏來，我便知道你們不是奸細，乃是誠實人。這樣，我就把你們的弟兄交給你們，你們也可以在這地做買賣。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "As they emptied their sacks, behold, each man’s bundle of money was in his sack. When they and their father saw their bundles of money, they were afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来他们倒口袋，不料，各人的银包都在口袋里；他们和父亲看见银包就都害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來他們倒口袋，不料，各人的銀包都在口袋裏；他們和父親看見銀包就都害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Jacob, their father, said to them, “You have bereaved me of my children! Joseph is no more, Simeon is no more, and you want to take Benjamin away. All these things are against me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的父亲对他们说：「你们使我丧失我的儿子：没有了，也没有了，你们又要将带去；这些事都归到我身上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的父親對他們說：「你們使我喪失我的兒子：沒有了，也沒有了，你們又要將帶去；這些事都歸到我身上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Reuben spoke to his father, saying, “Kill my two sons, if I don’t bring him to you. Entrust him to my care, and I will bring him to you again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他父亲说：「我若不带他回来交给你，你可以杀我的两个儿子。只管把他交在我手里，我必带他回来交给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他父親說：「我若不帶他回來交給你，你可以殺我的兩個兒子。只管把他交在我手裏，我必帶他回來交給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He said, “My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "42:38 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我的儿子不可与你们一同下去；他哥哥死了，只剩下他，他若在你们所行的路上遭害，那便是你们使我白发苍苍、悲悲惨惨地下阴间去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我的兒子不可與你們一同下去；他哥哥死了，只剩下他，他若在你們所行的路上遭害，那便是你們使我白髮蒼蒼、悲悲慘慘地下陰間去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

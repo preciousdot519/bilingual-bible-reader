@@ -1,0 +1,145 @@
+{
+  "bookId": "PSA",
+  "chapter": 120,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In my distress, I cried to the LORD. He answered me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在急难中求告耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在急難中求告耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Deliver my soul, LORD, from lying lips, from a deceitful tongue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你救我脱离说谎的嘴唇和诡诈的舌头！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你救我脫離說謊的嘴唇和詭詐的舌頭！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "What will be given to you, and what will be done more to you, you deceitful tongue?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诡诈的舌头啊，要给你什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "詭詐的舌頭啊，要給你甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Sharp arrows of the mighty, with coals of juniper.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是勇士的利箭和罗腾木 的炭火。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 120:4 小树名，松类"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是勇士的利箭和羅騰木 的炭火。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 120:4 小樹名，松類"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Woe is me, that I live in Meshech, that I dwell among the tents of Kedar!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我寄居在， 帐棚之中，有祸了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我寄居在， 帳棚之中，有禍了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "My soul has had her dwelling too long with him who hates peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我与那恨恶和睦的人许久同住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我與那恨惡和睦的人許久同住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I am for peace, but when I speak, they are for war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我愿和睦，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我願和睦，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

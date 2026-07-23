@@ -1,0 +1,913 @@
+{
+  "bookId": "PSA",
+  "chapter": 106,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Praise the LORD! Give thanks to the LORD, for he is good, for his loving kindness endures forever.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "106:1 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要赞美耶和华！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要讚美耶和華！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Who can utter the mighty acts of the LORD, or fully declare all his praise?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁能传说耶和华的大能？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰能傳說耶和華的大能？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Blessed are those who keep justice. is one who does what is right at all times.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡遵守公平、常行公义的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡遵守公平、常行公義的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Remember me, LORD, with the favor that you show to your people. Visit me with your salvation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你用恩惠待你的百姓；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你用恩惠待你的百姓；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "that I may see the prosperity of your chosen, that I may rejoice in the gladness of your nation, that I may glory with your inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使我见你选民的福，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使我見你選民的福，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We have sinned with our fathers. have committed iniquity. have done wickedly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们与我们的祖宗一同犯罪；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們與我們的祖宗一同犯罪；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Our fathers didn’t understand your wonders in Egypt. They didn’t remember the multitude of your loving kindnesses, but were rebellious at the sea, even at the Red Sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的祖宗在不明白你的奇事， 行了悖逆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的祖宗在不明白你的奇事， 行了悖逆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Nevertheless he saved them for his name’s sake, that he might make his mighty power known.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，他因自己的名拯救他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，他因自己的名拯救他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He rebuked the Red Sea also, and it was dried up; he led them through the depths, as through a desert.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且斥责，海便干了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且斥責，海便乾了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He saved them from the hand of him who hated them, and redeemed them from the hand of the enemy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他拯救他们脱离恨他们人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他拯救他們脫離恨他們人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The waters covered their adversaries. There was not one of them left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水淹没他们的敌人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水淹沒他們的敵人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then they believed his words. They sang his praise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，他们才信了他的话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，他們才信了他的話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They soon forgot his works. They didn’t wait for his counsel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "等不多时，他们就忘了他的作为，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "等不多時，他們就忘了他的作為，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "but gave in to craving in the desert, and tested God in the wasteland.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "反倒在旷野大起欲心，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "反倒在曠野大起慾心，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He gave them their request, but sent leanness into their soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将他们所求的赐给他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將他們所求的賜給他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They envied Moses also in the camp, and Aaron, the LORD’s saint.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又在营中嫉妒 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又在營中嫉妒 。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地裂开，吞下， 一党的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地裂開，吞下， 一黨的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "A fire was kindled in their company. The flame burned up the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有火在他们的党中发起；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有火在他們的黨中發起；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They made a calf in Horeb, and worshiped a molten image.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在造了牛犊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在造了牛犢，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Thus they exchanged their glory for an image of a bull that eats grass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如此将他们荣耀",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此將他們榮耀",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They forgot God, their Savior, who had done great things in Egypt,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忘了 神—他们的救主； 行大事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "忘了上帝－他們的救主； 行大事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "wondrous works in the land of Ham, and awesome things by the Red Sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在地行奇事， 行可畏的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在地行奇事， 行可畏的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Therefore he said that he would destroy them, had Moses, his chosen, not stood before him in the breach, to turn away his wrath, so that he wouldn’t destroy them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，他说要灭绝他们； 站在当中，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:23 原文是破口"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，他說要滅絕他們； 站在當中，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:23 原文是破口"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Yes, they despised the pleasant land. They didn’t believe his word,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又藐视那美地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又藐視那美地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "but murmured in their tents, and didn’t listen to the LORD’s voice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在自己帐棚内发怨言，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在自己帳棚內發怨言，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Therefore he swore to them that he would overthrow them in the wilderness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，他对他们起誓：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，他對他們起誓：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "that he would overthrow their offspring among the nations, and scatter them in the lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫他们的后裔倒在列国之中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫他們的後裔倒在列國之中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They joined themselves also to Baal Peor, and ate the sacrifices of the dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又与连合， 的物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:28 或译：人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又與連合， 的物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:28 或譯：人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Thus they provoked him to anger with their deeds. The plague broke in on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们这样行，惹耶和华发怒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們這樣行，惹耶和華發怒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Then Phinehas stood up and executed judgment, so the plague was stopped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，站起，刑罚恶人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，站起，刑罰惡人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "That was credited to him for righteousness, for all generations to come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那就算为他的义，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那就算為他的義，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They angered him also at the waters of Meribah, so that Moses was troubled for their sakes;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在水又叫耶和华发怒， 也受了亏损，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在水又叫耶和華發怒， 也受了虧損，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "because they were rebellious against his spirit, he spoke rashly with his lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是因他们惹动他的灵， 用嘴说了急躁的话。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:33 原文是他"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是因他們惹動他的靈， 用嘴說了急躁的話。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 106:33 原文是他"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "They didn’t destroy the peoples, as the LORD commanded them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不照耶和华所吩咐的",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不照耶和華所吩咐的",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "but mixed themselves with the nations, and learned their works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "反与他们混杂相合，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "反與他們混雜相合，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "They served their idols, which became a snare to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "事奉他们的偶像，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "事奉他們的偶像，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Yes, they sacrificed their sons and their daughters to demons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把自己的儿女祭祀鬼魔，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把自己的兒女祭祀鬼魔，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "They shed innocent blood, the blood of their sons and of their daughters, they sacrificed to the idols of Canaan. The land was polluted with blood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "流无辜人的血， 的偶像，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "流無辜人的血， 的偶像，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Thus they were defiled with their works, and prostituted themselves in their deeds.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，他们被自己所做的污秽了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，他們被自己所做的污穢了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Therefore the LORD burned with anger against his people. He abhorred his inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，耶和华的怒气向他的百姓发作，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，耶和華的怒氣向他的百姓發作，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He gave them into the hand of the nations. Those who hated them ruled over them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将他们交在外邦人的手里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將他們交在外邦人的手裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Their enemies also oppressed them. They were brought into subjection under their hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的仇敌也欺压他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的仇敵也欺壓他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He rescued them many times, but they were rebellious in their counsel, and were brought low in their iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他屡次搭救他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他屢次搭救他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Nevertheless he regarded their distress, when he heard their cry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，他听见他们哀告的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，他聽見他們哀告的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "He remembered for them his covenant, and repented according to the multitude of his loving kindnesses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为他们记念他的约，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為他們記念他的約，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "He made them also to be pitied by all those who carried them captive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也使他们在凡掳掠他们的人面前蒙怜恤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也使他們在凡擄掠他們的人面前蒙憐恤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Save us, LORD, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们的 神啊，求你拯救我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們的上帝啊，求你拯救我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Blessed be the LORD, the God of Israel, from everlasting even to everlasting! all the people say, “Amen.” Praise the LORD!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "106:48 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—的 神是应当称颂的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－的上帝是應當稱頌的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

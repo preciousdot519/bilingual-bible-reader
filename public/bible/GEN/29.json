@@ -1,0 +1,699 @@
+{
+  "bookId": "GEN",
+  "chapter": 29,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Jacob went on his journey, and came to the land of the children of the east.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起行，到了东方人之地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起行，到了東方人之地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He looked, and saw a well in the field, and saw three flocks of sheep lying there by it. For out of that well they watered the flocks. The stone on the well’s mouth was large.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见田间有一口井，有三群羊卧在井旁；因为人饮羊群都是用那井里的水。井口上的石头是大的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見田間有一口井，有三群羊臥在井旁；因為人飲羊群都是用那井裏的水。井口上的石頭是大的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "There all the flocks were gathered. They rolled the stone from the well’s mouth, and watered the sheep, and put the stone back on the well’s mouth in its place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "常有羊群在那里聚集，牧人把石头转离井口饮羊，随后又把石头放在井口的原处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "常有羊群在那裏聚集，牧人把石頭轉離井口飲羊，隨後又把石頭放在井口的原處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Jacob said to them, “My relatives, where are you from?” from Haran.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对牧人说：「弟兄们，你们是哪里来的？」他们说：「我们是来的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對牧人說：「弟兄們，你們是哪裏來的？」他們說：「我們是來的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said to them, “Do you know Laban, the son of Nahor?” They said, “We know him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他问他们说：「的孙子，你们认识吗？」他们说：「我们认识。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他問他們說：「的孫子，你們認識嗎？」他們說：「我們認識。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He said to them, “Is it well with him?” They said, “It is well. See, Rachel, his daughter, is coming with the sheep.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「他平安吗？」他们说：「平安。看哪，他女儿领着羊来了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「他平安嗎？」他們說：「平安。看哪，他女兒領着羊來了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He said, “Behold, it is still the middle of the day, not time to gather the livestock together. Water the sheep, and go and feed them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「日头还高，不是羊群聚集的时候，你们不如饮羊，再去放一放。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「日頭還高，不是羊群聚集的時候，你們不如飲羊，再去放一放。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They said, “We can’t, until all the flocks are gathered together, and they roll the stone from the well’s mouth. Then we will water the sheep.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「我们不能，必等羊群聚齐，人把石头转离井口才可饮羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「我們不能，必等羊群聚齊，人把石頭轉離井口才可飲羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "While he was yet speaking with them, Rachel came with her father’s sheep, for she kept them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正和他们说话的时候，领着她父亲的羊来了，因为那些羊是她牧放的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正和他們說話的時候，領着她父親的羊來了，因為那些羊是她牧放的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "When Jacob saw Rachel the daughter of Laban, his mother’s brother, and the sheep of Laban, his mother’s brother, Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见母舅的女儿和母舅的羊群，就上前把石头转离井口，饮他母舅的羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見母舅的女兒和母舅的羊群，就上前把石頭轉離井口，飲他母舅的羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Jacob kissed Rachel, and lifted up his voice, and wept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与亲嘴，就放声而哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與親嘴，就放聲而哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jacob told Rachel that he was her father’s relative, and that he was Rebekah’s son. She ran and told her father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "告诉，自己是她父亲的外甥，是的儿子，就跑去告诉她父亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "告訴，自己是她父親的外甥，是的兒子，就跑去告訴她父親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When Laban heard the news of Jacob, his sister’s son, he ran to meet Jacob, and embraced him, and kissed him, and brought him to his house. Jacob told Laban all these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听见外甥的信息，就跑去迎接，抱着他，与他亲嘴，领他到自己的家。将一切的情由告诉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽見外甥的信息，就跑去迎接，抱着他，與他親嘴，領他到自己的家。將一切的情由告訴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Laban said to him, “Surely you are my bone and my flesh.” Jacob stayed with him for a month.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「你实在是我的骨肉。」就和他同住了一个月。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「你實在是我的骨肉。」就和他同住了一個月。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Laban said to Jacob, “Because you are my relative, should you therefore serve me for nothing? Tell me, what will your wages be?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「你虽是我的骨肉，岂可白白地服事我？请告诉我，你要什么为工价？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:15 原文是弟兄"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「你雖是我的骨肉，豈可白白地服事我？請告訴我，你要甚麼為工價？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:15 原文是弟兄"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Laban had two daughters. The name of the elder was Leah, and the name of the younger was Rachel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有两个女儿，大的名叫，小的名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有兩個女兒，大的名叫，小的名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Leah’s eyes were weak, but Rachel was beautiful in form and attractive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的眼睛没有神气，却生得美貌俊秀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的眼睛沒有神氣，卻生得美貌俊秀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Jacob loved Rachel. He said, “I will serve you seven years for Rachel, your younger daughter.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱，就说：「我愿为你小女儿服事你七年。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛，就說：「我願為你小女兒服事你七年。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Laban said, “It is better that I give her to you, than that I should give her to another man. Stay with me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我把她给你，胜似给别人，你与我同住吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我把她給你，勝似給別人，你與我同住吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Jacob served seven years for Rachel. They seemed to him but a few days, for the love he had for her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就为服事了七年；他因为深爱，就看这七年如同几天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就為服事了七年；他因為深愛，就看這七年如同幾天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jacob said to Laban, “Give me my wife, for my days are fulfilled, that I may go in to her.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「日期已经满了，求你把我的妻子给我，我好与她同房。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「日期已經滿了，求你把我的妻子給我，我好與她同房。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Laban gathered together all the men of the place, and made a feast.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就摆设筵席，请齐了那地方的众人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就擺設筵席，請齊了那地方的眾人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "In the evening, he took Leah his daughter, and brought her to Jacob. He went in to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到晚上，将女儿送来给，就与她同房。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到晚上，將女兒送來給，就與她同房。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Laban gave Zilpah his servant to his daughter Leah for a servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将婢女给女儿作使女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將婢女給女兒作使女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "In the morning, behold, it was Leah! He said to Laban, “What is this you have done to me? Didn’t I serve with you for Rachel? Why then have you deceived me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了早晨，一看是，就对说：「你向我做的是什么事呢？我服事你，不是为吗？你为什么欺哄我呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了早晨，一看是，就對說：「你向我做的是甚麼事呢？我服事你，不是為嗎？你為甚麼欺哄我呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Laban said, “It is not done so in our place, to give the younger before the firstborn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「大女儿还没有给人，先把小女儿给人，在我们这地方没有这规矩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「大女兒還沒有給人，先把小女兒給人，在我們這地方沒有這規矩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Fulfill the week of this one, and we will give you the other also for the service which you will serve with me for seven more years.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你为这个满了七日，我就把那个也给你，你再为她服事我七年。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你為這個滿了七日，我就把那個也給你，你再為她服事我七年。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Jacob did so, and fulfilled her week. He gave him Rachel his daughter as wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就如此行。满了的七日，便将女儿给为妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如此行。滿了的七日，便將女兒給為妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Laban gave Bilhah, his servant, to his daughter Rachel to be her servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将婢女给女儿作使女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將婢女給女兒作使女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He went in also to Rachel, and he loved also Rachel more than Leah, and served with him seven more years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也与同房，并且爱胜似爱，于是又服事了七年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也與同房，並且愛勝似愛，於是又服事了七年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The LORD saw that Leah was hated, and he opened her womb, but Rachel was barren.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华见失宠，就使她生育，却不生育。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:31 原文是被恨；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華見失寵，就使她生育，卻不生育。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:31 原文是被恨；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Leah conceived, and bore a son, and she named him Reuben. For she said, “Because the LORD has looked at my affliction; for now my husband will love me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怀孕生子，就给他起名叫，因而说：「耶和华看见我的苦情，如今我的丈夫必爱我。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:32 就是有儿子的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懷孕生子，就給他起名叫，因而說：「耶和華看見我的苦情，如今我的丈夫必愛我。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:32 就是有兒子的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "She conceived again, and bore a son, and said, “Because the LORD has heard that I am hated, he has therefore given me this son also.” She named him Simeon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她又怀孕生子，就说：「耶和华因为听见我失宠，所以又赐给我这个儿子」，于是给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:33 就是听见的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她又懷孕生子，就說：「耶和華因為聽見我失寵，所以又賜給我這個兒子」，於是給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:33 就是聽見的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "She conceived again, and bore a son. She said, “Now this time my husband will be joined to me, because I have borne him three sons.” Therefore his name was called Levi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她又怀孕生子，起名叫，说：「我给丈夫生了三个儿子，他必与我联合。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:34 就是联合的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她又懷孕生子，起名叫，說：「我給丈夫生了三個兒子，他必與我聯合。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:34 就是聯合的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "She conceived again, and bore a son. She said, “This time I will praise the LORD.” Therefore she named him Judah. Then she stopped bearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她又怀孕生子，说：「这回我要赞美耶和华」，因此给他起名叫。这才停了生育。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:35 就是赞美的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她又懷孕生子，說：「這回我要讚美耶和華」，因此給他起名叫。這才停了生育。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:35 就是讚美的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "bookId": "PSA",
+  "chapter": 8,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "LORD, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们的主啊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們的主啊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "From the lips of babes and infants you have established strength, because of your adversaries, that you might silence the enemy and the avenger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你因敌人的缘故，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你因敵人的緣故，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have ordained,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我观看你指头所造的天，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我觀看你指頭所造的天，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "what is man, that you think of him? What is the son of man, that you care for him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "：人算什么，你竟顾念他！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "：人算甚麼，你竟顧念他！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For you have made him a little lower than the angels, and crowned him with glory and honor.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:5 Hebrew: Elohim. The word Elohim, used here, usually means “God”, but can also mean “gods”, “princes”, or “angels”. The Septuagint reads “angels” here. See also the quote from the Septuagint in Hebrews 2:7."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你叫他比天使微小一点，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:5 或译： 神"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你叫他比天使微小一點，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:5 或譯：上帝"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You make him ruler over the works of your hands. You have put all things under his feet:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6-8",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你派他管理你手所造的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你派他管理你手所造的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "All sheep and cattle, and the animals of the field,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "the birds of the sky, the fish of the sea, and whatever passes through the paths of the seas.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "LORD, our Lord, your name in all the earth!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们的主啊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們的主啊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

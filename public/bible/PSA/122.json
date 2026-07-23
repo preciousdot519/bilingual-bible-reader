@@ -1,0 +1,181 @@
+{
+  "bookId": "PSA",
+  "chapter": 122,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I was glad when they said to me, Let’s go to the LORD’s house!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人对我说：我们往耶和华的殿去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人對我說：我們往耶和華的殿去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Our feet are standing within your gates, Jerusalem!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "啊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "啊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jerusalem is built as a city that is compact together,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "被建造，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "被建造，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "where the tribes go up, even the LORD’s tribes, to an ordinance for Israel, to give thanks to the LORD’s name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众支派，就是耶和华的支派，上那里去， 的常例称赞耶和华的名。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 122:4 或译：作以色列的证据"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾支派，就是耶和華的支派，上那裏去， 的常例稱讚耶和華的名。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 122:4 或譯：作以色列的證據"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For there are set thrones for judgment, the thrones of David’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为在那里设立审判的宝座， 家的宝座。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為在那裏設立審判的寶座， 家的寶座。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Pray for the peace of Jerusalem. who love you will prosper.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要为求平安！ 啊，爱你的人必然兴旺！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要為求平安！ 啊，愛你的人必然興旺！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Peace be within your walls, and prosperity within your palaces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你城中平安！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你城中平安！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For my brothers’ and companions’ sakes, I will now say, “Peace be within you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我弟兄和同伴的缘故，我要说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我弟兄和同伴的緣故，我要說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For the sake of the house of the LORD our God, I will seek your good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因耶和华—我们 神殿的缘故，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因耶和華－我們上帝殿的緣故，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

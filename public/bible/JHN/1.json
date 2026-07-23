@@ -1,0 +1,1017 @@
+{
+  "bookId": "JHN",
+  "chapter": 1,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "太初有道，道与 神同在，道就是 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "太初有道，道與上帝同在，道就是上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The same was in the beginning with God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这道太初与 神同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這道太初與上帝同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "All things were made through him. Without him, nothing was made that has been made.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万物是借着他造的；凡被造的，没有一样不是借着他造的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬物是藉着他造的；凡被造的，沒有一樣不是藉着他造的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "In him was life, and the life was the light of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生命在他里头，这生命就是人的光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生命在他裏頭，這生命就是人的光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The light shines in the darkness, and the darkness hasn’t overcome it.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:5 The word translated “overcome” (κατέλαβεν) can also be translated “comprehended.” It refers to getting a grip on an enemy to defeat him."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "光照在黑暗里，黑暗却不接受光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "光照在黑暗裏，黑暗卻不接受光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "There came a man sent from God, whose name was John.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个人，是从 神那里差来的，名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個人，是從上帝那裏差來的，名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The same came as a witness, that he might testify about the light, that all might believe through him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这人来，为要作见证，就是为光作见证，叫众人因他可以信。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人來，為要作見證，就是為光作見證，叫眾人因他可以信。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He was not the light, but was sent that he might testify about the light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不是那光，乃是要为光作见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不是那光，乃是要為光作見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The true light that enlightens everyone was coming into the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那光是真光，照亮一切生在世上的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那光是真光，照亮一切生在世上的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He was in the world, and the world was made through him, and the world didn’t recognize him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在世界，世界也是借着他造的，世界却不认识他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在世界，世界也是藉着他造的，世界卻不認識他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He came to his own, and those who were his own didn’t receive him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他到自己的地方来，自己的人倒不接待他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他到自己的地方來，自己的人倒不接待他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡接待他的，就是信他名的人，他就赐他们权柄作 神的儿女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡接待他的，就是信他名的人，他就賜他們權柄作上帝的兒女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这等人不是从血气生的，不是从情欲生的，也不是从人意生的，乃是从 神生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這等人不是從血氣生的，不是從情慾生的，也不是從人意生的，乃是從上帝生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The Word became flesh and lived among us. We saw his glory, such glory as of the only born Son of the Father, full of grace and truth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:14 The phrase “only born” is from the Greek word “μονογενους”, which is sometimes translated “only begotten” or “one and only”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "道成了肉身，住在我们中间，充充满满地有恩典有真理。我们也见过他的荣光，正是父独生子的荣光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "道成了肉身，住在我們中間，充充滿滿地有恩典有真理。我們也見過他的榮光，正是父獨生子的榮光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为他作见证，喊着说：「这就是我曾说：『那在我以后来的，反成了在我以前的，因他本来在我以前。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為他作見證，喊着說：「這就是我曾說：『那在我以後來的，反成了在我以前的，因他本來在我以前。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "From his fullness we all received grace upon grace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从他丰满里，我们都领受了，而且恩上加恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從他豐滿裏，我們都領受了，而且恩上加恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For the law was given through Moses. Grace and truth were realized through Jesus Christ.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:17 “Christ” means “Anointed One”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "律法本是借着传的；恩典和真理都是由耶稣基督来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法本是藉着傳的；恩典和真理都是由耶穌基督來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "No one has seen God at any time. The only born Son, who is in the bosom of the Father, has declared him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:18 The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”."
+          },
+          {
+            "id": "f2",
+            "text": "1:18 NU reads “God”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从来没有人看见 神，只有在父怀里的独生子将他表明出来。 （太3·1—12；可1·1—8；路3·1—18）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從來沒有人看見上帝，只有在父懷裏的獨生子將他表明出來。 （太3‧1－12；可1‧1－8；路3‧1－18）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所作的见证记在下面：人从差祭司和人到那里，问他说：「你是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所作的見證記在下面：人從差祭司和人到那裏，問他說：「你是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He declared, and didn’t deny, but he declared, “I am not the Christ.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就明说，并不隐瞒，明说：「我不是基督。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就明說，並不隱瞞，明說：「我不是基督。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They asked him, “What then? Are you Elijah?” He said, “I am not.” Are you the prophet?” He answered, “No.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又问他说：「这样，你是谁呢？是吗？」他说：「我不是。」「是那先知吗？」他回答说：「不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又問他說：「這樣，你是誰呢？是嗎？」他說：「我不是。」「是那先知嗎？」他回答說：「不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们说：「你到底是谁，叫我们好回复差我们来的人。你自己说，你是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們說：「你到底是誰，叫我們好回覆差我們來的人。你自己說，你是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as Isaiah the prophet said.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:23 Isaiah 40:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他说：「我就是那在旷野有人声喊着说：『修直主的道路』，正如先知所说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「我就是那在曠野有人聲喊着說：『修直主的道路』，正如先知所說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The ones who had been sent were from the Pharisees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些人是法利赛人差来的；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:24 或译：那差来的是法利赛人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些人是法利賽人差來的；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:24 或譯：那差來的是法利賽人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就问他说：「你既不是基督，不是，也不是那先知，为什么施洗呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就問他說：「你既不是基督，不是，也不是那先知，為甚麼施洗呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "John answered them, “I baptize in water, but among you stands one whom you don’t know.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "回答说：「我是用水施洗，但有一位站在你们中间，是你们不认识的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "回答說：「我是用水施洗，但有一位站在你們中間，是你們不認識的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是那在我以后来的，我给他解鞋带也不配。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是那在我以後來的，我給他解鞋帶也不配。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是在外，施洗的地方作的见证。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:28 有古卷：伯大巴喇"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是在外，施洗的地方作的見證。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:28 有古卷：伯大巴喇"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The next day, he saw Jesus coming to him, and said, “Behold, the Lamb of God, who takes away the sin of the world!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:29 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "次日，看见耶稣来到他那里，就说：「看哪， 神的羔羊，除去世人罪孽的！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:29 或译：背负"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "次日，看見耶穌來到他那裏，就說：「看哪，上帝的羔羊，除去世人罪孽的！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:29 或譯：背負"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是我曾说：『有一位在我以后来、反成了在我以前的，因他本来在我以前。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是我曾說：『有一位在我以後來、反成了在我以前的，因他本來在我以前。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "I didn’t know him, but for this reason I came baptizing in water, that he would be revealed to Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我先前不认识他，如今我来用水施洗，为要叫他显明给人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我先前不認識他，如今我來用水施洗，為要叫他顯明給人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又作见证说：「我曾看见圣灵，仿佛鸽子从天降下，住在他的身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又作見證說：「我曾看見聖靈，彷彿鴿子從天降下，住在他的身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我先前不认识他，只是那差我来用水施洗的、对我说：『你看见圣灵降下来，住在谁的身上，谁就是用圣灵施洗的。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我先前不認識他，只是那差我來用水施洗的、對我說：『你看見聖靈降下來，住在誰的身上，誰就是用聖靈施洗的。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "I have seen and have testified that this is the Son of God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看见了，就证明这是 神的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看見了，就證明這是上帝的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Again, the next day, John was standing with two of his disciples,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再次日，同两个门徒站在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再次日，同兩個門徒站在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他见耶稣行走，就说：「看哪，这是 神的羔羊！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他見耶穌行走，就說：「看哪，這是上帝的羔羊！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "The two disciples heard him speak, and they followed Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个门徒听见他的话，就跟从了耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個門徒聽見他的話，就跟從了耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Jesus turned and saw them following, and said to them, Whatare you looking for?” They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣转过身来，看见他们跟着，就问他们说：「你们要什么？」他们说：「拉比，在哪里住？」（拉比翻出来就是夫子。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌轉過身來，看見他們跟着，就問他們說：「你們要甚麼？」他們說：「拉比，在哪裏住？」（拉比翻出來就是夫子。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "He said to them, Comeand see.” They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:39 4:00 p.m."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们来看。」他们就去看他在哪里住，这一天便与他同住；那时约有申正了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們來看。」他們就去看他在哪裏住，這一天便與他同住；那時約有申正了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "One of the two who heard John and followed him was Andrew, Simon Peter’s brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听见的话跟从耶稣的那两个人，一个是的兄弟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽見的話跟從耶穌的那兩個人，一個是的兄弟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He first found his own brother, Simon, and said to him, “We have found the Messiah!” (which is, being interpreted, Christ).",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:41 “Messiah” (Hebrew) and “Christ” (Greek) both mean “Anointed One”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他先找着自己的哥哥，对他说：「我们遇见弥赛亚了。」（弥赛亚翻出来就是基督。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他先找着自己的哥哥，對他說：「我們遇見彌賽亞了。」（彌賽亞翻出來就是基督。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "He brought him to Jesus. Jesus looked at him and said, Youare Simon the son of Jonah. You shall be called Cephas”(which is by interpretation, Peter).",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:42 “Cephas” (Aramaic) and “Peter” (Greek) both mean “Rock”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是领他去见耶稣。耶稣看着他，说：「你是的儿子，你要称为。」（翻出来就是。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:42 约翰在马太十六章十七节称约拿"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是領他去見耶穌。耶穌看着他，說：「你是的兒子，你要稱為。」（翻出來就是。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:42 約翰在馬太十六章十七節稱約拿"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又次日，耶稣想要往去，遇见，就对他说：「来跟从我吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又次日，耶穌想要往去，遇見，就對他說：「來跟從我吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Now Philip was from Bethsaida, the city of Andrew and Peter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是人，和、同城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是人，和、同城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Philip found Nathanael, and said to him, “We have found him of whom Moses in the law and also the prophets, wrote: Jesus of Nazareth, the son of Joseph.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "找着，对他说：「在律法上所写的和众先知所记的那一位，我们遇见了，就是的儿子人耶稣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "找着，對他說：「在律法上所寫的和眾先知所記的那一位，我們遇見了，就是的兒子人耶穌。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「还能出什么好的吗？」说：「你来看！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「還能出甚麼好的嗎？」說：「你來看！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Jesus saw Nathanael coming to him, and said about him, Behold, an Israelite indeed, in whom is no deceit!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见来，就指着他说：「看哪，这是个真人，他心里是没有诡诈的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見來，就指着他說：「看哪，這是個真人，他心裏是沒有詭詐的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Nathanael said to him, “How do you know me?” Jesus answered him, BeforePhilip called you, when you were under the fig tree, I saw you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对耶稣说：「你从哪里知道我呢？」耶稣回答说：「还没有招呼你，你在无花果树底下，我就看见你了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對耶穌說：「你從哪裏知道我呢？」耶穌回答說：「還沒有招呼你，你在無花果樹底下，我就看見你了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「拉比，你是 神的儿子，你是的王！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「拉比，你是上帝的兒子，你是的王！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Jesus answered him, BecauseI told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「因为我说『在无花果树底下看见你』，你就信吗？你将要看见比这更大的事」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「因為我說『在無花果樹底下看見你』，你就信嗎？你將要看見比這更大的事」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "He said to him, Mostcertainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我实实在在地告诉你们，你们将要看见天开了， 神的使者上去下来在人子身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我實實在在地告訴你們，你們將要看見天開了，上帝的使者上去下來在人子身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

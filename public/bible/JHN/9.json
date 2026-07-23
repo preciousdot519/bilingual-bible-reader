@@ -1,0 +1,753 @@
+{
+  "bookId": "JHN",
+  "chapter": 9,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "As he passed by, he saw a man blind from birth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣过去的时候，看见一个人生来是瞎眼的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌過去的時候，看見一個人生來是瞎眼的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒问耶稣说：「拉比，这人生来是瞎眼的，是谁犯了罪？是这人呢？是他父母呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒問耶穌說：「拉比，這人生來是瞎眼的，是誰犯了罪？是這人呢？是他父母呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jesus answered, Thisman didn’ t sin, nor did his parents, but that the works of God might be revealed in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「也不是这人犯了罪，也不是他父母犯了罪，是要在他身上显出 神的作为来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「也不是這人犯了罪，也不是他父母犯了罪，是要在他身上顯出上帝的作為來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Imust work the works of him who sent me while it is day. The night is coming, when no one can work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "趁着白日，我们必须做那差我来者的工；黑夜将到，就没有人能做工了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "趁着白日，我們必須做那差我來者的工；黑夜將到，就沒有人能做工了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "WhileI am in the world, I am the light of the world.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在世上的时候，是世上的光。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在世上的時候，是世上的光。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When he had said this, he spat on the ground, made mud with the saliva, anointed the blind man’s eyes with the mud,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说了这话，就吐唾沫在地上，用唾沫和泥抹在瞎子的眼睛上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說了這話，就吐唾沫在地上，用唾沫和泥抹在瞎子的眼睛上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and said to him, Go, wash in the pool of Siloam”(which means “Sent”). So he went away, washed, and came back seeing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「你往池子里去洗。」（翻出来就是「奉差遣」。）他去一洗，回头就看见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「你往池子裏去洗。」（翻出來就是「奉差遣」。） 他去一洗，回頭就看見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Therefore the neighbors and those who saw that he was blind before said, “Isn’t this he who sat and begged?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的邻舍和那素常见他是讨饭的，就说：「这不是那从前坐着讨饭的人吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的鄰舍和那素常見他是討飯的，就說：「這不是那從前坐着討飯的人嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Others were saying, “It is he.” Still others were saying, “He looks like him.” He said, “I am he.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人说：「是他」；又有人说：「不是，却是像他。」他自己说：「是我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人說：「是他」；又有人說：「不是，卻是像他。」他自己說：「是我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They therefore were asking him, “How were your eyes opened?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们对他说：「你的眼睛是怎么开的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們對他說：「你的眼睛是怎麼開的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He answered, “A man called Jesus made mud, anointed my eyes, and said to me, Goto the pool of Siloam and wash.’So I went away and washed, and I received sight.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他回答说：「有一个人，名叫耶稣，他和泥抹我的眼睛，对我说：『你往去洗。』我去一洗，就看见了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他回答說：「有一個人，名叫耶穌，他和泥抹我的眼睛，對我說：『你往去洗。』我去一洗，就看見了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then they asked him, “Where is he?” He said, “I don’t know.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「那个人在哪里？」他说：「我不知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「那個人在哪裏？」他說：「我不知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They brought him who had been blind to the Pharisees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们把从前瞎眼的人带到法利赛人那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們把從前瞎眼的人帶到法利賽人那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "It was a Sabbath when Jesus made the mud and opened his eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣和泥开他眼睛的日子是安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌和泥開他眼睛的日子是安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Again therefore the Pharisees also asked him how he received his sight. He said to them, “He put mud on my eyes, I washed, and I see.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人也问他是怎么得看见的。瞎子对他们说：「他把泥抹在我的眼睛上，我去一洗，就看见了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人也問他是怎麼得看見的。瞎子對他們說：「他把泥抹在我的眼睛上，我去一洗，就看見了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Some therefore of the Pharisees said, “This man is not from God, because he doesn’t keep the Sabbath.” Others said, “How can a man who is a sinner do such signs?” So there was division among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人中有的说：「这个人不是从 神来的，因为他不守安息日。」又有人说：「一个罪人怎能行这样的神迹呢？」他们就起了纷争。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人中有的說：「這個人不是從上帝來的，因為他不守安息日。」又有人說：「一個罪人怎能行這樣的神蹟呢？」他們就起了紛爭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Therefore they asked the blind man again, “What do you say about him, because he opened your eyes?” He said, “He is a prophet.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又对瞎子说：「他既然开了你的眼睛，你说他是怎样的人呢？」他说：「是个先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又對瞎子說：「他既然開了你的眼睛，你說他是怎樣的人呢？」他說：「是個先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The Jews therefore didn’t believe concerning him, that he had been blind and had received his sight, until they called the parents of him who had received his sight,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人不信他从前是瞎眼，后来能看见的，等到叫了他的父母来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人不信他從前是瞎眼，後來能看見的，等到叫了他的父母來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and asked them, “Is this your son, whom you say was born blind? How then does he now see?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "问他们说：「这是你们的儿子吗？你们说他生来是瞎眼的，如今怎么能看见了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "問他們說：「這是你們的兒子嗎？你們說他生來是瞎眼的，如今怎麼能看見了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "His parents answered them, “We know that this is our son, and that he was born blind;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父母回答说：「他是我们的儿子，生来就瞎眼，这是我们知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父母回答說：「他是我們的兒子，生來就瞎眼，這是我們知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "but how he now sees, we don’t know; or who opened his eyes, we don’t know. He is of age. Ask him. He will speak for himself.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于他如今怎么能看见，我们却不知道；是谁开了他的眼睛，我们也不知道。他已经成了人，你们问他吧，他自己必能说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於他如今怎麼能看見，我們卻不知道；是誰開了他的眼睛，我們也不知道。他已經成了人，你們問他吧，他自己必能說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "His parents said these things because they feared the Jews; for the Jews had already agreed that if any man would confess him as Christ, he would be put out of the synagogue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父母说这话，是怕人；因为人已经商议定了，若有认耶稣是基督的，要把他赶出会堂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父母說這話，是怕人；因為人已經商議定了，若有認耶穌是基督的，要把他趕出會堂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Therefore his parents said, “He is of age. Ask him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此他父母说：「他已经成了人，你们问他吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此他父母說：「他已經成了人，你們問他吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "So they called the man who was blind a second time, and said to him, “Give glory to God. We know that this man is a sinner.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以法利赛人第二次叫了那从前瞎眼的人来，对他说：「你该将荣耀归给 神，我们知道这人是个罪人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以法利賽人第二次叫了那從前瞎眼的人來，對他說：「你該將榮耀歸給上帝，我們知道這人是個罪人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He therefore answered, “I don’t know if he is a sinner. One thing I do know: that though I was blind, now I see.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「他是个罪人不是，我不知道；有一件事我知道，从前我是眼瞎的，如今能看见了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「他是個罪人不是，我不知道；有一件事我知道，從前我是眼瞎的，如今能看見了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They said to him again, “What did he do to you? How did he open your eyes?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就问他说：「他向你做什么？是怎么开了你的眼睛呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就問他說：「他向你做甚麼？是怎麼開了你的眼睛呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He answered them, “I told you already, and you didn’t listen. Why do you want to hear it again? You don’t also want to become his disciples, do you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他回答说：「我方才告诉你们，你们不听，为什么又要听呢？莫非你们也要作他的门徒吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他回答說：「我方才告訴你們，你們不聽，為甚麼又要聽呢？莫非你們也要作他的門徒嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They insulted him and said, “You are his disciple, but we are disciples of Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就骂他说：「你是他的门徒；我们是的门徒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就罵他說：「你是他的門徒；我們是的門徒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "We know that God has spoken to Moses. But as for this man, we don’t know where he comes from.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神对说话是我们知道的；只是这个人，我们不知道他从哪里来！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝對說話是我們知道的；只是這個人，我們不知道他從哪裏來！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The man answered them, “How amazing! You don’t know where he comes from, yet he opened my eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人回答说：「他开了我的眼睛，你们竟不知道他从哪里来，这真是奇怪！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人回答說：「他開了我的眼睛，你們竟不知道他從哪裏來，這真是奇怪！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "We know that God doesn’t listen to sinners, but if anyone is a worshiper of God and does his will, he listens to him.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:31 Psalms 66:18; Proverbs 15:29; 28:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "我们知道 神不听罪人，惟有敬奉 神、遵行他旨意的， 神才听他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們知道上帝不聽罪人，惟有敬奉上帝、遵行他旨意的，上帝才聽他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Since the world began it has never been heard of that anyone opened the eyes of someone born blind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从创世以来，未曾听见有人把生来是瞎子的眼睛开了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從創世以來，未曾聽見有人把生來是瞎子的眼睛開了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "If this man were not from God, he could do nothing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这人若不是从 神来的，什么也不能做。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人若不是從上帝來的，甚麼也不能做。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "They answered him, “You were altogether born in sins, and do you teach us?” Then they threw him out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们回答说：「你全然生在罪孽中，还要教训我们吗？」于是把他赶出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們回答說：「你全然生在罪孽中，還要教訓我們嗎？」於是把他趕出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Jesus heard that they had thrown him out, and finding him, he said, Doyou believe in the Son of God?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣听说他们把他赶出去，后来遇见他，就说：「你信 神的儿子吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌聽說他們把他趕出去，後來遇見他，就說：「你信上帝的兒子嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He answered, “Who is he, Lord, that I may believe in him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他回答说：「主啊，谁是 神的儿子，叫我信他呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他回答說：「主啊，誰是上帝的兒子，叫我信他呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Jesus said to him, Youhave both seen him, and it is he who speaks with you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你已经看见他，现在和你说话的就是他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你已經看見他，現在和你說話的就是他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He said, “Lord, I believe!” and he worshiped him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「主啊，我信！」就拜耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「主啊，我信！」就拜耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Jesus said, Icame into this world for judgment, that those who don’ t see may see; and that those who see may become blind.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我为审判到这世上来，叫不能看见的，可以看见；能看见的，反瞎了眼。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我為審判到這世上來，叫不能看見的，可以看見；能看見的，反瞎了眼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Those of the Pharisees who were with him heard these things, and said to him, “Are we also blind?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同他在那里的法利赛人听见这话，就说：「难道我们也瞎了眼吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同他在那裏的法利賽人聽見這話，就說：「難道我們也瞎了眼嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Jesus said to them, Ifyou were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们若瞎了眼，就没有罪了；但如今你们说『我们能看见』，你们的罪还在。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們若瞎了眼，就沒有罪了；但如今你們說『我們能看見』，你們的罪還在。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

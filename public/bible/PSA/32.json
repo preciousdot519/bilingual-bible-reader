@@ -1,0 +1,207 @@
+{
+  "bookId": "PSA",
+  "chapter": 32,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Blessed is he whose disobedience is forgiven, sin is covered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得赦免其过、遮盖其罪的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得赦免其過、遮蓋其罪的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Blessed is the man to whom the LORD doesn’t impute iniquity, in whose spirit there is no deceit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡心里没有诡诈、耶和华不算为有罪的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡心裏沒有詭詐、耶和華不算為有罪的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When I kept silence, my bones wasted away through my groaning all day long.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我闭口不认罪的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我閉口不認罪的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For day and night your hand was heavy on me. My strength was sapped in the heat of summer. Selah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黑夜白日，你的手在我身上沉重；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黑夜白日，你的手在我身上沉重；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to the LORD, and you forgave the iniquity of my sin. Selah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我向你陈明我的罪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我向你陳明我的罪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为此，凡虔诚人都当趁你可寻找的时候祷告你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為此，凡虔誠人都當趁你可尋找的時候禱告你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You are my hiding place. will preserve me from trouble. will surround me with songs of deliverance. Selah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你是我藏身之处；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你是我藏身之處；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要教导你，指示你当行的路；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要教導你，指示你當行的路；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’t be like the horse, or like the mule, which have no understanding, are controlled by bit and bridle, or else they will not come near to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可像那无知的骡马，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可像那無知的騾馬，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Many sorrows come to the wicked, but loving kindness shall surround him who trusts in the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人必多受苦楚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人必多受苦楚；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Be glad in the LORD, and rejoice, you righteous! Shout for joy, all you who are upright in heart!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们义人应当靠耶和华欢喜快乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們義人應當靠耶和華歡喜快樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

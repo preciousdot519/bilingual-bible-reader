@@ -1,0 +1,477 @@
+{
+  "bookId": "GEN",
+  "chapter": 50,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Joseph fell on his father’s face, wept on him, and kissed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伏在他父亲的面上哀哭，与他亲嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伏在他父親的面上哀哭，與他親嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Joseph commanded his servants, the physicians, to embalm his father; and the physicians embalmed Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吩咐伺候他的医生用香料薰他父亲，医生就用香料薰了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吩咐伺候他的醫生用香料薰他父親，醫生就用香料薰了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Forty days were used for him, for that is how many days it takes to embalm. The Egyptians wept for Israel for seventy days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "薰尸的常例是四十天；那四十天满了，人为他哀哭了七十天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "薰屍的常例是四十天；那四十天滿了，人為他哀哭了七十天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When the days of weeping for him were past, Joseph spoke to Pharaoh’s staff, saying, “If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为他哀哭的日子过了，对法老家中的人说：「我若在你们眼前蒙恩，请你们报告法老说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為他哀哭的日子過了，對法老家中的人說：「我若在你們眼前蒙恩，請你們報告法老說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "‘My father made me swear, saying, “Behold, I am dying. Bury me in my grave which I have dug for myself in the land of Canaan.” Now therefore, please let me go up and bury my father, and I will come again.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『我父亲要死的时候叫我起誓说：你要将我葬在地，在我为自己所掘的坟墓里。』现在求你让我上去葬我父亲，以后我必回来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『我父親要死的時候叫我起誓說：你要將我葬在地，在我為自己所掘的墳墓裏。』現在求你讓我上去葬我父親，以後我必回來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Pharaoh said, “Go up, and bury your father, just like he made you swear.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老说：「你可以上去，照着你父亲叫你起的誓，将他葬埋。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老說：「你可以上去，照着你父親叫你起的誓，將他葬埋。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Joseph went up to bury his father; and with him went up all the servants of Pharaoh, the elders of his house, all the elders of the land of Egypt,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是上去葬他父亲。与他一同上去的，有法老的臣仆和法老家中的长老，并国的长老，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是上去葬他父親。與他一同上去的，有法老的臣僕和法老家中的長老，並國的長老，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "all the house of Joseph, his brothers, and his father’s house. Only their little ones, their flocks, and their herds, they left in the land of Goshen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有的全家和他的弟兄们，并他父亲的眷属；只有他们的孩子，和羊群牛群，都留在地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有的全家和他的弟兄們，並他父親的眷屬；只有他們的孩子，和羊群牛群，都留在地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Both chariots and horsemen went up with him. It was a very great company.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有车辆马兵，和他一同上去；那一帮人甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有車輛馬兵，和他一同上去；那一幫人甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They came to the threshing floor of Atad, which is beyond the Jordan, and there they lamented with a very great and severe lamentation. He mourned for his father seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们到了外、的禾场，就在那里大大地号咷痛哭。为他父亲哀哭了七天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們到了外、的禾場，就在那裏大大地號咷痛哭。為他父親哀哭了七天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, “This is a grievous mourning by the Egyptians.” Therefore its name was called Abel Mizraim, which is beyond the Jordan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的居民见禾场上的哀哭，就说：「这是人一场极大的哀哭。」因此那地方名叫，是在东。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的居民見禾場上的哀哭，就說：「這是人一場極大的哀哭。」因此那地方名叫，是在東。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "His sons did to him just as he commanded them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子们就遵着他父亲所吩咐的办了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子們就遵着他父親所吩咐的辦了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "for his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field, as a possession for a burial site, from Ephron the Hittite, near Mamre.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把他搬到地，葬在前、田间的洞里；那洞和田是向人买来为业，作坟地的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把他搬到地，葬在前、田間的洞裏；那洞和田是向人買來為業，作墳地的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Joseph returned into Egypt—he, and his brothers, and all that went up with him to bury his father, after he had buried his father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "葬了他父亲以后，就和众弟兄，并一切同他上去葬他父亲的人，都回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "葬了他父親以後，就和眾弟兄，並一切同他上去葬他父親的人，都回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "When Joseph’s brothers saw that their father was dead, they said, “It may be that Joseph will hate us, and will fully pay us back for all the evil which we did to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的哥哥们见父亲死了，就说：「或者怀恨我们，照着我们从前待他一切的恶足足地报复我们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的哥哥們見父親死了，就說：「或者懷恨我們，照着我們從前待他一切的惡足足地報復我們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They sent a message to Joseph, saying, “Your father commanded before he died, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就打发人去见，说：「你父亲未死以先吩咐说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就打發人去見，說：「你父親未死以先吩咐說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "‘You shall tell Joseph, “Now please forgive the disobedience of your brothers, and their sin, because they did evil to you.”’ Now, please forgive the disobedience of the servants of the God of your father.” Joseph wept when they spoke to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『你们要对这样说：从前你哥哥们恶待你，求你饶恕他们的过犯和罪恶。』如今求你饶恕你父亲 神之仆人的过犯。」他们对说这话，就哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『你們要對這樣說：從前你哥哥們惡待你，求你饒恕他們的過犯和罪惡。』如今求你饒恕你父親上帝之僕人的過犯。」他們對說這話，就哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "His brothers also went and fell down before his face; and they said, “Behold, we are your servants.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的哥哥们又来俯伏在他面前，说：「我们是你的仆人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的哥哥們又來俯伏在他面前，說：「我們是你的僕人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Joseph said to them, “Don’t be afraid, for am I in the place of God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说：「不要害怕，我岂能代替 神呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「不要害怕，我豈能代替上帝呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "As for you, you meant evil against me, but God meant it for good, to save many people alive, as is happening today.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前你们的意思是要害我，但 神的意思原是好的，要保全许多人的性命，成就今日的光景。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前你們的意思是要害我，但上帝的意思原是好的，要保全許多人的性命，成就今日的光景。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Now therefore don’t be afraid. I will provide for you and your little ones.” He comforted them, and spoke kindly to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们不要害怕，我必养活你们和你们的孩子。」于是用亲爱的话安慰他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們不要害怕，我必養活你們和你們的孩子。」於是用親愛的話安慰他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Joseph lived in Egypt, he, and his father’s house. Joseph lived one hundred ten years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和他父亲的眷属都住在。活了一百一十岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和他父親的眷屬都住在。活了一百一十歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Joseph saw Ephraim’s children to the third generation. The children also of Machir, the son of Manasseh, were born on Joseph’s knees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得见第三代的子孙。的孙子、的儿子也养在的膝上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得見第三代的子孫。的孫子、的兒子也養在的膝上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Joseph said to his brothers, “I am dying, but God will surely visit you, and bring you up out of this land to the land which he swore to Abraham, to Isaac, and to Jacob.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他弟兄们说：「我要死了，但 神必定看顾你们，领你们从这地上去，到他起誓所应许给、、之地。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他弟兄們說：「我要死了，但上帝必定看顧你們，領你們從這地上去，到他起誓所應許給、、之地。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Joseph took an oath from the children of Israel, saying, “God will surely visit you, and you shall carry up my bones from here.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫的子孙起誓说：「 神必定看顾你们；你们要把我的骸骨从这里搬上去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫的子孫起誓說：「上帝必定看顧你們；你們要把我的骸骨從這裏搬上去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "So Joseph died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "死了，正一百一十岁。人用香料将他薰了，把他收殓在棺材里，停在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "死了，正一百一十歲。人用香料將他薰了，把他收殮在棺材裏，停在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "bookId": "PSA",
+  "chapter": 60,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "God, you have rejected us. You have broken us down. You have been angry. us, again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，你丢弃了我们，使我们破败；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，你丟棄了我們，使我們破敗；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You have made the land tremble. You have torn it. its fractures, for it quakes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你使地震动，而且崩裂；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你使地震動，而且崩裂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You have shown your people hard things. You have made us drink the wine that makes us stagger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你叫你的民遇见艰难；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你叫你的民遇見艱難；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You have given a banner to those who fear you, that it may be displayed because of the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你把旌旗赐给敬畏你的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你把旌旗賜給敬畏你的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "So that your beloved may be delivered, with your right hand, and answer us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你应允我们，用右手拯救我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你應允我們，用右手拯救我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "God has spoken from his sanctuary: I will triumph. I will divide Shechem, and measure out the valley of Succoth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神已经指着他的圣洁说：我要欢乐； ，丈量。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 60:6 说：或译应许我"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝已經指着他的聖潔說：我要歡樂； ，丈量。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 60:6 說：或譯應許我"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Gilead is mine, and Manasseh is mine. is the defense of my head. is my scepter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是我的，也是我的。 是护卫我头的； 是我的杖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是我的，也是我的。 是護衛我頭的； 是我的杖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Moab is my wash basin. my sandal on Edom. in triumph over Philistia.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是我的沐浴盆； 抛鞋。 啊，你还能因我欢呼吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是我的沐浴盆； 拋鞋。 啊，你還能因我歡呼嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Who will bring me into the strong city? Who has led me to Edom?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁能领我进坚固城？ 地？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰能領我進堅固城？ 地？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Haven’t you, God, rejected us? You don’t go out with our armies, God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神啊，你不是丢弃了我们吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝啊，你不是丟棄了我們嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Give us help against the adversary, for the help of man is vain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你帮助我们攻击敌人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你幫助我們攻擊敵人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Through God we will do valiantly, for it is he who will tread down our adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们倚靠 神才得施展大能，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們倚靠上帝才得施展大能，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

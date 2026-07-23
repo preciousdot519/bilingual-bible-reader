@@ -1,0 +1,405 @@
+{
+  "bookId": "GEN",
+  "chapter": 48,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，有人告诉说：「你的父亲病了。」他就带着两个儿子和同去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，有人告訴說：「你的父親病了。」他就帶着兩個兒子和同去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Someone told Jacob, and said, “Behold, your son Joseph comes to you,” and Israel strengthened himself, and sat on the bed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人告诉说：「请看，你儿子到你这里来了。」就勉强在床上坐起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人告訴說：「請看，你兒子到你這裏來了。」就勉強在床上坐起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and blessed me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「全能的 神曾在地的向我显现，赐福与我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「全能的上帝曾在地的向我顯現，賜福與我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and said to me, ‘Behold, I will make you fruitful, and multiply you, and I will make of you a company of peoples, and will give this land to your offspring after you for an everlasting possession.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对我说：『我必使你生养众多，成为多民，又要把这地赐给你的后裔，永远为业。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對我說：『我必使你生養眾多，成為多民，又要把這地賜給你的後裔，永遠為業。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Now your two sons, who were born to you in the land of Egypt before I came to you into Egypt, are mine; Ephraim and Manasseh, even as Reuben and Simeon, will be mine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我未到见你之先，你在地所生的和这两个儿子是我的，正如和是我的一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我未到見你之先，你在地所生的和這兩個兒子是我的，正如和是我的一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Your offspring, whom you become the father of after them, will be yours. They will be called after the name of their brothers in their inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在他们以后所生的就是你的，他们可以归于他们弟兄的名下得产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在他們以後所生的就是你的，他們可以歸於他們弟兄的名下得產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "As for me, when I came from Paddan, Rachel died beside me in the land of Canaan on the way, when there was still some distance to come to Ephrath, and I buried her there on the way to Ephrath (also called Bethlehem).”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于我，我从来的时候，死在我眼前，在地的路上，离还有一段路程，我就把她葬在的路上（就是）。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於我，我從來的時候，死在我眼前，在地的路上，離還有一段路程，我就把她葬在的路上（就是）。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Israel saw Joseph’s sons, and said, “Who are these?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见的两个儿子，就说：「这是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見的兩個兒子，就說：「這是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Joseph said to his father, “They are my sons, whom God has given me here.” He said, “Please bring them to me, and I will bless them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他父亲说：「这是 神在这里赐给我的儿子。」说：「请你领他们到我跟前，我要给他们祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他父親說：「這是上帝在這裏賜給我的兒子。」說：「請你領他們到我跟前，我要給他們祝福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now the eyes of Israel were dim for age, so that he couldn’t see well. Joseph brought them near to him; and he kissed them, and embraced them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "年纪老迈，眼睛昏花，不能看见。领他们到他跟前，他就和他们亲嘴，抱着他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "年紀老邁，眼睛昏花，不能看見。領他們到他跟前，他就和他們親嘴，抱着他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Israel said to Joseph, “I didn’t think I would see your face, and behold, God has let me see your offspring also.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我想不到得见你的面，不料， 神又使我得见你的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我想不到得見你的面，不料，上帝又使我得見你的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把两个儿子从两膝中领出来，自己就脸伏于地下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把兩個兒子從兩膝中領出來，自己就臉伏於地下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随后，又拉着他们两个，在他的右手里，对着的左手，在他的左手里，对着的右手，领他们到的跟前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨後，又拉着他們兩個，在他的右手裏，對着的左手，在他的左手裏，對着的右手，領他們到的跟前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Israel stretched out his right hand, and laid it on Ephraim’s head, who was the younger, and his left hand on Manasseh’s head, guiding his hands knowingly, for Manasseh was the firstborn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伸出右手来，按在的头上（乃是次子），又剪搭过左手来，按在的头上（原是长子）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伸出右手來，按在的頭上（乃是次子），又剪搭過左手來，按在的頭上（原是長子）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He blessed Joseph, and said, The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就给祝福说：「愿我祖和我父所事奉的 神，就是一生牧养我直到今日的 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就給祝福說：「願我祖和我父所事奉的上帝，就是一生牧養我直到今日的上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the angel who has redeemed me from all evil, bless the lads, and let my name be named on them, and the name of my fathers Abraham and Isaac. Let them grow into a multitude upon the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "救赎我脱离一切患难的那使者，赐福与这两个童子。愿他们归在我的名下和我祖、我父的名下。又愿他们在世界中生养众多。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "救贖我脫離一切患難的那使者，賜福與這兩個童子。願他們歸在我的名下和我祖、我父的名下。又願他們在世界中生養眾多。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "When Joseph saw that his father laid his right hand on the head of Ephraim, it displeased him. He held up his father’s hand, to remove it from Ephraim’s head to Manasseh’s head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见他父亲把右手按在的头上，就不喜悦，便提起他父亲的手，要从头上挪到的头上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見他父親把右手按在的頭上，就不喜悅，便提起他父親的手，要從頭上挪到的頭上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Joseph said to his father, “Not so, my father, for this is the firstborn. Put your right hand on his head.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他父亲说：「我父，不是这样。这本是长子，求你把右手按在他的头上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他父親說：「我父，不是這樣。這本是長子，求你把右手按在他的頭上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "His father refused, and said, “I know, my son, I know. He also will become a people, and he also will be great. However, his younger brother will be greater than he, and his offspring will become a multitude of nations.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲不从，说：「我知道，我儿，我知道。他也必成为一族，也必昌大。只是他的兄弟将来比他还大；他兄弟的后裔要成为多族。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親不從，說：「我知道，我兒，我知道。他也必成為一族，也必昌大。只是他的兄弟將來比他還大；他兄弟的後裔要成為多族。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He blessed them that day, saying, “Israel will bless in your name, saying, ‘God make you as Ephraim and as Manasseh’” He set Ephraim before Manasseh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日就给他们祝福说：「人要指着你们祝福说：『愿 神使你如、一样。』」于是立在以上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日就給他們祝福說：「人要指着你們祝福說：『願上帝使你如、一樣。』」於是立在以上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Israel said to Joseph, “Behold, I am dying, but God will be with you, and bring you again to the land of your fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对说：「我要死了，但 神必与你们同在，领你们回到你们列祖之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對說：「我要死了，但上帝必與你們同在，領你們回到你們列祖之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我从前用弓用刀从人手下夺的那块地，我都赐给你，使你比众弟兄多得一分。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我從前用弓用刀從人手下奪的那塊地，我都賜給你，使你比眾弟兄多得一分。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

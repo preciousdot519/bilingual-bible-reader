@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-07-23T11:28:15.396Z",
+  "books": [
+    {
+      "id": "GEN",
+      "english": "Genesis",
+      "zhSimplified": "创世记",
+      "zhTraditional": "創世記",
+      "chapters": 50
+    },
+    {
+      "id": "PSA",
+      "english": "Psalms",
+      "zhSimplified": "诗篇",
+      "zhTraditional": "詩篇",
+      "chapters": 150
+    },
+    {
+      "id": "JHN",
+      "english": "John",
+      "zhSimplified": "约翰福音",
+      "zhTraditional": "約翰福音",
+      "chapters": 21
+    }
+  ]
+}

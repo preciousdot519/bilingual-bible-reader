@@ -1,0 +1,168 @@
+{
+  "bookId": "PSA",
+  "chapter": 138,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I will give you thanks with my whole heart. Before the gods, I will sing praises to you.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "138:1 The word elohim, used here, usually means “God” but can also mean “gods”, “princes”, or “angels”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要一心称谢你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要一心稱謝你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要向你的圣殿下拜， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 138:2 或译：超乎你的名声"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要向你的聖殿下拜， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 138:2 或譯：超乎你的名聲"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "In the day that I called, you answered me. You encouraged me with strength in my soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我呼求的日子，你就应允我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我呼求的日子，你就應允我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "All the kings of the earth will give you thanks, LORD, for they have heard the words of your mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，地上的君王都要称谢你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，地上的君王都要稱謝你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Yes, they will sing of the ways of the LORD, for the LORD’s glory is great!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要歌颂耶和华的作为，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要歌頌耶和華的作為，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For though the LORD is high, yet he looks after the lowly; but he knows the proud from afar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华虽高，仍看顾低微的人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華雖高，仍看顧低微的人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Though I walk in the middle of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. Your right hand will save me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽行在患难中，你必将我救活；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖行在患難中，你必將我救活；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD will fulfill that which concerns me. Your loving kindness, LORD, endures forever. forsake the works of your own hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必成全关乎我的事；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必成全關乎我的事；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

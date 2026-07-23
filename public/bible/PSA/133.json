@@ -1,0 +1,63 @@
+{
+  "bookId": "PSA",
+  "chapter": 133,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "See how good and how pleasant it is for brothers to live together in unity!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，弟兄和睦同居",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，弟兄和睦同居",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard, that came down on the edge of his robes,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这好比那贵重的油在的头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這好比那貴重的油在的頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "like the dew of Hermon, that comes down on the hills of Zion; for there the LORD gives the blessing, even life forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又好比的甘露降在；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又好比的甘露降在；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "bookId": "PSA",
+  "chapter": 123,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I lift up my eyes to you, you who sit in the heavens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "坐在天上的啊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "坐在天上的啊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to the LORD, our God, until he has mercy on us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，仆人的眼睛怎样望主人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，僕人的眼睛怎樣望主人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Have mercy on us, LORD, have mercy on us, for we have endured much contempt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你怜悯我们，怜悯我们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你憐憫我們，憐憫我們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们被那些安逸人的讥诮",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們被那些安逸人的譏誚",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

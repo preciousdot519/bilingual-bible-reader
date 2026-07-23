@@ -1,0 +1,698 @@
+{
+  "bookId": "GEN",
+  "chapter": 26,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "There was a famine in the land, in addition to the first famine that was in the days of Abraham. Isaac went to Abimelech king of the Philistines, to Gerar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在的日子，那地有一次饥荒；这时又有饥荒，就往去，到人的王那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在的日子，那地有一次饑荒；這時又有饑荒，就往去，到人的王那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD appeared to him, and said, “Don’t go down into Egypt. Live in the land I will tell you about.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华向显现，说：「你不要下去，要住在我所指示你的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華向顯現，說：「你不要下去，要住在我所指示你的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Live in this land, and I will be with you, and will bless you. For I will give to you, and to your offspring, all these lands, and I will establish the oath which I swore to Abraham your father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你寄居在这地，我必与你同在，赐福给你，因为我要将这些地都赐给你和你的后裔。我必坚定我向你父所起的誓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你寄居在這地，我必與你同在，賜福給你，因為我要將這些地都賜給你和你的後裔。我必堅定我向你父所起的誓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I will multiply your offspring as the stars of the sky, and will give all these lands to your offspring. In your offspring all the nations of the earth will be blessed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要加增你的后裔，像天上的星那样多，又要将这些地都赐给你的后裔。并且地上万国必因你的后裔得福—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要加增你的後裔，像天上的星那樣多，又要將這些地都賜給你的後裔。並且地上萬國必因你的後裔得福－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my laws.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都因听从我的话，遵守我的吩咐和我的命令、律例、法度。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都因聽從我的話，遵守我的吩咐和我的命令、律例、法度。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Isaac lived in Gerar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就住在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就住在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The men of the place asked him about his wife. He said, “She is my sister,” for he was afraid to say, “My wife”, lest, he thought, “the men of the place might kill me for Rebekah, because she is beautiful to look at.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那地方的人问到他的妻子，他便说：「那是我的妹子。」原来他怕说：「是我的妻子」；：「恐怕这地方的人为的缘故杀我」，因为她容貌俊美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那地方的人問到他的妻子，他便說：「那是我的妹子。」原來他怕說：「是我的妻子」；：「恐怕這地方的人為的緣故殺我」，因為她容貌俊美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When he had been there a long time, Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was caressing Rebekah, his wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在那里住了许久。有一天，人的王从窗户里往外观看，见和他的妻子戏玩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在那裏住了許久。有一天，人的王從窗戶裏往外觀看，見和他的妻子戲玩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Abimelech called Isaac, and said, “Behold, surely she is your wife. Why did you say, ‘She is my sister’?” Isaac said to him, “Because I said, ‘Lest I die because of her.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "召了来，对他说：「她实在是你的妻子，你怎么说她是你的妹子？」说：「我心里想，恐怕我因她而死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "召了來，對他說：「她實在是你的妻子，你怎麼說她是你的妹子？」說：「我心裏想，恐怕我因她而死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt on us!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你向我们做的是什么事呢？民中险些有人和你的妻同寝，把我们陷在罪里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你向我們做的是甚麼事呢？民中險些有人和你的妻同寢，把我們陷在罪裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Abimelech commanded all the people, saying, “He who touches this man or his wife will surely be put to death.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是晓谕众民说：「凡沾着这个人，或是他妻子的，定要把他治死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是曉諭眾民說：「凡沾着這個人，或是他妻子的，定要把他治死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Isaac sowed in that land, and reaped in the same year one hundred times what he planted. The LORD blessed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那地耕种，那一年有百倍的收成。耶和华赐福给他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那地耕種，那一年有百倍的收成。耶和華賜福給他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The man grew great, and grew more and more until he became very great.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就昌大，日增月盛，成了大富户。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就昌大，日增月盛，成了大富戶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He had possessions of flocks, possessions of herds, and a great household. The Philistines envied him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他有羊群牛群，又有许多仆人，人就嫉妒他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他有羊群牛群，又有許多僕人，人就嫉妒他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Now all the wells which his father’s servants had dug in the days of Abraham his father, the Philistines had stopped, and filled with earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当他父亲在世的日子，他父亲的仆人所挖的井，人全都塞住，填满了土。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當他父親在世的日子，他父親的僕人所挖的井，人全都塞住，填滿了土。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Abimelech said to Isaac, “Go away from us, for you are much mightier than we.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「你离开我们去吧。因为你比我们强盛得多。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「你離開我們去吧。因為你比我們強盛得多。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Isaac departed from there, encamped in the valley of Gerar, and lived there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就离开那里，在支搭帐棚，住在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就離開那裏，在支搭帳棚，住在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Isaac dug again the wells of water, which they had dug in the days of Abraham his father, for the Philistines had stopped them after the death of Abraham. He called their names after the names by which his father had called them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当他父亲在世之日所挖的水井因人在死后塞住了，就重新挖出来，仍照他父亲所叫的叫那些井的名字。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當他父親在世之日所挖的水井因人在死後塞住了，就重新挖出來，仍照他父親所叫的叫那些井的名字。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Isaac’s servants dug in the valley, and found there a well of flowing water.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:19 Or, living. Or, fresh."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的仆人在谷中挖，便得了一口活水井。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的僕人在谷中挖，便得了一口活水井。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The herdsmen of Gerar argued with Isaac’s herdsmen, saying, “The water is ours.” So he called the name of the well Esek, because they contended with him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:20 “Esek” means “contention”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的牧人与的牧人争竞，说：「这水是我们的。」就给那井起名叫，因为他们和他相争。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:20 就是相争的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的牧人與的牧人爭競，說：「這水是我們的。」就給那井起名叫，因為他們和他相爭。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:20 就是相敵的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They dug another well, and they argued over that, also. So he called its name Sitnah.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:21 “Sitnah” means “hostility”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的仆人又挖了一口井，他们又为这井争竞，因此给这井起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:21 就是为敌的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的僕人又挖了一口井，他們又為這井爭競，因此給這井起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:21 就是為敵的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He left that place, and dug another well. They didn’t argue over that one. So he called it Rehoboth. He said, “For now the LORD has made room for us, and we will be fruitful in the land.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:22 “Rehoboth” means “broad places”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "离开那里，又挖了一口井，他们不为这井争竞了，他就给那井起名叫。他说：「耶和华现在给我们宽阔之地，我们必在这地昌盛。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:22 就是宽阔的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "離開那裏，又挖了一口井，他們不為這井爭競了，他就給那井起名叫。他說：「耶和華現在給我們寬闊之地，我們必在這地昌盛。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:22 就是寬闊的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He went up from there to Beersheba.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The LORD appeared to him the same night, and said, “I am the God of Abraham your father. Don’t be afraid, for I am with you, and will bless you, and multiply your offspring for my servant Abraham’s sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当夜耶和华向他显现，说：「我是你父亲的 神，不要惧怕！因为我与你同在，要赐福给你，并要为我仆人的缘故，使你的后裔繁多。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當夜耶和華向他顯現，說：「我是你父親的上帝，不要懼怕！因為我與你同在，要賜福給你，並要為我僕人的緣故，使你的後裔繁多。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He built an altar there, and called on the LORD’s name, and pitched his tent there. There Isaac’s servants dug a well.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就在那里筑了一座坛，求告耶和华的名，并且支搭帐棚；他的仆人便在那里挖了一口井。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就在那裏築了一座壇，求告耶和華的名，並且支搭帳棚；他的僕人便在那裏挖了一口井。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Then Abimelech went to him from Gerar with Ahuzzath his friend, and Phicol the captain of his army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "，同他的朋友和他的军长，从来见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "，同他的朋友和他的軍長，從來見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Isaac said to them, “Why have you come to me, since you hate me, and have sent me away from you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说：「你们既然恨我，打发我走了，为什么到我这里来呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「你們既然恨我，打發我走了，為甚麼到我這裏來呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They said, “We saw plainly that the LORD was with you. We said, ‘Let there now be an oath between us, even between us and you, and let’s make a covenant with you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「我们明明地看见耶和华与你同在，便说，不如我们两下彼此起誓，彼此立约，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「我們明明地看見耶和華與你同在，便說，不如我們兩下彼此起誓，彼此立約，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "that you will do us no harm, as we have not touched you, and as we have done to you nothing but good, and have sent you away in peace.’ You are now the blessed of the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使你不害我们，正如我们未曾害你，一味地厚待你，并且打发你平平安安地走。你是蒙耶和华赐福的了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使你不害我們，正如我們未曾害你，一味地厚待你，並且打發你平平安安地走。你是蒙耶和華賜福的了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He made them a feast, and they ate and drank.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就为他们设摆筵席，他们便吃了喝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就為他們設擺筵席，他們便吃了喝了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "They rose up some time in the morning, and swore an oath to one another. Isaac sent them away, and they departed from him in peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们清早起来彼此起誓。打发他们走，他们就平平安安地离开他走了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們清早起來彼此起誓。打發他們走，他們就平平安安地離開他走了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The same day, Isaac’s servants came, and told him concerning the well which they had dug, and said to him, “We have found water.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那一天，的仆人来，将挖井的事告诉他说：「我们得了水了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那一天，的僕人來，將挖井的事告訴他說：「我們得了水了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He called it “Shibah”. Therefore the name of the city is “Beersheba” to this day.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:33 Shibah means “oath” or “seven”."
+          },
+          {
+            "id": "f2",
+            "text": "26:33 Beersheba means “well of the oath” or “well of the seven”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就给那井起名叫；因此那城叫做，直到今日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就給那井起名叫；因此那城叫做，直到今日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "When Esau was forty years old, he took as wife Judith, the daughter of Beeri the Hittite, and Basemath, the daughter of Elon the Hittite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四十岁的时候娶了人的女儿，与人的女儿为妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四十歲的時候娶了人的女兒，與人的女兒為妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "They grieved Isaac’s and Rebekah’s spirits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们常使和心里愁烦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們常使和心裏愁煩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

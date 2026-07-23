@@ -1,0 +1,686 @@
+{
+  "bookId": "GEN",
+  "chapter": 25,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Abraham took another wife, and her name was Keturah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又娶了一妻，名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又娶了一妻，名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给他生了、、、、，和。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給他生了、、、、，和。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jokshan became the father of Sheba, and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生了和。的子孙是族、族，和族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生了和。的子孫是族、族，和族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、，和。这都是的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、，和。這都是的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Abraham gave all that he had to Isaac,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将一切所有的都给了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將一切所有的都給了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "but Abraham gave gifts to the sons of Abraham’s concubines. While he still lived, he sent them away from Isaac his son, eastward, to the east country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把财物分给他庶出的众子，趁着自己还在世的时候打发他们离开他的儿子，往东方去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把財物分給他庶出的眾子，趁着自己還在世的時候打發他們離開他的兒子，往東方去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "These are the days of the years of Abraham’s life which he lived: one hundred seventy-five years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一生的年日是一百七十五岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一生的年日是一百七十五歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Abraham gave up his spirit, and died at a good old age, an old man, and full of years, and was gathered to his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "寿高年迈，气绝而死，归到他列祖那里。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:8 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "壽高年邁，氣絕而死，歸到他列祖那裏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:8 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Isaac and Ishmael, his sons, buried him in the cave of Machpelah, in the field of Ephron, the son of Zohar the Hittite, which is near Mamre,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他两个儿子、把他埋葬在洞里。这洞在前、人的儿子的田中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他兩個兒子、把他埋葬在洞裏。這洞在前、人的兒子的田中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "the field which Abraham purchased from the children of Heth. Abraham was buried there with Sarah, his wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是向人买的那块田。和他妻子都葬在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是向人買的那塊田。和他妻子都葬在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "After the death of Abraham, God blessed Isaac, his son. Isaac lived by Beer Lahai Roi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "死了以后， 神赐福给他的儿子。靠近居住。 （代上1·28—31）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "死了以後，上帝賜福給他的兒子。靠近居住。 （代上1‧28－31）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now this is the history of the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的使女人给所生的儿子是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的使女人給所生的兒子是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "These are the names of the sons of Ishmael, by their names, according to the order of their birth: the firstborn of Ishmael, Nebaioth, then Kedar, Adbeel, Mibsam,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "儿子们的名字，按着他们的家谱记在下面。的长子是，又有、、、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兒子們的名字，按着他們的家譜記在下面。的長子是，又有、、、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Mishma, Dumah, Massa,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "、、、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "、、、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Hadad, Tema, Jetur, Naphish, and Kedemah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "These are the sons of Ishmael, and these are their names, by their villages, and by their encampments: twelve princes, according to their nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是众子的名字，照着他们的村庄、营寨，作了十二族的族长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是眾子的名字，照着他們的村莊、營寨，作了十二族的族長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "These are the years of the life of Ishmael: one hundred thirty-seven years. He gave up his spirit and died, and was gathered to his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "享寿一百三十七岁，气绝而死，归到他列祖那里。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:17 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "享壽一百三十七歲，氣絕而死，歸到他列祖那裏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:17 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They lived from Havilah to Shur that is before Egypt, as you go toward Assyria. He lived opposite all his relatives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他子孙的住处在他众弟兄东边，从直到前的，正在的道上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他子孫的住處在他眾弟兄東邊，從直到前的，正在的道上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "This is the history of the generations of Isaac, Abraham’s son. Abraham became the father of Isaac.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子的后代记在下面。生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子的後代記在下面。生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian, to be his wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "娶为妻的时候正四十岁。是地的人的女儿，是人的妹子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "娶為妻的時候正四十歲。是地的人的女兒，是人的妹子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Isaac entreated the LORD for his wife, because she was barren. The LORD was entreated by him, and Rebekah his wife conceived.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他妻子不生育，就为她祈求耶和华；耶和华应允他的祈求，他的妻子就怀了孕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他妻子不生育，就為她祈求耶和華；耶和華應允他的祈求，他的妻子就懷了孕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The children struggled together within her. She said, “If it is like this, why do I live?” She went to inquire of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子们在她腹中彼此相争，她就说：「若是这样，我为什么活着呢？」她就去求问耶和华。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:22 或译：我为什么如此呢"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子們在她腹中彼此相爭，她就說：「若是這樣，我為甚麼活着呢？」她就去求問耶和華。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:22 或譯：我為甚麼如此呢"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The LORD said to her, Two nations are in your womb. Two peoples will be separated from your body. The one people will be stronger than the other people. The elder will serve the younger.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对她说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對她說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When her days to be delivered were fulfilled, behold, there were twins in her womb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生产的日子到了，腹中果然是双子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生產的日子到了，腹中果然是雙子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The first came out red all over, like a hairy garment. They named him Esau.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先产的身体发红，浑身有毛，如同皮衣，他们就给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:25 就是有毛的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先產的身體發紅，渾身有毛，如同皮衣，他們就給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:25 就是有毛的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "After that, his brother came out, and his hand had hold on Esau’s heel. He was named Jacob. Isaac was sixty years old when she bore them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随后又生了的兄弟，手抓住的脚跟，因此给他起名叫。生下两个儿子的时候，年正六十岁。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:26 就是抓住的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨後又生了的兄弟，手抓住的腳跟，因此給他起名叫。生下兩個兒子的時候，年正六十歲。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:26 就是抓住的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The boys grew. Esau was a skillful hunter, a man of the field. Jacob was a quiet man, living in tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个孩子渐渐长大，善于打猎，常在田野；为人安静，常住在帐棚里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個孩子漸漸長大，善於打獵，常在田野；為人安靜，常住在帳棚裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Now Isaac loved Esau, because he ate his venison. Rebekah loved Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱，因为常吃他的野味；却爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛，因為常吃他的野味；卻愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jacob boiled stew. Esau came in from the field, and he was famished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一天，熬汤，从田野回来累昏了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一天，熬湯，從田野回來累昏了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Esau said to Jacob, “Please feed me with some of that red stew, for I am famished.” Therefore his name was called Edom.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:30 “Edom” means “red”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我累昏了，求你把这红给我喝。」因此又叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:30 就是红的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我累昏了，求你把這紅給我喝。」因此又叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:30 就是紅的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Jacob said, “First, sell me your birthright.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你今日把长子的名分卖给我吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你今日把長子的名分賣給我吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Esau said, “Behold, I am about to die. What good is the birthright to me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我将要死，这长子的名分于我有什么益处呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我將要死，這長子的名分於我有甚麼益處呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Jacob said, “Swear to me first.” He swore to him. He sold his birthright to Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你今日对我起誓吧。」就对他起了誓，把长子的名分卖给。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你今日對我起誓吧。」就對他起了誓，把長子的名分賣給。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Jacob gave Esau bread and lentil stew. He ate and drank, rose up, and went his way. So Esau despised his birthright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是将饼和红豆汤给了，吃了喝了，便起来走了。这就是轻看了他长子的名分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是將餅和紅豆湯給了，吃了喝了，便起來走了。這就是輕看了他長子的名分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

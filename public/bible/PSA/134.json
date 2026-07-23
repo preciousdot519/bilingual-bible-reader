@@ -1,0 +1,63 @@
+{
+  "bookId": "PSA",
+  "chapter": 134,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Look! Praise the LORD, all you servants of the LORD, who stand by night in the LORD’s house!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的仆人夜间站在耶和华殿中的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的僕人夜間站在耶和華殿中的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Lift up your hands in the sanctuary. Praise the LORD!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当向圣所举手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當向聖所舉手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "May the LORD bless you from Zion, even he who made heaven and earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿造天地的耶和华， 赐福给你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願造天地的耶和華， 賜福給你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "bookId": "GEN",
+  "chapter": 15,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After these things the LORD’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，耶和华在异象中有话对说：「，你不要惧怕！我是你的盾牌，必大大地赏赐你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，耶和華在異象中有話對說：「，你不要懼怕！我是你的盾牌，必大大地賞賜你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Abram said, “Lord GOD, what will you give me, since I go childless, and he who will inherit my estate is Eliezer of Damascus?”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:2 The word translated “Lord” is “Adonai”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「主耶和华啊，我既无子，你还赐我什么呢？并且要承受我家业的是人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「主耶和華啊，我既無子，你還賜我甚麼呢？並且要承受我家業的是人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Abram said, “Behold, you have given no children to me: and, behold, one born in my house is my heir.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「你没有给我儿子；那生在我家中的人就是我的后嗣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「你沒有給我兒子；那生在我家中的人就是我的後嗣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Behold, the LORD’s word came to him, saying, “This man will not be your heir, but he who will come out of your own body will be your heir.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又有话对他说：「这人必不成为你的后嗣；你本身所生的才成为你的后嗣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又有話對他說：「這人必不成為你的後嗣；你本身所生的才成為你的後嗣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.” He said to Abram, “So your offspring will be.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是领他走到外边，说：「你向天观看，数算众星，能数得过来吗？」又对他说：「你的后裔将要如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是領他走到外邊，說：「你向天觀看，數算眾星，能數得過來嗎？」又對他說：「你的後裔將要如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He believed in the LORD, who credited it to him for righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信耶和华，耶和华就以此为他的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信耶和華，耶和華就以此為他的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He said to Abram, “I am the LORD who brought you out of Ur of the Chaldees, to give you this land to inherit it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又对他说：「我是耶和华，曾领你出了的，为要将这地赐你为业。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又對他說：「我是耶和華，曾領你出了的，為要將這地賜你為業。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said, “Lord GOD, how will I know that I will inherit it?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「主耶和华啊，我怎能知道必得这地为业呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「主耶和華啊，我怎能知道必得這地為業呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「你为我取一只三年的母牛，一只三年的母山羊，一只三年的公绵羊，一只斑鸠，一只雏鸽。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「你為我取一隻三年的母牛，一隻三年的母山羊，一隻三年的公綿羊，一隻斑鳩，一隻雛鴿。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He brought him all these, and divided them in the middle, and laid each half opposite the other; but he didn’t divide the birds.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就取了这些来，每样劈开，分成两半，一半对着一半地摆列，只有鸟没有劈开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就取了這些來，每樣劈開，分成兩半，一半對着一半地擺列，只有鳥沒有劈開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The birds of prey came down on the carcasses, and Abram drove them away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有鸷鸟下来，落在那死畜的肉上，就把它吓飞了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有鷙鳥下來，落在那死畜的肉上，就把牠嚇飛了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "When the sun was going down, a deep sleep fell on Abram. Now terror and great darkness fell on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头正落的时候，沉沉地睡了；忽然有惊人的大黑暗落在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭正落的時候，沉沉地睡了；忽然有驚人的大黑暗落在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He said to Abram, “Know for sure that your offspring will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对说：「你要的确知道，你的后裔必寄居别人的地，又服事那地的人；那地的人要苦待他们四百年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對說：「你要的確知道，你的後裔必寄居別人的地，又服事那地的人；那地的人要苦待他們四百年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I will also judge that nation, whom they will serve. Afterward they will come out with great wealth;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且他们所要服事的那国，我要惩罚，后来他们必带着许多财物从那里出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且他們所要服事的那國，我要懲罰，後來他們必帶着許多財物從那裏出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "but you will go to your fathers in peace. You will be buried at a good old age.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你要享大寿数，平平安安地归到你列祖那里，被人埋葬。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你要享大壽數，平平安安地歸到你列祖那裏，被人埋葬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "In the fourth generation they will come here again, for the iniquity of the Amorite is not yet full.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了第四代，他们必回到此地，因为人的罪孽还没有满盈。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了第四代，他們必回到此地，因為人的罪孽還沒有滿盈。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "It came to pass that, when the sun went down, and it was dark, behold, a smoking furnace and a flaming torch passed between these pieces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日落天黑，不料有冒烟的炉并烧着的火把从那些肉块中经过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日落天黑，不料有冒煙的爐並燒着的火把從那些肉塊中經過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "In that day the LORD made a covenant with Abram, saying, “I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，耶和华与立约，说：「我已赐给你的后裔，从直到大河之地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，耶和華與立約，說：「我已賜給你的後裔，從直到大河之地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "the land of the Kenites, the Kenizzites, the Kadmonites,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是人、人、人、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是人、人、人、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "the Hittites, the Perizzites, the Rephaim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人、人、人、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人、人、人、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "the Amorites, the Canaanites, the Girgashites, and the Jebusites.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人、人、人、人之地。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人、人、人、人之地。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

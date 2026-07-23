@@ -1,0 +1,522 @@
+{
+  "bookId": "JHN",
+  "chapter": 15,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Iam the true vine, and my Father is the farmer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我是真葡萄树，我父是栽培的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我是真葡萄樹，我父是栽培的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Everybranch in me that doesn’ t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡属我不结果子的枝子，他就剪去；凡结果子的，他就修理干净，使枝子结果子更多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡屬我不結果子的枝子，他就剪去；凡結果子的，他就修理乾淨，使枝子結果子更多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Youare already pruned clean because of the word which I have spoken to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们因我讲给你们的道，已经干净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們因我講給你們的道，已經乾淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Remainin me, and I in you. As the branch can’t bear fruit by itself unless it remains in the vine, so neither can you, unless you remain in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要常在我里面，我也常在你们里面。枝子若不常在葡萄树上，自己就不能结果子；你们若不常在我里面，也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要常在我裏面，我也常在你們裏面。枝子若不常在葡萄樹上，自己就不能結果子；你們若不常在我裏面，也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Iam the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是葡萄树，你们是枝子。常在我里面的，我也常在他里面，这人就多结果子；因为离了我，你们就不能做什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是葡萄樹，你們是枝子。常在我裏面的，我也常在他裏面，這人就多結果子；因為離了我，你們就不能做甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Ifa man doesn’ t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若不常在我里面，就像枝子丢在外面枯干，人拾起来，扔在火里烧了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若不常在我裏面，就像枝子丟在外面枯乾，人拾起來，扔在火裏燒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Ifyou remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若常在我里面，我的话也常在你们里面，凡你们所愿意的，祈求，就给你们成就。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若常在我裏面，我的話也常在你們裏面，凡你們所願意的，祈求，就給你們成就。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Inthis my Father is glorified, that you bear much fruit; and so you will be my disciples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们多结果子，我父就因此得荣耀，你们也就是我的门徒了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們多結果子，我父就因此得榮耀，你們也就是我的門徒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Evenas the Father has loved me, I also have loved you. Remain in my love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我爱你们，正如父爱我一样；你们要常在我的爱里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我愛你們，正如父愛我一樣；你們要常在我的愛裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Ifyou keep my commandments, you will remain in my love, even as I have kept my Father’s commandments and remain in his love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若遵守我的命令，就常在我的爱里，正如我遵守了我父的命令，常在他的爱里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若遵守我的命令，就常在我的愛裏，正如我遵守了我父的命令，常在他的愛裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Ihave spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这些事我已经对你们说了，是要叫我的喜乐存在你们心里，并叫你们的喜乐可以满足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這些事我已經對你們說了，是要叫我的喜樂存在你們心裏，並叫你們的喜樂可以滿足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Thisis my commandment, that you love one another, even as I have loved you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要彼此相爱，像我爱你们一样；这就是我的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要彼此相愛，像我愛你們一樣；這就是我的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Greaterlove has no one than this, that someone lay down his life for his friends.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人为朋友舍命，人的爱心没有比这个大的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人為朋友捨命，人的愛心沒有比這個大的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Youare my friends if you do whatever I command you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若遵行我所吩咐的，就是我的朋友了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若遵行我所吩咐的，就是我的朋友了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Nolonger do I call you servants, for the servant doesn’ t know what his lord does. But I have called you friends, for everything that I heard from my Father, I have made known to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以后我不再称你们为仆人，因仆人不知道主人所做的事。我乃称你们为朋友；因我从我父所听见的，已经都告诉你们了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後我不再稱你們為僕人，因僕人不知道主人所做的事。我乃稱你們為朋友；因我從我父所聽見的，已經都告訴你們了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Youdidn’ t choose me, but I chose you and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you will ask of the Father in my name, he may give it to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不是你们拣选了我，是我拣选了你们，并且分派你们去结果子，叫你们的果子常存，使你们奉我的名，无论向父求什么，他就赐给你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不是你們揀選了我，是我揀選了你們，並且分派你們去結果子，叫你們的果子常存，使你們奉我的名，無論向父求甚麼，他就賜給你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Icommand these things to you, that you may love one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我这样吩咐你们，是要叫你们彼此相爱。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我這樣吩咐你們，是要叫你們彼此相愛。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Ifthe world hates you, you know that it has hated me before it hated you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「世人若恨你们，你们知道，恨你们以先已经恨我了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 15:18 或译：该知道"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「世人若恨你們，你們知道，恨你們以先已經恨我了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 15:18 或譯：該知道"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Ifyou were of the world, the world would love its own. But because you are not of the world, since I chose you out of the world, therefore the world hates you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若属世界，世界必爱属自己的；只因你们不属世界，乃是我从世界中拣选了你们，所以世界就恨你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若屬世界，世界必愛屬自己的；只因你們不屬世界，乃是我從世界中揀選了你們，所以世界就恨你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Rememberthe word that I said to you: ‘A servant is not greater than his lord.’ Ifthey persecuted me, they will also persecute you. If they kept my word, they will also keep yours.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "15:20 John 13:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你们要记念我从前对你们所说的话：『仆人不能大于主人。』他们若逼迫了我，也要逼迫你们；若遵守了我的话，也要遵守你们的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要記念我從前對你們所說的話：『僕人不能大於主人。』他們若逼迫了我，也要逼迫你們；若遵守了我的話，也要遵守你們的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Butthey will do all these things to you for my name’s sake, because they don’ t know him who sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但他们因我的名要向你们行这一切的事，因为他们不认识那差我来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他們因我的名要向你們行這一切的事，因為他們不認識那差我來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "IfI had not come and spoken to them, they would not have had sin; but now they have no excuse for their sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若没有来教训他们，他们就没有罪；但如今他们的罪无可推诿了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若沒有來教訓他們，他們就沒有罪；但如今他們的罪無可推諉了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Hewho hates me, hates my Father also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恨我的，也恨我的父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恨我的，也恨我的父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "IfI hadn’ t done among them the works which no one else did, they wouldn’ t have had sin. But now they have seen and also hated both me and my Father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若没有在他们中间行过别人未曾行的事，他们就没有罪；但如今连我与我的父，他们也看见也恨恶了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若沒有在他們中間行過別人未曾行的事，他們就沒有罪；但如今連我與我的父，他們也看見也恨惡了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Butthis happened so that the word may be fulfilled which was written in their law, ‘They hated me without a cause.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "15:25 Psalms 35:19; 69:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这要应验他们律法上所写的话，说：『他们无故地恨我。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這要應驗他們律法上所寫的話，說：『他們無故地恨我。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Whenthe Counselor hascome, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:26 Greek Parakletos: Counselor, Helper, Advocate, Intercessor, and Comforter."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我要从父那里差保惠师来，就是从父出来真理的圣灵；他来了，就要为我作见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我要從父那裏差保惠師來，就是從父出來真理的聖靈；他來了，就要為我作見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Youwill also testify, because you have been with me from the beginning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也要作见证，因为你们从起头就与我同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也要作見證，因為你們從起頭就與我同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

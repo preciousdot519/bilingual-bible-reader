@@ -1,0 +1,633 @@
+{
+  "bookId": "JHN",
+  "chapter": 16,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Ihave said these things to you so that you wouldn’t be caused to stumble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我已将这些事告诉你们，使你们不至于跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我已將這些事告訴你們，使你們不至於跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Theywill put you out of the synagogues. Yes, the time is coming that whoever kills you will think that he offers service to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人要把你们赶出会堂，并且时候将到，凡杀你们的就以为是事奉 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人要把你們趕出會堂，並且時候將到，凡殺你們的就以為是事奉上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Theywill do these things becausethey have not known the Father nor me.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:3 TR adds “to you”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们这样行，是因未曾认识父，也未曾认识我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們這樣行，是因未曾認識父，也未曾認識我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "ButI have told you these things so that when the time comes, you may remember that I told you about them. I didn’ t tell you these things from the beginning, because I was with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将这事告诉你们，是叫你们到了时候可以想起我对你们说过了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將這事告訴你們，是叫你們到了時候可以想起我對你們說過了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Butnow I am going to him who sent me, and none of you asks me, ‘Where are you going?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现今我往差我来的那里去，你们中间并没有人问我：『你往哪里去？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現今我往差我來的那裏去，你們中間並沒有人問我：『你往哪裏去？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Butbecause I have told you these things, sorrow has filled your heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只因我将这事告诉你们，你们就满心忧愁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只因我將這事告訴你們，你們就滿心憂愁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "NeverthelessI tell you the truth: It is to your advantage that I go away; for if I don’ t go away, the Counselor won’ t come to you. But if I go, I will send him to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，我将真情告诉你们，我去是与你们有益的；我若不去，保惠师就不到你们这里来；我若去，就差他来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，我將真情告訴你們，我去是與你們有益的；我若不去，保惠師就不到你們這裏來；我若去，就差他來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Whenhe has come, he will convict the world about sin, about righteousness, and about judgment;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他既来了，就要叫世人为罪、为义、为审判，自己责备自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他既來了，就要叫世人為罪、為義、為審判，自己責備自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "aboutsin, because they don’t believe in me;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为罪，是因他们不信我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為罪，是因他們不信我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "aboutrighteousness, because I am going to my Father, and you won’ t see me any more;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为义，是因我往父那里去，你们就不再见我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為義，是因我往父那裏去，你們就不再見我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "aboutjudgment, because the prince of this world has been judged.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为审判，是因这世界的王受了审判。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為審判，是因這世界的王受了審判。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Istill have many things to tell you, but you can’t bear them now.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我还有好些事要告诉你们，但你们现在担当不了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:12 或译：不能领会"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我還有好些事要告訴你們，但你們現在擔當不了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:12 或譯：不能領會"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "However, when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只等真理的圣灵来了，他要引导你们明白一切的真理；因为他不是凭自己说的，乃是把他所听见的都说出来，并要把将来的事告诉你们。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:13 原文是进入"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只等真理的聖靈來了，他要引導你們明白一切的真理；因為他不是憑自己說的，乃是把他所聽見的都說出來，並要把將來的事告訴你們。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:13 原文是進入"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Hewill glorify me, for he will take from what is mine and will declare it to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要荣耀我，因为他要将受于我的告诉你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要榮耀我，因為他要將受於我的告訴你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Allthings that the Father has are mine; therefore I said that he takes ofmine and will declare it to you.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:15 TR reads “will take” instead of “takes”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡父所有的，都是我的；所以我说，他要将受于我的告诉你们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡父所有的，都是我的；所以我說，他要將受於我的告訴你們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Alittle while, and you will not see me. Again a little while, and you will see me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「等不多时，你们就不得见我；再等不多时，你们还要见我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「等不多時，你們就不得見我；再等不多時，你們還要見我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Some of his disciples therefore said to one another, “What is this that he says to us, Alittle while, and you won’ t see me, and again a little while, and you will see me;’and, BecauseI go to the Father’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有几个门徒就彼此说：「他对我们说：『等不多时，你们就不得见我；再等不多时，你们还要见我』；又：『因我往父那里去。』这是什么意思呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有幾個門徒就彼此說：「他對我們說：『等不多時，你們就不得見我；再等不多時，你們還要見我』；又：『因我往父那裏去。』這是甚麼意思呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They said therefore, “What is this that he says, Alittle while’? We don’t know what he is saying.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒彼此说：「他说『等不多时』到底是什么意思呢？我们不明白他所说的话。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒彼此說：「他說『等不多時』到底是甚麼意思呢？我們不明白他所說的話。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Therefore Jesus perceived that they wanted to ask him, and he said to them, Doyou inquire among yourselves concerning this, that I said, ‘A little while, and you won’t see me, and again a little while, and you will see me’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看出他们要问他，就说：「我说『等不多时，你们就不得见我；再等不多时，你们还要见我』，你们为这话彼此相问吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看出他們要問他，就說：「我說『等不多時，你們就不得見我；再等不多時，你們還要見我』，你們為這話彼此相問嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "certainlyI tell you that you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will be turned into joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你们，你们将要痛哭、哀号，世人倒要喜乐；你们将要忧愁，然而你们的忧愁要变为喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你們，你們將要痛哭、哀號，世人倒要喜樂；你們將要憂愁，然而你們的憂愁要變為喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Awoman, when she gives birth, has sorrow because her time has come. But when she has delivered the child, she doesn’ t remember the anguish any more, for the joy that a human being is born into the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人生产的时候就忧愁，因为她的时候到了；既生了孩子，就不再记念那苦楚，因为欢喜世上生了一个人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人生產的時候就憂愁，因為她的時候到了；既生了孩子，就不再記念那苦楚，因為歡喜世上生了一個人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Thereforeyou now have sorrow, but I will see you again, and your heart will rejoice, and no one will take your joy away from you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们现在也是忧愁，但我要再见你们，你们的心就喜乐了；这喜乐也没有人能夺去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們現在也是憂愁，但我要再見你們，你們的心就喜樂了；這喜樂也沒有人能奪去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Inthat day you will ask me no questions. Most certainly I tell you, whatever you may ask of the Father in my name, he will give it to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，你们什么也就不问我了。我实实在在地告诉你们，你们若向父求什么，他必因我的名赐给你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，你們甚麼也就不問我了。我實實在在地告訴你們，你們若向父求甚麼，他必因我的名賜給你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Untilnow, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向来你们没有奉我的名求什么，如今你们求，就必得着，叫你们的喜乐可以满足。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向來你們沒有奉我的名求甚麼，如今你們求，就必得着，叫你們的喜樂可以滿足。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Ihave spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这些事，我是用比喻对你们说的；时候将到，我不再用比喻对你们说，乃要将父明明地告诉你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這些事，我是用比喻對你們說的；時候將到，我不再用比喻對你們說，乃要將父明明地告訴你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Inthat day you will ask in my name; and I don’ t say to you that I will pray to the Father for you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，你们要奉我的名祈求；我并不对你们说，我要为你们求父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，你們要奉我的名祈求；我並不對你們說，我要為你們求父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "forthe Father himself loves you, because you have loved me, and have believed that I came from God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父自己爱你们；因为你们已经爱我，又信我是从父出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父自己愛你們；因為你們已經愛我，又信我是從父出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Icame from the Father and have come into the world. Again, I leave the world and go to the Father.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我从父出来，到了世界；我又离开世界，往父那里去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我從父出來，到了世界；我又離開世界，往父那裏去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "His disciples said to him, “Behold, now you are speaking plainly, and using no figures of speech.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒说：「如今你是明说，并不用比喻了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒說：「如今你是明說，並不用比喻了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Now we know that you know all things, and don’t need for anyone to question you. By this we believe that you came from God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我们晓得你凡事都知道，也不用人问你，因此我们信你是从 神出来的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我們曉得你凡事都知道，也不用人問你，因此我們信你是從上帝出來的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Jesus answered them, Doyou now believe?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「现在你们信吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「現在你們信嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，时候将到，且是已经到了，你们要分散，各归自己的地方去，留下我独自一人；其实我不是独自一人，因为有父与我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，時候將到，且是已經到了，你們要分散，各歸自己的地方去，留下我獨自一人；其實我不是獨自一人，因為有父與我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Ihave told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将这些事告诉你们，是要叫你们在我里面有平安。在世上，你们有苦难；但你们可以放心，我已经胜了世界。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將這些事告訴你們，是要叫你們在我裏面有平安。在世上，你們有苦難；但你們可以放心，我已經勝了世界。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

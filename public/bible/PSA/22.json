@@ -1,0 +1,592 @@
+{
+  "bookId": "PSA",
+  "chapter": 22,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My God, my God, why have you forsaken me? Why are you so far from helping me, and from the words of my groaning?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神，我的 神！为什么离弃我？ 远离不救我？不听我唉哼的言语？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝，我的上帝！為甚麼離棄我？ 遠離不救我？不聽我唉哼的言語？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "My God, I cry in the daytime, but you don’t answer; in the night season, and am not silent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神啊，我白日呼求，你不应允，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝啊，我白日呼求，你不應允，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But you are holy, you who inhabit the praises of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你是圣洁的， 的赞美为宝座的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:3 或译：居所"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你是聖潔的， 的讚美為寶座的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:3 或譯：居所"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Our fathers trusted in you. They trusted, and you delivered them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的祖宗倚靠你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的祖宗倚靠你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They cried to you, and were delivered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们哀求你，便蒙解救；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們哀求你，便蒙解救；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But I am a worm, and no man; a reproach of men, and despised by the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我是虫，不是人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我是蟲，不是人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "All those who see me mock me. They insult me with their lips. They shake their heads, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡看见我的都嗤笑我； ：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡看見我的都嗤笑我； ：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“He trusts in the LORD. him deliver him. him rescue him, since he delights in him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他把交托耶和华，耶和华可以救他吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他把交託耶和華，耶和華可以救他吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But you brought me out of the womb. You made me trust while at my mother’s breasts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你是叫我出母腹的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你是叫我出母腹的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I was thrown on you from my mother’s womb. You are my God since my mother bore me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我自出母胎就被交在你手里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我自出母胎就被交在你手裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Don’t be far from me, for trouble is near. For there is no one to help.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你不要远离我！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你不要遠離我！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Many bulls have surrounded me. of Bashan have encircled me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多公牛围绕我， 大力的公牛四面困住我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多公牛圍繞我， 大力的公牛四面困住我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They open their mouths wide against me, and roaring.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它们向我张口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠們向我張口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I am poured out like water. All my bones are out of joint. My heart is like wax. It is melted within me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我如水被倒出来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我如水被倒出來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "My strength is dried up like a potsherd. My tongue sticks to the roof of my mouth. You have brought me into the dust of death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的精力枯干，如同瓦片；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的精力枯乾，如同瓦片；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For dogs have surrounded me. A company of evildoers have enclosed me. They have pierced my hands and feet.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:16 So Dead Sea Scrolls. Masoretic Text reads, “Like a lion, they pin my hands and feet.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犬类围着我，恶党环绕我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "犬類圍着我，惡黨環繞我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I can count all of my bones. They look and stare at me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的骨头，我都能数过；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的骨頭，我都能數過；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They divide my garments among them. They cast lots for my clothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们分我的外衣，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們分我的外衣，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But don’t be far off, LORD. You are my help. Hurry to help me!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你不要远离我！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你不要遠離我！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Deliver my soul from the sword, my precious life from the power of the dog.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你救我的灵魂脱离刀剑， 脱离犬类，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:20 生命：原文是独一者"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你救我的靈魂脫離刀劍， 脫離犬類，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:20 生命：原文是獨一者"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Save me from the lion’s mouth! you have rescued me from the horns of the wild oxen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "救我脱离狮子的口；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "救我脫離獅子的口；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "I will declare your name to my brothers. the assembly, I will praise you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将你的名传与我的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將你的名傳與我的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "You who fear the LORD, praise him! you descendants of Jacob, glorify him! in awe of him, all you descendants of Israel!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们敬畏耶和华的人要赞美他！ 的后裔都要荣耀他！ 的后裔都要惧怕他！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們敬畏耶和華的人要讚美他！ 的後裔都要榮耀他！ 的後裔都要懼怕他！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For he has not despised nor abhorred the affliction of the afflicted, neither has he hidden his face from him; but when he cried to him, he heard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他没有藐视憎恶受苦的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他沒有藐視憎惡受苦的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "My praise of you comes in the great assembly. I will pay my vows before those who fear him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在大会中赞美你的话是从你而来的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在大會中讚美你的話是從你而來的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The humble shall eat and be satisfied. shall praise the LORD who seek after him. your hearts live forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谦卑的人必吃得饱足；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謙卑的人必吃得飽足；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "All the ends of the earth shall remember and turn to the LORD. All the relatives of the nations shall worship before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地的四极都要想念耶和华，并且归顺他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地的四極都要想念耶和華，並且歸順他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "For the kingdom is the LORD’s. He is the ruler over the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为国权是耶和华的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為國權是耶和華的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before him, even he who can’t keep his soul alive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地上一切丰肥的人必吃喝而敬拜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地上一切豐肥的人必吃喝而敬拜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Posterity shall serve him. shall be told about the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必有后裔事奉他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必有後裔事奉他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "They shall come and shall declare his righteousness to a people that shall be born, for he has done it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必来把他的公义传给将要生的民，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必來把他的公義傳給將要生的民，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

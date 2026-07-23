@@ -1,0 +1,181 @@
+{
+  "bookId": "PSA",
+  "chapter": 137,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们曾在的河边坐下， 就哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們曾在的河邊坐下， 就哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "On the willows in that land, we hung up our harps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们把琴挂在那里的柳树上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們把琴掛在那裏的柳樹上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For there, those who led us captive asked us for songs. Those who tormented us demanded songs of joy: Sing us one of the songs of Zion!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为在那里，掳掠我们的要我们唱歌， 作乐，： 歌吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為在那裏，擄掠我們的要我們唱歌， 作樂，： 歌吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "How can we sing the LORD’s song in a foreign land?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们怎能在外邦唱耶和华的歌呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們怎能在外邦唱耶和華的歌呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "If I forget you, Jerusalem, my right hand forget its skill.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "啊，我若忘记你， ！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "啊，我若忘記你， ！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Let my tongue stick to the roof of my mouth if I don’t remember you, I don’t prefer Jerusalem above my chief joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若不记念你， 过于我所最喜乐的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若不記念你， 過於我所最喜樂的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Remember, LORD, against the children of Edom in the day of Jerusalem, who said, “Raze it! Raze it even to its foundation!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的日子， 人说：拆毁！拆毁！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的日子， 人說：拆毀！拆毀！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Daughter of Babylon, doomed to destruction, he will be happy who repays you, as you have done to us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将要被灭的城啊，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 137:8 城：原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將要被滅的城啊，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 137:8 城：原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Happy shall he be, and dashes your little ones against the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿你的婴孩摔在磐石上的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿你的嬰孩摔在磐石上的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

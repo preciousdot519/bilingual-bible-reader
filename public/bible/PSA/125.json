@@ -1,0 +1,99 @@
+{
+  "bookId": "PSA",
+  "chapter": 125,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Those who trust in the LORD are as Mount Zion, which can’t be moved, but remains forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倚靠耶和华的人 ，永不动摇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倚靠耶和華的人 ，永不動搖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "As the mountains surround Jerusalem, so the LORD surrounds his people from this time forward and forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众山怎样围绕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾山怎樣圍繞，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For the scepter of wickedness won’t remain over the allotment of the righteous, so that the righteous won’t use their hands to do evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人的杖不常落在义人的分上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人的杖不常落在義人的分上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Do good, LORD, to those who are good, to those who are upright in their hearts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你善待那些为善",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你善待那些為善",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But as for those who turn away to their crooked ways, the LORD will lead them away with the workers of iniquity. Peace be on Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于那偏行弯曲道路的人， 。 ！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於那偏行彎曲道路的人， 。 ！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

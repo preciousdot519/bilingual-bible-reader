@@ -1,0 +1,322 @@
+{
+  "bookId": "GEN",
+  "chapter": 16,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Sarai, Abram’s wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的妻子不给他生儿女。有一个使女，名叫，是人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的妻子不給他生兒女。有一個使女，名叫，是人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Sarai said to Abram, “See now, the LORD has restrained me from bearing. Please go in to my servant. It may be that I will obtain children by her.” Abram listened to the voice of Sarai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「耶和华使我不能生育。求你和我的使女同房，或者我可以因她得孩子。」听从了的话。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:2 得孩子：原文是被建立"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「耶和華使我不能生育。求你和我的使女同房，或者我可以因她得孩子。」聽從了的話。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:2 得孩子：原文是被建立"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Sarai, Abram’s wife, took Hagar the Egyptian, her servant, after Abram had lived ten years in the land of Canaan, and gave her to Abram her husband to be his wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是的妻子将使女人给了丈夫为妾；那时在已经住了十年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是的妻子將使女人給了丈夫為妾；那時在已經住了十年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He went in to Hagar, and she conceived. When she saw that she had conceived, her mistress was despised in her eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与同房，就怀了孕；她见自己有孕，就小看她的主母。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與同房，就懷了孕；她見自己有孕，就小看她的主母。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Sarai said to Abram, “This wrong is your fault. I gave my servant into your bosom, and when she saw that she had conceived, she despised me. May the LORD judge between me and you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我因你受屈。我将我的使女放在你怀中，她见自己有了孕，就小看我。愿耶和华在你我中间判断。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我因你受屈。我將我的使女放在你懷中，她見自己有了孕，就小看我。願耶和華在你我中間判斷。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But Abram said to Sarai, “Behold, your maid is in your hand. Do to her whatever is good in your eyes.” Sarai dealt harshly with her, and she fled from her face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「使女在你手下，你可以随意待她。」苦待她，她就从面前逃走了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「使女在你手下，你可以隨意待她。」苦待她，她就從面前逃走了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD’s angel found her by a fountain of water in the wilderness, by the fountain on the way to Shur.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者在旷野路上的水泉旁遇见她，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者在曠野路上的水泉旁遇見她，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said, “Hagar, Sarai’s servant, where did you come from? Where are you going?” She said, “I am fleeing from the face of my mistress Sarai.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对她说：「的使女，你从哪里来？要往哪里去？」说：「我从我的主母面前逃出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對她說：「的使女，你從哪裏來？要往哪裏去？」說：「我從我的主母面前逃出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD’s angel said to her, “Return to your mistress, and submit yourself under her hands.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者对她说：「你回到你主母那里，服在她手下」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者對她說：「你回到你主母那裏，服在她手下」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The LORD’s angel said to her, “I will greatly multiply your offspring, that they will not be counted for multitude.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我必使你的后裔极其繁多，甚至不可胜数」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我必使你的後裔極其繁多，甚至不可勝數」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD’s angel said to her, “Behold, you are with child, and will bear a son. You shall call his name Ishmael, because the LORD has heard your affliction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并说：「你如今怀孕要生一个儿子，可以给他起名叫，因为耶和华听见了你的苦情。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:11 就是 神听见的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並說：「你如今懷孕要生一個兒子，可以給他起名叫，因為耶和華聽見了你的苦情。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:11 就是上帝聽見的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He will be like a wild donkey among men. His hand will be against every man, and every man’s hand against him. He will live opposed to all of his brothers.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他为人必像野驴。他的手要攻打人，人的手也要攻打他；他必住在众弟兄的东边。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他為人必像野驢。他的手要攻打人，人的手也要攻打他；他必住在眾弟兄的東邊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "She called the name of the LORD who spoke to her, “You are a God who sees,” for she said, “Have I even stayed alive after seeing him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就称那对她说话的耶和华为「看顾人的 神」。因而说：「在这里我也看见那看顾我的吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就稱那對她說話的耶和華為「看顧人的上帝」。因而說：「在這裏我也看見那看顧我的嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Therefore the well was called Beer Lahai Roi. Behold, it is between Kadesh and Bered.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:14 Beer Lahai Roi means “well of the one who lives and sees me”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以这井名叫。这井正在和中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以這井名叫。這井正在和中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来给生了一个儿子；给他起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來給生了一個兒子；給他起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给生的时候，年八十六岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給生的時候，年八十六歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

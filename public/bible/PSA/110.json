@@ -1,0 +1,161 @@
+{
+  "bookId": "PSA",
+  "chapter": 110,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对我主说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對我主說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD will send out the rod of your strength out of Zion. Rule among your enemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必使你从伸出能力的杖来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必使你從伸出能力的杖來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Your people offer themselves willingly in the day of your power, in holy array. of the womb of the morning, you have the dew of your youth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当你掌权的日子， ， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 110:3 或译：行军的日子"
+          },
+          {
+            "id": "f2",
+            "text": "- 110:3 或译：以圣洁为妆饰"
+          },
+          {
+            "id": "f3",
+            "text": "- 110:3 或译：你少年时光耀如清晨的甘露"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當你掌權的日子， ， 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 110:3 或譯：行軍的日子"
+          },
+          {
+            "id": "f2",
+            "text": "- 110:3 或譯：以聖潔為妝飾"
+          },
+          {
+            "id": "f3",
+            "text": "- 110:3 或譯：你少年時光耀如清晨的甘露"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD has sworn, and will not change his mind: You are a priest forever in the order of Melchizedek.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华起了誓，决不后悔，： 的等次永远为祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華起了誓，決不後悔，： 的等次永遠為祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The Lord is at your right hand. He will crush kings in the day of his wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你右边的主，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你右邊的主，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He will judge among the nations. He will heap up dead bodies. He will crush the ruler of the whole earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要在列邦中刑罚， ； 头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要在列邦中刑罰， ； 頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He will drink of the brook on the way; therefore he will lift up his head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要喝路旁的河水，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要喝路旁的河水，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

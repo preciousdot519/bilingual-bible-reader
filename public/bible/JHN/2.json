@@ -1,0 +1,480 @@
+{
+  "bookId": "JHN",
+  "chapter": 2,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第三日，在的有娶亲的筵席，耶稣的母亲在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第三日，在的有娶親的筵席，耶穌的母親在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Jesus also was invited, with his disciples, to the wedding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣和他的门徒也被请去赴席。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌和他的門徒也被請去赴席。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When the wine ran out, Jesus’ mother said to him, “They have no wine.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "酒用尽了，耶稣的母亲对他说：「他们没有酒了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "酒用盡了，耶穌的母親對他說：「他們沒有酒了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Jesus said to her, Woman, what does that have to do with you and me? My hour has not yet come.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「母亲，我与你有什么相干？我的时候还没有到。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:4 原文是妇人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「母親，我與你有甚麼相干？我的時候還沒有到。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:4 原文是婦人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "His mother said to the servants, “Whatever he says to you, do it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他母亲对用人说：「他告诉你们什么，你们就做什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Now there were six water pots of stone set there after the Jews’ way of purifying, containing two or three metretesapiece.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:6 2 to 3 metretes is about 20 to 30 U. S. Gallons, or 75 to 115 liters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照人洁净的规矩，有六口石缸摆在那里，每口可以盛两三桶水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照人潔淨的規矩，有六口石缸擺在那裏，每口可以盛兩三桶水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Jesus said to them, Fillthe water pots with water.”So they filled them up to the brim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对用人说：「把缸倒满了水。」他们就倒满了，直到缸口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對用人說：「把缸倒滿了水。」他們就倒滿了，直到缸口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said to them, Nowdraw some out, and take it to the ruler of the feast.” So they took it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又说：「现在可以舀出来，送给管筵席的。」他们就送了去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又說：「現在可以舀出來，送給管筵席的。」他們就送了去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When the ruler of the feast tasted the water now become wine, and didn’t know where it came from (but the servants who had drawn the water knew), the ruler of the feast called the bridegroom",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管筵席的尝了那水变的酒，并不知道是哪里来的，只有舀水的用人知道。管筵席的便叫新郎来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管筵席的嘗了那水變的酒，並不知道是哪裏來的，只有舀水的用人知道。管筵席的便叫新郎來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and said to him, “Everyone serves the good wine first, and when the guests have drunk freely, then that which is worse. You have kept the good wine until now!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「人都是先摆上好酒，等客喝足了，才摆上次的，你倒把好酒留到如今！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「人都是先擺上好酒，等客喝足了，才擺上次的，你倒把好酒留到如今！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "This beginning of his signs Jesus did in Cana of Galilee, and revealed his glory; and his disciples believed in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是耶稣所行的头一件神迹，是在的行的，显出他的荣耀来；他的门徒就信他了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是耶穌所行的頭一件神蹟，是在的行的，顯出他的榮耀來；他的門徒就信他了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，耶稣与他的母亲、弟兄，和门徒都下去，在那里住了不多几日。 （太21·12—13；可11·15—17；路19·45—46）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，耶穌與他的母親、弟兄，和門徒都下去，在那裏住了不多幾日。 （太21‧12－13；可11‧15－17；路19‧45－46）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The Passover of the Jews was at hand, and Jesus went up to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的逾越节近了，耶稣就上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的逾越節近了，耶穌就上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He found in the temple those who sold oxen, sheep, and doves, and the changers of money sitting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见殿里有卖牛、羊、鸽子的，并有兑换银钱的人坐在那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見殿裏有賣牛、羊、鴿子的，並有兌換銀錢的人坐在那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He made a whip of cords and drove all out of the temple, both the sheep and the oxen; and he poured out the changers’ money and overthrew their tables.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就拿绳子做成鞭子，把牛羊都赶出殿去，倒出兑换银钱之人的银钱，推翻他们的桌子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就拿繩子做成鞭子，把牛羊都趕出殿去，倒出兌換銀錢之人的銀錢，推翻他們的桌子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "To those who sold the doves, he said, Takethese things out of here! Don’t make my Father’s house a marketplace!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对卖鸽子的说：「把这些东西拿去！不要将我父的殿当作买卖的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對賣鴿子的說：「把這些東西拿去！不要將我父的殿當作買賣的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "His disciples remembered that it was written, “Zeal for your house will eat me up.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:17 Psalms 69:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他的门徒就想起记着说：「我为你的殿心里焦急，如同火烧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的門徒就想起記着說：「我為你的殿心裏焦急，如同火燒。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The Jews therefore answered him, “What sign do you show us, seeing that you do these things?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此人问他说：「你既做这些事，还显什么神迹给我们看呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此人問他說：「你既做這些事，還顯甚麼神蹟給我們看呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Jesus answered them, Destroythis temple, and in three days I will raise it up.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「你们拆毁这殿，我三日内要再建立起来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「你們拆毀這殿，我三日內要再建立起來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The Jews therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人便说：「这殿是四十六年才造成的，你三日内就再建立起来吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人便說：「這殿是四十六年才造成的，你三日內就再建立起來嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But he spoke of the temple of his body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但耶稣这话是以他的身体为殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但耶穌這話是以他的身體為殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture and the word which Jesus had said.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以到他从死里复活以后，门徒就想起他说过这话，便信了圣经和耶稣所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以到他從死裏復活以後，門徒就想起他說過這話，便信了聖經和耶穌所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当耶稣在过逾越节的时候，有许多人看见他所行的神迹，就信了他的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當耶穌在過逾越節的時候，有許多人看見他所行的神蹟，就信了他的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But Jesus didn’t entrust himself to them, because he knew everyone,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣却不将自己交托他们；因为他知道万人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌卻不將自己交託他們；因為他知道萬人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也用不着谁见证人怎样，因他知道人心里所存的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也用不着誰見證人怎樣，因他知道人心裏所存的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

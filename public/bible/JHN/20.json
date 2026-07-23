@@ -1,0 +1,596 @@
+{
+  "bookId": "JHN",
+  "chapter": 20,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七日的第一日清早，天还黑的时候，的来到坟墓那里，看见石头从坟墓挪开了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七日的第一日清早，天還黑的時候，的來到墳墓那裏，看見石頭從墳墓挪開了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就跑来见和耶稣所爱的那个门徒，对他们说：「有人把主从坟墓里挪了去，我们不知道放在哪里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就跑來見和耶穌所愛的那個門徒，對他們說：「有人把主從墳墓裏挪了去，我們不知道放在哪裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Therefore Peter and the other disciple went out, and they went toward the tomb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和那门徒就出来，往坟墓那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和那門徒就出來，往墳墓那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They both ran together. The other disciple outran Peter and came to the tomb first.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个人同跑，那门徒比跑得更快，先到了坟墓，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個人同跑，那門徒比跑得更快，先到了墳墓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "低头往里看，就见细麻布还放在那里，只是没有进去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "低頭往裏看，就見細麻布還放在那裏，只是沒有進去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Then Simon Peter came, following him, and entered into the tomb. He saw the linen cloths lying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随后也到了，进坟墓里去，就看见细麻布还放在那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨後也到了，進墳墓裏去，就看見細麻布還放在那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and the cloth that had been on his head, not lying with the linen cloths, but rolled up in a place by itself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又看见耶稣的裹头巾没有和细麻布放在一处，是另在一处卷着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又看見耶穌的裹頭巾沒有和細麻布放在一處，是另在一處捲着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "So then the other disciple who came first to the tomb also entered in, and he saw and believed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先到坟墓的那门徒也进去，看见就信了。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先到墳墓的那門徒也進去，看見就信了。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For as yet they didn’t know the Scripture, that he must rise from the dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们还不明白圣经的，就是耶稣必要从死里复活。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們還不明白聖經的，就是耶穌必要從死裏復活。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "So the disciples went away again to their own homes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是两个门徒回自己的住处去了。 （太28·9—10；可16·9—11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是兩個門徒回自己的住處去了。 （太28‧9－10；可16‧9－11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But Mary was standing outside at the tomb weeping. So as she wept, she stooped and looked into the tomb,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却站在坟墓外面哭。哭的时候，低头往坟墓里看，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻站在墳墓外面哭。哭的時候，低頭往墳墓裏看，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就见两个天使，穿着白衣，在安放耶稣身体的地方坐着，一个在头，一个在脚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就見兩個天使，穿着白衣，在安放耶穌身體的地方坐着，一個在頭，一個在腳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They asked her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I don’t know where they have laid him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使对她说：「妇人，你为什么哭？」她说：「因为有人把我主挪了去，我不知道放在哪里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使對她說：「婦人，你為甚麼哭？」她說：「因為有人把我主挪了去，我不知道放在哪裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When she had said this, she turned around and saw Jesus standing, and didn’t know that it was Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说了这话，就转过身来，看见耶稣站在那里，却不知道是耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說了這話，就轉過身來，看見耶穌站在那裏，卻不知道是耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Jesus said to her, Woman, why are you weeping? Who are you looking for?” She, supposing him to be the gardener, said to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣问她说：「妇人，为什么哭？你找谁呢？」以为是看园的，就对他说：「先生，若是你把他移了去，请告诉我，你把他放在哪里，我便去取他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌問她說：「婦人，為甚麼哭？你找誰呢？」以為是看園的，就對他說：「先生，若是你把他移了去，請告訴我，你把他放在哪裏，我便去取他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Jesus said to her, Mary.” She turned and said to him, “Rabboni!” which is to say, “Teacher!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:16 Rabboni is a transliteration of the Hebrew word for “great teacher.”"
+          },
+          {
+            "id": "f2",
+            "text": "20:16 or, Master"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「。」就转过来，用希伯来话对他说：「拉波尼！」（拉波尼就是夫子的意思。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「。」就轉過來，用希伯來話對他說：「拉波尼！」（拉波尼就是夫子的意思。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jesus said to her, thold me, for I haven’ t yet ascended to my Father; but go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「不要摸我，因我还没有升上去见我的父。你往我弟兄那里去，告诉他们说，我要升上去见我的父，也是你们的父，见我的 神，也是你们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「不要摸我，因我還沒有升上去見我的父。你往我弟兄那裏去，告訴他們說，我要升上去見我的父，也是你們的父，見我的上帝，也是你們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Mary Magdalene came and told the disciples that she had seen the Lord, and that he had said these things to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的就去告诉门徒说：「我已经看见了主。」她又将主对她说的这话告诉他们。 （太28·16—20；可16·14—18；路24·36—49）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的就去告訴門徒說：「我已經看見了主。」她又將主對她說的這話告訴他們。 （太28‧16－20；可16‧14－18；路24‧36－49）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, Peacebe to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日（就是七日的第一日）晚上，门徒所在的地方，因怕人，门都关了。耶稣来，站在当中，对他们说：「愿你们平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日（就是七日的第一日）晚上，門徒所在的地方，因怕人，門都關了。耶穌來，站在當中，對他們說：「願你們平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "When he had said this, he showed them his hands and his side. The disciples therefore were glad when they saw the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说了这话，就把手和肋旁指给他们看。门徒看见主，就喜乐了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說了這話，就把手和肋旁指給他們看。門徒看見主，就喜樂了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jesus therefore said to them again, Peacebe to you. As the Father has sent me, even so I send you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对他们说：「愿你们平安！父怎样差遣了我，我也照样差遣你们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對他們說：「願你們平安！父怎樣差遣了我，我也照樣差遣你們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "When he had said this, he breathed on them, and said to them, Receivethe Holy Spirit!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说了这话，就向他们吹一口气，说：「你们受圣灵！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說了這話，就向他們吹一口氣，說：「你們受聖靈！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "youforgive anyone’s sins, they have been forgiven them. If you retain anyone’s sins, they have been retained.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们赦免谁的罪，谁的罪就赦免了；你们留下谁的罪，谁的罪就留下了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們赦免誰的罪，誰的罪就赦免了；你們留下誰的罪，誰的罪就留下了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:24 or, Twin"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那十二个门徒中，有称为的；耶稣来的时候，他没有和他们同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那十二個門徒中，有稱為的；耶穌來的時候，他沒有和他們同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The other disciples therefore said to him, “We have seen the Lord!” But he said to them, “Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些门徒就对他说：「我们已经看见主了。」却说：「我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些門徒就對他說：「我們已經看見主了。」卻說：「我非看見他手上的釘痕，用指頭探入那釘痕，又用手探入他的肋旁，我總不信。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, Peacebe to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了八日，门徒又在屋里，也和他们同在，门都关了。耶稣来，站在当中说：「愿你们平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了八日，門徒又在屋裏，也和他們同在，門都關了。耶穌來，站在當中說：「願你們平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Then he said to Thomas, Reachhere your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对说：「伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:27 原文是看"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對說：「伸過你的指頭來，摸我的手；伸出你的手來，探入我的肋旁。不要疑惑，總要信！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:27 原文是看"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Thomas answered him, “My Lord and my God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我的主！我的 神！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我的主！我的上帝！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jesus said to him, Becauseyou have seen me, youhave believed. Blessed are those who have not seen and have believed.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:29 TR adds “Thomas,”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「你因看见了我才信；那没有看见就信的有福了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「你因看見了我才信；那沒有看見就信的有福了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣在门徒面前另外行了许多神迹，没有记在这书上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌在門徒面前另外行了許多神蹟，沒有記在這書上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但记这些事要叫你们信耶稣是基督，是 神的儿子，并且叫你们信了他，就可以因他的名得生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但記這些事要叫你們信耶穌是基督，是上帝的兒子，並且叫你們信了他，就可以因他的名得生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "bookId": "JHN",
+  "chapter": 5,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After these things, there was a feast of the Jews, and Jesus went up to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，到了人的一个节期，耶稣就上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，到了人的一個節期，耶穌就上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在，靠近羊有一个池子，希伯来话叫作，有五个廊子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在，靠近羊有一個池子，希伯來話叫作，有五個廊子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "里面躺着瞎眼的、瘸腿的、血气枯干的许多病人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:3 有古卷加：等候水动；\\+fv 4\\+fv* 因为有天使按时下池子搅动那水，水动之后，谁先下去，无论害什么病就痊愈了。"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "裏面躺着瞎眼的、瘸腿的、血氣枯乾的許多病人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:3 有古卷加：等候水動； 4 * 因為有天使按時下池子攪動那水，水動之後，誰先下去，無論害甚麼病就痊癒了。"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "for an angel went down at certain times into the pool and stirred up the water. Whoever stepped in first after the stirring of the water was healed of whatever disease he had.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:4 NU omits from “waiting” in verse 3 to the end of verse 4."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A certain man was there who had been sick for thirty-eight years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里有一个人，病了三十八年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏有一個人，病了三十八年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When Jesus saw him lying there, and knew that he had been sick for a long time, he asked him, Doyou want to be made well?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见他躺着，知道他病了许久，就问他说：「你要痊愈吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見他躺着，知道他病了許久，就問他說：「你要痊癒嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up, but while I’m coming, another steps down before me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "病人回答说：「先生，水动的时候，没有人把我放在池子里；我正去的时候，就有别人比我先下去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "病人回答說：「先生，水動的時候，沒有人把我放在池子裏；我正去的時候，就有別人比我先下去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Jesus said to him, Arise, take up your mat, and walk.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「起来，拿你的褥子走吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「起來，拿你的褥子走吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Immediately, the man was made well, and took up his mat and walked. Now that day was a Sabbath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人立刻痊愈，就拿起褥子来走了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人立刻痊癒，就拿起褥子來走了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "So the Jews said to him who was cured, “It is the Sabbath. It is not lawful for you to carry the mat.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那天是安息日，所以人对那医好的人说：「今天是安息日，你拿褥子是不可的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那天是安息日，所以人對那醫好的人說：「今天是安息日，你拿褥子是不可的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He answered them, “He who made me well said to me, Takeup your mat and walk.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他却回答说：「那使我痊愈的，对我说：『拿你的褥子走吧。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他卻回答說：「那使我痊癒的，對我說：『拿你的褥子走吧。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then they asked him, “Who is the man who said to you, Takeup your mat and walk’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们问他说：「对你说『拿褥子走』的是什么人？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們問他說：「對你說『拿褥子走』的是甚麼人？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But he who was healed didn’t know who it was, for Jesus had withdrawn, a crowd being in the place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那医好的人不知道是谁；因为那里的人多，耶稣已经躲开了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那醫好的人不知道是誰；因為那裏的人多，耶穌已經躲開了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Afterward Jesus found him in the temple and said to him, Behold, you are made well. Sin no more, so that nothing worse happens to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来耶稣在殿里遇见他，对他说：「你已经痊愈了，不要再犯罪，恐怕你遭遇的更加利害。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來耶穌在殿裏遇見他，對他說：「你已經痊癒了，不要再犯罪，恐怕你遭遇的更加利害。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The man went away, and told the Jews that it was Jesus who had made him well.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人就去告诉人，使他痊愈的是耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人就去告訴人，使他痊癒的是耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For this cause the Jews persecuted Jesus and sought to kill him, because he did these things on the Sabbath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以人逼迫耶稣，因为他在安息日做了这事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以人逼迫耶穌，因為他在安息日做了這事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But Jesus answered them, MyFather is still working, so I am working, too.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就对他们说：「我父做事直到如今，我也做事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就對他們說：「我父做事直到如今，我也做事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For this cause therefore the Jews sought all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, making himself equal with God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以人越发想要杀他；因他不但犯了安息日，并且称 神为他的父，将自己和 神当作平等。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以人越發想要殺他；因他不但犯了安息日，並且稱上帝為他的父，將自己和上帝當作平等。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Jesus therefore answered them, certainly, I tell you, the Son can do nothing of himself, but what he sees the Father doing. For whatever things he does, these the Son also does likewise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「我实实在在地告诉你们，子凭着自己不能做什么，惟有看见父所做的，子才能做；父所做的事，子也照样做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「我實實在在地告訴你們，子憑着自己不能做甚麼，惟有看見父所做的，子才能做；父所做的事，子也照樣做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Forthe Father has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父爱子，将自己所做的一切事指给他看，还要将比这更大的事指给他看，叫你们希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父愛子，將自己所做的一切事指給他看，還要將比這更大的事指給他看，叫你們希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Foras the Father raises the dead and gives them life, even so the Son also gives life to whom he desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父怎样叫死人起来，使他们活着，子也照样随自己的意思使人活着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父怎樣叫死人起來，使他們活着，子也照樣隨自己的意思使人活着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Forthe Father judges no one, but he has given all judgment to the Son,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父不审判什么人，乃将审判的事全交与子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父不審判甚麼人，乃將審判的事全交與子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "thatall may honor the Son, even as they honor the Father. He who doesn’ t honor the Son doesn’ t honor the Father who sent him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫人都尊敬子如同尊敬父一样。不尊敬子的，就是不尊敬差子来的父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫人都尊敬子如同尊敬父一樣。不尊敬子的，就是不尊敬差子來的父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Mostcertainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’ t come into judgment, but has passed out of death into life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你们，那听我话、又信差我来者的，就有永生；不至于定罪，是已经出死入生了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你們，那聽我話、又信差我來者的，就有永生；不至於定罪，是已經出死入生了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Mostcertainly I tell you, the hour comes, and now is, when the dead will hear the Son of God’s voice; and those who hear will live.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你们，时候将到，现在就是了，死人要听见 神儿子的声音，听见的人就要活了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你們，時候將到，現在就是了，死人要聽見上帝兒子的聲音，聽見的人就要活了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Foras the Father has life in himself, even so he gave to the Son also to have life in himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为父怎样在自己有生命，就赐给他儿子也照样在自己有生命，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為父怎樣在自己有生命，就賜給他兒子也照樣在自己有生命，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Healso gave him authority to execute judgment, because he is a son of man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且因为他是人子，就赐给他行审判的权柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且因為他是人子，就賜給他行審判的權柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "tmarvel at this, for the hour comes in which all who are in the tombs will hear his voice",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不要把这事看作希奇。时候要到，凡在坟墓里的，都要听见他的声音，就出来：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不要把這事看作希奇。時候要到，凡在墳墓裏的，都要聽見他的聲音，就出來：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "andwill come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行善的，复活得生；作恶的，复活定罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行善的，復活得生；作惡的，復活定罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Ican of myself do nothing. As I hear, I judge; and my judgment is righteous, because I don’ t seek my own will, but the will of my Father who sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我凭着自己不能做什么，我怎么听见就怎么审判。我的审判也是公平的；因为我不求自己的意思，只求那差我来者的意思。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我憑着自己不能做甚麼，我怎麼聽見就怎麼審判。我的審判也是公平的；因為我不求自己的意思，只求那差我來者的意思。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "IfI testify about myself, my witness is not valid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我若为自己作见证，我的见证就不真。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我若為自己作見證，我的見證就不真。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Itis another who testifies about me. I know that the testimony which he testifies about me is true.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "另有一位给我作见证，我也知道他给我作的见证是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "另有一位給我作見證，我也知道他給我作的見證是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Youhave sent to John, and he has testified to the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们曾差人到那里，他为真理作过见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們曾差人到那裏，他為真理作過見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Butthe testimony which I receive is not from man. However, I say these things that you may be saved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其实，我所受的见证不是从人来的；然而，我说这些话，为要叫你们得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其實，我所受的見證不是從人來的；然而，我說這些話，為要叫你們得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Hewas the burning and shining lamp, and you were willing to rejoice for a while in his light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是点着的明灯，你们情愿暂时喜欢他的光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是點着的明燈，你們情願暫時喜歡他的光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Butthe testimony which I have is greater than that of John; for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我有比更大的见证；因为父交给我要我成就的事，就是我所做的事，这便见证我是父所差来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我有比更大的見證；因為父交給我要我成就的事，就是我所做的事，這便見證我是父所差來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "TheFather himself, who sent me, has testified about me. You have neither heard his voice at any time, nor seen his form.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "差我来的父也为我作过见证。你们从来没有听见他的声音，也没有看见他的形象。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "差我來的父也為我作過見證。你們從來沒有聽見他的聲音，也沒有看見他的形像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Youdon’ t have his word living in you, because you don’ t believe him whom he sent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们并没有他的道存在心里；因为他所差来的，你们不信。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們並沒有他的道存在心裏；因為他所差來的，你們不信。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Yousearch the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们查考圣经，因你们以为内中有永生；给我作见证的就是这经。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:39 或译：应当查考圣经"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們查考聖經，因你們以為內中有永生；給我作見證的就是這經。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:39 或譯：應當查考聖經"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Yetyou will not come to me, that you may have life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，你们不肯到我这里来得生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，你們不肯到我這裏來得生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Idon’t receive glory from men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我不受从人来的荣耀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我不受從人來的榮耀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "ButI know you, that you don’ t have God’s love in yourselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我知道，你们心里没有 神的爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我知道，你們心裏沒有上帝的愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Ihave come in my Father’s name, and you don’ t receive me. If another comes in his own name, you will receive him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我奉我父的名来，你们并不接待我；若有别人奉自己的名来，你们倒要接待他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我奉我父的名來，你們並不接待我；若有別人奉自己的名來，你們倒要接待他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Howcan you believe, who receive glory from one another, and you don’ t seek the glory that comes from the only God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们互相受荣耀，却不求从独一之 神来的荣耀，怎能信呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們互相受榮耀，卻不求從獨一之上帝來的榮耀，怎能信呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "tthink that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要想我在父面前要告你们；有一位告你们的，就是你们所仰赖的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要想我在父面前要告你們；有一位告你們的，就是你們所仰賴的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Forif you believed Moses, you would believe me; for he wrote about me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们如果信，也必信我，因为他有指着我写的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們如果信，也必信我，因為他有指着我寫的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Butif you don’ t believe his writings, how will you believe my words?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若不信他的书，怎能信我的话呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若不信他的書，怎能信我的話呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

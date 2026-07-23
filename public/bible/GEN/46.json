@@ -1,0 +1,631 @@
+{
+  "bookId": "GEN",
+  "chapter": 46,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "带着一切所有的，起身来到，就献祭给他父亲的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帶着一切所有的，起身來到，就獻祭給他父親的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "God spoke to Israel in the visions of the night, and said, “Jacob, Jacob!” He said, “Here I am.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夜间， 神在异象中对说：「！！」他说：「我在这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "夜間，上帝在異象中對說：「！！」他說：「我在這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said, “I am God, the God of your father. Don’t be afraid to go down into Egypt, for there I will make of you a great nation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「我是 神，就是你父亲的 神。你下去不要害怕，因为我必使你在那里成为大族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「我是上帝，就是你父親的上帝。你下去不要害怕，因為我必使你在那裏成為大族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I will go down with you into Egypt. I will also surely bring you up again. Joseph’s hand will close your eyes.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要和你同下去，也必定带你上来；必给你送终。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 46:4 原文是将手按在你的眼睛上"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要和你同下去，也必定帶你上來；必給你送終。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 46:4 原文是將手按在你的眼睛上"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jacob rose up from Beersheba, and the sons of Israel carried Jacob, their father, their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就从起行。的儿子们使他们的父亲和他们的妻子、儿女都坐在法老为送来的车上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就從起行。的兒子們使他們的父親和他們的妻子、兒女都坐在法老為送來的車上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They took their livestock, and their goods, which they had gotten in the land of Canaan, and came into Egypt—Jacob, and all his offspring with him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们又带着地所得的牲畜、货财来到。和他的一切子孙都一同来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們又帶着地所得的牲畜、貨財來到。和他的一切子孫都一同來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "his sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and he brought all his offspring with him into Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把他的儿子、孙子、女儿、孙女，并他的子子孙孙，一同带到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把他的兒子、孫子、女兒、孫女，並他的子子孫孫，一同帶到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "These are the names of the children of Israel, who came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "来到的人名字记在下面。和他的儿孙：的长子是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "來到的人名字記在下面。和他的兒孫：的長子是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、、，还有女子所生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、、，還有女子所生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The sons of Levi: Gershon, Kohath, and Merari.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez were Hezron and Hamul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、、；惟有与死在地。的儿子是、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、、；惟有與死在地。的兒子是、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The sons of Issachar: Tola, Puvah, Iob, and Shimron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The sons of Zebulun: Sered, Elon, and Jahleel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "These are the sons of Leah, whom she bore to Jacob in Paddan Aram, with his daughter Dinah. All the souls of his sons and his daughters were thirty-three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是在给所生的儿子，还有女儿。儿孙共有三十三人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是在給所生的兒子，還有女兒。兒孫共有三十三人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister. The sons of Beriah: Heber and Malchiel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、，还有他们的妹子。的儿子是、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、，還有他們的妹子。的兒子是、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "These are the sons of Zilpah, whom Laban gave to Leah, his daughter, and these she bore to Jacob, even sixteen souls.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是给他女儿的婢女从所生的儿孙，共有十六人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是給他女兒的婢女從所生的兒孫，共有十六人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The sons of Rachel, Jacob’s wife: Joseph and Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "之妻的儿子是和。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "之妻的兒子是和。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "To Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera, priest of On, bore to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在地生了和，就是城的祭司的女儿给生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在地生了和，就是城的祭司的女兒給生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、、、、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、、、、、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "These are the sons of Rachel, who were born to Jacob: all the souls were fourteen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是给所生的儿孙，共有十四人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是給所生的兒孫，共有十四人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The son of Dan: Hushim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的儿子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的兒子是、、、。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "These are the sons of Bilhah, whom Laban gave to Rachel, his daughter, and these she bore to Jacob: all the souls were seven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是给他女儿的婢女从所生的儿孙，共有七人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是給他女兒的婢女從所生的兒孫，共有七人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "All the souls who came with Jacob into Egypt, who were his direct offspring, in addition to Jacob’s sons’ wives, all the souls were sixty-six.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那与同到的，除了他儿妇之外，凡从他所生的，共有六十六人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那與同到的，除了他兒婦之外，凡從他所生的，共有六十六人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The sons of Joseph, who were born to him in Egypt, were two souls. All the souls of the house of Jacob, who came into Egypt, were seventy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有在所生的两个儿子。家来到的共有七十人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有在所生的兩個兒子。家來到的共有七十人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Jacob sent Judah before him to Joseph, to show the way before him to Goshen, and they came into the land of Goshen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "打发先去见，请派人引路往去；于是他们来到地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "打發先去見，請派人引路往去；於是他們來到地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Joseph prepared his chariot, and went up to meet Israel, his father, in Goshen. He presented himself to him, and fell on his neck, and wept on his neck a good while.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "套车往去，迎接他父亲，及至见了面，就伏在父亲的颈项上，哭了许久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "套車往去，迎接他父親，及至見了面，就伏在父親的頸項上，哭了許久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Israel said to Joseph, “Now let me die, since I have seen your face, that you are still alive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对说：「我既得见你的面，知道你还在，就是死我也甘心。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對說：「我既得見你的面，知道你還在，就是死我也甘心。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Joseph said to his brothers, and to his father’s house, “I will go up, and speak with Pharaoh, and will tell him, ‘My brothers, and my father’s house, who were in the land of Canaan, have come to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他的弟兄和他父的全家说：「我要上去告诉法老，对他说：『我的弟兄和我父的全家从前在地，现今都到我这里来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他的弟兄和他父的全家說：「我要上去告訴法老，對他說：『我的弟兄和我父的全家從前在地，現今都到我這裏來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "These men are shepherds, for they have been keepers of livestock, and they have brought their flocks, and their herds, and all that they have.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们本是牧羊的人，以养牲畜为业；他们把羊群牛群和一切所有的都带来了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們本是牧羊的人，以養牲畜為業；他們把羊群牛群和一切所有的都帶來了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "It will happen, when Pharaoh summons you, and will say, ‘What is your occupation?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "等法老召你们的时候，问你们说：『你们以何事为业？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "等法老召你們的時候，問你們說：『你們以何事為業？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "that you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:’ that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要说：『你的仆人，从幼年直到如今，都以养牲畜为业，连我们的祖宗也都以此为业。』这样，你们可以住在地，因为凡牧羊的都被人所厌恶。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要說：『你的僕人，從幼年直到如今，都以養牲畜為業，連我們的祖宗也都以此為業。』這樣，你們可以住在地，因為凡牧羊的都被人所厭惡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

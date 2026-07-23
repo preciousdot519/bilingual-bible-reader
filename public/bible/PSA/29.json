@@ -1,0 +1,217 @@
+{
+  "bookId": "PSA",
+  "chapter": 29,
+  "bookEnglish": "Psalms",
+  "bookChineseSimplified": "诗篇",
+  "bookChineseTraditional": "詩篇",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Ascribe to the LORD, you sons of the mighty, ascribe to the LORD glory and strength.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神的众子啊，你们要将荣耀、能力归给耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的眾子啊，你們要將榮耀、能力歸給耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Ascribe to the LORD the glory due to his name. Worship the LORD in holy array.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要将耶和华的名所当得的荣耀归给他， 妆饰敬拜耶和华。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:2 的：或译为"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要將耶和華的名所當得的榮耀歸給他， 妝飾敬拜耶和華。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:2 的：或譯為"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD’s voice is on the waters. The God of glory thunders, even the LORD on many waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音发在水上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音發在水上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD’s voice is powerful. The LORD’s voice is full of majesty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音大有能力；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音大有能力；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD’s voice breaks the cedars. the LORD breaks in pieces the cedars of Lebanon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音震破香柏树； 的香柏树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音震破香柏樹； 的香柏樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He makes them also to skip like a calf; Lebanon and Sirion like a young, wild ox.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也使之跳跃如牛犊， 和跳跃如野牛犊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也使之跳躍如牛犢， 和跳躍如野牛犢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD’s voice strikes with flashes of lightning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音使火焰分岔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音使火焰分岔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD’s voice shakes the wilderness. The LORD shakes the wilderness of Kadesh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音震动旷野； 的旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音震動曠野； 的曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD’s voice makes the deer calve, and strips the forests bare. In his temple everything says, “Glory!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的声音惊动母鹿落胎， 荣耀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的聲音驚動母鹿落胎， 榮耀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The LORD sat enthroned at the Flood. the LORD sits as King forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洪水泛滥之时，耶和华坐着；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洪水泛濫之時，耶和華坐着；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD will give strength to his people. The LORD will bless his people with peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必赐力量给他的百姓；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必賜力量給他的百姓；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

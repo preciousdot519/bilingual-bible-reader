@@ -1,0 +1,868 @@
+{
+  "bookId": "GEN",
+  "chapter": 30,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, “Give me children, or else I will die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见自己不给生子，就嫉妒她姊姊，对说：「你给我孩子，不然我就死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見自己不給生子，就嫉妒她姊姊，對說：「你給我孩子，不然我就死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Jacob’s anger burned against Rachel, and he said, “Am I in God’s place, who has withheld from you the fruit of the womb?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向生气，说：「叫你不生育的是 神，我岂能代替他呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向生氣，說：「叫你不生育的是上帝，我豈能代替他呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "She said, “Behold, my maid Bilhah. Go in to her, that she may bear on my knees, and I also may obtain children by her.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「有我的使女在这里，你可以与她同房，使她生子在我膝下，我便因她也得孩子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:3 原文是被建立"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「有我的使女在這裏，你可以與她同房，使她生子在我膝下，我便因她也得孩子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:3 原文是被建立"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "She gave him Bilhah her servant as wife, and Jacob went in to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就把她的使女给丈夫为妾；便与她同房，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就把她的使女給丈夫為妾；便與她同房，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Bilhah conceived, and bore Jacob a son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就怀孕，给生了一个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就懷孕，給生了一個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Rachel said, “God has judged me, and has also heard my voice, and has given me a son.” Therefore she called his name Dan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「 神伸了我的冤，也听了我的声音，赐我一个儿子」，因此给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:6 就是伸冤的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「上帝伸了我的冤，也聽了我的聲音，賜我一個兒子」，因此給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:6 就是伸冤的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Bilhah, Rachel’s servant, conceived again, and bore Jacob a second son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的使女又怀孕，给生了第二个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的使女又懷孕，給生了第二個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Rachel said, “I have wrestled with my sister with mighty wrestlings, and have prevailed.” She named him Naphtali.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我与我姊姊大大相争，并且得胜」，于是给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:8 就是相争的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我與我姊姊大大相爭，並且得勝」，於是給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:8 就是相爭的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When Leah saw that she had finished bearing, she took Zilpah, her servant, and gave her to Jacob as a wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见自己停了生育，就把使女给为妾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見自己停了生育，就把使女給為妾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Zilpah, Leah’s servant, bore Jacob a son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的使女给生了一个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的使女給生了一個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Leah said, “How fortunate!” She named him Gad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「万幸！」于是给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:11 就是万幸的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「萬幸！」於是給他起名叫 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:11 就是萬幸的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Zilpah, Leah’s servant, bore Jacob a second son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的使女又给生了第二个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的使女又給生了第二個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Leah said, “Happy am I, for the daughters will call me happy.” She named him Asher.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我有福啊，众女子都要称我是有福的」，于是给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:13 就是有福的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我有福啊，眾女子都要稱我是有福的」，於是給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:13 就是有福的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them to his mother, Leah. Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "割麦子的时候，往田里去，寻见风茄，拿来给他母亲。对说：「请你把你儿子的风茄给我些。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "割麥子的時候，往田裏去，尋見風茄，拿來給他母親。對說：「請你把你兒子的風茄給我些。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Leah said to her, “Is it a small matter that you have taken away my husband? Would you take away my son’s mandrakes, also?” Rachel said, “Therefore he will lie with you tonight for your son’s mandrakes.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你夺了我的丈夫还算小事吗？你又要夺我儿子的风茄吗？」说：「为你儿子的风茄，今夜他可以与你同寝。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你奪了我的丈夫還算小事嗎？你又要奪我兒子的風茄嗎？」說：「為你兒子的風茄，今夜他可以與你同寢。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Jacob came from the field in the evening, and Leah went out to meet him, and said, “You must come in to me; for I have surely hired you with my son’s mandrakes.” He lay with her that night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了晚上，从田里回来，出来迎接他，说：「你要与我同寝，因为我实在用我儿子的风茄把你雇下了。」那一夜，就与她同寝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了晚上，從田裏回來，出來迎接他，說：「你要與我同寢，因為我實在用我兒子的風茄把你雇下了。」那一夜，就與她同寢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "God listened to Leah, and she conceived, and bore Jacob a fifth son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神应允了，她就怀孕，给生了第五个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝應允了，她就懷孕，給生了第五個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Leah said, “God has given me my hire, because I gave my servant to my husband.” She named him Issachar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「 神给了我价值，因为我把使女给了我丈夫」，于是给他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:18 就是价值的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「上帝給了我價值，因為我把使女給了我丈夫」，於是給他起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:18 就是價值的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Leah conceived again, and bore a sixth son to Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又怀孕，给生了第六个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又懷孕，給生了第六個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Leah said, “God has endowed me with a good dowry. Now my husband will live with me, because I have borne him six sons.” She named him Zebulun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「 神赐我厚赏；我丈夫必与我同住，因我给他生了六个儿子」，于是给他起名。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:20 就是同住的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「上帝賜我厚賞；我丈夫必與我同住，因我給他生了六個兒子」，於是給他起名。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:20 就是同住的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Afterwards, she bore a daughter, and named her Dinah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来又生了一个女儿，给她起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來又生了一個女兒，給她起名叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "God remembered Rachel, and God listened to her, and opened her womb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神顾念，应允了她，使她能生育。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝顧念，應允了她，使她能生育。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "She conceived, bore a son, and said, “God has taken away my reproach.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怀孕生子，说：「 神除去了我的羞耻」，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懷孕生子，說：「上帝除去了我的羞恥」，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "She named him Joseph, saying, “May the LORD add another son to me.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "30:24 Joseph means “may he add”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就给他起名叫，意思说：「愿耶和华再增添我一个儿子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:24 就是增添的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就給他起名叫，意思說：「願耶和華再增添我一個兒子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:24 就是增添的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When Rachel had borne Joseph, Jacob said to Laban, “Send me away, that I may go to my own place, and to my country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生之后，对说：「请打发我走，叫我回到我本乡本土去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生之後，對說：「請打發我走，叫我回到我本鄉本土去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Give me my wives and my children for whom I have served you, and let me go; for you know my service with which I have served you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请你把我服事你所得的妻子和儿女给我，让我走；我怎样服事你，你都知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請你把我服事你所得的妻子和兒女給我，讓我走；我怎樣服事你，你都知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Laban said to him, “If now I have found favor in your eyes, stay here, for I have divined that the LORD has blessed me for your sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「我若在你眼前蒙恩，请你，我已算定，耶和华赐福与我是为你的缘故」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「我若在你眼前蒙恩，請你，我已算定，耶和華賜福與我是為你的緣故」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He said, “Appoint me your wages, and I will give it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「请你定你的工价，我就给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「請你定你的工價，我就給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jacob said to him, “You know how I have served you, and how your livestock have fared with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「我怎样服事你，你的牲畜在我手里怎样，是你知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「我怎樣服事你，你的牲畜在我手裏怎樣，是你知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "For it was little which you had before I came, and it has increased to a multitude. The LORD has blessed you wherever I turned. Now when will I provide for my own house also?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我未来之先，你所有的很少，现今却发大众多，耶和华随我的脚步赐福与你。如今，我什么时候才为自己兴家立业呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我未來之先，你所有的很少，現今卻發大眾多，耶和華隨我的腳步賜福與你。如今，我甚麼時候才為自己興家立業呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Laban said, “What shall I give you?” Jacob said, “You shall not give me anything. If you will do this thing for me, I will again feed your flock and keep it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我当给你什么呢？」说：「什么你也不必给我，只有一件事，你若应承，我便仍旧牧放你的羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我當給你甚麼呢？」說：「甚麼你也不必給我，只有一件事，你若應承，我便仍舊牧放你的羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "I will pass through all your flock today, removing from there every speckled and spotted one, and every black one among the sheep, and the spotted and speckled among the goats. This will be my hire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "今天我要走遍你的羊群，把绵羊中凡有点的、有斑的，和黑色的，并山羊中凡有斑的、有点的，都挑出来；将来就算我的工价。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "今天我要走遍你的羊群，把綿羊中凡有點的、有斑的，和黑色的，並山羊中凡有斑的、有點的，都挑出來；將來就算我的工價。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "So my righteousness will answer for me hereafter, when you come concerning my hire that is before you. Every one that is not speckled and spotted among the goats, and black among the sheep, that might be with me, will be considered stolen.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以后你来查看我的工价，凡在我手里的山羊不是有点有斑的，绵羊不是黑色的，那就算是我偷的；这样便可证出我的公义来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後你來查看我的工價，凡在我手裏的山羊不是有點有斑的，綿羊不是黑色的，那就算是我偷的；這樣便可證出我的公義來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Laban said, “Behold, let it be according to your word.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「好啊！我情愿照着你的话行。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「好啊！我情願照着你的話行。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "That day, he removed the male goats that were streaked and spotted, and all the female goats that were speckled and spotted, every one that had white in it, and all the black ones among the sheep, and gave them into the hand of his sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日，把有纹的、有斑的公山羊，有点的、有斑的、有杂白纹的母山羊，并黑色的绵羊，都挑出来，交在他儿子们的手下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日，把有紋的、有斑的公山羊，有點的、有斑的、有雜白紋的母山羊，並黑色的綿羊，都挑出來，交在他兒子們的手下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He set three days’ journey between himself and Jacob, and Jacob fed the rest of Laban’s flocks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又使自己和相离三天的路程。就牧养其余的羊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又使自己和相離三天的路程。就牧養其餘的羊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Jacob took to himself rods of fresh poplar, almond, and plane tree, peeled white streaks in them, and made the white appear which was in the rods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿杨树、杏树、枫树的嫩枝，将皮剥成白纹，使枝子露出白的来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿楊樹、杏樹、楓樹的嫩枝，將皮剝成白紋，使枝子露出白的來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He set the rods which he had peeled opposite the flocks in the watering troughs where the flocks came to drink. They conceived when they came to drink.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将剥了皮的枝子，对着羊群，插在饮羊的水沟里和水槽里，羊来喝的时候，牝牡配合。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將剝了皮的枝子，對着羊群，插在飲羊的水溝裏和水槽裏，羊來喝的時候，牝牡配合。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The flocks conceived before the rods, and the flocks produced streaked, speckled, and spotted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "羊对着枝子配合，就生下有纹的、有点的、有斑的来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羊對着枝子配合，就生下有紋的、有點的、有斑的來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Jacob separated the lambs, and set the faces of the flocks toward the streaked and all the black in Laban’s flock. He put his own droves apart, and didn’t put them into Laban’s flock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把羊羔分出来，使的羊与这有纹和黑色的羊相对，把自己的羊另放一处，不叫他和的羊混杂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把羊羔分出來，使的羊與這有紋和黑色的羊相對，把自己的羊另放一處，不叫他和的羊混雜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Whenever the stronger of the flock conceived, Jacob laid the rods in front of the eyes of the flock in the watering troughs, that they might conceive among the rods;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到羊群肥壮配合的时候，就把枝子插在水沟里，使羊对着枝子配合。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到羊群肥壯配合的時候，就把枝子插在水溝裏，使羊對着枝子配合。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "but when the flock were feeble, he didn’t put them in. So the feebler were Laban’s, and the stronger Jacob’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是到羊瘦弱配合的时候就不插枝子。这样，瘦弱的就归，肥壮的就归。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是到羊瘦弱配合的時候就不插枝子。這樣，瘦弱的就歸，肥壯的就歸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "The man increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是极其发大，得了许多的羊群、仆婢、骆驼，和驴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是極其發大，得了許多的羊群、僕婢、駱駝，和驢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

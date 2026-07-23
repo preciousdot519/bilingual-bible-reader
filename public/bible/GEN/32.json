@@ -1,0 +1,615 @@
+{
+  "bookId": "GEN",
+  "chapter": 32,
+  "bookEnglish": "Genesis",
+  "bookChineseSimplified": "创世记",
+  "bookChineseTraditional": "創世記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Jacob went on his way, and the angels of God met him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仍旧行路， 神的使者遇见他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "仍舊行路，上帝的使者遇見他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When he saw them, Jacob said, “This is God’s army.” He called the name of that place Mahanaim.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:2 “Mahanaim” means “two camps”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见他们就说：「这是 神的军兵」，于是给那地方起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:2 就是二军兵的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見他們就說：「這是上帝的軍兵」，於是給那地方起名叫。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:2 就是二軍兵的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jacob sent messengers in front of him to Esau, his brother, to the land of Seir, the field of Edom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "打发人先往地去，就是地，见他哥哥，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "打發人先往地去，就是地，見他哥哥，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He commanded them, saying, “This is what you shall tell my lord, Esau: ‘This is what your servant, Jacob, says. I have lived as a foreigner with Laban, and stayed until now.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吩咐他们说：「你们对我主说：『你的仆人这样说：我在那里寄居，直到如今。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吩咐他們說：「你們對我主說：『你的僕人這樣說：我在那裏寄居，直到如今。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I have cattle, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, that I may find favor in your sight.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我有牛、驴、羊群、仆婢，现在打发人来报告我主，为要在你眼前蒙恩。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我有牛、驢、羊群、僕婢，現在打發人來報告我主，為要在你眼前蒙恩。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The messengers returned to Jacob, saying, “We came to your brother Esau. He is coming to meet you, and four hundred men are with him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所打发的人回到那里，说：「我们到了你哥哥那里，他带着四百人，正迎着你来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所打發的人回到那裏，說：「我們到了你哥哥那裏，他帶着四百人，正迎着你來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then Jacob was greatly afraid and was distressed. He divided the people who were with him, along with the flocks, the herds, and the camels, into two companies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就甚惧怕，而且愁烦，便把那与他同在的人口和羊群、牛群、骆驼分做两队，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就甚懼怕，而且愁煩，便把那與他同在的人口和羊群、牛群、駱駝分做兩隊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said, “If Esau comes to the one company, and strikes it, then the company which is left will escape.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「若来击杀这一队，剩下的那一队还可以逃避。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「若來擊殺這一隊，剩下的那一隊還可以逃避。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Jacob said, “God of my father Abraham, and God of my father Isaac, the LORD, who said to me, ‘Return to your country, and to your relatives, and I will do you good,’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「耶和华—我祖的 神，我父亲的 神啊，你曾对我说：『回你本地本族去，我要厚待你。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「耶和華－我祖的上帝，我父親的上帝啊，你曾對我說：『回你本地本族去，我要厚待你。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I am not worthy of the least of all the loving kindnesses, and of all the truth, which you have shown to your servant; for with just my staff I crossed over this Jordan; and now I have become two companies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你向仆人所施的一切慈爱和诚实，我一点也不配得；我先前只拿着我的杖过这，如今我却成了两队了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你向僕人所施的一切慈愛和誠實，我一點也不配得；我先前只拿着我的杖過這，如今我卻成了兩隊了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Please deliver me from the hand of my brother, from the hand of Esau; for I fear him, lest he come and strike me and the mothers with the children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你救我脱离我哥哥的手；因为我怕他来杀我，连妻子带儿女一同杀了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你救我脫離我哥哥的手；因為我怕他來殺我，連妻子帶兒女一同殺了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You said, ‘I will surely do you good, and make your offspring as the sand of the sea, which can’t be counted because there are so many.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你曾说：『我必定厚待你，使你的后裔如同海边的沙，多得不可胜数。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你曾說：『我必定厚待你，使你的後裔如同海邊的沙，多得不可勝數。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He stayed there that night, and took from that which he had with him a present for Esau, his brother:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当夜，在那里住宿，就从他所有的物中拿礼物要送给他哥哥：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當夜，在那裏住宿，就從他所有的物中拿禮物要送給他哥哥：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "two hundred female goats and twenty male goats, two hundred ewes and twenty rams,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "母山羊二百只，公山羊二十只，母绵羊二百只，公绵羊二十只，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "母山羊二百隻，公山羊二十隻，母綿羊二百隻，公綿羊二十隻，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "thirty milk camels and their colts, forty cows, ten bulls, twenty female donkeys and ten foals.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奶崽子的骆驼三十只—各带着崽子，母牛四十只，公牛十只，母驴二十匹，驴驹十匹；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奶崽子的駱駝三十隻－各帶着崽子，母牛四十隻，公牛十隻，母驢二十匹，驢駒十匹；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He delivered them into the hands of his servants, every herd by itself, and said to his servants, “Pass over before me, and put a space between herd and herd.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每样各分一群，交在仆人手下，就对仆人说：「你们要在我前头过去，使群群相离，有空闲的地方」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每樣各分一群，交在僕人手下，就對僕人說：「你們要在我前頭過去，使群群相離，有空閒的地方」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He commanded the foremost, saying, “When Esau, my brother, meets you, and asks you, saying, ‘Whose are you? Where are you going? Whose are these before you?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又吩咐尽先走的说：「我哥哥遇见你的时候，问你说：『你是哪家的人？要往哪里去？你前头这些是谁的？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又吩咐儘先走的說：「我哥哥遇見你的時候，問你說：『你是哪家的人？要往哪裏去？你前頭這些是誰的？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Then you shall say, ‘They are your servant, Jacob’s. It is a present sent to my lord, Esau. Behold, he also is behind us.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就说：『是你仆人的，是送给我主的礼物；他自己也在我们后边。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就說：『是你僕人的，是送給我主的禮物；他自己也在我們後邊。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He commanded also the second, and the third, and all that followed the herds, saying, “This is how you shall speak to Esau, when you find him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又吩咐第二、第三，和一切赶群畜的人说：「你们遇见的时候也要这样对他说；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又吩咐第二、第三，和一切趕群畜的人說：「你們遇見的時候也要這樣對他說；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You shall say, ‘Not only that, but behold, your servant, Jacob, is behind us.’” For, he said, “I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你们要说：『你仆人在我们后边。』」因心里说：「我借着在我前头去的礼物解他的恨，然后再见他的面，或者他容纳我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你們要說：『你僕人在我們後邊。』」因心裏說：「我藉着在我前頭去的禮物解他的恨，然後再見他的面，或者他容納我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "So the present passed over before him, and he himself stayed that night in the camp.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是礼物先过去了；那夜，在队中住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是禮物先過去了；那夜，在隊中住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He rose up that night, and took his two wives, and his two servants, and his eleven sons, and crossed over the ford of the Jabbok.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他夜间起来，带着两个妻子，两个使女，并十一个儿子，都过了渡口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他夜間起來，帶着兩個妻子，兩個使女，並十一個兒子，都過了渡口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He took them, and sent them over the stream, and sent over that which he had.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先打发他们过河，又打发所有的都过去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先打發他們過河，又打發所有的都過去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Jacob was left alone, and wrestled with a man there until the breaking of the day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只剩下一人。有一个人来和他摔跤，直到黎明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只剩下一人。有一個人來和他摔跤，直到黎明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When he saw that he didn’t prevail against him, the man touched the hollow of his thigh, and the hollow of Jacob’s thigh was strained as he wrestled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人见自己胜不过他，就将他的大腿窝摸了一把，的大腿窝正在摔跤的时候就扭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人見自己勝不過他，就將他的大腿窩摸了一把，的大腿窩正在摔跤的時候就扭了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The man said, “Let me go, for the day breaks.” Jacob said, “I won’t let you go unless you bless me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人说：「天黎明了，容我去吧！」说：「你不给我祝福，我就不容你去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人說：「天黎明了，容我去吧！」說：「你不給我祝福，我就不容你去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He said to him, “What is your name?” He said, “Jacob”.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人说：「你名叫什么？」他说：「我名叫。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人說：「你名叫甚麼？」他說：「我名叫。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He said, “Your name will no longer be called Jacob, but Israel; for you have fought with God and with men, and have prevailed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人说：「你的名不要再叫，要叫；因为你与 神与人较力，都得了胜。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人說：「你的名不要再叫，要叫；因為你與上帝與人較力，都得了勝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jacob asked him, “Please tell me your name.” He said, “Why is it that you ask what my name is?” So he blessed him there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "问他说：「请将你的名告诉我。」那人说：「何必问我的名？」于是在那里给祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "問他說：「請將你的名告訴我。」那人說：「何必問我的名？」於是在那裏給祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Jacob called the name of the place Peniel; for he said, “I have seen God face to face, and my life is preserved.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:30 Peniel means “face of God”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便给那地方起名叫，意思说：「我面对面见了 神，我的性命仍得保全。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:30 就是 神之面的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便給那地方起名叫，意思說：「我面對面見了上帝，我的性命仍得保全。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:30 就是上帝之面的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The sun rose on him as he passed over Peniel, and he limped because of his thigh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头刚出来的时候，经过，他的大腿就瘸了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭剛出來的時候，經過，他的大腿就瘸了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Therefore the children of Israel don’t eat the sinew of the hip, which is on the hollow of the thigh, to this day, because he touched the hollow of Jacob’s thigh in the sinew of the hip.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，人不吃大腿窝的筋，直到今日，因为那人摸了大腿窝的筋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，人不吃大腿窩的筋，直到今日，因為那人摸了大腿窩的筋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

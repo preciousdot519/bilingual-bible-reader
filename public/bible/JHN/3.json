@@ -1,0 +1,707 @@
+{
+  "bookId": "JHN",
+  "chapter": 3,
+  "bookEnglish": "John",
+  "bookChineseSimplified": "约翰福音",
+  "bookChineseTraditional": "約翰福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个法利赛人，名叫，是人的官。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個法利賽人，名叫，是人的官。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这人夜里来见耶稣，说：「拉比，我们知道你是由 神那里来作师傅的；因为你所行的神迹，若没有 神同在，无人能行。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人夜裏來見耶穌，說：「拉比，我們知道你是由上帝那裏來作師傅的；因為你所行的神蹟，若沒有上帝同在，無人能行。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jesus answered him, Mostcertainly I tell you, unless one is born anew, hecan’t see God’s Kingdom.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:3 The word translated “anew” here and in John 3:7 (ἄνωθεν) also means “again” and “from above”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我实实在在地告诉你，人若不重生，就不能见 神的国。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我實實在在地告訴你，人若不重生，就不能見上帝的國。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「人已经老了，如何能重生呢？岂能再进母腹生出来吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jesus answered, Mostcertainly I tell you, unless one is born of water and Spirit, he can’t enter into God’s Kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我实实在在地告诉你，人若不是从水和灵生的，就不能进 神的国。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我實實在在地告訴你，人若不是從水和靈生的，就不能進上帝的國。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Thatwhich is born of the flesh is flesh. That which is born of the Spirit is spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从肉身生的就是肉身；从灵生的就是灵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從肉身生的就是肉身；從靈生的就是靈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "marvelthat I said to you, ‘You must all be born anew.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：『你们必须重生』，你不要以为希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：『你們必須重生』，你不要以為希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Thewind blowswhere it wants to, and you hear its sound, but don’ t know where it comes from and where it is going. So is everyone who is born of the Spirit.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:8 The same Greek word (πνεῦμα) means wind, breath, and spirit."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "风随着意思吹，你听见风的响声，却不晓得从哪里来，往哪里去；凡从灵生的，也是如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "風隨着意思吹，你聽見風的響聲，卻不曉得從哪裏來，往哪裏去；凡從靈生的，也是如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Nicodemus answered him, “How can these things be?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "问他说：「怎能有这事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "問他說：「怎能有這事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Jesus answered him, Areyou the teacher of Israel, and don’ t understand these things?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「你是人的先生，还不明白这事吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「你是人的先生，還不明白這事嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "certainlyI tell you, we speak that which we know and testify of that which we have seen, and you don’ t receive our witness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实实在在地告诉你，我们所说的是我们知道的；我们所见证的是我们见过的；你们却不领受我们的见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實實在在地告訴你，我們所說的是我們知道的；我們所見證的是我們見過的；你們卻不領受我們的見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "IfI told you earthly things and you don’ t believe, how will you believe if I tell you heavenly things?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们说地上的事，你们尚且不信，若说天上的事，如何能信呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們說地上的事，你們尚且不信，若說天上的事，如何能信呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Noone has ascended into heaven but he who descended out of heaven, the Son of Man, who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除了从天降下、仍旧在天的人子，没有人升过天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除了從天降下、仍舊在天的人子，沒有人升過天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "AsMoses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在旷野怎样举蛇，人子也必照样被举起来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在曠野怎樣舉蛇，人子也必照樣被舉起來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "thatwhoever believes in him should not perish, but have eternal life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫一切信他的都得永生。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或译：叫一切信的人在他里面得永生"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫一切信他的都得永生。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或譯：叫一切信的人在他裏面得永生"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "ForGod so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:16 The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「 神爱世人，甚至将他的独生子赐给，叫一切信他的，不致灭亡，反得永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「上帝愛世人，甚至將他的獨生子賜給，叫一切信他的，不致滅亡，反得永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "ForGod didn’ t send his Son into the world to judge the world, but that the world should be saved through him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神差他的儿子降世，不是要定世人的罪，乃是要叫世人因他得救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:17 或译：审判世人；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝差他的兒子降世，不是要定世人的罪，乃是要叫世人因他得救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:17 或譯：審判世人；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Hewho believes in him is not judged. He who doesn’ t believe has been judged already, because he has not believed in the name of the only born Son of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信他的人，不被定罪；不信的人，罪已经定了，因为他不信 神独生子的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信他的人，不被定罪；不信的人，罪已經定了，因為他不信上帝獨生子的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Thisis the judgment, that the light has come into the world, and men loved the darkness rather than the light, for their works were evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "光来到世间，世人因自己的行为是恶的，不爱光，倒爱黑暗，定他们的罪就是在此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "光來到世間，世人因自己的行為是惡的，不愛光，倒愛黑暗，定他們的罪就是在此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Foreveryone who does evil hates the light and doesn’ t come to the light, lest his works would be exposed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡作恶的便恨光，并不来就光，恐怕他的行为受责备。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡作惡的便恨光，並不來就光，恐怕他的行為受責備。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Buthe who does the truth comes to the light, that his works may be revealed, that they have been done in God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但行真理的必来就光，要显明他所行的是靠 神而行。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但行真理的必來就光，要顯明他所行的是靠上帝而行。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptized.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，耶稣和门徒到了地，在那里居住，施洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，耶穌和門徒到了地，在那裏居住，施洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "John also was baptizing in Enon near Salim, because there was much water there. They came and were baptized;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在靠近的也施洗；因为那里水多，众人都去受洗。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在靠近的也施洗；因為那裏水多，眾人都去受洗。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "for John was not yet thrown into prison.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时还没有下在监里。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時還沒有下在監裏。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Therefore a dispute arose on the part of John’s disciples with some Jews about purification.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "的门徒和一个人辩论洁净的礼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "的門徒和一個人辯論潔淨的禮，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, he baptizes, and everyone is coming to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就来见，说：「拉比，从前同你在外、你所见证的那位，现在施洗，众人都往他那里去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就來見，說：「拉比，從前同你在外、你所見證的那位，現在施洗，眾人都往他那裏去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "John answered, “A man can receive nothing unless it has been given him from heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「若不是从天上赐的，人就不能得什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「若不是從天上賜的，人就不能得甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾说：『我不是基督，是奉差遣在他前面的』，你们自己可以给我作见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾說：『我不是基督，是奉差遣在他前面的』，你們自己可以給我作見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. Therefore my joy is made full.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "娶新妇的就是新郎；新郎的朋友站着，听见新郎的声音就甚喜乐。故此，我这喜乐满足了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "娶新婦的就是新郎；新郎的朋友站着，聽見新郎的聲音就甚喜樂。故此，我這喜樂滿足了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He must increase, but I must decrease.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必兴旺，我必衰微。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必興旺，我必衰微。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「从天上来的是在万有之上；从地上来的是属乎地，他所说的也是属乎地。从天上来的是在万有之上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「從天上來的是在萬有之上；從地上來的是屬乎地，他所說的也是屬乎地。從天上來的是在萬有之上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "What he has seen and heard, of that he testifies; and no one receives his witness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将所见所闻的见证出来，只是没有人领受他的见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將所見所聞的見證出來，只是沒有人領受他的見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He who has received his witness has set his seal to this, that God is true.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领受他见证的，就印上印，证明 神是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領受他見證的，就印上印，證明上帝是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神所差来的就说 神的话，因为 神赐灵是没有限量的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝所差來的就說上帝的話，因為上帝賜靈是沒有限量的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The Father loves the Son, and has given all things into his hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父爱子，已将万有交在他手里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父愛子，已將萬有交在他手裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:36 The same word can be translated “disobeys” or “disbelieves” in this context."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信子的人有永生；不信子的人得不着生， 神的震怒常在他身上。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:36 原文是不得见永生"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信子的人有永生；不信子的人得不着生，上帝的震怒常在他身上。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:36 原文是不得見永生"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "bookId": "NEH",
+  "chapter": 9,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now in the twenty-fourth day of this month the children of Israel were assembled with fasting, with sackcloth, and dirt on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这月二十四日，以色列人聚集禁食，身穿麻衣，头蒙灰尘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這月二十四日，以色列人聚集禁食，身穿麻衣，頭蒙灰塵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The offspring of Israel separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人就与一切外邦人离绝，站着承认自己的罪恶和列祖的罪孽。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:2 人：原文是种类"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人就與一切外邦人離絕，站着承認自己的罪惡和列祖的罪孽。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:2 人：原文是種類"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They stood up in their place, and read in the book of the law of the LORD their God a fourth part of the day; and a fourth part they confessed and worshiped the LORD their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日的四分之一站在自己的地方念耶和华—他们 神的律法书，又四分之一认罪，敬拜耶和华—他们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日的四分之一站在自己的地方念耶和華－他們上帝的律法書，又四分之一認罪，敬拜耶和華－他們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani of the Levites stood up on the stairs, and cried with a loud voice to the LORD their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶书亚、巴尼、甲篾、示巴尼、布尼、示利比、巴尼、基拿尼站在利未人的台上，大声哀求耶和华—他们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶書亞、巴尼、甲篾、示巴尼、布尼、示利比、巴尼、基拿尼站在利未人的臺上，大聲哀求耶和華－他們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting! Blessed be your glorious name, which is exalted above all blessing and praise!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人耶书亚、甲篾、巴尼、哈沙尼、示利比、荷第雅、示巴尼、毗他希雅说：「你们要站起来称颂耶和华—你们的 神，永世无尽。耶和华啊，你荣耀之名是应当称颂的！超乎一切称颂和赞美。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人耶書亞、甲篾、巴尼、哈沙尼、示利比、荷第雅、示巴尼、毗他希雅說：「你們要站起來稱頌耶和華－你們的上帝，永世無盡。耶和華啊，你榮耀之名是應當稱頌的！超乎一切稱頌和讚美。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You are the LORD, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你，惟独你是耶和华！你造了天和天上的天，并天上的万象，地和地上的万物，海和海中所有的；这一切都是你所保存的。天军也都敬拜你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你，惟獨你是耶和華！你造了天和天上的天，並天上的萬象，地和地上的萬物，海和海中所有的；這一切都是你所保存的。天軍也都敬拜你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You are the LORD, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你是耶和华 神，曾拣选亚伯兰，领他出迦勒底的吾珥，给他改名叫亚伯拉罕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你是耶和華上帝，曾揀選亞伯蘭，領他出迦勒底的吾珥，給他改名叫亞伯拉罕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "found his heart faithful before you, and made a covenant with him to give the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite, to give it to his offspring, and have performed your words, for you are righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你见他在你面前心里诚实，就与他立约，应许把迦南人、赫人、亚摩利人、比利洗人、耶布斯人、革迦撒人之地赐给他的后裔，且应验了你的话，因为你是公义的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你見他在你面前心裏誠實，就與他立約，應許把迦南人、赫人、亞摩利人、比利洗人、耶布斯人、革迦撒人之地賜給他的後裔，且應驗了你的話，因為你是公義的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“You saw the affliction of our fathers in Egypt, and heard their cry by the Red Sea,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你曾看见我们列祖在埃及所受的困苦，垂听他们在红海边的哀求，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曾看見我們列祖在埃及所受的困苦，垂聽他們在紅海邊的哀求，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and showed signs and wonders against Pharaoh, against all his servants, and against all the people of his land, for you knew that they dealt proudly against them, and made a name for yourself, as it is today.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就施行神迹奇事在法老和他一切臣仆，并他国中的众民身上。你也得了名声，正如今日一样，因为你知道他们向我们列祖行事狂傲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就施行神蹟奇事在法老和他一切臣僕，並他國中的眾民身上。你也得了名聲，正如今日一樣，因為你知道他們向我們列祖行事狂傲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You divided the sea before them, so that they went through the middle of the sea on the dry land; and you cast their pursuers into the depths, as a stone into the mighty waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你又在我们列祖面前把海分开，使他们在海中行走干地，将追赶他们的人抛在深海，如石头抛在大水中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你又在我們列祖面前把海分開，使他們在海中行走乾地，將追趕他們的人拋在深海，如石頭拋在大水中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Moreover, in a pillar of cloud you led them by day; and in a pillar of fire by night, to give them light in the way in which they should go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且白昼用云柱引导他们，黑夜用火柱照亮他们当行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且白晝用雲柱引導他們，黑夜用火柱照亮他們當行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“You also came down on Mount Sinai, and spoke with them from heaven, and gave them right ordinances and true laws, good statutes and commandments,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也降临在西奈山，从天上与他们说话，赐给他们正直的典章、真实的律法、美好的条例与诫命，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也降臨在西奈山，從天上與他們說話，賜給他們正直的典章、真實的律法、美好的條例與誡命，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and made known to them your holy Sabbath, and commanded them commandments, statutes, and a law, by Moses your servant,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又使他们知道你的安息圣日，并借你仆人摩西传给他们诫命、条例、律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又使他們知道你的安息聖日，並藉你僕人摩西傳給他們誡命、條例、律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and gave them bread from the sky for their hunger, and brought water out of the rock for them for their thirst, and commanded them that they should go in to possess the land which you had sworn to give them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从天上赐下粮食充他们的饥，从磐石使水流出解他们的渴，又吩咐他们进去得你起誓应许赐给他们的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從天上賜下糧食充他們的飢，從磐石使水流出解他們的渴，又吩咐他們進去得你起誓應許賜給他們的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“But they and our fathers behaved proudly, hardened their neck, didn’t listen to your commandments,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「但我们的列祖行事狂傲，硬着颈项不听从你的诫命；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「但我們的列祖行事狂傲，硬着頸項不聽從你的誡命；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "and refused to obey. They weren’t mindful of your wonders that you did among them, but hardened their neck, and in their rebellion appointed a captain to return to their bondage. But you are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness, and didn’t forsake them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不肯顺从，也不记念你在他们中间所行的奇事，竟硬着颈项，居心背逆，自立首领，要回他们为奴之地。但你是乐意饶恕人，有恩典，有怜悯，不轻易发怒，有丰盛慈爱的 神，并不丢弃他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不肯順從，也不記念你在他們中間所行的奇事，竟硬着頸項，居心背逆，自立首領，要回他們為奴之地。但你是樂意饒恕人，有恩典，有憐憫，不輕易發怒，有豐盛慈愛的上帝，並不丟棄他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Yes, when they had made themselves a molded calf, and said, ‘This is your God who brought you up out of Egypt,’ and had committed awful blasphemies,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们虽然铸了一只牛犊，彼此说『这是领你出埃及的神』，因而大大惹动你的怒气；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們雖然鑄了一隻牛犢，彼此說『這是領你出埃及的神』，因而大大惹動你的怒氣；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "yet you in your manifold mercies didn’t forsake them in the wilderness. The pillar of cloud didn’t depart from over them by day, to lead them in the way; neither did the pillar of fire by night, to show them light, and the way in which they should go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你还是大施怜悯，在旷野不丢弃他们。白昼，云柱不离开他们，仍引导他们行路；黑夜，火柱也不离开他们，仍照亮他们当行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你還是大施憐憫，在曠野不丟棄他們。白晝，雲柱不離開他們，仍引導他們行路；黑夜，火柱也不離開他們，仍照亮他們當行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You gave also your good Spirit to instruct them, and didn’t withhold your manna from their mouth, and gave them water for their thirst.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也赐下你良善的灵教训他们；未尝不赐吗哪使他们糊口，并赐水解他们的渴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也賜下你良善的靈教訓他們；未嘗不賜嗎哪使他們糊口，並賜水解他們的渴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Yes, forty years you sustained them in the wilderness. They lacked nothing. Their clothes didn’t grow old, and their feet didn’t swell.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在旷野四十年，你养育他们，他们就一无所缺：衣服没有穿破，脚也没有肿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在曠野四十年，你養育他們，他們就一無所缺：衣服沒有穿破，腳也沒有腫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Moreover you gave them kingdoms and peoples, which you allotted according to their portions. So they possessed the land of Sihon, even the land of the king of Heshbon, and the land of Og king of Bashan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你将列国之地照分赐给他们，他们就得了西宏之地、希实本王之地，和巴珊王噩之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你將列國之地照分賜給他們，他們就得了西宏之地、希實本王之地，和巴珊王噩之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "You also multiplied their children as the stars of the sky, and brought them into the land concerning which you said to their fathers that they should go in to possess it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也使他们的子孙多如天上的星，带他们到你所应许他们列祖进入得为业之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也使他們的子孫多如天上的星，帶他們到你所應許他們列祖進入得為業之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“So the children went in and possessed the land; and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings and the peoples of the land, that they might do with them as they pleased.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，他们进去得了那地，你在他们面前制伏那地的居民，就是迦南人；将迦南人和其君王，并那地的居民，都交在他们手里，让他们任意而待。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，他們進去得了那地，你在他們面前制伏那地的居民，就是迦南人；將迦南人和其君王，並那地的居民，都交在他們手裏，讓他們任意而待。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They took fortified cities and a rich land, and possessed houses full of all good things, cisterns dug out, vineyards, olive groves, and fruit trees in abundance. So they ate, were filled, became fat, and delighted themselves in your great goodness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们得了坚固的城邑、肥美的地土、充满各样美物的房屋、凿成的水井、葡萄园、橄榄园，并许多果木树。他们就吃而得饱，身体肥胖，因你的大恩，心中快乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們得了堅固的城邑、肥美的地土、充滿各樣美物的房屋、鑿成的水井、葡萄園、橄欖園，並許多果木樹。他們就吃而得飽，身體肥胖，因你的大恩，心中快樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Nevertheless they were disobedient and rebelled against you, cast your law behind their back, killed your prophets that testified against them to turn them again to you, and they committed awful blasphemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「然而，他们不顺从，竟背叛你，将你的律法丢在背后，杀害那劝他们归向你的众先知，大大惹动你的怒气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「然而，他們不順從，竟背叛你，將你的律法丟在背後，殺害那勸他們歸向你的眾先知，大大惹動你的怒氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Therefore you delivered them into the hand of their adversaries, who distressed them. In the time of their trouble, when they cried to you, you heard from heaven; and according to your manifold mercies you gave them saviors who saved them out of the hands of their adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你将他们交在敌人的手中，磨难他们。他们遭难的时候哀求你，你就从天上垂听，照你的大怜悯赐给他们拯救者，救他们脱离敌人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你將他們交在敵人的手中，磨難他們。他們遭難的時候哀求你，你就從天上垂聽，照你的大憐憫賜給他們拯救者，救他們脫離敵人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "But after they had rest, they did evil again before you; therefore you left them in the hands of their enemies, so that they had the dominion over them; yet when they returned and cried to you, you heard from heaven; and many times you delivered them according to your mercies,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但他们得平安之后，又在你面前行恶，所以你丢弃他们在仇敌的手中，使仇敌辖制他们。然而他们转回哀求你，你仍从天上垂听，屡次照你的怜悯拯救他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他們得平安之後，又在你面前行惡，所以你丟棄他們在仇敵的手中，使仇敵轄制他們。然而他們轉回哀求你，你仍從天上垂聽，屢次照你的憐憫拯救他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your ordinances (which if a man does, he shall live in them), turned their backs, stiffened their neck, and would not hear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又警戒他们，要使他们归服你的律法。他们却行事狂傲，不听从你的诫命，干犯你的典章（人若遵行就必因此活着），扭转肩头，硬着颈项，不肯听从。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又警戒他們，要使他們歸服你的律法。他們卻行事狂傲，不聽從你的誡命，干犯你的典章（人若遵行就必因此活着），扭轉肩頭，硬着頸項，不肯聽從。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Yet many years you put up with them, and testified against them by your Spirit through your prophets. Yet they would not listen. Therefore you gave them into the hand of the peoples of the lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你多年宽容他们，又用你的灵借众先知劝戒他们，他们仍不听从，所以你将他们交在列国之民的手中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你多年寬容他們，又用你的靈藉眾先知勸戒他們，他們仍不聽從，所以你將他們交在列國之民的手中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Nevertheless in your manifold mercies you didn’t make a full end of them, nor forsake them; for you are a gracious and merciful God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而你大发怜悯，不全然灭绝他们，也不丢弃他们；因为你是有恩典、有怜悯的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而你大發憐憫，不全然滅絕他們，也不丟棄他們；因為你是有恩典、有憐憫的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Now therefore, our God, the great, the mighty, and the awesome God, who keeps covenant and loving kindness, don’t let all the travail seem little before you that has come on us, on our kings, on our princes, on our priests, on our prophets, on our fathers, and on all your people, since the time of the kings of Assyria to this day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我们的 神啊，你是至大、至能、至可畏、守约施慈爱的 神。我们的君王、首领、祭司、先知、列祖，和你的众民，从亚述列王的时候直到今日所遭遇的苦难，现在求你不要以为小。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我們的上帝啊，你是至大、至能、至可畏、守約施慈愛的上帝。我們的君王、首領、祭司、先知、列祖，和你的眾民，從亞述列王的時候直到今日所遭遇的苦難，現在求你不要以為小。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "However you are just in all that has come on us; for you have dealt truly, but we have done wickedly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在一切临到我们的事上，你却是公义的；因你所行的是诚实，我们所做的是邪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在一切臨到我們的事上，你卻是公義的；因你所行的是誠實，我們所做的是邪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Also our kings, our princes, our priests, and our fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的君王、首领、祭司、列祖都不遵守你的律法，不听从你的诫命和你警戒他们的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的君王、首領、祭司、列祖都不遵守你的律法，不聽從你的誡命和你警戒他們的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "For they have not served you in their kingdom, and in your great goodness that you gave them, and in the large and rich land which you gave before them. They didn’t turn from their wicked works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在本国里沾你大恩的时候，在你所赐给他们这广大肥美之地上不事奉你，也不转离他们的恶行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在本國裏沾你大恩的時候，在你所賜給他們這廣大肥美之地上不事奉你，也不轉離他們的惡行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "“Behold, we are servants today, and as for the land that you gave to our fathers to eat its fruit and its good, behold, we are servants in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们现今作了奴仆；至于你所赐给我们列祖享受其上的土产，并美物之地，看哪，我们在这地上作了奴仆！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們現今作了奴僕；至於你所賜給我們列祖享受其上的土產，並美物之地，看哪，我們在這地上作了奴僕！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "It yields much increase to the kings whom you have set over us because of our sins. Also they have power over our bodies and over our livestock, at their pleasure, and we are in great distress.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地许多出产归了列王，就是你因我们的罪所派辖制我们的。他们任意辖制我们的身体和牲畜，我们遭了大难。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地許多出產歸了列王，就是你因我們的罪所派轄制我們的。他們任意轄制我們的身體和牲畜，我們遭了大難。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Yet for all this, we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因这一切的事，我们立确实的约，写在册上。我们的首领、利未人，和祭司都签了名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因這一切的事，我們立確實的約，寫在冊上。我們的首領、利未人，和祭司都簽了名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

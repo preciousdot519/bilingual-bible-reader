@@ -1,0 +1,556 @@
+{
+  "bookId": "MAT",
+  "chapter": 16,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人和撒都该人来试探耶稣，请他从天上显个神迹给他们看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人和撒都該人來試探耶穌，請他從天上顯個神蹟給他們看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But he answered them, “Whenit is evening, you say, ‘It will be fair weather, for the sky is red.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「晚上天发红，你们就说：『天必要晴。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「晚上天發紅，你們就說：『天必要晴。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Inthe morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "早晨天发红，又发黑，你们就说：『今日必有风雨。』你们知道分辨天上的气色，倒不能分辨这时候的神迹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "早晨天發紅，又發黑，你們就說：『今日必有風雨。』你們知道分辨天上的氣色，倒不能分辨這時候的神蹟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Anevil and adulterous generation seeks after a sign, and there will be no sign given to it, except the sign of the prophet Jonah.” He left them and departed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一个邪恶淫乱的世代求神迹，除了约拿的神迹以外，再没有神迹给他看。」耶稣就离开他们去了。 （可8·14—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一個邪惡淫亂的世代求神蹟，除了約拿的神蹟以外，再沒有神蹟給他看。」耶穌就離開他們去了。 （可8‧14－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The disciples came to the other side and had forgotten to take bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒渡到那边去，忘了带饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒渡到那邊去，忘了帶餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Jesus said to them, “Takeheed and beware of the yeast of the Pharisees and Sadducees.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们要谨慎，防备法利赛人和撒都该人的酵。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們要謹慎，防備法利賽人和撒都該人的酵。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They reasoned among themselves, saying, “We brought no bread.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒彼此议论说：「这是因为我们没有带饼吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒彼此議論說：「這是因為我們沒有帶餅吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Jesus, perceiving it, said, “Whydo you reason among yourselves, you of little faith, because you have brought no bread?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看出来，就说：「你们这小信的人，为什么因为没有饼彼此议论呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看出來，就說：「你們這小信的人，為甚麼因為沒有餅彼此議論呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’tyou yet perceive or remember the five loaves for the five thousand, and how many baskets you took up,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们还不明白吗？不记得那五个饼分给五千人、又收拾了多少篮子的零碎吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們還不明白嗎？不記得那五個餅分給五千人、又收拾了多少籃子的零碎嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "orthe seven loaves for the four thousand, and how many baskets you took up?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不记得那七个饼分给四千人、又收拾了多少筐子的零碎吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不記得那七個餅分給四千人、又收拾了多少筐子的零碎嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Howis it that you don’ t perceive that I didn’ t speak to you concerning bread? But beware of the yeast of the Pharisees and Sadducees.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们说：『要防备法利赛人和撒都该人的酵』，这话不是指着饼说的，你们怎么不明白呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們說：『要防備法利賽人和撒都該人的酵』，這話不是指着餅說的，你們怎麼不明白呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒这才晓得他说的不是叫他们防备饼的酵，乃是防备法利赛人和撒都该人的教训。 （可8·27—30；路9·18—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒這才曉得他說的不是叫他們防備餅的酵，乃是防備法利賽人和撒都該人的教訓。 （可8‧27－30；路9‧18－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, “Whodo men say that I, the Son of Man, am?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣到了凯撒利亚·腓立比的境内，就问门徒说：「人说我—人子是谁？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:13 有古卷没有我字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌到了凱撒利亞‧腓立比的境內，就問門徒說：「人說我－－人子是誰？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:13 有古卷沒有我字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They said, “Some say John the Baptizer, some, Elijah, and others, Jeremiah or one of the prophets.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「有人说是施洗的约翰；有人说是以利亚；又有人说是耶利米或是先知里的一位。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「有人說是施洗的約翰；有人說是以利亞；又有人說是耶利米或是先知裏的一位。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He said to them, “Butwho do you say that I am?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们说我是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們說我是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Simon Peter answered, “You are the Christ, the Son of the living God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西门·彼得回答说：「你是基督，是永生 神的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西門‧彼得回答說：「你是基督，是永生上帝的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jesus answered him, “Blessedare you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「西门·巴·约拿，你是有福的！因为这不是属血肉的指示你的，乃是我在天上的父指示的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「西門‧巴‧約拿，你是有福的！因為這不是屬血肉的指示你的，乃是我在天上的父指示的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Ialso tell you that you are Peter, andon this rock Iwill build my assembly, and the gates of Hades willnot prevail against it.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:18 Peter’s name, Petros in Greek, is the word for a specific rock or stone."
+          },
+          {
+            "id": "f2",
+            "text": "16:18 Greek, petra, a rock mass or bedrock."
+          },
+          {
+            "id": "f3",
+            "text": "16:18 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我还告诉你，你是彼得，我要把我的教会建造在这磐石上；阴间的权柄不能胜过他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:18 权柄：原文是门"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我還告訴你，你是彼得，我要把我的教會建造在這磐石上；陰間的權柄不能勝過他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:18 權柄：原文是門"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Iwill give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要把天国的钥匙给你，凡你在地上所捆绑的，在天上也要捆绑；凡你在地上所释放的，在天上也要释放。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要把天國的鑰匙給你，凡你在地上所捆綁的，在天上也要捆綁；凡你在地上所釋放的，在天上也要釋放。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then he commanded the disciples that they should tell no one that he was Jesus the Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，耶稣嘱咐门徒，不可对人说他是基督。 （可8·31—9·1；路9·22—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，耶穌囑咐門徒，不可對人說他是基督。 （可8‧31－9‧1；路9‧22－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从此，耶稣才指示门徒，他必须上耶路撒冷去，受长老、祭司长、文士许多的苦，并且被杀，第三日复活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從此，耶穌才指示門徒，他必須上耶路撒冷去，受長老、祭司長、文士許多的苦，並且被殺，第三日復活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得就拉着他，劝他说：「主啊，万不可如此！这事必不临到你身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得就拉着他，勸他說：「主啊，萬不可如此！這事必不臨到你身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But he turned and said to Peter, “Getbehind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣转过来，对彼得说：「撒但，退我后边去吧！你是绊我脚的；因为你不体贴 神的意思，只体贴人的意思。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌轉過來，對彼得說：「撒但，退我後邊去吧！你是絆我腳的；因為你不體貼上帝的意思，只體貼人的意思。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then Jesus said to his disciples, “Ifanyone desires to come after me, let him deny himself, take up his cross, and follow me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶稣对门徒说：「若有人要跟从我，就当舍己，背起他的十字架来跟从我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶穌對門徒說：「若有人要跟從我，就當捨己，背起他的十字架來跟從我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Forwhoever desires to save his life will lose it, and whoever will lose his life for my sake will find it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，凡要救自己生命的，必丧掉生命；凡为我丧掉生命的，必得着生命。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:25 生命：或译灵魂；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，凡要救自己生命的，必喪掉生命；凡為我喪掉生命的，必得着生命。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:25 生命：或譯靈魂；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Forwhat will it profit a man if he gains the whole world and forfeits his life? Or what will a man give in exchange for his life?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若赚得全世界，赔上自己的生命，有什么益处呢？人还能拿什么换生命呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若賺得全世界，賠上自己的生命，有甚麼益處呢？人還能拿甚麼換生命呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Forthe Son of Man will come in the glory of his Father with his angels, and then he will give to everyone according to his deeds.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人子要在他父的荣耀里，同着众使者降临；那时候，他要照各人的行为报应各人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人子要在他父的榮耀裏，同着眾使者降臨；那時候，他要照各人的行為報應各人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Most certainlyI tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，站在这里的，有人在没尝死味以前必看见人子降临在他的国里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，站在這裏的，有人在沒嘗死味以前必看見人子降臨在他的國裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

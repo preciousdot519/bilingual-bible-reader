@@ -1,0 +1,636 @@
+{
+  "bookId": "1KI",
+  "chapter": 4,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "King Solomon was king over all Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门作以色列众人的王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門作以色列眾人的王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "These were the princes whom he had: Azariah the son of Zadok, the priest;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的臣子记在下面：撒督的儿子亚撒利雅作祭司，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的臣子記在下面：撒督的兒子亞撒利雅作祭司，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示沙的两个儿子以利何烈、亚希亚作书记，亚希律的儿子约沙法作史官，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示沙的兩個兒子以利何烈、亞希亞作書記，亞希律的兒子約沙法作史官，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶何耶大的儿子比拿雅作元帅，撒督和亚比亚他作祭司长，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶何耶大的兒子比拿雅作元帥，撒督和亞比亞他作祭司長，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿单的儿子亚撒利雅作众吏长，王的朋友拿单的儿子撒布得作领袖，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿單的兒子亞撒利雅作眾吏長，王的朋友拿單的兒子撒布得作領袖，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Ahishar was over the household; and Adoniram the son of Abda was over the men subject to forced labor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希煞作家宰，亚比大的儿子亚多尼兰掌管服苦的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希煞作家宰，亞比大的兒子亞多尼蘭掌管服苦的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for a month in the year.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门在以色列全地立了十二个官吏，使他们供给王和王家的食物，每年各人供给一月。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門在以色列全地立了十二個官吏，使他們供給王和王家的食物，每年各人供給一月。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "These are their names: Ben Hur, in the hill country of Ephraim;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的名字记在下面：在以法莲山地有便·户珥；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的名字記在下面：在以法蓮山地有便‧戶珥；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在玛迦斯、沙宾、伯·示麦、以伦·伯·哈南有便·底甲；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在瑪迦斯、沙賓、伯‧示麥、以倫‧伯‧哈南有便‧底甲；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在亚鲁泊有便·希悉，他管理梭哥和希弗全地；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在亞魯泊有便‧希悉，他管理梭哥和希弗全地；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在多珥山冈有便·亚比拿达，他娶了所罗门的女儿她法为妻；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:11 或译：全境"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在多珥山岡有便‧亞比拿達，他娶了所羅門的女兒她法為妻；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:11 或譯：全境"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他纳和米吉多，并靠近撒拉他拿、耶斯列下边的伯·善全地，从伯·善到亚伯·米何拉直到约念之外，有亚希律的儿子巴拿；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他納和米吉多，並靠近撒拉他拿、耶斯列下邊的伯‧善全地，從伯‧善到亞伯‧米何拉直到約念之外，有亞希律的兒子巴拿；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在基列的拉末有便·基别，他管理在基列的玛拿西子孙睚珥的城邑，巴珊的亚珥歌伯地的大城六十座，都有城墙和铜闩；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在基列的拉末有便‧基別，他管理在基列的瑪拿西子孫睚珥的城邑，巴珊的亞珥歌伯地的大城六十座，都有城牆和銅閂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Ahinadab the son of Iddo, in Mahanaim;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在玛哈念有易多的儿子亚希拿达；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在瑪哈念有易多的兒子亞希拿達；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在拿弗他利有亚希玛斯，他也娶了所罗门的一个女儿巴实抹为妻；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在拿弗他利有亞希瑪斯，他也娶了所羅門的一個女兒巴實抹為妻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Baana the son of Hushai, in Asher and Bealoth;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在亚设和亚禄有户筛的儿子巴拿；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在亞設和亞祿有戶篩的兒子巴拿；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jehoshaphat the son of Paruah, in Issachar;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在以萨迦有帕路亚的儿子约沙法；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在以薩迦有帕路亞的兒子約沙法；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Shimei the son of Ela, in Benjamin;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在便雅悯有以拉的儿子示每；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在便雅憫有以拉的兒子示每；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在基列地，就是从前属亚摩利王西宏和巴珊王噩之地，有乌利的儿子基别一人管理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在基列地，就是從前屬亞摩利王西宏和巴珊王噩之地，有烏利的兒子基別一人管理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Judah and Israel were numerous as the sand which is by the sea in multitude, eating and drinking and making merry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大人和以色列人如同海边的沙那样多，都吃喝快乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大人和以色列人如同海邊的沙那樣多，都吃喝快樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Solomon ruled over all the kingdoms from the River to the land of the Philistines, and to the border of Egypt. They brought tribute and served Solomon all the days of his life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门统管诸国，从大河到非利士地，直到埃及的边界。所罗门在世的日子，这些国都进贡服事他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門統管諸國，從大河到非利士地，直到埃及的邊界。所羅門在世的日子，這些國都進貢服事他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Solomon’s provision for one day was thirty corsof fine flour, sixty measures of meal,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:22 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门每日所用的食物：细面三十歌珥，粗面六十歌珥，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門每日所用的食物：細麵三十歌珥，粗麵六十歌珥，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, in addition to deer, gazelles, roebucks, and fattened fowl.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "肥牛十只，草场的牛二十只，羊一百只，还有鹿、羚羊、狍子，并肥禽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "肥牛十隻，草場的牛二十隻，羊一百隻，還有鹿、羚羊、誁子，並肥禽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For he had dominion over all on this side of the River, from Tiphsah even to Gaza, over all the kings on this side of the River; and he had peace on all sides around him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门管理大河西边的诸王，以及从提弗萨直到迦萨的全地，四境尽都平安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門管理大河西邊的諸王，以及從提弗薩直到迦薩的全地，四境盡都平安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Judah and Israel lived safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门在世的日子，从但到别是巴的犹大人和以色列人都在自己的葡萄树下和无花果树下安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門在世的日子，從但到別是巴的猶大人和以色列人都在自己的葡萄樹下和無花果樹下安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门有套车的马四万，还有马兵一万二千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門有套車的馬四萬，還有馬兵一萬二千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Those officers provided food for King Solomon, and for all who came to King Solomon’s table, every man in his month. They let nothing be lacking.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那十二个官吏各按各月供给所罗门王，并一切与他同席之人的食物，一无所缺。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那十二個官吏各按各月供給所羅門王，並一切與他同席之人的食物，一無所缺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They also brought barley and straw for the horses and swift steeds to the place where the officers were, each man according to his duty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人各按各分，将养马与快马的大麦和干草送到官吏那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人各按各分，將養馬與快馬的大麥和乾草送到官吏那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "God gave Solomon abundant wisdom, understanding, and breadth of mind like the sand that is on the seashore.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神赐给所罗门极大的智慧聪明和广大的心，如同海沙不可测量。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝賜給所羅門極大的智慧聰明和廣大的心，如同海沙不可測量。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Solomon’s wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门的智慧超过东方人和埃及人的一切智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門的智慧超過東方人和埃及人的一切智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For he was wiser than all men—wiser than Ethan the Ezrahite, Heman, Calcol, and Darda, the sons of Mahol; and his fame was in all the nations all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的智慧胜过万人，胜过以斯拉人以探，并玛曷的儿子希幔、甲各、达大的智慧。他的名声传扬在四围的列国。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的智慧勝過萬人，勝過以斯拉人以探，並瑪曷的兒子希幔、甲各、達大的智慧。他的名聲傳揚在四圍的列國。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He spoke three thousand proverbs, and his songs numbered one thousand five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他作箴言三千句，诗歌一千零五首。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他作箴言三千句，詩歌一千零五首。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他讲论草木，自黎巴嫩的香柏树直到墙上长的牛膝草，又讲论飞禽走兽、昆虫水族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他講論草木，自黎巴嫩的香柏樹直到牆上長的牛膝草，又講論飛禽走獸、昆蟲水族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天下列王听见所罗门的智慧，就都差人来听他的智慧话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天下列王聽見所羅門的智慧，就都差人來聽他的智慧話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

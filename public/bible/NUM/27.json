@@ -1,0 +1,433 @@
+{
+  "bookId": "NUM",
+  "chapter": 27,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph came near. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属约瑟的儿子玛拿西的各族，有玛拿西的玄孙，玛吉的曾孙，基列的孙子，希弗的儿子西罗非哈的女儿，名叫玛拉、挪阿、曷拉、密迦、得撒。她们前来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬約瑟的兒子瑪拿西的各族，有瑪拿西的玄孫，瑪吉的曾孫，基列的孫子，希弗的兒子西羅非哈的女兒，名叫瑪拉、挪阿、曷拉、密迦、得撒。她們前來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They stood before Moses, before Eleazar the priest, and before the princes and all the congregation, at the door of the Tent of Meeting, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "站在会幕门口，在摩西和祭司以利亚撒，并众首领与全会众面前，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "站在會幕門口，在摩西和祭司以利亞撒，並眾首領與全會眾面前，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Our father died in the wilderness. He was not among the company of those who gathered themselves together against the LORD in the company of Korah, but he died in his own sin. He had no sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我们的父亲死在旷野。他不与可拉同党聚集攻击耶和华，是在自己罪中死的；他也没有儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我們的父親死在曠野。他不與可拉同黨聚集攻擊耶和華，是在自己罪中死的；他也沒有兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Why should the name of our father be taken away from among his family, because he had no son? Give to us a possession among the brothers of our father.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为什么因我们的父亲没有儿子就把他的名从他族中除掉呢？求你们在我们父亲的弟兄中分给我们产业。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為甚麼因我們的父親沒有兒子就把他的名從他族中除掉呢？求你們在我們父親的弟兄中分給我們產業。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Moses brought their cause before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，摩西将她们的案件呈到耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，摩西將她們的案件呈到耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“The daughters of Zelophehad speak right. You shall surely give them a possession of an inheritance among their father’s brothers. You shall cause the inheritance of their father to pass to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「西罗非哈的女儿说得有理。你定要在她们父亲的弟兄中，把地分给她们为业；要将她们父亲的产业归给她们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「西羅非哈的女兒說得有理。你定要在她們父親的弟兄中，把地分給她們為業；要將她們父親的產業歸給她們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall speak to the children of Israel, saying, ‘If a man dies, and has no son, then you shall cause his inheritance to pass to his daughter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也要晓谕以色列人说：『人若死了没有儿子，就要把他的产业归给他的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也要曉諭以色列人說：『人若死了沒有兒子，就要把他的產業歸給他的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "If he has no daughter, then you shall give his inheritance to his brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若没有女儿，就要把他的产业给他的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若沒有女兒，就要把他的產業給他的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "If he has no brothers, then you shall give his inheritance to his father’s brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若没有弟兄，就要把他的产业给他父亲的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若沒有弟兄，就要把他的產業給他父親的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "If his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall possess it. This shall be a statute and ordinance for the children of Israel, as the LORD commanded Moses.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲若没有弟兄，就要把他的产业给他族中最近的亲属，他便要得为业。』这要作以色列人的律例典章，是照耶和华吩咐摩西的。」 （申31·1—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親若沒有弟兄，就要把他的產業給他族中最近的親屬，他便要得為業。』這要作以色列人的律例典章，是照耶和華吩咐摩西的。」 （申31‧1－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD said to Moses, “Go up into this mountain of Abarim, and see the land which I have given to the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「你上这亚巴琳山，观看我所赐给以色列人的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「你上這亞巴琳山，觀看我所賜給以色列人的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When you have seen it, you also shall be gathered to your people, as Aaron your brother was gathered;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看了以后，你也必归到你列祖那里，像你哥哥亚伦一样。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:13 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看了以後，你也必歸到你列祖那裏，像你哥哥亞倫一樣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:13 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "because in the strife of the congregation, you rebelled against my word in the wilderness of Zin, to honor me as holy at the waters before their eyes.” (These are the waters of Meribah of Kadesh in the wilderness of Zin.)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们在寻的旷野，当会众争闹的时候，违背了我的命，没有在涌水之地、会众眼前尊我为圣。」（这水就是寻的旷野加低斯米利巴水。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們在尋的曠野，當會眾爭鬧的時候，違背了我的命，沒有在湧水之地、會眾眼前尊我為聖。」（這水就是尋的曠野加低斯米利巴水。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moses spoke to the LORD, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对耶和华说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對耶和華說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Let the LORD, the God of the spirits of all flesh, appoint a man over the congregation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「愿耶和华万人之灵的 神，立一个人治理会众，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「願耶和華萬人之靈的上帝，立一個人治理會眾，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in, that the congregation of the LORD may not be as sheep which have no shepherd.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可以在他们面前出入，也可以引导他们，免得耶和华的会众如同没有牧人的羊群一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可以在他們面前出入，也可以引導他們，免得耶和華的會眾如同沒有牧人的羊群一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The LORD said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「嫩的儿子约书亚是心中有圣灵的；你将他领来，按手在他头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「嫩的兒子約書亞是心中有聖靈的；你將他領來，按手在他頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Set him before Eleazar the priest, and before all the congregation; and commission him in their sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使他站在祭司以利亚撒和全会众面前，嘱咐他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使他站在祭司以利亞撒和全會眾面前，囑咐他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You shall give authority to him, that all the congregation of the children of Israel may obey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将你的尊荣给他几分，使以色列全会众都听从他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將你的尊榮給他幾分，使以色列全會眾都聽從他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before the LORD. At his word they shall go out, and at his word they shall come in, both he and all the children of Israel with him, even all the congregation.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要站在祭司以利亚撒面前；以利亚撒要凭乌陵的判断，在耶和华面前为他求问。他和以色列全会众都要遵以利亚撒的命出入。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要站在祭司以利亞撒面前；以利亞撒要憑烏陵的判斷，在耶和華面前為他求問。他和以色列全會眾都要遵以利亞撒的命出入。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Moses did as the LORD commanded him. He took Joshua, and set him before Eleazar the priest and before all the congregation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是摩西照耶和华所吩咐的将约书亚领来，使他站在祭司以利亚撒和全会众面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是摩西照耶和華所吩咐的將約書亞領來，使他站在祭司以利亞撒和全會眾面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He laid his hands on him and commissioned him, as the LORD spoke by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按手在他头上，嘱咐他，是照耶和华借摩西所说的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按手在他頭上，囑咐他，是照耶和華藉摩西所說的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

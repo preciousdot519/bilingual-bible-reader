@@ -1,0 +1,646 @@
+{
+  "bookId": "ACT",
+  "chapter": 17,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗和西拉经过暗妃坡里、亚波罗尼亚，来到帖撒罗尼迦，在那里有犹太人的会堂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅和西拉經過暗妃坡里、亞波羅尼亞，來到帖撒羅尼迦，在那裏有猶太人的會堂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Paul, as was his custom, went in to them; and for three Sabbath days reasoned with them from the Scriptures,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗照他素常的规矩进去，一连三个安息日，本着圣经与他们辩论，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅照他素常的規矩進去，一連三個安息日，本着聖經與他們辯論，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, “This Jesus, whom I proclaim to you, is the Christ.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "讲解陈明基督必须受害，从死里复活；又说：「我所传与你们的这位耶稣就是基督。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "講解陳明基督必須受害，從死裏復活；又說：「我所傳與你們的這位耶穌就是基督。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Some of them were persuaded and joined Paul and Silas: of the devout Greeks a great multitude, and not a few of the chief women.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们中间有些人听了劝，就附从保罗和西拉，并有许多虔敬的希腊人，尊贵的妇女也不少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們中間有些人聽了勸，就附從保羅和西拉，並有許多虔敬的希臘人，尊貴的婦女也不少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But the unpersuaded Jews took along some wicked men from the marketplace and gathering a crowd, set the city in an uproar. Assaulting the house of Jason, they sought to bring them out to the people.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "17:5 TR reads “And the Jews who were unpersuaded, becoming envious and taking along” instead of “But the unpersuaded Jews took along”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那不信的犹太人心里嫉妒，招聚了些市井匪类，搭伙成群，耸动合城的人闯进耶孙的家，要将保罗、西拉带到百姓那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那不信的猶太人心裏嫉妒，招聚了些市井匪類，搭夥成群，聳動合城的人闖進耶孫 的家，要將保羅、西拉帶到百姓那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When they didn’t find them, they dragged Jason and certain brothers before the rulers of the city, crying, “These who have turned the world upside down have come here also,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "17:6 The word for “brothers” here and where the context allows may be also correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "找不着他们，就把耶孙和几个弟兄拉到地方官那里，喊叫说：「那搅乱天下的也到这里来了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "找不着他們，就把耶孫和幾個弟兄拉到地方官那裏，喊叫說：「那攪亂天下的也到這裏來了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "whom Jason has received. These all act contrary to the decrees of Caesar, saying that there is another king, Jesus!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶孙收留他们。这些人都违背凯撒的命令，说另有一个王耶稣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶孫收留他們。這些人都違背凱撒的命令，說另有一個王耶穌。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The multitude and the rulers of the city were troubled when they heard these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人和地方官听见这话，就惊慌了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人和地方官聽見這話，就驚慌了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When they had taken security from Jason and the rest, they let them go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是取了耶孙和其余之人的保状，就释放了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是取了耶孫和其餘之人的保狀，就釋放了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The brothers immediately sent Paul and Silas away by night to Beroea. When they arrived, they went into the Jewish synagogue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们随即在夜间打发保罗和西拉往庇哩亚去。二人到了，就进入犹太人的会堂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們隨即在夜間打發保羅和西拉往庇哩亞去。二人到了，就進入猶太人的會堂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now these were more noble than those in Thessalonica, in that they received the word with all readiness of mind, examining the Scriptures daily to see whether these things were so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地方的人贤于帖撒罗尼迦的人，甘心领受这道，天天考查圣经，要晓得这道是与不是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地方的人賢於帖撒羅尼迦的人，甘心領受這道，天天考查聖經，要曉得這道是與不是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Many of them therefore believed; also of the prominent Greek women, and not a few men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以他们中间多有相信的，又有希腊尊贵的妇女，男子也不少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以他們中間多有相信的，又有希臘尊貴的婦女，男子也不少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But when the Jews of Thessalonica had knowledge that the word of God was proclaimed by Paul at Beroea also, they came there likewise, agitating the multitudes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但帖撒罗尼迦的犹太人知道保罗又在庇哩亚传 神的道，也就往那里去，耸动搅扰众人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但帖撒羅尼迦的猶太人知道保羅又在庇哩亞傳上帝的道，也就往那裏去，聳動攪擾眾人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Then the brothers immediately sent out Paul to go as far as to the sea, and Silas and Timothy still stayed there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时弟兄们便打发保罗往海边去，西拉和提摩太仍住在庇哩亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時弟兄們便打發保羅往海邊去，西拉和提摩太仍住在庇哩亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But those who escorted Paul brought him as far as Athens. Receiving a commandment to Silas and Timothy that they should come to him very quickly, they departed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "送保罗的人带他到了雅典，既领了保罗的命，叫西拉和提摩太速速到他这里来，就回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "送保羅的人帶他到了雅典，既領了保羅的命，叫西拉和提摩太速速到他這裏來，就回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now while Paul waited for them at Athens, his spirit was provoked within him as he saw the city full of idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗在雅典等候他们的时候，看见满城都是偶像，就心里着急；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅在雅典等候他們的時候，看見滿城都是偶像，就心裏着急；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who met him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是在会堂里与犹太人和虔敬的人，并每日在市上所遇见的人，辩论。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是在會堂裏與猶太人和虔敬的人，並每日在市上所遇見的人，辯論。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Some of the Epicurean and Stoic philosophers also were conversing with him. Some said, “What does this babbler want to say?” Others said, “He seems to be advocating foreign deities,” because he preached Jesus and the resurrection.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "17:18 TR omits “also”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有伊壁鸠鲁和斯多亚两门的学士，与他争论。有的说：「这胡言乱语的要说什么？」有的说：「他似乎是传说外邦鬼神的。」这话是因保罗传讲耶稣与复活的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有伊壁鳩魯和斯多亞兩門的學士，與他爭論。有的說：「這胡言亂語的要說甚麼？」有的說：「他似乎是傳說外邦鬼神的。」這話是因保羅傳講耶穌與復活的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They took hold of him and brought him to the Areopagus, saying, “May we know what this new teaching is, which you are speaking about?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就把他带到亚略·巴古，说：「你所讲的这新道，我们也可以知道吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就把他帶到亞略‧巴古，說：「你所講的這新道，我們也可以知道嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For you bring certain strange things to our ears. We want to know therefore what these things mean.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你有些奇怪的事传到我们耳中，我们愿意知道这些事是什么意思。」（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你有些奇怪的事傳到我們耳中，我們願意知道這些事是甚麼意思。」（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Now all the Athenians and the strangers living there spent their time in nothing else, but either to tell or to hear some new thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅典人和住在那里的客人都不顾别的事，只将新闻说说听听。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅典人和住在那裏的客人都不顧別的事，只將新聞說說聽聽。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Paul stood in the middle of the Areopagus and said, “You men of Athens, I perceive that you are very religious in all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗站在亚略·巴古当中，说：「众位雅典人哪，我看你们凡事很敬畏鬼神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅站在亞略‧巴古當中，說：「眾位雅典人哪，我看你們凡事很敬畏鬼神。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For as I passed along and observed the objects of your worship, I also found an altar with this inscription: ‘TO AN UNKNOWN GOD.’ What therefore you worship in ignorance, I announce to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我游行的时候，观看你们所敬拜的，遇见一座坛，上面写着『未识之神』。你们所不认识而敬拜的，我现在告诉你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫着『未識之神』。你們所不認識而敬拜的，我現在告訴你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The God who made the world and all things in it, he, being Lord of heaven and earth, doesn’t dwell in temples made with hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "创造宇宙和其中万物的 神，既是天地的主，就不住人手所造的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "創造宇宙和其中萬物的上帝，既是天地的主，就不住人手所造的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He isn’t served by men’s hands, as though he needed anything, seeing he himself gives to all life and breath and all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不用人手服事，好像缺少什么；自己倒将生命、气息、万物，赐给万人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不用人手服事，好像缺少甚麼；自己倒將生命、氣息、萬物，賜給萬人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He made from one blood every nation of men to dwell on all the surface of the earth, having determined appointed seasons and the boundaries of their dwellings,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从一本造出万族的人，住在全地上，并且预先定准他们的年限和所住的疆界，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:26 本：有古卷是血脉"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從一本造出萬族的人，住在全地上，並且預先定準他們的年限和所住的疆界，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:26 本：有古卷是血脈"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "that they should seek the Lord, if perhaps they might reach out for him and find him, though he is not far from each one of us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要叫他们寻求 神，或者可以揣摩而得，其实他离我们各人不远；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要叫他們尋求上帝，或者可以揣摩而得，其實他離我們各人不遠；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "‘For in him we live, move, and have our being.’ As some of your own poets have said, ‘For we are also his offspring.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们生活、动作、存留，都在乎他。就如你们作诗的，有人说：『我们也是他所生的。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們生活、動作、存留，都在乎他。就如你們作詩的，有人說：『我們也是他所生的。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Being then the offspring of God, we ought not to think that the Divine Nature is like gold, or silver, or stone, engraved by art and design of man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们既是 神所生的，就不当以为 神的神性像人用手艺、心思所雕刻的金、银、石。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們既是上帝所生的，就不當以為上帝的神性像人用手藝、心思所雕刻的金、銀、石。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The times of ignorance therefore God overlooked. But now he commands that all people everywhere should repent,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "世人蒙昧无知的时候， 神并不监察，如今却吩咐各处的人都要悔改。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "世人蒙昧無知的時候，上帝並不監察，如今卻吩咐各處的人都要悔改。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "because he has appointed a day in which he will judge the world in righteousness by the man whom he has ordained; of which he has given assurance to all men, in that he has raised him from the dead.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他已经定了日子，要借着他所设立的人按公义审判天下，并且叫他从死里复活，给万人作可信的凭据。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他已經定了日子，要藉着他所設立的人按公義審判天下，並且叫他從死裏復活，給萬人作可信的憑據。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Now when they heard of the resurrection of the dead, some mocked; but others said, “We want to hear you again concerning this.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人听见从死里复活的话，就有讥诮他的；又有人说：「我们再听你讲这个吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人聽見從死裏復活的話，就有譏誚他的；又有人說：「我們再聽你講這個吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Thus Paul went out from among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是保罗从他们当中出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是保羅從他們當中出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "But certain men joined with him and believed, including Dionysius the Areopagite, and a woman named Damaris, and others with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但有几个人贴近他，信了主，其中有亚略·巴古的官丢尼修，并一个妇人，名叫大马哩，还有别人一同信从。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但有幾個人貼近他，信了主，其中有亞略‧巴古的官丟尼修，並一個婦人，名叫大馬哩，還有別人一同信從。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

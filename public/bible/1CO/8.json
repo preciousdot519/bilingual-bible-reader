@@ -1,0 +1,243 @@
+{
+  "bookId": "1CO",
+  "chapter": 8,
+  "bookEnglish": "1 Corinthians",
+  "bookChineseSimplified": "哥林多前书",
+  "bookChineseTraditional": "哥林多前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到祭偶像之物，我们晓得我们都有知识。但知识是叫人自高自大，惟有爱心能造就人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到祭偶像之物，我們曉得我們都有知識。但知識是叫人自高自大，惟有愛心能造就人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人以为自己知道什么，按他所当知道的，他仍是不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人以為自己知道甚麼，按他所當知道的，他仍是不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But anyone who loves God is known by him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人爱 神，这人乃是 神所知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人愛上帝，這人乃是上帝所知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Therefore concerning the eating of things sacrificed to idols, we know that no idol is anything in the world, and that there is no other God but one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到吃祭偶像之物，我们知道偶像在世上算不得什么，也知道 神只有一位，再没有别的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到吃祭偶像之物，我們知道偶像在世上算不得甚麼，也知道上帝只有一位，再沒有別的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For though there are things that are called “gods”, whether in the heavens or on earth—as there are many “gods” and many “lords”—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽有称为神的，或在天，或在地，就如那许多的神，许多的主；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖有稱為神的，或在天，或在地，就如那許多的神，許多的主；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "yet to us there is one God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而我们只有一位 神，就是父—万物都本于他；我们也归于他—并有一位主，就是耶稣基督—万物都是借着他有的；我们也是借着他有的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而我們只有一位上帝，就是父－萬物都本於他；我們也歸於他－並有一位主，就是耶穌基督－萬物都是藉着他有的；我們也是藉着他有的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "However, that knowledge isn’t in all men. But some, with consciousness of an idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但人不都有这等知识。有人到如今因拜惯了偶像，就以为所吃的是祭偶像之物。他们的良心既然软弱，也就污秽了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但人不都有這等知識。有人到如今因拜慣了偶像，就以為所吃的是祭偶像之物。他們的良心既然軟弱，也就污穢了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But food will not commend us to God. For neither, if we don’t eat are we the worse, nor if we eat are we the better.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其实食物不能叫 神看中我们，因为我们不吃也无损，吃也无益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其實食物不能叫上帝看中我們，因為我們不吃也無損，吃也無益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But be careful that by no means does this liberty of yours become a stumbling block to the weak.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是你们要谨慎，恐怕你们这自由竟成了那软弱人的绊脚石。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是你們要謹慎，恐怕你們這自由竟成了那軟弱人的絆腳石。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For if a man sees you who have knowledge sitting in an idol’s temple, won’t his conscience, if he is weak, be emboldened to eat things sacrificed to idols?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人见你这有知识的，在偶像的庙里坐席，这人的良心若是软弱，岂不放胆去吃那祭偶像之物吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人見你這有知識的，在偶像的廟裏坐席，這人的良心若是軟弱，豈不放膽去吃那祭偶像之物嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "And through your knowledge, he who is weak perishes, the brother for whose sake Christ died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，基督为他死的那软弱弟兄，也就因你的知识沉沦了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，基督為他死的那軟弱弟兄，也就因你的知識沉淪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这样得罪弟兄们，伤了他们软弱的良心，就是得罪基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這樣得罪弟兄們，傷了他們軟弱的良心，就是得罪基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Therefore, if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，食物若叫我弟兄跌倒，我就永远不吃肉，免得叫我弟兄跌倒了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，食物若叫我弟兄跌倒，我就永遠不吃肉，免得叫我弟兄跌倒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

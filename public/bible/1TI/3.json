@@ -1,0 +1,357 @@
+{
+  "bookId": "1TI",
+  "chapter": 3,
+  "bookEnglish": "1 Timothy",
+  "bookChineseSimplified": "提摩太前书",
+  "bookChineseTraditional": "提摩太前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "This is a faithful saying: someone who seeks to be an overseer desires a good work.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:1 or, superintendent, or bishop"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若想要得监督的职分，就是羡慕善工。」这话是可信的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若想要得監督的職分，就是羨慕善工。」這話是可信的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作监督的，必须无可指责，只作一个妇人的丈夫，有节制，自守，端正，乐意接待远人，善于教导；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作監督的，必須無可指責，只作一個婦人的丈夫，有節制，自守，端正，樂意接待遠人，善於教導；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不因酒滋事，不打人，只要温和，不争竞，不贪财；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不因酒滋事，不打人，只要溫和，不爭競，不貪財；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "one who rules his own house well, having children in subjection with all reverence;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好好管理自己的家，使儿女凡事端庄顺服。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:4 或译：端端庄庄地使儿女顺服"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好好管理自己的家，使兒女凡事端莊順服。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:4 或譯：端端莊莊地使兒女順服"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "(for how could someone who doesn’t know how to rule his own house take care of God’s assembly?)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若不知道管理自己的家，焉能照管 神的教会呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若不知道管理自己的家，焉能照管上帝的教會呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "not a new convert, lest being puffed up he fall into the same condemnation as the devil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "初入教的不可作监督，恐怕他自高自大，就落在魔鬼所受的刑罚里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "初入教的不可作監督，恐怕他自高自大，就落在魔鬼所受的刑罰裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "监督也必须在教外有好名声，恐怕被人毁谤，落在魔鬼的网罗里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "監督也必須在教外有好名聲，恐怕被人毀謗，落在魔鬼的網羅裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:8 or, Deacons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作执事的，也是如此：必须端庄，不一口两舌，不好喝酒，不贪不义之财；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作執事的，也是如此：必須端莊，不一口兩舌，不好喝酒，不貪不義之財；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "holding the mystery of the faith in a pure conscience.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要存清洁的良心，固守真道的奥秘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要存清潔的良心，固守真道的奧祕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Let them also first be tested; then let them serve if they are blameless.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:10 or, serve as deacons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这等人也要先受试验，若没有可责之处，然后叫他们作执事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這等人也要先受試驗，若沒有可責之處，然後叫他們作執事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Their wives in the same way must be reverent, not slanderers, temperate, and faithful in all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "女执事也是如此：必须端庄，不说谗言，有节制，凡事忠心。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 原文是女人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "女執事也是如此：必須端莊，不說讒言，有節制，凡事忠心。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 原文是女人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Let servants be husbands of one wife, ruling their children and their own houses well.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:12 or, deacons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "执事只要作一个妇人的丈夫，好好管理儿女和自己的家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "執事只要作一個婦人的丈夫，好好管理兒女和自己的家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For those who have served well gain for themselves a good standing and great boldness in the faith which is in Christ Jesus.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:13 or, served well as deacons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为善作执事的，自己就得到美好的地步，并且在基督耶稣里的真道上大有胆量。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為善作執事的，自己就得到美好的地步，並且在基督耶穌裏的真道上大有膽量。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "These things I write to you, hoping to come to you shortly,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我指望快到你那里去，所以先将这些事写给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我指望快到你那裏去，所以先將這些事寫給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若我耽延日久，你也可以知道在 神的家中当怎样行。这家就是永生 神的教会，真理的柱石和根基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若我耽延日久，你也可以知道在上帝的家中當怎樣行。這家就是永生上帝的教會，真理的柱石和根基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:16 NU replaces “God” with “who”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大哉，敬虔的奥秘，无人不以为然！ 就是 神在肉身显现， 被圣灵称义， 被天使看见， 被传于外邦， 被世人信服， 被接在荣耀里。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:16 或译：在灵性称义"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大哉，敬虔的奧祕，無人不以為然！ 就是上帝在肉身顯現， 被聖靈稱義， 被天使看見， 被傳於外邦， 被世人信服， 被接在榮耀裏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:16 或譯：在靈性稱義"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

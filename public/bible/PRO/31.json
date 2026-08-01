@@ -1,0 +1,582 @@
+{
+  "bookId": "PRO",
+  "chapter": 31,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The words of King Lemuel—the revelation which his mother taught him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利慕伊勒王的言语，是他母亲教训他的真言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利慕伊勒王的言語，是他母親教訓他的真言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Oh, my son! Oh, son of my womb! Oh, son of my vows!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的儿啊，我腹中生的儿啊， 我许愿得的儿啊！我当怎样教训你呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的兒啊，我腹中生的兒啊， 我許願得的兒啊！我當怎樣教訓你呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Don’t give your strength to women, nor your ways to that which destroys kings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要将你的精力给妇女； 也不要有败坏君王的行为。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要將你的精力給婦女； 也不要有敗壞君王的行為。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "It is not for kings, Lemuel, it is not for kings to drink wine, nor for princes to say, ‘Where is strong drink?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利慕伊勒啊，君王喝酒，君王喝酒不相宜； 王子说浓酒在那里也不相宜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利慕伊勒啊，君王喝酒，君王喝酒不相宜； 王子說濃酒在那裏也不相宜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "lest they drink, and forget the law, and pervert the justice due to anyone who is afflicted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐怕喝了就忘记律例， 颠倒一切困苦人的是非。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐怕喝了就忘記律例， 顛倒一切困苦人的是非。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Give strong drink to him who is ready to perish, and wine to the bitter in soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可以把浓酒给将亡的人喝， 把清酒给苦心的人喝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可以把濃酒給將亡的人喝， 把清酒給苦心的人喝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Let him drink, and forget his poverty, and remember his misery no more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "让他喝了，就忘记他的贫穷， 不再记念他的苦楚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "讓他喝了，就忘記他的貧窮， 不再記念他的苦楚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Open your mouth for the mute, in the cause of all who are left desolate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当为哑巴开口， 为一切孤独的伸冤。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:8 或译：不能自辩的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當為啞巴開口， 為一切孤獨的伸冤。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:8 或譯：不能自辯的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Open your mouth, judge righteously, and serve justice to the poor and needy.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当开口按公义判断， 为困苦和穷乏的辨屈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當開口按公義判斷， 為困苦和窮乏的辨屈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Who can find a worthy woman? For her value is far above rubies.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "31:10 Proverbs 31:10-31 form an acrostic, with each verse starting with each letter of the Hebrew alphabet, in order."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "才德的妇人谁能得着呢？ 她的价值远胜过珍珠。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "才德的婦人誰能得着呢？ 她的價值遠勝過珍珠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The heart of her husband trusts in her. He shall have no lack of gain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她丈夫心里倚靠她， 必不缺少利益；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她丈夫心裏倚靠她， 必不缺少利益；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "She does him good, and not harm, all the days of her life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她一生使丈夫有益无损。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她一生使丈夫有益無損。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "She seeks wool and flax, and works eagerly with her hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她寻找羊绒和麻， 甘心用手做工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她尋找羊羢和麻， 甘心用手做工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "She is like the merchant ships. She brings her bread from afar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她好像商船从远方运粮来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她好像商船從遠方運糧來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "She rises also while it is yet night, gives food to her household, and portions for her servant girls.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "未到黎明她就起来， 把食物分给家中的人， 将当做的工分派婢女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "未到黎明她就起來， 把食物分給家中的人， 將當做的工分派婢女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "She considers a field, and buys it. With the fruit of her hands, she plants a vineyard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她想得田地就买来； 用手所得之利栽种葡萄园。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她想得田地就買來； 用手所得之利栽種葡萄園。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "She arms her waist with strength, and makes her arms strong.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她以能力束腰， 使膀臂有力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她以能力束腰， 使膀臂有力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "She perceives that her merchandise is profitable. Her lamp doesn’t go out by night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她觉得所经营的有利； 她的灯终夜不灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她覺得所經營的有利； 她的燈終夜不滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "She lays her hands to the distaff, and her hands hold the spindle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她手拿捻线竿， 手把纺线车。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她手拿撚線竿， 手把紡線車。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "She opens her arms to the poor; yes, she extends her hands to the needy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她张手周济困苦人， 伸手帮补穷乏人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她張手賙濟困苦人， 伸手幫補窮乏人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "She is not afraid of the snow for her household, for all her household are clothed with scarlet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她不因下雪为家里的人担心， 因为全家都穿着朱红衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她不因下雪為家裏的人擔心， 因為全家都穿着朱紅衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "She makes for herself carpets of tapestry. Her clothing is fine linen and purple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她为自己制作绣花毯子； 她的衣服是细麻和紫色布做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她為自己製作繡花毯子； 她的衣服是細麻和紫色布做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Her husband is respected in the gates, when he sits among the elders of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她丈夫在城门口与本地的长老同坐， 为众人所认识。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她丈夫在城門口與本地的長老同坐， 為眾人所認識。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "She makes linen garments and sells them, and delivers sashes to the merchant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她做细麻布衣裳出卖， 又将腰带卖与商家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她做細麻布衣裳出賣， 又將腰帶賣與商家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Strength and dignity are her clothing. She laughs at the time to come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "能力和威仪是她的衣服； 她想到日后的景况就喜笑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "能力和威儀是她的衣服； 她想到日後的景況就喜笑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "She opens her mouth with wisdom. Kind instruction is on her tongue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她开口就发智慧； 她舌上有仁慈的法则。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她開口就發智慧； 她舌上有仁慈的法則。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "She looks well to the ways of her household, and doesn’t eat the bread of idleness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她观察家务， 并不吃闲饭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她觀察家務， 並不吃閒飯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Her children rise up and call her blessed. Her husband also praises her:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她的儿女起来称她有福； 她的丈夫也称赞她，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她的兒女起來稱她有福； 她的丈夫也稱讚她，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“Many women do noble things, but you excel them all.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：才德的女子很多， 惟独你超过一切。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：才德的女子很多， 惟獨你超過一切。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Charm is deceitful, and beauty is vain; but a woman who fears the LORD, she shall be praised.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "艳丽是虚假的，美容是虚浮的； 惟敬畏耶和华的妇女必得称赞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "艷麗是虛假的，美容是虛浮的； 惟敬畏耶和華的婦女必得稱讚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Give her of the fruit of her hands! Let her works praise her in the gates!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿她享受操作所得的； 愿她的工作在城门口荣耀她。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願她享受操作所得的； 願她的工作在城門口榮耀她。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

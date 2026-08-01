@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:28:15.396Z",
+  "generatedAt": "2026-08-01T01:55:47.886Z",
   "books": [
     {
       "id": "GEN",
@@ -9,6 +9,125 @@
       "chapters": 50
     },
     {
+      "id": "EXO",
+      "english": "Exodus",
+      "zhSimplified": "出埃及记",
+      "zhTraditional": "出埃及記",
+      "chapters": 40
+    },
+    {
+      "id": "LEV",
+      "english": "Leviticus",
+      "zhSimplified": "利未记",
+      "zhTraditional": "利未記",
+      "chapters": 27
+    },
+    {
+      "id": "NUM",
+      "english": "Numbers",
+      "zhSimplified": "民数记",
+      "zhTraditional": "民數記",
+      "chapters": 36
+    },
+    {
+      "id": "DEU",
+      "english": "Deuteronomy",
+      "zhSimplified": "申命记",
+      "zhTraditional": "申命記",
+      "chapters": 34
+    },
+    {
+      "id": "JOS",
+      "english": "Joshua",
+      "zhSimplified": "约书亚记",
+      "zhTraditional": "約書亞記",
+      "chapters": 24
+    },
+    {
+      "id": "JDG",
+      "english": "Judges",
+      "zhSimplified": "士师记",
+      "zhTraditional": "士師記",
+      "chapters": 21
+    },
+    {
+      "id": "RUT",
+      "english": "Ruth",
+      "zhSimplified": "路得记",
+      "zhTraditional": "路得記",
+      "chapters": 4
+    },
+    {
+      "id": "1SA",
+      "english": "1 Samuel",
+      "zhSimplified": "撒母耳记上",
+      "zhTraditional": "撒母耳記上",
+      "chapters": 31
+    },
+    {
+      "id": "2SA",
+      "english": "2 Samuel",
+      "zhSimplified": "撒母耳记下",
+      "zhTraditional": "撒母耳記下",
+      "chapters": 24
+    },
+    {
+      "id": "1KI",
+      "english": "1 Kings",
+      "zhSimplified": "列王纪上",
+      "zhTraditional": "列王紀上",
+      "chapters": 22
+    },
+    {
+      "id": "2KI",
+      "english": "2 Kings",
+      "zhSimplified": "列王纪下",
+      "zhTraditional": "列王紀下",
+      "chapters": 25
+    },
+    {
+      "id": "1CH",
+      "english": "1 Chronicles",
+      "zhSimplified": "历代志上",
+      "zhTraditional": "歷代志上",
+      "chapters": 29
+    },
+    {
+      "id": "2CH",
+      "english": "2 Chronicles",
+      "zhSimplified": "历代志下",
+      "zhTraditional": "歷代志下",
+      "chapters": 36
+    },
+    {
+      "id": "EZR",
+      "english": "Ezra",
+      "zhSimplified": "以斯拉记",
+      "zhTraditional": "以斯拉記",
+      "chapters": 10
+    },
+    {
+      "id": "NEH",
+      "english": "Nehemiah",
+      "zhSimplified": "尼希米记",
+      "zhTraditional": "尼希米記",
+      "chapters": 13
+    },
+    {
+      "id": "EST",
+      "english": "Esther",
+      "zhSimplified": "以斯帖记",
+      "zhTraditional": "以斯帖記",
+      "chapters": 10
+    },
+    {
+      "id": "JOB",
+      "english": "Job",
+      "zhSimplified": "约伯记",
+      "zhTraditional": "約伯記",
+      "chapters": 42
+    },
+    {
       "id": "PSA",
       "english": "Psalms",
       "zhSimplified": "诗篇",
@@ -16,11 +135,333 @@
       "chapters": 150
     },
     {
+      "id": "PRO",
+      "english": "Proverbs",
+      "zhSimplified": "箴言",
+      "zhTraditional": "箴言",
+      "chapters": 31
+    },
+    {
+      "id": "ECC",
+      "english": "Ecclesiastes",
+      "zhSimplified": "传道书",
+      "zhTraditional": "傳道書",
+      "chapters": 12
+    },
+    {
+      "id": "SNG",
+      "english": "Song of Songs",
+      "zhSimplified": "雅歌",
+      "zhTraditional": "雅歌",
+      "chapters": 8
+    },
+    {
+      "id": "ISA",
+      "english": "Isaiah",
+      "zhSimplified": "以赛亚书",
+      "zhTraditional": "以賽亞書",
+      "chapters": 66
+    },
+    {
+      "id": "JER",
+      "english": "Jeremiah",
+      "zhSimplified": "耶利米书",
+      "zhTraditional": "耶利米書",
+      "chapters": 52
+    },
+    {
+      "id": "LAM",
+      "english": "Lamentations",
+      "zhSimplified": "耶利米哀歌",
+      "zhTraditional": "耶利米哀歌",
+      "chapters": 5
+    },
+    {
+      "id": "EZK",
+      "english": "Ezekiel",
+      "zhSimplified": "以西结书",
+      "zhTraditional": "以西結書",
+      "chapters": 48
+    },
+    {
+      "id": "DAN",
+      "english": "Daniel",
+      "zhSimplified": "但以理书",
+      "zhTraditional": "但以理書",
+      "chapters": 12
+    },
+    {
+      "id": "HOS",
+      "english": "Hosea",
+      "zhSimplified": "何西阿书",
+      "zhTraditional": "何西阿書",
+      "chapters": 14
+    },
+    {
+      "id": "JOL",
+      "english": "Joel",
+      "zhSimplified": "约珥书",
+      "zhTraditional": "約珥書",
+      "chapters": 3
+    },
+    {
+      "id": "AMO",
+      "english": "Amos",
+      "zhSimplified": "阿摩司书",
+      "zhTraditional": "阿摩司書",
+      "chapters": 9
+    },
+    {
+      "id": "OBA",
+      "english": "Obadiah",
+      "zhSimplified": "俄巴底亚书",
+      "zhTraditional": "俄巴底亞書",
+      "chapters": 1
+    },
+    {
+      "id": "JON",
+      "english": "Jonah",
+      "zhSimplified": "约拿书",
+      "zhTraditional": "約拿書",
+      "chapters": 4
+    },
+    {
+      "id": "MIC",
+      "english": "Micah",
+      "zhSimplified": "弥迦书",
+      "zhTraditional": "彌迦書",
+      "chapters": 7
+    },
+    {
+      "id": "NAM",
+      "english": "Nahum",
+      "zhSimplified": "那鸿书",
+      "zhTraditional": "那鴻書",
+      "chapters": 3
+    },
+    {
+      "id": "HAB",
+      "english": "Habakkuk",
+      "zhSimplified": "哈巴谷书",
+      "zhTraditional": "哈巴谷書",
+      "chapters": 3
+    },
+    {
+      "id": "ZEP",
+      "english": "Zephaniah",
+      "zhSimplified": "西番雅书",
+      "zhTraditional": "西番雅書",
+      "chapters": 3
+    },
+    {
+      "id": "HAG",
+      "english": "Haggai",
+      "zhSimplified": "哈该书",
+      "zhTraditional": "哈該書",
+      "chapters": 2
+    },
+    {
+      "id": "ZEC",
+      "english": "Zechariah",
+      "zhSimplified": "撒迦利亚书",
+      "zhTraditional": "撒迦利亞書",
+      "chapters": 14
+    },
+    {
+      "id": "MAL",
+      "english": "Malachi",
+      "zhSimplified": "玛拉基书",
+      "zhTraditional": "瑪拉基書",
+      "chapters": 4
+    },
+    {
+      "id": "MAT",
+      "english": "Matthew",
+      "zhSimplified": "马太福音",
+      "zhTraditional": "馬太福音",
+      "chapters": 28
+    },
+    {
+      "id": "MRK",
+      "english": "Mark",
+      "zhSimplified": "马可福音",
+      "zhTraditional": "馬可福音",
+      "chapters": 16
+    },
+    {
+      "id": "LUK",
+      "english": "Luke",
+      "zhSimplified": "路加福音",
+      "zhTraditional": "路加福音",
+      "chapters": 24
+    },
+    {
       "id": "JHN",
       "english": "John",
       "zhSimplified": "约翰福音",
       "zhTraditional": "約翰福音",
       "chapters": 21
+    },
+    {
+      "id": "ACT",
+      "english": "Acts",
+      "zhSimplified": "使徒行传",
+      "zhTraditional": "使徒行傳",
+      "chapters": 28
+    },
+    {
+      "id": "ROM",
+      "english": "Romans",
+      "zhSimplified": "罗马书",
+      "zhTraditional": "羅馬書",
+      "chapters": 16
+    },
+    {
+      "id": "1CO",
+      "english": "1 Corinthians",
+      "zhSimplified": "哥林多前书",
+      "zhTraditional": "哥林多前書",
+      "chapters": 16
+    },
+    {
+      "id": "2CO",
+      "english": "2 Corinthians",
+      "zhSimplified": "哥林多后书",
+      "zhTraditional": "哥林多後書",
+      "chapters": 13
+    },
+    {
+      "id": "GAL",
+      "english": "Galatians",
+      "zhSimplified": "加拉太书",
+      "zhTraditional": "加拉太書",
+      "chapters": 6
+    },
+    {
+      "id": "EPH",
+      "english": "Ephesians",
+      "zhSimplified": "以弗所书",
+      "zhTraditional": "以弗所書",
+      "chapters": 6
+    },
+    {
+      "id": "PHP",
+      "english": "Philippians",
+      "zhSimplified": "腓立比书",
+      "zhTraditional": "腓立比書",
+      "chapters": 4
+    },
+    {
+      "id": "COL",
+      "english": "Colossians",
+      "zhSimplified": "歌罗西书",
+      "zhTraditional": "歌羅西書",
+      "chapters": 4
+    },
+    {
+      "id": "1TH",
+      "english": "1 Thessalonians",
+      "zhSimplified": "帖撒罗尼迦前书",
+      "zhTraditional": "帖撒羅尼迦前書",
+      "chapters": 5
+    },
+    {
+      "id": "2TH",
+      "english": "2 Thessalonians",
+      "zhSimplified": "帖撒罗尼迦后书",
+      "zhTraditional": "帖撒羅尼迦後書",
+      "chapters": 3
+    },
+    {
+      "id": "1TI",
+      "english": "1 Timothy",
+      "zhSimplified": "提摩太前书",
+      "zhTraditional": "提摩太前書",
+      "chapters": 6
+    },
+    {
+      "id": "2TI",
+      "english": "2 Timothy",
+      "zhSimplified": "提摩太后书",
+      "zhTraditional": "提摩太後書",
+      "chapters": 4
+    },
+    {
+      "id": "TIT",
+      "english": "Titus",
+      "zhSimplified": "提多书",
+      "zhTraditional": "提多書",
+      "chapters": 3
+    },
+    {
+      "id": "PHM",
+      "english": "Philemon",
+      "zhSimplified": "腓利门书",
+      "zhTraditional": "腓利門書",
+      "chapters": 1
+    },
+    {
+      "id": "HEB",
+      "english": "Hebrews",
+      "zhSimplified": "希伯来书",
+      "zhTraditional": "希伯來書",
+      "chapters": 13
+    },
+    {
+      "id": "JAS",
+      "english": "James",
+      "zhSimplified": "雅各书",
+      "zhTraditional": "雅各書",
+      "chapters": 5
+    },
+    {
+      "id": "1PE",
+      "english": "1 Peter",
+      "zhSimplified": "彼得前书",
+      "zhTraditional": "彼得前書",
+      "chapters": 5
+    },
+    {
+      "id": "2PE",
+      "english": "2 Peter",
+      "zhSimplified": "彼得后书",
+      "zhTraditional": "彼得後書",
+      "chapters": 3
+    },
+    {
+      "id": "1JN",
+      "english": "1 John",
+      "zhSimplified": "约翰一书",
+      "zhTraditional": "約翰一書",
+      "chapters": 5
+    },
+    {
+      "id": "2JN",
+      "english": "2 John",
+      "zhSimplified": "约翰二书",
+      "zhTraditional": "約翰二書",
+      "chapters": 1
+    },
+    {
+      "id": "3JN",
+      "english": "3 John",
+      "zhSimplified": "约翰三书",
+      "zhTraditional": "約翰三書",
+      "chapters": 1
+    },
+    {
+      "id": "JUD",
+      "english": "Jude",
+      "zhSimplified": "犹大书",
+      "zhTraditional": "猶大書",
+      "chapters": 1
+    },
+    {
+      "id": "REV",
+      "english": "Revelation",
+      "zhSimplified": "启示录",
+      "zhTraditional": "啟示錄",
+      "chapters": 22
     }
   ]
 }

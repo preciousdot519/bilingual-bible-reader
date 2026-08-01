@@ -1,0 +1,465 @@
+{
+  "bookId": "EZK",
+  "chapter": 46,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“‘The Lord GOD says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华如此说：「内院朝东的门，在办理事务的六日内必须关闭；惟有安息日和月朔必须敞开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華如此說：「內院朝東的門，在辦理事務的六日內必須關閉；惟有安息日和月朔必須敞開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The prince shall enter by the way of the porch of the gate outside, and shall stand by the post of the gate; and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王要从这门的廊进入，站在门框旁边。祭司要为他预备燔祭和平安祭，他就要在门槛那里敬拜，然后出去。这门直到晚上不可关闭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王要從這門的廊進入，站在門框旁邊。祭司要為他預備燔祭和平安祭，他就要在門檻那裏敬拜，然後出去。這門直到晚上不可關閉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The people of the land shall worship at the door of that gate before the LORD on the Sabbaths and on the new moons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在安息日和月朔，国内的居民要在这门口，耶和华面前敬拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在安息日和月朔，國內的居民要在這門口，耶和華面前敬拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The burnt offering that the prince shall offer to the LORD shall be on the Sabbath day, six lambs without defect and a ram without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "安息日，王所献与耶和华的燔祭要用无残疾的羊羔六只，无残疾的公绵羊一只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "安息日，王所獻與耶和華的燔祭要用無殘疾的羊羔六隻，無殘疾的公綿羊一隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and the meal offering shall be an ephah for the ram, and the meal offering for the lambs as he is able to give, and a hin of oil to an ephah.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "46:5 A hin is about 6.5 liters or 1.7 gallons."
+          },
+          {
+            "id": "f2",
+            "text": "46:5 1 ephah is about 22 liters or about 2/3 of a bushel"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同献的素祭要为公绵羊献一伊法细面，为羊羔照他的力量而献，一伊法细面加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同獻的素祭要為公綿羊獻一伊法細麵，為羊羔照他的力量而獻，一伊法細麵加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "On the day of the new moon it shall be a young bull without defect, six lambs, and a ram. They shall be without defect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当月朔，要献无残疾的公牛犊一只，羊羔六只，公绵羊一只，都要无残疾的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當月朔，要獻無殘疾的公牛犢一隻，羊羔六隻，公綿羊一隻，都要無殘疾的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He shall prepare a meal offering: an ephah for the bull, and an ephah for the ram, and for the lambs according as he is able, and a hin of oil to an ephah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也要预备素祭，为公牛献一伊法细面，为公绵羊献一伊法细面，为羊羔照他的力量而献，一伊法细面加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也要預備素祭，為公牛獻一伊法細麵，為公綿羊獻一伊法細麵，為羊羔照他的力量而獻，一伊法細麵加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When the prince enters, he shall go in by the way of the porch of the gate, and he shall go out by its way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王进入的时候必由这门的廊而入，也必由此而出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王進入的時候必由這門的廊而入，也必由此而出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘“But when the people of the land come before the LORD in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在各节期，国内居民朝见耶和华的时候，从北门进入敬拜的，必由南门而出；从南门进入的，必由北门而出。不可从所入的门而出，必要直往前行，由对门而出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在各節期，國內居民朝見耶和華的時候，從北門進入敬拜的，必由南門而出；從南門進入的，必由北門而出。不可從所入的門而出，必要直往前行，由對門而出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The prince shall go in with them when they go in. When they go out, he shall go out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "民进入，王也要在民中进入；民出去，王也要一同出去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "民進入，王也要在民中進入；民出去，王也要一同出去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“‘“In the feasts and in the appointed holidays, the meal offering shall be an ephah for a bull, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "46:11 1 ephah is about 22 liters or about 2/3 of a bushel"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在节期和圣会的日子同献的素祭，要为一只公牛献一伊法细面，为一只公绵羊献一伊法细面，为羊羔照他的力量而献，一伊法细面加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在節期和聖會的日子同獻的素祭，要為一隻公牛獻一伊法細麵，為一隻公綿羊獻一伊法細麵，為羊羔照他的力量而獻，一伊法細麵加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "When the prince prepares a free will offering, a burnt offering or peace offerings as a free will offering to the LORD, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王预备甘心献的燔祭或平安祭，就是向耶和华甘心献的，当有人为他开朝东的门。他就预备燔祭和平安祭，与安息日预备的一样，献毕就出去。他出去之后，当有人将门关闭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王預備甘心獻的燔祭或平安祭，就是向耶和華甘心獻的，當有人為他開朝東的門。他就預備燔祭和平安祭，與安息日預備的一樣，獻畢就出去。他出去之後，當有人將門關閉。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘“You shall prepare a lamb a year old without defect for a burnt offering to the LORD daily. Morning by morning you shall prepare it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「每日，你要预备无残疾一岁的羊羔一只，献与耶和华为燔祭；要每早晨预备。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「每日，你要預備無殘疾一歲的羊羔一隻，獻與耶和華為燔祭；要每早晨預備。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall prepare a meal offering with it morning by morning, the sixth part of an ephah, and the third part of a hin of oil to moisten the fine flour; a meal offering to the LORD continually by a perpetual ordinance.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "46:14 1 ephah is about 22 liters or about 2/3 of a bushel"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每早晨也要预备同献的素祭，细面一伊法六分之一，并油一欣三分之一，调和细面。这素祭要常献与耶和华为永远的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每早晨也要預備同獻的素祭，細麵一伊法六分之一，並油一欣三分之一，調和細麵。這素祭要常獻與耶和華為永遠的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Thus they shall prepare the lamb, the meal offering, and the oil, morning by morning, for a continual burnt offering.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每早晨要这样预备羊羔、素祭，并油为常献的燔祭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每早晨要這樣預備羊羔、素祭，並油為常獻的燔祭。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“‘The Lord GOD says: “If the prince gives a gift to any of his sons, it is his inheritance. It shall belong to his sons. It is their possession by inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华如此说：「王若将产业赐给他的儿子，就成了他儿子的产业，那是他们承受为业的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華如此說：「王若將產業賜給他的兒子，就成了他兒子的產業，那是他們承受為業的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But if he gives of his inheritance a gift to one of his servants, it shall be his to the year of liberty; then it shall return to the prince; but as for his inheritance, it shall be for his sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若王将一分产业赐给他的臣仆，就成了他臣仆的产业；到自由之年仍要归与王。至于王的产业，必归与他的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若王將一分產業賜給他的臣僕，就成了他臣僕的產業；到自由之年仍要歸與王。至於王的產業，必歸與他的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Moreover the prince shall not take of the people’s inheritance, to thrust them out of their possession. He shall give inheritance to his sons out of his own possession, that my people not each be scattered from his possession.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王不可夺取民的产业，以致驱逐他们离开所承受的；他要从自己的地业中，将产业赐给他儿子，免得我的民分散，各人离开所承受的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王不可奪取民的產業，以致驅逐他們離開所承受的；他要從自己的地業中，將產業賜給他兒子，免得我的民分散，各人離開所承受的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Then he brought me through the entry, which was at the side of the gate, into the holy rooms for the priests, which looked toward the north. Behold, there was a place on the back part westward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那带我的，将我从门旁进入之处、领进为祭司预备的圣屋，是朝北的，见后头西边有一块地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那帶我的，將我從門旁進入之處、領進為祭司預備的聖屋，是朝北的，見後頭西邊有一塊地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said to me, “This is the place where the priests shall boil the trespass offering and the sin offering, and where they shall bake the meal offering, that they not bring them out into the outer court, to sanctify the people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「这是祭司煮赎愆祭、赎罪祭，烤素祭之地，免得带到外院，使民成圣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「這是祭司煮贖愆祭、贖罪祭，烤素祭之地，免得帶到外院，使民成聖。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Then he brought me out into the outer court and caused me to pass by the four corners of the court; and behold, in every corner of the court there was a court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又带我到外院，使我经过院子的四拐角，见每拐角各有一个院子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又帶我到外院，使我經過院子的四拐角，見每拐角各有一個院子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "In the four corners of the court there were courts enclosed, forty cubits long and thirty wide. These four in the corners were the same size.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "46:22 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子四拐角的院子，周围有墙，每院长四十肘，宽三十肘。四拐角院子的尺寸都是一样，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子四拐角的院子，周圍有牆，每院長四十肘，寬三十肘。四拐角院子的尺寸都是一樣，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "There was a wall around in them, around the four, and boiling places were made under the walls all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中周围有一排房子，房子内有煮肉的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中周圍有一排房子，房子內有煮肉的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then he said to me, “These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「这都是煮肉的房子，殿内的仆役要在这里煮民的祭物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「這都是煮肉的房子，殿內的僕役要在這裏煮民的祭物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

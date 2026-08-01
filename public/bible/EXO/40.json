@@ -1,0 +1,693 @@
+{
+  "bookId": "EXO",
+  "chapter": 40,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“On the first day of the first month you shall raise up the tabernacle of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「正月初一日，你要立起帐幕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「正月初一日，你要立起帳幕，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall put the ark of the covenant in it, and you shall screen the ark with the veil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把法柜安放在里面，用幔子将柜遮掩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把法櫃安放在裏面，用幔子將櫃遮掩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You shall bring in the table, and set in order the things that are on it. You shall bring in the lamp stand, and light its lamps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把桌子搬进去，摆设上面的物。把灯台搬进去，点其上的灯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把桌子搬進去，擺設上面的物。把燈臺搬進去，點其上的燈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You shall set the golden altar for incense before the ark of the covenant, and put the screen of the door to the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把烧香的金坛安在法柜前，挂上帐幕的门帘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把燒香的金壇安在法櫃前，掛上帳幕的門簾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“You shall set the altar of burnt offering before the door of the tabernacle of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把燔祭坛安在帐幕门前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把燔祭壇安在帳幕門前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You shall set the basin between the Tent of Meeting and the altar, and shall put water therein.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把洗濯盆安在会幕和坛的中间，在盆里盛水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把洗濯盆安在會幕和壇的中間，在盆裏盛水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall set up the court around it, and hang up the screen of the gate of the court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又在四围立院帷，把院子的门帘挂上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又在四圍立院帷，把院子的門簾掛上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“You shall take the anointing oil, and anoint the tabernacle and all that is in it, and shall make it holy, and all its furniture, and it will be holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用膏油把帐幕和其中所有的都抹上，使帐幕和一切器具成圣，就都成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用膏油把帳幕和其中所有的都抹上，使帳幕和一切器具成聖，就都成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall anoint the altar of burnt offering, with all its vessels, and sanctify the altar, and the altar will be most holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要抹燔祭坛和一切器具，使坛成圣，就都成为至圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要抹燔祭壇和一切器具，使壇成聖，就都成為至聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall anoint the basin and its base, and sanctify it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要抹洗濯盆和盆座，使盆成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要抹洗濯盆和盆座，使盆成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“You shall bring Aaron and his sons to the door of the Tent of Meeting, and shall wash them with water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要使亚伦和他儿子到会幕门口来，用水洗身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要使亞倫和他兒子到會幕門口來，用水洗身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall put on Aaron the holy garments; and you shall anoint him, and sanctify him, that he may minister to me in the priest’s office.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要给亚伦穿上圣衣，又膏他，使他成圣，可以给我供祭司的职分；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要給亞倫穿上聖衣，又膏他，使他成聖，可以給我供祭司的職分；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall bring his sons, and put tunics on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要使他儿子来，给他们穿上内袍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要使他兒子來，給他們穿上內袍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You shall anoint them, as you anointed their father, that they may minister to me in the priest’s office. Their anointing shall be to them for an everlasting priesthood throughout their generations.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怎样膏他们的父亲，也要照样膏他们，使他们给我供祭司的职分。他们世世代代凡受膏的，就永远当祭司的职任。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "怎樣膏他們的父親，也要照樣膏他們，使他們給我供祭司的職分。他們世世代代凡受膏的，就永遠當祭司的職任。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Moses did so. According to all that the LORD commanded him, so he did.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西这样行，都是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西這樣行，都是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In the first month in the second year, on the first day of the month, the tabernacle was raised up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二年正月初一日，帐幕就立起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二年正月初一日，帳幕就立起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Moses raised up the tabernacle, and laid its sockets, and set up its boards, and put in its bars, and raised up its pillars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西立起帐幕，安上带卯的座，立上板，穿上闩，立起柱子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西立起帳幕，安上帶卯的座，立上板，穿上閂，立起柱子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He spread the covering over the tent, and put the roof of the tabernacle above on it, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在帐幕以上搭罩棚，把罩棚的顶盖盖在其上，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在帳幕以上搭罩棚，把罩棚的頂蓋蓋在其上，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He took and put the covenant into the ark, and set the poles on the ark, and put the mercy seat above on the ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又把法版放在柜里，把杠穿在柜的两旁，把施恩座安在柜上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又把法版放在櫃裏，把槓穿在櫃的兩旁，把施恩座安在櫃上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He brought the ark into the tabernacle, and set up the veil of the screen, and screened the ark of the covenant, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把柜抬进帐幕，挂上遮掩柜的幔子，把法柜遮掩了，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把櫃抬進帳幕，掛上遮掩櫃的幔子，把法櫃遮掩了，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He put the table in the Tent of Meeting, on the north side of the tabernacle, outside of the veil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又把桌子安在会幕内，在帐幕北边，在幔子外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又把桌子安在會幕內，在帳幕北邊，在幔子外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He set the bread in order on it before the LORD, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在桌子上将饼陈设在耶和华面前，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在桌子上將餅陳設在耶和華面前，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He put the lamp stand in the Tent of Meeting, opposite the table, on the south side of the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又把灯台安在会幕内，在帐幕南边，与桌子相对，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又把燈臺安在會幕內，在帳幕南邊，與桌子相對，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He lit the lamps before the LORD, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶和华面前点灯，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶和華面前點燈，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He put the golden altar in the Tent of Meeting before the veil;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把金坛安在会幕内的幔子前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把金壇安在會幕內的幔子前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "and he burned incense of sweet spices on it, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在坛上烧了馨香料做的香，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在壇上燒了馨香料做的香，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He put up the screen of the door to the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又挂上帐幕的门帘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又掛上帳幕的門簾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He set the altar of burnt offering at the door of the tabernacle of the Tent of Meeting, and offered on it the burnt offering and the meal offering, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在会幕的帐幕门前，安设燔祭坛，把燔祭和素祭献在其上，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在會幕的帳幕門前，安設燔祭壇，把燔祭和素祭獻在其上，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He set the basin between the Tent of Meeting and the altar, and put water therein, with which to wash.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把洗濯盆安在会幕和坛的中间，盆中盛水，以便洗濯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把洗濯盆安在會幕和壇的中間，盆中盛水，以便洗濯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Moses, Aaron, and his sons washed their hands and their feet there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西和亚伦并亚伦的儿子在这盆里洗手洗脚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西和亞倫並亞倫的兒子在這盆裏洗手洗腳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "When they went into the Tent of Meeting, and when they came near to the altar, they washed, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们进会幕或就近坛的时候，便都洗濯，是照耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們進會幕或就近壇的時候，便都洗濯，是照耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He raised up the court around the tabernacle and the altar, and set up the screen of the gate of the court. So Moses finished the work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在帐幕和坛的四围立了院帷，把院子的门帘挂上。这样，摩西就完了工。 （民9·15—23）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在帳幕和壇的四圍立了院帷，把院子的門簾掛上。這樣，摩西就完了工。 （民9‧15－23）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Then the cloud covered the Tent of Meeting, and the LORD’s glory filled the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，云彩遮盖会幕，耶和华的荣光就充满了帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，雲彩遮蓋會幕，耶和華的榮光就充滿了帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Moses wasn’t able to enter into the Tent of Meeting, because the cloud stayed on it, and the LORD’s glory filled the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西不能进会幕；因为云彩停在其上，并且耶和华的荣光充满了帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西不能進會幕；因為雲彩停在其上，並且耶和華的榮光充滿了帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "When the cloud was taken up from over the tabernacle, the children of Israel went onward, throughout all their journeys;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每逢云彩从帐幕收上去，以色列人就起程前往；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每逢雲彩從帳幕收上去，以色列人就起程前往；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "but if the cloud wasn’t taken up, then they didn’t travel until the day that it was taken up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩若不收上去，他们就不起程，直等到云彩收上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩若不收上去，他們就不起程，直等到雲彩收上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "For the cloud of the LORD was on the tabernacle by day, and there was fire in the cloud by night, in the sight of all the house of Israel, throughout all their journeys.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日间，耶和华的云彩是在帐幕以上；夜间，云中有火，在以色列全家的眼前。在他们所行的路上都是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日間，耶和華的雲彩是在帳幕以上；夜間，雲中有火，在以色列全家的眼前。在他們所行的路上都是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

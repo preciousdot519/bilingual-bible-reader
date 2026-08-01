@@ -1,0 +1,333 @@
+{
+  "bookId": "2CH",
+  "chapter": 1,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Solomon the son of David was firmly established in his kingdom, and the LORD his God was with him, and made him exceedingly great.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          },
+          {
+            "id": "f2",
+            "text": "1:1 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫的儿子所罗门国位坚固；耶和华—他的 神与他同在，使他甚为尊大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛的兒子所羅門國位堅固；耶和華－他的上帝與他同在，使他甚為尊大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Solomon spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every prince in all Israel, the heads of the fathers’ households.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门吩咐以色列众人，就是千夫长、百夫长、审判官、首领与族长都来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門吩咐以色列眾人，就是千夫長、百夫長、審判官、首領與族長都來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Then Solomon, and all the assembly with him, went to the high place that was at Gibeon; for God’s Tent of Meeting was there, which the LORD’s servant Moses had made in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门和会众都往基遍的邱坛去，因那里有 神的会幕，就是耶和华仆人摩西在旷野所制造的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門和會眾都往基遍的邱壇去，因那裏有上帝的會幕，就是耶和華僕人摩西在曠野所製造的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But David had brought God’s ark up from Kiriath Jearim to the place that David had prepared for it; for he had pitched a tent for it at Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是 神的约柜，大卫已经从基列·耶琳搬到他所预备的地方，因他曾在耶路撒冷为约柜支搭了帐幕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是上帝的約櫃，大衛已經從基列‧耶琳搬到他所預備的地方，因他曾在耶路撒冷為約櫃支搭了帳幕，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Moreover the bronze altar that Bezalel the son of Uri, the son of Hur, had made was there before the LORD’s tabernacle; and Solomon and the assembly were seeking counsel there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且户珥的孙子、乌利的儿子比撒列所造的铜坛也在基遍耶和华的会幕前。所罗门和会众都就近坛前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且戶珥的孫子、烏利的兒子比撒列所造的銅壇也在基遍耶和華的會幕前。所羅門和會眾都就近壇前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Solomon went up there to the bronze altar before the LORD, which was at the Tent of Meeting, and offered one thousand burnt offerings on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门上到耶和华面前会幕的铜坛那里，献一千牺牲为燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門上到耶和華面前會幕的銅壇那裏，獻一千犧牲為燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "That night, God appeared to Solomon and said to him, “Ask for what you want me to give you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当夜， 神向所罗门显现，对他说：「你愿我赐你什么，你可以求。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當夜，上帝向所羅門顯現，對他說：「你願我賜你甚麼，你可以求。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Solomon said to God, “You have shown great loving kindness to David my father, and have made me king in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门对 神说：「你曾向我父大卫大施慈爱，使我接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門對上帝說：「你曾向我父大衛大施慈愛，使我接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now, LORD God, let your promise to David my father be established; for you have made me king over a people like the dust of the earth in multitude.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华 神啊，现在求你成就向我父大卫所应许的话；因你立我作这民的王，他们如同地上尘沙那样多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華上帝啊，現在求你成就向我父大衛所應許的話；因你立我作這民的王，他們如同地上塵沙那樣多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now give me wisdom and knowledge, that I may go out and come in before this people; for who can judge this great people of yours?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你赐我智慧聪明，我好在这民前出入；不然，谁能判断这众多的民呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你賜我智慧聰明，我好在這民前出入；不然，誰能判斷這眾多的民呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "God said to Solomon, “Because this was in your heart, and you have not asked riches, wealth, honor, or the life of those who hate you, nor yet have you asked for long life; but have asked for wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神对所罗门说：「我已立你作我民的王。你既有这心意，并不求资财、丰富、尊荣，也不求灭绝那恨你之人的性命，又不求大寿数，只求智慧聪明好判断我的民；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝對所羅門說：「我已立你作我民的王。你既有這心意，並不求資財、豐富、尊榮，也不求滅絕那恨你之人的性命，又不求大壽數，只求智慧聰明好判斷我的民；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "therefore wisdom and knowledge is granted to you. I will give you riches, wealth, and honor, such as none of the kings have had who have been before you, and none after you will have.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必赐你智慧聪明，也必赐你资财、丰富、尊荣。在你以前的列王都没有这样，在你以后也必没有这样的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必賜你智慧聰明，也必賜你資財、豐富、尊榮。在你以前的列王都沒有這樣，在你以後也必沒有這樣的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "So Solomon came from the high place that was at Gibeon, from before the Tent of Meeting, to Jerusalem; and he reigned over Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，所罗门从基遍邱坛会幕前回到耶路撒冷，治理以色列人。 （王上10·26—29）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，所羅門從基遍邱壇會幕前回到耶路撒冷，治理以色列人。 （王上10‧26－29）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen that he placed in the chariot cities, and with the king at Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门聚集战车马兵，有战车一千四百辆，马兵一万二千名，安置在屯车的城邑和耶路撒冷，就是王那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門聚集戰車馬兵，有戰車一千四百輛，馬兵一萬二千名，安置在屯車的城邑和耶路撒冷，就是王那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The king made silver and gold to be as common as stones in Jerusalem, and he made cedars to be as common as the sycamore trees that are in the lowland.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王在耶路撒冷使金银多如石头，香柏木多如高原的桑树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王在耶路撒冷使金銀多如石頭，香柏木多如高原的桑樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门的马是从埃及带来的，是王的商人一群一群按着定价买来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門的馬是從埃及帶來的，是王的商人一群一群按着定價買來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They imported from Egypt then exported a chariot for six hundred pieces of silver and a horse for one hundred fifty. They also exported them to the Hittite kings and the Syrian kings.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:17 The pieces of silver were probably shekels, so 600 pieces would be about 13.2 pounds or 6 kilograms of silver, and 150 would be about 3.3 pounds or 1.5 kilograms of silver."
+          },
+          {
+            "id": "f2",
+            "text": "1:17 or, Aramean"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从埃及买来的车，每辆价银六百舍客勒，马每匹一百五十舍客勒。赫人诸王和亚兰诸王所买的车马，也是按这价值经他们手买来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從埃及買來的車，每輛價銀六百舍客勒，馬每匹一百五十舍客勒。赫人諸王和亞蘭諸王所買的車馬，也是按這價值經他們手買來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

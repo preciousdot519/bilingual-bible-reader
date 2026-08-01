@@ -1,0 +1,531 @@
+{
+  "bookId": "PRO",
+  "chapter": 19,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Better is the poor who walks in his integrity than he who is perverse in his lips and is a fool.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行为纯正的贫穷人 胜过乖谬愚妄的富足人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行為純正的貧窮人 勝過乖謬愚妄的富足人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It isn’t good to have zeal without knowledge, nor to be hasty with one’s feet and miss the way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心无知识的，乃为不善； 脚步急快的，难免犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心無知識的，乃為不善； 腳步急快的，難免犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The foolishness of man subverts his way; his heart rages against the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的愚昧倾败他的道； 他的心也抱怨耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的愚昧傾敗他的道； 他的心也抱怨耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Wealth adds many friends, but the poor is separated from his friend.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "财物使朋友增多； 但穷人朋友远离。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "財物使朋友增多； 但窮人朋友遠離。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A false witness shall not be unpunished. He who pours out lies shall not go free.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作假见证的，必不免受罚； 吐出谎言的，终不能逃脱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作假見證的，必不免受罰； 吐出謊言的，終不能逃脫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Many will entreat the favor of a ruler, and everyone is a friend to a man who gives gifts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好施散的，有多人求他的恩情； 爱送礼的，人都为他的朋友。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好施散的，有多人求他的恩情； 愛送禮的，人都為他的朋友。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "All the relatives of the poor shun him; how much more do his friends avoid him! He pursues them with pleas, but they are gone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "贫穷人，弟兄都恨他； 何况他的朋友，更远离他！ 他用言语追随，他们却走了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "貧窮人，弟兄都恨他； 何況他的朋友，更遠離他！ 他用言語追隨，他們卻走了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He who gets wisdom loves his own soul. He who keeps understanding shall find good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得着智慧的，爱惜生命； 保守聪明的，必得好处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得着智慧的，愛惜生命； 保守聰明的，必得好處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "A false witness shall not be unpunished. He who utters lies shall perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作假见证的，不免受罚； 吐出谎言的，也必灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作假見證的，不免受罰； 吐出謊言的，也必滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Delicate living is not appropriate for a fool, much less for a servant to have rule over princes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚昧人宴乐度日是不合宜的； 何况仆人管辖王子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚昧人宴樂度日是不合宜的； 何況僕人管轄王子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The discretion of a man makes him slow to anger. It is his glory to overlook an offense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人有见识就不轻易发怒； 宽恕人的过失便是自己的荣耀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人有見識就不輕易發怒； 寬恕人的過失便是自己的榮耀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The king’s wrath is like the roaring of a lion, but his favor is like dew on the grass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王的忿怒好像狮子吼叫； 他的恩典却如草上的甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王的忿怒好像獅子吼叫； 他的恩典卻如草上的甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "A foolish son is the calamity of his father. A wife’s quarrels are a continual dripping.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚昧的儿子是父亲的祸患； 妻子的争吵如雨连连滴漏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚昧的兒子是父親的禍患； 妻子的爭吵如雨連連滴漏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "House and riches are an inheritance from fathers, but a prudent wife is from the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "房屋钱财是祖宗所遗留的； 惟有贤慧的妻是耶和华所赐的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "房屋錢財是祖宗所遺留的； 惟有賢慧的妻是耶和華所賜的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Slothfulness casts into a deep sleep. The idle soul shall suffer hunger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰使人沉睡； 懈怠的人必受饥饿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰使人沉睡； 懈怠的人必受飢餓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He who keeps the commandment keeps his soul, but he who is contemptuous in his ways shall die.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谨守诫命的，保全生命； 轻忽己路的，必致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謹守誡命的，保全生命； 輕忽己路的，必致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He who has pity on the poor lends to the LORD; he will reward him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怜悯贫穷的，就是借给耶和华； 他的善行，耶和华必偿还。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "憐憫貧窮的，就是借給耶和華； 他的善行，耶和華必償還。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Discipline your son, for there is hope; don’t be a willing party to his death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "趁有指望，管教你的儿子； 你的心不可任他死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "趁有指望，管教你的兒子； 你的心不可任他死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "A hot-tempered man must pay the penalty, for if you rescue him, you must do it again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暴怒的人必受刑罚； 你若救他，必须再救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暴怒的人必受刑罰； 你若救他，必須再救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Listen to counsel and receive instruction, that you may be wise in your latter end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要听劝教，受训诲， 使你终久有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要聽勸教，受訓誨， 使你終久有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "There are many plans in a man’s heart, but the LORD’s counsel will prevail.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人心多有计谋； 惟有耶和华的筹算才能立定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人心多有計謀； 惟有耶和華的籌算才能立定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "That which makes a man to be desired is his kindness. A poor man is better than a liar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "施行仁慈的，令人爱慕； 穷人强如说谎言的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "施行仁慈的，令人愛慕； 窮人強如說謊言的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The fear of the LORD leads to life, then contentment; he rests and will not be touched by trouble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敬畏耶和华的，得着生命； 他必恒久知足，不遭祸患。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敬畏耶和華的，得着生命； 他必恆久知足，不遭禍患。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The sluggard buries his hand in the dish; he will not so much as bring it to his mouth again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人放手在盘子里， 就是向口撤回，他也不肯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人放手在盤子裏， 就是向口撤回，他也不肯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Flog a scoffer, and the simple will learn prudence; rebuke one who has understanding, and he will gain knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鞭打亵慢人，愚蒙人必长见识； 责备明哲人，他就明白知识。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鞭打褻慢人，愚蒙人必長見識； 責備明哲人，他就明白知識。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He who robs his father and drives away his mother is a son who causes shame and brings reproach.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虐待父亲、撵出母亲的， 是贻羞致辱之子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "虐待父親、攆出母親的， 是貽羞致辱之子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "If you stop listening to instruction, my son, you will stray from the words of knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，不可听了教训 而又偏离知识的言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，不可聽了教訓 而又偏離知識的言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "A corrupt witness mocks justice, and the mouth of the wicked gulps down iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "匪徒作见证戏笑公平； 恶人的口吞下罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "匪徒作見證戲笑公平； 惡人的口吞下罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Penalties are prepared for scoffers, and beatings for the backs of fools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "刑罚是为亵慢人预备的； 鞭打是为愚昧人的背预备的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "刑罰是為褻慢人預備的； 鞭打是為愚昧人的背預備的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

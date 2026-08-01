@@ -1,0 +1,608 @@
+{
+  "bookId": "2CO",
+  "chapter": 11,
+  "bookEnglish": "2 Corinthians",
+  "bookChineseSimplified": "哥林多后书",
+  "bookChineseTraditional": "哥林多後書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I wish that you would bear with me in a little foolishness, but indeed you do bear with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但愿你们宽容我这一点愚妄，其实你们原是宽容我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但願你們寬容我這一點愚妄，其實你們原是寬容我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为你们起的愤恨，原是 神那样的愤恨。因为我曾把你们许配一个丈夫，要把你们如同贞洁的童女，献给基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為你們起的憤恨，原是上帝那樣的憤恨。因為我曾把你們許配一個丈夫，要把你們如同貞潔的童女，獻給基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我只怕你们的心或偏于邪，失去那向基督所存纯一清洁的心，就像蛇用诡诈诱惑了夏娃一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我只怕你們的心或偏於邪，失去那向基督所存純一清潔的心，就像蛇用詭詐誘惑了夏娃一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For if he who comes preaches another Jesus whom we didn’t preach, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假如有人来另传一个耶稣，不是我们所传过的；或者你们另受一个灵，不是你们所受过的；或者另得一个福音，不是你们所得过的；你们容让他也就罢了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假如有人來另傳一個耶穌，不是我們所傳過的；或者你們另受一個靈，不是你們所受過的；或者另得一個福音，不是你們所得過的；你們容讓他也就罷了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For I reckon that I am not at all behind the very best apostles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我想，我一点不在那些最大的使徒以下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我想，我一點不在那些最大的使徒以下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的言语虽然粗俗，我的知识却不粗俗。这是我们在凡事上向你们众人显明出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的言語雖然粗俗，我的知識卻不粗俗。這是我們在凡事上向你們眾人顯明出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我因为白白传 神的福音给你们，就自居卑微，叫你们高升，这算是我犯罪吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我因為白白傳上帝的福音給你們，就自居卑微，叫你們高升，這算是我犯罪嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I robbed other assemblies, taking wages from them that I might serve you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我亏负了别的教会，向他们取了工价来给你们效力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我虧負了別的教會，向他們取了工價來給你們效力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When I was present with you and was in need, I wasn’t a burden on anyone, for the brothers, when they came from Macedonia, supplied the measure of my need. In everything I kept myself from being burdensome to you, and I will continue to do so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在你们那里缺乏的时候，并没有累着你们一个人；因我所缺乏的，那从马其顿来的弟兄们都补足了。我向来凡事谨守，后来也必谨守，总不至于累着你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在你們那裏缺乏的時候，並沒有累着你們一個人；因我所缺乏的，那從馬其頓來的弟兄們都補足了。我向來凡事謹守，後來也必謹守，總不至於累着你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "As the truth of Christ is in me, no one will stop me from this boasting in the regions of Achaia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既有基督的诚实在我里面，就无人能在亚该亚一带地方阻挡我这自夸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既有基督的誠實在我裏面，就無人能在亞該亞一帶地方阻擋我這自誇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Why? Because I don’t love you? God knows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为什么呢？是因我不爱你们吗？这有 神知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為甚麼呢？是因我不愛你們嗎？這有上帝知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But what I do, that I will continue to do, that I may cut off opportunity from those who desire an opportunity, that in which they boast, they may be recognized just like us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现在所做的，后来还要做，为要断绝那些寻机会人的机会，使他们在所夸的事上也不过与我们一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現在所做的，後來還要做，為要斷絕那些尋機會人的機會，使他們在所誇的事上也不過與我們一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For such men are false apostles, deceitful workers, masquerading as Christ’s apostles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那等人是假使徒，行事诡诈，装作基督使徒的模样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那等人是假使徒，行事詭詐，裝作基督使徒的模樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "And no wonder, for even Satan masquerades as an angel of light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这也不足为怪，因为连撒但也装作光明的天使。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這也不足為怪，因為連撒但也裝作光明的天使。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以他的差役，若装作仁义的差役，也不算希奇。他们的结局必然照着他们的行为。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以他的差役，若裝作仁義的差役，也不算希奇。他們的結局必然照着他們的行為。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I say again, let no one think me foolish. But if so, yet receive me as foolish, that I also may boast a little.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我再说，人不可把我看作愚妄的。纵然如此，也要把我当作愚妄人接纳，叫我可以略略自夸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我再說，人不可把我看作愚妄的。縱然如此，也要把我當作愚妄人接納，叫我可以略略自誇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说的话不是奉主命说的，乃是像愚妄人放胆自夸；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說的話不是奉主命說的，乃是像愚妄人放膽自誇；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Seeing that many boast after the flesh, I will also boast.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既有好些人凭着血气自夸，我也要自夸了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既有好些人憑着血氣自誇，我也要自誇了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For you bear with the foolish gladly, being wise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既是精明人，就能甘心忍耐愚妄人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既是精明人，就能甘心忍耐愚妄人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For you bear with a man if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, or if he strikes you on the face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假若有人强你们作奴仆，或侵吞你们，或掳掠你们，或侮慢你们，或打你们的脸，你们都能忍耐他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假若有人強你們作奴僕，或侵吞你們，或擄掠你們，或侮慢你們，或打你們的臉，你們都能忍耐他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "To my shame, I speak as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说这话是羞辱自己，好像我们从前是软弱的。然而，人在何事上勇敢，（我说句愚妄话，）我也勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說這話是羞辱自己，好像我們從前是軟弱的。然而，人在何事上勇敢，（我說句愚妄話，）我也勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the offspring of Abraham? So am I.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "11:22 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是希伯来人吗？我也是。他们是以色列人吗？我也是。他们是亚伯拉罕的后裔吗？我也是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是希伯來人嗎？我也是。他們是以色列人嗎？我也是。他們是亞伯拉罕的後裔嗎？我也是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Are they servants of Christ? (I speak as one beside himself.) I am more so: in labors more abundantly, in prisons more abundantly, in stripes above measure, and in deaths often.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是基督的仆人吗？（我说句狂话，）我更是。我比他们多受劳苦，多下监牢，受鞭打是过重的，冒死是屡次有的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是基督的僕人嗎？（我說句狂話，）我更是。我比他們多受勞苦，多下監牢，受鞭打是過重的，冒死是屢次有的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Five times I received forty stripes minus one from the Jews.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "被犹太人鞭打五次，每次四十减去一下；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "被猶太人鞭打五次，每次四十減去一下；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "被棍打了三次；被石头打了一次；遇着船坏三次，一昼一夜在深海里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "被棍打了三次；被石頭打了一次；遇着船壞三次，一晝一夜在深海裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又屡次行远路，遭江河的危险、盗贼的危险、同族的危险、外邦人的危险、城里的危险、旷野的危险、海中的危险、假弟兄的危险。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又屢次行遠路，遭江河的危險、盜賊的危險、同族的危險、外邦人的危險、城裏的危險、曠野的危險、海中的危險、假弟兄的危險。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "受劳碌、受困苦，多次不得睡，又饥又渴，多次不得食，受寒冷，赤身露体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "受勞碌、受困苦，多次不得睡，又飢又渴，多次不得食，受寒冷，赤身露體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Besides those things that are outside, there is that which presses on me daily: anxiety for all the assemblies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除了这外面的事，还有为众教会挂心的事，天天压在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除了這外面的事，還有為眾教會掛心的事，天天壓在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有谁软弱，我不软弱呢？有谁跌倒，我不焦急呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有誰軟弱，我不軟弱呢？有誰跌倒，我不焦急呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "If I must boast, I will boast of the things that concern my weakness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若必须自夸，就夸那关乎我软弱的事便了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若必須自誇，就誇那關乎我軟弱的事便了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don’t lie.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那永远可称颂之主耶稣的父 神知道我不说谎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那永遠可稱頌之主耶穌的父上帝知道我不說謊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在大马士革的亚哩达王手下的提督把守大马士革城，要捉拿我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在大馬士革的亞哩達王手下的提督把守大馬士革城，要捉拿我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "I was let down in a basket through a window by the wall, and escaped his hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就从窗户中，在筐子里，从城墙上被人缒下去，脱离了他的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就從窗戶中，在筐子裏，從城牆上被人縋下去，脫離了他的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

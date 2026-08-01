@@ -1,0 +1,285 @@
+{
+  "bookId": "SNG",
+  "chapter": 8,
+  "bookEnglish": "Song of Songs",
+  "bookChineseSimplified": "雅歌",
+  "bookChineseTraditional": "雅歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Oh that you were like my brother, who nursed from the breasts of my mother! If I found you outside, I would kiss you; yes, and no one would despise me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴不得你像我的兄弟， 像吃我母亲奶的兄弟； 我在外头遇见你就与你亲嘴， 谁也不轻看我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴不得你像我的兄弟， 像吃我母親奶的兄弟； 我在外頭遇見你就與你親嘴， 誰也不輕看我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I would lead you, bringing you into the house of my mother, who would instruct me. I would have you drink spiced wine, of the juice of my pomegranate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必引导你， 领你进我母亲的家； 我可以领受教训， 也就使你喝石榴汁酿的香酒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必引導你， 領你進我母親的家； 我可以領受教訓， 也就使你喝石榴汁釀的香酒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "His left hand would be under my head. His right hand would embrace me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的左手必在我头下； 他的右手必将我抱住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的左手必在我頭下； 他的右手必將我抱住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I adjure you, daughters of Jerusalem, that you not stir up, nor awaken love, until it so desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷的众女子啊， 我嘱咐你们： 不要惊动、不要叫醒我所亲爱的， 等他自己情愿。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:4 不要叫醒......情愿：或译不要激动爱情，等它自发"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷的眾女子啊， 我囑咐你們： 不要驚動、不要叫醒我所親愛的， 等他自己情願。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:4 不要叫醒......情願：或譯不要激動愛情，等它自發"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Who is this who comes up from the wilderness, leaning on her beloved? Under the apple tree I awakened you. There your mother conceived you. There she was in labor and bore you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那靠着良人从旷野上来的是谁呢？ 我在苹果树下叫醒你。 你母亲在那里为你劬劳； 生养你的在那里为你劬劳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那靠着良人從曠野上來的是誰呢？ 我在蘋果樹下叫醒你。 你母親在那裏為你劬勞； 生養你的在那裏為你劬勞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Set me as a seal on your heart, as a seal on your arm; for love is strong as death. Jealousy is as cruel as Sheol. Its flashes are flashes of fire, a very flame of the LORD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:6 Sheol is the place of the dead."
+          },
+          {
+            "id": "f2",
+            "text": "8:6 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你将我放在你心上如印记， 带在你臂上如戳记。 因为爱情如死之坚强， 嫉恨如阴间之残忍； 所发的电光是火焰的电光， 是耶和华的烈焰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你將我放在你心上如印記， 帶在你臂上如戳記。 因為愛情如死之堅強， 嫉恨如陰間之殘忍； 所發的電光是火焰的電光， 是耶和華的烈焰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Many waters can’t quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱情，众水不能息灭， 大水也不能淹没。 若有人拿家中所有的财宝要换爱情， 就全被藐视。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛情，眾水不能熄滅， 大水也不能淹沒。 若有人拿家中所有的財寶要換愛情， 就全被藐視。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "We have a little sister. She has no breasts. What shall we do for our sister in the day when she is to be spoken for?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们有一小妹； 她的两乳尚未长成， 人来提亲的日子， 我们当为她怎样办理？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們有一小妹； 她的兩乳尚未長成， 人來提親的日子， 我們當為她怎樣辦理？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "If she is a wall, we will build on her a turret of silver. If she is a door, we will enclose her with boards of cedar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她若是墙， 我们要在其上建造银塔； 她若是门， 我们要用香柏木板围护她。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她若是牆， 我們要在其上建造銀塔； 她若是門， 我們要用香柏木板圍護她。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I am a wall, and my breasts like towers, then I was in his eyes like one who found peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是墙； 我两乳像其上的楼。 那时，我在他眼中像得平安的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是牆； 我兩乳像其上的樓。 那時，我在他眼中像得平安的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Solomon had a vineyard at Baal Hamon. He leased out the vineyard to keepers. Each was to bring a thousand shekels of silver for its fruit.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:11 A shekel is about 10 grams or about 0.35 ounces, so 1000 shekels is about 10 kilograms or about 22 pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门在巴力·哈们有一葡萄园； 他将这葡萄园交给看守的人， 为其中的果子必交一千舍客勒银子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門在巴力‧哈們有一葡萄園； 他將這葡萄園交給看守的人， 為其中的果子必交一千舍客勒銀子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "My own vineyard is before me. The thousand are for you, Solomon, two hundred for those who tend its fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我自己的葡萄园在我面前。 所罗门哪，一千舍客勒归你， 二百舍客勒归看守果子的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我自己的葡萄園在我面前。 所羅門哪，一千舍客勒歸你， 二百舍客勒歸看守果子的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You who dwell in the gardens, with friends in attendance, let me hear your voice!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这住在园中的， 同伴都要听你的声音， 求你使我也得听见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這住在園中的， 同伴都要聽你的聲音， 求你使我也得聽見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Come away, my beloved! Be like a gazelle or a young stag on the mountains of spices!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的良人哪，求你快来！ 如羚羊或小鹿在香草山上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的良人哪，求你快來！ 如羚羊或小鹿在香草山上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

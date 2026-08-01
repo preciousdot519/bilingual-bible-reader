@@ -1,0 +1,488 @@
+{
+  "bookId": "ROM",
+  "chapter": 14,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now accept one who is weak in faith, but not for disputes over opinions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信心软弱的，你们要接纳，但不要辩论所疑惑的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信心軟弱的，你們要接納，但不要辯論所疑惑的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "One man has faith to eat all things, but he who is weak eats only vegetables.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人信百物都可吃；但那软弱的，只吃蔬菜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人信百物都可吃；但那軟弱的，只吃蔬菜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Don’t let him who eats despise him who doesn’t eat. Don’t let him who doesn’t eat judge him who eats, for God has accepted him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃的人不可轻看不吃的人；不吃的人不可论断吃的人；因为 神已经收纳他了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃的人不可輕看不吃的人；不吃的人不可論斷吃的人；因為上帝已經收納他了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Who are you who judge another’s servant? To his own lord he stands or falls. Yes, he will be made to stand, for God has power to make him stand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你是谁，竟论断别人的仆人呢？他或站住或跌倒，自有他的主人在；而且他也必要站住，因为主能使他站住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你是誰，竟論斷別人的僕人呢？他或站住或跌倒，自有他的主人在；而且他也必要站住，因為主能使他站住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "One man esteems one day as more important. Another esteems every day alike. Let each man be fully assured in his own mind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人看这日比那日强；有人看日日都是一样。只是各人心里要意见坚定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人看這日比那日強；有人看日日都是一樣。只是各人心裏要意見堅定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He who observes the day, observes it to the Lord; and he who does not observe the day, to the Lord he does not observe it. He who eats, eats to the Lord, for he gives God thanks. He who doesn’t eat, to the Lord he doesn’t eat, and gives God thanks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "守日的人是为主守的。吃的人是为主吃的，因他感谢 神；不吃的人是为主不吃的，也感谢 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "守日的人是為主守的。吃的人是為主吃的，因他感謝上帝；不吃的人是為主不吃的，也感謝上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For none of us lives to himself, and none dies to himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们没有一个人为自己活，也没有一个人为自己死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們沒有一個人為自己活，也沒有一個人為自己死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For if we live, we live to the Lord. Or if we die, we die to the Lord. If therefore we live or die, we are the Lord’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若活着，是为主而活；若死了，是为主而死。所以，我们或活或死总是主的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若活着，是為主而活；若死了，是為主而死。所以，我們或活或死總是主的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For to this end Christ died, rose, and lived again, that he might be Lord of both the dead and the living.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，基督死了，又活了，为要作死人并活人的主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，基督死了，又活了，為要作死人並活人的主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这个人，为什么论断弟兄呢？又为什么轻看弟兄呢？因我们都要站在 神的台前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這個人，為甚麼論斷弟兄呢？又為甚麼輕看弟兄呢？因我們都要站在上帝的臺前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For it is written, “‘As I live,’ says the Lord, ‘to me every knee will bow. Every tongue will confess to God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "14:11 Isaiah 45:23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "经上写着： 主说：我凭着我的永生起誓： 万膝必向我跪拜； 万口必向我承认。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "經上寫着： 主說：我憑着我的永生起誓： 萬膝必向我跪拜； 萬口必向我承認。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So then each one of us will give account of himself to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，我们各人必要将自己的事在 神面前说明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，我們各人必要將自己的事在上帝面前說明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Therefore let’s not judge one another any more, but judge this rather, that no man put a stumbling block in his brother’s way, or an occasion for falling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我们不可再彼此论断，宁可定意谁也不给弟兄放下绊脚跌人之物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I know and am persuaded in the Lord Jesus that nothing is unclean of itself; except that to him who considers anything to be unclean, to him it is unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我凭着主耶稣确知深信，凡物本来没有不洁净的；惟独人以为不洁净的，在他就不洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我憑着主耶穌確知深信，凡物本來沒有不潔淨的；惟獨人以為不潔淨的，在他就不潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Yet if because of food your brother is grieved, you walk no longer in love. Don’t destroy with your food him for whom Christ died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若因食物叫弟兄忧愁，就不是按着爱人的道理行。基督已经替他死，你不可因你的食物叫他败坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若因食物叫弟兄憂愁，就不是按着愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Then don’t let your good be slandered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可叫你的善被人毁谤；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可叫你的善被人毀謗；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "for God’s Kingdom is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神的国不在乎吃喝，只在乎公义、和平，并圣灵中的喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝的國不在乎吃喝，只在乎公義、和平，並聖靈中的喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For he who serves Christ in these things is acceptable to God and approved by men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这几样上服事基督的，就为 神所喜悦，又为人所称许。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這幾樣上服事基督的，就為上帝所喜悅，又為人所稱許。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "So then, let’s follow after things which make for peace, and things by which we may build one another up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我们务要追求和睦的事与彼此建立德行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我們務要追求和睦的事與彼此建立德行的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Don’t overthrow God’s work for food’s sake. All things indeed are clean, however it is evil for that man who creates a stumbling block by eating.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可因食物毁坏 神的工程。凡物固然洁净，但有人因食物叫人跌倒，就是他的罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可因食物毀壞上帝的工程。凡物固然潔淨，但有人因食物叫人跌倒，就是他的罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "It is good to not eat meat, drink wine, nor do anything by which your brother stumbles, is offended, or is made weak.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是吃肉是喝酒，是什么别的事，叫弟兄跌倒，一概不做才好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是吃肉是喝酒，是甚麼別的事，叫弟兄跌倒，一概不做才好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Do you have faith? Have it to yourself before God. Happy is he who doesn’t judge himself in that which he approves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你有信心，就当在 神面前守着。人在自己以为可行的事上能不自责，就有福了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你有信心，就當在上帝面前守着。人在自己以為可行的事上能不自責，就有福了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But he who doubts is condemned if he eats, because it isn’t of faith; and whatever is not of faith is sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有疑心而吃的，就必有罪，因为他吃不是出于信心。凡不出于信心的都是罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有疑心而吃的，就必有罪，因為他吃不是出於信心。凡不出於信心的都是罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:26 TR places verses 24-26 after Romans 16:24 as verses 25-27."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

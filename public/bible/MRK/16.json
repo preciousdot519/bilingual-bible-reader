@@ -1,0 +1,398 @@
+{
+  "bookId": "MRK",
+  "chapter": 16,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome bought spices, that they might come and anoint him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了安息日，抹大拉的马利亚和雅各的母亲马利亚并撒罗米，买了香膏要去膏耶稣的身体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了安息日，抹大拉的馬利亞和雅各的母親馬利亞並撒羅米，買了香膏要去膏耶穌的身體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Very early on the first day of the week, they came to the tomb when the sun had risen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七日的第一日清早，出太阳的时候，她们来到坟墓那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七日的第一日清早，出太陽的時候，她們來到墳墓那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼此说：「谁给我们把石头从墓门滚开呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼此說：「誰給我們把石頭從墓門滾開呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "for it was very big. Looking up, they saw that the stone was rolled back.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那石头原来很大，她们抬头一看，却见石头已经滚开了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那石頭原來很大，她們抬頭一看，卻見石頭已經滾開了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe; and they were amazed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们进了坟墓，看见一个少年人坐在右边，穿着白袍，就甚惊恐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們進了墳墓，看見一個少年人坐在右邊，穿着白袍，就甚驚恐。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He said to them, “Don’t be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen! He is not here. See the place where they laid him!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那少年人对她们说：「不要惊恐！你们寻找那钉十字架的拿撒勒人耶稣，他已经复活了，不在这里。请看安放他的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那少年人對她們說：「不要驚恐！你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。請看安放他的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But go, tell his disciples and Peter, ‘He goes before you into Galilee. There you will see him, as he said to you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们可以去告诉他的门徒和彼得，说：『他在你们以先往加利利去。在那里你们要见他，正如他从前所告诉你们的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們可以去告訴他的門徒和彼得，說：『他在你們以先往加利利去。在那裏你們要見他，正如他從前所告訴你們的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:8 TR adds “quickly”"
+          },
+          {
+            "id": "f2",
+            "text": "16:8 One isolated manuscript omits verses 9-20 but adds this “short ending of Mark” to the end of verse 8: a They told all that had been commanded them briefly to those around Peter. After that, Jesus himself sent them out, from east to west, with the sacred and imperishable proclamation of eternal salvation."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们就出来，从坟墓那里逃跑，又发抖又惊奇，什么也不告诉人，因为她们害怕。 （太28·9—10；约20·11—18）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們就出來，從墳墓那裏逃跑，又發抖又驚奇，甚麼也不告訴人，因為她們害怕。 （太28‧9－10；約20‧11－18）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now when he had risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:9 NU includes the text of verses 9-20, but mentions in a footnote that a few manuscripts omitted it. The translators of the World English Bible regard Mark 16:9-20 as reliable based on an overwhelming majority of textual evidence, including not only the authoritative Greek Majority Text New Testament, but also the TR and many of the manuscripts cited in the NU text."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在七日的第一日清早，耶稣复活了，就先向抹大拉的马利亚显现（耶稣从她身上曾赶出七个鬼）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在七日的第一日清早，耶穌復活了，就先向抹大拉的馬利亞顯現（耶穌從她身上曾趕出七個鬼）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "She went and told those who had been with him, as they mourned and wept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她去告诉那向来跟随耶稣的人；那时他们正哀恸哭泣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她去告訴那向來跟隨耶穌的人；那時他們正哀慟哭泣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When they heard that he was alive and had been seen by her, they disbelieved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们听见耶稣活了，被马利亚看见，却是不信。 （路24·13—35）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們聽見耶穌活了，被馬利亞看見，卻是不信。 （路24‧13－35）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "After these things he was revealed in another form to two of them as they walked, on their way into the country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事以后，门徒中间有两个人往乡下去。走路的时候，耶稣变了形象，向他们显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事以後，門徒中間有兩個人往鄉下去。走路的時候，耶穌變了形像，向他們顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They went away and told it to the rest. They didn’t believe them, either.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就去告诉其余的门徒；其余的门徒也是不信。 （太28·16—20；路24·36—49；约20·19—23；徒1·6—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就去告訴其餘的門徒；其餘的門徒也是不信。 （太28‧16－20；路24‧36－49；約20‧19－23；徒1‧6－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Afterward he was revealed to the eleven themselves as they sat at the table; and he rebuked them for their unbelief and hardness of heart, because they didn’t believe those who had seen him after he had risen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来，十一个门徒坐席的时候，耶稣向他们显现，责备他们不信，心里刚硬，因为他们不信那些在他复活以后看见他的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來，十一個門徒坐席的時候，耶穌向他們顯現，責備他們不信，心裏剛硬，因為他們不信那些在他復活以後看見他的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He said to them, “Gointo all the world and preach the Good News to the whole creation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又对他们说：「你们往普天下去，传福音给万民听。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:15 万民：原文是凡受造的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又對他們說：「你們往普天下去，傳福音給萬民聽。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:15 萬民：原文是凡受造的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Hewho believes and is baptized will be saved; but he who disbelieves will be condemned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信而受洗的，必然得救；不信的，必被定罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信而受洗的，必然得救；不信的，必被定罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Thesesigns will accompany those who believe: in my name they will cast out demons; they will speak with new languages;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信的人必有神迹随着他们，就是奉我的名赶鬼；说新方言；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信的人必有神蹟隨着他們，就是奉我的名趕鬼；說新方言；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "theywill take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "手能拿蛇；若喝了什么毒物，也必不受害；手按病人，病人就必好了。」 （路24·50—53；徒1·9—11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "手能拿蛇；若喝了甚麼毒物，也必不受害；手按病人，病人就必好了。」 （路24‧50－53；徒1‧9－11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "So then the Lord, after he had spoken to them, was received up into heaven and sat down at the right hand of God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:19 NU adds “Jesus”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶稣和他们说完了话，后来被接到天上，坐在 神的右边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶穌和他們說完了話，後來被接到天上，坐在上帝的右邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They went out and preached everywhere, the Lord working with them and confirming the word by the signs that followed. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒出去，到处宣传福音。主和他们同工，用神迹随着，证实所传的道。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒出去，到處宣傳福音。主和他們同工，用神蹟隨着，證實所傳的道。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

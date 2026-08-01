@@ -1,0 +1,412 @@
+{
+  "bookId": "1JN",
+  "chapter": 4,
+  "bookEnglish": "1 John",
+  "bookChineseSimplified": "约翰一书",
+  "bookChineseTraditional": "約翰一書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亲爱的弟兄啊，一切的灵，你们不可都信，总要试验那些灵是出于 神的不是，因为世上有许多假先知已经出来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親愛的弟兄啊，一切的靈，你們不可都信，總要試驗那些靈是出於上帝的不是，因為世上有許多假先知已經出來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡灵认耶稣基督是成了肉身来的，就是出于 神的；从此你们可以认出 神的灵来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡靈認耶穌基督是成了肉身來的，就是出於上帝的；從此你們可以認出上帝的靈來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God; and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡灵不认耶稣，就不是出于 神，这是那敌基督者的灵。你们从前听见他要来，现在已经在世上了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡靈不認耶穌，就不是出於上帝，這是那敵基督者的靈。你們從前聽見他要來，現在已經在世上了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You are of God, little children, and have overcome them, because greater is he who is in you than he who is in the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "小子们哪，你们是属 神的，并且胜了他们；因为那在你们里面的，比那在世界上的更大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "小子們哪，你們是屬上帝的，並且勝了他們；因為那在你們裏面的，比那在世界上的更大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They are of the world. Therefore they speak of the world, and the world hears them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是属世界的，所以论世界的事，世人也听从他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是屬世界的，所以論世界的事，世人也聽從他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们是属 神的，认识 神的就听从我们；不属 神的就不听从我们。从此我们可以认出真理的灵和谬妄的灵来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們是屬上帝的，認識上帝的就聽從我們；不屬上帝的就不聽從我們。從此我們可以認出真理的靈和謬妄的靈來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God and knows God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亲爱的弟兄啊，我们应当彼此相爱，因为爱是从 神来的。凡有爱心的，都是由 神而生，并且认识 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親愛的弟兄啊，我們應當彼此相愛，因為愛是從上帝來的。凡有愛心的，都是由上帝而生，並且認識上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He who doesn’t love doesn’t know God, for God is love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有爱心的，就不认识 神，因为 神就是爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有愛心的，就不認識上帝，因為上帝就是愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "By this God’s love was revealed in us, that God has sent his only born Son into the world that we might live through him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:9 The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神差他独生子到世间来，使我们借着他得生， 神爱我们的心在此就显明了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝差他獨生子到世間來，使我們藉着他得生，上帝愛我們的心在此就顯明了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:10 “atoning sacrifice” is from the Greek “ιλασμος”, an appeasing, propitiating, or the means of appeasement or propitiation—the sacrifice that turns away God’s wrath because of our sin."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不是我们爱 神，乃是 神爱我们，差他的儿子为我们的罪作了挽回祭，这就是爱了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不是我們愛上帝，乃是上帝愛我們，差他的兒子為我們的罪作了挽回祭，這就是愛了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Beloved, if God loved us in this way, we also ought to love one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亲爱的弟兄啊， 神既是这样爱我们，我们也当彼此相爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親愛的弟兄啊，上帝既是這樣愛我們，我們也當彼此相愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从来没有人见过 神，我们若彼此相爱， 神就住在我们里面，爱他的心在我们里面得以完全了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從來沒有人見過上帝，我們若彼此相愛，上帝就住在我們裏面，愛他的心在我們裏面得以完全了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "By this we know that we remain in him and he in us, because he has given us of his Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神将他的灵赐给我们，从此就知道我们是住在他里面，他也住在我们里面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝將他的靈賜給我們，從此就知道我們是住在他裏面，他也住在我們裏面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "We have seen and testify that the Father has sent the Son as the Savior of the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父差子作世人的救主；这是我们所看见且作见证的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父差子作世人的救主；這是我們所看見且作見證的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Whoever confesses that Jesus is the Son of God, God remains in him, and he in God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡认耶稣为 神儿子的， 神就住在他里面，他也住在 神里面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡認耶穌為上帝兒子的，上帝就住在他裏面，他也住在上帝裏面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神爱我们的心，我们也知道也信。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝愛我們的心，我們也知道也信。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In this, love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，爱在我们里面得以完全，我们就可以在审判的日子坦然无惧。因为他如何，我们在这世上也如何。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，愛在我們裏面得以完全，我們就可以在審判的日子坦然無懼。因為他如何，我們在這世上也如何。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱里没有惧怕；爱既完全，就把惧怕除去。因为惧怕里含着刑罚，惧怕的人在爱里未得完全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛裏沒有懼怕；愛既完全，就把懼怕除去。因為懼怕裏含着刑罰，懼怕的人在愛裏未得完全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "We love him, because he first loved us.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:19 NU omits “him”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们爱，因为 神先爱我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們愛，因為上帝先愛我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若说「我爱 神」，却恨他的弟兄，就是说谎话的；不爱他所看见的弟兄，就不能爱没有看见的 神。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:20 有古卷：怎能爱没有看见的 神呢"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若說「我愛上帝」，卻恨他的弟兄，就是說謊話的；不愛他所看見的弟兄，就不能愛沒有看見的上帝。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:20 有古卷：怎能愛沒有看見的上帝呢"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "This commandment we have from him, that he who loves God should also love his brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱 神的，也当爱弟兄，这是我们从 神所受的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛上帝的，也當愛弟兄，這是我們從上帝所受的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

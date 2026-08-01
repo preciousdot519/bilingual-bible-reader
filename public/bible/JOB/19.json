@@ -1,0 +1,541 @@
+{
+  "bookId": "JOB",
+  "chapter": 19,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Job answered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯回答说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯回答說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“How long will you torment me, and crush me with words?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们搅扰我的心， 用言语压碎我要到几时呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們攪擾我的心， 用言語壓碎我要到幾時呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You have reproached me ten times. You aren’t ashamed that you attack me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这十次羞辱我； 你们苦待我也不以为耻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這十次羞辱我； 你們苦待我也不以為恥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "If it is true that I have erred, my error remains with myself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "果真我有错， 这错乃是在我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "果真我有錯， 這錯乃是在我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "If indeed you will magnify yourselves against me, and plead against me my reproach,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们果然要向我夸大， 以我的羞辱为证指责我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們果然要向我誇大， 以我的羞辱為證指責我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "know now that God has subverted me, and has surrounded me with his net.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就该知道是 神倾覆我， 用网罗围绕我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就該知道是上帝傾覆我， 用網羅圍繞我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Behold, I cry out of wrong, but I am not heard. I cry for help, but there is no justice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我因委曲呼叫，却不蒙应允； 我呼求，却不得公断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我因委曲呼叫，卻不蒙應允； 我呼求，卻不得公斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He has walled up my way so that I can’t pass, and has set darkness in my paths.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神用篱笆拦住我的道路，使我不得经过； 又使我的路径黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝用籬笆攔住我的道路，使我不得經過； 又使我的路徑黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He has stripped me of my glory, and taken the crown from my head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他剥去我的荣光， 摘去我头上的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他剝去我的榮光， 摘去我頭上的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He has broken me down on every side, and I am gone. He has plucked my hope up like a tree.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在四围攻击我，我便归于死亡， 将我的指望如树拔出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在四圍攻擊我，我便歸於死亡， 將我的指望如樹拔出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He has also kindled his wrath against me. He counts me among his adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的忿怒向我发作， 以我为敌人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的忿怒向我發作， 以我為敵人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "His troops come on together, build a siege ramp against me, and encamp around my tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的军旅一齐上来， 修筑战路攻击我， 在我帐棚的四围安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的軍旅一齊上來， 修築戰路攻擊我， 在我帳棚的四圍安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“He has put my brothers far from me. My acquaintances are wholly estranged from me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他把我的弟兄隔在远处， 使我所认识的全然与我生疏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他把我的弟兄隔在遠處， 使我所認識的全然與我生疏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "My relatives have gone away. My familiar friends have forgotten me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的亲戚与我断绝； 我的密友都忘记我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的親戚與我斷絕； 我的密友都忘記我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Those who dwell in my house and my maids consider me a stranger. I am an alien in their sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在我家寄居的， 和我的使女都以我为外人； 我在他们眼中看为外邦人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在我家寄居的， 和我的使女都以我為外人； 我在他們眼中看為外邦人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I call to my servant, and he gives me no answer. I beg him with my mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我呼唤仆人， 虽用口求他，他还是不回答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我呼喚僕人， 雖用口求他，他還是不回答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "My breath is offensive to my wife. I am loathsome to the children of my own mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我口的气味，我妻子厌恶； 我的恳求，我同胞也憎嫌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我口的氣味，我妻子厭惡； 我的懇求，我同胞也憎嫌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Even young children despise me. If I arise, they speak against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "连小孩子也藐视我； 我若起来，他们都嘲笑我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "連小孩子也藐視我； 我若起來，他們都嘲笑我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "All my familiar friends abhor me. They whom I loved have turned against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的密友都憎恶我； 我平日所爱的人向我翻脸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的密友都憎惡我； 我平日所愛的人向我翻臉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "My bones stick to my skin and to my flesh. I have escaped by the skin of my teeth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的皮肉紧贴骨头； 我只剩牙皮逃脱了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的皮肉緊貼骨頭； 我只剩牙皮逃脫了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Have pity on me. Have pity on me, you my friends, for the hand of God has touched me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我朋友啊，可怜我！可怜我！ 因为 神的手攻击我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我朋友啊，可憐我！可憐我！ 因為上帝的手攻擊我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Why do you persecute me as God, and are not satisfied with my flesh?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们为什么仿佛 神逼迫我， 吃我的肉还以为不足呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們為甚麼彷彿上帝逼迫我， 吃我的肉還以為不足呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Oh that my words were now written! Oh that they were inscribed in a book!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿我的言语现在写上， 都记录在书上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願我的言語現在寫上， 都記錄在書上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "That with an iron pen and lead they were engraved in the rock forever!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用铁笔镌刻， 用铅灌在磐石上，直存到永远。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用鐵筆鐫刻， 用鉛灌在磐石上，直存到永遠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But as for me, I know that my Redeemer lives. In the end, he will stand upon the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道我的救赎主活着， 末了必站立在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道我的救贖主活着， 末了必站立在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "After my skin is destroyed, then I will see God in my flesh,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我这皮肉灭绝之后， 我必在肉体之外得见 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我這皮肉滅絕之後， 我必在肉體之外得見上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "whom I, even I, will see on my side. My eyes will see, and not as a stranger. “My heart is consumed within me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我自己要见他， 亲眼要看他，并不像外人。 我的心肠在我里面消灭了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我自己要見他， 親眼要看他，並不像外人。 我的心腸在我裏面消滅了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "If you say, ‘How we will persecute him!’ because the root of the matter is found in me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若说：我们逼迫他要何等地重呢？ 惹事的根乃在乎他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若說：我們逼迫他要何等地重呢？ 惹事的根乃在乎他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "be afraid of the sword, for wrath brings the punishments of the sword, that you may know there is a judgment.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们就当惧怕刀剑； 因为忿怒惹动刀剑的刑罚， 使你们知道有报应。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:29 原文是审判"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們就當懼怕刀劍； 因為忿怒惹動刀劍的刑罰， 使你們知道有報應。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:29 原文是審判"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "bookId": "ZEP",
+  "chapter": 2,
+  "bookEnglish": "Zephaniah",
+  "bookChineseSimplified": "西番雅书",
+  "bookChineseTraditional": "西番雅書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Gather yourselves together, yes, gather together, you nation that has no shame,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "1-2",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不知羞耻的国民哪，你们应当聚集！ 趁命令没有发出， 日子过去如风前的糠， 耶和华的烈怒未临到你们， 他发怒的日子未到以先， 你们应当聚集前来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不知羞恥的國民哪，你們應當聚集！ 趁命令沒有發出， 日子過去如風前的糠， 耶和華的烈怒未臨到你們， 他發怒的日子未到以先， 你們應當聚集前來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "before the appointed time when the day passes as the chaff, before the fierce anger of the LORD comes on you, before the day of the LORD’s anger comes on you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Seek the LORD, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of the LORD’s anger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "世上遵守耶和华典章的谦卑人哪， 你们都当寻求耶和华！ 当寻求公义谦卑， 或者在耶和华发怒的日子可以隐藏起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "世上遵守耶和華典章的謙卑人哪， 你們都當尋求耶和華！ 當尋求公義謙卑， 或者在耶和華發怒的日子可以隱藏起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For Gaza will be forsaken, and Ashkelon a desolation. They will drive out Ashdod at noonday, and Ekron will be rooted up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦萨必致见弃； 亚实基伦必然荒凉。 人在正午必赶出亚实突的民； 以革伦也被拔出根来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦薩必致見棄； 亞實基倫必然荒涼。 人在正午必趕出亞實突的民； 以革倫也被拔出根來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Woe to the inhabitants of the sea coast, the nation of the Cherethites! The LORD’s word is against you, Canaan, the land of the Philistines. I will destroy you until there is no inhabitant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住沿海之地的基利提族有祸了！ 迦南、非利士人之地啊，耶和华的话与你反对， 说：我必毁灭你，以致无人居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住沿海之地的基利提族有禍了！ 迦南、非利士人之地啊，耶和華的話與你反對， 說：我必毀滅你，以致無人居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The sea coast will be pastures, with cottages for shepherds and folds for flocks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沿海之地要变为草场， 其上有牧人的住处和羊群的圈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沿海之地要變為草場， 其上有牧人的住處和羊群的圈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The coast will be for the remnant of the house of Judah. They will find pasture. In the houses of Ashkelon, they will lie down in the evening, for the LORD, their God, will visit them and restore them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:7 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地必为犹大家剩下的人所得； 他们必在那里牧放群羊， 晚上必躺卧在亚实基伦的房屋中； 因为耶和华—他们的 神必眷顾他们， 使他们被掳的人归回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地必為猶大家剩下的人所得； 他們必在那裏牧放群羊， 晚上必躺臥在亞實基倫的房屋中； 因為耶和華－他們的上帝必眷顧他們， 使他們被擄的人歸回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I have heard the reproach of Moab and the insults of the children of Ammon, with which they have reproached my people and magnified themselves against their border.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见摩押人的毁谤和亚扪人的辱骂， 就是毁谤我的百姓，自夸自大， 侵犯他们的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見摩押人的毀謗和亞捫人的辱罵， 就是毀謗我的百姓，自誇自大， 侵犯他們的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Therefore, as I live, says the LORD of Armies, the God of Israel, surely Moab will be as Sodom, and the children of Ammon as Gomorrah, a possession of nettles and salt pits, and a perpetual desolation. The remnant of my people will plunder them, and the survivors of my nation will inherit them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神说： 我指着我的永生起誓： 摩押必像所多玛， 亚扪人必像蛾摩拉， 都变为刺草、盐坑、永远荒废之地。 我百姓所剩下的必掳掠他们； 我国中所余剩的必得着他们的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝說： 我指着我的永生起誓： 摩押必像所多瑪， 亞捫人必像蛾摩拉， 都變為刺草、鹽坑、永遠荒廢之地。 我百姓所剩下的必擄掠他們； 我國中所餘剩的必得着他們的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "This they will have for their pride, because they have reproached and magnified themselves against the people of the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事临到他们是因他们骄傲，自夸自大， 毁谤万军之耶和华的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事臨到他們是因他們驕傲，自誇自大， 毀謗萬軍之耶和華的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD will be awesome to them, for he will famish all the gods of the land. Men will worship him, everyone from his place, even all the shores of the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必向他们显可畏之威， 因他必叫世上的诸神瘦弱。 列国海岛的居民各在自己的地方敬拜他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必向他們顯可畏之威， 因他必叫世上的諸神瘦弱。 列國海島的居民各在自己的地方敬拜他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You Cushites also, you will be killed by my sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "古实人哪，你们必被我的刀所杀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "古實人哪，你們必被我的刀所殺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He will stretch out his hand against the north, destroy Assyria, and will make Nineveh a desolation, as dry as the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必伸手攻击北方，毁灭亚述， 使尼尼微荒凉，又干旱如旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必伸手攻擊北方，毀滅亞述， 使尼尼微荒涼，又乾旱如曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Herds will lie down in the middle of her, all kinds of animals. Both the pelican and the porcupine will lodge in its capitals. Their calls will echo through the windows. Desolation will be in the thresholds, for he has laid bare the cedar beams.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "群畜，就是各国的走兽必卧在其中； 鹈鹕和箭猪要宿在柱顶上。 在窗户内有鸣叫的声音； 门槛都必毁坏， 香柏木已经露出。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:14 国：或译类"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "群畜，就是各國的走獸必臥在其中； 鵜鶘和箭豬要宿在柱頂上。 在窗戶內有鳴叫的聲音； 門檻都必毀壞， 香柏木已經露出。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:14 國：或譯類"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss and shake their fists.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是素来欢乐安然居住的城， 心里说：惟有我，除我以外再没有别的； 现在何竟荒凉成为野兽躺卧之处！ 凡经过的人都必摇手嗤笑她。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是素來歡樂安然居住的城， 心裏說：惟有我，除我以外再沒有別的； 現在何竟荒涼成為野獸躺臥之處！ 凡經過的人都必搖手嗤笑她。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

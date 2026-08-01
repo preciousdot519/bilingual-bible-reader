@@ -1,0 +1,541 @@
+{
+  "bookId": "EXO",
+  "chapter": 37,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Bezalel made the ark of acacia wood. Its length was two and a half cubits, and its width a cubit and a half, and a cubit and a half its height.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "37:1 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比撒列用皂荚木做柜，长二肘半，宽一肘半，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比撒列用皂莢木做櫃，長二肘半，寬一肘半，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He overlaid it with pure gold inside and outside, and made a molding of gold for it around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "里外包上精金，四围镶上金牙边，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "裏外包上精金，四圍鑲上金牙邊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He cast four rings of gold for it in its four feet—two rings on its one side, and two rings on its other side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又铸四个金环，安在柜的四脚上：这边两环，那边两环。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又鑄四個金環，安在櫃的四腳上：這邊兩環，那邊兩環。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He made poles of acacia wood and overlaid them with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用皂荚木做两根杠，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用皂莢木做兩根槓，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He put the poles into the rings on the sides of the ark, to bear the ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把杠穿在柜旁的环内，以便抬柜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把槓穿在櫃旁的環內，以便抬櫃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He made a mercy seat of pure gold. Its length was two and a half cubits, and a cubit and a half its width.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用精金做施恩座，长二肘半，宽一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用精金做施恩座，長二肘半，寬一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He made two cherubim of gold. He made them of beaten work, at the two ends of the mercy seat:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用金子锤出两个基路伯来，安在施恩座的两头，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用金子錘出兩個基路伯來，安在施恩座的兩頭，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "one cherub at the one end, and one cherub at the other end. He made the cherubim of one piece with the mercy seat at its two ends.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这头做一个基路伯，那头做一个基路伯，二基路伯接连一块，在施恩座的两头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這頭做一個基路伯，那頭做一個基路伯，二基路伯接連一塊，在施恩座的兩頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The cherubim spread out their wings above, covering the mercy seat with their wings, with their faces toward one another. The faces of the cherubim were toward the mercy seat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二基路伯高张翅膀，遮掩施恩座；基路伯是脸对脸，朝着施恩座。 （出25·23—30）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二基路伯高張翅膀，遮掩施恩座；基路伯是臉對臉，朝着施恩座。 （出25‧23－30）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He made the table of acacia wood. Its length was two cubits, and its width was a cubit, and its height was a cubit and a half.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做一张桌子，长二肘，宽一肘，高一肘半，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做一張桌子，長二肘，寬一肘，高一肘半，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He overlaid it with pure gold, and made a gold molding around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又包上精金，四围镶上金牙边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又包上精金，四圍鑲上金牙邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He made a border of a hand’s width around it, and made a golden molding on its border around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "桌子的四围各做一掌宽的横梁，横梁上镶着金牙边，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "桌子的四圍各做一掌寬的橫樑，橫樑上鑲着金牙邊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He cast four rings of gold for it, and put the rings in the four corners that were on its four feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又铸了四个金环，安在桌子四脚的四角上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又鑄了四個金環，安在桌子四腳的四角上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The rings were close by the border, the places for the poles to carry the table.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "安环子的地方是挨近横梁，可以穿杠抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "安環子的地方是挨近橫梁，可以穿槓抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He made the poles of acacia wood, and overlaid them with gold, to carry the table.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做两根杠，用金包裹，以便抬桌子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做兩根槓，用金包裹，以便抬桌子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He made the vessels which were on the table, its dishes, its spoons, its bowls, and its pitchers with which to pour out, of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用精金做桌子上的器皿，就是盘子、调羹，并奠酒的瓶和爵。 （出25·31—40）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用精金做桌子上的器皿，就是盤子、調羹，並奠酒的瓶和爵。 （出25‧31－40）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He made the lamp stand of pure gold. He made the lamp stand of beaten work. Its base, its shaft, its cups, its buds, and its flowers were of one piece with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用精金做一个灯台；这灯台的座和干，与杯、球、花，都是接连一块锤出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用精金做一個燈臺；這燈臺的座和幹，與杯、球、花，都是接連一塊錘出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "There were six branches going out of its sides: three branches of the lamp stand out of its one side, and three branches of the lamp stand out of its other side:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台两旁杈出六个枝子：这旁三个，那旁三个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺兩旁杈出六個枝子：這旁三個，那旁三個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "three cups made like almond blossoms in one branch, a bud and a flower, and three cups made like almond blossoms in the other branch, a bud and a flower; so for the six branches going out of the lamp stand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这旁每枝上有三个杯，形状像杏花，有球有花；那旁每枝上也有三个杯，形状像杏花，有球有花。从灯台杈出来的六个枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這旁每枝上有三個杯，形狀像杏花，有球有花；那旁每枝上也有三個杯，形狀像杏花，有球有花。從燈臺杈出來的六個枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "In the lamp stand were four cups made like almond blossoms, its buds and its flowers;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台上有四个杯，形状像杏花，有球有花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺上有四個杯，形狀像杏花，有球有花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, for the six branches going out of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台每两个枝子以下有球，与枝子接连一块；灯台杈出的六个枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺每兩個枝子以下有球，與枝子接連一塊；燈臺杈出的六個枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Their buds and their branches were of one piece with it. The whole thing was one beaten work of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "球和枝子是接连一块，都是一块精金锤出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "球和枝子是接連一塊，都是一塊精金錘出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He made its seven lamps, and its snuffers, and its snuff dishes, of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用精金做灯台的七个灯盏，并灯台的蜡剪和蜡花盘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用精金做燈臺的七個燈盞，並燈臺的蠟剪和蠟花盤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He made it of a talent of pure gold, with all its vessels.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "37:24 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用精金一他连得做灯台和灯台的一切器具。 （出30·1—5）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用精金一他連得做燈臺和燈臺的一切器具。 （出30‧1－5）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He made the altar of incense of acacia wood. It was square: its length was a cubit, and its width a cubit. Its height was two cubits. Its horns were of one piece with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做香坛，是四方的，长一肘，宽一肘，高二肘，坛的四角与坛接连一块；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做香壇，是四方的，長一肘，寬一肘，高二肘，壇的四角與壇接連一塊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He overlaid it with pure gold: its top, its sides around it, and its horns. He made a gold molding around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用精金把坛的上面与坛的四面并坛的四角包裹，又在坛的四围镶上金牙边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用精金把壇的上面與壇的四面並壇的四角包裹，又在壇的四圍鑲上金牙邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He made two golden rings for it under its molding crown, on its two ribs, on its two sides, for places for poles with which to carry it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "做两个金环，安在牙子边以下，在坛的两旁、两根横撑上，作为穿杠的用处，以便抬坛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "做兩個金環，安在牙子邊以下，在壇的兩旁、兩根橫撐上，作為穿槓的用處，以便抬壇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He made the poles of acacia wood, and overlaid them with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用皂荚木做杠，用金包裹。 （出30·22—38）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用皂莢木做槓，用金包裹。 （出30‧22－38）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He made the holy anointing oil and the pure incense of sweet spices, after the art of the perfumer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又按做香之法做圣膏油和馨香料的净香。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又按做香之法做聖膏油和馨香料的淨香。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

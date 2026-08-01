@@ -1,0 +1,288 @@
+{
+  "bookId": "AMO",
+  "chapter": 8,
+  "bookEnglish": "Amos",
+  "bookChineseSimplified": "阿摩司书",
+  "bookChineseTraditional": "阿摩司書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Thus the Lord GOD showed me: behold, a basket of summer fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华又指示我一件事：我看见一筐夏天的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華又指示我一件事：我看見一筐夏天的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said, “Amos, what do you see?” I said, “A basket of summer fruit.” Then the LORD said to me, “The end has come on my people Israel. I will not again pass by them any more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「阿摩司啊，你看见什么？」我说：「看见一筐夏天的果子。」耶和华说：「我民以色列的结局到了，我必不再宽恕他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「阿摩司啊，你看見甚麼？」我說：「看見一筐夏天的果子。」耶和華說：「我民以色列的結局到了，我必不再寬恕他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The songs of the temple will be wailing in that day,” says the Lord GOD. “The dead bodies will be many. In every place they will throw them out with silence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华说：「那日，殿中的诗歌变为哀号；必有许多尸首在各处抛弃，无人作声。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華說：「那日，殿中的詩歌變為哀號；必有許多屍首在各處拋棄，無人作聲。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Hear this, you who desire to swallow up the needy, and cause the poor of the land to fail,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这些要吞吃穷乏人、 使困苦人衰败的，当听我的话！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這些要吞吃窮乏人、 使困苦人衰敗的，當聽我的話！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "saying, ‘When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah small, and the shekellarge, and dealing falsely with balances of deceit;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:5 1 ephah is about 22 liters or about 2/3 of a bushel"
+          },
+          {
+            "id": "f2",
+            "text": "8:5 a normal shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们说：月朔几时过去， 我们好卖粮； 安息日几时过去， 我们好摆开麦子； 卖出用小升斗， 收银用大戥子， 用诡诈的天平欺哄人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們說：月朔幾時過去， 我們好賣糧； 安息日幾時過去， 我們好擺開麥子； 賣出用小升斗， 收銀用大戥子， 用詭詐的天平欺哄人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "that we may buy the poor for silver, and the needy for a pair of sandals, and sell the sweepings with the wheat?’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好用银子买贫寒人， 用一双鞋换穷乏人， 将坏了的麦子卖给人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好用銀子買貧寒人， 用一雙鞋換窮乏人， 將壞了的麥子賣給人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD has sworn by the pride of Jacob, “Surely I will never forget any of their works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华指着雅各的荣耀起誓说： 他们的一切行为，我必永远不忘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華指着雅各的榮耀起誓說： 他們的一切行為，我必永遠不忘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Won’t the land tremble for this, and everyone mourn who dwells in it? Yes, it will rise up wholly like the River; and it will be stirred up and sink again, like the River of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地岂不因这事震动？ 其上的居民不也悲哀吗？ 地必全然像尼罗河涨起， 如同埃及河涌上落下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地豈不因這事震動？ 其上的居民不也悲哀嗎？ 地必全然像尼羅河漲起， 如同埃及河湧上落下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "It will happen in that day,” says the Lord GOD, “that I will cause the sun to go down at noon, and I will darken the earth in the clear day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华说：到那日， 我必使日头在午间落下， 使地在白昼黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華說：到那日， 我必使日頭在午間落下， 使地在白晝黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I will turn your feasts into mourning, and all your songs into lamentation; and I will make you wear sackcloth on all your bodies, and baldness on every head. I will make it like the mourning for an only son, and its end like a bitter day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必使你们的节期变为悲哀， 歌曲变为哀歌。 众人腰束麻布，头上光秃， 使这场悲哀如丧独生子， 至终如痛苦的日子一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必使你們的節期變為悲哀， 歌曲變為哀歌。 眾人腰束麻布，頭上光禿， 使這場悲哀如喪獨生子， 至終如痛苦的日子一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Behold, the days come,” says the Lord GOD, “that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the LORD’s words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华说：日子将到， 我必命饥荒降在地上。 人饥饿非因无饼，干渴非因无水， 乃因不听耶和华的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華說：日子將到， 我必命饑荒降在地上。 人飢餓非因無餅，乾渴非因無水， 乃因不聽耶和華的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They will wander from sea to sea, and from the north even to the east; they will run back and forth to seek the LORD’s word, and will not find it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必飘流，从这海到那海， 从北边到东边，往来奔跑， 寻求耶和华的话，却寻不着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必飄流，從這海到那海， 從北邊到東邊，往來奔跑， 尋求耶和華的話，卻尋不着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "In that day the beautiful virgins and the young men will faint for thirst.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，美貌的处女 和少年的男子必因干渴发昏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，美貌的處女 和少年的男子必因乾渴發昏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Those who swear by the sin of Samaria, and say, ‘As your god, Dan, lives,’ and, ‘As the way of Beersheba lives,’ they will fall, and never rise up again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那指着撒马利亚牛犊起誓的说： 但哪，我们指着你那里的活神起誓； 又说：我们指着别是巴的神道起誓。 这些人都必仆倒，永不再起来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:14 原文是罪"
+          },
+          {
+            "id": "f2",
+            "text": "- 8:14 神：原文是活"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那指着撒馬利亞牛犢起誓的說： 但哪，我們指着你那裏的活神起誓； 又說：我們指着別是巴的神道起誓。 這些人都必仆倒，永不再起來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:14 原文是罪"
+          },
+          {
+            "id": "f2",
+            "text": "- 8:14 神：原文是活"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

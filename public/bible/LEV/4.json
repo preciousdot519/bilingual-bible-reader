@@ -1,0 +1,639 @@
+{
+  "bookId": "LEV",
+  "chapter": 4,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to the children of Israel, saying, ‘If anyone sins unintentionally, in any of the things which the LORD has commanded not to be done, and does any one of them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你晓谕以色列人说：若有人在耶和华所吩咐不可行的什么事上误犯了一件，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曉諭以色列人說：若有人在耶和華所吩咐不可行的甚麼事上誤犯了一件，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to the LORD for a sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或是受膏的祭司犯罪，使百姓陷在罪里，就当为他所犯的罪把没有残疾的公牛犊献给耶和华为赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或是受膏的祭司犯罪，使百姓陷在罪裏，就當為他所犯的罪把沒有殘疾的公牛犢獻給耶和華為贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He shall bring the bull to the door of the Tent of Meeting before the LORD; and he shall lay his hand on the head of the bull, and kill the bull before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要牵公牛到会幕门口，在耶和华面前按手在牛的头上，把牛宰于耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要牽公牛到會幕門口，在耶和華面前按手在牛的頭上，把牛宰於耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The anointed priest shall take some of the blood of the bull, and bring it to the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "受膏的祭司要取些公牛的血带到会幕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "受膏的祭司要取些公牛的血帶到會幕，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The priest shall dip his finger in the blood, and sprinkle some of the blood seven times before the LORD, before the veil of the sanctuary.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把指头蘸于血中，在耶和华面前对着圣所的幔子弹血七次，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把指頭蘸於血中，在耶和華面前對着聖所的幔子彈血七次，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The priest shall put some of the blood on the horns of the altar of sweet incense before the LORD, which is in the Tent of Meeting; and he shall pour out the rest of the blood of the bull at the base of the altar of burnt offering, which is at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把些血抹在会幕内、耶和华面前香坛的四角上，再把公牛所有的血倒在会幕门口、燔祭坛的脚那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把些血抹在會幕內、耶和華面前香壇的四角上，再把公牛所有的血倒在會幕門口、燔祭壇的腳那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He shall take all the fat of the bull of the sin offering from it: the fat that covers the innards, and all the fat that is on the innards,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把赎罪祭公牛所有的脂油，乃是盖脏的脂油和脏上所有的脂油，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把贖罪祭公牛所有的脂油，乃是蓋臟的脂油和臟上所有的脂油，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall remove,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并两个腰子和腰子上的脂油，就是靠腰两旁的脂油，与肝上的网子和腰子，一概取下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並兩個腰子和腰子上的脂油，就是靠腰兩旁的脂油，與肝上的網子和腰子，一概取下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "as it is removed from the bull of the sacrifice of peace offerings. The priest shall burn them on the altar of burnt offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与平安祭公牛上所取的一样；祭司要把这些烧在燔祭的坛上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與平安祭公牛上所取的一樣；祭司要把這些燒在燔祭的壇上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He shall carry the bull’s skin, all its meat, with its head, and with its legs, its innards, and its dung",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "公牛的皮和所有的肉，并头、腿、脏、腑、粪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "公牛的皮和所有的肉，並頭、腿、臟、腑、糞，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "—all the rest of the bull—outside of the camp to a clean place where the ashes are poured out, and burn it on wood with fire. It shall be burned where the ashes are poured out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是全公牛，要搬到营外洁净之地、倒灰之所，用火烧在柴上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是全公牛，要搬到營外潔淨之地、倒灰之所，用火燒在柴上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘If the whole congregation of Israel sins, and the thing is hidden from the eyes of the assembly, and they have done any of the things which the LORD has commanded not to be done, and are guilty;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「以色列全会众若行了耶和华所吩咐不可行的什么事，误犯了罪，是隐而未现、会众看不出来的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「以色列全會眾若行了耶和華所吩咐不可行的甚麼事，誤犯了罪，是隱而未現、會眾看不出來的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "when the sin in which they have sinned is known, then the assembly shall offer a young bull for a sin offering, and bring it before the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会众一知道所犯的罪就要献一只公牛犊为赎罪祭，牵到会幕前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會眾一知道所犯的罪就要獻一隻公牛犢為贖罪祭，牽到會幕前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The elders of the congregation shall lay their hands on the head of the bull before the LORD; and the bull shall be killed before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会中的长老就要在耶和华面前按手在牛的头上，将牛在耶和华面前宰了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會中的長老就要在耶和華面前按手在牛的頭上，將牛在耶和華面前宰了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The anointed priest shall bring some of the blood of the bull to the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "受膏的祭司要取些公牛的血带到会幕，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "受膏的祭司要取些公牛的血帶到會幕，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The priest shall dip his finger in the blood and sprinkle it seven times before the LORD, before the veil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把指头蘸于血中，在耶和华面前对着幔子弹血七次，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把指頭蘸於血中，在耶和華面前對着幔子彈血七次，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He shall put some of the blood on the horns of the altar which is before the LORD, that is in the Tent of Meeting; and the rest of the blood he shall pour out at the base of the altar of burnt offering, which is at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把些血抹在会幕内、耶和华面前坛的四角上，再把所有的血倒在会幕门口、燔祭坛的脚那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把些血抹在會幕內、耶和華面前壇的四角上，再把所有的血倒在會幕門口、燔祭壇的腳那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "All its fat he shall take from it, and burn it on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把牛所有的脂油都取下，烧在坛上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把牛所有的脂油都取下，燒在壇上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He shall do this with the bull; as he did with the bull of the sin offering, so he shall do with this; and the priest shall make atonement for them, and they shall be forgiven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "收拾这牛，与那赎罪祭的牛一样。祭司要为他们赎罪，他们必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "收拾這牛，與那贖罪祭的牛一樣。祭司要為他們贖罪，他們必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He shall carry the bull outside the camp, and burn it as he burned the first bull. It is the sin offering for the assembly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要把牛搬到营外烧了，像烧头一个牛一样；这是会众的赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要把牛搬到營外燒了，像燒頭一個牛一樣；這是會眾的贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“‘When a ruler sins, and unwittingly does any one of all the things which the LORD his God has commanded not to be done, and is guilty,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「官长若行了耶和华—他 神所吩咐不可行的什么事，误犯了罪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「官長若行了耶和華－他上帝所吩咐不可行的甚麼事，誤犯了罪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "if his sin in which he has sinned is made known to him, he shall bring as his offering a goat, a male without defect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所犯的罪自己知道了，就要牵一只没有残疾的公山羊为供物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所犯的罪自己知道了，就要牽一隻沒有殘疾的公山羊為供物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He shall lay his hand on the head of the goat, and kill it in the place where they kill the burnt offering before the LORD. It is a sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按手在羊的头上，宰于耶和华面前、宰燔祭牲的地方；这是赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按手在羊的頭上，宰於耶和華面前、宰燔祭牲的地方；這是贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering. He shall pour out the rest of its blood at the base of the altar of burnt offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要用指头蘸些赎罪祭牲的血，抹在燔祭坛的四角上，把血倒在燔祭坛的脚那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要用指頭蘸些贖罪祭牲的血，抹在燔祭壇的四角上，把血倒在燔祭壇的腳那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "All its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; and the priest shall make atonement for him concerning his sin, and he will be forgiven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所有的脂油，祭司都要烧在坛上，正如平安祭的脂油一样。至于他的罪，祭司要为他赎了，他必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有的脂油，祭司都要燒在壇上，正如平安祭的脂油一樣。至於他的罪，祭司要為他贖了，他必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“‘If anyone of the common people sins unwittingly, in doing any of the things which the LORD has commanded not to be done, and is guilty,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「民中若有人行了耶和华所吩咐不可行的什么事，误犯了罪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「民中若有人行了耶和華所吩咐不可行的甚麼事，誤犯了罪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "if his sin which he has sinned is made known to him, then he shall bring for his offering a goat, a female without defect, for his sin which he has sinned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所犯的罪自己知道了，就要为所犯的罪牵一只没有残疾的母山羊为供物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所犯的罪自己知道了，就要為所犯的罪牽一隻沒有殘疾的母山羊為供物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He shall lay his hand on the head of the sin offering, and kill the sin offering in the place of burnt offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按手在赎罪祭牲的头上，在那宰燔祭牲的地方宰了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按手在贖罪祭牲的頭上，在那宰燔祭牲的地方宰了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The priest shall take some of its blood with his finger, and put it on the horns of the altar of burnt offering; and the rest of its blood he shall pour out at the base of the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要用指头蘸些羊的血，抹在燔祭坛的四角上，所有的血都要倒在坛的脚那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要用指頭蘸些羊的血，抹在燔祭壇的四角上，所有的血都要倒在壇的腳那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "All its fat he shall take away, like the fat is taken away from the sacrifice of peace offerings; and the priest shall burn it on the altar for a pleasant aroma to the LORD; and the priest shall make atonement for him, and he will be forgiven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把羊所有的脂油都取下，正如取平安祭牲的脂油一样。祭司要在坛上焚烧，在耶和华面前作为馨香的祭，为他赎罪，他必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把羊所有的脂油都取下，正如取平安祭牲的脂油一樣。祭司要在壇上焚燒，在耶和華面前作為馨香的祭，為他贖罪，他必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“‘If he brings a lamb as his offering for a sin offering, he shall bring a female without defect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若牵一只绵羊羔为赎罪祭的供物，必要牵一只没有残疾的母羊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若牽一隻綿羊羔為贖罪祭的供物，必要牽一隻沒有殘疾的母羊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He shall lay his hand on the head of the sin offering, and kill it for a sin offering in the place where they kill the burnt offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按手在赎罪祭牲的头上，在那宰燔祭牲的地方宰了作赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按手在贖罪祭牲的頭上，在那宰燔祭牲的地方宰了作贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering; and all the rest of its blood he shall pour out at the base of the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要用指头蘸些赎罪祭牲的血，抹在燔祭坛的四角上，所有的血都要倒在坛的脚那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要用指頭蘸些贖罪祭牲的血，抹在燔祭壇的四角上，所有的血都要倒在壇的腳那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He shall remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest shall burn them on the altar, on the offerings of the LORD made by fire. The priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把所有的脂油都取下，正如取平安祭羊羔的脂油一样。祭司要按献给耶和华火祭的条例，烧在坛上。至于所犯的罪，祭司要为他赎了，他必蒙赦免。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把所有的脂油都取下，正如取平安祭羊羔的脂油一樣。祭司要按獻給耶和華火祭的條例，燒在壇上。至於所犯的罪，祭司要為他贖了，他必蒙赦免。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

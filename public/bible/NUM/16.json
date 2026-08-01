@@ -1,0 +1,919 @@
+{
+  "bookId": "NUM",
+  "chapter": 16,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未的曾孙、哥辖的孙子、以斯哈的儿子可拉，和吕便子孙中以利押的儿子大坍、亚比兰，与比勒的儿子安，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未的曾孫、哥轄的孫子、以斯哈的兒子可拉，和呂便子孫中以利押的兒子大坍、亞比蘭，與比勒的兒子安，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并以色列会中的二百五十个首领，就是有名望选入会中的人，在摩西面前一同起来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並以色列會中的二百五十個首領，就是有名望選入會中的人，在摩西面前一同起來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and the LORD is among them! Why do you lift yourselves up above the LORD’s assembly?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "聚集攻击摩西、亚伦，说：「你们擅自专权！全会众个个既是圣洁，耶和华也在他们中间，你们为什么自高，超过耶和华的会众呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聚集攻擊摩西、亞倫，說：「你們擅自專權！全會眾個個既是聖潔，耶和華也在他們中間，你們為甚麼自高，超過耶和華的會眾呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When Moses heard it, he fell on his face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西听见这话就俯伏在地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西聽見這話就俯伏在地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said to Korah and to all his company, “In the morning, the LORD will show who are his, and who is holy, and will cause him to come near to him. Even him whom he shall choose, he will cause to come near to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对可拉和他一党的人说：「到了早晨，耶和华必指示谁是属他的，谁是圣洁的，就叫谁亲近他；他所拣选的是谁，必叫谁亲近他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對可拉和他一黨的人說：「到了早晨，耶和華必指示誰是屬他的，誰是聖潔的，就叫誰親近他；他所揀選的是誰，必叫誰親近他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Do this: have Korah and all his company take censers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可拉啊，你们要这样行，你和你的一党要拿香炉来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可拉啊，你們要這樣行，你和你的一黨要拿香爐來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "put fire in them, and put incense on them before the LORD tomorrow. It shall be that the man whom the LORD chooses, he shall be holy. You have gone too far, you sons of Levi!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "明日，在耶和华面前，把火盛在炉中，把香放在其上。耶和华拣选谁，谁就为圣洁。你们这利未的子孙擅自专权了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "明日，在耶和華面前，把火盛在爐中，把香放在其上。耶和華揀選誰，誰就為聖潔。你們這利未的子孫擅自專權了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Moses said to Korah, “Hear now, you sons of Levi!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西又对可拉说：「利未的子孙哪，你们听我说！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西又對可拉說：「利未的子孫哪，你們聽我說！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Is it a small thing to you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of the LORD’s tabernacle, and to stand before the congregation to minister to them;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的 神从以色列会中将你们分别出来，使你们亲近他，办耶和华帐幕的事，并站在会众面前替他们当差。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的上帝從以色列會中將你們分別出來，使你們親近他，辦耶和華帳幕的事，並站在會眾面前替他們當差。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and that he has brought you near, and all your brothers the sons of Levi with you? Do you seek the priesthood also?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又使你和你一切弟兄—利未的子孙—一同亲近他，这岂为小事？你们还要求祭司的职任吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又使你和你一切弟兄－利未的子孫－一同親近他，這豈為小事？你們還要求祭司的職任嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therefore you and all your company have gathered together against the LORD! What is Aaron that you complain against him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你和你一党的人聚集是要攻击耶和华。亚伦算什么，你们竟向他发怨言呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你和你一黨的人聚集是要攻擊耶和華。亞倫算甚麼，你們竟向他發怨言呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, “We won’t come up!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西打发人去召以利押的儿子大坍、亚比兰。他们说：「我们不上去！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西打發人去召以利押的兒子大坍、亞比蘭。他們說：「我們不上去！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a prince over us?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你将我们从流奶与蜜之地领上来，要在旷野杀我们，这岂为小事？你还要自立为王辖管我们吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你將我們從流奶與蜜之地領上來，要在曠野殺我們，這豈為小事？你還要自立為王轄管我們嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Moreover you haven’t brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won’t come up.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你没有将我们领到流奶与蜜之地，也没有把田地和葡萄园给我们为业。难道你要剜这些人的眼睛吗？我们不上去！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你沒有將我們領到流奶與蜜之地，也沒有把田地和葡萄園給我們為業。難道你要剜這些人的眼睛嗎？我們不上去！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moses was very angry, and said to the LORD, “Don’t respect their offering. I have not taken one donkey from them, neither have I hurt one of them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西就甚发怒，对耶和华说：「求你不要享受他们的供物。我并没有夺过他们一匹驴，也没有害过他们一个人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西就甚發怒，對耶和華說：「求你不要享受他們的供物。我並沒有奪過他們一匹驢，也沒有害過他們一個人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Moses said to Korah, “You and all your company go before the LORD, you, and they, and Aaron, tomorrow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对可拉说：「明天，你和你一党的人，并亚伦，都要站在耶和华面前；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對可拉說：「明天，你和你一黨的人，並亞倫，都要站在耶和華面前；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Each man take his censer and put incense on it, and each man bring before the LORD his censer, two hundred fifty censers; you also, and Aaron, each with his censer.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各人要拿一个香炉，共二百五十个，把香放在上面，到耶和华面前。你和亚伦也各拿自己的香炉。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各人要拿一個香爐，共二百五十個，把香放在上面，到耶和華面前。你和亞倫也各拿自己的香爐。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They each took his censer, and put fire in it, and laid incense on it, and stood at the door of the Tent of Meeting with Moses and Aaron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们各人拿一个香炉，盛上火，加上香，同摩西、亚伦站在会幕门前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們各人拿一個香爐，盛上火，加上香，同摩西、亞倫站在會幕門前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Korah assembled all the congregation opposite them to the door of the Tent of Meeting. The LORD’s glory appeared to all the congregation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可拉招聚全会众到会幕门前，要攻击摩西、亚伦；耶和华的荣光就向全会众显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可拉招聚全會眾到會幕門前，要攻擊摩西、亞倫；耶和華的榮光就向全會眾顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The LORD spoke to Moses and to Aaron, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西、亚伦说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西、亞倫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Separate yourselves from among this congregation, that I may consume them in a moment!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们离开这会众，我好在转眼之间把他们灭绝。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們離開這會眾，我好在轉眼之間把他們滅絕。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They fell on their faces, and said, “God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西、亚伦就俯伏在地，说：「 神，万人之灵的 神啊，一人犯罪，你就要向全会众发怒吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西、亞倫就俯伏在地，說：「上帝，萬人之靈的上帝啊，一人犯罪，你就要向全會眾發怒嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Speak to the congregation, saying, ‘Get away from around the tent of Korah, Dathan, and Abiram!’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你吩咐会众说：『你们离开可拉、大坍、亚比兰帐棚的四围。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你吩咐會眾說：『你們離開可拉、大坍、亞比蘭帳棚的四圍。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西起来，往大坍、亚比兰那里去；以色列的长老也随着他去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西起來，往大坍、亞比蘭那裏去；以色列的長老也隨着他去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He spoke to the congregation, saying, “Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their sins!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他吩咐会众说：「你们离开这恶人的帐棚吧，他们的物件，什么都不可摸，恐怕你们陷在他们的罪中，与他们一同消灭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他吩咐會眾說：「你們離開這惡人的帳棚吧，他們的物件，甚麼都不可摸，恐怕你們陷在他們的罪中，與他們一同消滅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "So they went away from the tent of Korah, Dathan, and Abiram, on every side. Dathan and Abiram came out, and stood at the door of their tents with their wives, their sons, and their little ones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是众人离开可拉、大坍、亚比兰帐棚的四围。大坍、亚比兰带着妻子、儿女、小孩子，都出来，站在自己的帐棚门口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是眾人離開可拉、大坍、亞比蘭帳棚的四圍。大坍、亞比蘭帶着妻子、兒女、小孩子，都出來，站在自己的帳棚門口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Moses said, “Hereby you shall know that the LORD has sent me to do all these works; for they are not from my own mind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西说：「我行的这一切事本不是凭我自己心意行的，乃是耶和华打发我行的，必有证据使你们知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西說：「我行的這一切事本不是憑我自己心意行的，乃是耶和華打發我行的，必有證據使你們知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "If these men die the common death of all men, or if they experience what all men experience, then the LORD hasn’t sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人死若与世人无异，或是他们所遭的与世人相同，就不是耶和华打发我来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人死若與世人無異，或是他們所遭的與世人相同，就不是耶和華打發我來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "But if the LORD makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you shall understand that these men have despised the LORD.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:30 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若耶和华创作一件新事，使地开口，把他们和一切属他们的都吞下去，叫他们活活地坠落阴间，你们就明白这些人是藐视耶和华了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若耶和華創作一件新事，使地開口，把他們和一切屬他們的都吞下去，叫他們活活地墜落陰間，你們就明白這些人是藐視耶和華了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "As he finished speaking all these words, the ground that was under them split apart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西刚说完了这一切话，他们脚下的地就开了口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西剛說完了這一切話，他們腳下的地就開了口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The earth opened its mouth and swallowed them up with their households, all of Korah’s men, and all their goods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把他们和他们的家眷，并一切属可拉的人丁、财物，都吞下去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把他們和他們的家眷，並一切屬可拉的人丁、財物，都吞下去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:33 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，他们和一切属他们的，都活活地坠落阴间；地口在他们上头照旧合闭，他们就从会中灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，他們和一切屬他們的，都活活地墜落陰間；地口在他們上頭照舊合閉，他們就從會中滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "All Israel that were around them fled at their cry; for they said, “Lest the earth swallow us up!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们四围的以色列众人听他们呼号，就都逃跑，说：「恐怕地也把我们吞下去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們四圍的以色列眾人聽他們呼號，就都逃跑，說：「恐怕地也把我們吞下去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Fire came out from the LORD, and devoured the two hundred fifty men who offered the incense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有火从耶和华那里出来，烧灭了那献香的二百五十个人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有火從耶和華那裏出來，燒滅了那獻香的二百五十個人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你吩咐祭司亚伦的儿子以利亚撒从火中捡起那些香炉来，把火撒在别处，因为那些香炉是圣的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你吩咐祭司亞倫的兒子以利亞撒從火中撿起那些香爐來，把火撒在別處，因為那些香爐是聖的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before the LORD. Therefore they are holy. They shall be a sign to the children of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把那些犯罪、自害己命之人的香炉，叫人锤成片子，用以包坛。那些香炉本是他们在耶和华面前献过的，所以是圣的，并且可以给以色列人作记号。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把那些犯罪、自害己命之人的香爐，叫人錘成片子，用以包壇。那些香爐本是他們在耶和華面前獻過的，所以是聖的，並且可以給以色列人作記號。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是祭司以利亚撒将被烧之人所献的铜香炉拿来，人就锤出来，用以包坛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是祭司以利亞撒將被燒之人所獻的銅香爐拿來，人就錘出來，用以包壇，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "to be a memorial to the children of Israel, to the end that no stranger who isn’t of the offspring of Aaron, would come near to burn incense before the LORD, that he not be as Korah and as his company; as the LORD spoke to him by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给以色列人作纪念，使亚伦后裔之外的人不得近前来在耶和华面前烧香，免得他遭可拉和他一党所遭的。这乃是照耶和华借着摩西所吩咐的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給以色列人作紀念，使亞倫後裔之外的人不得近前來在耶和華面前燒香，免得他遭可拉和他一黨所遭的。這乃是照耶和華藉着摩西所吩咐的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "But on the next day all the congregation of the children of Israel complained against Moses and against Aaron, saying, “You have killed the LORD’s people!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二天，以色列全会众都向摩西、亚伦发怨言说：「你们杀了耶和华的百姓了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二天，以色列全會眾都向摩西、亞倫發怨言說：「你們殺了耶和華的百姓了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and the LORD’s glory appeared.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会众聚集攻击摩西、亚伦的时候，向会幕观看，不料，有云彩遮盖了，耶和华的荣光显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會眾聚集攻擊摩西、亞倫的時候，向會幕觀看，不料，有雲彩遮蓋了，耶和華的榮光顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Moses and Aaron came to the front of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西、亚伦就来到会幕前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西、亞倫就來到會幕前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华吩咐摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華吩咐摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "“Get away from among this congregation, that I may consume them in a moment!” They fell on their faces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们离开这会众，我好在转眼之间把他们灭绝。」他们二人就俯伏于地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們離開這會眾，我好在轉眼之間把他們滅絕。」他們二人就俯伏於地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Moses said to Aaron, “Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the congregation, and make atonement for them; for wrath has gone out from the LORD! The plague has begun.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对亚伦说：「拿你的香炉，把坛上的火盛在其中，又加上香，快快带到会众那里，为他们赎罪；因为有忿怒从耶和华那里出来，瘟疫已经发作了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對亞倫說：「拿你的香爐，把壇上的火盛在其中，又加上香，快快帶到會眾那裏，為他們贖罪；因為有忿怒從耶和華那裏出來，瘟疫已經發作了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Aaron did as Moses said, and ran into the middle of the assembly. The plague had already begun among the people. He put on the incense, and made atonement for the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦照着摩西所说的拿来，跑到会中，不料，瘟疫在百姓中已经发作了。他就加上香，为百姓赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫照着摩西所說的拿來，跑到會中，不料，瘟疫在百姓中已經發作了。他就加上香，為百姓贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "He stood between the dead and the living; and the plague was stayed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他站在活人死人中间，瘟疫就止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他站在活人死人中間，瘟疫就止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Now those who died by the plague were fourteen thousand seven hundred, in addition to those who died about the matter of Korah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除了因可拉事情死的以外，遭瘟疫死的，共有一万四千七百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除了因可拉事情死的以外，遭瘟疫死的，共有一萬四千七百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Aaron returned to Moses to the door of the Tent of Meeting, and the plague was stopped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦回到会幕门口，到摩西那里，瘟疫已经止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫回到會幕門口，到摩西那裏，瘟疫已經止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

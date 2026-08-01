@@ -1,0 +1,595 @@
+{
+  "bookId": "PRO",
+  "chapter": 10,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The proverbs of Solomon. A wise son makes a glad father; but a foolish son brings grief to his mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门的箴言： 智慧之子使父亲欢乐； 愚昧之子叫母亲担忧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門的箴言： 智慧之子使父親歡樂； 愚昧之子叫母親擔憂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Treasures of wickedness profit nothing, but righteousness delivers from death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不义之财毫无益处； 惟有公义能救人脱离死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不義之財毫無益處； 惟有公義能救人脫離死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD will not allow the soul of the righteous to go hungry, but he thrusts away the desire of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华不使义人受饥饿； 恶人所欲的，他必推开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華不使義人受飢餓； 惡人所欲的，他必推開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He becomes poor who works with a lazy hand, but the hand of the diligent brings wealth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "手懒的，要受贫穷； 手勤的，却要富足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "手懶的，要受貧窮； 手勤的，卻要富足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He who gathers in summer is a wise son, but he who sleeps during the harvest is a son who causes shame.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夏天聚敛的，是智慧之子； 收割时沉睡的，是贻羞之子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "夏天聚斂的，是智慧之子； 收割時沉睡的，是貽羞之子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Blessings are on the head of the righteous, but violence covers the mouth of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "福祉临到义人的头； 强暴蒙蔽恶人的口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "福祉臨到義人的頭； 強暴蒙蔽惡人的口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The memory of the righteous is blessed, but the name of the wicked will rot.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的纪念被称赞； 恶人的名字必朽烂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的紀念被稱讚； 惡人的名字必朽爛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The wise in heart accept commandments, but a chattering fool will fall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心中智慧的，必受命令； 口里愚妄的，必致倾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心中智慧的，必受命令； 口裏愚妄的，必致傾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He who walks blamelessly walks surely, but he who perverts his ways will be found out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行正直路的，步步安稳； 走弯曲道的，必致败露。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行正直路的，步步安穩； 走彎曲道的，必致敗露。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "One who winks with the eye causes sorrow, but a chattering fool will fall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以眼传神的，使人忧患； 口里愚妄的，必致倾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以眼傳神的，使人憂患； 口裏愚妄的，必致傾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The mouth of the righteous is a spring of life, but violence covers the mouth of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的口是生命的泉源； 强暴蒙蔽恶人的口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的口是生命的泉源； 強暴蒙蔽惡人的口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Hatred stirs up strife, but love covers all wrongs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恨能挑启争端； 爱能遮掩一切过错。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恨能挑啟爭端； 愛能遮掩一切過錯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Wisdom is found on the lips of him who has discernment, but a rod is for the back of him who is void of understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "明哲人嘴里有智慧； 无知人背上受刑杖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "明哲人嘴裏有智慧； 無知人背上受刑杖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Wise men lay up knowledge, but the mouth of the foolish is near ruin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人积存知识； 愚妄人的口速致败坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人積存知識； 愚妄人的口速致敗壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The rich man’s wealth is his strong city. The destruction of the poor is their poverty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "富户的财物是他的坚城； 穷人的贫乏是他的败坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "富戶的財物是他的堅城； 窮人的貧乏是他的敗壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The labor of the righteous leads to life. The increase of the wicked leads to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的勤劳致生； 恶人的进项致死。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:16 死：原文是罪"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的勤勞致生； 惡人的進項致死。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:16 死：原文是罪"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He is in the way of life who heeds correction, but he who forsakes reproof leads others astray.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谨守训诲的，乃在生命的道上； 违弃责备的，便失迷了路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謹守訓誨的，乃在生命的道上； 違棄責備的，便失迷了路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He who hides hatred has lying lips. He who utters a slander is a fool.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "隐藏怨恨的，有说谎的嘴； 口出谗谤的，是愚妄的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隱藏怨恨的，有說謊的嘴； 口出讒謗的，是愚妄的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "多言多语难免有过； 禁止嘴唇是有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "多言多語難免有過； 禁止嘴唇是有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The tongue of the righteous is like choice silver. The heart of the wicked is of little worth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的舌乃似高银； 恶人的心所值无几。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的舌乃似高銀； 惡人的心所值無幾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The lips of the righteous feed many, but the foolish die for lack of understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的口教养多人； 愚昧人因无知而死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的口教養多人； 愚昧人因無知而死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The LORD’s blessing brings wealth, and he adds no trouble to it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华所赐的福使人富足， 并不加上忧虑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華所賜的福使人富足， 並不加上憂慮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "It is a fool’s pleasure to do wickedness, but wisdom is a man of understanding’s pleasure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚妄人以行恶为戏耍； 明哲人却以智慧为乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚妄人以行惡為戲耍； 明哲人卻以智慧為樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "What the wicked fear will overtake them, but the desire of the righteous will be granted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人所怕的，必临到他； 义人所愿的，必蒙应允。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人所怕的，必臨到他； 義人所願的，必蒙應允。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When the whirlwind passes, the wicked is no more; but the righteous stand firm forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暴风一过，恶人归于无有； 义人的根基却是永久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暴風一過，惡人歸於無有； 義人的根基卻是永久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to those who send him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人叫差他的人 如醋倒牙，如烟薰目。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人叫差他的人 如醋倒牙，如煙薰目。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The fear of the LORD prolongs days, but the years of the wicked shall be shortened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敬畏耶和华使人日子加多； 但恶人的年岁必被减少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敬畏耶和華使人日子加多； 但惡人的年歲必被減少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The prospect of the righteous is joy, but the hope of the wicked will perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的盼望必得喜乐； 恶人的指望必致灭没。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的盼望必得喜樂； 惡人的指望必致滅沒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The way of the LORD is a stronghold to the upright, but it is a destruction to the workers of iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的道是正直人的保障， 却成了作孽人的败坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的道是正直人的保障， 卻成了作孽人的敗壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The righteous will never be removed, but the wicked will not dwell in the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人永不挪移； 恶人不得住在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人永不挪移； 惡人不得住在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The mouth of the righteous produces wisdom, but the perverse tongue will be cut off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的口滋生智慧； 乖谬的舌必被割断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的口滋生智慧； 乖謬的舌必被割斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The lips of the righteous know what is acceptable, but the mouth of the wicked is perverse.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的嘴能令人喜悦； 恶人的口说乖谬的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的嘴能令人喜悅； 惡人的口說乖謬的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

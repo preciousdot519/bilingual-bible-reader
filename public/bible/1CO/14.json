@@ -1,0 +1,756 @@
+{
+  "bookId": "1CO",
+  "chapter": 14,
+  "bookEnglish": "1 Corinthians",
+  "bookChineseSimplified": "哥林多前书",
+  "bookChineseTraditional": "哥林多前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要追求爱，也要切慕属灵的恩赐，其中更要羡慕的，是作先知讲道。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 14:1 原文作：是说预言；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要追求愛，也要切慕屬靈的恩賜，其中更要羨慕的，是作先知講道。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 14:1 原文作：是說預言；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For he who speaks in another language speaks not to men, but to God, for no one understands, but in the Spirit he speaks mysteries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那说方言的，原不是对人说，乃是对 神说，因为没有人听出来。然而，他在心灵里却是讲说各样的奥秘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那說方言的，原不是對人說，乃是對上帝說，因為沒有人聽出來。然而，他在心靈裏卻是講說各樣的奧祕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But he who prophesies speaks to men for their edification, exhortation, and consolation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但作先知讲道的，是对人说，要造就、安慰、劝勉人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但作先知講道的，是對人說，要造就、安慰、勸勉人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He who speaks in another language edifies himself, but he who prophesies edifies the assembly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说方言的，是造就自己；作先知讲道的，乃是造就教会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說方言的，是造就自己；作先知講道的，乃是造就教會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Now I desire to have you all speak with other languages, but even more that you would prophesy. For he is greater who prophesies than he who speaks with other languages, unless he interprets, that the assembly may be built up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我愿意你们都说方言，更愿意你们作先知讲道；因为说方言的，若不翻出来，使教会被造就，那作先知讲道的，就比他强了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我願意你們都說方言，更願意你們作先知講道；因為說方言的，若不翻出來，使教會被造就，那作先知講道的，就比他強了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But now, brothers, if I come to you speaking with other languages, what would I profit you unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching?",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:6 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我到你们那里去，若只说方言，不用启示，或知识，或预言，或教训，给你们讲解，我与你们有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我到你們那裏去，若只說方言，不用啟示，或知識，或預言，或教訓，給你們講解，我與你們有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Even lifeless things that make a sound, whether pipe or harp, if they didn’t give a distinction in the sounds, how would it be known what is piped or harped?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是那有声无气的物，或箫，或琴，若发出来的声音没有分别，怎能知道所吹所弹的是什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是那有聲無氣的物，或簫，或琴，若發出來的聲音沒有分別，怎能知道所吹所彈的是甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For if the trumpet gave an uncertain sound, who would prepare himself for war?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若吹无定的号声，谁能预备打仗呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若吹無定的號聲，誰能預備打仗呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So also you, unless you uttered by the tongue words easy to understand, how would it be known what is spoken? For you would be speaking into the air.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也是如此。舌头若不说容易明白的话，怎能知道所说的是什么呢？这就是向空说话了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也是如此。舌頭若不說容易明白的話，怎能知道所說的是甚麼呢？這就是向空說話了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "There are, it may be, so many kinds of languages in the world, and none of them is without meaning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "世上的声音，或者甚多，却没有一样是无意思的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "世上的聲音，或者甚多，卻沒有一樣是無意思的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "If then I don’t know the meaning of the language, I would be to him who speaks a foreigner, and he who speaks would be a foreigner to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若不明白那声音的意思，这说话的人必以我为化外之人，我也以他为化外之人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若不明白那聲音的意思，這說話的人必以我為化外之人，我也以他為化外之人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So also you, since you are zealous for spiritual gifts, seek that you may abound to the building up of the assembly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也是如此，既是切慕属灵的恩赐，就当求多得造就教会的恩赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也是如此，既是切慕屬靈的恩賜，就當求多得造就教會的恩賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Therefore let him who speaks in another language pray that he may interpret.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以那说方言的，就当求着能翻出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以那說方言的，就當求着能翻出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For if I pray in another language, my spirit prays, but my understanding is unfruitful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若用方言祷告，是我的灵祷告，但我的悟性没有果效。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若用方言禱告，是我的靈禱告，但我的悟性沒有果效。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "What should I do? I will pray with the spirit, and I will pray with the understanding also. I will sing with the spirit, and I will sing with the understanding also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这却怎么样呢？我要用灵祷告，也要用悟性祷告；我要用灵歌唱，也要用悟性歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這卻怎麼樣呢？我要用靈禱告，也要用悟性禱告；我要用靈歌唱，也要用悟性歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Otherwise, if you bless with the spirit, how will he who fills the place of the unlearned say the “Amen” at your giving of thanks, seeing he doesn’t know what you say?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不然，你用灵祝谢，那在座不通方言的人，既然不明白你的话，怎能在你感谢的时候说「阿们」呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不然，你用靈祝謝，那在座不通方言的人，既然不明白你的話，怎能在你感謝的時候說「阿們」呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For you most certainly give thanks well, but the other person is not built up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你感谢的固然是好，无奈不能造就别人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你感謝的固然是好，無奈不能造就別人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I thank my God, I speak with other languages more than you all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我感谢 神，我说方言比你们众人还多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我感謝上帝，我說方言比你們眾人還多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "However, in the assembly I would rather speak five words with my understanding, that I might instruct others also, than ten thousand words in another language.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但在教会中，宁可用悟性说五句教导人的话，强如说万句方言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但在教會中，寧可用悟性說五句教導人的話，強如說萬句方言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Brothers, don’t be children in thoughts, yet in malice be babies, but in thoughts be mature.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，在心志上不要作小孩子。然而，在恶事上要作婴孩，在心志上总要作大人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，在心志上不要作小孩子。然而，在惡事上要作嬰孩，在心志上總要作大人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "In the law it is written, “By men of strange languages and by the lips of strangers I will speak to this people. They won’t even listen to me that way, says the Lord.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "14:21 Isaiah 28:11-12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "律法上记着： 主说：我要用外邦人的舌头 和外邦人的嘴唇向这百姓说话； 虽然如此， 他们还是不听从我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法上記着： 主說：我要用外邦人的舌頭 和外邦人的嘴唇向這百姓說話； 雖然如此， 他們還是不聽從我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Therefore other languages are for a sign, not to those who believe, but to the unbelieving; but prophesying is for a sign, not to the unbelieving, but to those who believe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，说方言不是为信的人作证据，乃是为不信的人；作先知讲道不是为不信的人作证据，乃是为信的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，說方言不是為信的人作證據，乃是為不信的人；作先知講道不是為不信的人作證據，乃是為信的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "If therefore the whole assembly is assembled together and all speak with other languages, and unlearned or unbelieving people come in, won’t they say that you are crazy?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，全教会聚在一处的时候，若都说方言，偶然有不通方言的，或是不信的人进来，岂不说你们癫狂了吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，全教會聚在一處的時候，若都說方言，偶然有不通方言的，或是不信的人進來，豈不說你們癲狂了嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But if all prophesy, and someone unbelieving or unlearned comes in, he is reproved by all, and he is judged by all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若都作先知讲道，偶然有不信的，或是不通方言的人进来，就被众人劝醒，被众人审明，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若都作先知講道，偶然有不信的，或是不通方言的人進來，就被眾人勸醒，被眾人審明，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "And thus the secrets of his heart are revealed. So he will fall down on his face and worship God, declaring that God is among you indeed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他心里的隐情显露出来，就必将脸伏地，敬拜 神，说：「 神真是在你们中间了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他心裏的隱情顯露出來，就必將臉伏地，敬拜上帝，說：「上帝真是在你們中間了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "What is it then, brothers? When you come together, each one of you has a psalm, has a teaching, has a revelation, has another language, or has an interpretation. Let all things be done to build each other up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，这却怎么样呢？你们聚会的时候，各人或有诗歌，或有教训，或有启示，或有方言，或有翻出来的话，凡事都当造就人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，這卻怎麼樣呢？你們聚會的時候，各人或有詩歌，或有教訓，或有啟示，或有方言，或有翻出來的話，凡事都當造就人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "If any man speaks in another language, let there be two, or at the most three, and in turn; and let one interpret.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有说方言的，只好两个人，至多三个人，且要轮流着说，也要一个人翻出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有說方言的，只好兩個人，至多三個人，且要輪流着說，也要一個人翻出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "But if there is no interpreter, let him keep silent in the assembly, and let him speak to himself and to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若没有人翻，就当在会中闭口，只对自己和 神说就是了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若沒有人翻，就當在會中閉口，只對自己和上帝說就是了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Let two or three of the prophets speak, and let the others discern.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于作先知讲道的，只好两个人或是三个人，其余的就当慎思明辨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於作先知講道的，只好兩個人或是三個人，其餘的就當慎思明辨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "But if a revelation is made to another sitting by, let the first keep silent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若旁边坐着的得了启示，那先说话的就当闭口不言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若旁邊坐着的得了啟示，那先說話的就當閉口不言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For you all can prophesy one by one, that all may learn and all may be exhorted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们都可以一个一个地作先知讲道，叫众人学道理，叫众人得劝勉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們都可以一個一個地作先知講道，叫眾人學道理，叫眾人得勸勉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The spirits of the prophets are subject to the prophets,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先知的灵原是顺服先知的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先知的靈原是順服先知的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "for God is not a God of confusion but of peace, as in all the assemblies of the saints.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神不是叫人混乱，乃是叫人安静。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝不是叫人混亂，乃是叫人安靜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Let the wives be quiet in the assemblies, for it has not been permitted for them to be talking except in submission, as the law also says,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "14:34 Deuteronomy 27:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "妇女在会中要闭口不言，像在圣徒的众教会一样，因为不准她们说话。她们总要顺服，正如律法所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦女在會中要閉口不言，像在聖徒的眾教會一樣，因為不准她們說話。她們總要順服，正如律法所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "if they desire to learn anything. “Let them ask their own husbands at home, for it is shameful for a wife to be talking in the assembly.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们若要学什么，可以在家里问自己的丈夫，因为妇女在会中说话原是可耻的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們若要學甚麼，可以在家裏問自己的丈夫，因為婦女在會中說話原是可恥的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "What!? Was it from you that the word of God went out? Or did it come to you alone?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神的道理岂是从你们出来吗？岂是单临到你们吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的道理豈是從你們出來嗎？豈是單臨到你們嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "If any man thinks himself to be a prophet or spiritual, let him recognize the things which I write to you, that they are the commandment of the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人以为自己是先知，或是属灵的，就该知道，我所写给你们的是主的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人以為自己是先知，或是屬靈的，就該知道，我所寫給你們的是主的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "But if anyone is ignorant, let him be ignorant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有不知道的，就由他不知道吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有不知道的，就由他不知道吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Therefore, brothers, desire earnestly to prophesy, and don’t forbid speaking with other languages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我弟兄们，你们要切慕作先知讲道，也不要禁止说方言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我弟兄們，你們要切慕作先知講道，也不要禁止說方言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Let all things be done decently and in order.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事都要规规矩矩地按着次序行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事都要規規矩矩地按着次序行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

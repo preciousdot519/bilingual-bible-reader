@@ -1,0 +1,443 @@
+{
+  "bookId": "2CH",
+  "chapter": 11,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When Rehoboam had come to Jerusalem, he assembled the house of Judah and Benjamin, one hundred eighty thousand chosen men who were warriors, to fight against Israel, to bring the kingdom again to Rehoboam.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安来到耶路撒冷，招聚犹大家和便雅悯家，共十八万人，都是挑选的战士，要与以色列人争战，好将国夺回再归自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安來到耶路撒冷，招聚猶大家和便雅憫家，共十八萬人，都是挑選的戰士，要與以色列人爭戰，好將國奪回再歸自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But the LORD’s word came to Shemaiah the man of God, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但耶和华的话临到神人示玛雅说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但耶和華的話臨到神人示瑪雅說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你去告诉所罗门的儿子犹大王罗波安和住犹大、便雅悯的以色列众人说，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你去告訴所羅門的兒子猶大王羅波安和住猶大、便雅憫的以色列眾人說，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "‘The LORD says, “You shall not go up, nor fight against your brothers! Every man return to his house; for this thing is of me.”’” So they listened to the LORD’s words, and returned from going against Jeroboam.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说：『你们不可上去与你们的弟兄争战，各归各家去吧！因为这事出于我。』」众人就听从耶和华的话归回，不去与耶罗波安争战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說：『你們不可上去與你們的弟兄爭戰，各歸各家去吧！因為這事出於我。』」眾人就聽從耶和華的話歸回，不去與耶羅波安爭戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Rehoboam lived in Jerusalem, and built cities for defense in Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安住在耶路撒冷，在犹大地修筑城邑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安住在耶路撒冷，在猶大地修築城邑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He built Bethlehem, Etam, Tekoa,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为保障修筑伯利恒、以坦、提哥亚、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為保障修築伯利恆、以坦、提哥亞、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Beth Zur, Soco, Adullam,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯·夙、梭哥、亚杜兰、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯‧夙、梭哥、亞杜蘭、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Gath, Mareshah, Ziph,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦特、玛利沙、西弗、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦特、瑪利沙、西弗、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Adoraim, Lachish, Azekah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多莱音、拉吉、亚西加、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多萊音、拉吉、亞西加、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Zorah, Aijalon, and Hebron, which are fortified cities in Judah and in Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "琐拉、亚雅 、希伯 。这都是犹大和便雅悯的坚固城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑣拉、亞雅崙、希伯崙。這都是猶大和便雅憫的堅固城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He fortified the strongholds and put captains in them with stores of food, oil and wine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安又坚固各处的保障，在其中安置军长，又预备下粮食、油、酒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安又堅固各處的保障，在其中安置軍長，又預備下糧食、油、酒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He put shields and spears in every city, and made them exceedingly strong. Judah and Benjamin belonged to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在各城里预备盾牌和枪，且使城极其坚固。犹大和便雅悯都归了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在各城裏預備盾牌和槍，且使城極其堅固。猶大和便雅憫都歸了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The priests and the Levites who were in all Israel stood with him out of all their territory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列全地的祭司和利未人都从四方来归罗波安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列全地的祭司和利未人都從四方來歸羅波安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For the Levites left their pasture lands and their possessions, and came to Judah and Jerusalem; for Jeroboam and his sons cast them off, that they should not execute the priest’s office to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人撇下他们的郊野和产业，来到犹大与耶路撒 冷，是因耶罗波安和他的儿子拒绝他们，不许他们供祭司职分事奉耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人撇下他們的郊野和產業，來到猶大與耶路撒冷，是因耶羅波安和他的兒子拒絕他們，不許他們供祭司職分事奉耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He himself appointed priests for the high places, for the male goat and calf idols which he had made.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶罗波安为邱坛、为鬼魔、为自己所铸造的牛犊设立祭司。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:15 原文是公山羊"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶羅波安為邱壇、為鬼魔、為自己所鑄造的牛犢設立祭司。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:15 原文是公山羊"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "After them, out of all the tribes of Israel, those who set their hearts to seek the LORD, the God of Israel, came to Jerusalem to sacrifice to the LORD, the God of their fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列各支派中，凡立定心意寻求耶和华—以色列 神的，都随从利未人，来到耶路撒冷祭祀耶和华—他们列祖的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列各支派中，凡立定心意尋求耶和華－以色列上帝的，都隨從利未人，來到耶路撒冷祭祀耶和華－他們列祖的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So they strengthened the kingdom of Judah and made Rehoboam the son of Solomon strong for three years, for they walked three years in the way of David and Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，就坚固犹大国，使所罗门的儿子罗波安强盛三年，因为他们三年遵行大卫和所罗门的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，就堅固猶大國，使所羅門的兒子羅波安強盛三年，因為他們三年遵行大衛和所羅門的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Rehoboam took a wife for himself, Mahalath the daughter of Jerimoth the son of David and of Abihail the daughter of Eliab the son of Jesse.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安娶大卫儿子耶利摩的女儿玛哈拉为妻，又娶耶西儿子以利押的女儿亚比孩为妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安娶大衛兒子耶利摩的女兒瑪哈拉為妻，又娶耶西兒子以利押的女兒亞比孩為妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "She bore him sons: Jeush, Shemariah, and Zaham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从她生了几个儿子，就是耶乌施、示玛利雅、撒罕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從她生了幾個兒子，就是耶烏施、示瑪利雅、撒罕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "After her, he took Maacah the granddaughter of Absalom; and she bore him Abijah, Attai, Ziza, and Shelomith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来又娶押沙龙的女儿玛迦，从她生了亚比雅、亚太、细撒、示罗密。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:20 十三章二节是乌列的女儿米该雅"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來又娶押沙龍的女兒瑪迦，從她生了亞比雅、亞太、細撒、示羅密。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:20 十三章二節是烏列的女兒米該亞"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Rehoboam loved Maacah the granddaughter of Absalom above all his wives and his concubines; for he took eighteen wives and sixty concubines, and became the father of twenty-eight sons and sixty daughters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安娶十八个妻，立六十个妾，生二十八个儿子，六十个女儿；他却爱押沙龙的女儿玛迦，比爱别的妻妾更甚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安娶十八個妻，立六十個妾，生二十八個兒子，六十個女兒；他卻愛押沙龍的女兒瑪迦，比愛別的妻妾更甚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his brothers, for he intended to make him king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安立玛迦的儿子亚比雅作太子，在他弟兄中为首，因为想要立他接续作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安立瑪迦的兒子亞比雅作太子，在他弟兄中為首，因為想要立他接續作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He dealt wisely, and dispersed some of his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance; and he sought many wives for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗波安办事精明，使他众子分散在犹大和便雅悯全地各坚固城里，又赐他们许多粮食，为他们多寻妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅波安辦事精明，使他眾子分散在猶大和便雅憫全地各堅固城裏，又賜他們許多糧食，為他們多尋妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

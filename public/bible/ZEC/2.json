@@ -1,0 +1,281 @@
+{
+  "bookId": "ZEC",
+  "chapter": 2,
+  "bookEnglish": "Zechariah",
+  "bookChineseSimplified": "撒迦利亚书",
+  "bookChineseTraditional": "撒迦利亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I lifted up my eyes, and saw, and behold, a man with a measuring line in his hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又举目观看，见一人手拿准绳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又舉目觀看，見一人手拿準繩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Then I asked, “Where are you going?” He said to me, “To measure Jerusalem, to see what is its width and what is its length.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：「你往哪里去？」他对我说：「要去量耶路撒冷，看有多宽多长。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：「你往哪裏去？」他對我說：「要去量耶路撒冷，看有多寬多長。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Behold, the angel who talked with me went out, and another angel went out to meet him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与我说话的天使去的时候，又有一位天使迎着他来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與我說話的天使去的時候，又有一位天使迎着他來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and said to him, “Run, speak to this young man, saying, ‘Jerusalem will be inhabited as villages without walls, because of the multitude of men and livestock in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「你跑去告诉那少年人说，耶路撒冷必有人居住，好像无城墙的乡村，因为人民和牲畜甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「你跑去告訴那少年人說，耶路撒冷必有人居住，好像無城牆的鄉村，因為人民和牲畜甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For I,’ says the LORD, ‘will be to her a wall of fire around it, and I will be the glory in the middle of her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我要作耶路撒冷四围的火城，并要作其中的荣耀。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我要作耶路撒冷四圍的火城，並要作其中的榮耀。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Come! Come! Flee from the land of the north,’ says the LORD; ‘for I have spread you abroad as the four winds of the sky,’ says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我从前分散你们在天的四方，现在你们要从北方之地逃回。这是耶和华说的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:6 原文是犹如天的四风"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我從前分散你們在天的四方，現在你們要從北方之地逃回。這是耶和華說的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:6 原文是猶如天的四風"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "‘Come, Zion! Escape, you who dwell with the daughter of Babylon.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与巴比伦人同住的锡安民哪，应当逃脱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與巴比倫人同住的錫安民哪，應當逃脫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For the LORD of Armies says: ‘For honor he has sent me to the nations which plundered you; for he who touches you touches the apple of his eye.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华说，在显出荣耀之后，差遣我去惩罚那掳掠你们的列国，摸你们的就是摸他眼中的瞳人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華說，在顯出榮耀之後，差遣我去懲罰那擄掠你們的列國，摸你們的就是摸他眼中的瞳人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For, behold, I will shake my hand over them, and they will be a plunder to those who served them; and you will know that the LORD of Armies has sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我要向他们抡手，他们就必作服事他们之人的掳物，你们便知道万军之耶和华差遣我了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:9 或译：他"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我要向他們掄手，他們就必作服事他們之人的擄物，你們便知道萬軍之耶和華差遣我了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:9 或譯：他"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Sing and rejoice, daughter of Zion! For behold, I come and I will dwell within you,’ says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安城啊，应当欢乐歌唱，因为我来要住在你中间。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安城啊，應當歡樂歌唱，因為我來要住在你中間。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Many nations shall join themselves to the LORD in that day, and shall be my people; and I will dwell among you, and you shall know that the LORD of Armies has sent me to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，必有许多国归附耶和华，作他的子民。他要住在你中间，你就知道万军之耶和华差遣我到你那里去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:11 原文是我"
+          },
+          {
+            "id": "f2",
+            "text": "- 2:11 原文是我"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，必有許多國歸附耶和華，作他的子民。他要住在你中間，你就知道萬軍之耶和華差遣我到你那裏去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:11 原文是我"
+          },
+          {
+            "id": "f2",
+            "text": "- 2:11 原文是我"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD will inherit Judah as his portion in the holy land, and will again choose Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必收回犹大作他圣地的分，也必再拣选耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必收回猶大作他聖地的分，也必再揀選耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Be silent, all flesh, before the LORD; for he has roused himself from his holy habitation!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有血气的都当在耶和华面前静默无声；因为他兴起，从圣所出来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有血氣的都當在耶和華面前靜默無聲；因為他興起，從聖所出來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "bookId": "EZK",
+  "chapter": 3,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「人子啊，要吃你所得的，要吃这书卷，好去对以色列家讲说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「人子啊，要吃你所得的，要吃這書卷，好去對以色列家講說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "So I opened my mouth, and he caused me to eat the scroll.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是我开口，他就使我吃这书卷，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是我開口，他就使我吃這書卷，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said to me, “Son of man, eat this scroll that I give you and fill your belly and your bowels with it.” Then I ate it. It was as sweet as honey in my mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对我说：「人子啊，要吃我所赐给你的这书卷，充满你的肚腹。」我就吃了，口中觉得其甜如蜜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對我說：「人子啊，要吃我所賜給你的這書卷，充滿你的肚腹。」我就吃了，口中覺得其甜如蜜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He said to me, “Son of man, go to the house of Israel, and speak my words to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「人子啊，你往以色列家那里去，将我的话对他们讲说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「人子啊，你往以色列家那裏去，將我的話對他們講說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For you are not sent to a people of a strange speech and of a hard language, but to the house of Israel—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你奉差遣不是往那说话深奥、言语难懂的民那里去，乃是往以色列家去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你奉差遣不是往那說話深奧、言語難懂的民那裏去，乃是往以色列家去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "not to many peoples of a strange speech and of a hard language, whose words you can’t understand. Surely, if I sent you to them, they would listen to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不是往那说话深奥、言语难懂的多国去，他们的话语是你不懂得的。我若差你往他们那里去，他们必听从你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不是往那說話深奧、言語難懂的多國去，他們的話語是你不懂得的。我若差你往他們那裏去，他們必聽從你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But the house of Israel will not listen to you, for they will not listen to me; for all the house of Israel are obstinate and hard-hearted.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:7 Literally, have a hard forehead"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列家却不肯听从你，因为他们不肯听从我；原来以色列全家是额坚心硬的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列家卻不肯聽從你，因為他們不肯聽從我；原來以色列全家是額堅心硬的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Behold, I have made your face hard against their faces, and your forehead hard against their foreheads.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我使你的脸硬过他们的脸，使你的额硬过他们的额。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我使你的臉硬過他們的臉，使你的額硬過他們的額。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I have made your forehead as a diamond, harder than flint. Don’t be afraid of them, neither be dismayed at their looks, though they are a rebellious house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我使你的额像金钢钻，比火石更硬。他们虽是悖逆之家，你不要怕他们，也不要因他们的脸色惊惶。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我使你的額像金鋼鑽，比火石更硬。他們雖是悖逆之家，你不要怕他們，也不要因他們的臉色驚惶。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Moreover he said to me, “Son of man, receive in your heart and hear with your ears all my words that I speak to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又对我说：「人子啊，我对你所说的一切话，要心里领会，耳中听闻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又對我說：「人子啊，我對你所說的一切話，要心裏領會，耳中聽聞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘This is what the Lord GOD says,’ whether they will hear, or whether they will refuse.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你往你本国被掳的子民那里去，他们或听，或不听，你要对他们讲说，告诉他们这是主耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你往你本國被擄的子民那裏去，他們或聽，或不聽，你要對他們講說，告訴他們這是主耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be the LORD’s glory from his place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，灵将我举起，我就听见在我身后有震动轰轰的声音，说：「从耶和华的所在显出来的荣耀是该称颂的！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，靈將我舉起，我就聽見在我身後有震動轟轟的聲音，說：「從耶和華的所在顯出來的榮耀是該稱頌的！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又听见那活物翅膀相碰，与活物旁边轮子旋转震动轰轰的响声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又聽見那活物翅膀相碰，與活物旁邊輪子旋轉震動轟轟的響聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and the LORD’s hand was strong on me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是灵将我举起，带我而去。我心中甚苦，灵性忿激，并且耶和华的灵在我身上大有能力。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:14 原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是靈將我舉起，帶我而去。我心中甚苦，靈性忿激，並且耶和華的靈在我身上大有能力。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:14 原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then I came to them of the captivity at Tel Aviv who lived by the river Chebar, and to where they lived; and I sat there overwhelmed among them seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就来到提勒·亚毕，住在迦巴鲁河边被掳的人那里，到他们所住的地方，在他们中间忧忧闷闷地坐了七日。 （33·1—9）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就來到提勒‧亞畢，住在迦巴魯河邊被擄的人那裏，到他們所住的地方，在他們中間憂憂悶悶地坐了七日。 （33‧1－9）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "At the end of seven days, the LORD’s word came to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了七日，耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了七日，耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Son of man, I have made you a watchman to the house of Israel. Therefore hear the word from my mouth, and warn them from me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人子啊，我立你作以色列家守望的人，所以你要听我口中的话，替我警戒他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人子啊，我立你作以色列家守望的人，所以你要聽我口中的話，替我警戒他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When I tell the wicked, ‘You will surely die;’ and you give him no warning, nor speak to warn the wicked from his wicked way, to save his life, that wicked man will die in his iniquity; but I will require his blood at your hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我何时指着恶人说：他必要死；你若不警戒他，也不劝戒他，使他离开恶行，拯救他的性命，这恶人必死在罪孽之中；我却要向你讨他丧命的罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:18 原文是血"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我何時指着惡人說：他必要死；你若不警戒他，也不勸戒他，使他離開惡行，拯救他的性命，這惡人必死在罪孽之中；我卻要向你討他喪命的罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:18 原文是血"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Yet if you warn the wicked, and he doesn’t turn from his wickedness, nor from his wicked way, he will die in his iniquity; but you have delivered your soul.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你警戒恶人，他仍不转离罪恶，也不离开恶行，他必死在罪孽之中，你却救自己脱离了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你警戒惡人，他仍不轉離罪惡，也不離開惡行，他必死在罪孽之中，你卻救自己脫離了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Again, when a righteous man turns from his righteousness and commits iniquity, and I lay a stumbling block before him, he will die. Because you have not given him warning, he will die in his sin, and his righteous deeds which he has done will not be remembered; but I will require his blood at your hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再者，义人何时离义而犯罪，我将绊脚石放在他面前，他就必死；因你没有警戒他，他必死在罪中，他素来所行的义不被记念；我却要向你讨他丧命的罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:20 原文是血"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，義人何時離義而犯罪，我將絆腳石放在他面前，他就必死；因你沒有警戒他，他必死在罪中，他素來所行的義不被記念；我卻要向你討他喪命的罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:20 原文是血"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Nevertheless if you warn the righteous man, that the righteous not sin, and he does not sin, he will surely live, because he took warning; and you have delivered your soul.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你警戒义人，使他不犯罪，他就不犯罪；他因受警戒就必存活，你也救自己脱离了罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你警戒義人，使他不犯罪，他就不犯罪；他因受警戒就必存活，你也救自己脫離了罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The LORD’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的灵在那里降在我身上。他对我说：「你起来往平原去，我要在那里和你说话。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:22 原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的靈在那裏降在我身上。他對我說：「你起來往平原去，我要在那裏和你說話。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:22 原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then I arose, and went out into the plain, and behold, the LORD’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是我起来往平原去，不料，耶和华的荣耀正如我在迦巴鲁河边所见的一样，停在那里，我就俯伏于地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是我起來往平原去，不料，耶和華的榮耀正如我在迦巴魯河邊所見的一樣，停在那裏，我就俯伏於地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then the Spirit entered into me and set me on my feet. He spoke with me, and said to me, “Go, shut yourself inside your house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灵就进入我里面，使我站起来。耶和华对我说：「你进房屋去，将门关上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靈就進入我裏面，使我站起來。耶和華對我說：「你進房屋去，將門關上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But you, son of man, behold, they will put ropes on you, and will bind you with them, and you will not go out among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人子啊，人必用绳索捆绑你，你就不能出去在他们中间来往。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人子啊，人必用繩索捆綁你，你就不能出去在他們中間來往。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I will make your tongue stick to the roof of your mouth so that you will be mute and will not be able to correct them, for they are a rebellious house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必使你的舌头贴住上膛，以致你哑口，不能作责备他们的人；他们原是悖逆之家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必使你的舌頭貼住上膛，以致你啞口，不能作責備他們的人；他們原是悖逆之家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord GOD says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我对你说话的时候，必使你开口，你就要对他们说：『主耶和华如此说。』听的可以听，不听的任他不听，因为他们是悖逆之家。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我對你說話的時候，必使你開口，你就要對他們說：『主耶和華如此說。』聽的可以聽，不聽的任他不聽，因為他們是悖逆之家。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

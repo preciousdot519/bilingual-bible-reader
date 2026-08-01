@@ -1,0 +1,1232 @@
+{
+  "bookId": "LAM",
+  "chapter": 3,
+  "bookEnglish": "Lamentations",
+  "bookChineseSimplified": "耶利米哀歌",
+  "bookChineseTraditional": "耶利米哀歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I am the man who has seen affliction by the rod of his wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是因耶和华忿怒的杖， 遭遇困苦的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是因耶和華忿怒的杖， 遭遇困苦的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He has led me and caused me to walk in darkness, and not in light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他引导我，使我行在黑暗中， 不行在光明里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他引導我，使我行在黑暗中， 不行在光明裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Surely he turns his hand against me again and again all day long.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他真是终日再三反手攻击我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他真是終日再三反手攻擊我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He has made my flesh and my skin old. He has broken my bones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使我的皮肉枯干； 他折断我的骨头。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:4 或译：压伤"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使我的皮肉枯乾； 他折斷我的骨頭。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:4 或譯：壓傷"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He has built against me, and surrounded me with bitterness and hardship.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他筑垒攻击我， 用苦楚和艰难围困我。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 原文是苦胆"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他築壘攻擊我， 用苦楚和艱難圍困我。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 原文是苦膽"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He has made me dwell in dark places, as those who have been long dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使我住在幽暗之处， 像死了许久的人一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使我住在幽暗之處， 像死了許久的人一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He has walled me about, so that I can’t go out. He has made my chain heavy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用篱笆围住我，使我不能出去； 他使我的铜链沉重。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用籬笆圍住我，使我不能出去； 他使我的銅鍊沉重。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Yes, when I cry, and call for help, he shuts out my prayer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我哀号求救； 他使我的祷告不得上达。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我哀號求救； 他使我的禱告不得上達。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He has walled up my ways with cut stone. He has made my paths crooked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用凿过的石头挡住我的道； 他使我的路弯曲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用鑿過的石頭擋住我的道； 他使我的路彎曲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He is to me as a bear lying in wait, as a lion in hiding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他向我如熊埋伏， 如狮子在隐密处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他向我如熊埋伏， 如獅子在隱密處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He has turned away my path, and pulled me in pieces. He has made me desolate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使我转离正路， 将我撕碎，使我凄凉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使我轉離正路， 將我撕碎，使我淒涼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He has bent his bow, and set me as a mark for the arrow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他张弓将我当作箭靶子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他張弓將我當作箭靶子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He has caused the shafts of his quiver to enter into my kidneys.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他把箭袋中的箭射入我的肺腑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他把箭袋中的箭射入我的肺腑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I have become a derision to all my people, and their song all day long.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我成了众民的笑话； 他们终日以我为歌曲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我成了眾民的笑話； 他們終日以我為歌曲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He has filled me with bitterness. He has stuffed me with wormwood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用苦楚充满我，使我饱用茵 。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用苦楚充滿我，使我飽用茵蔯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He has also broken my teeth with gravel. He has covered me with ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又用沙石碜断我的牙， 用灰尘将我蒙蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又用沙石磣斷我的牙， 用灰塵將我蒙蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You have removed my soul far away from peace. I forgot prosperity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你使我远离平安， 我忘记好处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你使我遠離平安， 我忘記好處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I said, “My strength has perished, along with my expectation from the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就说：我的力量衰败； 我在耶和华那里毫无指望！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就說：我的力量衰敗； 我在耶和華那裏毫無指望！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Remember my affliction and my misery, the wormwood and the bitterness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你记念我 如茵 和苦胆的困苦窘迫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你記念我 如茵蔯和苦膽的困苦窘迫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "My soul still remembers them, and is bowed down within me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心想念这些， 就在里面忧闷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心想念這些， 就在裏面憂悶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "This I recall to my mind; therefore I have hope.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我想起这事， 心里就有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我想起這事， 心裏就有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "It is because of the LORD’s loving kindnesses that we are not consumed, because his mercies don’t fail.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们不致消灭， 是出于耶和华诸般的慈爱； 是因他的怜悯不致断绝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們不致消滅， 是出於耶和華諸般的慈愛； 是因他的憐憫不致斷絕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They are new every morning. Great is your faithfulness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每早晨，这都是新的； 你的诚实极其广大！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每早晨，這都是新的； 你的誠實極其廣大！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“The LORD is my portion,” says my soul. “Therefore I will hope in him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里说：耶和华是我的分， 因此，我要仰望他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏說：耶和華是我的分， 因此，我要仰望他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The LORD is good to those who wait for him, to the soul who seeks him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡等候耶和华，心里寻求他的， 耶和华必施恩给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡等候耶和華，心裏尋求他的， 耶和華必施恩給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "It is good that a man should hope and quietly wait for the salvation of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人仰望耶和华， 静默等候他的救恩， 这原是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人仰望耶和華， 靜默等候他的救恩， 這原是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "It is good for a man that he bear the yoke in his youth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在幼年负轭， 这原是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在幼年負軛， 這原是好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Let him sit alone and keep silence, because he has laid it on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他当独坐无言， 因为这是耶和华加在他身上的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他當獨坐無言， 因為這是耶和華加在他身上的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Let him put his mouth in the dust, if it is so that there may be hope.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他当口贴尘埃， 或者有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他當口貼塵埃， 或者有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Let him give his cheek to him who strikes him. Let him be filled full of reproach.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他当由人打他的腮颊， 要满受凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他當由人打他的腮頰， 要滿受凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For the Lord will not cast off forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为主必不永远丢弃人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為主必不永遠丟棄人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主虽使人忧愁， 还要照他诸般的慈爱发怜悯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主雖使人憂愁， 還要照他諸般的慈愛發憐憫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "For he does not afflict willingly, nor grieve the children of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他并不甘心使人受苦， 使人忧愁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他並不甘心使人受苦， 使人憂愁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "To crush under foot all the prisoners of the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人将世上被囚的踹在脚下，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:34 原文是压"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人將世上被囚的踹在腳下，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:34 原文是壓"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "to turn away the right of a man before the face of the Most High,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或在至高者面前屈枉人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或在至高者面前屈枉人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "to subvert a man in his cause, the Lord doesn’t approve.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或在人的讼事上颠倒是非， 这都是主看不上的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或在人的訟事上顛倒是非， 這都是主看不上的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Who is he who says, and it comes to pass, when the Lord doesn’t command it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除非主命定， 谁能说成就成呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除非主命定， 誰能說成就成呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Doesn’t evil and good come out of the mouth of the Most High?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祸福不都出于至高者的口吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禍福不都出於至高者的口嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Why should a living man complain, a man for the punishment of his sins?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "活人因自己的罪受罚， 为何发怨言呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "活人因自己的罪受罰， 為何發怨言呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Let us search and try our ways, and turn again to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们当深深考察自己的行为， 再归向耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們當深深考察自己的行為， 再歸向耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Let’s lift up our heart with our hands to God in the heavens.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:41 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们当诚心向天上的 神举手祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們當誠心向天上的上帝舉手禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "“We have transgressed and have rebelled. You have not pardoned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们犯罪背逆， 你并不赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們犯罪背逆， 你並不赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "“You have covered us with anger and pursued us. You have killed. You have not pitied.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你自被怒气遮蔽，追赶我们； 你施行杀戮，并不顾惜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你自被怒氣遮蔽，追趕我們； 你施行殺戮，並不顧惜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "You have covered yourself with a cloud, so that no prayer can pass through.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你以黑云遮蔽自己， 以致祷告不得透入。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你以黑雲遮蔽自己， 以致禱告不得透入。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "You have made us an off-scouring and refuse in the middle of the peoples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你使我们在万民中成为污秽和渣滓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你使我們在萬民中成為污穢和渣滓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "“All our enemies have opened their mouth wide against us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的仇敌都向我们大大张口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的仇敵都向我們大大張口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Terror and the pit have come on us, devastation and destruction.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐惧和陷坑，残害和毁灭， 都临近我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐懼和陷坑，殘害和毀滅， 都臨近我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "My eye runs down with streams of water, for the destruction of the daughter of my people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我众民遭的毁灭， 我就眼泪下流如河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我眾民遭的毀滅， 我就眼淚下流如河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "My eye pours down and doesn’t cease, without any intermission,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的眼多多流泪， 总不止息，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的眼多多流淚， 總不止息，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "until the LORD looks down, and sees from heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "直等耶和华垂顾， 从天观看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "直等耶和華垂顧， 從天觀看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "My eye affects my soul, because of all the daughters of my city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我本城的众民， 我的眼，使我的心伤痛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我本城的眾民， 我的眼，使我的心傷痛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "They have chased me relentlessly like a bird, those who are my enemies without cause.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无故与我为仇的追逼我， 像追雀鸟一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無故與我為仇的追逼我， 像追雀鳥一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "They have cut off my life in the dungeon, and have cast a stone on me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们使我的命在牢狱中断绝， 并将一块石头抛在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們使我的命在牢獄中斷絕， 並將一塊石頭拋在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "Waters flowed over my head. I said, “I am cut off.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众水流过我头， 我说：我命断绝了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾水流過我頭， 我說：我命斷絕了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "I called on your name, LORD, out of the lowest dungeon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊， 我从深牢中求告你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊， 我從深牢中求告你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "You heard my voice: “Don’t hide your ear from my sighing, and my cry.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你曾听见我的声音； 我求你解救， 你不要掩耳不听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你曾聽見我的聲音； 我求你解救， 你不要掩耳不聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "You came near in the day that I called on you. You said, “Don’t be afraid.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我求告你的日子，你临近我， 说：不要惧怕！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我求告你的日子，你臨近我， 說：不要懼怕！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "Lord, you have pleaded the causes of my soul. You have redeemed my life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，你伸明了我的冤； 你救赎了我的命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，你伸明了我的冤； 你救贖了我的命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "LORD, you have seen my wrong. Judge my cause.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你见了我受的委屈； 求你为我伸冤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你見了我受的委屈； 求你為我伸冤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "60",
+      "en": {
+        "text": "You have seen all their vengeance and all their plans against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们仇恨我，谋害我， 你都看见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們仇恨我，謀害我， 你都看見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "61",
+      "en": {
+        "text": "You have heard their reproach, LORD, and all their plans against me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你听见他们辱骂我的话， 知道他们向我所设的计，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你聽見他們辱罵我的話， 知道他們向我所設的計，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "62",
+      "en": {
+        "text": "the lips of those that rose up against me, and their plots against me all day long.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并那些起来攻击我的人口中所说的话， 以及终日向我所设的计谋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並那些起來攻擊我的人口中所說的話， 以及終日向我所設的計謀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "63",
+      "en": {
+        "text": "You see their sitting down and their rising up. I am their song.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你观看， 他们坐下，起来，都以我为歌曲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你觀看， 他們坐下，起來，都以我為歌曲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "64",
+      "en": {
+        "text": "You will pay them back, LORD, according to the work of their hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你要按着他们手所做的 向他们施行报应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你要按着他們手所做的 向他們施行報應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "65",
+      "en": {
+        "text": "You will give them hardness of heart, your curse to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要使他们心里刚硬， 使你的咒诅临到他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要使他們心裏剛硬， 使你的咒詛臨到他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "66",
+      "en": {
+        "text": "You will pursue them in anger, and destroy them from under the heavens of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要发怒追赶他们， 从耶和华的天下除灭他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要發怒追趕他們， 從耶和華的天下除滅他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

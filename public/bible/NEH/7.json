@@ -1,0 +1,1348 @@
+{
+  "bookId": "NEH",
+  "chapter": 7,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城墙修完，我安了门扇，守门的、歌唱的，和利未人都已派定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城牆修完，我安了門扇，守門的、歌唱的，和利未人都已派定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I put my brother Hanani, and Hananiah the governor of the fortress, in charge of Jerusalem; for he was a faithful man and feared God above many.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就派我的弟兄哈拿尼和营楼的宰官哈拿尼雅管理耶路撒冷；因为哈拿尼雅是忠信的，又敬畏 神过于众人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就派我的弟兄哈拿尼和營樓的宰官哈拿尼雅管理耶路撒冷；因為哈拿尼雅是忠信的，又敬畏上帝過於眾人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I said to them, “Don’t let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them; and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我吩咐他们说：「等到太阳上升才可开耶路撒冷的城门；人尚看守的时候就要关门上闩；也当派耶路撒冷的居民各按班次看守自己房屋对面之处。」 （拉2·1—70）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我吩咐他們說：「等到太陽上升才可開耶路撒冷的城門；人尚看守的時候就要關門上閂；也當派耶路撒冷的居民各按班次看守自己房屋對面之處。」 （拉2‧1－70）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now the city was wide and large; but the people were few therein, and the houses were not built.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城是广大，其中的民却稀少，房屋还没有建造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城是廣大，其中的民卻稀少，房屋還沒有建造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "My God put into my heart to gather together the nobles, and the rulers, and the people, that they might be listed by genealogy. I found the book of the genealogy of those who came up at the first, and I found this written in it:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神感动我心，招聚贵胄、官长，和百姓，要照家谱计算。我找着第一次上来之人的家谱，其上写着：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝感動我心，招聚貴冑、官長，和百姓，要照家譜計算。我找着第一次上來之人的家譜，其上寫着：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "These are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and to Judah, everyone to his city,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴比伦王尼布甲尼撒从前掳去犹大省的人，现在他们的子孙从被掳到之地回耶路撒冷和犹大，各归本城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴比倫王尼布甲尼撒從前擄去猶大省的人，現在他們的子孫從被擄到之地回耶路撒冷和猶大，各歸本城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. The number of the men of the people of Israel:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是同着所罗巴伯、耶书亚、尼希米、亚撒利雅、拉米、拿哈玛尼、末底改、必珊、米斯毗列、比革瓦伊、尼宏、巴拿回来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是同着所羅巴伯、耶書亞、尼希米、亞撒利雅、拉米、拿哈瑪尼、末底改、必珊、米斯毗列、比革瓦伊、尼宏、巴拿回來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The children of Parosh: two thousand one hundred seventy-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人民的数目记在下面：巴录的子孙二千一百七十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人民的數目記在下面：巴錄的子孫二千一百七十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The children of Shephatiah: three hundred seventy-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示法提雅的子孙三百七十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示法提雅的子孫三百七十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The children of Arah: six hundred fifty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拉的子孙六百五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拉的子孫六百五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The children of Pahathmoab, of the children of Jeshua and Joab: two thousand eight hundred eighteen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴哈·摩押的后裔，就是耶书亚和约押的子孙二千八百一十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴哈‧摩押的後裔，就是耶書亞和約押的子孫二千八百一十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The children of Elam: one thousand two hundred fifty-four.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以拦的子孙一千二百五十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以攔的子孫一千二百五十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The children of Zattu: eight hundred forty-five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "萨土的子孙八百四十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "薩土的子孫八百四十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The children of Zaccai: seven hundred sixty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "萨改的子孙七百六十名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "薩改的子孫七百六十名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The children of Binnui: six hundred forty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "宾内的子孙六百四十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "賓內的子孫六百四十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The children of Bebai: six hundred twenty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比拜的子孙六百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比拜的子孫六百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The children of Azgad: two thousand three hundred twenty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押甲的子孙二千三百二十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押甲的子孫二千三百二十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The children of Adonikam: six hundred sixty-seven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼干的子孙六百六十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼干的子孫六百六十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The children of Bigvai: two thousand sixty-seven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比革瓦伊的子孙二千零六十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比革瓦伊的子孫二千零六十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The children of Adin: six hundred fifty-five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚丁的子孙六百五十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞丁的子孫六百五十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The children of Ater: of Hezekiah, ninety-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚特的后裔，就是希西家的子孙九十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞特的後裔，就是希西家的子孫九十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The children of Hashum: three hundred twenty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈顺的子孙三百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈順的子孫三百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The children of Bezai: three hundred twenty-four.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比赛的子孙三百二十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比賽的子孫三百二十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The children of Hariph: one hundred twelve.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈拉的子孙一百一十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈拉的子孫一百一十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The children of Gibeon: ninety-five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基遍人九十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基遍人九十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The men of Bethlehem and Netophah: one hundred eighty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯利恒人和尼陀法人共一百八十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯利恆人和尼陀法人共一百八十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The men of Anathoth: one hundred twenty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿突人一百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿突人一百二十八名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The men of Beth Azmaveth: forty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯·亚斯玛弗人四十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯‧亞斯瑪弗人四十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The men of Kiriath Jearim, Chephirah, and Beeroth: seven hundred forty-three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基列·耶琳人、基非拉人、比录人共七百四十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基列‧耶琳人、基非拉人、比錄人共七百四十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The men of Ramah and Geba: six hundred twenty-one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉玛人和迦巴人共六百二十一名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉瑪人和迦巴人共六百二十一名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The men of Michmas: one hundred twenty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "默玛人一百二十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "默瑪人一百二十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The men of Bethel and Ai: one hundred twenty-three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯特利人和艾人共一百二十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯特利人和艾人共一百二十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The men of the other Nebo: fifty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "别的尼波人五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "別的尼波人五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The children of the other Elam: one thousand two hundred fifty-four.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "别的以拦子孙一千二百五十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "別的以攔子孫一千二百五十四名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The children of Harim: three hundred twenty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈琳的子孙三百二十名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈琳的子孫三百二十名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The children of Jericho: three hundred forty-five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶利哥人三百四十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶利哥人三百四十五名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "The children of Lod, Hadid, and Ono: seven hundred twenty-one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗德人、哈第人、阿挪人共七百二十一名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅德人、哈第人、阿挪人共七百二十一名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "The children of Senaah: three thousand nine hundred thirty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西拿人三千九百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西拿人三千九百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The priests: The children of Jedaiah, of the house of Jeshua: nine hundred seventy-three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司：耶书亚家，耶大雅的子孙九百七十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司：耶書亞家，耶大雅的子孫九百七十三名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "The children of Immer: one thousand fifty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "音麦的子孙一千零五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "音麥的子孫一千零五十二名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "The children of Pashhur: one thousand two hundred forty-seven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴施户珥的子孙一千二百四十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴施戶珥的子孫一千二百四十七名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The children of Harim: one thousand seventeen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈琳的子孙一千零一十七名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈琳的子孫一千零一十七名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "The Levites: the children of Jeshua, of Kadmiel, of the children of Hodevah: seventy-four.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人：何达威的后裔，就是耶书亚和甲篾的子孙七十四名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人：何達威的後裔，就是耶書亞和甲篾的子孫七十四名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The singers: the children of Asaph: one hundred forty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "歌唱的：亚萨的子孙一百四十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "歌唱的：亞薩的子孫一百四十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "The gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai: one hundred thirty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "守门的：沙龙的子孙、亚特的子孙、达们的子孙、亚谷的子孙、哈底大的子孙、朔拜的子孙，共一百三十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "守門的：沙龍的子孫、亞特的子孫、達們的子孫、亞谷的子孫、哈底大的子孫、朔拜的子孫，共一百三十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼提宁：西哈的子孙、哈苏巴的子孙、答巴俄的子孙、",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:46 就是殿役"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼提寧：西哈的子孫、哈蘇巴的子孫、答巴俄的子孫、",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:46 就是殿役"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "the children of Keros, the children of Sia, the children of Padon,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基绿的子孙、西亚的子孙、巴顿的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基綠的子孫、西亞的子孫、巴頓的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "the children of Lebana, the children of Hagaba, the children of Salmai,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利巴拿的子孙、哈迦巴的子孙、萨买的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利巴拿的子孫、哈迦巴的子孫、薩買的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "the children of Hanan, the children of Giddel, the children of Gahar,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈难的子孙、吉德的子孙、迦哈的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈難的子孫、吉德的子孫、迦哈的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "the children of Reaiah, the children of Rezin, the children of Nekoda,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利亚雅的子孙、利汛的子孙、尼哥大的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利亞雅的子孫、利汛的子孫、尼哥大的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "the children of Gazzam, the children of Uzza, the children of Paseah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦散的子孙、乌撒的子孙、巴西亚的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦散的子孫、烏撒的子孫、巴西亞的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "the children of Besai, the children of Meunim, the children of Nephushesim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比赛的子孙、米乌宁的子孙、尼普心的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比賽的子孫、米烏寧的子孫、尼普心的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "the children of Bakbuk, the children of Hakupha, the children of Harhur,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴卜的子孙、哈古巴的子孙、哈忽的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴卜的子孫、哈古巴的子孫、哈忽的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "the children of Bazlith, the children of Mehida, the children of Harsha,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴洗律的子孙、米希大的子孙、哈沙的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴洗律的子孫、米希大的子孫、哈沙的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "the children of Barkos, the children of Sisera, the children of Temah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴柯的子孙、西西拉的子孙、答玛的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴柯的子孫、西西拉的子孫、答瑪的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "the children of Neziah, and the children of Hatipha.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼细亚的子孙、哈提法的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼細亞的子孫、哈提法的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门仆人的后裔，就是琐太的子孙、琐斐列的子孙、比路大的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門僕人的後裔，就是瑣太的子孫、瑣斐列的子孫、比路大的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "the children of Jaala, the children of Darkon, the children of Giddel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅拉的子孙、达昆的子孙、吉德的子孙、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅拉的子孫、達昆的子孫、吉德的子孫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, and the children of Amon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示法提雅的子孙、哈替的子孙、玻黑列·哈斯巴音的子孙、亚们的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示法提雅的子孫、哈替的子孫、玻黑列‧哈斯巴音的子孫、亞們的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "60",
+      "en": {
+        "text": "All the temple servants and the children of Solomon’s servants were three hundred ninety-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼提宁和所罗门仆人的后裔共三百九十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼提寧和所羅門僕人的後裔共三百九十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "61",
+      "en": {
+        "text": "These were those who went up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer; but they could not show their fathers’ houses, nor their offspring, whether they were of Israel:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:61 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从特米拉、特哈萨、基绿、亚顿、音麦上来的，不能指明他们的宗族谱系是以色列人不是；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從特米拉、特哈薩、基綠、亞頓、音麥上來的，不能指明他們的宗族譜系是以色列人不是；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "62",
+      "en": {
+        "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda: six hundred forty-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是第莱雅的子孙、多比雅的子孙、尼哥大的子孙，共六百四十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是第萊雅的子孫、多比雅的子孫、尼哥大的子孫，共六百四十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "63",
+      "en": {
+        "text": "Of the priests: the children of Hobaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司中，哈巴雅的子孙、哈哥斯的子孙、巴西莱的子孙；因为他们的先祖娶了基列人巴西莱的女儿为妻，所以起名叫巴西莱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司中，哈巴雅的子孫、哈哥斯的子孫、巴西萊的子孫；因為他們的先祖娶了基列人巴西萊的女兒為妻，所以起名叫巴西萊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "64",
+      "en": {
+        "text": "These searched for their genealogical records, but couldn’t find them. Therefore they were deemed disqualified and removed from the priesthood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这三家的人在族谱之中寻查自己的谱系，却寻不着，因此算为不洁，不准供祭司的职任。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這三家的人在族譜之中尋查自己的譜系，卻尋不着，因此算為不潔，不准供祭司的職任。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "65",
+      "en": {
+        "text": "The governor told them not to eat of the most holy things until a priest stood up to minister with Urim and Thummim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "省长对他们说：「不可吃至圣的物，直到有用乌陵和土明决疑的祭司兴起来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "省長對他們說：「不可吃至聖的物，直到有用烏陵和土明決疑的祭司興起來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "66",
+      "en": {
+        "text": "The whole assembly together was forty-two thousand three hundred sixty,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会众共有四万二千三百六十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會眾共有四萬二千三百六十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "67",
+      "en": {
+        "text": "in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven. They had two hundred forty-five singing men and singing women.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此外，还有他们的仆婢七千三百三十七名，又有歌唱的男女二百四十五名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此外，還有他們的僕婢七千三百三十七名，又有歌唱的男女二百四十五名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "68",
+      "en": {
+        "text": "Their horses were seven hundred thirty-six; their mules, two hundred forty-five;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们有马七百三十六匹，骡子二百四十五匹，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們有馬七百三十六匹，騾子二百四十五匹，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "69",
+      "en": {
+        "text": "their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "骆驼四百三十五只，驴六千七百二十匹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "駱駝四百三十五隻，驢六千七百二十匹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "70",
+      "en": {
+        "text": "Some from among the heads of fathers’ households gave to the work. The governor gave to the treasury one thousand darics of gold, fifty basins, and five hundred thirty priests’ garments.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:70 a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有些族长为工程捐助。省长捐入库中的金子一千达利克，碗五十个，祭司的礼服五百三十件。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有些族長為工程捐助。省長捐入庫中的金子一千達利克，碗五十個，祭司的禮服五百三十件。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "71",
+      "en": {
+        "text": "Some of the heads of fathers’ households gave into the treasury of the work twenty thousand darics of gold, and two thousand two hundred minas of silver.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:71 A mina is about 600 grams or 1.3 U. S. pounds, so 2,200 minas is about 1.3 metric tons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有族长捐入工程库的金子二万达利克，银子二千二百弥拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有族長捐入工程庫的金子二萬達利克，銀子二千二百彌拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "72",
+      "en": {
+        "text": "That which the rest of the people gave was twenty thousand darics of gold, plus two thousand minas of silver, and sixty-seven priests’ garments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余百姓所捐的金子二万达利克，银子二千弥拿，祭司的礼服六十七件。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘百姓所捐的金子二萬達利克，銀子二千彌拿，祭司的禮服六十七件。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "73",
+      "en": {
+        "text": "So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel lived in their cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是祭司、利未人、守门的、歌唱的、民中的一些人、尼提宁，并以色列众人，各住在自己的城里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是祭司、利未人、守門的、歌唱的、民中的一些人、尼提寧，並以色列眾人，各住在自己的城裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

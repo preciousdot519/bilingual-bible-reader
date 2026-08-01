@@ -1,0 +1,621 @@
+{
+  "bookId": "PRO",
+  "chapter": 24,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Don’t be envious of evil men, neither desire to be with them;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不要嫉妒恶人， 也不要起意与他们相处；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不要嫉妒惡人， 也不要起意與他們相處；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "for their hearts plot violence and their lips talk about mischief.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，他们的心图谋强暴， 他们的口谈论奸恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，他們的心圖謀強暴， 他們的口談論奸惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Through wisdom a house is built; by understanding it is established;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "房屋因智慧建造， 又因聪明立稳；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "房屋因智慧建造， 又因聰明立穩；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "by knowledge the rooms are filled with all rare and beautiful treasure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中因知识充满各样美好宝贵的财物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中因知識充滿各樣美好寶貴的財物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A wise man has great power. A knowledgeable man increases strength,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人大有能力； 有知识的人力上加力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人大有能力； 有知識的人力上加力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "for by wise guidance you wage your war, and victory is in many advisors.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你去打仗，要凭智谋； 谋士众多，人便得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你去打仗，要憑智謀； 謀士眾多，人便得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Wisdom is too high for a fool. He doesn’t open his mouth in the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧极高，非愚昧人所能及， 所以在城门内不敢开口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧極高，非愚昧人所能及， 所以在城門內不敢開口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "One who plots to do evil will be called a schemer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设计作恶的， 必称为奸人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設計作惡的， 必稱為奸人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The schemes of folly are sin. The mocker is detested by men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚妄人的思念乃是罪恶； 亵慢者为人所憎恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚妄人的思念乃是罪惡； 褻慢者為人所憎惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "If you falter in the time of trouble, your strength is small.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在患难之日若胆怯， 你的力量就微小。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在患難之日若膽怯， 你的力量就微小。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人被拉到死地，你要解救； 人将被杀，你须拦阻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人被拉到死地，你要解救； 人將被殺，你須攔阻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not give to every man according to his work?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若说：这事我未曾知道， 那衡量人心的岂不明白吗？ 保守你命的岂不知道吗？ 他岂不按各人所行的报应各人吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若說：這事我未曾知道， 那衡量人心的豈不明白嗎？ 保守你命的豈不知道嗎？ 他豈不按各人所行的報應各人嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "My son, eat honey, for it is good, the droppings of the honeycomb, which are sweet to your taste;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你要吃蜜，因为是好的； 吃蜂房下滴的蜜便觉甘甜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你要吃蜜，因為是好的； 吃蜂房下滴的蜜便覺甘甜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "so you shall know wisdom to be to your soul. If you have found it, then there will be a reward: Your hope will not be cut off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你心得了智慧，也必觉得如此。 你若找着，至终必有善报； 你的指望也不致断绝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你心得了智慧，也必覺得如此。 你若找着，至終必有善報； 你的指望也不致斷絕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Don’t lay in wait, wicked man, against the habitation of the righteous. Don’t destroy his resting place;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这恶人，不要埋伏攻击义人的家； 不要毁坏他安居之所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這惡人，不要埋伏攻擊義人的家； 不要毀壞他安居之所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "for a righteous man falls seven times and rises up again, but the wicked are overthrown by calamity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，义人虽七次跌倒，仍必兴起； 恶人却被祸患倾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，義人雖七次跌倒，仍必興起； 惡人卻被禍患傾倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你仇敌跌倒，你不要欢喜； 他倾倒，你心不要快乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你仇敵跌倒，你不要歡喜； 他傾倒，你心不要快樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "lest the LORD see it, and it displease him, and he turn away his wrath from him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐怕耶和华看见就不喜悦， 将怒气从仇敌身上转过来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐怕耶和華看見就不喜悅， 將怒氣從仇敵身上轉過來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Don’t fret yourself because of evildoers, neither be envious of the wicked;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要为作恶的心怀不平， 也不要嫉妒恶人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要為作惡的心懷不平， 也不要嫉妒惡人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "for there will be no reward to the evil man. The lamp of the wicked will be snuffed out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，恶人终不得善报； 恶人的灯也必熄灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，惡人終不得善報； 惡人的燈也必熄滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "My son, fear the LORD and the king. Don’t join those who are rebellious,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你要敬畏耶和华与君王， 不要与反复无常的人结交，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你要敬畏耶和華與君王， 不要與反覆無常的人結交，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "for their calamity will rise suddenly. Who knows what destruction may come from them both?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们的灾难必忽然而起。 耶和华与君王所施行的毁灭， 谁能知道呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們的災難必忽然而起。 耶和華與君王所施行的毀滅， 誰能知道呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "These also are sayings of the wise: To show partiality in judgment is not good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以下也是智慧人的箴言： 审判时看人情面是不好的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以下也是智慧人的箴言： 審判時看人情面是不好的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He who says to the wicked, “You are righteous,” peoples will curse him, and nations will abhor him—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对恶人说「你是义人」的， 这人万民必咒诅，列邦必憎恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對惡人說「你是義人」的， 這人萬民必咒詛，列邦必憎惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "but it will go well with those who convict the guilty, and a rich blessing will come on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "责备恶人的，必得喜悦； 美好的福也必临到他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "責備惡人的，必得喜悅； 美好的福也必臨到他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "An honest answer is like a kiss on the lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "应对正直的，犹如与人亲嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "應對正直的，猶如與人親嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Prepare your work outside, and get your fields ready. Afterwards, build your house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要在外头预备工料， 在田间办理整齐， 然后建造房屋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要在外頭預備工料， 在田間辦理整齊， 然後建造房屋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Don’t be a witness against your neighbor without cause. Don’t deceive with your lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可无故作见证陷害邻舍， 也不可用嘴欺骗人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可無故作見證陷害鄰舍， 也不可用嘴欺騙人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Don’t say, “I will do to him as he has done to me; I will repay the man according to his work.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可说：人怎样待我，我也怎样待他； 我必照他所行的报复他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可說：人怎樣待我，我也怎樣待他； 我必照他所行的報復他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "I went by the field of the sluggard, by the vineyard of the man void of understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我经过懒惰人的田地、 无知人的葡萄园，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我經過懶惰人的田地、 無知人的葡萄園，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Behold, it was all grown over with thorns. Its surface was covered with nettles, and its stone wall was broken down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "荆棘长满了地皮， 刺草遮盖了田面， 石墙也坍塌了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "荊棘長滿了地皮， 刺草遮蓋了田面， 石牆也坍塌了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Then I saw, and considered well. I saw, and received instruction:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看见就留心思想； 我看着就领了训诲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看見就留心思想； 我看着就領了訓誨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "a little sleep, a little slumber, a little folding of the hands to sleep,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再睡片时，打盹片时， 抱着手躺卧片时，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再睡片時，打盹片時， 抱着手躺臥片時，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "so your poverty will come as a robber and your want as an armed man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的贫穷就必如强盗速来， 你的缺乏仿佛拿兵器的人来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的貧窮就必如強盜速來， 你的缺乏彷彿拿兵器的人來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

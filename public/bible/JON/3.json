@@ -1,0 +1,199 @@
+{
+  "bookId": "JON",
+  "chapter": 3,
+  "bookEnglish": "Jonah",
+  "bookChineseSimplified": "约拿书",
+  "bookChineseTraditional": "約拿書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD’s word came to Jonah the second time, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话二次临到约拿说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話二次臨到約拿說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Arise, go to Nineveh, that great city, and preach to it the message that I give you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你起来！往尼尼微大城去，向其中的居民宣告我所吩咐你的话。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你起來！往尼尼微大城去，向其中的居民宣告我所吩咐你的話。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "So Jonah arose, and went to Nineveh, according to the LORD’s word. Now Nineveh was an exceedingly great city, three days’ journey across.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿便照耶和华的话起来，往尼尼微去。这尼尼微是极大的城，有三日的路程。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿便照耶和華的話起來，往尼尼微去。這尼尼微是極大的城，有三日的路程。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Jonah began to enter into the city a day’s journey, and he cried out, and said, “In forty days, Nineveh will be overthrown!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿进城走了一日，宣告说：「再等四十日，尼尼微必倾覆了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿進城走了一日，宣告說：「再等四十日，尼尼微必傾覆了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The people of Nineveh believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼尼微人信服 神，便宣告禁食，从最大的到至小的都穿麻衣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 或译：披上麻布"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼尼微人信服上帝，便宣告禁食，從最大的到至小的都穿麻衣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 或譯：披上麻布"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The news reached the king of Nineveh, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这信息传到尼尼微王的耳中，他就下了宝座，脱下朝服，披上麻布，坐在灰中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這信息傳到尼尼微王的耳中，他就下了寶座，脫下朝服，披上麻布，坐在灰中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He made a proclamation and published through Nineveh by the decree of the king and his nobles, saying, “Let neither man nor animal, herd nor flock, taste anything; let them not feed, nor drink water;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又使人遍告尼尼微通城，说：「王和大臣有令，人不可尝什么，牲畜、牛羊不可吃草，也不可喝水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又使人遍告尼尼微通城，說：「王和大臣有令，人不可嘗甚麼，牲畜、牛羊不可吃草，也不可喝水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人与牲畜都当披上麻布；人要切切求告 神。各人回头离开所行的恶道，丢弃手中的强暴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人與牲畜都當披上麻布；人要切切求告上帝。各人回頭離開所行的惡道，丟棄手中的強暴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Who knows whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或者 神转意后悔，不发烈怒，使我们不致灭亡，也未可知。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或者上帝轉意後悔，不發烈怒，使我們不致滅亡，也未可知。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是 神察看他们的行为，见他们离开恶道，他就后悔，不把所说的灾祸降与他们了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是上帝察看他們的行為，見他們離開惡道，他就後悔，不把所說的災禍降與他們了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "bookId": "ECC",
+  "chapter": 2,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里说：「来吧，我以喜乐试试你，你好享福！」谁知，这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏說：「來吧，我以喜樂試試你，你好享福！」誰知，這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我指嬉笑说：「这是狂妄。」论喜乐说：「有何功效呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我指嬉笑說：「這是狂妄。」論喜樂說：「有何功效呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里察究，如何用酒使我肉体舒畅，我心却仍以智慧引导我；又如何持住愚昧，等我看明世人，在天下一生当行何事为美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏察究，如何用酒使我肉體舒暢，我心卻仍以智慧引導我；又如何持住愚昧，等我看明世人，在天下一生當行何事為美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I made myself great works. I built myself houses. I planted myself vineyards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为自己动大工程，建造房屋，栽种葡萄园，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為自己動大工程，建造房屋，栽種葡萄園，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I made myself gardens and parks, and I planted trees in them of all kinds of fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "修造园囿，在其中栽种各样果木树；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "修造園囿，在其中栽種各樣果木樹；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I made myself pools of water, to water the forest where trees were grown.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挖造水池，用以浇灌嫩小的树木。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挖造水池，用以澆灌嫩小的樹木。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我买了仆婢，也有生在家中的仆婢；又有许多牛群羊群，胜过以前在耶路撒冷众人所有的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我買了僕婢，也有生在家中的僕婢；又有許多牛群羊群，勝過以前在耶路撒冷眾人所有的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments of all sorts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又为自己积蓄金银和君王的财宝，并各省的财宝；又得唱歌的男女和世人所喜爱的物，并许多的妃嫔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又為自己積蓄金銀和君王的財寶，並各省的財寶；又得唱歌的男女和世人所喜愛的物，並許多的妃嬪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我就日见昌盛，胜过以前在耶路撒冷的众人。我的智慧仍然存留。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我就日見昌盛，勝過以前在耶路撒冷的眾人。我的智慧仍然存留。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡我眼所求的，我没有留下不给它的；我心所乐的，我没有禁止不享受的；因我的心为我一切所劳碌的快乐，这就是我从劳碌中所得的分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡我眼所求的，我沒有留下不給它的；我心所樂的，我沒有禁止不享受的；因我的心為我一切所勞碌的快樂，這就是我從勞碌中所得的分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来，我察看我手所经营的一切事和我劳碌所成的功。谁知都是虚空，都是捕风；在日光之下毫无益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來，我察看我手所經營的一切事和我勞碌所成的功。誰知都是虛空，都是捕風；在日光之下毫無益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I turned myself to consider wisdom, madness, and folly; for what can the king’s successor do? Just that which has been done long ago.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我转念观看智慧、狂妄，和愚昧。在王以后而来的人还能做什么呢？也不过行早先所行的就是了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我轉念觀看智慧、狂妄，和愚昧。在王以後而來的人還能做甚麼呢？也不過行早先所行的就是了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then I saw that wisdom excels folly, as far as light excels darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便看出智慧胜过愚昧，如同光明胜过黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便看出智慧勝過愚昧，如同光明勝過黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的眼目光明，愚昧人在黑暗里行。我却看明有一件事，这两等人都必遇见。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:14 光明：原文是在他头上"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的眼目光明，愚昧人在黑暗裏行。我卻看明有一件事，這兩等人都必遇見。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:14 光明：原文是在他頭上"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就心里说：「愚昧人所遇见的，我也必遇见，我为何更有智慧呢？」我心里说，这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就心裏說：「愚昧人所遇見的，我也必遇見，我為何更有智慧呢？」我心裏說，這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人和愚昧人一样，永远无人记念，因为日后都被忘记；可叹智慧人死亡，与愚昧人无异。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人和愚昧人一樣，永遠無人記念，因為日後都被忘記；可歎智慧人死亡，與愚昧人無異。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所以恨恶生命；因为在日光之下所行的事我都以为烦恼，都是虚空，都是捕风。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所以恨惡生命；因為在日光之下所行的事我都以為煩惱，都是虛空，都是捕風。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我恨恶一切的劳碌，就是我在日光之下的劳碌，因为我得来的必留给我以后的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我恨惡一切的勞碌，就是我在日光之下的勞碌，因為我得來的必留給我以後的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人是智慧是愚昧，谁能知道？他竟要管理我劳碌所得的，就是我在日光之下用智慧所得的。这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人是智慧是愚昧，誰能知道？他竟要管理我勞碌所得的，就是我在日光之下用智慧所得的。這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，我转想我在日光之下所劳碌的一切工作，心便绝望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，我轉想我在日光之下所勞碌的一切工作，心便絕望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有人用智慧、知识、灵巧所劳碌得来的，却要留给未曾劳碌的人为分。这也是虚空，也是大患。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有人用智慧、知識、靈巧所勞碌得來的，卻要留給未曾勞碌的人為分。這也是虛空，也是大患。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在日光之下劳碌累心，在他一切的劳碌上得着什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在日光之下勞碌累心，在他一切的勞碌上得着甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他日日忧虑，他的劳苦成为愁烦，连夜间心也不安。这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他日日憂慮，他的勞苦成為愁煩，連夜間心也不安。這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人莫强如吃喝，且在劳碌中享福，我看这也是出于 神的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人莫強如吃喝，且在勞碌中享福，我看這也是出於上帝的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For who can eat, or who can have enjoyment, more than I?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到吃用、享福，谁能胜过我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到吃用、享福，誰能勝過我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神喜悦谁，就给谁智慧、知识，和喜乐；惟有罪人， 神使他劳苦，叫他将所收聚的、所堆积的归给 神所喜悦的人。这也是虚空，也是捕风。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝喜悅誰，就給誰智慧、知識，和喜樂；惟有罪人，上帝使他勞苦，叫他將所收聚的、所堆積的歸給上帝所喜悅的人。這也是虛空，也是捕風。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

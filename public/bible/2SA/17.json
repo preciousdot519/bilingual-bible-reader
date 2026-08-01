@@ -1,0 +1,541 @@
+{
+  "bookId": "2SA",
+  "chapter": 17,
+  "bookEnglish": "2 Samuel",
+  "bookChineseSimplified": "撒母耳记下",
+  "bookChineseTraditional": "撒母耳記下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moreover Ahithophel said to Absalom, “Let me now choose twelve thousand men, and I will arise and pursue after David tonight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希多弗又对押沙龙说：「求你准我挑选一万二千人，今夜我就起身追赶大卫，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希多弗又對押沙龍說：「求你准我挑選一萬二千人，今夜我就起身追趕大衛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will come on him while he is weary and exhausted, and will make him afraid. All the people who are with him will flee. I will strike the king only,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "趁他疲乏手软，我忽然追上他，使他惊惶；跟随他的民必都逃跑，我就单杀王一人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "趁他疲乏手軟，我忽然追上他，使他驚惶；跟隨他的民必都逃跑，我就單殺王一人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and I will bring back all the people to you. The man whom you seek is as if all returned. All the people shall be in peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使众民都归顺你。你所寻找的人既然死了，众民就如已经归顺你；这样，也都平安无事了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使眾民都歸順你。你所尋找的人既然死了，眾民就如已經歸順你；這樣，也都平安無事了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The saying pleased Absalom well, and all the elders of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙和以色列的长老都以这话为美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍和以色列的長老都以這話為美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then Absalom said, “Now call Hushai the Archite also, and let’s hear likewise what he says.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙说：「要召亚基人户筛来，我们也要听他怎样说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍說：「要召亞基人戶篩來，我們也要聽他怎樣說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When Hushai had come to Absalom, Absalom spoke to him, saying, “Ahithophel has spoken like this. Shall we do what he says? If not, speak up.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户筛到了押沙龙面前，押沙龙向他说：「亚希多弗是如此如此说的，我们照着他的话行可以不可以？若不可，你就说吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶篩到了押沙龍面前，押沙龍向他說：「亞希多弗是如此如此說的，我們照着他的話行可以不可以？若不可，你就說吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Hushai said to Absalom, “The counsel that Ahithophel has given this time is not good.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户筛对押沙龙说：「亚希多弗这次所定的谋不善。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶篩對押沙龍說：「亞希多弗這次所定的謀不善。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Hushai said moreover, “You know your father and his men, that they are mighty men, and they are fierce in their minds, like a bear robbed of her cubs in the field. Your father is a man of war, and will not lodge with the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户筛又说：「你知道，你父亲和跟随他的人都是勇士，现在他们心里恼怒，如同田野丢崽子的母熊一般，而且你父亲是个战士，必不和民一同住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶篩又說：「你知道，你父親和跟隨他的人都是勇士，現在他們心裏惱怒，如同田野丟崽子的母熊一般，而且你父親是個戰士，必不和民一同住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Behold, he is now hidden in some pit, or in some other place. It will happen, when some of them have fallen at the first, that whoever hears it will say, ‘There is a slaughter among the people who follow Absalom!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他现今或藏在坑中或在别处，若有人首先被杀，凡听见的必说：『跟随押沙龙的民被杀了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他現今或藏在坑中或在別處，若有人首先被殺，凡聽見的必說：『跟隨押沙龍的民被殺了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Even he who is valiant, whose heart is as the heart of a lion, will utterly melt; for all Israel knows that your father is a mighty man, and those who are with him are valiant men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽有人胆大如狮子，他的心也必消化；因为以色列人都知道你父亲是英雄，跟随他的人也都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖有人膽大如獅子，他的心也必消化；因為以色列人都知道你父親是英雄，跟隨他的人也都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But I counsel that all Israel be gathered together to you, from Dan even to Beersheba, as the sand that is by the sea for multitude; and that you go to battle in your own person.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "依我之计，不如将以色列众人—从但直到别是巴，如同海边的沙那样多—聚集到你这里来，你也亲自率领他们出战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "依我之計，不如將以色列眾人－從但直到別是巴，如同海邊的沙那樣多－聚集到你這裏來，你也親自率領他們出戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So we will come on him in some place where he will be found, and we will light on him as the dew falls on the ground, then we will not leave so much as one of him and of all the men who are with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我们在何处遇见他，就下到他那里，如同露水下在地上一般，连他带跟随他的人，一个也不留下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們在何處遇見他，就下到他那裏，如同露水下在地上一般，連他帶跟隨他的人，一個也不留下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Moreover, if he has gone into a city, then all Israel will bring ropes to that city, and we will draw it into the river, until there isn’t one small stone found there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若进了哪一座城，以色列众人必带绳子去，将那城拉到河里，甚至连一块小石头都不剩下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若進了哪一座城，以色列眾人必帶繩子去，將那城拉到河裏，甚至連一塊小石頭都不剩下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Absalom and all the men of Israel said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.” For the LORD had ordained to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil on Absalom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙和以色列众人说：「亚基人户筛的计谋比亚希多弗的计谋更好！」这是因耶和华定意破坏亚希多弗的良谋，为要降祸与押沙龙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍和以色列眾人說：「亞基人戶篩的計謀比亞希多弗的計謀更好！」這是因耶和華定意破壞亞希多弗的良謀，為要降禍與押沙龍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then Hushai said to Zadok and to Abiathar the priests, “Ahithophel counseled Absalom and the elders of Israel that way; and I have counseled this way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户筛对祭司撒督和亚比亚他说： 「亚希多弗为押沙龙和以色列的长老所定的计谋是如此如此，我所定的计谋是如此如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶篩對祭司撒督和亞比亞他說：「亞希多弗為押沙龍和以色列的長老所定的計謀是如此如此，我所定的計謀是如此如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now therefore send quickly, and tell David, saying, ‘Don’t lodge tonight at the fords of the wilderness, but by all means pass over, lest the king be swallowed up, and all the people who are with him.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们要急速打发人去，告诉大卫说：『今夜不可住在旷野的渡口，务要过河，免得王和跟随他的人都被吞灭。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們要急速打發人去，告訴大衛說：『今夜不可住在曠野的渡口，務要過河，免得王和跟隨他的人都被吞滅。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Now Jonathan and Ahimaaz were staying by En Rogel; and a female servant used to go and report to them, and they went and told King David; for they couldn’t risk being seen coming into the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，约拿单和亚希玛斯在隐·罗结那里等候，不敢进城，恐怕被人看见。有一个使女出来，将这话告诉他们，他们就去报信给大卫王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，約拿單和亞希瑪斯在隱‧羅結那裏等候，不敢進城，恐怕被人看見。有一個使女出來，將這話告訴他們，他們就去報信給大衛王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But a boy saw them, and told Absalom. Then they both went away quickly and came to the house of a man in Bahurim, who had a well in his court; and they went down there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而有一个童子看见他们，就去告诉押沙龙。他们急忙跑到巴户琳某人的家里；那人院中有一口井，他们就下到井里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而有一個童子看見他們，就去告訴押沙龍。他們急忙跑到巴戶琳某人的家裏；那人院中有一口井，他們就下到井裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The woman took and spread the covering over the well’s mouth, and spread out crushed grain on it; and nothing was known.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那家的妇人用盖盖上井口，又在上头铺上碎麦，事就没有泄漏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那家的婦人用蓋蓋上井口，又在上頭鋪上碎麥，事就沒有洩漏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Absalom’s servants came to the woman to the house; and they said, “Where are Ahimaaz and Jonathan?” The woman said to them, “They have gone over the brook of water.” When they had sought and could not find them, they returned to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙的仆人来到那家，问妇人说：「亚希玛斯和约拿单在哪里？」妇人说：「他们过了河了。」仆人找他们，找不着，就回耶路撒冷去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍的僕人來到那家，問婦人說：「亞希瑪斯和約拿單在哪裏？」婦人說：「他們過了河了。」 耶路撒冷去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "After they had departed, they came up out of the well and went and told King David; and they said to David, “Arise and pass quickly over the water; for thus has Ahithophel counseled against you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们走后，二人从井里上来，去告诉大卫王说：「亚希多弗如此如此定计害你，你们务要起来，快快过河。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們走後，二人從井裏上來，去告訴大衛王說：「亞希多弗如此如此定計害你，你們務要起來，快快過河。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Then David arose, and all the people who were with him, and they passed over the Jordan. By the morning light there lacked not one of them who had not gone over the Jordan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是大卫和跟随他的人都起来，过约旦河。到了天亮，无一人不过约旦河的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是大衛和跟隨他的人都起來，過約旦河。到了天亮，無一人不過約旦河的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When Ahithophel saw that his counsel was not followed, he saddled his donkey, arose, and went home to his city, set his house in order, and hanged himself; and he died, and was buried in the tomb of his father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希多弗见不依从他的计谋，就备上驴，归回本城；到了家，留下遗言，便吊死了，葬在他父亲的坟墓里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希多弗見不依從他的計謀，就備上驢，歸回本城；到了家，留下遺言，便吊死了，葬在他父親的墳墓裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then David came to Mahanaim. Absalom passed over the Jordan, he and all the men of Israel with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫到了玛哈念，押沙龙和跟随他的以色列人也都过了约旦河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛到了瑪哈念，押沙龍和跟隨他的以色列人也都過了約旦河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Absalom set Amasa over the army instead of Joab. Now Amasa was the son of a man whose name was Ithra the Israelite, who went in to Abigail the daughter of Nahash, sister to Zeruiah, Joab’s mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙立亚玛撒作元帅，代替约押。亚玛撒是以实玛利人以特拉的儿子。以特拉曾与拿辖的女儿亚比该亲近；这亚比该与约押的母亲洗鲁雅是姊妹。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:25 又作以色列人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍立亞瑪撒作元帥，代替約押。亞瑪撒是以實瑪利人 以特拉的兒子。以特拉曾與拿轄的女兒亞比該親近；這亞比該與約押的母親洗魯雅是姊妹。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:25 又作以色列人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Israel and Absalom encamped in the land of Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押沙龙和以色列人都安营在基列地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押沙龍和以色列人都安營在基列地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "When David had come to Mahanaim, Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫到了玛哈念，亚扪族的拉巴人拿辖的儿子朔比，罗·底巴人亚米利的儿子玛吉，基列的罗基琳人巴西莱，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛到了瑪哈念，亞捫族的拉巴人拿轄的兒子朔比，羅‧底巴人亞‧米利的兒子瑪吉，基列的羅基琳人巴西萊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "brought beds, basins, earthen vessels, wheat, barley, meal, parched grain, beans, lentils, roasted grain,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "带着被、褥、盆、碗、瓦器、小麦、大麦、麦面、炒谷、豆子、红豆、炒豆、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帶着被、褥、盆、碗、瓦器、小麥、大麥、麥麵、炒穀、豆子、紅豆、炒豆、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "honey, butter, sheep, and cheese of the herd, for David and for the people who were with him to eat; for they said, “The people are hungry, weary, and thirsty in the wilderness.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蜂蜜、奶油、绵羊、奶饼，供给大卫和跟随他的人吃；他们说：「民在旷野，必饥渴困乏了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "蜂蜜、奶油、綿羊、奶餅，供給大衛和跟隨他的人吃；他們說：「民在曠野，必飢渴困乏了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

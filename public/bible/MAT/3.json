@@ -1,0 +1,341 @@
+{
+  "bookId": "MAT",
+  "chapter": 3,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，有施洗的约翰出来，在犹太的旷野传道，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，有施洗的約翰出來，在猶太的曠野傳道，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Repent, for the Kingdom of Heaven is at hand!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「天国近了，你们应当悔改！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「天國近了，你們應當悔改！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For this is he who was spoken of by Isaiah the prophet, saying, “The voice of one crying in the wilderness, make the way of the Lord ready! Make his paths straight!”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:3 Isaiah 40:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这人就是先知以赛亚所说的。他说：「在旷野有人声喊着说： 预备主的道， 修直他的路！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人就是先知以賽亞所說的。他說：「在曠野有人聲喊着說： 預備主的道， 修直他的路！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now John himself wore clothing made of camel’s hair with a leather belt around his waist. His food was locusts and wild honey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这约翰身穿骆驼毛的衣服，腰束皮带，吃的是蝗虫、野蜜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這約翰身穿駱駝毛的衣服，腰束皮帶，吃的是蝗蟲、野蜜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then people from Jerusalem, all of Judea, and all the region around the Jordan went out to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，耶路撒冷和犹太全地，并约旦河一带地方的人，都出去到约翰那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，耶路撒冷和猶太全地，並約旦河一帶地方的人，都出去到約翰那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They were baptized by him in the Jordan, confessing their sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "承认他们的罪，在约旦河里受他的洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "承認他們的罪，在約旦河裏受他的洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, “You offspring of vipers, who warned you to flee from the wrath to come?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰看见许多法利赛人和撒都该人也来受洗，就对他们说：「毒蛇的种类！谁指示你们逃避将来的愤怒呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰看見許多法利賽人和撒都該人也來受洗，就對他們說：「毒蛇的種類！誰指示你們逃避將來的忿怒呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Therefore produce fruit worthy of repentance!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要结出果子来，与悔改的心相称。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要結出果子來，與悔改的心相稱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’t think to yourselves, ‘We have Abraham for our father,’ for I tell you that God is able to raise up children to Abraham from these stones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要自己心里说：『有亚伯拉罕为我们的祖宗。』我告诉你们， 神能从这些石头中给亚伯拉罕兴起子孙来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要自己心裏說：『有亞伯拉罕為我們的祖宗。』我告訴你們，上帝能從這些石頭中給亞伯拉罕興起子孫來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Even now the ax lies at the root of the trees. Therefore every tree that doesn’t produce good fruit is cut down, and cast into the fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在斧子已經放在樹根上，凡不結好果子的樹就砍下來，丟在火裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you in the Holy Spirit.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:11 TR and NU add “and with fire”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是用水给你们施洗，叫你们悔改。但那在我以后来的，能力比我更大，我就是给他提鞋也不配。他要用圣灵与火给你们施洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是用水給你們施洗，叫你們悔改。但那在我以後來的，能力比我更大，我就是給他提鞋也不配。他要用聖靈與火給你們施洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他手里拿着簸箕，要扬净他的场，把麦子收在仓里，把糠用不灭的火烧尽了。」 （可1·9—11；路3·21—22）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他手裏拿着簸箕，要揚淨他的場，把麥子收在倉裏，把糠用不滅的火燒盡了。」 （可1‧9－11；路3‧21－22）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:13 i.e., the Jordan River"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，耶稣从加利利来到约旦河，见了约翰，要受他的洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，耶穌從加利利來到約旦河，見了約翰，要受他的洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰想要拦住他，说：「我当受你的洗，你反倒上我这里来吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰想要攔住他，說：「我當受你的洗，你反倒上我這裏來嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But Jesus, answering, said to him, “Allow itnow, for this is the fitting way for us to fulfill all righteousness.”Then he allowed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「你暂且许我，因为我们理当这样尽诸般的义。」于是约翰许了他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或译：礼"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「你暫且許我，因為我們理當這樣盡諸般的義。」於是約翰許了他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或譯：禮"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣受了洗，随即从水里上来。天忽然为他开了，他就看见 神的灵仿佛鸽子降下，落在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌受了洗，隨即從水裏上來。天忽然為他開了，他就看見上帝的靈彷彿鴿子降下，落在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从天上有声音说：「这是我的爱子，我所喜悦的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從天上有聲音說：「這是我的愛子，我所喜悅的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

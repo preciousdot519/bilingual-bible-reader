@@ -1,0 +1,896 @@
+{
+  "bookId": "EZK",
+  "chapter": 20,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of the LORD, and sat before me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第七年五月初十日，有以色列的几个长老来求问耶和华，坐在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第七年五月初十日，有以色列的幾個長老來求問耶和華，坐在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD’s word came to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Son of man, speak to the elders of Israel, and tell them, ‘The Lord GOD says: “Is it to inquire of me that you have come? As I live,” says the Lord GOD, “I will not be inquired of by you.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人子啊，你要告诉以色列的长老说，主耶和华如此说：你们来是求问我吗？主耶和华说：我指着我的永生起誓，我必不被你们求问。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人子啊，你要告訴以色列的長老說，主耶和華如此說：你們來是求問我嗎？主耶和華說：我指着我的永生起誓，我必不被你們求問。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“Will you judge them, son of man? Will you judge them? Cause them to know the abominations of their fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人子啊，你要审问审问他们吗？你当使他们知道他们列祖那些可憎的事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人子啊，你要審問審問他們嗎？你當使他們知道他們列祖那些可憎的事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Tell them, ‘The Lord GOD says: “In the day when I chose Israel, and swore to the offspring of the house of Jacob, and made myself known to them in the land of Egypt, when I swore to them, saying, ‘I am the LORD your God;’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说，主耶和华如此说：当日我拣选以色列，向雅各家的后裔起誓，在埃及地将自己向他们显现，说：我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說，主耶和華如此說：當日我揀選以色列，向雅各家的後裔起誓，在埃及地將自己向他們顯現，說：我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "in that day I swore to them to bring them out of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日我向他们起誓，必领他们出埃及地，到我为他们察看的流奶与蜜之地；那地在万国中是有荣耀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日我向他們起誓，必領他們出埃及地，到我為他們察看的流奶與蜜之地；那地在萬國中是有榮耀的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I said to them, ‘Each of you throw away the abominations of his eyes. Don’t defile yourselves with the idols of Egypt. I am the LORD your God.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对他们说，你们各人要抛弃眼所喜爱那可憎之物，不可因埃及的偶像玷污自己。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對他們說，你們各人要拋棄眼所喜愛那可憎之物，不可因埃及的偶像玷污自己。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“‘“But they rebelled against me and wouldn’t listen to me. They didn’t all throw away the abominations of their eyes. They also didn’t forsake the idols of Egypt. Then I said I would pour out my wrath on them, to accomplish my anger against them in the middle of the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们却悖逆我，不肯听从我，不抛弃他们眼所喜爱那可憎之物，不离弃埃及的偶像。 埃及地向他们成就我怒中所定的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們卻悖逆我，不肯聽從我，不拋棄他們眼所喜愛那可憎之物，不離棄埃及的偶像。 埃及地向他們成就我怒中所定的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But I worked for my name’s sake, that it should not be profaned in the sight of the nations among which they were, in whose sight I made myself known to them in bringing them out of the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却为我名的缘故没有这样行，免得我名在他们所住的列国人眼前被亵渎；我领他们出埃及地，在这列国人的眼前将自己向他们显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻為我名的緣故沒有這樣行，免得我名在他們所住的列國人眼前被褻瀆；我領他們出埃及地，在這列國人的眼前將自己向他們顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "So I caused them to go out of the land of Egypt and brought them into the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我就使他们出埃及地，领他们到旷野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我就使他們出埃及地，領他們到曠野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "I gave them my statutes and showed them my ordinances, which if a man does, he will live in them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将我的律例赐给他们，将我的典章指示他们；人若遵行就必因此活着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將我的律例賜給他們，將我的典章指示他們；人若遵行就必因此活着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Moreover also I gave them my Sabbaths, to be a sign between me and them, that they might know that I am the LORD who sanctifies them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将我的安息日赐给他们，好在我与他们中间为证据，使他们知道我—耶和华是叫他们成为圣的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將我的安息日賜給他們，好在我與他們中間為證據，使他們知道我－耶和華是叫他們成為聖的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘“But the house of Israel rebelled against me in the wilderness. They didn’t walk in my statutes and they rejected my ordinances, which if a man keeps, he shall live in them. They greatly profaned my Sabbaths. Then I said I would pour out my wrath on them in the wilderness, to consume them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列家却在旷野悖逆我，不顺从我的律例，厌弃我的典章（人若遵行就必因此活着），大大干犯我的安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列家卻在曠野悖逆我，不順從我的律例，厭棄我的典章（人若遵行就必因此活着），大大干犯我的安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But I worked for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却为我名的缘故，没有这样行，免得我的名在我领他们出埃及的列国人眼前被亵渎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻為我名的緣故，沒有這樣行，免得我的名在我領他們出埃及的列國人眼前被褻瀆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moreover also I swore to them in the wilderness that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我在旷野向他们起誓，必不领他们进入我所赐给他们流奶与蜜之地（那地在万国中是有荣耀的）；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我在曠野向他們起誓，必不領他們進入我所賜給他們流奶與蜜之地（那地在萬國中是有榮耀的）；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "because they rejected my ordinances, and didn’t walk in my statutes, and profaned my Sabbaths; for their heart went after their idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们厌弃我的典章，不顺从我的律例，干犯我的安息日，他们的心随从自己的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們厭棄我的典章，不順從我的律例，干犯我的安息日，他們的心隨從自己的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Nevertheless my eye spared them, and I didn’t destroy them. I didn’t make a full end of them in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽然如此，我眼仍顾惜他们，不毁灭他们，不在旷野将他们灭绝净尽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖然如此，我眼仍顧惜他們，不毀滅他們，不在曠野將他們滅絕淨盡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I said to their children in the wilderness, ‘Don’t walk in the statutes of your fathers. Don’t observe their ordinances or defile yourselves with their idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我在旷野对他们的儿女说：不要遵行你们父亲的律例，不要谨守他们的恶规，也不要因他们的偶像玷污自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我在曠野對他們的兒女說：不要遵行你們父親的律例，不要謹守他們的惡規，也不要因他們的偶像玷污自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I am the LORD your God. Walk in my statutes, keep my ordinances, and do them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华—你们的 神，你们要顺从我的律例，谨守遵行我的典章，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華－你們的上帝，你們要順從我的律例，謹守遵行我的典章，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Make my Sabbaths holy. They shall be a sign between me and you, that you may know that I am the LORD your God.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "且以我的安息日为圣。这日在我与你们中间为证据，使你们知道我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "且以我的安息日為聖。這日在我與你們中間為證據，使你們知道我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“‘“But the children rebelled against me. They didn’t walk in my statutes, and didn’t keep my ordinances to do them, which if a man does, he shall live in them. They profaned my Sabbaths. Then I said I would pour out my wrath on them, to accomplish my anger against them in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是他们的儿女悖逆我，不顺从我的律例，也不谨守遵行我的典章（人若遵行就必因此活着），干犯我的安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是他們的兒女悖逆我，不順從我的律例，也不謹守遵行我的典章（人若遵行就必因此活着），干犯我的安息日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Nevertheless I withdrew my hand and worked for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽然如此，我却为我名的缘故缩手没有这样行，免得我的名在我领他们出埃及的列国人眼前被亵渎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖然如此，我卻為我名的緣故縮手沒有這樣行，免得我的名在我領他們出埃及的列國人眼前被褻瀆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Moreover I swore to them in the wilderness, that I would scatter them among the nations and disperse them through the countries,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我在旷野向他们起誓，必将他们分散在列国，四散在列邦；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我在曠野向他們起誓，必將他們分散在列國，四散在列邦；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "because they had not executed my ordinances, but had rejected my statutes, and had profaned my Sabbaths, and their eyes were after their fathers’ idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们不遵行我的典章，竟厌弃我的律例，干犯我的安息日，眼目仰望他们父亲的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們不遵行我的典章，竟厭棄我的律例，干犯我的安息日，眼目仰望他們父親的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Moreover also I gave them statutes that were not good, and ordinances in which they couldn’t live.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也任他们遵行不美的律例，谨守不能使人活着的恶规。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也任他們遵行不美的律例，謹守不能使人活着的惡規。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I polluted them in their own gifts, in that they caused all that opens the womb to pass through the fire, that I might make them desolate, to the end that they might know that I am the LORD.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他们将一切头生的经火，我就任凭他们在这供献的事上玷污自己，好叫他们凄凉，使他们知道我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他們將一切頭生的經火，我就任憑他們在這供獻的事上玷污自己，好叫他們淒涼，使他們知道我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Therefore, son of man, speak to the house of Israel, and tell them, ‘The Lord GOD says: “Moreover, in this your fathers have blasphemed me, in that they have committed a trespass against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人子啊，你要告诉以色列家说，主耶和华如此说：你们的列祖在得罪我的事上亵渎我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人子啊，你要告訴以色列家說，主耶和華如此說：你們的列祖在得罪我的事上褻瀆我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "For when I had brought them into the land which I swore to give to them, then they saw every high hill and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering. There they also made their pleasant aroma, and there they poured out their drink offerings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我领他们到了我起誓应许赐给他们的地，他们看见各高山、各茂密树，就在那里献祭，奉上惹我发怒的供物，也在那里焚烧馨香的祭牲，并浇上奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我領他們到了我起誓應許賜給他們的地，他們看見各高山、各茂密樹，就在那裏獻祭，奉上惹我發怒的供物，也在那裏焚燒馨香的祭牲，並澆上奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Then I said to them, ‘What does the high place where you go mean?’ So its name is called Bamah to this day.”’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:29 “Bamah” means “High Place”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就对他们说：你们所上的那高处叫什么呢？（那高处的名字叫巴麻直到今日。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就對他們說：你們所上的那高處叫甚麼呢？（那高處的名字叫巴麻直到今日。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“Therefore tell the house of Israel, ‘The Lord GOD says: “Do you pollute yourselves in the way of your fathers? Do you play the prostitute after their abominations?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你要对以色列家说，主耶和华如此说：你们仍照你们列祖所行的玷污自己吗？仍照他们可憎的事行邪淫吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你要對以色列家說，主耶和華如此說：你們仍照你們列祖所行的玷污自己嗎？仍照他們可憎的事行邪淫嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "When you offer your gifts, when you make your sons pass through the fire, do you pollute yourselves with all your idols to this day? Should I be inquired of by you, house of Israel? As I live, says the Lord GOD, I will not be inquired of by you!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们奉上供物使你们儿子经火的时候，仍将一切偶像玷污自己，直到今日吗？以色列家啊，我岂被你们求问吗？主耶和华说：我指着我的永生起誓，我必不被你们求问。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們奉上供物使你們兒子經火的時候，仍將一切偶像玷污自己，直到今日嗎？以色列家啊，我豈被你們求問嗎？主耶和華說：我指着我的永生起誓，我必不被你們求問。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“‘“That which comes into your mind will not be at all, in that you say, ‘We will be as the nations, as the families of the countries, to serve wood and stone.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们说：我们要像外邦人和列国的宗族一样，去事奉木头与石头。你们所起的这心意万不能成就。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們說：我們要像外邦人和列國的宗族一樣，去事奉木頭與石頭。你們所起的這心意萬不能成就。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "As I live,” says the Lord GOD, “surely with a mighty hand, with an outstretched arm, and with wrath poured out, I will be king over you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华说：「我指着我的永生起誓，我总要作王，用大能的手和伸出来的膀臂，并倾出来的忿怒，治理你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華說：「我指着我的永生起誓，我總要作王，用大能的手和伸出來的膀臂，並傾出來的忿怒，治理你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "I will bring you out from the peoples, and will gather you out of the countries in which you are scattered with a mighty hand, with an outstretched arm, and with wrath poured out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必用大能的手和伸出来的膀臂，并倾出来的忿怒，将你们从万民中领出来，从分散的列国内聚集你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必用大能的手和伸出來的膀臂，並傾出來的忿怒，將你們從萬民中領出來，從分散的列國內聚集你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "I will bring you into the wilderness of the peoples, and there I will enter into judgment with you face to face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必带你们到外邦人的旷野，在那里当面刑罚你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必帶你們到外邦人的曠野，在那裏當面刑罰你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you,” says the Lord GOD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我怎样在埃及地的旷野刑罚你们的列祖，也必照样刑罚你们。这是主耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我怎樣在埃及地的曠野刑罰你們的列祖，也必照樣刑罰你們。這是主耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“I will cause you to pass under the rod, and I will bring you into the bond of the covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必使你们从杖下经过，使你们被约拘束。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必使你們從杖下經過，使你們被約拘束。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "I will purge out from among you the rebels and those who disobey me. I will bring them out of the land where they live, but they shall not enter into the land of Israel. Then you will know that I am the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必从你们中间除净叛逆和得罪我的人，将他们从所寄居的地方领出来，他们却不得入以色列地。你们就知道我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必從你們中間除淨叛逆和得罪我的人，將他們從所寄居的地方領出來，他們卻不得入以色列地。你們就知道我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "“‘As for you, house of Israel, the Lord GOD says: “Go, everyone serve his idols, and hereafter also, if you will not listen to me; but you shall no more profane my holy name with your gifts and with your idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「以色列家啊，至于你们，主耶和华如此说：从此以后若不听从我，就任凭你们去事奉偶像，只是不可再因你们的供物和偶像亵渎我的圣名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「以色列家啊，至於你們，主耶和華如此說：從此以後若不聽從我，就任憑你們去事奉偶像，只是不可再因你們的供物和偶像褻瀆我的聖名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "For in my holy mountain, in the mountain of the height of Israel,” says the Lord GOD, “there all the house of Israel, all of them, shall serve me in the land. There I will accept them, and there I will require your offerings and the first fruits of your offerings, with all your holy things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「主耶和华说：在我的圣山，就是以色列高处的山，所有以色列的全家都要事奉我。我要在那里悦纳你们，向你们要供物和初熟的土产，并一切的圣物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「主耶和華說：在我的聖山，就是以色列高處的山，所有以色列的全家都要事奉我。我要在那裏悅納你們，向你們要供物和初熟的土產，並一切的聖物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "I will accept you as a pleasant aroma when I bring you out from the peoples and gather you out of the countries in which you have been scattered. I will be sanctified in you in the sight of the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我从万民中领你们出来，从分散的列国内聚集你们，那时我必悦纳你们好像馨香之祭，要在外邦人眼前在你们身上显为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我從萬民中領你們出來，從分散的列國內聚集你們，那時我必悅納你們好像馨香之祭，要在外邦人眼前在你們身上顯為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "You will know that I am the LORD when I bring you into the land of Israel, into the country which I swore to give to your fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我领你们进入以色列地，就是我起誓应许赐给你们列祖之地，那时你们就知道我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我領你們進入以色列地，就是我起誓應許賜給你們列祖之地，那時你們就知道我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "There you will remember your ways, and all your deeds in which you have polluted yourselves. Then you will loathe yourselves in your own sight for all your evils that you have committed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在那里要追念玷污自己的行动作为，又要因所做的一切恶事厌恶自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在那裏要追念玷污自己的行動作為，又要因所做的一切惡事厭惡自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "You will know that I am the LORD, when I have dealt with you for my name’s sake, not according to your evil ways, nor according to your corrupt doings, you house of Israel,” says the Lord GOD.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华说：以色列家啊，我为我名的缘故，不照着你们的恶行和你们的坏事待你们；你们就知道我是耶和华。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華說：以色列家啊，我為我名的緣故，不照着你們的惡行和你們的壞事待你們；你們就知道我是耶和華。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "The LORD’s word came to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "“Son of man, set your face toward the south, and preach toward the south, and prophesy against the forest of the field in the south.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人子啊，你要面向南方，向南滴下预言攻击南方田野的树林。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人子啊，你要面向南方，向南滴下預言攻擊南方田野的樹林。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Tell the forest of the south, ‘Hear the LORD’s word: The Lord GOD says, “Behold, I will kindle a fire in you, and it will devour every green tree in you, and every dry tree. The burning flame will not be quenched, and all faces from the south to the north will be burned by it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对南方的树林说，要听耶和华的话。主耶和华如此说：我必使火在你中间着起，烧灭你中间的一切青树和枯树，猛烈的火焰必不熄灭。从南到北，人的脸面都被烧焦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對南方的樹林說，要聽耶和華的話。主耶和華如此說：我必使火在你中間着起，燒滅你中間的一切青樹和枯樹，猛烈的火焰必不熄滅。從南到北，人的臉面都被燒焦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "All flesh will see that I, the LORD, have kindled it. It will not be quenched.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有血气的都必知道是我—耶和华使火着起，这火必不熄灭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有血氣的都必知道是我－耶和華使火着起，這火必不熄滅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Then I said, “Ah Lord GOD! They say of me, ‘Isn’t he a speaker of parables?’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是我说：「哎！主耶和华啊，人都指着我说：他岂不是说比喻的吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是我說：「哎！主耶和華啊，人都指着我說：他豈不是說比喻的嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "bookId": "ECC",
+  "chapter": 1,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The words of the Preacher, the son of David, king in Jerusalem:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶路撒冷作王、大卫的儿子、传道者的言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶路撒冷作王、大衛的兒子、傳道者的言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "传道者说：虚空的虚空， 虚空的虚空，凡事都是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "傳道者說：虛空的虛空， 虛空的虛空，凡事都是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "What does man gain from all his labor in which he labors under the sun?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人一切的劳碌， 就是他在日光之下的劳碌，有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人一切的勞碌， 就是他在日光之下的勞碌，有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "One generation goes, and another generation comes; but the earth remains forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一代过去，一代又来， 地却永远长存。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一代過去，一代又來， 地卻永遠長存。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The sun also rises, and the sun goes down, and hurries to its place where it rises.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头出来，日头落下， 急归所出之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭出來，日頭落下， 急歸所出之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The wind goes toward the south, and turns around to the north. It turns around continually as it goes, and the wind returns again to its courses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "风往南刮，又向北转， 不住地旋转，而且返回转行原道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "風往南颳，又向北轉， 不住地旋轉，而且返回轉行原道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "All the rivers run into the sea, yet the sea is not full. To the place where the rivers flow, there they flow again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "江河都往海里流，海却不满； 江河从何处流，仍归还何处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "江河都往海裏流，海卻不滿； 江河從何處流，仍歸還何處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "All things are full of weariness beyond uttering. The eye is not satisfied with seeing, nor the ear filled with hearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万事令人厌烦， 人不能说尽。 眼看，看不饱； 耳听，听不足。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:8 或译：万物满有困乏"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬事令人厭煩， 人不能說盡。 眼看，看不飽； 耳聽，聽不足。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:8 或譯：萬物滿有困乏"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "That which has been is that which shall be, and that which has been done is that which shall be done; and there is no new thing under the sun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "已有的事后必再有； 已行的事后必再行。 日光之下并无新事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "已有的事後必再有； 已行的事後必再行。 日光之下並無新事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Is there a thing of which it may be said, “Behold, this is new”? It has been long ago, in the ages which were before us.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:10 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂有一件事人能指着说这是新的？ 哪知，在我们以前的世代早已有了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈有一件事人能指着說這是新的？ 哪知，在我們以前的世代早已有了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "已过的世代，无人记念； 将来的世代，后来的人也不记念。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "已過的世代，無人記念； 將來的世代，後來的人也不記念。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I, the Preacher, was king over Israel in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我传道者在耶路撒冷作过以色列的王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我傳道者在耶路撒冷作過以色列的王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God has given to the sons of men to be afflicted with.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:13 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我专心用智慧寻求、查究天下所做的一切事，乃知 神叫世人所经练的是极重的劳苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我專心用智慧尋求、查究天下所做的一切事，乃知上帝叫世人所經練的是極重的勞苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见日光之下所做的一切事，都是虚空，都是捕风。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見日光之下所做的一切事，都是虛空，都是捕風。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "That which is crooked can’t be made straight; and that which is lacking can’t be counted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弯曲的，不能变直； 缺少的，不能足数。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彎曲的，不能變直； 缺少的，不能足數。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I said to myself, “Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里议论说：我得了大智慧，胜过我以前在耶路撒冷的众人，而且我心中多经历智慧和知识的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏議論說：我得了大智慧，勝過我以前在耶路撒冷的眾人，而且我心中多經歷智慧和知識的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又专心察明智慧、狂妄，和愚昧，乃知这也是捕风。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又專心察明智慧、狂妄，和愚昧，乃知這也是捕風。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For in much wisdom is much grief; and he who increases knowledge increases sorrow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为多有智慧，就多有愁烦； 加增知识的，就加增忧伤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為多有智慧，就多有愁煩； 加增知識的，就加增憂傷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

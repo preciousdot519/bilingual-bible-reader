@@ -1,0 +1,604 @@
+{
+  "bookId": "GAL",
+  "chapter": 4,
+  "bookEnglish": "Galatians",
+  "bookChineseSimplified": "加拉太书",
+  "bookChineseTraditional": "加拉太書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说那承受产业的，虽然是全业的主人，但为孩童的时候却与奴仆毫无分别，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說那承受產業的，雖然是全業的主人，但為孩童的時候卻與奴僕毫無分別，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "but is under guardians and stewards until the day appointed by the father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乃在师傅和管家的手下，直等他父亲预定的时候来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "乃在師傅和管家的手下，直等他父親預定的時候來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "So we also, when we were children, were held in bondage under the elemental principles of the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们为孩童的时候，受管于世俗小学之下，也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們為孩童的時候，受管於世俗小學之下，也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But when the fullness of the time came, God sent out his Son, born to a woman, born under the law,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "及至时候满足， 神就差遣他的儿子，为女子所生，且生在律法以下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "及至時候滿足，上帝就差遣他的兒子，為女子所生，且生在律法以下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "that he might redeem those who were under the law, that we might receive the adoption as children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把律法以下的人赎出来，叫我们得着儿子的名分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把律法以下的人贖出來，叫我們得着兒子的名分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "And because you are children, God sent out the Spirit of his Son into your hearts, crying, “Abba, Father!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:6 Abba is a Greek spelling for the Aramaic word for “Father” or “Daddy” used in a familiar, respectful, and loving way."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既为儿子， 神就差他儿子的灵进入你们的心，呼叫：「阿爸！父！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:6 原文是我们"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既為兒子，上帝就差他兒子的靈進入你們的心，呼叫：「阿爸！父！」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:6 原文是我們"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "So you are no longer a bondservant, but a son; and if a son, then an heir of God through Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可见，从此以后，你不是奴仆，乃是儿子了；既是儿子，就靠着 神为后嗣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可見，從此以後，你不是奴僕，乃是兒子了；既是兒子，就靠着上帝為後嗣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "However at that time, not knowing God, you were in bondage to those who by nature are not gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但从前你们不认识 神的时候，是给那些本来不是神的作奴仆；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但從前你們不認識上帝的時候，是給那些本來不是神的作奴僕；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But now that you have come to know God, or rather to be known by God, why do you turn back again to the weak and miserable elemental principles, to which you desire to be in bondage all over again?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们既然认识 神，更可说是被 神所认识的，怎么还要归回那懦弱无用的小学，情愿再给他作奴仆呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們既然認識上帝，更可說是被上帝所認識的，怎麼還要歸回那懦弱無用的小學，情願再給他作奴僕呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You observe days, months, seasons, and years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们谨守日子、月份、节期、年份，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們謹守日子、月份、節期、年份，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "I am afraid for you, that I might have wasted my labor for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为你们害怕，惟恐我在你们身上是枉费了工夫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為你們害怕，惟恐我在你們身上是枉費了工夫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I beg you, brothers, become as I am, for I also have become as you are. You did me no wrong,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我劝你们要像我一样，因为我也像你们一样。你们一点没有亏负我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我勸你們要像我一樣，因為我也像你們一樣。你們一點沒有虧負我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "but you know that because of weakness in the flesh I preached the Good News to you the first time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们知道我头一次传福音给你们，是因为身体有疾病。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們知道我頭一次傳福音給你們，是因為身體有疾病。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "That which was a temptation to you in my flesh, you didn’t despise nor reject; but you received me as an angel of God, even as Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们为我身体的缘故受试炼，没有轻看我，也没有厌弃我，反倒接待我，如同 神的使者，如同基督耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們為我身體的緣故受試煉，沒有輕看我，也沒有厭棄我，反倒接待我，如同上帝的使者，如同基督耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "What was the blessing you enjoyed? For I testify to you that, if possible, you would have plucked out your eyes and given them to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当日所夸的福气在哪里呢？那时你们若能行，就是把自己的眼睛剜出来给我，也都情愿。这是我可以给你们作见证的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當日所誇的福氣在哪裏呢？那時你們若能行，就是把自己的眼睛剜出來給我，也都情願。這是我可以給你們作見證的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So then, have I become your enemy by telling you the truth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今我将真理告诉你们，就成了你们的仇敌吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今我將真理告訴你們，就成了你們的仇敵嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They zealously seek you in no good way. No, they desire to alienate you, that you may seek them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些人热心待你们，却不是好意，是要离间你们，叫你们热心待他们。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:17 原文是把你们关在外面"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些人熱心待你們，卻不是好意，是要離間你們，叫你們熱心待他們。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:17 原文是把你們關在外面"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But it is always good to be zealous in a good cause, and not only when I am present with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在善事上，常用热心待人原是好的，却不单我与你们同在的时候才这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在善事上，常用熱心待人原是好的，卻不單我與你們同在的時候才這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "My little children, of whom I am again in travail until Christ is formed in you—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我小子啊，我为你们再受生产之苦，直等到基督成形在你们心里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我小子啊，我為你們再受生產之苦，直等到基督成形在你們心裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "but I could wish to be present with you now, and to change my tone, for I am perplexed about you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我巴不得现今在你们那里，改换口气，因我为你们心里作难。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我巴不得現今在你們那裏，改換口氣，因我為你們心裏作難。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Tell me, you that desire to be under the law, don’t you listen to the law?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这愿意在律法以下的人，请告诉我，你们岂没有听见律法吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這願意在律法以下的人，請告訴我，你們豈沒有聽見律法嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For it is written that Abraham had two sons, one by the servant, and one by the free woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为律法上记着，亚伯拉罕有两个儿子，一个是使女生的，一个是自主之妇人生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為律法上記着，亞伯拉罕有兩個兒子，一個是使女生的，一個是自主之婦人生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "However, the son by the servant was born according to the flesh, but the son by the free woman was born through promise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，那使女所生的是按着血气生的；那自主之妇人所生的是凭着应许生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，那使女所生的是按着血氣生的；那自主之婦人所生的是憑着應許生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "These things contain an allegory, for these are two covenants. One is from Mount Sinai, bearing children to bondage, which is Hagar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是比方：那两个妇人就是两约。一约是出于西奈山，生子为奴，乃是夏甲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是比方：那兩個婦人就是兩約。一約是出於西奈山，生子為奴，乃是夏甲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For this Hagar is Mount Sinai in Arabia, and answers to the Jerusalem that exists now, for she is in bondage with her children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这夏甲二字是指着阿拉伯的西奈山，与现在的耶路撒冷同类，因耶路撒冷和她的儿女都是为奴的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這夏甲二字是指着阿拉伯的西奈山，與現在的耶路撒冷同類，因耶路撒冷和她的兒女都是為奴的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "But the Jerusalem that is above is free, which is the mother of us all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那在上的耶路撒冷是自主的，她是我们的母。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那在上的耶路撒冷是自主的，她是我們的母。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For it is written, “Rejoice, you barren who don’t bear. Break out and shout, you who don’t travail. For the desolate women have more children than her who has a husband.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:27 Isaiah 54:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为经上记着： 不怀孕、不生养的，你要欢乐； 未曾经过产难的，你要高声欢呼； 因为没有丈夫的，比有丈夫的儿女更多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為經上記着： 不懷孕、不生養的，你要歡樂； 未曾經過產難的，你要高聲歡呼； 因為沒有丈夫的，比有丈夫的兒女更多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Now we, brothers, as Isaac was, are children of promise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我们是凭着应许作儿女，如同以撒一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我們是憑着應許作兒女，如同以撒一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "But as then, he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，那按着血气生的逼迫了那按着圣灵生的，现在也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，那按着血氣生的逼迫了那按着聖靈生的，現在也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "However, what does the Scripture say? “Throw out the servant and her son, for the son of the servant will not inherit with the son of the free woman.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:30 Genesis 21:10",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "然而经上是怎么说的呢？是说：「把使女和她儿子赶出去！因为使女的儿子不可与自主妇人的儿子一同承受产业。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而經上是怎麼說的呢？是說：「把使女和她兒子趕出去！因為使女的兒子不可與自主婦人的兒子一同承受產業。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "So then, brothers, we are not children of a servant, but of the free woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，这样看来，我们不是使女的儿女，乃是自主妇人的儿女了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，這樣看來，我們不是使女的兒女，乃是自主婦人的兒女了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

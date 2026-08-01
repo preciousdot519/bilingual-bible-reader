@@ -1,0 +1,423 @@
+{
+  "bookId": "EXO",
+  "chapter": 5,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Afterward Moses and Aaron came, and said to Pharaoh, “This is what the LORD, the God of Israel, says, ‘Let my people go, that they may hold a feast to me in the wilderness.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来摩西、亚伦去对法老说：「耶和华—以色列的 神这样说：『容我的百姓去，在旷野向我守节。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來摩西、亞倫去對法老說：「耶和華－以色列的上帝這樣說：『容我的百姓去，在曠野向我守節。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Pharaoh said, “Who is the LORD, that I should listen to his voice to let Israel go? I don’t know the LORD, and moreover I will not let Israel go.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老说：「耶和华是谁，使我听他的话，容以色列人去呢？我不认识耶和华，也不容以色列人去！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老說：「耶和華是誰，使我聽他的話，容以色列人去呢？我不認識耶和華，也不容以色列人去！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They said, “The God of the Hebrews has met with us. Please let us go three days’ journey into the wilderness, and sacrifice to the LORD, our God, lest he fall on us with pestilence, or with the sword.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「希伯来人的 神遇见了我们。求你容我们往旷野去，走三天的路程，祭祀耶和华—我们的 神，免得他用瘟疫、刀兵攻击我们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「希伯來人的上帝遇見了我們。求你容我們往曠野去，走三天的路程，祭祀耶和華－我們的上帝，免得他用瘟疫、刀兵攻擊我們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The king of Egypt said to them, “Why do you, Moses and Aaron, take the people from their work? Get back to your burdens!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "埃及王对他们说：「摩西、亚伦！你们为什么叫百姓旷工呢？你们去担你们的担子吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "埃及王對他們說：「摩西、亞倫！你們為甚麼叫百姓曠工呢？你們去擔你們的擔子吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Pharaoh said, “Behold, the people of the land are now many, and you make them rest from their burdens.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「看哪，这地的以色列人如今众多，你们竟叫他们歇下担子！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「看哪，這地的以色列人如今眾多，你們竟叫他們歇下擔子！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The same day Pharaoh commanded the taskmasters of the people and their officers, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当天，法老吩咐督工的和官长说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當天，法老吩咐督工的和官長說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“You shall no longer give the people straw to make brick, as before. Let them go and gather straw for themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不可照常把草给百姓做砖，叫他们自己去捡草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不可照常把草給百姓做磚，叫他們自己去撿草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall require from them the number of the bricks which they made before. You shall not diminish anything of it, for they are idle. Therefore they cry, saying, ‘Let’s go and sacrifice to our God.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们素常做砖的数目，你们仍旧向他们要，一点不可减少；因为他们是懒惰的，所以呼求说：『容我们去祭祀我们的 神。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們素常做磚的數目，你們仍舊向他們要，一點不可減少；因為他們是懶惰的，所以呼求說：『容我們去祭祀我們的上帝。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Let heavier work be laid on the men, that they may labor in it. Don’t let them pay any attention to lying words.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要把更重的工夫加在这些人身上，叫他们劳碌，不听虚谎的言语。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要把更重的工夫加在這些人身上，叫他們勞碌，不聽虛謊的言語。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The taskmasters of the people went out with their officers, and they spoke to the people, saying, “This is what Pharaoh says: ‘I will not give you straw.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "督工的和官长出来对百姓说：「法老这样说：『我不给你们草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "督工的和官長出來對百姓說：「法老這樣說：『我不給你們草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Go yourselves, get straw where you can find it, for nothing of your work shall be diminished.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们自己在哪里能找草，就往那里去找吧！但你们的工一点不可减少。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們自己在哪裏能找草，就往那裏去找吧！但你們的工一點不可減少。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So the people were scattered abroad throughout all the land of Egypt to gather stubble for straw.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是百姓散在埃及遍地，捡碎秸当作草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是百姓散在埃及遍地，撿碎稭當作草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The taskmasters were urgent saying, “Fulfill your work quota daily, as when there was straw!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "督工的催着说：「你们一天当完一天的工，与先前有草一样。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "督工的催着說：「你們一天當完一天的工，與先前有草一樣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The officers of the children of Israel, whom Pharaoh’s taskmasters had set over them, were beaten, and were asked, “Why haven’t you fulfilled your quota both yesterday and today, in making brick as before?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老督工的，责打他所派以色列人的官长，说：「你们昨天今天为什么没有照向来的数目做砖、完你们的工作呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老督工的，責打他所派以色列人的官長，說：「你們昨天今天為甚麼沒有照向來的數目做磚、完你們的工作呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then the officers of the children of Israel came and cried to Pharaoh, saying, “Why do you deal this way with your servants?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人的官长就来哀求法老说：「为什么这样待你的仆人？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人的官長就來哀求法老說：「為甚麼這樣待你的僕人？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "No straw is given to your servants, and they tell us, ‘Make brick!’ and behold, your servants are beaten; but the fault is in your own people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "督工的不把草给仆人，并且对我们说：『做砖吧！』看哪，你仆人挨了打，其实是你百姓的错。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "督工的不把草給僕人，並且對我們說：『做磚吧！』看哪，你僕人挨了打，其實是你百姓的錯。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But Pharaoh said, “You are idle! You are idle! Therefore you say, ‘Let’s go and sacrifice to the LORD.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但法老说：「你们是懒惰的！你们是懒惰的！所以说：『容我们去祭祀耶和华。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但法老說：「你們是懶惰的！你們是懶惰的！所以說：『容我們去祭祀耶和華。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Go therefore now, and work; for no straw shall be given to you; yet you shall deliver the same number of bricks!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们去做工吧！草是不给你们的，砖却要如数交纳。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們去做工吧！草是不給你們的，磚卻要如數交納。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The officers of the children of Israel saw that they were in trouble when it was said, “You shall not diminish anything from your daily quota of bricks!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人的官长听说「你们每天做砖的工作一点不可减少」，就知道是遭遇祸患了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人的官長聽說「你們每天做磚的工作一點不可減少」，就知道是遭遇禍患了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They met Moses and Aaron, who stood along the way, as they came out from Pharaoh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们离了法老出来，正遇见摩西、亚伦站在对面，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們離了法老出來，正遇見摩西、亞倫站在對面，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They said to them, “May the LORD look at you and judge, because you have made us a stench to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to kill us!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就向他们说：「愿耶和华鉴察你们，施行判断；因你们使我们在法老和他臣仆面前有了臭名，把刀递在他们手中杀我们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就向他們說：「願耶和華鑒察你們，施行判斷；因你們使我們在法老和他臣僕面前有了臭名，把刀遞在他們手中殺我們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Moses returned to the LORD, and said, “Lord, why have you brought trouble on this people? Why is it that you have sent me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西回到耶和华那里，说：「主啊，你为什么苦待这百姓呢？为什么打发我去呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西回到耶和華那裏，說：「主啊，你為甚麼苦待這百姓呢？為甚麼打發我去呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For since I came to Pharaoh to speak in your name, he has brought trouble on this people. You have not rescued your people at all!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自从我去见法老，奉你的名说话，他就苦待这百姓，你一点也没有拯救他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自從我去見法老，奉你的名說話，他就苦待這百姓，你一點也沒有拯救他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

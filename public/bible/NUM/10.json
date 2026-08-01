@@ -1,0 +1,667 @@
+{
+  "bookId": "NUM",
+  "chapter": 10,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Make two trumpets of silver. You shall make them of beaten work. You shall use them for the calling of the congregation and for the journeying of the camps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用银子做两枝号，都要锤出来的，用以招聚会众，并叫众营起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用銀子做兩枝號，都要錘出來的，用以招聚會眾，並叫眾營起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When they blow them, all the congregation shall gather themselves to you at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吹这号的时候，全会众要到你那里，聚集在会幕门口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吹這號的時候，全會眾要到你那裏，聚集在會幕門口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "If they blow just one, then the princes, the heads of the thousands of Israel, shall gather themselves to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若单吹一枝，众首领，就是以色列军中的统领，要聚集到你那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若單吹一枝，眾首領，就是以色列軍中的統領，要聚集到你那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When you blow an alarm, the camps that lie on the east side shall go forward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吹出大声的时候，东边安的营都要起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吹出大聲的時候，東邊安的營都要起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When you blow an alarm the second time, the camps that lie on the south side shall go forward. They shall blow an alarm for their journeys.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二次吹出大声的时候，南边安的营都要起行。他们将起行，必吹出大声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二次吹出大聲的時候，南邊安的營都要起行。他們將起行，必吹出大聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But when the assembly is to be gathered together, you shall blow, but you shall not sound an alarm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但招聚会众的时候，你们要吹号，却不要吹出大声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但招聚會眾的時候，你們要吹號，卻不要吹出大聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“The sons of Aaron, the priests, shall blow the trumpets. This shall be to you for a statute forever throughout your generations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦子孙作祭司的要吹这号；这要作你们世世代代永远的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫子孫作祭司的要吹這號；這要作你們世世代代永遠的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets. Then you will be remembered before the LORD your God, and you will be saved from your enemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在自己的地，与欺压你们的敌人打仗，就要用号吹出大声，便在耶和华—你们的 神面前得蒙纪念，也蒙拯救脱离仇敌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在自己的地，與欺壓你們的敵人打仗，就要用號吹出大聲，便在耶和華－你們的上帝面前得蒙紀念，也蒙拯救脫離仇敵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, you shall blow the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; and they shall be to you for a memorial before your God. I am the LORD your God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你们快乐的日子和节期，并月朔，献燔祭和平安祭，也要吹号，这都要在你们的 神面前作为纪念。我是耶和华—你们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你們快樂的日子和節期，並月朔，獻燔祭和平安祭，也要吹號，這都要在你們的上帝面前作為紀念。我是耶和華－你們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "In the second year, in the second month, on the twentieth day of the month, the cloud was taken up from over the tabernacle of the covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二年二月二十日，云彩从法柜的帐幕收上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二年二月二十日，雲彩從法櫃的帳幕收上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The children of Israel went forward on their journeys out of the wilderness of Sinai; and the cloud stayed in the wilderness of Paran.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人就按站往前行，离开西奈的旷野，云彩停住在巴兰的旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人就按站往前行，離開西奈的曠野，雲彩停住在巴蘭的曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They first went forward according to the commandment of the LORD by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是他们照耶和华借摩西所吩咐的，初次往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是他們照耶和華藉摩西所吩咐的，初次往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "First, the standard of the camp of the children of Judah went forward according to their armies. Nahshon the son of Amminadab was over his army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着军队首先往前行的是犹大营的纛。统领军队的是亚米拿达的儿子拿顺。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着軍隊首先往前行的是猶大營的纛。統領軍隊的是亞米拿達的兒子拿順。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Nethanel the son of Zuar was over the army of the tribe of the children of Issachar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领以萨迦支派军队的是苏押的儿子拿坦业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領以薩迦支派軍隊的是蘇押的兒子拿坦業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Eliab the son of Helon was over the army of the tribe of the children of Zebulun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领西布伦支派军队的是希伦的儿子以利押。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領西布倫支派軍隊的是希倫的兒子以利押。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The tabernacle was taken down; and the sons of Gershon and the sons of Merari, who bore the tabernacle, went forward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕拆卸，革顺的子孙和米拉利的子孙就抬着帐幕先往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕拆卸，革順的子孫和米拉利的子孫就抬着帳幕先往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The standard of the camp of Reuben went forward according to their armies. Elizur the son of Shedeur was over his army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着军队往前行的是吕便营的纛。统领军队的是示丢珥的儿子以利蓿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着軍隊往前行的是呂便營的纛。統領軍隊的是示丟珥的兒子以利蓿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Shelumiel the son of Zurishaddai was over the army of the tribe of the children of Simeon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领西缅支派军队的是苏利沙代的儿子示路蔑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領西緬支派軍隊的是蘇利沙代的兒子示路蔑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Eliasaph the son of Deuel was over the army of the tribe of the children of Gad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领迦得支派军队的是丢珥的儿子以利雅萨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領迦得支派軍隊的是丟珥的兒子以利雅薩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The Kohathites set forward, bearing the sanctuary. The others set up the tabernacle before they arrived.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哥辖人抬着圣物先往前行。他们未到以前，抬帐幕的已经把帐幕支好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哥轄人抬着聖物先往前行。他們未到以前，抬帳幕的已經把帳幕支好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The standard of the camp of the children of Ephraim set forward according to their armies. Elishama the son of Ammihud was over his army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着军队往前行的是以法莲营的纛，统领军队的是亚米忽的儿子以利沙玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着軍隊往前行的是以法蓮營的纛，統領軍隊的是亞米忽的兒子以利沙瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Gamaliel the son of Pedahzur was over the army of the tribe of the children of Manasseh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领玛拿西支派军队的是比大蓿的儿子迦玛列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領瑪拿西支派軍隊的是比大蓿的兒子迦瑪列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Abidan the son of Gideoni was over the army of the tribe of the children of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领便雅悯支派军队的是基多尼的儿子亚比但。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領便雅憫支派軍隊的是基多尼的兒子亞比但。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The standard of the camp of the children of Dan, which was the rear guard of all the camps, set forward according to their armies. Ahiezer the son of Ammishaddai was over his army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在诸营末后的是但营的纛，按着军队往前行。统领军队的是亚米沙代的儿子亚希以谢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在諸營末後的是但營的纛，按着軍隊往前行。統領軍隊的是亞米沙代的兒子亞希以謝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Pagiel the son of Ochran was over the army of the tribe of the children of Asher.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领亚设支派军队的是俄兰的儿子帕结。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領亞設支派軍隊的是俄蘭的兒子帕結。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Ahira the son of Enan was over the army of the tribe of the children of Naphtali.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "统领拿弗他利支派军队的是以南的儿子亚希拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "統領拿弗他利支派軍隊的是以南的兒子亞希拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Thus were the travels of the children of Israel according to their armies; and they went forward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人按着军队往前行，就是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人按着軍隊往前行，就是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Moses said to Hobab, the son of Reuel the Midianite, Moses’ father-in-law, “We are journeying to the place of which the LORD said, ‘I will give it to you.’ Come with us, and we will treat you well; for the LORD has spoken good concerning Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对他岳父—米甸人流珥的儿子何巴—说：「我们要行路，往耶和华所应许之地去；他曾说：『我要将这地赐给你们。』现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:29 或译：内兄"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對他岳父－米甸人流珥的兒子何巴－說：「我們要行路，往耶和華所應許之地去；他曾說：『我要將這地賜給你們。』現在求你和我們同去，我們必厚待你，因為耶和華指着以色列人已經應許給好處。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:29 或譯：內兄"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He said to him, “I will not go; but I will depart to my own land, and to my relatives.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何巴回答说：「我不去；我要回本地本族那里去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何巴回答說：「我不去；我要回本地本族那裏去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Moses said, “Don’t leave us, please; because you know how we are to encamp in the wilderness, and you can be our eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西说：「求你不要离开我们；因为你知道我们要在旷野安营，你可以当作我们的眼目。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西說：「求你不要離開我們；因為你知道我們要在曠野安營，你可以當作我們的眼目。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "It shall be, if you go with us—yes, it shall be—that whatever good the LORD does to us, we will do the same to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若和我们同去，将来耶和华有什么好处待我们，我们也必以什么好处待你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若和我們同去，將來耶和華有甚麼好處待我們，我們也必以甚麼好處待你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They set forward from the Mount of the LORD three days’ journey. The ark of the LORD’s covenant went before them three days’ journey, to seek out a resting place for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人离开耶和华的山，往前行了三天的路程；耶和华的约柜在前头行了三天的路程，为他们寻找安歇的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人離開耶和華的山，往前行了三天的路程；耶和華的約櫃在前頭行了三天的路程，為他們尋找安歇的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The cloud of the LORD was over them by day, when they set forward from the camp.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们拔营往前行，日间有耶和华的云彩在他们以上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們拔營往前行，日間有耶和華的雲彩在他們以上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "When the ark went forward, Moses said, “Rise up, LORD, and let your enemies be scattered! Let those who hate you flee before you!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约柜往前行的时候，摩西就说：「耶和华啊，求你兴起！愿你的仇敌四散！愿恨你的人从你面前逃跑！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約櫃往前行的時候，摩西就說：「耶和華啊，求你興起！願你的仇敵四散！願恨你的人從你面前逃跑！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "When it rested, he said, “Return, LORD, to the ten thousands of the thousands of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约柜停住的时候，他就说：「耶和华啊，求你回到以色列的千万人中！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約櫃停住的時候，他就說：「耶和華啊，求你回到以色列的千萬人中！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

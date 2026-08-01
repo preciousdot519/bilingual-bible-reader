@@ -1,0 +1,549 @@
+{
+  "bookId": "DEU",
+  "chapter": 31,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moses went and spoke these words to all Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西去告诉以色列众人",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西去告訴以色列眾人",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said to them, “I am one hundred twenty years old today. I can no more go out and come in. The LORD has said to me, ‘You shall not go over this Jordan.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我现在一百二十岁了，不能照常出入；耶和华也曾对我说：『你必不得过这约旦河。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我現在一百二十歲了，不能照常出入；耶和華也曾對我說：『你必不得過這約旦河。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD your God himself will go over before you. He will destroy these nations from before you, and you shall dispossess them. Joshua will go over before you, as the LORD has spoken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—你们的 神必引导你们过去，将这些国民在你们面前灭绝，你们就得他们的地。约书亚必引导你们过去，正如耶和华所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－你們的上帝必引導你們過去，將這些國民在你們面前滅絕，你們就得他們的地。約書亞必引導你們過去，正如耶和華所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD will do to them as he did to Sihon and to Og, the kings of the Amorites, and to their land, when he destroyed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必待他们，如同从前待他所灭绝的亚摩利二王西宏与噩以及他们的国一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必待他們，如同從前待他所滅絕的亞摩利二王西宏與噩以及他們的國一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必将他们交给你们；你们要照我所吩咐的一切命令待他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必將他們交給你們；你們要照我所吩咐的一切命令待他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Be strong and courageous. Don’t be afraid or scared of them, for the LORD your God himself is who goes with you. He will not fail you nor forsake you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当刚强壮胆，不要害怕，也不要畏惧他们，因为耶和华—你的 神和你同去。他必不撇下你，也不丢弃你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當剛強壯膽，不要害怕，也不要畏懼他們，因為耶和華－你的上帝和你同去。他必不撇下你，也不丟棄你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Moses called to Joshua, and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land which the LORD has sworn to their fathers to give them; and you shall cause them to inherit it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西召了约书亚来，在以色列众人眼前对他说：「你当刚强壮胆！因为，你要和这百姓一同进入耶和华向他们列祖起誓应许所赐之地；你也要使他们承受那地为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西召了約書亞來，在以色列眾人眼前對他說：「你當剛強壯膽！因為，你要和這百姓一同進入耶和華向他們列祖起誓應許所賜之地；你也要使他們承受那地為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必在你前面行；他必与你同在，必不撇下你，也不丢弃你。不要惧怕，也不要惊惶。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必在你前面行；他必與你同在，必不撇下你，也不丟棄你。不要懼怕，也不要驚惶。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Moses wrote this law and delivered it to the priests the sons of Levi, who bore the ark of the LORD’s covenant, and to all the elders of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西将这律法写出来，交给抬耶和华约柜的祭司利未子孙和以色列的众长老。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西將這律法寫出來，交給抬耶和華約櫃的祭司利未子孫和以色列的眾長老。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Moses commanded them, saying, “At the end of every seven years, in the set time of the year of release, in the feast of booths,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西吩咐他们说：「每逢七年的末一年，就在豁免年的定期住棚节的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西吩咐他們說：「每逢七年的末一年，就在豁免年的定期住棚節的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "when all Israel has come to appear before the LORD your God in the place which he will choose, you shall read this law before all Israel in their hearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众人来到耶和华—你 神所选择的地方朝见他。那时，你要在以色列众人面前将这律法念给他们听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾人來到耶和華－你上帝所選擇的地方朝見他。那時，你要在以色列眾人面前將這律法念給他們聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Assemble the people, the men and the women and the little ones, and the foreigners who are within your gates, that they may hear, learn, fear the LORD your God, and observe to do all the words of this law,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要招聚他们男、女、孩子，并城里寄居的，使他们听，使他们学习，好敬畏耶和华—你们的 神，谨守、遵行这律法的一切话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要招聚他們男、女、孩子，並城裏寄居的，使他們聽，使他們學習，好敬畏耶和華－你們的上帝，謹守、遵行這律法的一切話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "and that their children, who have not known, may hear and learn to fear the LORD your God, as long as you live in the land where you go over the Jordan to possess it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也使他们未曾晓得这律法的儿女得以听见，学习敬畏耶和华—你们的 神，在你们过约旦河要得为业之地，存活的日子，常常这样行。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也使他們未曾曉得這律法的兒女得以聽見，學習敬畏耶和華－你們的上帝，在你們過約旦河要得為業之地，存活的日子，常常這樣行。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The LORD said to Moses, “Behold, your days approach that you must die. Call Joshua, and present yourselves in the Tent of Meeting, that I may commission him.” Moses and Joshua went, and presented themselves in the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「你的死期临近了；要召约书亚来，你们二人站在会幕里，我好嘱咐他。」于是摩西和约书亚去站在会幕里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「你的死期臨近了；要召約書亞來，你們二人站在會幕裏，我好囑咐他。」於是摩西和約書亞去站在會幕裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The LORD appeared in the Tent in a pillar of cloud, and the pillar of cloud stood over the Tent’s door.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在会幕里云柱中显现，云柱停在会幕门以上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在會幕裏雲柱中顯現，雲柱停在會幕門以上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD said to Moses, “Behold, you shall sleep with your fathers. This people will rise up and play the prostitute after the strange gods of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又对摩西说：「你必和你列祖同睡。这百姓要起来，在他们所要去的地上，在那地的人中，随从外邦神行邪淫，离弃我，违背我与他们所立的约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又對摩西說：「你必和你列祖同睡。這百姓要起來，在他們所要去的地上，在那地的人中，隨從外邦神行邪淫，離棄我，違背我與他們所立的約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall come on them; so that they will say in that day, ‘Haven’t these evils come on us because our God is not among us?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，我的怒气必向他们发作；我也必离弃他们，掩面不顾他们，以致他们被吞灭，并有许多的祸患灾难临到他们。那日他们必说：『这些祸患临到我们，岂不是因我们的 神不在我们中间吗？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，我的怒氣必向他們發作；我也必離棄他們，掩面不顧他們，以致他們被吞滅，並有許多的禍患災難臨到他們。那日他們必說：『這些禍患臨到我們，豈不是因我們的上帝不在我們中間嗎？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I will surely hide my face in that day for all the evil which they have done, in that they have turned to other gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，因他们偏向别神所行的一切恶，我必定掩面不顾他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，因他們偏向別神所行的一切惡，我必定掩面不顧他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Now therefore write this song for yourselves, and teach it to the children of Israel. Put it in their mouths, that this song may be a witness for me against the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你要写一篇歌，教导以色列人，传给他们，使这歌见证他们的不是；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你要寫一篇歌，教導以色列人，傳給他們，使這歌見證他們的不是；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For when I have brought them into the land which I swore to their fathers, flowing with milk and honey, and they have eaten and filled themselves, and grown fat, then they will turn to other gods, and serve them, and despise me, and break my covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我将他们领进我向他们列祖起誓应许那流奶与蜜之地，他们在那里吃得饱足，身体肥胖，就必偏向别神，事奉他们，藐视我，背弃我的约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我將他們領進我向他們列祖起誓應許那流奶與蜜之地，他們在那裏吃得飽足，身體肥胖，就必偏向別神，事奉他們，藐視我，背棄我的約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "It will happen, when many evils and troubles have come on them, that this song will testify before them as a witness; for it will not be forgotten out of the mouths of their descendants; for I know their ways and what they are doing today, before I have brought them into the land which I promised them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，有许多祸患灾难临到他们，这歌必在他们面前作见证，他们后裔的口中必念诵不忘。我未领他们到我所起誓应许之地以先，他们所怀的意念我都知道了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，有許多禍患災難臨到他們，這歌必在他們面前作見證，他們後裔的口中必念誦不忘。我未領他們到我所起誓應許之地以先，他們所懷的意念我都知道了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "So Moses wrote this song the same day, and taught it to the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日摩西就写了一篇歌，教导以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日摩西就寫了一篇歌，教導以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He commissioned Joshua the son of Nun, and said, “Be strong and courageous; for you shall bring the children of Israel into the land which I swore to them. I will be with you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华嘱咐嫩的儿子约书亚说：「你当刚强壮胆，因为你必领以色列人进我所起誓应许他们的地；我必与你同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華囑咐嫩的兒子約書亞說：「你當剛強壯膽，因為你必領以色列人進我所起誓應許他們的地；我必與你同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When Moses had finished writing the words of this law in a book, until they were finished,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西将这律法的话写在书上，及至写完了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西將這律法的話寫在書上，及至寫完了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Moses commanded the Levites, who bore the ark of the LORD’s covenant, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就吩咐抬耶和华约柜的利未人说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就吩咐抬耶和華約櫃的利未人說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Take this book of the law, and put it by the side of the ark of the LORD your God’s covenant, that it may be there for a witness against you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「将这律法书放在耶和华—你们 神的约柜旁，可以在那里见证以色列人的不是；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「將這律法書放在耶和華－你們上帝的約櫃旁，可以在那裏見證以色列人的不是；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For I know your rebellion and your stiff neck. Behold, while I am yet alive with you today, you have been rebellious against the LORD. How much more after my death?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我知道你们是悖逆的，是硬着颈项的。我今日还活着与你们同在，你们尚且悖逆耶和华，何况我死后呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我知道你們是悖逆的，是硬着頸項的。我今日還活着與你們同在，你們尚且悖逆耶和華，何況我死後呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要将你们支派的众长老和官长都招聚了来，我好将这些话说与他们听，并呼天唤地见证他们的不是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要將你們支派的眾長老和官長都招聚了來，我好將這些話說與他們聽，並呼天喚地見證他們的不是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in the LORD’s sight, to provoke him to anger through the work of your hands.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道我死后，你们必全然败坏，偏离我所吩咐你们的道，行耶和华眼中看为恶的事，以手所做的惹他发怒；日后必有祸患临到你们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道我死後，你們必全然敗壞，偏離我所吩咐你們的道，行耶和華眼中看為惡的事，以手所做的惹他發怒；日後必有禍患臨到你們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Moses spoke in the ears of all the assembly of Israel the words of this song, until they were finished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西将这一篇歌的话都说与以色列全会众听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西將這一篇歌的話都說與以色列全會眾聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "bookId": "ACT",
+  "chapter": 9,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗仍然向主的门徒口吐威吓凶杀的话，去见大祭司，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅仍然向主的門徒口吐威嚇凶煞的話，去見大祭司，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求文书给大马士革的各会堂，若是找着信奉这道的人，无论男女，都准他捆绑带到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求文書給大馬士革的各會堂，若是找着信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "As he traveled, he got close to Damascus, and suddenly a light from the sky shone around him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗行路，将到大马士革，忽然从天上发光，四面照着他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅行路，將到大馬士革，忽然從天上發光，四面照着他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He fell on the earth, and heard a voice saying to him, “Saul, Saul, why do you persecute me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就仆倒在地，听见有声音对他说：「扫罗！扫罗！你为什么逼迫我？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就仆倒在地，聽見有聲音對他說：「掃羅！掃羅！你為甚麼逼迫我？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said, “Who are you, Lord?” The Lord said, “Iam Jesus, whom you are persecuting.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:5 TR adds “It’s hard for you to kick against the cattle prods.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「主啊！你是谁？」主说：「我就是你所逼迫的耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「主啊！你是誰？」主說：「我就是你所逼迫的耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But riseup and enter into the city, then you will be told what you must do.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:6 TR omits “But”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起来！进城去，你所当做的事，必有人告诉你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起來！進城去，你所當做的事，必有人告訴你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The men who traveled with him stood speechless, hearing the sound, but seeing no one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同行的人站在那里，说不出话来，听见声音，却看不见人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同行的人站在那裏，說不出話來，聽見聲音，卻看不見人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Saul arose from the ground, and when his eyes were opened, he saw no one. They led him by the hand and brought him into Damascus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗从地上起来，睁开眼睛，竟不能看见什么。有人拉他的手，领他进了大马士革；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬士革；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He was without sight for three days, and neither ate nor drank.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "三日不能看见，也不吃也不喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "三日不能看見，也不吃也不喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias!” He said, “Behold, it’s me, Lord.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，在大马士革有一个门徒，名叫亚拿尼亚。主在异象中对他说：「亚拿尼亚。」他说：「主，我在这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，在大馬士革有一個門徒，名叫亞拿尼亞。主在異象中對他說：「亞拿尼亞。」他說：「主，我在這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The Lord said to him, “Arise andgo to the street which is called Straight, and inquire in the house of Judah forone named Saul, a man of Tarsus. For behold, he is praying,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:11 or, Judas"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主对他说：「起来！往直街去，在犹大的家里，访问一个大数人，名叫扫罗。他正祷告，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主對他說：「起來！往直街去，在猶大的家裏，訪問一個大數人，名叫掃羅。他正禱告，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "andin a vision he has seen a man named Ananias coming in and laying his hands on him, that he might receive his sight.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又看见了一个人，名叫亚拿尼亚，进来按手在他身上，叫他能看见。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又看見了一個人，名叫亞拿尼亞，進來按手在他身上，叫他能看見。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But Ananias answered, “Lord, I have heard from many about this man, how much evil he did to your saints at Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿尼亚回答说：「主啊，我听见许多人说，这人怎样在耶路撒冷多多苦害你的圣徒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿尼亞回答說：「主啊，我聽見許多人說，這人怎樣在耶路撒冷多多苦害你的聖徒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Here he has authority from the chief priests to bind all who call on your name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且他在这里有从祭司长得来的权柄捆绑一切求告你名的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且他在這裏有從祭司長得來的權柄捆綁一切求告你名的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But the Lord said to him, “Goyour way, for he is my chosen vessel to bear my name before the nations and kings, and the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主对亚拿尼亚说：「你只管去！他是我所拣选的器皿，要在外邦人和君王，并以色列人面前宣扬我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主對亞拿尼亞說：「你只管去！他是我所揀選的器皿，要在外邦人和君王，並以色列人面前宣揚我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "ForI will show him how many things he must suffer for my name’s sake.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也要指示他，为我的名必须受许多的苦难。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也要指示他，為我的名必須受許多的苦難。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Ananias departed and entered into the house. Laying his hands on him, he said, “Brother Saul, the Lord, who appeared to you on the road by which you came, has sent me that you may receive your sight and be filled with the Holy Spirit.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿尼亚就去了，进入那家，把手按在扫罗身上，说：「兄弟扫罗，在你来的路上向你显现的主，就是耶稣，打发我来，叫你能看见，又被圣灵充满。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿尼亞就去了，進入那家，把手按在掃羅身上，說：「兄弟掃羅，在你來的路上向你顯現的主，就是耶穌，打發我來，叫你能看見，又被聖靈充滿。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Immediately something like scales fell from his eyes, and he received his sight. He arose and was baptized.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗的眼睛上，好像有鳞立刻掉下来，他就能看见。于是起来受了洗；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅的眼睛上，好像有鱗立刻掉下來，他就能看見。於是起來受了洗；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He took food and was strengthened. several days with the disciples who were at Damascus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃过饭就健壮了。 扫罗和大马士革的门徒同住了些日子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃過飯就健壯了。 掃羅和大馬士革的門徒同住了些日子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Immediately in the synagogues he proclaimed the Christ, that he is the Son of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就在各会堂里宣传耶稣，说他是 神的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就在各會堂裏宣傳耶穌，說他是上帝的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "All who heard him were amazed, and said, “Isn’t this he who in Jerusalem made havoc of those who called on this name? And he had come here intending to bring them bound before the chief priests!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡听见的人都惊奇，说：「在耶路撒冷残害求告这名的，不是这人吗？并且他到这里来，特要捆绑他们，带到祭司长那里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡聽見的人都驚奇，說：「在耶路撒冷殘害求告這名的，不是這人嗎？並且他到這裏來，特要捆綁他們，帶到祭司長那裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But Saul increased more in strength, and confounded the Jews who lived at Damascus, proving that this is the Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但扫罗越发有能力，驳倒住大马士革的犹太人，证明耶稣是基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但掃羅越發有能力，駁倒住大馬士革的猶太人，證明耶穌是基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When many days were fulfilled, the Jews conspired together to kill him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了好些日子，犹太人商议要杀扫罗，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了好些日子，猶太人商議要殺掃羅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "but their plot became known to Saul. They watched the gates both day and night that they might kill him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但他们的计谋被扫罗知道了。他们又昼夜在城门守候，要杀他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他們的計謀被掃羅知道了。他們又晝夜在城門守候，要殺他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "but his disciples took him by night and let him down through the wall, lowering him in a basket.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的门徒就在夜间用筐子把他从城墙上缒下去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的門徒就在夜間用筐子把他從城牆上縋下去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When Saul had come to Jerusalem, he tried to join himself to the disciples; but they were all afraid of him, not believing that he was a disciple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗到了耶路撒冷，想与门徒结交，他们却都怕他，不信他是门徒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅到了耶路撒冷，想與門徒結交，他們卻都怕他，不信他是門徒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "But Barnabas took him and brought him to the apostles, and declared to them how he had seen the Lord on the way, and that he had spoken to him, and how at Damascus he had preached boldly in the name of Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有巴拿巴接待他，领去见使徒，把他在路上怎么看见主，主怎么向他说话，他在大马士革怎么奉耶稣的名放胆传道，都述说出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有巴拿巴接待他，領去見使徒，把他在路上怎麼看見主，主怎麼向他說話，他在大馬士革怎麼奉耶穌的名放膽傳道，都述說出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He was with them entering into Jerusalem,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:28 TR and NU add “and going out”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是扫罗在耶路撒冷和门徒出入来往，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是掃羅在耶路撒冷和門徒出入來往，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "preaching boldly in the name of the Lord Jesus. He spoke and disputed against the Hellenists, but they were seeking to kill him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:29 TR and NU omit “Jesus” and reverse the order of verses 28 & 29."
+          },
+          {
+            "id": "f2",
+            "text": "9:29 The Hellenists were Hebrews who used Greek language and culture."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奉主的名放胆传道，并与说希腊话的犹太人讲论辩驳；他们却想法子要杀他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奉主的名放膽傳道，並與說希臘話的猶太人講論辯駁；他們卻想法子要殺他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "When the brothers knew it, they brought him down to Caesarea and sent him off to Tarsus.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:30 The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们知道了就送他下凯撒利亚，打发他往大数去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們知道了就送他下凱撒利亞，打發他往大數去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "So the assemblies throughout all Judea, Galilee, and Samaria had peace and were built up. They were multiplied, walking in the fear of the Lord and in the comfort of the Holy Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，犹太、加利利、撒马利亚各处的教会都得平安，被建立；凡事敬畏主，蒙圣灵的安慰，人数就增多了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，猶太、加利利、撒馬利亞各處的教會都得平安，被建立；凡事敬畏主，蒙聖靈的安慰，人數就增多了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "As Peter went throughout all those parts, he came down also to the saints who lived at Lydda.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得周流四方的时候，也到了居住吕大的圣徒那里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得周流四方的時候，也到了居住呂大的聖徒那裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "There he found a certain man named Aeneas, who had been bedridden for eight years because he was paralyzed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遇见一个人，名叫以尼雅，得了瘫痪，在褥子上躺卧八年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遇見一個人，名叫以尼雅，得了癱瘓，在褥子上躺臥八年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Peter said to him, “Aeneas, Jesus Christ heals you. Get up and make your bed!” Immediately he arose.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得对他说：「以尼雅，耶稣基督医好你了，起来！收拾你的褥子。」他就立刻起来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得對他說：「以尼雅，耶穌基督醫好你了， 起來！收拾你的褥子。」他就立刻起來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "All who lived at Lydda and in Sharon saw him, and they turned to the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡住吕大和沙 的人都看见了他，就归服主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡住呂大和沙崙的人都看見了他，就歸服主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Now there was at Joppa a certain disciple named Tabitha, which when translated means Dorcas. This woman was full of good works and acts of mercy which she did.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:36 “Dorcas” is Greek for “Gazelle.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在约帕有一个女徒，名叫大比大，翻希腊话就是多加；她广行善事，多施周济。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:36 就是羚羊的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在約帕有一個女徒，名叫大比大，翻希臘話就是多加；她廣行善事，多施賙濟。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:36 就是羚羊的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "In those days, she became sick and died. When they had washed her, they laid her in an upper room.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，她患病而死，有人把她洗了，停在楼上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，她患病而死，有人把她洗了，停在樓上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "As Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to him, imploring him not to delay in coming to them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:38 Reading from NU, TR; MT omits “two men”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吕大原与约帕相近；门徒听见彼得在那里，就打发两个人去见他，央求他说：「快到我们那里去，不要耽延。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "呂大原與約帕相近；門徒聽見彼得在那裏，就打發兩個人去見他，央求他說：「快到我們那裏去，不要耽延。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Peter got up and went with them. When he had come, they brought him into the upper room. All the widows stood by him weeping, and showing the tunics and other garments which Dorcas had made while she was with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得就起身和他们同去；到了，便有人领他上楼。众寡妇都站在彼得旁边哭，拿多加与她们同在时所做的里衣外衣给他看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得就起身和他們同去；到了，便有人領他上樓。眾寡婦都站在彼得旁邊哭，拿多加與她們同在時所做的裏衣外衣給他看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Peter sent them all out, and knelt down and prayed. Turning to the body, he said, “Tabitha, get up!” She opened her eyes, and when she saw Peter, she sat up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得叫她们都出去，就跪下祷告，转身对着死人说：「大比大，起来！」她就睁开眼睛，见了彼得，便坐起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得叫她們都出去，就跪下禱告，轉身對着死人說：「大比大，起來！」她就睜開眼睛，見了彼得，便坐起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He gave her his hand and raised her up. Calling the saints and widows, he presented her alive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得伸手扶她起来，叫众圣徒和寡妇进去，把多加活活地交给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得伸手扶她起來，叫眾聖徒和寡婦進去，把多加活活地交給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "This became known throughout all Joppa, and many believed in the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事传遍了约帕，就有许多人信了主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事傳遍了約帕，就有許多人信了主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He stayed many days in Joppa with a tanner named Simon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此后，彼得在约帕一个硝皮匠西门的家里住了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此後，彼得在約帕一個硝皮匠西門的家裏住了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

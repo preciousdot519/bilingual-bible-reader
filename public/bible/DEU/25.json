@@ -1,0 +1,351 @@
+{
+  "bookId": "DEU",
+  "chapter": 25,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "If there is a controversy between men, and they come to judgment and the judges judge them, then they shall justify the righteous and condemn the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若有争讼，来听审判，审判官就要定义人有理，定恶人有罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若有爭訟，來聽審判，審判官就要定義人有理，定惡人有罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人若该受责打，审判官就要叫他当面伏在地上，按着他的罪照数责打。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人若該受責打，審判官就要叫他當面伏在地上，按着他的罪照數責打。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He may sentence him to no more than forty stripes. He shall not give more, lest if he should give more and beat him more than that many stripes, then your brother will be degraded in your sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只可打他四十下，不可过数；若过数，便是轻贱你的弟兄了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只可打他四十下，不可過數；若過數，便是輕賤你的弟兄了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You shall not muzzle the ox when he treads out the grain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「牛在场上踹谷的时候，不可笼住它的嘴。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「牛在場上踹穀的時候，不可籠住牠的嘴。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "If brothers dwell together, and one of them dies and has no son, the wife of the dead shall not be married outside to a stranger. Her husband’s brother shall go in to her, and take her as his wife, and perform the duty of a husband’s brother to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「弟兄同居，若死了一个，没有儿子，死人的妻不可出嫁外人，她丈夫的兄弟当尽弟兄的本分，娶她为妻，与她同房。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「弟兄同居，若死了一個，沒有兒子，死人的妻不可出嫁外人，她丈夫的兄弟當盡弟兄的本分，娶她為妻，與她同房。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "It shall be that the firstborn whom she bears shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人生的长子必归死兄的名下，免得他的名在以色列中涂抹了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人生的長子必歸死兄的名下，免得他的名在以色列中塗抹了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "If the man doesn’t want to take his brother’s wife, then his brother’s wife shall go up to the gate to the elders, and say, “My husband’s brother refuses to raise up to his brother a name in Israel. He will not perform the duty of a husband’s brother to me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人若不愿意娶她哥哥的妻，他哥哥的妻就要到城门长老那里，说：『我丈夫的兄弟不肯在以色列中兴起他哥哥的名字，不给我尽弟兄的本分。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人若不願意娶他哥哥的妻，他哥哥的妻就要到城門長老那裏，說：『我丈夫的兄弟不肯在以色列中興起他哥哥的名字，不給我盡弟兄的本分。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Then the elders of his city shall call him, and speak to him. If he stands and says, “I don’t want to take her,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "本城的长老就要召那人来问他，他若执意说：『我不愿意娶她』，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "本城的長老就要召那人來問他，他若執意說：『我不願意娶她』，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "then his brother’s wife shall come to him in the presence of the elders, and loose his sandal from off his foot, and spit in his face. She shall answer and say, “So shall it be done to the man who does not build up his brother’s house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他哥哥的妻就要当着长老到那人的跟前，脱了他的鞋，吐唾沫在他脸上，说：『凡不为哥哥建立家室的都要这样待他。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他哥哥的妻就要當着長老到那人的跟前，脫了他的鞋，吐唾沫在他臉上，說：『凡不為哥哥建立家室的都要這樣待他。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "His name shall be called in Israel, “The house of him who had his sandal removed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在以色列中，他的名必称为脱鞋之家。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在以色列中，他的名必稱為脫鞋之家。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When men strive against each other, and the wife of one draws near to deliver her husband out of the hand of him who strikes him, and puts out her hand, and grabs him by his private parts,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「若有二人争斗，这人的妻近前来，要救她丈夫脱离那打她丈夫之人的手，抓住那人的下体，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「若有二人爭鬥，這人的妻近前來，要救她丈夫脫離那打她丈夫之人的手，抓住那人的下體，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "then you shall cut off her hand. Your eye shall have no pity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就要砍断妇人的手，眼不可顾惜她。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就要砍斷婦人的手，眼不可顧惜她。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall not have in your bag diverse weights, one heavy and one light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你囊中不可有一大一小两样的法码。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你囊中不可有一大一小兩樣的法碼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall not have in your house diverse measures, one large and one small.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你家里不可有一大一小两样的升斗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你家裏不可有一大一小兩樣的升斗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which the LORD your God gives you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当用对准公平的法码，公平的升斗。这样，在耶和华—你 神所赐你的地上，你的日子就可以长久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當用對準公平的法碼，公平的升斗。這樣，在耶和華－你上帝所賜你的地上，你的日子就可以長久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For all who do such things, all who do unrighteously, are an abomination to the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为行非义之事的人都是耶和华—你 神所憎恶的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為行非義之事的人都是耶和華－你上帝所憎惡的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Remember what Amalek did to you by the way as you came out of Egypt,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要记念你们出埃及的时候，亚玛力人在路上怎样待你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要記念你們出埃及的時候，亞瑪力人在路上怎樣待你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn’t fear God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在路上遇见你，趁你疲乏困倦击杀你尽后边软弱的人，并不敬畏 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在路上遇見你，趁你疲乏困倦擊殺你儘後邊軟弱的人，並不敬畏上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Therefore it shall be, when the LORD your God has given you rest from all your enemies all around, in the land which the LORD your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华—你 神使你不被四围一切的仇敌扰乱，在耶和华—你 神赐你为业的地上得享平安。那时，你要将亚玛力的名号从天下涂抹了，不可忘记。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華－你上帝使你不被四圍一切的仇敵擾亂，在耶和華－你上帝賜你為業的地上得享平安。那時，你要將亞瑪力的名號從天下塗抹了，不可忘記。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "bookId": "ROM",
+  "chapter": 9,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在基督里说真话，并不谎言，有我良心被圣灵感动，给我作见证：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在基督裏說真話，並不謊言，有我良心被聖靈感動，給我作見證：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "that I have great sorrow and unceasing pain in my heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是大有忧愁，心里时常伤痛；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是大有憂愁，心裏時常傷痛；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For I could wish that I myself were accursed from Christ for my brothers’ sake, my relatives according to the flesh",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为我弟兄，我骨肉之亲，就是自己被咒诅，与基督分离，我也愿意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為我弟兄，我骨肉之親，就是自己被咒詛，與基督分離，我也願意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "who are Israelites; whose is the adoption, the glory, the covenants, the giving of the law, the service, and the promises;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是以色列人；那儿子的名分、荣耀、诸约、律法、礼仪、应许都是他们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是以色列人；那兒子的名分、榮耀、諸約、律法、禮儀、應許都是他們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "of whom are the fathers, and from whom is Christ as concerning the flesh, who is over all, God, blessed forever. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "列祖就是他们的祖宗；按肉体说，基督也是从他们出来的。他是在万有之上，永远可称颂的 神。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "列祖就是他們的祖宗；按肉體說，基督也是從他們出來的。他是在萬有之上，永遠可稱頌的上帝。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But it is not as though the word of God has come to nothing. For they are not all Israel that are of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这不是说 神的话落了空。因为从以色列生的不都是以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這不是說上帝的話落了空。因為從以色列生的不都是以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Neither, because they are Abraham’s offspring, are they all children. But, “your offspring will be accounted as from Isaac.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:7 Genesis 21:12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "也不因为是亚伯拉罕的后裔就都作他的儿女；惟独「从以撒生的才要称为你的后裔。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不因為是亞伯拉罕的後裔就都作他的兒女；惟獨「從以撒生的才要稱為你的後裔。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as heirs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是说，肉身所生的儿女不是 神的儿女，惟独那应许的儿女才算是后裔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是說，肉身所生的兒女不是上帝的兒女，惟獨那應許的兒女才算是後裔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For this is a word of promise: “At the appointed time I will come, and Sarah will have a son.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:9 Genesis 18:10,14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为所应许的话是这样说：「到明年这时候我要来，撒拉必生一个儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Not only so, but Rebekah also conceived by one, by our father Isaac.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不但如此，还有利百加，既从一个人，就是从我们的祖宗以撒怀了孕，（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不但如此，還有利百加，既從一個人，就是從我們的祖宗以撒懷了孕，（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For being not yet born, neither having done anything good or bad, that the purpose of God according to election might stand, not of works, but of him who calls,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:11 NU puts the phrase “not of works, but of him who calls” at the beginning of verse 12 instead of the end of verse 11."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "双子还没有生下来，善恶还没有做出来，只因要显明 神拣选人的旨意，不在乎人的行为，乃在乎召人的主。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雙子還沒有生下來，善惡還沒有做出來，只因要顯明上帝揀選人的旨意，不在乎人的行為，乃在乎召人的主。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "it was said to her, “The elder will serve the younger.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:12 Genesis 25:23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "神就对利百加说：「将来，大的要服事小的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就對利百加說：「將來，大的要服事小的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Even as it is written, “Jacob I loved, but Esau I hated.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:13 Malachi 1:2-3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "正如经上所记：雅各是我所爱的；以扫是我所恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正如經上所記：雅各是我所愛的；以掃是我所惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "What shall we say then? Is there unrighteousness with God? May it never be!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我们可说什么呢？难道 神有什么不公平吗？断乎没有！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們可說甚麼呢？難道上帝有甚麼不公平嗎？斷乎沒有！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For he said to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:15 Exodus 33:19",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因他对摩西说： 我要怜悯谁就怜悯谁， 要恩待谁就恩待谁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他對摩西說： 我要憐憫誰就憐憫誰， 要恩待誰就恩待誰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So then it is not of him who wills, nor of him who runs, but of God who has mercy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "据此看来，这不在乎那定意的，也不在乎那奔跑的，只在乎发怜悯的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "據此看來，這不在乎那定意的，也不在乎那奔跑的，只在乎發憐憫的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For the Scripture says to Pharaoh, “For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:17 Exodus 9:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为经上有话向法老说：「我将你兴起来，特要在你身上彰显我的权能，并要使我的名传遍天下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為經上有話向法老說：「我將你興起來，特要在你身上彰顯我的權能，並要使我的名傳遍天下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "So then, he has mercy on whom he desires, and he hardens whom he desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如此看来， 神要怜悯谁就怜悯谁，要叫谁刚硬就叫谁刚硬。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此看來，上帝要憐憫誰就憐憫誰，要叫誰剛硬就叫誰剛硬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You will say then to me, “Why does he still find fault? For who withstands his will?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你必对我说：「他为什么还指责人呢？有谁抗拒他的旨意呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你必對我說：「他為甚麼還指責人呢？有誰抗拒他的旨意呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But indeed, O man, who are you to reply against God? Will the thing formed ask him who formed it, “Why did you make me like this?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:20 Isaiah 29:16; 45:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你这个人哪，你是谁，竟敢向 神强嘴呢？受造之物岂能对造他的说：「你为什么这样造我呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這個人哪，你是誰，竟敢向上帝強嘴呢？受造之物豈能對造他的說：「你為甚麼這樣造我呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Or hasn’t the potter a right over the clay, from the same lump to make one part a vessel for honor, and another for dishonor?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "窑匠难道没有权柄从一团泥里拿一块做成贵重的器皿，又拿一块做成卑贱的器皿吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "窯匠難道沒有權柄從一團泥裏拿一塊做成貴重的器皿，又拿一塊做成卑賤的器皿嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "What if God, willing to show his wrath and to make his power known, endured with much patience vessels of wrath prepared for destruction,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若 神要显明他的忿怒，彰显他的权能，就多多忍耐宽容那可怒、预备遭毁灭的器皿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若上帝要顯明他的忿怒，彰顯他的權能，就多多忍耐寬容那可怒、預備遭毀滅的器皿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and that he might make known the riches of his glory on vessels of mercy, which he prepared beforehand for glory—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要将他丰盛的荣耀彰显在那蒙怜悯、早预备得荣耀的器皿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要將他豐盛的榮耀彰顯在那蒙憐憫、早預備得榮耀的器皿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "us, whom he also called, not from the Jews only, but also from the Gentiles?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这器皿就是我们被 神所召的，不但是从犹太人中，也是从外邦人中。这有什么不可呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這器皿就是我們被上帝所召的，不但是從猶太人中，也是從外邦人中。這有甚麼不可呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "As he says also in Hosea, “I will call them ‘my people,’ which were not my people; and her ‘beloved,’ who was not beloved.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:25 Hosea 2:23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "就像 神在何西阿书上说： 那本来不是我子民的， 我要称为「我的子民」； 本来不是蒙爱的， 我要称为「蒙爱的」。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就像上帝在何西阿書上說： 那本來不是我子民的， 我要稱為「我的子民」； 本來不是蒙愛的， 我要稱為「蒙愛的」。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“It will be that in the place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:26 Hosea 1:10",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "从前在什么地方对他们说： 你们不是我的子民， 将来就在那里称他们为「永生 神的儿子」。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前在甚麼地方對他們說： 你們不是我的子民， 將來就在那裏稱他們為「永生上帝的兒子」。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Isaiah cries concerning Israel, “If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以赛亚指着以色列人喊着说：「以色列人虽多如海沙，得救的不过是剩下的余数；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以賽亞指着以色列人喊着說：「以色列人雖多如海沙，得救的不過是剩下的餘數；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "for he will finish the work and cut it short in righteousness, because the Lord will make a short work upon the earth.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:28 Isaiah 10:22-23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为主要在世上施行他的话，叫他的话都成全，速速地完结。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為主要在世上施行他的話，叫他的話都成全，速速地完結。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "As Isaiah has said before, “Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:29 Greek: Sabaoth (or Hebrew: Tze’va’ot)"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:29 Isaiah 1:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "又如以赛亚先前说过： 若不是万军之主给我们存留余种， 我们早已像所多玛、蛾摩拉的样子了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又如以賽亞先前說過： 若不是萬軍之主給我們存留餘種， 我們早已像所多瑪、蛾摩拉的樣子了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "What shall we say then? That the Gentiles, who didn’t follow after righteousness, attained to righteousness, even the righteousness which is of faith;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我们可说什么呢？那本来不追求义的外邦人反得了义，就是因信而得的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們可說甚麼呢？那本來不追求義的外邦人反得了義，就是因信而得的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "but Israel, following after a law of righteousness, didn’t arrive at the law of righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但以色列人追求律法的义，反得不着律法的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但以色列人追求律法的義，反得不着律法的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是什么缘故呢？是因为他们不凭着信心求，只凭着行为求；他们正跌在那绊脚石上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是甚麼緣故呢？是因為他們不憑着信心求，只憑着行為求；他們正跌在那絆腳石上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:33 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:33 Isaiah 8:14; 28:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "就如经上所记： 我在锡安放一块绊脚的石头，跌人的磐石； 信靠他的人必不至于羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如經上所記： 我在錫安放一塊絆腳的石頭，跌人的磐石； 信靠他的人必不至於羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

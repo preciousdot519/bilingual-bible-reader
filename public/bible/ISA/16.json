@@ -1,0 +1,281 @@
+{
+  "bookId": "ISA",
+  "chapter": 16,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当将羊羔奉给那地掌权的， 从西拉往旷野，送到锡安城的山。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:1 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當將羊羔奉給那地掌權的， 從西拉往曠野，送到錫安城的山。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:1 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For it will be that as wandering birds, as a scattered nest, so will the daughters of Moab be at the fords of the Arnon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押的居民在亚嫩渡口， 必像游飞的鸟，如拆窝的雏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:2 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押的居民在亞嫩渡口， 必像遊飛的鳥，如拆窩的雛。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:2 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Give counsel! Execute justice! Make your shade like the night in the middle of the noonday! Hide the outcasts! Don’t betray the fugitive!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你献谋略，行公平， 使你的影子在午间如黑夜， 隐藏被赶散的人，不可显露逃民。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你獻謀略，行公平， 使你的影子在午間如黑夜， 隱藏被趕散的人，不可顯露逃民。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Let my outcasts dwell with you! As for Moab, be a hiding place for him from the face of the destroyer. For the extortionist is brought to nothing. Destruction ceases. The oppressors are consumed out of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你容我这被赶散的人和你同居。 至于摩押，求你作他的隐密处， 脱离灭命者的面。 勒索人的归于无有， 毁灭的事止息了， 欺压人的从国中除灭了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你容我這被趕散的人和你同居。 至於摩押，求你作他的隱密處， 脫離滅命者的面。 勒索人的歸於無有， 毀滅的事止息了， 欺壓人的從國中除滅了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A throne will be established in loving kindness. One will sit on it in truth, in the tent of David, judging, seeking justice, and swift to do righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必有宝座因慈爱坚立； 必有一位诚诚实实坐在其上， 在大卫帐幕中施行审判， 寻求公平，速行公义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必有寶座因慈愛堅立； 必有一位誠誠實實坐在其上， 在大衛帳幕中施行審判， 尋求公平，速行公義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We have heard of the pride of Moab, that he is very proud; even of his arrogance, his pride, and his wrath. His boastings are nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们听说摩押人骄傲， 是极其骄傲； 听说他狂妄、骄傲、忿怒； 他夸大的话是虚空的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們聽說摩押人驕傲， 是極其驕傲； 聽說他狂妄、驕傲、忿怒； 他誇大的話是虛空的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Therefore Moab will wail for Moab. Everyone will wail. You will mourn for the raisin cakes of Kir Hareseth, utterly stricken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，摩押人必为摩押哀号； 人人都要哀号。 你们摩押人要为吉珥·哈列设的葡萄饼哀叹， 极其忧伤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，摩押人必為摩押哀號； 人人都要哀號。 你們摩押人要為吉珥‧哈列設的葡萄餅哀歎， 極其憂傷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For the fields of Heshbon languish with the vine of Sibmah. The lords of the nations have broken down its choice branches, which reached even to Jazer, which wandered into the wilderness. Its shoots were spread abroad. They passed over the sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为希实本的田地 和西比玛的葡萄树都衰残了。 列国的君主折断其上美好的枝子； 这枝子长到雅谢延到旷野， 嫩枝向外探出，直探过盐海。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為希實本的田地 和西比瑪的葡萄樹都衰殘了。 列國的君主折斷其上美好的枝子； 這枝子長到雅謝延到曠野， 嫩枝向外探出，直探過鹽海。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Therefore I will weep with the weeping of Jazer for the vine of Sibmah. I will water you with my tears, Heshbon, and Elealeh: for on your summer fruits and on your harvest the battle shout has fallen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我要为西比玛的葡萄树哀哭， 与雅谢人哀哭一样。 希实本、以利亚利啊， 我要以眼泪浇灌你； 因为有交战呐喊的声音 临到你夏天的果子， 并你收割的庄稼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我要為西比瑪的葡萄樹哀哭， 與雅謝人哀哭一樣。 希實本、以利亞利啊， 我要以眼淚澆灌你； 因為有交戰吶喊的聲音 臨到你夏天的果子， 並你收割的莊稼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Gladness is taken away, and joy out of the fruitful field; and in the vineyards there will be no singing, neither joyful noise. Nobody will tread out wine in the presses. I have made the shouting stop.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从肥美的田中夺去了欢喜快乐； 在葡萄园里必无歌唱，也无欢呼的声音。 踹酒的在酒榨中不得踹出酒来； 我使他欢呼的声音止息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從肥美的田中奪去了歡喜快樂； 在葡萄園裏必無歌唱，也無歡呼的聲音。 踹酒的在酒醡中不得踹出酒來； 我使他歡呼的聲音止息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therefore my heart sounds like a harp for Moab, and my inward parts for Kir Heres.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我心腹为摩押哀鸣如琴； 我心肠为吉珥·哈列设也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我心腹為摩押哀鳴如琴； 我心腸為吉珥‧哈列設也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "It will happen that when Moab presents himself, when he wearies himself on the high place, and comes to his sanctuary to pray, that he will not prevail.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押人朝见的时候，在高处疲乏，又到他圣所祈祷，也不蒙应允。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押人朝見的時候，在高處疲乏，又到他聖所祈禱，也不蒙應允。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "This is the word that the LORD spoke concerning Moab in time past.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是耶和华从前论摩押的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是耶和華從前論摩押的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But now the LORD has spoken, saying, “Within three years, as a worker bound by contract would count them, the glory of Moab shall be brought into contempt, with all his great multitude; and the remnant will be very small and feeble.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但现在耶和华说：「三年之内，照雇工的年数，摩押的荣耀与他的群众必被藐视，余剩的人甚少无几。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但現在耶和華說：「三年之內，照雇工的年數，摩押的榮耀與他的群眾必被藐視，餘剩的人甚少無幾。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

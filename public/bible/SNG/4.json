@@ -1,0 +1,297 @@
+{
+  "bookId": "SNG",
+  "chapter": 4,
+  "bookEnglish": "Song of Songs",
+  "bookChineseSimplified": "雅歌",
+  "bookChineseTraditional": "雅歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的佳偶，你甚美丽！你甚美丽！ 你的眼在帕子内好像鸽子眼。 你的头发如同山羊群卧在基列山旁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的佳偶，你甚美麗！你甚美麗！ 你的眼在帕子內好像鴿子眼。 你的頭髮如同山羊群臥在基列山旁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Your teeth are like a newly shorn flock, which have come up from the washing, where every one of them has twins. None is bereaved among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的牙齿如新剪毛的一群母羊， 洗净上来，个个都有双生， 没有一只丧掉子的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的牙齒如新剪毛的一群母羊， 洗淨上來，個個都有雙生， 沒有一隻喪掉子的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Your lips are like scarlet thread. Your mouth is lovely. Your temples are like a piece of a pomegranate behind your veil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的唇好像一条朱红线； 你的嘴也秀美。 你的两太阳在帕子内， 如同一块石榴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的唇好像一條朱紅線； 你的嘴也秀美。 你的兩太陽在帕子內， 如同一塊石榴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Your neck is like David’s tower built for an armory, on which a thousand shields hang, all the shields of the mighty men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的颈项好像大卫建造收藏军器的高台， 其上悬挂一千盾牌， 都是勇士的藤牌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的頸項好像大衛建造收藏軍器的高臺， 其上懸掛一千盾牌， 都是勇士的籐牌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Your two breasts are like two fawns that are twins of a roe, which feed among the lilies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的两乳好像百合花中吃草的一对小鹿， 就是母鹿双生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的兩乳好像百合花中吃草的一對小鹿， 就是母鹿雙生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要往没药山和乳香冈去， 直等到天起凉风、 日影飞去的时候回来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要往沒藥山和乳香岡去， 直等到天起涼風、 日影飛去的時候回來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You are all beautiful, my love. There is no spot in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的佳偶，你全然美丽， 毫无瑕疵！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的佳偶，你全然美麗， 毫無瑕疵！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的新妇，求你与我一同离开黎巴嫩， 与我一同离开黎巴嫩。 从亚玛拿顶， 从示尼珥与黑门顶， 从有狮子的洞， 从有豹子的山往下观看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的新婦，求你與我一同離開黎巴嫩， 與我一同離開黎巴嫩。 從亞瑪拿頂， 從示尼珥與黑門頂， 從有獅子的洞， 從有豹子的山往下觀看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我妹子，我新妇， 你夺了我的心。 你用眼一看， 用你项上的一条金链， 夺了我的心！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我妹子，我新婦， 你奪了我的心。 你用眼一看， 用你項上的一條金鍊， 奪了我的心！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我妹子，我新妇， 你的爱情何其美！ 你的爱情比酒更美！ 你膏油的香气胜过一切香品！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我妹子，我新婦， 你的愛情何其美！ 你的愛情比酒更美！ 你膏油的香氣勝過一切香品！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我新妇，你的嘴唇滴蜜， 好像蜂房滴蜜； 你的舌下有蜜，有奶。 你衣服的香气如黎巴嫩的香气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我新婦，你的嘴唇滴蜜， 好像蜂房滴蜜； 你的舌下有蜜，有奶。 你衣服的香氣如黎巴嫩的香氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我妹子，我新妇， 乃是关锁的园， 禁闭的井，封闭的泉源。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我妹子，我新婦， 乃是關鎖的園， 禁閉的井，封閉的泉源。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你园内所种的结了石榴， 有佳美的果子， 并凤仙花与哪哒树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你園內所種的結了石榴， 有佳美的果子， 並鳳仙花與哪噠樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有哪哒和番红花， 菖蒲和桂树， 并各样乳香木、没药、沉香， 与一切上等的果品。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有哪噠和番紅花， 菖蒲和桂樹， 並各樣乳香木、沒藥、沉香， 與一切上等的果品。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "a fountain of gardens, a well of living waters, flowing streams from Lebanon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你是园中的泉，活水的井， 从黎巴嫩流下来的溪水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你是園中的泉，活水的井， 從黎巴嫩流下來的溪水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Awake, north wind, and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "北风啊，兴起！ 南风啊，吹来！ 吹在我的园内， 使其中的香气发出来。 愿我的良人进入自己园里， 吃他佳美的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "北風啊，興起！ 南風啊，吹來！ 吹在我的園內， 使其中的香氣發出來。 願我的良人進入自己園裏， 吃他佳美的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

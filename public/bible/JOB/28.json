@@ -1,0 +1,533 @@
+{
+  "bookId": "JOB",
+  "chapter": 28,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Surely there is a mine for silver, and a place for gold which they refine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "银子有矿； 炼金有方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "銀子有礦； 煉金有方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Iron is taken out of the earth, and copper is smelted out of the ore.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "铁从地里挖出； 铜从石中熔化。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鐵從地裏挖出； 銅從石中鎔化。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Man sets an end to darkness, and searches out, to the furthest bound, the stones of obscurity and of thick darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人为黑暗定界限， 查究幽暗阴翳的石头，直到极处，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人為黑暗定界限， 查究幽暗陰翳的石頭，直到極處，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He breaks open a shaft away from where people live. They are forgotten by the foot. They hang far from men, they swing back and forth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在无人居住之处刨开矿穴， 过路的人也想不到他们； 又与人远离，悬在空中摇来摇去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在無人居住之處刨開礦穴， 過路的人也想不到他們； 又與人遠離，懸在空中搖來搖去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "As for the earth, out of it comes bread. Underneath it is turned up as it were by fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于地，能出粮食， 地内好像被火翻起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於地，能出糧食， 地內好像被火翻起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Sapphires come from its rocks. It has dust of gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地中的石头有蓝宝石， 并有金沙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地中的石頭有藍寶石， 並有金沙。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "That path no bird of prey knows, neither has the falcon’s eye seen it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "矿中的路鸷鸟不得知道； 鹰眼也未见过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "礦中的路鷙鳥不得知道； 鷹眼也未見過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The proud animals have not trodden it, nor has the fierce lion passed by there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "狂傲的野兽未曾行过； 猛烈的狮子也未曾经过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "狂傲的野獸未曾行過； 猛烈的獅子也未曾經過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He puts his hand on the flinty rock, and he overturns the mountains by the roots.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人伸手凿开坚石， 倾倒山根，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人伸手鑿開堅石， 傾倒山根，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He cuts out channels among the rocks. His eye sees every precious thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在磐石中凿出水道， 亲眼看见各样宝物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在磐石中鑿出水道， 親眼看見各樣寶物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He binds the streams that they don’t trickle. The thing that is hidden he brings out to light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他封闭水不得滴流， 使隐藏的物显露出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他封閉水不得滴流， 使隱藏的物顯露出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“But where will wisdom be found? Where is the place of understanding?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，智慧有何处可寻？ 聪明之处在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，智慧有何處可尋？ 聰明之處在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Man doesn’t know its price, and it isn’t found in the land of the living.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧的价值无人能知， 在活人之地也无处可寻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧的價值無人能知， 在活人之地也無處可尋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The deep says, ‘It isn’t in me.’ The sea says, ‘It isn’t with me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "深渊说：不在我内； 沧海说：不在我中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "深淵說：不在我內； 滄海說：不在我中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "It can’t be gotten for gold, neither will silver be weighed for its price.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧非用黄金可得， 也不能平白银为它的价值。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧非用黃金可得， 也不能平白銀為它的價值。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "It can’t be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "28:16 or, lapis lazuli"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "俄斐金和贵重的红玛瑙， 并蓝宝石，不足与较量；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "俄斐金和貴重的紅瑪瑙， 並藍寶石，不足與較量；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Gold and glass can’t equal it, neither will it be exchanged for jewels of fine gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黄金和玻璃不足与比较； 精金的器皿不足与兑换。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黃金和玻璃不足與比較； 精金的器皿不足與兌換。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "No mention will be made of coral or of crystal. Yes, the price of wisdom is above rubies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "珊瑚、水晶都不足论； 智慧的价值胜过珍珠。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 28:18 或译：红宝石"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "珊瑚、水晶都不足論； 智慧的價值勝過珍珠。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 28:18 或譯：紅寶石"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The topaz of Ethiopia will not equal it. It won’t be valued with pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "古实的红璧玺不足与比较； 精金也不足与较量。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "古實的紅璧璽不足與比較； 精金也不足與較量。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Where then does wisdom come from? Where is the place of understanding?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧从何处来呢？ 聪明之处在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧從何處來呢？ 聰明之處在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Seeing it is hidden from the eyes of all living, and kept close from the birds of the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是向一切有生命的眼目隐藏， 向空中的飞鸟掩蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是向一切有生命的眼目隱藏， 向空中的飛鳥掩蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Destruction and Death say, ‘We have heard a rumor of it with our ears.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灭没和死亡说： 我们风闻其名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "滅沒和死亡說： 我們風聞其名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“God understands its way, and he knows its place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神明白智慧的道路， 晓得智慧的所在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝明白智慧的道路， 曉得智慧的所在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For he looks to the ends of the earth, and sees under the whole sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他鉴察直到地极， 遍观普天之下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他鑒察直到地極， 遍觀普天之下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He establishes the force of the wind. Yes, he measures out the waters by measure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要为风定轻重， 又度量诸水；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要為風定輕重， 又度量諸水；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When he made a decree for the rain, and a way for the lightning of the thunder,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他为雨露定命令， 为雷电定道路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他為雨露定命令， 為雷電定道路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "then he saw it, and declared it. He established it, yes, and searched it out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时他看见智慧，而且述说； 他坚定，并且查究。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時他看見智慧，而且述說； 他堅定，並且查究。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "To man he said, ‘Behold, the fear of the Lord, that is wisdom. To depart from evil is understanding.’”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "28:28 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对人说：敬畏主就是智慧； 远离恶便是聪明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對人說：敬畏主就是智慧； 遠離惡便是聰明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "bookId": "PRO",
+  "chapter": 21,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The king’s heart is in the LORD’s hand like the watercourses. He turns it wherever he desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王的心在耶和华手中， 好像陇沟的水随意流转。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王的心在耶和華手中， 好像隴溝的水隨意流轉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Every way of a man is right in his own eyes, but the LORD weighs the hearts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人所行的，在自己眼中都看为正； 惟有耶和华衡量人心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人所行的，在自己眼中都看為正； 惟有耶和華衡量人心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "To do righteousness and justice is more acceptable to the LORD than sacrifice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行仁义公平 比献祭更蒙耶和华悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行仁義公平 比獻祭更蒙耶和華悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "A high look and a proud heart, the lamp of the wicked, is sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人发达，眼高心傲， 这乃是罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:4 发达：原文是灯"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人發達，眼高心傲， 這乃是罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:4 發達：原文是燈"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The plans of the diligent surely lead to profit; and everyone who is hasty surely rushes to poverty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殷勤筹划的，足致丰裕； 行事急躁的，都必缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殷勤籌劃的，足致豐裕； 行事急躁的，都必缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Getting treasures by a lying tongue is a fleeting vapor for those who seek death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用诡诈之舌求财的，就是自己取死； 所得之财乃是吹来吹去的浮云。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用詭詐之舌求財的，就是自己取死； 所得之財乃是吹來吹去的浮雲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The violence of the wicked will drive them away, because they refuse to do what is right.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人的强暴必将自己扫除， 因他们不肯按公平行事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人的強暴必將自己掃除， 因他們不肯按公平行事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The way of the guilty is devious, but the conduct of the innocent is upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "负罪之人的路甚是弯曲； 至于清洁的人，他所行的乃是正直。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "負罪之人的路甚是彎曲； 至於清潔的人，他所行的乃是正直。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "It is better to dwell in the corner of the housetop than to share a house with a contentious woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "宁可住在房顶的角上， 不在宽阔的房屋与争吵的妇人同住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "寧可住在房頂的角上， 不在寬闊的房屋與爭吵的婦人同住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The soul of the wicked desires evil; his neighbor finds no mercy in his eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人的心乐人受祸； 他眼并不怜恤邻舍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人的心樂人受禍； 他眼並不憐恤鄰舍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When the mocker is punished, the simple gains wisdom. When the wise is instructed, he receives knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亵慢的人受刑罚，愚蒙的人就得智慧； 智慧人受训诲，便得知识。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "褻慢的人受刑罰，愚蒙的人就得智慧； 智慧人受訓誨，便得知識。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The Righteous One considers the house of the wicked, and brings the wicked to ruin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人思想恶人的家， 知道恶人倾倒，必致灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人思想惡人的家， 知道惡人傾倒，必致滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Whoever stops his ears at the cry of the poor, he will also cry out, but shall not be heard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "塞耳不听穷人哀求的， 他将来呼吁也不蒙应允。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "塞耳不聽窮人哀求的， 他將來呼籲也不蒙應允。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "A gift in secret pacifies anger, and a bribe in the cloak, strong wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暗中送的礼物挽回怒气； 怀中搋的贿赂止息暴怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暗中送的禮物挽回怒氣； 懷中搋的賄賂止息暴怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "It is joy to the righteous to do justice; but it is a destruction to the workers of iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "秉公行义使义人喜乐， 使作孽的人败坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "秉公行義使義人喜樂， 使作孽的人敗壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The man who wanders out of the way of understanding shall rest in the assembly of the departed spirits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迷离通达道路的， 必住在阴魂的会中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迷離通達道路的， 必住在陰魂的會中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He who loves pleasure will be a poor man. He who loves wine and oil won’t be rich.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱宴乐的，必致穷乏； 好酒，爱膏油的，必不富足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛宴樂的，必致窮乏； 好酒，愛膏油的，必不富足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The wicked is a ransom for the righteous, the treacherous for the upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人作了义人的赎价； 奸诈人代替正直人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人作了義人的贖價； 奸詐人代替正直人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "It is better to dwell in a desert land, than with a contentious and fretful woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "宁可住在旷野， 不与争吵使气的妇人同住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "寧可住在曠野， 不與爭吵使氣的婦人同住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "There is precious treasure and oil in the dwelling of the wise, but a foolish man swallows it up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人家中积蓄宝物膏油； 愚昧人随得来随吞下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人家中積蓄寶物膏油； 愚昧人隨得來隨吞下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He who follows after righteousness and kindness finds life, righteousness, and honor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "追求公义仁慈的， 就寻得生命、公义，和尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "追求公義仁慈的， 就尋得生命、公義，和尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "A wise man scales the city of the mighty, and brings down the strength of its confidence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人爬上勇士的城墙， 倾覆他所倚靠的坚垒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人爬上勇士的城牆， 傾覆他所倚靠的堅壘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Whoever guards his mouth and his tongue keeps his soul from troubles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谨守口与舌的， 就保守自己免受灾难。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謹守口與舌的， 就保守自己免受災難。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The proud and arrogant man—“Scoffer” is his name— he works in the arrogance of pride.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心骄气傲的人名叫亵慢； 他行事狂妄，都出于骄傲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心驕氣傲的人名叫褻慢； 他行事狂妄，都出於驕傲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The desire of the sluggard kills him, for his hands refuse to labor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人的心愿将他杀害， 因为他手不肯做工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人的心願將他殺害， 因為他手不肯做工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "There are those who covet greedily all day long; but the righteous give and don’t withhold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有终日贪得无厌的； 义人施舍而不吝惜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有終日貪得無饜的； 義人施捨而不吝惜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The sacrifice of the wicked is an abomination— how much more, when he brings it with a wicked mind!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人的祭物是可憎的； 何况他存恶意来献呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人的祭物是可憎的； 何況他存惡意來獻呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "A false witness will perish. A man who listens speaks to eternity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作假见证的必灭亡； 惟有听真情而言的，其言长存。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作假見證的必滅亡； 惟有聽真情而言的，其言長存。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "A wicked man hardens his face; but as for the upright, he establishes his ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人脸无羞耻； 正直人行事坚定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人臉無羞恥； 正直人行事堅定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "There is no wisdom nor understanding nor counsel against the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有人能以智慧、聪明、 谋略敌挡耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有人能以智慧、聰明、 謀略敵擋耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The horse is prepared for the day of battle; but victory is with the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马是为打仗之日预备的； 得胜乃在乎耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬是為打仗之日預備的； 得勝乃在乎耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "bookId": "2KI",
+  "chapter": 11,
+  "bookEnglish": "2 Kings",
+  "bookChineseSimplified": "列王纪下",
+  "bookChineseTraditional": "列王紀下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈谢的母亲亚她利雅见她儿子死了，就起来剿灭王室。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈謝的母親亞她利雅見她兒子死了，就起來剿滅王室。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him away from among the king’s sons who were slain, even him and his nurse, and put them in the bedroom; and they hid him from Athaliah, so that he was not slain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但约兰王的女儿，亚哈谢的妹子约示巴，将亚哈谢的儿子约阿施从那被杀的王子中偷出来，把他和他的乳母都藏在卧房里，躲避亚她利雅，免得被杀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但約蘭王的女兒，亞哈謝的妹子約示巴，將亞哈謝的兒子約阿施從那被殺的王子中偷出來，把他和他的乳母都藏在臥房裏，躲避亞她利雅，免得被殺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He was with her hidden in the LORD’s house six years while Athaliah reigned over the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约阿施和他的乳母藏在耶和华的殿里六年；亚她利雅篡了国位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約阿施和他的乳母藏在耶和華的殿裏六年；亞她利雅篡了國位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "In the seventh year Jehoiada sent and fetched the captains over hundreds of the Carites and of the guard, and brought them to him into the LORD’s house; and he made a covenant with them, and made a covenant with them in the LORD’s house, and showed them the king’s son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第七年，耶何耶大打发人叫迦利人和护卫兵的众百夫长来，领他们进了耶和华的殿，与他们立约，使他们在耶和华殿里起誓，又将王的儿子指给他们看，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:4 或译：亲兵"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第七年，耶何耶大打發人叫迦利人和護衛兵的眾百夫長來，領他們進了耶和華的殿，與他們立約，使他們在耶和華殿裏起誓，又將王的兒子指給他們看，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:4 或譯：親兵"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He commanded them, saying, “This is what you must do: a third of you, who come in on the Sabbath, shall be keepers of the watch of the king’s house;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吩咐他们说：「你们当这样行：凡安息日进班的三分之一要看守王宫，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吩咐他們說：「你們當這樣行：凡安息日進班的三分之一要看守王宮，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "a third of you shall be at the gate Sur; and a third of you at the gate behind the guard. So you shall keep the watch of the house, and be a barrier.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "三分之一要在苏珥门，三分之一要在护卫兵院的后门。这样把守王宫，拦阻闲人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "三分之一要在蘇珥門，三分之一要在護衛兵院的後門。這樣把守王宮，攔阻閒人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The two companies of you, even all who go out on the Sabbath, shall keep the watch of the LORD’s house around the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们安息日所有出班的三分之二要在耶和华的殿里护卫王；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們安息日所有出班的三分之二要在耶和華的殿裏護衛王；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall surround the king, every man with his weapons in his hand; and he who comes within the ranks, let him be slain. Be with the king when he goes out, and when he comes in.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各人手拿兵器，四围护卫王。凡擅入你们班次的必当治死，王出入的时候，你们当跟随他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各人手拿兵器，四圍護衛王。凡擅入你們班次的必當治死，王出入的時候，你們當跟隨他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The captains over hundreds did according to all that Jehoiada the priest commanded; and they each took his men, those who were to come in on the Sabbath with those who were to go out on the Sabbath, and came to Jehoiada the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众百夫长就照着祭司耶何耶大一切所吩咐的去行，各带所管安息日进班出班的人来见祭司耶何耶大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾百夫長就照着祭司耶何耶大一切所吩咐的去行，各帶所管安息日進班出班的人來見祭司耶何耶大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The priest delivered to the captains over hundreds the spears and shields that had been King David’s, which were in the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司便将耶和华殿里所藏大卫王的枪和盾牌交给百夫长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司便將耶和華殿裏所藏大衛王的槍和盾牌交給百夫長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The guard stood, every man with his weapons in his hand, from the right side of the house to the left side of the house, along by the altar and the house, around the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "护卫兵手中各拿兵器，在坛和殿那里，从殿右直到殿左，站在王子的四围。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "護衛兵手中各拿兵器，在壇和殿那裏，從殿右直到殿左，站在王子的四圍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then he brought out the king’s son, and put the crown on him, and gave him the covenant; and they made him king and anointed him; and they clapped their hands, and said, “Long live the king!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司领王子出来，给他戴上冠冕，将律法书交给他，膏他作王；众人就拍掌说：「愿王万岁！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司領王子出來，給他戴上冠冕，將律法書交給他，膏他作王；眾人就拍掌說：「願王萬歲！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When Athaliah heard the noise of the guard and of the people, she came to the people into the LORD’s house;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚她利雅听见护卫兵和民的声音，就到民那里，进耶和华的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞她利雅聽見護衛兵和民的聲音，就到民那裏，進耶和華的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and she looked, and behold, the king stood by the pillar, as the tradition was, with the captains and the trumpets by the king; and all the people of the land rejoiced, and blew trumpets. Then Athaliah tore her clothes and cried, “Treason! Treason!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见王照例站在柱旁，百夫长和吹号的人侍立在王左右，国中的众民欢乐吹号；亚她利雅就撕裂衣服，喊叫说：「反了！反了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見王照例站在柱旁，百夫長和吹號的人侍立在王左右，國中的眾民歡樂吹號；亞她利雅就撕裂衣服，喊叫說：「反了！反了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Jehoiada the priest commanded the captains of hundreds who were set over the army, and said to them, “Bring her out between the ranks. Kill anyone who follows her with the sword.” For the priest said, “Don’t let her be slain in the LORD’s house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司耶何耶大吩咐管辖军兵的百夫长说：「将她赶出班外，凡跟随她的必用刀杀死！」因为祭司说「不可在耶和华殿里杀她」，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司耶何耶大吩咐管轄軍兵的百夫長說：「將她趕出班外，凡跟隨她的必用刀殺死！」因為祭司說「不可在耶和華殿裏殺她」，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So they seized her; and she went by the way of the horses’ entry to the king’s house, and she was slain there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众兵就闪开让她去；她从马路上王宫去，便在那里被杀。 （代下23·16—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾兵就閃開讓她去；她從馬路上王宮去，便在那裏被殺。 （代下23‧16－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’s people; also between the king and the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶何耶大使王和民与耶和华立约，作耶和华的民；又使王与民立约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶何耶大使王和民與耶和華立約，作耶和華的民；又使王與民立約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "All the people of the land went to the house of Baal, and broke it down. They broke his altars and his images in pieces thoroughly, and killed Mattan the priest of Baal before the altars. The priest appointed officers over the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是国民都到巴力庙，拆毁了庙，打碎坛和像，又在坛前将巴力的祭司玛坦杀了。祭司耶何耶大派官看守耶和华的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是國民都到巴力廟，拆毀了廟，打碎壇和像，又在壇前將巴力的祭司瑪坦殺了。祭司耶何耶大派官看守耶和華的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He took the captains over hundreds, and the Carites, and the guard, and all the people of the land; and they brought down the king from the LORD’s house, and came by the way of the gate of the guard to the king’s house. He sat on the throne of the kings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又率领百夫长和迦利人与护卫兵，以及国中的众民，请王从耶和华殿下来，由护卫兵的门进入王宫，他就坐了王位。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:19 或译：亲兵"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又率領百夫長和迦利人與護衛兵，以及國中的眾民，請王從耶和華殿下來，由護衛兵的門進入王宮，他就坐了王位。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:19 或譯：親兵"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword at the king’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "国民都欢乐，合城都安静。众人已将亚她利雅在王宫那里用刀杀了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "國民都歡樂，閤城都安靜。眾人已將亞她利雅在王宮那裏用刀殺了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jehoash was seven years old when he began to reign.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约阿施登基的时候年方七岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約阿施登基的時候年方七歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

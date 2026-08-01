@@ -1,0 +1,415 @@
+{
+  "bookId": "LAM",
+  "chapter": 4,
+  "bookEnglish": "Lamentations",
+  "bookChineseSimplified": "耶利米哀歌",
+  "bookChineseTraditional": "耶利米哀歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黄金何其失光！ 纯金何其变色！ 圣所的石头倒在各市口上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黃金何其失光！ 純金何其變色！ 聖所的石頭倒在各市口上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安宝贵的众子好比精金， 现在何竟算为窑匠手所做的瓦瓶？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安寶貴的眾子好比精金， 現在何竟算為窯匠手所做的瓦瓶？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Even the jackals offer their breast. They nurse their young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "野狗尚且把奶乳哺其子， 我民的妇人倒成为残忍， 好像旷野的鸵鸟一般。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "野狗尚且把奶乳哺其子， 我民的婦人倒成為殘忍， 好像曠野的鴕鳥一般。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The tongue of the nursing child clings to the roof of his mouth for thirst. The young children ask for bread, and no one breaks it for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃奶孩子的舌头因干渴贴住上膛； 孩童求饼，无人擘给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃奶孩子的舌頭因乾渴貼住上膛； 孩童求餅，無人擘給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Those who ate delicacies are desolate in the streets. Those who were brought up in purple embrace dunghills.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "素来吃美好食物的， 现今在街上变为孤寒； 素来卧朱红褥子的， 现今躺卧粪堆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "素來吃美好食物的， 現今在街上變為孤寒； 素來臥朱紅褥子的， 現今躺臥糞堆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment. No hands were laid on her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都因我众民的罪孽比所多玛的罪还大； 所多玛虽然无人加手于她， 还是转眼之间被倾覆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都因我眾民的罪孽比所多瑪的罪還大； 所多瑪雖然無人加手於她， 還是轉眼之間被傾覆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Her nobles were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安的贵胄素来比雪纯净， 比奶更白； 他们的身体比红宝玉更红， 像光润的蓝宝石一样。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:7 或译：珊瑚"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安的貴冑素來比雪純淨， 比奶更白； 他們的身體比紅寶玉更紅， 像光潤的藍寶石一樣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:7 或譯：珊瑚"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Their appearance is blacker than a coal. They are not known in the streets. Their skin clings to their bones. It is withered. It has become like wood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在他们的面貌比煤炭更黑， 以致在街上无人认识； 他们的皮肤紧贴骨头， 枯干如同槁木。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在他們的面貌比煤炭更黑， 以致在街上無人認識； 他們的皮膚緊貼骨頭， 枯乾如同槁木。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Those who are killed with the sword are better than those who are killed with hunger; for these pine away, stricken through, for lack of the fruits of the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "饿死的不如被刀杀的， 因为这是缺了田间的土产， 就身体衰弱，渐渐消灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "餓死的不如被刀殺的， 因為這是缺了田間的土產， 就身體衰弱，漸漸消滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "慈心的妇人，当我众民被毁灭的时候， 亲手煮自己的儿女作为食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "慈心的婦人，當我眾民被毀滅的時候， 親手煮自己的兒女作為食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华发怒成就他所定的， 倒出他的烈怒； 在锡安使火着起， 烧毁锡安的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華發怒成就他所定的， 倒出他的烈怒； 在錫安使火着起， 燒毀錫安的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The kings of the earth didn’t believe, neither did all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地上的君王和世上的居民都不信 敌人和仇敌能进耶路撒冷的城门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地上的君王和世上的居民都不信 敵人和仇敵能進耶路撒冷的城門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都因她先知的罪恶和祭司的罪孽； 他们在城中流了义人的血。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都因她先知的罪惡和祭司的罪孽； 他們在城中流了義人的血。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They wander as blind men in the streets. They are polluted with blood, So that men can’t touch their garments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在街上如瞎子乱走， 又被血玷污， 以致人不能摸他们的衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在街上如瞎子亂走， 又被血玷污， 以致人不能摸他們的衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Go away!” they cried to them. “Unclean! Go away! Go away! Don’t touch! When they fled away and wandered, men said among the nations, “They can’t live here any more.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人向他们喊着说： 不洁净的，躲开，躲开！ 不要挨近我！ 他们逃走飘流的时候， 列国中有人说： 他们不可仍在这里寄居。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人向他們喊着說： 不潔淨的，躲開，躲開！ 不要挨近我！ 他們逃走飄流的時候， 列國中有人說： 他們不可仍在這裏寄居。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华发怒，将他们分散， 不再眷顾他们； 人不重看祭司，也不厚待长老。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華發怒，將他們分散， 不再眷顧他們； 人不重看祭司，也不厚待長老。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们仰望人来帮助， 以致眼目失明，还是枉然； 我们所盼望的，竟盼望一个不能救人的国！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們仰望人來幫助， 以致眼目失明，還是枉然； 我們所盼望的，竟盼望一個不能救人的國！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They hunt our steps, so that we can’t go in our streets. Our end is near. Our days are fulfilled, for our end has come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仇敌追赶我们的脚步像打猎的， 以致我们不敢在自己的街上行走。 我们的结局临近； 我们的日子满足； 我们的结局来到了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "仇敵追趕我們的腳步像打獵的， 以致我們不敢在自己的街上行走。 我們的結局臨近； 我們的日子滿足； 我們的結局來到了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Our pursuers were swifter than the eagles of the sky. They chased us on the mountains. They set an ambush for us in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "追赶我们的比空中的鹰更快； 他们在山上追逼我们， 在旷野埋伏，等候我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "追趕我們的比空中的鷹更快； 他們在山上追逼我們， 在曠野埋伏，等候我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The breath of our nostrils, the anointed of the LORD, was taken in their pits; of whom we said, under his shadow we will live among the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的受膏者好比我们鼻中的气， 在他们的坑中被捉住； 我们曾论到他说： 我们必在他荫下， 在列国中存活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的受膏者好比我們鼻中的氣， 在他們的坑中被捉住； 我們曾論到他說： 我們必在他蔭下， 在列國中存活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Rejoice and be glad, daughter of Edom, who dwells in the land of Uz. The cup will pass through to you also. You will be drunken, and will make yourself naked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住乌斯地的以东民哪，只管欢喜快乐； 苦杯也必传到你那里； 你必喝醉，以致露体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住烏斯地的以東民哪，只管歡喜快樂； 苦杯也必傳到你那裏； 你必喝醉，以致露體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安的民哪，你罪孽的刑罚受足了， 耶和华必不使你再被掳去。 以东的民哪，他必追讨你的罪孽， 显露你的罪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安的民哪，你罪孽的刑罰受足了， 耶和華必不使你再被擄去。 以東的民哪，他必追討你的罪孽， 顯露你的罪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

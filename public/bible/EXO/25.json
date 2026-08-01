@@ -1,0 +1,754 @@
+{
+  "bookId": "EXO",
+  "chapter": 25,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to the children of Israel, that they take an offering for me. From everyone whose heart makes him willing you shall take my offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你告诉以色列人当为我送礼物来；凡甘心乐意的，你们就可以收下归我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你告訴以色列人當為我送禮物來；凡甘心樂意的，你們就可以收下歸我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "This is the offering which you shall take from them: gold, silver, bronze,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所要收的礼物：就是金、银、铜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所要收的禮物：就是金、銀、銅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "blue, purple, scarlet, fine linen, goats’ hair,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蓝色、紫色、朱红色线，细麻，山羊毛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "藍色、紫色、朱紅色線，細麻，山羊毛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "rams’ skins dyed red, sea cow hides, acacia wood,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:5 or, fine leather"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "染红的公羊皮，海狗皮，皂荚木，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "染紅的公羊皮，海狗皮，皂莢木，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "oil for the light, spices for the anointing oil and for the sweet incense,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "点灯的油并做膏油和香的香料，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "點燈的油並做膏油和香的香料，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "onyx stones, and stones to be set for the ephod and for the breastplate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "紅瑪瑙與別樣的寶石，可以鑲嵌在以弗得和胸牌上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Let them make me a sanctuary, that I may dwell among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又当为我造圣所，使我可以住在他们中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又當為我造聖所，使我可以住在他們中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "According to all that I show you, the pattern of the tabernacle, and the pattern of all of its furniture, even so you shall make it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "制造帐幕和其中的一切器具都要照我所指示你的样式。」 （出37·1—9）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "製造帳幕和其中的一切器具都要照我所指示你的樣式。」 （出37‧1－9）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“They shall make an ark of acacia wood. Its length shall be two and a half cubits, its width a cubit and a half, and a cubit and a half its height.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:10 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「要用皂荚木做一柜，长二肘半，宽一肘半，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「要用皂莢木做一櫃，長二肘半，寬一肘半，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall overlay it with pure gold. You shall overlay it inside and outside, and you shall make a gold molding around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要里外包上精金，四围镶上金牙边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要裏外包上精金，四圍鑲上金牙邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You shall cast four rings of gold for it, and put them in its four feet. Two rings shall be on the one side of it, and two rings on the other side of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也要铸四个金环，安在柜的四脚上；这边两环，那边两环。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也要鑄四個金環，安在櫃的四腳上；這邊兩環，那邊兩環。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall make poles of acacia wood, and overlay them with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用皂荚木做两根杠，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用皂莢木做兩根槓，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall put the poles into the rings on the sides of the ark to carry the ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把杠穿在柜旁的环内，以便抬柜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把槓穿在櫃旁的環內，以便抬櫃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The poles shall be in the rings of the ark. They shall not be taken from it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这杠要常在柜的环内，不可抽出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這槓要常在櫃的環內，不可抽出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "You shall put the covenant which I shall give you into the ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必将我所要赐给你的法版放在柜里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必將我所要賜給你的法版放在櫃裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You shall make a mercy seat of pure gold. Two and a half cubits shall be its length, and a cubit and a half its width.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用精金做施恩座，长二肘半，宽一肘半。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:17 施恩：或译蔽罪；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用精金做施恩座 ，長二肘半，寬一肘半。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:17 施恩：或譯蔽罪；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You shall make two cherubim of hammered gold. You shall make them at the two ends of the mercy seat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用金子锤出两个基路伯来，安在施恩座的两头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用金子錘出兩個基路伯來，安在施恩座的兩頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Make one cherub at the one end, and one cherub at the other end. You shall make the cherubim on its two ends of one piece with the mercy seat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这头做一个基路伯，那头做一个基路伯，二基路伯要接连一块，在施恩座的两头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這頭做一個基路伯，那頭做一個基路伯，二基路伯要接連一塊，在施恩座的兩頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The cherubim shall spread out their wings upward, covering the mercy seat with their wings, with their faces toward one another. The faces of the cherubim shall be toward the mercy seat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二基路伯要高张翅膀，遮掩施恩座。基路伯要脸对脸，朝着施恩座。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二基路伯要高張翅膀，遮掩施恩座。基路伯要臉對臉，朝着施恩座。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You shall put the mercy seat on top of the ark, and in the ark you shall put the covenant that I will give you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要将施恩座安在柜的上边，又将我所要赐给你的法版放在柜里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要將施恩座安在櫃的上邊，又將我所要賜給你的法版放在櫃裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "There I will meet with you, and I will tell you from above the mercy seat, from between the two cherubim which are on the ark of the covenant, all that I command you for the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要在那里与你相会，又要从法柜施恩座上二基路伯中间，和你说我所要吩咐你传给以色列人的一切事。」 （出37·10—16）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要在那裏與你相會，又要從法櫃施恩座上二基路伯中間，和你說我所要吩咐你傳給以色列人的一切事。」 （出37‧10－16）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“You shall make a table of acacia wood. Its length shall be two cubits, and its width a cubit, and its height one and a half cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「要用皂荚木做一张桌子，长二肘，宽一肘，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「要用皂莢木做一張桌子，長二肘，寬一肘，高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You shall overlay it with pure gold, and make a gold molding around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要包上精金，四围镶上金牙边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要包上精金，四圍鑲上金牙邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You shall make a rim of a hand width around it. You shall make a golden molding on its rim around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "桌子的四围各做一掌宽的横梁，横梁上镶着金牙边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "桌子的四圍各做一掌寬的橫樑，橫樑上鑲着金牙邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "You shall make four rings of gold for it, and put the rings in the four corners that are on its four feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要做四个金环，安在桌子的四角上，就是桌子四脚上的四角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要做四個金環，安在桌子的四角上，就是桌子四腳上的四角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The rings shall be close to the rim, for places for the poles to carry the table.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "安环子的地方要挨近横梁，可以穿杠抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "安環子的地方要挨近橫樑，可以穿槓抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "You shall make the poles of acacia wood, and overlay them with gold, that the table may be carried with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用皂荚木做两根杠，用金包裹，以便抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用皂莢木做兩根槓，用金包裹，以便抬桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "You shall make its dishes, its spoons, its ladles, and its bowls with which to pour out offerings. You shall make them of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要做桌子上的盘子、调羹，并奠酒的爵和瓶；这都要用精金制作。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要做桌子上的盤子、調羹，並奠酒的爵和瓶；這都要用精金製作。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "You shall set bread of the presence on the table before me always.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要在桌子上，在我面前，常摆陈设饼。」 （出37·17—24）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要在桌子上，在我面前，常擺陳設餅。」 （出37‧17－24）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“You shall make a lamp stand of pure gold. The lamp stand shall be made of hammered work. Its base, its shaft, its cups, its buds, and its flowers shall be of one piece with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「要用精金做一个灯台。灯台的座和干与杯、球、花，都要接连一块锤出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「要用精金做一個燈臺。燈臺的座和幹與杯、球、花，都要接連一塊錘出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "There shall be six branches going out of its sides: three branches of the lamp stand out of its one side, and three branches of the lamp stand out of its other side;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台两旁要杈出六个枝子：这旁三个，那旁三个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺兩旁要杈出六個枝子：這旁三個，那旁三個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "three cups made like almond blossoms in one branch, a bud and a flower; and three cups made like almond blossoms in the other branch, a bud and a flower, so for the six branches going out of the lamp stand;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这旁每枝上有三个杯，形状像杏花，有球，有花；那旁每枝上也有三个杯，形状像杏花，有球，有花。从灯台杈出来的六个枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這旁每枝上有三個杯，形狀像杏花，有球，有花；那旁每枝上也有三個杯，形狀像杏花，有球，有花。從燈臺杈出來的六個枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "and in the lamp stand four cups made like almond blossoms, its buds and its flowers;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台上有四个杯，形状像杏花，有球，有花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺上有四個杯，形狀像杏花，有球，有花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, for the six branches going out of the lamp stand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台每两个枝子以下有球与枝子接连一块。灯台出的六个枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺每兩個枝子以下有球與枝子接連一塊。燈臺出的六個枝子都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Their buds and their branches shall be of one piece with it, all of it one beaten work of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "球和枝子要接连一块，都是一块精金锤出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "球和枝子要接連一塊，都是一塊精金錘出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "You shall make its lamps seven, and they shall light its lamps to give light to the space in front of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要做灯台的七个灯盏。祭司要点这灯，使灯光对照。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要做燈臺的七個燈盞。祭司要點這燈，使燈光對照。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Its snuffers and its snuff dishes shall be of pure gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台的蜡剪和蜡花盘也是要精金的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺的蠟剪和蠟花盤也是要精金的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "It shall be made of a talent of pure gold, with all these accessories.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:39 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "做灯台和这一切的器具要用精金一他连得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "做燈臺和這一切的器具要用精金一他連得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "See that you make them after their pattern, which has been shown to you on the mountain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要谨慎做这些物件，都要照着在山上指示你的样式。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要謹慎做這些物件，都要照着在山上指示你的樣式。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

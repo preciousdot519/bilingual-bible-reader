@@ -1,0 +1,312 @@
+{
+  "bookId": "HEB",
+  "chapter": 1,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "God, having in the past spoken to the fathers through the prophets at many times and in various ways,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神既在古时借着众先知多次多方地晓谕列祖，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝既在古時藉着眾先知多次多方地曉諭列祖，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就在这末世借着他儿子晓谕我们；又早已立他为承受万有的，也曾借着他创造诸世界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就在這末世藉着他兒子曉諭我們；又早已立他為承受萬有的，也曾藉着他創造諸世界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是 神荣耀所发的光辉，是 神本体的真像，常用他权能的命令托住万有。他洗净了人的罪，就坐在高天至大者的右边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是上帝榮耀所發的光輝，是上帝本體的真像，常用他權能的命令托住萬有。他洗淨了人的罪，就坐在高天至大者的右邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "having become as much better than the angels as the more excellent name he has inherited is better than theirs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他所承受的名，既比天使的名更尊贵，就远超过天使。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他所承受的名，既比天使的名更尊貴，就遠超過天使。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For to which of the angels did he say at any time, “You are my Son. Today I have become your father?” and again, “I will be to him a Father, and he will be to me a Son?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:5 Psalms 2:7",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "1:5 2 Samuel 7:14; 1 Chronicles 17:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所有的天使， 神从来对哪一个说： 你是我的儿子， 我今日生你？ 我要作他的父， 他要作我的子？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有的天使，上帝從來對哪一個說： 你是我的兒子， 我今日生你？ 我要作他的父， 他要作我的子？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:6 Deuteronomy 32:43 LXX",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "再者， 神使长子到世上来的时候，就说： 神的使者都要拜他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 或译： 神再使长子到世上来的时候"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，上帝使長子到世上來的時候，就說： 上帝的使者都要拜他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 或譯：上帝再使長子到世上來的時候"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Of the angels he says, “He makes his angels winds, and his servants a flame of fire.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:7 Psalms 104:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "论到使者，又说： 神以风为使者， 以火焰为仆役；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到使者，又說： 上帝以風為使者， 以火焰為僕役；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到子却说： 神啊，你的宝座是永永远远的； 你的国权是正直的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到子卻說： 上帝啊，你的寶座是永永遠遠的； 你的國權是正直的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You have loved righteousness and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:9 Psalms 45:6-7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你喜爱公义，恨恶罪恶； 所以 神，就是你的 神，用喜乐油膏你， 胜过膏你的同伴；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你喜愛公義，恨惡罪惡； 所以上帝，就是你的上帝，用喜樂油膏你， 勝過膏你的同伴；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：主啊，你起初立了地的根基； 天也是你手所造的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：主啊，你起初立了地的根基； 天也是你手所造的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They will perish, but you continue. They all will grow old like a garment does.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天地都要灭没，你却要长存。 天地都要像衣服渐渐旧了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天地都要滅沒，你卻要長存。 天地都要像衣服漸漸舊了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You will roll them up like a mantle, and they will be changed; but you are the same. Your years won’t fail.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:12 Psalms 102:25-27",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你要将天地卷起来，像一件外衣， 天地就都改变了。 惟有你永不改变； 你的年数没有穷尽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要將天地捲起來，像一件外衣， 天地就都改變了。 惟有你永不改變； 你的年數沒有窮盡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:13 Psalms 110:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所有的天使， 神从来对哪一个说： 你坐在我的右边， 等我使你仇敌作你的脚凳？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有的天使，上帝從來對哪一個說： 你坐在我的右邊， 等我使你仇敵作你的腳凳？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使岂不都是服役的灵、奉差遣为那将要承受救恩的人效力吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使豈不都是服役的靈、奉差遣為那將要承受救恩的人效力嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "bookId": "HEB",
+  "chapter": 12,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们既有这许多的见证人，如同云彩围着我们，就当放下各样的重担，脱去容易缠累我们的罪，存心忍耐，奔那摆在我们前头的路程，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們既有這許多的見證人，如同雲彩圍着我們，就當放下各樣的重擔，脫去容易纏累我們的罪，存心忍耐，奔那擺在我們前頭的路程，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仰望为我们信心创始成终的耶稣。他因那摆在前面的喜乐，就轻看羞辱，忍受了十字架的苦难，便坐在 神宝座的右边。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:2 或译：仰望那将真道创始成终的耶稣"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "仰望為我們信心創始成終的耶穌。他因那擺在前面的喜樂，就輕看羞辱，忍受了十字架的苦難，便坐在上帝寶座的右邊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:2 或譯：仰望那將真道創始成終的耶穌"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那忍受罪人这样顶撞的，你们要思想，免得疲倦灰心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那忍受罪人這樣頂撞的，你們要思想，免得疲倦灰心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You have not yet resisted to blood, striving against sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们与罪恶相争，还没有抵挡到流血的地步。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們與罪惡相爭，還沒有抵擋到流血的地步。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You have forgotten the exhortation which reasons with you as with children, “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们又忘了那劝你们如同劝儿子的话，说： 我儿，你不可轻看主的管教， 被他责备的时候也不可灰心；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們又忘了那勸你們如同勸兒子的話，說： 我兒，你不可輕看主的管教， 被他責備的時候也不可灰心；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "for whom the Lord loves, he disciplines, and chastises every son whom he receives.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:6 Proverbs 3:11-12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为主所爱的，他必管教， 又鞭打凡所收纳的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為主所愛的，他必管教， 又鞭打凡所收納的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn’t discipline?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们所忍受的，是 神管教你们，待你们如同待儿子。焉有儿子不被父亲管教的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們所忍受的，是上帝管教你們，待你們如同待兒子。焉有兒子不被父親管教的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But if you are without discipline, of which all have been made partakers, then you are illegitimate, and not children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管教原是众子所共受的。你们若不受管教，就是私子，不是儿子了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管教原是眾子所共受的。你們若不受管教，就是私子，不是兒子了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits and live?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再者，我们曾有生身的父管教我们，我们尚且敬重他，何况万灵的父，我们岂不更当顺服他得生吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，我們曾有生身的父管教我們，我們尚且敬重他，何況萬靈的父，我們豈不更當順服他得生嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For they indeed for a few days disciplined us as seemed good to them, but he for our profit, that we may be partakers of his holiness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生身的父都是暂随己意管教我们；惟有万灵的父管教我们，是要我们得益处，使我们在他的圣洁上有分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生身的父都是暫隨己意管教我們；惟有萬靈的父管教我們，是要我們得益處，使我們在他的聖潔上有分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡管教的事，当时不觉得快乐，反觉得愁苦；后来却为那经练过的人结出平安的果子，就是义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡管教的事，當時不覺得快樂，反覺得愁苦；後來卻為那經練過的人結出平安的果子，就是義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore lift up the hands that hang down and the feeble knees,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:12 Isaiah 35:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所以，你们要把下垂的手、发酸的腿挺起来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們要把下垂的手、發酸的腿挺起來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "and make straight paths for your feet, so what is lame may not be dislocated, but rather be healed.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:13 Proverbs 4:26",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "也要为自己的脚，把道路修直了，使瘸子不致歪脚，反得痊愈。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:13 或译：差路"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也要為自己的腳，把道路修直了，使瘸子不致歪腳，反得痊癒。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:13 或譯：差路"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要追求与众人和睦，并要追求圣洁；非圣洁没有人能见主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要追求與眾人和睦，並要追求聖潔；非聖潔沒有人能見主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "looking carefully lest there be any man who falls short of the grace of God, lest any root of bitterness springing up trouble you and many be defiled by it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要谨慎，恐怕有人失了 神的恩；恐怕有毒根生出来扰乱你们，因此叫众人沾染污秽；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要謹慎，恐怕有人失了上帝的恩；恐怕有毒根生出來擾亂你們，因此叫眾人沾染污穢；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "lest there be any sexually immoral person or profane person, like Esau, who sold his birthright for one meal.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐怕有淫乱的，有贪恋世俗如以扫的，他因一点食物把自己长子的名分卖了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐怕有淫亂的，有貪戀世俗如以掃的，他因一點食物把自己長子的名分賣了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来想要承受父所祝的福，竟被弃绝，虽然号哭切求，却得不着门路使他父亲的心意回转。这是你们知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來想要承受父所祝的福，竟被棄絕，雖然號哭切求，卻得不着門路使他父親的心意回轉。這是你們知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For you have not come to a mountain that might be touched and that burned with fire, and to blackness, darkness, storm,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们原不是来到那能摸的山；此山有火焰、密云、黑暗、暴风、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們原不是來到那能摸的山；此山有火焰、密雲、黑暗、暴風、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "the sound of a trumpet, and the voice of words; which those who heard it begged that not one more word should be spoken to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "角声与说话的声音。那些听见这声音的，都求不要再向他们说话；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "角聲與說話的聲音。那些聽見這聲音的，都求不要再向他們說話；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:20 TR adds “or shot with an arrow”"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:20 Exodus 19:12-13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为他们当不起所命他们的话，说：「靠近这山的，即便是走兽，也要用石头打死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們當不起所命他們的話，說：「靠近這山的，即便是走獸，也要用石頭打死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "So fearful was the appearance that Moses said, “I am terrified and trembling.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:21 Deuteronomy 9:19",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所见的极其可怕，甚至摩西说：「我甚是恐惧战兢。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所見的極其可怕，甚至摩西說：「我甚是恐懼戰兢。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们乃是来到锡安山，永生 神的城邑，就是天上的耶路撒冷。那里有千万的天使，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們乃是來到錫安山，永生上帝的城邑，就是天上的耶路撒冷。那裏有千萬的天使，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "to the festal gathering and assembly of the firstborn who are enrolled in heaven, to God the Judge of all, to the spirits of just men made perfect,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有名录在天上诸长子之会所共聚的总会，有审判众人的 神和被成全之义人的灵魂，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有名錄在天上諸長子之會所共聚的總會，有審判眾人的上帝和被成全之義人的靈魂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:24 Jeremiah 31:31",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "并新约的中保耶稣，以及所洒的血；这血所说的比亚伯的血所说的更美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並新約的中保耶穌，以及所灑的血；這血所說的比亞伯的血所說的更美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "See that you don’t refuse him who speaks. For if they didn’t escape when they refused him who warned on the earth, how much more will we not escape who turn away from him who warns from heaven,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们总要谨慎，不可弃绝那向你们说话的。因为，那些弃绝在地上警戒他们的尚且不能逃罪，何况我们违背那从天上警戒我们的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們總要謹慎，不可棄絕那向你們說話的。因為，那些棄絕在地上警戒他們的尚且不能逃罪，何況我們違背那從天上警戒我們的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:26 Haggai 2:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "当时他的声音震动了地，但如今他应许说：「再一次我不单要震动地，还要震动天。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時他的聲音震動了地，但如今他應許說：「再一次我不單要震動地，還要震動天。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "This phrase, “Yet once more” signifies the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这再一次的话，是指明被震动的，就是受造之物都要挪去，使那不被震动的常存。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這再一次的話，是指明被震動的，就是受造之物都要挪去，使那不被震動的常存。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Therefore, receiving a Kingdom that can’t be shaken, let’s have grace, through which we serve God acceptably, with reverence and awe,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我们既得了不能震动的国，就当感恩，照 神所喜悦的，用虔诚、敬畏的心事奉 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我們既得了不能震動的國，就當感恩，照上帝所喜悅的，用虔誠、敬畏的心事奉上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "for our God is a consuming fire.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:29 Deuteronomy 4:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为我们的 神乃是烈火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們的上帝乃是烈火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

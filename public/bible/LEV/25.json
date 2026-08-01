@@ -1,0 +1,1009 @@
+{
+  "bookId": "LEV",
+  "chapter": 25,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD said to Moses on Mount Sinai,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在西奈山对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在西奈山對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to the children of Israel, and tell them, ‘When you come into the land which I give you, then the land shall keep a Sabbath to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你晓谕以色列人说：你们到了我所赐你们那地的时候，地就要向耶和华守安息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曉諭以色列人說：你們到了我所賜你們那地的時候，地就要向耶和華守安息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall sow your field six years, and you shall prune your vineyard six years, and gather in its fruits;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六年要耕种田地，也要修理葡萄园，收藏地的出产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六年要耕種田地，也要修理葡萄園，收藏地的出產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the LORD. You shall not sow your field or prune your vineyard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第七年，地要守圣安息，就是向耶和华守的安息，不可耕种田地，也不可修理葡萄园。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第七年，地要守聖安息，就是向耶和華守的安息，不可耕種田地，也不可修理葡萄園。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "What grows of itself in your harvest you shall not reap, and you shall not gather the grapes of your undressed vine. It shall be a year of solemn rest for the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遗落自长的庄稼不可收割；没有修理的葡萄树也不可摘取葡萄。这年，地要守圣安息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遺落自長的莊稼不可收割；沒有修理的葡萄樹也不可摘取葡萄。這年，地要守聖安息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The Sabbath of the land shall be for food for you; for yourself, for your servant, for your maid, for your hired servant, and for your stranger, who lives as a foreigner with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地在安息年所出的，要给你和你的仆人、婢女、雇工人，并寄居的外人当食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地在安息年所出的，要給你和你的僕人、婢女、雇工人，並寄居的外人當食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For your livestock also, and for the animals that are in your land, shall all its increase be for food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这年的土产也要给你的牲畜和你地上的走兽当食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這年的土產也要給你的牲畜和你地上的走獸當食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“‘You shall count off seven Sabbaths of years, seven times seven years; and there shall be to you the days of seven Sabbaths of years, even forty-nine years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要计算七个安息年，就是七七年。这便为你成了七个安息年，共是四十九年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要計算七個安息年，就是七七年。這便為你成了七個安息年，共是四十九年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当年七月初十日，你要大发角声；这日就是赎罪日，要在遍地发出角声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當年七月初十日，你要大發角聲；這日就是贖罪日，要在遍地發出角聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you; and each of you shall return to his own property, and each of you shall return to his family.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第五十年，你们要当作圣年，在遍地给一切的居民宣告自由。这年必为你们的禧年，各人要归自己的产业，各归本家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第五十年，你們要當作聖年，在遍地給一切的居民宣告自由。這年必為你們的禧年，各人要歸自己的產業，各歸本家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "That fiftieth year shall be a jubilee to you. In it you shall not sow, neither reap that which grows of itself, nor gather from the undressed vines.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第五十年要作为你们的禧年。这年不可耕种；地中自长的，不可收割；没有修理的葡萄树也不可摘取葡萄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第五十年要作為你們的禧年。這年不可耕種；地中自長的，不可收割；沒有修理的葡萄樹也不可摘取葡萄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For it is a jubilee; it shall be holy to you. You shall eat of its increase out of the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为这是禧年，你们要当作圣年，吃地中自出的土产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為這是禧年，你們要當作聖年，吃地中自出的土產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘In this Year of Jubilee each of you shall return to his property.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这禧年，你们各人要归自己的地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這禧年，你們各人要歸自己的地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘If you sell anything to your neighbor, or buy from your neighbor, you shall not wrong one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若卖什么给邻舍，或是从邻舍的手中买什么，彼此不可亏负。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若賣甚麼給鄰舍，或是從鄰舍的手中買甚麼，彼此不可虧負。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "According to the number of years after the Jubilee you shall buy from your neighbor. According to the number of years of the crops he shall sell to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要按禧年以后的年数向邻舍买；他也要按年数的收成卖给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要按禧年以後的年數向鄰舍買；他也要按年數的收成賣給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "According to the length of the years you shall increase its price, and according to the shortness of the years you shall diminish its price; for he is selling the number of the crops to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "年岁若多，要照数加添价值；年岁若少，要照数减去价值，因为他照收成的数目卖给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "年歲若多，要照數加添價值；年歲若少，要照數減去價值，因為他照收成的數目賣給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You shall not wrong one another, but you shall fear your God; for I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们彼此不可亏负，只要敬畏你们的 神，因为我是耶和华—你们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們彼此不可虧負，只要敬畏你們的上帝，因為我是耶和華－你們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“‘Therefore you shall do my statutes, and keep my ordinances and do them; and you shall dwell in the land in safety.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我的律例，你们要遵行，我的典章，你们要谨守，就可以在那地上安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我的律例，你們要遵行，我的典章，你們要謹守，就可以在那地上安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The land shall yield its fruit, and you shall eat your fill, and dwell therein in safety.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地必出土产，你们就要吃饱，在那地上安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地必出土產，你們就要吃飽，在那地上安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "If you said, “What shall we eat the seventh year? Behold, we shall not sow, nor gather in our increase;”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若说：『这第七年我们不耕种，也不收藏土产，吃什么呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若說：『這第七年我們不耕種，也不收藏土產，吃甚麼呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "then I will command my blessing on you in the sixth year, and it shall bear fruit for the three years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必在第六年将我所命的福赐给你们，地便生三年的土产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必在第六年將我所命的福賜給你們，地便生三年的土產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You shall sow the eighth year, and eat of the fruits from the old store until the ninth year. Until its fruits come in, you shall eat the old store.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第八年，你们要耕种，也要吃陈粮，等到第九年出产收来的时候，你们还吃陈粮。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第八年，你們要耕種，也要吃陳糧，等到第九年出產收來的時候，你們還吃陳糧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“‘The land shall not be sold in perpetuity, for the land is mine; for you are strangers and live as foreigners with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「地不可永卖，因为地是我的；你们在我面前是客旅，是寄居的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「地不可永賣，因為地是我的；你們在我面前是客旅，是寄居的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "In all the land of your possession you shall grant a redemption for the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你们所得为业的全地，也要准人将地赎回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你們所得為業的全地，也要准人將地贖回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“‘If your brother becomes poor, and sells some of his possessions, then his kinsman who is next to him shall come, and redeem that which his brother has sold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的弟兄若渐渐穷乏，卖了几分地业，他至近的亲属就要来把弟兄所卖的赎回。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:25 弟兄是指本国人说；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的弟兄若漸漸窮乏，賣了幾分地業，他至近的親屬就要來把弟兄所賣的贖回。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 25:25 弟兄是指本國人說；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "If a man has no one to redeem it, and he becomes prosperous and finds sufficient means to redeem it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若没有能给他赎回的，他自己渐渐富足，能够赎回，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若沒有能給他贖回的，他自己漸漸富足，能夠贖回，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "then let him reckon the years since its sale, and restore the surplus to the man to whom he sold it; and he shall return to his property.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就要算出卖地的年数，把余剩年数的价值还那买主，自己便归回自己的地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就要算出賣地的年數，把餘剩年數的價值還那買主，自己便歸回自己的地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "But if he isn’t able to get it back for himself, then what he has sold shall remain in the hand of him who has bought it until the Year of Jubilee. In the Jubilee it shall be released, and he shall return to his property.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若不能为自己得回所卖的，仍要存在买主的手里直到禧年；到了禧年，地业要出买主的手，自己便归回自己的地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若不能為自己得回所賣的，仍要存在買主的手裏直到禧年；到了禧年，地業要出買主的手，自己便歸回自己的地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“‘If a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it has been sold. For a full year he shall have the right of redemption.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若卖城内的住宅，卖了以后，一年之内可以赎回；在一整年，必有赎回的权柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若賣城內的住宅，賣了以後，一年之內可以贖回；在一整年，必有贖回的權柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "If it isn’t redeemed within the space of a full year, then the house that is in the walled city shall be made sure in perpetuity to him who bought it, throughout his generations. It shall not be released in the Jubilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若在一整年之内不赎回，这城内的房屋就定准永归买主，世世代代为业；在禧年也不得出买主的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若在一整年之內不贖回，這城內的房屋就定准永歸買主，世世代代為業；在禧年也不得出買主的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "But the houses of the villages which have no wall around them shall be accounted for with the fields of the country: they may be redeemed, and they shall be released in the Jubilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但房屋在无城墙的村庄里，要看如乡下的田地一样，可以赎回；到了禧年，都要出买主的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但房屋在無城牆的村莊裏，要看如鄉下的田地一樣，可以贖回；到了禧年，都要出買主的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“‘Nevertheless, in the cities of the Levites, the Levites may redeem the houses in the cities of their possession at any time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而利未人所得为业的城邑，其中的房屋，利未人可以随时赎回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而利未人所得為業的城邑，其中的房屋，利未人可以隨時贖回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The Levites may redeem the house that was sold, and the city of his possession, and it shall be released in the Jubilee; for the houses of the cities of the Levites are their possession among the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是一个利未人不将所卖的房屋赎回，是在所得为业的城内，到了禧年就要出买主的手，因为利未人城邑的房屋是他们在以色列人中的产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是一個利未人不將所賣的房屋贖回，是在所得為業的城內，到了禧年就要出買主的手，因為利未人城邑的房屋是他們在以色列人中的產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "But the field of the pasture lands of their cities may not be sold, for it is their perpetual possession.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是他们各城郊野之地不可卖，因为是他们永远的产业。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是他們各城郊野之地不可賣，因為是他們永遠的產業。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“‘If your brother has become poor, and his hand can’t support himself among you, then you shall uphold him. He shall live with you like an alien and a temporary resident.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你的弟兄在你那里若渐渐贫穷，手中缺乏，你就要帮补他，使他与你同住，像外人和寄居的一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你的弟兄在你那裏若漸漸貧窮，手中缺乏，你就要幫補他，使他與你同住，像外人和寄居的一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Take no interest from him or profit; but fear your God, that your brother may live among you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可向他取利，也不可向他多要；只要敬畏你的 神，使你的弟兄与你同住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可向他取利，也不可向他多要；只要敬畏你的上帝，使你的弟兄與你同住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "You shall not lend him your money at interest, nor give him your food for profit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你借钱给他，不可向他取利；借粮给他，也不可向他多要。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你借錢給他，不可向他取利；借糧給他，也不可向他多要。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "I am the LORD your God, who brought you out of the land of Egypt, to give you the land of Canaan, and to be your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华—你们的 神，曾领你们从埃及地出来，为要把迦南地赐给你们，要作你们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華－你們的上帝，曾領你們從埃及地出來，為要把迦南地賜給你們，要作你們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "“‘If your brother has grown poor among you, and sells himself to you, you shall not make him to serve as a slave.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你的弟兄若在你那里渐渐穷乏，将自己卖给你，不可叫他像奴仆服事你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你的弟兄若在你那裏漸漸窮乏，將自己賣給你，不可叫他像奴僕服事你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "As a hired servant, and as a temporary resident, he shall be with you; he shall serve with you until the Year of Jubilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要在你那里像雇工人和寄居的一样，要服事你直到禧年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要在你那裏像雇工人和寄居的一樣，要服事你直到禧年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Then he shall go out from you, he and his children with him, and shall return to his own family, and to the possession of his fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了禧年，他和他儿女要离开你，一同出去归回本家，到他祖宗的地业那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了禧年，他和他兒女要離開你，一同出去歸回本家，到他祖宗的地業那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "For they are my servants, whom I brought out of the land of Egypt. They shall not be sold as slaves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们是我的仆人，是我从埃及地领出来的，不可卖为奴仆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們是我的僕人，是我從埃及地領出來的，不可賣為奴僕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "You shall not rule over him with harshness, but shall fear your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可严严地辖管他，只要敬畏你的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可嚴嚴地轄管他，只要敬畏你的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "“‘As for your male and your female slaves, whom you may have from the nations that are around you, from them you may buy male and female slaves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于你的奴仆、婢女，可以从你四围的国中买。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於你的奴僕、婢女，可以從你四圍的國中買。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Moreover, of the children of the aliens who live among you, of them you may buy, and of their families who are with you, which they have conceived in your land; and they will be your property.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且那寄居在你们中间的外人和他们的家属，在你们地上所生的，你们也可以从其中买人；他们要作你们的产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且那寄居在你們中間的外人和他們的家屬，在你們地上所生的，你們也可以從其中買人；他們要作你們的產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "You may make them an inheritance for your children after you, to hold for a possession. Of them you may take your slaves forever, but over your brothers the children of Israel you shall not rule, one over another, with harshness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要将他们遗留给你们的子孙为产业，要永远从他们中间拣出奴仆；只是你们的弟兄以色列人，你们不可严严地辖管。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要將他們遺留給你們的子孫為產業，要永遠從他們中間揀出奴僕；只是你們的弟兄以色列人，你們不可嚴嚴地轄管。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "“‘If an alien or temporary resident with you becomes rich, and your brother beside him has grown poor, and sells himself to the stranger or foreigner living among you, or to a member of the stranger’s family,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「住在你那里的外人，或是寄居的，若渐渐富足，你的弟兄却渐渐穷乏，将自己卖给那外人，或是寄居的，或是外人的宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「住在你那裏的外人，或是寄居的，若漸漸富足，你的弟兄卻漸漸窮乏，將自己賣給那外人，或是寄居的，或是外人的宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "after he is sold he may be redeemed. One of his brothers may redeem him;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "卖了以后，可以将他赎回。无论是他的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "賣了以後，可以將他贖回。無論是他的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "or his uncle, or his uncle’s son, may redeem him, or any who is a close relative to him of his family may redeem him; or if he has grown rich, he may redeem himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或伯叔、伯叔的儿子，本家的近支，都可以赎他。他自己若渐渐富足，也可以自赎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或伯叔、伯叔的兒子，本家的近支，都可以贖他。他自己若漸漸富足，也可以自贖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "He shall reckon with him who bought him from the year that he sold himself to him to the Year of Jubilee. The price of his sale shall be according to the number of years; he shall be with him according to the time of a hired servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要和买主计算，从卖自己的那年起，算到禧年；所卖的价值照着年数多少，好像工人每年的工价。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要和買主計算，從賣自己的那年起，算到禧年；所賣的價值照着年數多少，好像工人每年的工價。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "If there are yet many years, according to them he shall give back the price of his redemption out of the money that he was bought for.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若缺少的年数多，就要按着年数从买价中偿还他的赎价。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若缺少的年數多，就要按着年數從買價中償還他的贖價。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "If there remain but a few years to the year of jubilee, then he shall reckon with him; according to his years of service he shall give back the price of his redemption.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若到禧年只缺少几年，就要按着年数和买主计算，偿还他的赎价。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若到禧年只缺少幾年，就要按着年數和買主計算，償還他的贖價。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "As a servant hired year by year shall he be with him. He shall not rule with harshness over him in your sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他和买主同住，要像每年雇的工人，买主不可严严地辖管他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他和買主同住，要像每年雇的工人，買主不可嚴嚴地轄管他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "If he isn’t redeemed by these means, then he shall be released in the Year of Jubilee: he and his children with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若不这样被赎，到了禧年，要和他的儿女一同出去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若不這樣被贖，到了禧年，要和他的兒女一同出去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "For to me the children of Israel are servants; they are my servants whom I brought out of the land of Egypt. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为以色列人都是我的仆人，是我从埃及地领出来的。我是耶和华—你们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為以色列人都是我的僕人，是我從埃及地領出來的。我是耶和華－你們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "bookId": "GAL",
+  "chapter": 1,
+  "bookEnglish": "Galatians",
+  "bookChineseSimplified": "加拉太书",
+  "bookChineseTraditional": "加拉太書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Paul, an apostle—not from men, nor through man, but through Jesus Christ, and God the Father, who raised him from the dead—",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 “Christ” means “Anointed One”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作使徒的保罗（不是由于人，也不是借着人，乃是借着耶稣基督，与叫他从死里复活的父 神）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作使徒的保羅（不是由於人，也不是藉着人，乃是藉着耶穌基督，與叫他從死裏復活的父上帝）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "and all the brothers who are with me, to the assemblies of Galatia:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:2 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和一切与我同在的众弟兄，写信给加拉太的各教会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和一切與我同在的眾弟兄，寫信給加拉太的各教會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿恩惠、平安从父 神与我们的主耶稣基督归与你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願恩惠、平安從父上帝與我們的主耶穌基督歸與你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基督照我们父 神的旨意，为我们的罪舍己，要救我们脱离这罪恶的世代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督照我們父上帝的旨意，為我們的罪捨己，要救我們脫離這罪惡的世代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "to whom be the glory forever and ever. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但愿荣耀归于 神，直到永永远远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但願榮耀歸於上帝，直到永永遠遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I marvel that you are so quickly deserting him who called you in the grace of Christ to a different “good news”,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我希奇你们这么快离开那借着基督之恩召你们的，去从别的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我希奇你們這麼快離開那藉着基督之恩召你們的，去從別的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but there isn’t another “good news.” Only there are some who trouble you and want to pervert the Good News of Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那并不是福音，不过有些人搅扰你们，要把基督的福音更改了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那並不是福音，不過有些人攪擾你們，要把基督的福音更改了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But even though we, or an angel from heaven, should preach to you any “good news” other than that which we preached to you, let him be cursed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但无论是我们，是天上来的使者，若传福音给你们，与我们所传给你们的不同，他就应当被咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但無論是我們，是天上來的使者，若傳福音給你們，與我們所傳給你們的不同，他就應當被咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "As we have said before, so I now say again: if any man preaches to you any “good news” other than that which you received, let him be cursed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们已经说了，现在又说，若有人传福音给你们，与你们所领受的不同，他就应当被咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們已經說了，現在又說，若有人傳福音給你們，與你們所領受的不同，他就應當被咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现在是要得人的心呢？还是要得 神的心呢？我岂是讨人的喜欢吗？若仍旧讨人的喜欢，我就不是基督的仆人了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現在是要得人的心呢？還是要得上帝的心呢？我豈是討人的喜歡嗎？若仍舊討人的喜歡，我就不是基督的僕人了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But I make known to you, brothers, concerning the Good News which was preached by me, that it is not according to man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我告诉你们，我素来所传的福音不是出于人的意思。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我告訴你們，我素來所傳的福音不是出於人的意思。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For I didn’t receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我不是从人领受的，也不是人教导我的，乃是从耶稣基督启示来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我不是從人領受的，也不是人教導我的，乃是從耶穌基督啟示來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For you have heard of my way of living in time past in the Jews’ religion, how that beyond measure I persecuted the assembly of God and ravaged it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们听见我从前在犹太教中所行的事，怎样极力逼迫残害 神的教会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們聽見我從前在猶太教中所行的事，怎樣極力逼迫殘害上帝的教會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I advanced in the Jews’ religion beyond many of my own age among my countrymen, being more exceedingly zealous for the traditions of my fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又在犹太教中，比我本国许多同岁的人更有长进，为我祖宗的遗传更加热心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又在猶太教中，比我本國許多同歲的人更有長進，為我祖宗的遺傳更加熱心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But when it was the good pleasure of God, who separated me from my mother’s womb and called me through his grace,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，那把我从母腹里分别出来、又施恩召我的 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，那把我從母腹裏分別出來、又施恩召我的上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "to reveal his Son in me, that I might preach him among the Gentiles, I didn’t immediately confer with flesh and blood,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既然乐意将他儿子启示在我心里，叫我把他传在外邦人中，我就没有与属血气的人商量，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既然樂意將他兒子啟示在我心裏，叫我把他傳在外邦人中，我就沒有與屬血氣的人商量，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia. Then I returned to Damascus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也没有上耶路撒冷去见那些比我先作使徒的，惟独往阿拉伯去，后又回到大马士革。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也沒有上耶路撒冷去見那些比我先作使徒的，惟獨往阿拉伯去，後又回到大馬士革。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Then after three years I went up to Jerusalem to visit Peter, and stayed with him fifteen days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了三年，才上耶路撒冷去见矶法，和他同住了十五天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了三年，才上耶路撒冷去見磯法，和他同住了十五天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But of the other apostles I saw no one except James, the Lord’s brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于别的使徒，除了主的兄弟雅各，我都没有看见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於別的使徒，除了主的兄弟雅各，我都沒有看見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Now about the things which I write to you, behold, before God, I’m not lying.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:20 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我写给你们的不是谎话，这是我在 神面前说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我寫給你們的不是謊話，這是我在上帝面前說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Then I came to the regions of Syria and Cilicia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以后我到了叙利亚和基利家境内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後我到了敘利亞和基利家境內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "I was still unknown by face to the assemblies of Judea which were in Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，犹太信基督的各教会都没有见过我的面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，猶太信基督的各教會都沒有見過我的面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "but they only heard, “He who once persecuted us now preaches the faith that he once tried to destroy.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不过听说那从前逼迫我们的，现在传扬他原先所残害的真道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不過聽說那從前逼迫我們的，現在傳揚他原先所殘害的真道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "So they glorified God in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就为我的缘故，归荣耀给 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就為我的緣故，歸榮耀給上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

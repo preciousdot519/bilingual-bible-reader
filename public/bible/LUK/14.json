@@ -1,0 +1,664 @@
+{
+  "bookId": "LUK",
+  "chapter": 14,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When he went into the house of one of the rulers of the Pharisees on a Sabbath to eat bread, they were watching him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "安息日，耶稣到一个法利赛人的首领家里去吃饭，他们就窥探他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "安息日，耶穌到一個法利賽人的首領家裏去吃飯，他們就窺探他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Behold, a certain man who had dropsy was in front of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他面前有一个患水臌的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他面前有一個患水臌的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jesus, answering, spoke to the lawyers and Pharisees, saying, “Isit lawful to heal on the Sabbath?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对律法师和法利赛人说：「安息日治病可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對律法師和法利賽人說：「安息日治病可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But they were silent. He took him, and healed him, and let him go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们却不言语。耶稣就治好那人，叫他走了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們卻不言語。耶穌就治好那人，叫他走了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He answered them, “Whichof you, if your son oran ox fell into a well, wouldn’t immediately pull him out on a Sabbath day?”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:5 TR reads “donkey” instead of “son”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便对他们说：「你们中间谁有驴或有牛，在安息日掉在井里，不立时拉它上来呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便對他們說：「你們中間誰有驢或有牛，在安息日掉在井裏，不立時拉牠上來呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They couldn’t answer him regarding these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不能对答这话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不能對答這話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He spoke a parable to those who were invited, when he noticed how they chose the best seats, and said to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣见所请的客拣择首位，就用比喻对他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌見所請的客揀擇首位，就用比喻對他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Whenyou are invited by anyone to a wedding feast, don’t sit in the best seat, since perhaps someone more honorable than you might be invited by him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你被人请去赴婚姻的筵席，不要坐在首位上，恐怕有比你尊贵的客被他请来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你被人請去赴婚姻的筵席，不要坐在首位上，恐怕有比你尊貴的客被他請來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "andhe who invited both of you would come and tell you, ‘Make room for this person.’ Then you would begin, with shame, to take the lowest place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那请你们的人前来对你说：『让座给这一位吧！』你就羞羞惭惭地退到末位上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那請你們的人前來對你說：『讓座給這一位吧！』你就羞羞慚慚地退到末位上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Butwhen you are invited, go and sit in the lowest place, so that when he who invited you comes, he may tell you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at the table with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你被请的时候，就去坐在末位上，好叫那请你的人来对你说：『朋友，请上座。』那时，你在同席的人面前就有光彩了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你被請的時候，就去坐在末位上，好叫那請你的人來對你說：『朋友，請上座。』那時，你在同席的人面前就有光彩了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Foreveryone who exalts himself will be humbled, and whoever humbles himself will be exalted.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，凡自高的，必降为卑；自卑的，必升为高。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，凡自高的，必降為卑；自卑的，必升為高。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He also said to the one who had invited him, “Whenyou make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对请他的人说：「你摆设午饭或晚饭，不要请你的朋友、弟兄、亲属，和富足的邻舍，恐怕他们也请你，你就得了报答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對請他的人說：「你擺設午飯或晚飯，不要請你的朋友、弟兄、親屬，和富足的鄰舍，恐怕他們也請你，你就得了報答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But whenyou make a feast, ask the poor, the maimed, the lame, or the blind;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你摆设筵席，倒要请那贫穷的、残废的、瘸腿的、瞎眼的，你就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你擺設筵席，倒要請那貧窮的、殘廢的、瘸腿的、瞎眼的，你就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "andyou will be blessed, because they don’ t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们没有什么可报答你。到义人复活的时候，你要得着报答。」 （太22·1—10）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們沒有甚麼可報答你。到義人復活的時候，你要得着報答。」 （太22‧1－10）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "When one of those who sat at the table with him heard these things, he said to him, “Blessed is he who will feast in God’s Kingdom!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同席的有一人听见这话，就对耶稣说：「在 神国里吃饭的有福了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同席的有一人聽見這話，就對耶穌說：「在上帝國裏吃飯的有福了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But he said to him, “Acertain man made a great supper, and he invited many people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「有一人摆设大筵席，请了许多客。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「有一人擺設大筵席，請了許多客。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Hesent out his servant at supper time to tell those who were invited, ‘Come, for everything is ready now.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了坐席的时候，打发仆人去对所请的人说：『请来吧！样样都齐备了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了坐席的時候，打發僕人去對所請的人說：『請來吧！樣樣都齊備了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Theyall as one began to make excuses. “Thefirst said to him, ‘I have bought a field, and I must go and see it. Please have me excused.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人一口同音地推辞。头一个说：『我买了一块地，必须去看看。请你准我辞了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人一口同音地推辭。頭一個說：『我買了一塊地，必須去看看。請你准我辭了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Anothersaid, ‘I have bought five yoke of oxen, and I must go try them out. Please have me excused.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一个说：『我买了五对牛，要去试一试。请你准我辞了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一個說：『我買了五對牛，要去試一試。請你准我辭了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Anothersaid, ‘I have married a wife, and therefore I can’t come.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一个说：『我才娶了妻，所以不能去。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一個說：『我才娶了妻，所以不能去。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Thatservant came, and told his lord these things. Then the master of the house, being angry, said to his servant, ‘Go out quickly into the streets and lanes of the city, and bring in the poor, maimed, blind, and lame.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那仆人回来，把这事都告诉了主人。家主就动怒，对仆人说：『快出去，到城里大街小巷，领那贫穷的、残废的、瞎眼的、瘸腿的来。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那僕人回來，把這事都告訴了主人。家主就動怒，對僕人說：『快出去，到城裏大街小巷，領那貧窮的、殘廢的、瞎眼的、瘸腿的來。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Theservant said, ‘Lord, it is done as you commanded, and there is still room.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人说：『主啊，你所吩咐的已经办了，还有空座。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人說：『主啊，你所吩咐的已經辦了，還有空座。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Thelord said to the servant, ‘Go out into the highways and hedges, and compel them to come in, that my house may be filled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人对仆人说：『你出去到路上和篱笆那里，勉强人进来，坐满我的屋子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人對僕人說：『你出去到路上和籬笆那裏，勉強人進來，坐滿我的屋子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "ForI tell you that none of those men who were invited will taste of my supper. For many are called, but few are chosen.’”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:24 RP MT includes the last sentence. TR, NU, and FH MT omit: For many are called, but few are chosen."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我告诉你们，先前所请的人没有一个得尝我的筵席。』」 （太10·37—38）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我告訴你們，先前所請的人沒有一個得嘗我的筵席。』」 （太10‧37－38）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Now great multitudes were going with him. He turned and said to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有极多的人和耶稣同行。他转过来对他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有極多的人和耶穌同行。他轉過來對他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Ifanyone comes to me, and doesn’ t disregard hisown father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can’t be my disciple.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:26 or, hate"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人到我这里来，若不爱我胜过爱自己的父 母、妻子、儿女、弟兄、姊妹，和自己的性命，就不能作我的门徒。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 14:26 爱我胜过爱：原文是恨"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人到我這裏來，若不愛我勝過愛自己的父母、妻子、兒女、弟兄、姊妹，和自己的性命，就不能作我的門徒。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 14:26 愛我勝過愛：原文是恨"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Whoeverdoesn’ t bear his own cross and come after me, can’t be my disciple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡不背着自己十字架跟从我的，也不能作我的门徒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡不背着自己十字架跟從我的，也不能作我的門徒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Forwhich of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们哪一个要盖一座楼，不先坐下算计花费，能盖成不能呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們哪一個要蓋一座樓，不先坐下算計花費，能蓋成不能呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Orperhaps, when he has laid a foundation and isn’ t able to finish, everyone who sees begins to mock him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐怕安了地基，不能成功，看见的人都笑话他，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐怕安了地基，不能成功，看見的人都笑話他，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "saying, ‘This man began to build and wasn’ t able to finish.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『这个人开了工，却不能完工。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『這個人開了工，卻不能完工。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Orwhat king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或是一个王出去和别的王打仗，岂不先坐下酌量，能用一万兵去敌那领二万兵来攻打他的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或是一個王出去和別的王打仗，豈不先坐下酌量，能用一萬兵去敵那領二萬兵來攻打他的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Orelse, while the other is yet a great way off, he sends an envoy and asks for conditions of peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是不能，就趁敌人还远的时候，派使者去求和息的条款。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是不能，就趁敵人還遠的時候，派使者去求和息的條款。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Sotherefore, whoever of you who doesn’ t renounce all that he has, he can’t be my disciple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你们无论什么人，若不撇下一切所有的，就不能作我的门徒。」 （太5·13；可9·50）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你們無論甚麼人，若不撇下一切所有的，就不能作我的門徒。」 （太5‧13；可9‧50）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“Salt isgood, but if the salt becomes flat and tasteless, with what do you season it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「盐本是好的；盐若失了味，可用什么叫它再咸呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「鹽本是好的；鹽若失了味，可用甚麼叫它再鹹呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Itis fit neither for the soil nor for the manure pile. It is thrown out. He who has ears to hear, let him hear.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或用在田里，或堆在粪里，都不合式，只好丢在外面。有耳可听的，就应当听！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或用在田裏，或堆在糞裏，都不合式，只好丟在外面。有耳可聽的，就應當聽！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

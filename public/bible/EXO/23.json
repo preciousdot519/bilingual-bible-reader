@@ -1,0 +1,613 @@
+{
+  "bookId": "EXO",
+  "chapter": 23,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“You shall not spread a false report. Don’t join your hand with the wicked to be a malicious witness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可随伙布散谣言；不可与恶人连手妄作见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可隨夥佈散謠言；不可與惡人連手妄作見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“You shall not follow a crowd to do evil. You shall not testify in court to side with a multitude to pervert justice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可随众行恶；不可在争讼的事上随众偏行，作见证屈枉正直；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可隨眾行惡；不可在爭訟的事上隨眾偏行，作見證屈枉正直；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall not favor a poor man in his cause.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不可在争讼的事上偏护穷人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不可在爭訟的事上偏護窮人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“If you meet your enemy’s ox or his donkey going astray, you shall surely bring it back to him again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「若遇见你仇敌的牛或驴失迷了路，总要牵回来交给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「若遇見你仇敵的牛或驢失迷了路，總要牽回來交給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "If you see the donkey of him who hates you fallen down under his burden, don’t leave him. You shall surely help him with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若看见恨你人的驴压卧在重驮之下，不可走开，务要和驴主一同抬开重驮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若看見恨你人的驢壓臥在重馱之下，不可走開，務要和驢主一同抬開重馱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“You shall not deny justice to your poor people in their lawsuits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可在穷人争讼的事上屈枉正直。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可在窮人爭訟的事上屈枉正直。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Keep far from a false charge, and don’t kill the innocent and righteous; for I will not justify the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当远离虚假的事。不可杀无辜和有义的人，因我必不以恶人为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當遠離虛假的事。不可殺無辜和有義的人，因我必不以惡人為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可受贿赂；因为贿赂能叫明眼人变瞎了，又能颠倒义人的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可受賄賂；因為賄賂能叫明眼人變瞎了，又能顛倒義人的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“You shall not oppress an alien, for you know the heart of an alien, since you were aliens in the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可欺压寄居的；因为你们在埃及地作过寄居的，知道寄居的心。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可欺壓寄居的；因為你們在埃及地作過寄居的，知道寄居的心。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“For six years you shall sow your land, and shall gather in its increase,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「六年你要耕种田地，收藏土产，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「六年你要耕種田地，收藏土產，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是第七年要叫地歇息，不耕不种，使你民中的穷人有吃的；他们所剩下的，野兽可以吃。你的葡萄园和橄榄园也要照样办理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是第七年要叫地歇息，不耕不種，使你民中的窮人有吃的；他們所剩下的，野獸可以吃。你的葡萄園和橄欖園也要照樣辦理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“Six days you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may have rest, and the son of your servant, and the alien may be refreshed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「六日你要做工，第七日要安息，使牛、驴可以歇息，并使你婢女的儿子和寄居的都可以舒畅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「六日你要做工，第七日要安息，使牛、驢可以歇息，並使你婢女的兒子和寄居的都可以舒暢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Be careful to do all things that I have said to you; and don’t invoke the name of other gods or even let them be heard out of your mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡我对你们说的话，你们要谨守。别神的名，你不可提，也不可从你口中传说。」 （出34·18—26；申16·1—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡我對你們說的話，你們要謹守。別神的名，你不可提，也不可從你口中傳說。」 （出34‧18－26；申16‧1－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“You shall observe a feast to me three times a year.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「一年三次，你要向我守节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「一年三次，你要向我守節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You shall observe the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib (for in it you came out of Egypt), and no one shall appear before me empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要守除酵节，照我所吩咐你的，在亚笔月内所定的日期，吃无酵饼七天。谁也不可空手朝见我，因为你是这月出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要守除酵節，照我所吩咐你的，在亞筆月內所定的日期，吃無酵餅七天。誰也不可空手朝見我，因為你是這月出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "And the feast of harvest, the first fruits of your labors, which you sow in the field; and the feast of ingathering, at the end of the year, when you gather in your labors out of the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要守收割节，所收的是你田间所种、劳碌得来初熟之物。并在年底收藏，要守收藏节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要守收割節，所收的是你田間所種、勞碌得來初熟之物。並在年底收藏，要守收藏節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Three times in the year all your males shall appear before the Lord GOD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一切的男丁要一年三次朝见主耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一切的男丁要一年三次朝見主耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“You shall not offer the blood of my sacrifice with leavened bread. The fat of my feast shall not remain all night until the morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可将我祭牲的血和有酵的饼一同献上；也不可将我节上祭牲的脂油留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可將我祭牲的血和有酵的餅一同獻上；也不可將我節上祭牲的脂油留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You shall bring the first of the first fruits of your ground into the house of the LORD your God. You shall not boil a young goat in its mother’s milk.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「地里首先初熟之物要送到耶和华—你 神的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「地裏首先初熟之物要送到耶和華－你上帝的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Behold, I send an angel before you, to keep you by the way, and to bring you into the place which I have prepared.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「看哪，我差遣使者在你前面，在路上保护你，领你到我所预备的地方去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「看哪，我差遣使者在你前面，在路上保護你，領你到我所預備的地方去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Pay attention to him, and listen to his voice. Don’t provoke him, for he will not pardon your disobedience, for my name is in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是奉我名来的；你们要在他面前谨慎，听从他的话，不可惹他，因为他必不赦免你们的过犯。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:21 或译：违背"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是奉我名來的；你們要在他面前謹慎，聽從他的話，不可惹 他，因為他必不赦免你們的過犯。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:21 或譯：違背"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But if you indeed listen to his voice, and do all that I speak, then I will be an enemy to your enemies, and an adversary to your adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你若实在听从他的话，照着我一切所说的去行，我就向你的仇敌作仇敌，向你的敌人作敌人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你若實在聽從他的話，照着我一切所說的去行，我就向你的仇敵作仇敵，向你的敵人作敵人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For my angel shall go before you, and bring you in to the Amorite, the Hittite, the Perizzite, the Canaanite, the Hivite, and the Jebusite; and I will cut them off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我的使者要在你前面行，领你到亚摩利人、赫人、比利洗人、迦南人、希未人、耶布斯人那里去，我必将他们剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我的使者要在你前面行，領你到亞摩利人、赫人、比利洗人、迦南人、希未人、耶布斯人那裏去，我必將他們剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You shall not bow down to their gods, nor serve them, nor follow their practices, but you shall utterly overthrow them and demolish their pillars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可跪拜他们的神，不可事奉他，也不可效法他们的行为，却要把神像尽行拆毁，打碎他们的柱像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可跪拜他們的神，不可事奉他，也不可效法他們的行為，卻要把神像盡行拆毀，打碎他們的柱像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You shall serve the LORD your God, and he will bless your bread and your water, and I will take sickness away from among you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要事奉耶和华—你们的 神，他必赐福与你的粮与你的水，也必从你们中间除去疾病。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要事奉耶和華－你們的上帝，他必賜福與你的糧與你的水，也必從你們中間除去疾病。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "No one will miscarry or be barren in your land. I will fulfill the number of your days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你境内必没有坠胎的，不生产的。我要使你满了你年日的数目。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你境內必沒有墜胎的，不生產的。我要使你滿了你年日的數目。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "I will send my terror before you, and will confuse all the people to whom you come, and I will make all your enemies turn their backs to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡你所到的地方，我要使那里的众民在你面前惊骇，扰乱，又要使你一切仇敌转背逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡你所到的地方，我要使那裏的眾民在你面前驚駭，擾亂，又要使你一切仇敵轉背逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "I will send the hornet before you, which will drive out the Hivite, the Canaanite, and the Hittite, from before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要打发黄蜂飞在你前面，把希未人、迦南人、赫人撵出去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要打發黃蜂飛在你前面，把希未人、迦南人、赫人攆出去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "I will not drive them out from before you in one year, lest the land become desolate, and the animals of the field multiply against you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不在一年之内将他们从你面前撵出去，恐怕地成为荒凉，野地的兽多起来害你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不在一年之內將他們從你面前攆出去，恐怕地成為荒涼，野地的獸多起來害你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Little by little I will drive them out from before you, until you have increased and inherit the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要渐渐地将他们从你面前撵出去，等到你的人数加多，承受那地为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要漸漸地將他們從你面前攆出去，等到你的人數加多，承受那地為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "I will set your border from the Red Sea even to the sea of the Philistines, and from the wilderness to the River; for I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要定你的境界，从红海直到非利士海，又从旷野直到大河。我要将那地的居民交在你手中，你要将他们从你面前撵出去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要定你的境界，從紅海直到非利士海，又從曠野直到大河。我要將那地的居民交在你手中，你要將他們從你面前攆出去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "You shall make no covenant with them, nor with their gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可和他们并他们的神立约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可和他們並他們的神立約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不可住在你的地上，恐怕他们使你得罪我。你若事奉他们的神，这必成为你的网罗。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不可住在你的地上，恐怕他們使你得罪我。你若事奉他們的神，這必成為你的網羅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

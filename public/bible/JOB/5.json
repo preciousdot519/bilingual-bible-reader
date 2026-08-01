@@ -1,0 +1,500 @@
+{
+  "bookId": "JOB",
+  "chapter": 5,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Call now; is there any who will answer you? To which of the holy ones will you turn?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你且呼求，有谁答应你？ 诸圣者之中，你转向哪一位呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你且呼求，有誰答應你？ 諸聖者之中，你轉向哪一位呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For resentment kills the foolish man, and jealousy kills the simple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忿怒害死愚妄人； 嫉妒杀死痴迷人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "忿怒害死愚妄人； 嫉妒殺死癡迷人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I have seen the foolish taking root, but suddenly I cursed his habitation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾见愚妄人扎下根， 但我忽然咒诅他的住处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾見愚妄人扎下根， 但我忽然咒詛他的住處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "His children are far from safety. They are crushed in the gate. Neither is there any to deliver them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的儿女远离稳妥的地步， 在城门口被压，并无人搭救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的兒女遠離穩妥的地步， 在城門口被壓，並無人搭救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "whose harvest the hungry eat up, and take it even out of the thorns. The snare gapes for their substance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的庄稼有饥饿的人吃尽了， 就是在荆棘里的也抢去了； 他的财宝有网罗张口吞灭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的莊稼有飢餓的人吃盡了， 就是在荊棘裏的也搶去了； 他的財寶有網羅張口吞滅了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For affliction doesn’t come out of the dust, neither does trouble spring out of the ground;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祸患原不是从土中出来； 患难也不是从地里发生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禍患原不是從土中出來； 患難也不是從地裏發生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but man is born to trouble, as the sparks fly upward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人生在世必遇患难， 如同火星飞腾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人生在世必遇患難， 如同火星飛騰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“But as for me, I would seek God. I would commit my cause to God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于我，我必仰望 神， 把我的事情托付他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於我，我必仰望上帝， 把我的事情託付他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "who does great things that can’t be fathomed, marvelous things without number;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他行大事不可测度， 行奇事不可胜数：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他行大事不可測度， 行奇事不可勝數：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "who gives rain on the earth, and sends waters on the fields;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "降雨在地上， 赐水于田里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "降雨在地上， 賜水於田裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "so that he sets up on high those who are low, those who mourn are exalted to safety.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将卑微的安置在高处， 将哀痛的举到稳妥之地；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將卑微的安置在高處， 將哀痛的舉到穩妥之地；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He frustrates the plans of the crafty, so that their hands can’t perform their enterprise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "破坏狡猾人的计谋， 使他们所谋的不得成就。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "破壞狡猾人的計謀， 使他們所謀的不得成就。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He takes the wise in their own craftiness; the counsel of the cunning is carried headlong.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他叫有智慧的中了自己的诡计， 使狡诈人的计谋速速灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他叫有智慧的中了自己的詭計， 使狡詐人的計謀速速滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They meet with darkness in the day time, and grope at noonday as in the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们白昼遇见黑暗， 午间摸索如在夜间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們白晝遇見黑暗， 午間摸索如在夜間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But he saves from the sword of their mouth, even the needy from the hand of the mighty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神拯救穷乏人 脱离他们口中的刀和强暴人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝拯救窮乏人 脫離他們口中的刀和強暴人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So the poor has hope, and injustice shuts her mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，贫寒的人有指望， 罪孽之辈必塞口无言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，貧寒的人有指望， 罪孽之輩必塞口無言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Behold, happy is the man whom God corrects. Therefore do not despise the chastening of the Almighty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神所惩治的人是有福的！ 所以你不可轻看全能者的管教。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝所懲治的人是有福的！ 所以你不可輕看全能者的管教。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For he wounds and binds up. He injures and his hands make whole.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他打破，又缠裹； 他击伤，用手医治。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他打破，又纏裹； 他擊傷，用手醫治。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He will deliver you in six troubles; yes, in seven no evil will touch you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你六次遭难，他必救你； 就是七次，灾祸也无法害你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你六次遭難，他必救你； 就是七次，災禍也無法害你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "In famine he will redeem you from death; in war, from the power of the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在饥荒中，他必救你脱离死亡； 在争战中，他必救你脱离刀剑的权力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在饑荒中，他必救你脫離死亡； 在爭戰中，他必救你脫離刀劍的權力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You will be hidden from the scourge of the tongue, neither will you be afraid of destruction when it comes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必被隐藏，不受口舌之害； 灾殃临到，你也不惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必被隱藏，不受口舌之害； 災殃臨到，你也不懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You will laugh at destruction and famine, neither will you be afraid of the animals of the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你遇见灾害饥馑，就必嬉笑； 地上的野兽，你也不惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你遇見災害饑饉，就必嬉笑； 地上的野獸，你也不懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For you will be allied with the stones of the field. The animals of the field will be at peace with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你必与田间的石头立约； 田里的野兽也必与你和好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你必與田間的石頭立約； 田裏的野獸也必與你和好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You will know that your tent is in peace. You will visit your fold, and will miss nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必知道你帐棚平安， 要查看你的羊圈，一无所失；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必知道你帳棚平安， 要查看你的羊圈，一無所失；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You will know also that your offspring will be great, your offspring as the grass of the earth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:25 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也必知道你的后裔将来发达， 你的子孙像地上的青草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也必知道你的後裔將來發達， 你的子孫像地上的青草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "You will come to your grave in a full age, like a shock of grain comes in its season.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必寿高年迈才归坟墓， 好像禾捆到时收藏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必壽高年邁才歸墳墓， 好像禾捆到時收藏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Behold, we have researched it. It is so. Hear it, and know it for your good.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这理，我们已经考察，本是如此。 你须要听，要知道是与自己有益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這理，我們已經考察，本是如此。 你須要聽，要知道是與自己有益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

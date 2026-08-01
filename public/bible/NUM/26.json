@@ -1,0 +1,1179 @@
+{
+  "bookId": "NUM",
+  "chapter": 26,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After the plague, the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "瘟疫之后，耶和华晓谕摩西和祭司亚伦的儿子以利亚撒说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瘟疫之後，耶和華曉諭摩西和祭司亞倫的兒子以利亞撒說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Take a census of all the congregation of the children of Israel, from twenty years old and upward, by their fathers’ houses, all who are able to go out to war in Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要将以色列全会众，按他们的宗族，凡以色列中从二十岁以外、能出去打仗的，计算总数。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要將以色列全會眾，按他們的宗族，凡以色列中從二十歲以外、能出去打仗的，計算總數。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西和祭司以利亚撒在摩押平原与耶利哥相对的约旦河边向以色列人说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西和祭司以利亞撒在摩押平原與耶利哥相對的約旦河邊向以色列人說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“Take a census, from twenty years old and upward, as the LORD commanded Moses and the children of Israel.” These are those who came out of the land of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「将你们中间从二十岁以外的计算总数」；是照耶和华吩咐出埃及地的摩西和以色列人的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「將你們中間從二十歲以外的計算總數」；是照耶和華吩咐出埃及地的摩西和以色列人的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的长子是吕便。吕便的众子：属哈诺的，有哈诺族；属法路的，有法路族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的長子是呂便。呂便的眾子：屬哈諾的，有哈諾族；屬法路的，有法路族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属希斯伦的，有希斯伦族；属迦米的，有迦米族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬希斯倫的，有希斯倫族；屬迦米的，有迦米族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "These are the families of the Reubenites; and those who were counted of them were forty-three thousand seven hundred thirty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是吕便的各族；其中被数的，共有四万三千七百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是呂便的各族；其中被數的，共有四萬三千七百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The son of Pallu: Eliab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法路的儿子是以利押。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法路的兒子是以利押。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram who were called by the congregation, who rebelled against Moses and against Aaron in the company of Korah when they rebelled against the LORD;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利押的众子是尼母利、大坍、亚比兰。这大坍、亚比兰，就是从会中选召的，与可拉一党同向耶和华争闹的时候也向摩西、亚伦争闹；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利押的眾子是尼母利、大坍、亞比蘭。這大坍、亞比蘭，就是從會中選召的，與可拉一黨同向耶和華爭鬧的時候也向摩西、亞倫爭鬧；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and the earth opened its mouth, and swallowed them up together with Korah when that company died; at the time the fire devoured two hundred fifty men, and they became a sign.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地便开口吞了他们，和可拉、可拉的党类一同死亡。那时火烧灭了二百五十个人；他们就作了警戒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地便開口吞了他們，和可拉、可拉的黨類一同死亡。那時火燒滅了二百五十個人；他們就作了警戒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Notwithstanding, the sons of Korah didn’t die.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而可拉的众子没有死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而可拉的眾子沒有死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，西缅的众子：属尼母利的，有尼母利族；属雅悯的，有雅悯族；属雅斤的，有雅斤族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，西緬的眾子：屬尼母利的，有尼母利族；屬雅憫的，有雅憫族；屬雅斤的，有雅斤族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "of Zerah, the family of the Zerahites; of Shaul, the family of the Shaulites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属谢拉的，有谢拉族；属扫罗的，有扫罗族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬謝拉的，有謝拉族；屬掃羅的，有掃羅族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "These are the families of the Simeonites, twenty-two thousand two hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是西缅的各族，共有二万二千二百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是西緬的各族，共有二萬二千二百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The sons of Gad after their families: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni, the family of the Shunites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，迦得的众子：属洗分的，有洗分族；属哈基的，有哈基族；属书尼的，有书尼族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，迦得的眾子：屬洗分的，有洗分族；屬哈基的，有哈基族；屬書尼的，有書尼族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "of Ozni, the family of the Oznites; of Eri, the family of the Erites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属阿斯尼的，有阿斯尼族；属以利的，有以利族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬阿斯尼的，有阿斯尼族；屬以利的，有以利族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "of Arod, the family of the Arodites; of Areli, the family of the Arelites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属亚律的，有亚律族；属亚列利的，有亚列利族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬亞律的，有亞律族；屬亞列利的，有亞列利族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "These are the families of the sons of Gad according to those who were counted of them, forty thousand and five hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是迦得子孙的各族，照他们中间被数的，共有四万零五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是迦得子孫的各族，照他們中間被數的，共有四萬零五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The sons of Judah: Er and Onan. Er and Onan died in the land of Canaan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大的儿子是珥和俄南。这珥和俄南死在迦南地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大的兒子是珥和俄南。這珥和俄南死在迦南地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The sons of Judah after their families were: of Shelah, the family of the Shelanites; of Perez, the family of the Perezites; of Zerah, the family of the Zerahites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，犹大其余的众子：属示拉的，有示拉族；属法勒斯的，有法勒斯族；属谢拉的有谢拉族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，猶大其餘的眾子：屬示拉的，有示拉族；屬法勒斯的，有法勒斯族；屬謝拉的，有謝拉族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法勒斯的儿子：属希斯 的，有希斯 族；属哈母勒的，有哈母勒族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法勒斯的兒子：屬希斯崙的，有希斯崙族；屬哈母勒的，有哈母勒族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "These are the families of Judah according to those who were counted of them, seventy-six thousand five hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是犹大的各族，照他们中间被数的，共有七万六千五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是猶大的各族，照他們中間被數的，共有七萬六千五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The sons of Issachar after their families: of Tola, the family of the Tolaites; of Puvah, the family of the Punites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，以萨迦的众子：属陀拉的，有陀拉族；属普瓦的，有普瓦族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，以薩迦的眾子：屬陀拉的，有陀拉族；屬普瓦的，有普瓦族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属雅述的，有雅述族；属伸 的，有伸 族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬雅述的，有雅述族；屬伸崙的，有伸崙族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "These are the families of Issachar according to those who were counted of them, sixty-four thousand three hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是以萨迦的各族，照他们中间被数的，共有六万四千三百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是以薩迦的各族，照他們中間被數的，共有六萬四千三百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The sons of Zebulun after their families: of Sered, the family of the Seredites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，西布伦的众子：属西烈的，有西烈族；属以伦的，有以伦族；属雅利的，有雅利族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，西布倫的眾子：屬西烈的，有西烈族；屬以倫的，有以倫族；屬雅利的，有雅利族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "These are the families of the Zebulunites according to those who were counted of them, sixty thousand five hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是西布伦的各族，照他们中间被数的，共有六万零五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是西布倫的各族，照他們中間被數的，共有六萬零五百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The sons of Joseph after their families: Manasseh and Ephraim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，约瑟的儿子有玛拿西、以法莲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，約瑟的兒子有瑪拿西、以法蓮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The sons of Manasseh: of Machir, the family of the Machirites; and Machir became the father of Gilead; of Gilead, the family of the Gileadites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛拿西的众子：属玛吉的，有玛吉族；玛吉生基列；属基列的，有基列族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪拿西的眾子：屬瑪吉的，有瑪吉族；瑪吉生基列；屬基列的，有基列族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "These are the sons of Gilead: of Iezer, the family of the Iezerites; of Helek, the family of the Helekites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基列的众子：属伊以谢的，有伊以谢族；属希勒的，有希勒族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基列的眾子：屬伊以謝的，有伊以謝族；屬希勒的，有希勒族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "and Asriel, the family of the Asrielites; and Shechem, the family of the Shechemites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属亚斯烈的，有亚斯烈族；属示剑的，有示剑族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬亞斯烈的，有亞斯烈族；屬示劍的，有示劍族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "and Shemida, the family of the Shemidaites; and Hepher, the family of the Hepherites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属示米大的，有示米大族；属希弗的，有希弗族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬示米大的，有示米大族；屬希弗的，有希弗族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希弗的儿子：西罗非哈没儿子，只有女儿。西罗非哈女儿的名字就是玛拉、挪阿、曷拉、密迦、得撒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希弗的兒子：西羅非哈沒兒子，只有女兒。西羅非哈女兒的名字就是瑪拉、挪阿、曷拉、密迦、得撒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "These are the families of Manasseh. Those who were counted of them were fifty-two thousand seven hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是玛拿西的各族；他们中间被数的，共有五万二千七百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是瑪拿西的各族；他們中間被數的，共有五萬二千七百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthelahites; of Becher, the family of the Becherites; of Tahan, the family of the Tahanites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，以法莲的众子：属书提拉的，有书提拉族；属比结的，有比结族；属他罕的，有他罕族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，以法蓮的眾子：屬書提拉的，有書提拉族；屬比結的，有比結族；屬他罕的，有他罕族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "These are the sons of Shuthelah: of Eran, the family of the Eranites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "书提拉的众子：属以兰的，有以兰族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "書提拉的眾子：屬以蘭的，有以蘭族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "These are the families of the sons of Ephraim according to those who were counted of them, thirty-two thousand five hundred. These are the sons of Joseph after their families.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是以法莲子孙的各族，照他们中间被数的，共有三万二千五百名。按着家族，这都是约瑟的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是以法蓮子孫的各族，照他們中間被數的，共有三萬二千五百名。按着家族，這都是約瑟的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "The sons of Benjamin after their families: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，便雅悯的众子：属比拉的，有比拉族；属亚实别的，有亚实别族；属亚希兰的，有亚希兰族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，便雅憫的眾子：屬比拉的，有比拉族；屬亞實別的，有亞實別族；屬亞希蘭的，有亞希蘭族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "of Shephupham, the family of the Shuphamites; of Hupham, the family of the Huphamites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属书反的，有书反族；属户反的，有户反族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬書反的，有書反族；屬戶反的，有戶反族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "The sons of Bela were Ard and Naaman: the family of the Ardites; and of Naaman, the family of the Naamites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比拉的众子是亚勒、乃幔。属 亚勒 的，有亚勒族；属乃幔的，有乃幔族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比拉的眾子是亞勒、乃幔。屬 亞勒 的，有亞勒族；屬乃幔的，有乃幔族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "These are the sons of Benjamin after their families; and those who were counted of them were forty-five thousand six hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，这就是便雅悯的子孙，其中被数的，共有四万五千六百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，這就是便雅憫的子孫，其中被數的，共有四萬五千六百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，但的众子：属书含的，有书含族。按着家族，这就是但的各族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，但的眾子：屬書含的，有書含族。按着家族，這就是但的各族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "All the families of the Shuhamites, according to those who were counted of them, were sixty-four thousand four hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照其中被数的，书含所有的各族，共有六万四千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照其中被數的，書含所有的各族，共有六萬四千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The sons of Asher after their families: of Imnah, the family of the Imnites; of Ishvi, the family of the Ishvites; of Beriah, the family of the Berites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，亚设的众子：属音拿的，有音拿族；属亦施韦的，有亦施韦族；属比利亚的，有比利亚族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，亞設的眾子：屬音拿的，有音拿族；屬亦施韋的，有亦施韋族；屬比利亞的，有比利亞族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比利亚的众子：属希别的，有希别族；属玛结的，有玛结族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比利亞的眾子：屬希別的，有希別族；屬瑪結的，有瑪結族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "The name of the daughter of Asher was Serah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚设的女儿名叫西拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞設的女兒名叫西拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "These are the families of the sons of Asher according to those who were counted of them, fifty-three thousand four hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是亚设子孙的各族，照他们中间被数的，共有五万三千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是亞設子孫的各族，照他們中間被數的，共有五萬三千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，拿弗他利的众子：属雅薛的，有雅薛族；属沽尼的，有沽尼族；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，拿弗他利的眾子：屬雅薛的，有雅薛族；屬沽尼的，有沽尼族；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属耶色的，有耶色族；属示冷的，有示冷族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬耶色的，有耶色族；屬示冷的，有示冷族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "These are the families of Naphtali according to their families; and those who were counted of them were forty-five thousand four hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着家族，这就是拿弗他利的各族；他们中间被数的，共有四万五千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着家族，這就是拿弗他利的各族；他們中間被數的，共有四萬五千四百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "These are those who were counted of the children of Israel, six hundred one thousand seven hundred thirty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人中被数的，共有六十万零一千七百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人中被數的，共有六十萬零一千七百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "“To these the land shall be divided for an inheritance according to the number of names.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要按着人名的数目将地分给这些人为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要按着人名的數目將地分給這些人為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "To the more you shall give the more inheritance, and to the fewer you shall give the less inheritance. To everyone according to those who were counted of him shall his inheritance be given.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人多的，你要把产业多分给他们；人少的，你要把产业少分给他们；要照被数的人数，把产业分给各人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人多的，你要把產業多分給他們；人少的，你要把產業少分給他們；要照被數的人數，把產業分給各人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "Notwithstanding, the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽是这样，还要拈阄分地。他们要按着祖宗各支派的名字承受为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖是這樣，還要拈鬮分地。他們要按着祖宗各支派的名字承受為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "According to the lot shall their inheritance be divided between the more and the fewer.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要按着所拈的阄，看人数多，人数少，把产业分给他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要按着所拈的鬮，看人數多，人數少，把產業分給他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "These are those who were counted of the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人，按着他们的各族被数的：属革顺的，有革顺族；属哥辖的，有哥辖族；属米拉利的，有米拉利族。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人，按着他們的各族被數的：屬革順的，有革順族；屬哥轄的，有哥轄族；屬米拉利的，有米拉利族。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "These are the families of Levi: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, and the family of the Korahites. Kohath became the father of Amram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未的各族有立尼族、希伯伦族、玛利族、母示族、可拉族。哥辖生暗兰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未的各族有立尼族、希伯倫族、瑪利族、母示族、可拉族。哥轄生暗蘭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "The name of Amram’s wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt. She bore to Amram Aaron and Moses, and Miriam their sister.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暗兰的妻名叫约基别，是利未女子，生在埃及。她给暗兰生了亚伦、摩西，并他们的姊姊米利暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暗蘭的妻名叫約基別，是利未女子，生在埃及。她給暗蘭生了亞倫、摩西，並他們的姊姊米利暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "60",
+      "en": {
+        "text": "To Aaron were born Nadab and Abihu, Eleazar and Ithamar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦生拿答、亚比户、以利亚撒、以他玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫生拿答、亞比戶、以利亞撒、以他瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "61",
+      "en": {
+        "text": "Nadab and Abihu died when they offered strange fire before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿答、亚比户在耶和华面前献凡火的时候就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿答、亞比戶在耶和華面前獻凡火的時候就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "62",
+      "en": {
+        "text": "Those who were counted of them were twenty-three thousand, every male from a month old and upward; for they were not counted among the children of Israel, because there was no inheritance given them among the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人中，凡一个月以外、被数的男丁，共有二万三千。他们本来没有数在以色列人中；因为在以色列人中，没有分给他们产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人中，凡一個月以外、被數的男丁，共有二萬三千。他們本來沒有數在以色列人中；因為在以色列人中，沒有分給他們產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "63",
+      "en": {
+        "text": "These are those who were counted by Moses and Eleazar the priest, who counted the children of Israel in the plains of Moab by the Jordan at Jericho.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些就是被摩西和祭司以利亚撒所数的；他们在摩押平原与耶利哥相对的约旦河边数点以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些就是被摩西和祭司以利亞撒所數的；他們在摩押平原與耶利哥相對的約旦河邊數點以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "64",
+      "en": {
+        "text": "But among these there was not a man of them who were counted by Moses and Aaron the priest, who counted the children of Israel in the wilderness of Sinai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但被数的人中，没有一个是摩西和祭司亚伦从前在西奈的旷野所数的以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但被數的人中，沒有一個是摩西和祭司亞倫從前在西奈的曠野所數的以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "65",
+      "en": {
+        "text": "For the LORD had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华论到他们说：「他们必要死在旷野。」所以，除了耶孚尼的儿子迦勒和嫩的儿子约书亚以外，连一个人也没有存留。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華論到他們說：「他們必要死在曠野。」所以，除了耶孚尼的兒子迦勒和嫩的兒子約書亞以外，連一個人也沒有存留。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

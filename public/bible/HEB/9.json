@@ -1,0 +1,574 @@
+{
+  "bookId": "HEB",
+  "chapter": 9,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now indeed even the first covenant had ordinances of divine service and an earthly sanctuary.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:1 TR adds “tabernacle”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来前约有礼拜的条例和属世界的圣幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來前約有禮拜的條例和屬世界的聖幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread, which is called the Holy Place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有预备的帐幕，头一层叫作圣所，里面有灯台、桌子，和陈设饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有預備的帳幕，頭一層叫作聖所，裏面有燈臺、桌子，和陳設餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "After the second veil was the tabernacle which is called the Holy of Holies,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二幔子后又有一层帐幕，叫作至圣所，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二幔子後又有一層帳幕，叫作至聖所，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "having a golden altar of incense and the ark of the covenant overlaid on all sides with gold, in which was a golden pot holding the manna, Aaron’s rod that budded, and the tablets of the covenant;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有金香炉，有包金的约柜，柜里有盛吗哪的金罐和亚伦发过芽的杖，并两块约版；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:4 炉：或译坛"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有金香爐，有包金的約櫃，櫃裏有盛嗎哪的金罐和亞倫發過芽的杖，並兩塊約版；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:4 爐：或譯壇"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and above it cherubim of glory overshadowing the mercy seat, of which things we can’t speak now in detail.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "柜上面有荣耀基路伯的影罩着施恩座。这几件我现在不能一一细说。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:5 施恩：原文是蔽罪"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "櫃上面有榮耀基路伯的影罩着施恩座。這幾件我現在不能一一細說。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:5 施恩：原文是蔽罪"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Now these things having been thus prepared, the priests go in continually into the first tabernacle, accomplishing the services,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些物件既如此预备齐了，众祭司就常进头一层帐幕，行拜 神的礼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些物件既如此預備齊了，眾祭司就常進頭一層帳幕，行拜上帝的禮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but into the second the high priest alone, once in the year, not without blood, which he offers for himself and for the errors of the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于第二层帐幕，惟有大祭司一年一次独自进去，没有不带着血为自己和百姓的过错献上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於第二層帳幕，惟有大祭司一年一次獨自進去，沒有不帶着血為自己和百姓的過錯獻上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The Holy Spirit is indicating this, that the way into the Holy Place wasn’t yet revealed while the first tabernacle was still standing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵用此指明，头一层帐幕仍存的时候，进入至圣所的路还未显明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈用此指明，頭一層帳幕仍存的時候，進入至聖所的路還未顯明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "This is a symbol of the present age, where gifts and sacrifices are offered that are incapable, concerning the conscience, of making the worshiper perfect,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那头一层帐幕作现今的一个表样，所献的礼物和祭物，就着良心说，都不能叫礼拜的人得以完全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那頭一層帳幕作現今的一個表樣，所獻的禮物和祭物，就着良心說，都不能叫禮拜的人得以完全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "being only (with foods and drinks and various washings) fleshly ordinances, imposed until a time of reformation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事，连那饮食和诸般洗濯的规矩，都不过是属肉体的条例，命定到振兴的时候为止。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事，連那飲食和諸般洗濯的規矩，都不過是屬肉體的條例，命定到振興的時候為止。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But Christ having come as a high priest of the coming good things, through the greater and more perfect tabernacle, not made with hands, that is to say, not of this creation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但现在基督已经来到，作了将来美事的大祭司，经过那更大更全备的帐幕，不是人手所造，也不是属乎这世界的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但現在基督已經來到，作了將來美事的大祭司，經過那更大更全備的帳幕，不是人手所造，也不是屬乎這世界的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "nor yet through the blood of goats and calves, but through his own blood, entered in once for all into the Holy Place, having obtained eternal redemption.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且不用山羊和牛犊的血，乃用自己的血，只一次进入圣所，成了永远赎罪的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且不用山羊和牛犢的血，乃用自己的血，只一次進入聖所，成了永遠贖罪的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For if the blood of goats and bulls, and the ashes of a heifer sprinkling those who have been defiled, sanctify to the cleanness of the flesh,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若山羊和公牛的血，并母牛犊的灰，洒在不洁的人身上，尚且叫人成圣，身体洁净，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若山羊和公牛的血，並母牛犢的灰，灑在不潔的人身上，尚且叫人成聖，身體潔淨，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "how much more will the blood of Christ, who through the eternal Spirit offered himself without defect to God, cleanse your conscience from dead works to serve the living God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何况基督借着永远的灵，将自己无瑕无疵献给 神，他的血岂不更能洗净你们的心，除去你们的死行，使你们事奉那永生 神吗？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:14 原文是良心"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何況基督藉着永遠的靈，將自己無瑕無疵獻給上帝，他的血豈不更能洗淨你們的心，除去你們的死行，使你們事奉那永生上帝嗎？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:14 原文是良心"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For this reason he is the mediator of a new covenant, since a death has occurred for the redemption of the transgressions that were under the first covenant, that those who have been called may receive the promise of the eternal inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为此，他作了新约的中保，既然受死赎了人在前约之时所犯的罪过，便叫蒙召之人得着所应许永远的产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為此，他作了新約的中保，既然受死贖了人在前約之時所犯的罪過，便叫蒙召之人得着所應許永遠的產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For where a last will and testament is, there must of necessity be the death of him who made it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有遗命必须等到留遗命的人死了；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:16 遗命：原文与约字同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有遺命必須等到留遺命的人死了；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:16 遺命：原文與約字同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For a will is in force where there has been death, for it is never in force while he who made it lives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人死了，遗命才有效力，若留遗命的尚在，那遗命还有用处吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人死了，遺命才有效力，若留遺命的尚在，那遺命還有用處嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Therefore even the first covenant has not been dedicated without blood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，前约也不是不用血立的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，前約也不是不用血立的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For when every commandment had been spoken by Moses to all the people according to the law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为摩西当日照着律法将各样诫命传给众百姓，就拿朱红色绒和牛膝草，把牛犊山羊的血和水洒在书上，又洒在众百姓身上，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為摩西當日照着律法將各樣誡命傳給眾百姓，就拿朱紅色絨和牛膝草，把牛犢山羊的血和水灑在書上，又灑在眾百姓身上，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "saying, “This is the blood of the covenant which God has commanded you.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:20 Exodus 24:8",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「这血就是 神与你们立约的凭据。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這血就是上帝與你們立約的憑據。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He sprinkled the tabernacle and all the vessels of the ministry in the same way with the blood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又照样把血洒在帐幕和各样器皿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又照樣把血灑在帳幕和各樣器皿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "According to the law, nearly everything is cleansed with blood, and apart from shedding of blood there is no remission.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着律法，凡物差不多都是用血洁净的；若不流血，罪就不得赦免了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着律法，凡物差不多都是用血潔淨的；若不流血，罪就不得赦免了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "It was necessary therefore that the copies of the things in the heavens should be cleansed with these, but the heavenly things themselves with better sacrifices than these.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照着天上样式做的物件必须用这些祭物去洁净；但那天上的本物自然当用更美的祭物去洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照着天上樣式做的物件必須用這些祭物去潔淨；但那天上的本物自然當用更美的祭物去潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For Christ hasn’t entered into holy places made with hands, which are representations of the true, but into heaven itself, now to appear in the presence of God for us;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为基督并不是进了人手所造的圣所（这不过是真圣所的影相），乃是进了天堂，如今为我们显在 神面前；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為基督並不是進了人手所造的聖所（這不過是真聖所的影像），乃是進了天堂，如今為我們顯在上帝面前；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "nor yet that he should offer himself often, as the high priest enters into the holy place year by year with blood not his own,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不是多次将自己献上，像那大祭司每年带着牛羊的血进入圣所，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:25 牛羊的血：原文作不是自己的血"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不是多次將自己獻上，像那大祭司每年帶着牛羊的血進入聖所，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:25 牛羊的血：原文作不是自己的血"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "or else he must have suffered often since the foundation of the world. But now once at the end of the ages, he has been revealed to put away sin by the sacrifice of himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如果这样，他从创世以来，就必多次受苦了。但如今在这末世显现一次，把自己献为祭，好除掉罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如果這樣，他從創世以來，就必多次受苦了。但如今在這末世顯現一次，把自己獻為祭，好除掉罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Inasmuch as it is appointed for men to die once, and after this, judgment,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着定命，人人都有一死，死后且有审判。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着定命，人人都有一死，死後且有審判。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "so Christ also, having been offered once to bear the sins of many, will appear a second time, not to deal with sin, but to save those who are eagerly waiting for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "像这样，基督既然一次被献，担当了多人的罪，将来要向那等候他的人第二次显现，并与罪无关，乃是为拯救他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "像這樣，基督既然一次被獻，擔當了多人的罪，將來要向那等候他的人第二次顯現，並與罪無關，乃是為拯救他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

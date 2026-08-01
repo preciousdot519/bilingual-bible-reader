@@ -1,0 +1,719 @@
+{
+  "bookId": "LEV",
+  "chapter": 19,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to all the congregation of the children of Israel, and tell them, ‘You shall be holy; for I, the LORD your God, am holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你晓谕以色列全会众说：你们要圣洁，因为我耶和华—你们的 神是圣洁的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曉諭以色列全會眾說：你們要聖潔，因為我耶和華－你們的上帝是聖潔的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“‘Each one of you shall respect his mother and his father. You shall keep my Sabbaths. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们各人都当孝敬父母，也要守我的安息日。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們各人都當孝敬父母，也要守我的安息日。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“‘Don’t turn to idols, nor make molten gods for yourselves. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不可偏向虚无的神，也不可为自己铸造神像。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不可偏向虛無的神，也不可為自己鑄造神像。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“‘When you offer a sacrifice of peace offerings to the LORD, you shall offer it so that you may be accepted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们献平安祭给耶和华的时候，要献得可蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們獻平安祭給耶和華的時候，要獻得可蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "It shall be eaten the same day you offer it, and on the next day. If anything remains until the third day, it shall be burned with fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这祭物要在献的那一天和第二天吃，若有剩到第三天的，就必用火焚烧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這祭物要在獻的那一天和第二天吃，若有剩到第三天的，就必用火焚燒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "If it is eaten at all on the third day, it is an abomination. It will not be accepted;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第三天若再吃，这就为可憎恶的，必不蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第三天若再吃，這就為可憎惡的，必不蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "but everyone who eats it shall bear his iniquity, because he has profaned the holy thing of the LORD, and that soul shall be cut off from his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡吃的人必担当他的罪孽；因为他亵渎了耶和华的圣物，那人必从民中剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡吃的人必擔當他的罪孽；因為他褻瀆了耶和華的聖物，那人必從民中剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘When you reap the harvest of your land, you shall not wholly reap the corners of your field, neither shall you gather the gleanings of your harvest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在你们的地收割庄稼，不可割尽田角，也不可拾取所遗落的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在你們的地收割莊稼，不可割盡田角，也不可拾取所遺落的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall not glean your vineyard, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the foreigner. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可摘尽葡萄园的果子，也不可拾取葡萄园所掉的果子；要留给穷人和寄居的。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可摘盡葡萄園的果子，也不可拾取葡萄園所掉的果子；要留給窮人和寄居的。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“‘You shall not steal. You shall not lie. You shall not deceive one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不可偷盗，不可欺骗，也不可彼此说谎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不可偷盜，不可欺騙，也不可彼此說謊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“‘You shall not swear by my name falsely, and profane the name of your God. I am the LORD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:12 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可指着我的名起假誓，亵渎你 神的名。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可指着我的名起假誓，褻瀆你上帝的名。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘You shall not oppress your neighbor, nor rob him. The wages of a hired servant shall not remain with you all night until the morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可欺压你的邻舍，也不可抢夺他的物。雇工人的工价，不可在你那里过夜，留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可欺壓你的鄰舍，也不可搶奪他的物。雇工人的工價，不可在你那裏過夜，留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘You shall not curse the deaf, nor put a stumbling block before the blind; but you shall fear your God. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可咒骂聋子，也不可将绊脚石放在瞎子面前，只要敬畏你的 神。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可咒罵聾子，也不可將絆腳石放在瞎子面前，只要敬畏你的上帝。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们施行审判，不可行不义；不可偏护穷人，也不可重看有势力的人，只要按着公义审判你的邻舍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們施行審判，不可行不義；不可偏護窮人，也不可重看有勢力的人，只要按着公義審判你的鄰舍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“‘You shall not go around as a slanderer among your people. You shall not endanger the life of your neighbor. I am the LORD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:16 literally, “blood”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可在民中往来搬弄是非，也不可与邻舍为敌，置之于死。我是耶和华。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:16 原文是流他的血"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可在民中往來搬弄是非，也不可與鄰舍為敵，置之於死。我是耶和華。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:16 原文是流他的血"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可心里恨你的弟兄；总要指摘你的邻舍，免得因他担罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可心裏恨你的弟兄；總要指摘你的鄰舍，免得因他擔罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可报仇，也不可埋怨你本国的子民，却要爱人如己。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可報仇，也不可埋怨你本國的子民，卻要愛人如己。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“‘You shall keep my statutes. You shall not cross-breed different kinds of animals. You shall not sow your field with two kinds of seed; wear a garment made of two kinds of material.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要守我的律例。不可叫你的牲畜与异类配合；不可用两样搀杂的种种你的地，也不可用两样搀杂的料做衣服穿在身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要守我的律例。不可叫你的牲畜與異類配合；不可用兩樣攙雜的種種你的地，也不可用兩樣攙雜的料做衣服穿在身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“‘If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they shall be punished. They shall not be put to death, because she was not free.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「婢女许配了丈夫，还没有被赎、得释放，人若与她行淫，二人要受刑罚，却不把他们治死，因为婢女还没有得自由。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「婢女許配了丈夫，還沒有被贖、得釋放，人若與她行淫，二人要受刑罰，卻不把他們治死，因為婢女還沒有得自由。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He shall bring his trespass offering to the LORD, to the door of the Tent of Meeting, even a ram for a trespass offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人要把赎愆祭，就是一只公绵羊牵到会幕门口、耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人要把贖愆祭，就是一隻公綿羊牽到會幕門口、耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The priest shall make atonement for him with the ram of the trespass offering before the LORD for his sin which he has committed; and the sin which he has committed shall be forgiven him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要用赎愆祭的羊在耶和华面前赎他所犯的罪，他的罪就必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要用贖愆祭的羊在耶和華面前贖他所犯的罪，他的罪就必蒙赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“‘When you come into the land, and have planted all kinds of trees for food, then you shall count their fruit as forbidden. For three years it shall be forbidden to you. It shall not be eaten.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:23 literally, “uncircumcised”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们到了迦南地，栽种各样结果子的树木，就要以所结的果子如未受割礼的一样。三年之久，你们要以这些果子，如未受割礼的，是不可吃的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們到了迦南地，栽種各樣結果子的樹木，就要以所結的果子如未受割禮的一樣。三年之久，你們要以這些果子，如未受割禮的，是不可吃的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But in the fourth year all its fruit shall be holy, for giving praise to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但第四年所结的果子全要成为圣，用以赞美耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但第四年所結的果子全要成為聖，用以讚美耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "In the fifth year you shall eat its fruit, that it may yield its increase to you. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第五年，你们要吃那树上的果子，好叫树给你们结果子更多。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第五年，你們要吃那樹上的果子，好叫樹給你們結果子更多。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“‘You shall not eat any meat with the blood still in it. You shall not use enchantments, nor practice sorcery.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不可吃带血的物；不可用法术，也不可观兆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不可吃帶血的物；不可用法術，也不可觀兆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“‘You shall not cut the hair on the sides of your head or clip off the edge of your beard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "头的周围不可剃，胡须的周围也不可损坏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:27 或译：两鬓"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "頭的周圍不可剃，鬍鬚的周圍也不可損壞。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:27 或譯：兩鬢"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "“‘You shall not make any cuttings in your flesh for the dead, nor tattoo any marks on you. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可为死人用刀划身，也不可在身上刺花纹。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可為死人用刀劃身，也不可在身上刺花紋。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“‘Don’t profane your daughter, to make her a prostitute; lest the land fall to prostitution, and the land become full of wickedness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可辱没你的女儿，使她为娼妓，恐怕地上的人专向淫乱，地就满了大恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可辱沒你的女兒，使她為娼妓，恐怕地上的人專向淫亂，地就滿了大惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“‘You shall keep my Sabbaths, and reverence my sanctuary; I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要守我的安息日，敬我的圣所。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要守我的安息日，敬我的聖所。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“‘Don’t turn to those who are mediums, nor to the wizards. Don’t seek them out, to be defiled by them. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可偏向那些交鬼的和行巫术的；不可求问他们，以致被他们玷污了。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可偏向那些交鬼的和行巫術的；不可求問他們，以致被他們玷污了。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“‘You shall rise up before the gray head and honor the face of the elderly; and you shall fear your God. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在白发的人面前，你要站起来；也要尊敬老人，又要敬畏你的 神。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在白髮的人面前，你要站起來；也要尊敬老人，又要敬畏你的上帝。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“‘If a stranger lives as a foreigner with you in your land, you shall not do him wrong.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「若有外人在你们国中和你同居，就不可欺负他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「若有外人在你們國中和你同居，就不可欺負他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The stranger who lives as a foreigner with you shall be to you as the native-born among you, and you shall love him as yourself; for you lived as foreigners in the land of Egypt. I am the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和你们同居的外人，你们要看他如本地人一样，并要爱他如己，因为你们在埃及地也作过寄居的。我是耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和你們同居的外人，你們要看他如本地人一樣，並要愛他如己，因為你們在埃及地也作過寄居的。我是耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“‘You shall do no unrighteousness in judgment, in measures of length, of weight, or of quantity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们施行审判，不可行不义；在尺、秤、升、斗上也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們施行審判，不可行不義；在尺、秤、升、斗上也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "You shall have just balances, just weights, a just ephah, and a just hin. I am the LORD your God, who brought you out of the land of Egypt.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:36 1 ephah is about 22 liters or about 2/3 of a bushel"
+          },
+          {
+            "id": "f2",
+            "text": "19:36 A hin is about 6.5 liters or 1.7 gallons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用公道天平、公道法码、公道升斗、公道秤。我是耶和华—你们的 神，曾把你们从埃及地领出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用公道天平、公道法碼、公道升斗、公道秤。我是耶和華－你們的上帝，曾把你們從埃及地領出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“‘You shall observe all my statutes and all my ordinances, and do them. I am the LORD.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要谨守遵行我一切的律例典章。我是耶和华。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要謹守遵行我一切的律例典章。我是耶和華。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

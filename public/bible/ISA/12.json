@@ -1,0 +1,131 @@
+{
+  "bookId": "ISA",
+  "chapter": 12,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In that day you will say, “I will give thanks to you, the LORD; for though you were angry with me, your anger has turned away and you comfort me.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:1 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，你必说： 耶和华啊，我要称谢你！ 因为你虽然向我发怒， 你的怒气却已转消； 你又安慰了我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，你必說： 耶和華啊，我要稱謝你！ 因為你雖然向我發怒， 你的怒氣卻已轉消； 你又安慰了我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Behold, God is my salvation. I will trust, and will not be afraid; for the LORD, the LORD, is my strength and song; and he has become my salvation.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:2 Hebrew: יה Yah"
+          },
+          {
+            "id": "f2",
+            "text": "12:2 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪！ 神是我的拯救； 我要倚靠他，并不惧怕。 因为主耶和华是我的力量， 是我的诗歌， 他也成了我的拯救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪！上帝是我的拯救； 我要倚靠他，並不懼怕。 因為主耶和華是我的力量， 是我的詩歌， 他也成了我的拯救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Therefore with joy you will draw water out of the wells of salvation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们必从救恩的泉源欢然取水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們必從救恩的泉源歡然取水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "In that day you will say, “Give thanks to the LORD! Call on his name! Declare his doings among the peoples! Proclaim that his name is exalted!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那日，你们要说： 当称谢耶和华，求告他的名； 将他所行的传扬在万民中， 提说他的名已被尊崇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那日，你們要說： 當稱謝耶和華，求告他的名； 將他所行的傳揚在萬民中， 提說他的名已被尊崇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Sing to the LORD, for he has done excellent things! Let this be known in all the earth!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要向耶和华唱歌， 因他所行的甚是美好； 但愿这事普传天下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要向耶和華唱歌， 因他所行的甚是美好； 但願這事普傳天下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安的居民哪，当扬声欢呼， 因为在你们中间的以色列圣者乃为至大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安的居民哪，當揚聲歡呼， 因為在你們中間的以色列聖者乃為至大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

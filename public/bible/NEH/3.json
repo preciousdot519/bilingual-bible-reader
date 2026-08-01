@@ -1,0 +1,600 @@
+{
+  "bookId": "NEH",
+  "chapter": 3,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，大祭司以利亚实和他的弟兄众祭司起来建立羊门，分别为圣，安立门扇，又筑城墙到哈米亚楼，直到哈楠业楼，分别为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，大祭司以利亞實和他的弟兄眾祭司起來建立羊門，分別為聖，安立門扇，又築城牆到哈米亞樓，直到哈楠業樓，分別為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Next to him the men of Jericho built. Next to them Zaccur the son of Imri built.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是耶利哥人建造。其次是音利的儿子撒刻建造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是耶利哥人建造。其次是音利的兒子撒刻建造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The sons of Hassenaah built the fish gate. They laid its beams, and set up its doors, its bolts, and its bars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈西拿的子孙建立鱼门，架横梁、安门扇，和闩锁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈西拿的子孫建立魚門，架橫樑、安門扇，和閂鎖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Next to them, Meremoth the son of Uriah, the son of Hakkoz made repairs. Next to them, Meshullam the son of Berechiah, the son of Meshezabel made repairs. Next to them, Zadok the son of Baana made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是哈哥斯的孙子、乌利亚的儿子米利末修造。其次是米示萨别的孙子、比利迦的儿子米书兰修造。其次是巴拿的儿子撒督修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是哈哥斯的孫子、烏利亞的兒子米利末修造。其次是米示薩別的孫子、比利迦的兒子米書蘭修造。其次是巴拿的兒子撒督修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Next to them, the Tekoites made repairs; but their nobles didn’t put their necks to the Lord’s work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是提哥亚人修造；但是他们的贵胄不用肩担他们主的工作。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 原文是颈项"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是提哥亞人修造；但是他們的貴冑不用肩擔他們主的工作。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 原文是頸項"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Joiada the son of Paseah and Meshullam the son of Besodeiah repaired the old gate. They laid its beams and set up its doors, its bolts, and its bars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴西亚的儿子耶何耶大与比所玳的儿子米书兰修造古门，架横梁，安门扇和闩锁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴西亞的兒子耶何耶大與比所玳的兒子米書蘭修造古門，架橫樑，安門扇和閂鎖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Next to them, Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and of Mizpah, repaired the residence of the governor beyond the River.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是基遍人米拉提，米伦人雅顿与基遍人，并属河西总督所管的米斯巴人修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是基遍人米拉提，米倫人雅頓與基遍人，並屬河西總督所管的米斯巴人修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Next to him, Uzziel the son of Harhaiah, goldsmiths, made repairs. Next to him, Hananiah, one of the perfumers, made repairs, and they fortified Jerusalem even to the wide wall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是银匠哈海雅的儿子乌薛修造。其次是做香的哈拿尼雅修造。这些人修坚耶路撒冷，直到宽墙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是銀匠哈海雅的兒子烏薛修造。其次是做香的哈拿尼雅修造。這些人修堅耶路撒冷，直到寬牆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Next to them, Rephaiah the son of Hur, the ruler of half the district of Jerusalem, made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是管理耶路撒冷一半、户珥的儿子利法雅修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是管理耶路撒冷一半、戶珥的兒子利法雅修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Next to them, Jedaiah the son of Harumaph made repairs across from his house. Next to him, Hattush the son of Hashabneiah made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是哈路抹的儿子耶大雅对着自己的房屋修造。其次是哈沙尼的儿子哈突修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是哈路抹的兒子耶大雅對着自己的房屋修造。其次是哈沙尼的兒子哈突修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Malchijah the son of Harim and Hasshub the son of Pahathmoab repaired another portion and the tower of the furnaces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈琳的儿子玛基雅和巴哈·摩押的儿子哈述修造一段，并修造炉楼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈琳的兒子瑪基雅和巴哈‧摩押的兒子哈述修造一段，並修造爐樓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Next to him, Shallum the son of Hallohesh, the ruler of half the district of Jerusalem, he and his daughters made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是管理耶路撒冷那一半、哈罗黑的儿子沙龙和他的女儿们修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是管理耶路撒冷那一半、哈羅黑的兒子沙龍和他的女兒們修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Hanun and the inhabitants of Zanoah repaired the valley gate. They built it, and set up its doors, its bolts, and its bars, and one thousand cubits of the wall to the dung gate.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:13 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈嫩和撒挪亚的居民修造谷门，立门，安门扇和闩锁，又建筑城墙一千肘，直到粪厂门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈嫩和撒挪亞的居民修造谷門，立門，安門扇和閂鎖，又建築城牆一千肘，直到糞廠門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Malchijah the son of Rechab, the ruler of the district of Beth Haccherem, repaired the dung gate. He built it, and set up its doors, its bolts, and its bars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管理伯·哈基琳、利甲的儿子玛基雅修造粪厂门，立门，安门扇和闩锁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管理伯‧哈基琳、利甲的兒子瑪基雅修造糞廠門，立門，安門扇和閂鎖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Shallun the son of Colhozeh, the ruler of the district of Mizpah, repaired the spring gate. He built it, covered it, and set up its doors, its bolts, and its bars; and he repaired the wall of the pool of Shelah by the king’s garden, even to the stairs that go down from David’s city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管理米斯巴、各荷西的儿子沙 修造泉门，立门，盖门顶，安门扇和闩锁，又修造靠近王园西罗亚池的墙垣，直到那从大卫城下来的台阶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管理米斯巴、各荷西的兒子沙崙修造泉門，立門，蓋門頂，安門扇和閂鎖，又修造靠近王園西羅亞池的牆垣，直到那從大衛城下來的臺階。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "After him, Nehemiah the son of Azbuk, the ruler of half the district of Beth Zur, made repairs to the place opposite the tombs of David, and to the pool that was made, and to the house of the mighty men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是管理伯·夙一半、押卜的儿子尼希米修造，直到大卫坟地的对面，又到挖成的池子，并勇士的房屋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是管理伯‧夙一半、押卜的兒子尼希米修造，直到大衛墳地的對面，又到挖成的池子，並勇士的房屋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "After him, the Levites—Rehum the son of Bani made repairs. Next to him, Hashabiah, the ruler of half the district of Keilah, made repairs for his district.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是利未人巴尼的儿子利宏修造。其次是管理基伊拉一半、哈沙比雅为他所管的本境修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是利未人巴尼的兒子利宏修造。其次是管理基伊拉一半、哈沙比雅為他所管的本境修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "After him, their brothers, Bavvai the son of Henadad, the ruler of half the district of Keilah made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是利未人弟兄中管理基伊拉那一半、希拿达的儿子巴瓦伊修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是利未人弟兄中管理基伊拉那一半、希拿達的兒子巴瓦伊修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Next to him, Ezer the son of Jeshua, the ruler of Mizpah, repaired another portion across from the ascent to the armory at the turning of the wall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是管理米斯巴、耶书亚的儿子以谢修造一段，对着武库的上坡、城墙转弯之处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是管理米斯巴、耶書亞的兒子以謝修造一段，對着武庫的上坡、城牆轉彎之處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "After him, Baruch the son of Zabbai earnestly repaired another portion, from the turning of the wall to the door of the house of Eliashib the high priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是萨拜的儿子巴录竭力修造一段，从城墙转弯，直到大祭司以利亚实的府门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是薩拜的兒子巴錄竭力修造一段，從城牆轉彎，直到大祭司以利亞實的府門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "After him, Meremoth the son of Uriah the son of Hakkoz repaired another portion, from the door of the house of Eliashib even to the end of the house of Eliashib.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是哈哥斯的孙子、乌利亚的儿子米利末修造一段，从以利亚实的府门，直到以利亚实府的尽头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是哈哥斯的孫子、烏利亞的兒子米利末修造一段，從以利亞實的府門，直到以利亞實府的盡頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "After him, the priests, the men of the surrounding area made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是住平原的祭司修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是住平原的祭司修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "After them, Benjamin and Hasshub made repairs across from their house. After them, Azariah the son of Maaseiah the son of Ananiah made repairs beside his own house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是便雅悯与哈述对着自己的房屋修造。其次是亚难尼的孙子、玛西雅的儿子亚撒利雅在靠近自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是便雅憫與哈述對着自己的房屋修造。其次是亞難尼的孫子、瑪西雅的兒子亞撒利雅在靠近自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "After him, Binnui the son of Henadad repaired another portion, from the house of Azariah to the turning of the wall, and to the corner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是希拿达的儿子宾内修造一段，从亚撒利雅的房屋直到城墙转弯，又到城角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是希拿達的兒子賓內修造一段，從亞撒利雅的房屋直到城牆轉彎，又到城角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Palal the son of Uzai made repairs opposite the turning of the wall, and the tower that stands out from the upper house of the king, which is by the court of the guard. After him Pedaiah the son of Parosh made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乌赛的儿子巴拉修造对着城墙的转弯和王上宫凸出来的城楼，靠近护卫院的那一段。其次是巴录的儿子毗大雅修造。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "烏賽的兒子巴拉修造對着城牆的轉彎和王上宮凸出來的城樓，靠近護衛院的那一段。其次是巴錄的兒子毗大雅修造。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "(Now the temple servants lived in Ophel, to the place opposite the water gate toward the east, and the tower that stands out.)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼提宁住在俄斐勒，直到朝东水门的对面和凸出来的城楼。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼提寧住在俄斐勒，直到朝東水門的對面和凸出來的城樓。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "After him the Tekoites repaired another portion, opposite the great tower that stands out, and to the wall of Ophel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是提哥亚人又修一段，对着那凸出来的大楼，直到俄斐勒的墙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是提哥亞人又修一段，對着那凸出來的大樓，直到俄斐勒的牆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Above the horse gate, the priests made repairs, everyone across from his own house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从马门往上，众祭司各对自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從馬門往上，眾祭司各對自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "After them, Zadok the son of Immer made repairs across from his own house. After him, Shemaiah the son of Shecaniah, the keeper of the east gate, made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是音麦的儿子撒督对着自己的房屋修造。其次是守东门、示迦尼的儿子示玛雅修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是音麥的兒子撒督對着自己的房屋修造。其次是守東門、示迦尼的兒子示瑪雅修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "After him, Hananiah the son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another portion. After him, Meshullam the son of Berechiah made repairs across from his room.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是示利米雅的儿子哈拿尼雅和萨拉的第六子哈嫩又修一段。其次是比利迦的儿子米书兰对着自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是示利米雅的兒子哈拿尼雅和薩拉的第六子哈嫩又修一段。其次是比利迦的兒子米書蘭對着自己的房屋修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "After him, Malchijah, one of the goldsmiths to the house of the temple servants, and of the merchants, made repairs opposite the gate of Hammiphkad and to the ascent of the corner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是银匠玛基雅修造到尼提宁和商人的房屋，对着哈米弗甲门，直到城的角楼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是銀匠瑪基雅修造到尼提寧和商人的房屋，對着哈米弗甲門，直到城的角樓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Between the ascent of the corner and the sheep gate, the goldsmiths and the merchants made repairs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "银匠与商人在城的角楼和羊门中间修造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "銀匠與商人在城的角樓和羊門中間修造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

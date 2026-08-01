@@ -1,0 +1,235 @@
+{
+  "bookId": "2TH",
+  "chapter": 1,
+  "bookEnglish": "2 Thessalonians",
+  "bookChineseSimplified": "帖撒罗尼迦后书",
+  "bookChineseTraditional": "帖撒羅尼迦後書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗、西拉、提摩太写信给帖撒罗尼迦、在 神—我们的父与主耶稣基督里的教会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅、西拉、提摩太寫信給帖撒羅尼迦、在上帝－我們的父與主耶穌基督裏的教會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿恩惠、平安从父 神和主耶稣基督归与你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願恩惠、平安從父上帝和主耶穌基督歸與你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:3 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我们该为你们常常感谢 神，这本是合宜的；因你们的信心格外增长，并且你们众人彼此相爱的心也都充足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我們該為你們常常感謝上帝，這本是合宜的；因你們的信心格外增長，並且你們眾人彼此相愛的心也都充足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "甚至我们在 神的各教会里为你们夸口，都因你们在所受的一切逼迫患难中，仍旧存忍耐和信心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "甚至我們在上帝的各教會裏為你們誇口，都因你們在所受的一切逼迫患難中，仍舊存忍耐和信心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这正是 神公义判断的明证，叫你们可算配得 神的国；你们就是为这国受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這正是上帝公義判斷的明證，叫你們可算配得上帝的國；你們就是為這國受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For it is a righteous thing with God to repay affliction to those who afflict you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神既是公义的，就必将患难报应那加患难给你们的人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝既是公義的，就必將患難報應那加患難給你們的人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and to give relief to you who are afflicted with us when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也必使你们这受患难的人与我们同得平安。那时，主耶稣同他有能力的天使从天上在火焰中显现，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也必使你們這受患難的人與我們同得平安。那時，主耶穌同他有能力的天使從天上在火焰中顯現，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要报应那不认识 神和那不听从我主耶稣福音的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要報應那不認識上帝和那不聽從我主耶穌福音的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要受刑罚，就是永远沉沦，离开主的面和他权能的荣光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要受刑罰，就是永遠沉淪，離開主的面和他權能的榮光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "when he comes in that day to be glorified in his saints and to be admired among all those who have believed, because our testimony to you was believed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这正是主降临、要在他圣徒的身上得荣耀、又在一切信的人身上显为希奇的那日子。我们对你们作的见证，你们也信了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這正是主降臨、要在他聖徒的身上得榮耀、又在一切信的人身上顯為希奇的那日子。我們對你們作的見證，你們也信了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我们常为你们祷告，愿我们的 神看你们配得过所蒙的召，又用大能成就你们一切所羡慕的良善和一切因信心所做的工夫，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我們常為你們禱告，願我們的上帝看你們配得過所蒙的召，又用大能成就你們一切所羨慕的良善和一切因信心所做的工夫，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:12 TR adds “Christ”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫我们主耶稣的名在你们身上得荣耀，你们也在他身上得荣耀，都照着我们的 神并主耶稣基督的恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫我們主耶穌的名在你們身上得榮耀，你們也在他身上得榮耀，都照着我們的上帝並主耶穌基督的恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

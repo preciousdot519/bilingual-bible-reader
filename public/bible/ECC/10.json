@@ -1,0 +1,379 @@
+{
+  "bookId": "ECC",
+  "chapter": 10,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Dead flies cause the oil of the perfumer to produce an evil odor; so does a little folly outweigh wisdom and honor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "死苍蝇使做香的膏油发出臭气； 这样，一点愚昧也能败坏智慧和尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "死蒼蠅使做香的膏油發出臭氣； 這樣，一點愚昧也能敗壞智慧和尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "A wise man’s heart is at his right hand, but a fool’s heart at his left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的心居右； 愚昧人的心居左。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的心居右； 愚昧人的心居左。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Yes also when the fool walks by the way, his understanding fails him, and he says to everyone that he is a fool.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且愚昧人行路显出无知， 对众人说，他是愚昧人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且愚昧人行路顯出無知， 對眾人說，他是愚昧人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "If the spirit of the ruler rises up against you, don’t leave your place; for gentleness lays great offenses to rest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌权者的心若向你发怒， 不要离开你的本位， 因为柔和能免大过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌權者的心若向你發怒， 不要離開你的本位， 因為柔和能免大過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "There is an evil which I have seen under the sun, the sort of error which proceeds from the ruler.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见日光之下有一件祸患， 似乎出于掌权的错误，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見日光之下有一件禍患， 似乎出於掌權的錯誤，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Folly is set in great dignity, and the rich sit in a low place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是愚昧人立在高位； 富足人坐在低位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是愚昧人立在高位； 富足人坐在低位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I have seen servants on horses, and princes walking like servants on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见过仆人骑马， 王子像仆人在地上步行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見過僕人騎馬， 王子像僕人在地上步行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He who digs a pit may fall into it; and whoever breaks through a wall may be bitten by a snake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挖陷坑的，自己必掉在其中； 拆墙垣的，必为蛇所咬。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挖陷坑的，自己必掉在其中； 拆牆垣的，必為蛇所咬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Whoever carves out stones may be injured by them. Whoever splits wood may be endangered by it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凿开石头的，必受损伤； 劈开木头的，必遭危险。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:9 或译：挪移"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鑿開石頭的，必受損傷； 劈開木頭的，必遭危險。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:9 或譯：挪移"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "If the ax is blunt, and one doesn’t sharpen the edge, then he must use more strength; but skill brings success.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "铁器钝了，若不将刃磨快，就必多费气力； 但得智慧指教，便有益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鐵器鈍了，若不將刃磨快，就必多費氣力； 但得智慧指教，便有益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "If the snake bites before it is charmed, then is there no profit for the charmer’s tongue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "未行法术以先，蛇若咬人， 后行法术也是无益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "未行法術以先，蛇若咬人， 後行法術也是無益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The words of a wise man’s mouth are gracious; but a fool is swallowed by his own lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的口说出恩言； 愚昧人的嘴吞灭自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的口說出恩言； 愚昧人的嘴吞滅自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他口中的言语起头是愚昧； 他话的末尾是奸恶的狂妄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他口中的言語起頭是愚昧； 他話的末尾是奸惡的狂妄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "A fool also multiplies words. Man doesn’t know what will be; and that which will be after him, who can tell him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚昧人多有言语， 人却不知将来有什么事； 他身后的事谁能告诉他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚昧人多有言語， 人卻不知將來有甚麼事； 他身後的事誰能告訴他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The labor of fools wearies every one of them; for he doesn’t know how to go to the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡愚昧人，他的劳碌使自己困乏， 因为连进城的路，他也不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡愚昧人，他的勞碌使自己困乏， 因為連進城的路，他也不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Woe to you, land, when your king is a child, and your princes eat in the morning!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邦国啊，你的王若是孩童， 你的群臣早晨宴乐， 你就有祸了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "邦國啊，你的王若是孩童， 你的群臣早晨宴樂， 你就有禍了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Happy are you, land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邦国啊，你的王若是贵胄之子， 你的群臣按时吃喝， 为要补力，不为酒醉， 你就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "邦國啊，你的王若是貴冑之子， 你的群臣按時吃喝， 為要補力，不為酒醉， 你就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "By slothfulness the roof sinks in; and through idleness of the hands the house leaks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因人懒惰，房顶塌下； 因人手懒，房屋滴漏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因人懶惰，房頂塌下； 因人手懶，房屋滴漏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "A feast is made for laughter, and wine makes the life glad; and money is the answer for all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设摆筵席是为喜笑。 酒能使人快活； 钱能叫万事应心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設擺筵席是為喜笑。 酒能使人快活； 錢能叫萬事應心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom, for a bird of the sky may carry your voice, and that which has wings may tell the matter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可咒诅君王， 也不可心怀此念； 在你卧房也不可咒诅富户。 因为空中的鸟必传扬这声音， 有翅膀的也必述说这事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可咒詛君王， 也不可心懷此念； 在你臥房也不可咒詛富戶。 因為空中的鳥必傳揚這聲音， 有翅膀的也必述說這事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

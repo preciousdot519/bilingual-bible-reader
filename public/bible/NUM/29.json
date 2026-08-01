@@ -1,0 +1,729 @@
+{
+  "bookId": "NUM",
+  "chapter": 29,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「七月初一日，你们当有圣会；什么劳碌的工都不可做，是你们当守为吹角的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「七月初一日，你們當有聖會；甚麼勞碌的工都不可做，是你們當守為吹角的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You shall offer a burnt offering for a pleasant aroma to the LORD: one young bull, one ram, seven male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要将公牛犊一只，公绵羊一只，没有残疾、一岁的公羊羔七只，作为馨香的燔祭献给耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要將公牛犢一隻，公綿羊一隻，沒有殘疾、一歲的公羊羔七隻，作為馨香的燔祭獻給耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the ram,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同献的素祭用调油的细面；为一只公牛要献伊法十分之三；为一只公羊要献伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同獻的素祭用調油的細麵；為一隻公牛要獻伊法十分之三；為一隻公羊要獻伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and one tenth for every lamb of the seven lambs;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为那七只羊羔，每只要献伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為那七隻羊羔，每隻要獻伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and one male goat for a sin offering, to make atonement for you;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又献一只公山羊作赎罪祭，为你们赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又獻一隻公山羊作贖罪祭，為你們贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些是在月朔的燔祭和同献的素祭，并常献的燔祭与同献的素祭，以及照例同献的奠祭以外，都作为馨香的火祭献给耶和华。」 （利23·26—32）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些是在月朔的燔祭和同獻的素祭，並常獻的燔祭與同獻的素祭，以及照例同獻的奠祭以外，都作為馨香的火祭獻給耶和華。」 （利23‧26－32）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“‘On the tenth day of this seventh month you shall have a holy convocation. You shall afflict your souls. You shall do no kind of work;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「七月初十日，你们当有圣会；要刻苦己心，什么工都不可做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「七月初十日，你們當有聖會；要刻苦己心，甚麼工都不可做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "but you shall offer a burnt offering to the LORD for a pleasant aroma: one young bull, one ram, seven male lambs a year old, all without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只要将公牛犊一只，公绵羊一只，一岁的公羊羔七只，都要没有残疾的，作为馨香的燔祭献给耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只要將公牛犢一隻，公綿羊一隻，一歲的公羊羔七隻，都要沒有殘疾的，作為馨香的燔祭獻給耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the one ram,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同献的素祭用调油的细面：为一只公牛要献伊法十分之三；为一只公羊要献伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同獻的素祭用調油的細麵：為一隻公牛要獻伊法十分之三；為一隻公羊要獻伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "one tenth for every lamb of the seven lambs;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为那七只羊羔，每只要献伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為那七隻羊羔，每隻要獻伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burnt offering, and its meal offering, and their drink offerings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又献一只公山羊为赎罪祭。这是在赎罪祭和常献的燔祭，与同献的素祭并同献的奠祭以外。」 （利23·33—44）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又獻一隻公山羊為贖罪祭。這是在贖罪祭和常獻的燔祭，與同獻的素祭並同獻的奠祭以外。」 （利23‧33－44）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“‘On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no regular work. You shall keep a feast to the LORD seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「七月十五日，你们当有圣会；什么劳碌的工都不可做，要向耶和华守节七日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「七月十五日，你們當有聖會；甚麼勞碌的工都不可做，要向耶和華守節七日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to the LORD: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要将公牛犊十三只，公绵羊两只，一岁的公羊羔十四只，都要没有残疾的，用火献给耶和华为馨香的燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要將公牛犢十三隻，公綿羊兩隻，一歲的公羊羔十四隻，都要沒有殘疾的，用火獻給耶和華為馨香的燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and their meal offering, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each ram of the two rams,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同献的素祭用调油的细面；为那十三只公牛，每只要献伊法十分之三；为那两只公羊，每只要献伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同獻的素祭用調油的細麵；為那十三隻公牛，每隻要獻伊法十分之三；為那兩隻公羊，每隻要獻伊法十分之二；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and one tenth for every lamb of the fourteen lambs;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为那十四只羊羔，每只要献伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為那十四隻羊羔，每隻要獻伊法十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and one male goat for a sin offering, in addition to the continual burnt offering, its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并献一只公山羊为赎罪祭，这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並獻一隻公山羊為贖罪祭，這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“‘On the second day you shall offer twelve young bulls, two rams, and fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第二日要献公牛犊十二只，公绵羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第二日要獻公牛犢十二隻，公綿羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering and their drink offerings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“‘On the third day: eleven bulls, two rams, fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第三日要献公牛十一只，公羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第三日要獻公牛十一隻，公羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“‘On the fourth day ten bulls, two rams, fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第四日要献公牛十只，公羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第四日要獻公牛十隻，公羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“‘On the fifth day: nine bulls, two rams, fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第五日要献公牛九只，公羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第五日要獻公牛九隻，公羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“‘On the sixth day: eight bulls, two rams, fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第六日要献公牛八只，公羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第六日要獻公牛八隻，公羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and the drink offerings of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“‘On the seventh day: seven bulls, two rams, fourteen male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第七日要献公牛七只，公羊两只，没有残疾、一岁的公羊羔十四只；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第七日要獻公牛七隻，公羊兩隻，沒有殘疾、一歲的公羊羔十四隻；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“‘On the eighth day you shall have a solemn assembly. You shall do no regular work;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「第八日你们当有严肃会；什么劳碌的工都不可做；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「第八日你們當有嚴肅會；甚麼勞碌的工都不可做；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "but you shall offer a burnt offering, an offering made by fire, a pleasant aroma to the LORD: one bull, one ram, seven male lambs a year old without defect;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只要将公牛一只，公羊一只，没有残疾、一岁的公羊羔七只作火祭，献给耶和华为馨香的燔祭；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只要將公牛一隻，公羊一隻，沒有殘疾、一歲的公羊羔七隻作火祭，獻給耶和華為馨香的燔祭；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "their meal offering and their drink offerings for the bull, for the ram, and for the lambs, shall be according to their number, after the ordinance,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并为公牛、公羊，和羊羔，按数照例，献同献的素祭和同献的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並為公牛、公羊，和羊羔，按數照例，獻同獻的素祭和同獻的奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering, and its drink offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献一只公山羊为赎罪祭。这是在常献的燔祭和同献的素祭并同献的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻一隻公山羊為贖罪祭。這是在常獻的燔祭和同獻的素祭並同獻的奠祭以外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "“‘You shall offer these to the LORD in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这些祭要在你们的节期献给耶和华，都在所许的愿并甘心所献的以外，作为你们的燔祭、素祭、奠祭，和平安祭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這些祭要在你們的節期獻給耶和華，都在所許的願並甘心所獻的以外，作為你們的燔祭、素祭、奠祭，和平安祭。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Moses told the children of Israel according to all that the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，摩西照耶和华所吩咐他的一切话告诉以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，摩西照耶和華所吩咐他的一切話告訴以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

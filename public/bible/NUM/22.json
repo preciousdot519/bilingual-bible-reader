@@ -1,0 +1,757 @@
+{
+  "bookId": "NUM",
+  "chapter": 22,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人起行，在摩押平原、约旦河东，对着耶利哥安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人起行，在摩押平原、約旦河東，對着耶利哥安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Balak the son of Zippor saw all that Israel had done to the Amorites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人向亚摩利人所行的一切事，西拨的儿子巴勒都看见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人向亞摩利人所行的一切事，西撥的兒子巴勒都看見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押人因以色列民甚多，就大大惧怕，心内忧急，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押人因以色列民甚多，就大大懼怕，心內憂急，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moab said to the elders of Midian, “Now this multitude will lick up all that is around us, as the ox licks up the grass of the field.” Balak the son of Zippor was king of Moab at that time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对米甸的长老说：「现在这众人要把我们四围所有的一概舔尽，就如牛舔尽田间的草一般。」那时西拨的儿子巴勒作摩押王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對米甸的長老說：「現在這眾人要把我們四圍所有的一概餂盡，就如牛餂盡田間的草一般。」那時西撥的兒子巴勒作摩押王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He sent messengers to Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, “Behold, there is a people who came out of Egypt. Behold, they cover the surface of the earth, and they are staying opposite me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他差遣使者往大河边的毗夺去，到比珥的儿子巴兰本乡那里，召巴兰来，说：「有一宗民从埃及出来，遮满地面，与我对居。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他差遣使者往大河邊的毗奪去，到比珥的兒子巴蘭本鄉那裏，召巴蘭來，說：「有一宗民從埃及出來，遮滿地面，與我對居。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Please come now therefore, and curse this people for me; for they are too mighty for me. Perhaps I shall prevail, that we may strike them, and that I may drive them out of the land; for I know that he whom you bless is blessed, and he whom you curse is cursed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这民比我强盛，现在求你来为我咒诅他们，或者我能得胜，攻打他们，赶出此地。因为我知道，你为谁祝福，谁就得福；你咒诅谁，谁就受咒诅。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這民比我強盛，現在求你來為我咒詛他們，或者我能得勝，攻打他們，趕出此地。因為我知道，你為誰祝福，誰就得福；你咒詛誰，誰就受咒詛。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The elders of Moab and the elders of Midian departed with the rewards of divination in their hand. They came to Balaam, and spoke to him the words of Balak.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押的长老和米甸的长老手里拿着卦金，到了巴兰那里，将巴勒的话都告诉了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押的長老和米甸的長老手裏拿着卦金，到了巴蘭那裏，將巴勒的話都告訴了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said to them, “Lodge here this night, and I will bring you word again, as the LORD shall speak to me.” The princes of Moab stayed with Balaam.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰说：「你们今夜在这里住宿，我必照耶和华所晓谕我的回报你们。」摩押的使臣就在巴兰那里住下了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭說：「你們今夜在這裏住宿，我必照耶和華所曉諭我的回報你們。」摩押的使臣就在巴蘭那裏住下了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "God came to Balaam, and said, “Who are these men with you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神临到巴兰那里，说：「在你这里的人都是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝臨到巴蘭那裏，說：「在你這裏的人都是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Balaam said to God, “Balak the son of Zippor, king of Moab, has said to me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰回答说：「是摩押王西拨的儿子巴勒打发人到我这里来，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭回答說：「是摩押王西撥的兒子巴勒打發人到我這裏來，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "‘Behold, the people that has come out of Egypt covers the surface of the earth. Now, come curse them for me. Perhaps I shall be able to fight against them, and shall drive them out.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『从埃及出来的民遮满地面，你来为我咒诅他们，或者我能与他们争战，把他们赶出去。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『從埃及出來的民遮滿地面，你來為我咒詛他們，或者我能與他們爭戰，把他們趕出去。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "God said to Balaam, “You shall not go with them. You shall not curse the people, for they are blessed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神对巴兰说：「你不可同他们去，也不可咒诅那民，因为那民是蒙福的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝對巴蘭說：「你不可同他們去，也不可咒詛那民，因為那民是蒙福的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Balaam rose up in the morning, and said to the princes of Balak, “Go to your land; for the LORD refuses to permit me to go with you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰早晨起来，对巴勒的使臣说：「你们回本地去吧，因为耶和华不容我和你们同去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭早晨起來，對巴勒的使臣說：「你們回本地去吧，因為耶和華不容我和你們同去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The princes of Moab rose up, and they went to Balak, and said, “Balaam refuses to come with us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押的使臣就起来，回巴勒那里去，说：「巴兰不肯和我们同来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押的使臣就起來，回巴勒那裏去，說：「巴蘭不肯和我們同來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Balak again sent princes, more, and more honorable than they.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒又差遣使臣，比先前的又多又尊贵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒又差遣使臣，比先前的又多又尊貴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They came to Balaam, and said to him, “Balak the son of Zippor says, ‘Please let nothing hinder you from coming to me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们到了巴兰那里，对他说：「西拨的儿子巴勒这样说：『求你不容什么事拦阻你不到我这里来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們到了巴蘭那裏，對他說：「西撥的兒子巴勒這樣說：『求你不容甚麼事攔阻你不到我這裏來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "for I will promote you to very great honor, and whatever you say to me I will do. Please come therefore, and curse this people for me.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我必使你得极大的尊荣。你向我要什么，我就给你什么；只求你来为我咒诅这民。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我必使你得極大的尊榮。你向我要甚麼，我就給你甚麼；只求你來為我咒詛這民。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Balaam answered the servants of Balak, “If Balak would give me his house full of silver and gold, I can’t go beyond the word of the LORD my God, to do less or more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰回答巴勒的臣仆说：「巴勒就是将他满屋的金银给我，我行大事小事也不得越过耶和华—我 神的命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭回答巴勒的臣僕說：「巴勒就是將他滿屋的金銀給我，我行大事小事也不得越過耶和華－我上帝的命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now therefore please stay here tonight as well, that I may know what else the LORD will speak to me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我请你们今夜在这里住宿，等我得知耶和华还要对我说什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我請你們今夜在這裏住宿，等我得知耶和華還要對我說甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "God came to Balaam at night, and said to him, “If the men have come to call you, rise up, go with them; but only the word which I speak to you, that you shall do.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当夜， 神临到巴兰那里，说：「这些人若来召你，你就起来同他们去，你只要遵行我对你所说的话。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當夜，上帝臨到巴蘭那裏，說：「這些人若來召你，你就起來同他們去，你只要遵行我對你所說的話。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰早晨起来，备上驴，和摩押的使臣一同去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭早晨起來，備上驢，和摩押的使臣一同去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "God’s anger burned because he went; and the LORD’s angel placed himself in the way as an adversary against him. Now he was riding on his donkey, and his two servants were with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神因他去就发了怒；耶和华的使者站在路上敌挡他。他骑着驴，有两个仆人跟随他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝因他去就發了怒；耶和華的使者站在路上敵擋他。他騎着驢，有兩個僕人跟隨他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The donkey saw the LORD’s angel standing in the way, with his sword drawn in his hand; and the donkey turned out of the path, and went into the field. Balaam struck the donkey, to turn her into the path.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "驴看见耶和华的使者站在路上，手里有拔出来的刀，就从路上跨进田间，巴兰便打驴，要叫它回转上路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驢看見耶和華的使者站在路上，手裏有拔出來的刀，就從路上跨進田間，巴蘭便打驢，要叫牠回轉上路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then the LORD’s angel stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者就站在葡萄园的窄路上；这边有墙，那边也有墙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者就站在葡萄園的窄路上；這邊有牆，那邊也有牆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The donkey saw the LORD’s angel, and she thrust herself to the wall, and crushed Balaam’s foot against the wall. He struck her again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "驴看见耶和华的使者，就贴靠墙，将巴兰的脚挤伤了；巴兰又打驴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驢看見耶和華的使者，就貼靠牆，將巴蘭的腳擠傷了；巴蘭又打驢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The LORD’s angel went further, and stood in a narrow place, where there was no way to turn either to the right hand or to the left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者又往前去，站在狭窄之处，左右都没有转折的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者又往前去，站在狹窄之處，左右都沒有轉折的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The donkey saw the LORD’s angel, and she lay down under Balaam. Balaam’s anger burned, and he struck the donkey with his staff.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "驴看见耶和华的使者，就卧在巴兰底下，巴兰发怒，用杖打驴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驢看見耶和華的使者，就臥在巴蘭底下，巴蘭發怒，用杖打驢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The LORD opened the mouth of the donkey, and she said to Balaam, “What have I done to you, that you have struck me these three times?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华叫驴开口，对巴兰说：「我向你行了什么，你竟打我这三次呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華叫驢開口，對巴蘭說：「我向你行了甚麼，你竟打我這三次呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Balaam said to the donkey, “Because you have mocked me, I wish there were a sword in my hand, for now I would have killed you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰对驴说：「因为你戏弄我，我恨不能手中有刀，把你杀了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭對驢說：「因為你戲弄我，我恨不能手中有刀，把你殺了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The donkey said to Balaam, “Am I not your donkey, on which you have ridden all your life long until today? Was I ever in the habit of doing so to you?” He said, “No.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "驴对巴兰说：「我不是你从小时直到今日所骑的驴吗？我素常向你这样行过吗？」巴兰说：「没有。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驢對巴蘭說：「我不是你從小時直到今日所騎的驢嗎？我素常向你這樣行過嗎？」巴蘭說：「沒有。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Then the LORD opened the eyes of Balaam, and he saw the LORD’s angel standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，耶和华使巴兰的眼目明亮，他就看见耶和华的使者站在路上，手里有拔出来的刀，巴兰便低头俯伏在地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，耶和華使巴蘭的眼目明亮，他就看見耶和華的使者站在路上，手裏有拔出來的刀，巴蘭便低頭俯伏在地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The LORD’s angel said to him, “Why have you struck your donkey these three times? Behold, I have come out as an adversary, because your way is perverse before me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者对他说：「你为何这三次打你的驴呢？我出来敌挡你，因你所行的，在我面前偏僻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者對他說：「你為何這三次打你的驢呢？我出來敵擋你，因你所行的，在我面前偏僻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The donkey saw me, and turned away before me these three times. Unless she had turned away from me, surely now I would have killed you, and saved her alive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "驴看见我就三次从我面前偏过去；驴若没有偏过去，我早把你杀了，留它存活。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驢看見我就三次從我面前偏過去；驢若沒有偏過去，我早把你殺了，留牠存活。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Balaam said to the LORD’s angel, “I have sinned; for I didn’t know that you stood in the way against me. Now therefore, if it displeases you, I will go back again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰对耶和华的使者说：「我有罪了。我不知道你站在路上阻挡我；你若不喜欢我去，我就转回。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭對耶和華的使者說：「我有罪了。我不知道你站在路上阻擋我；你若不喜歡我去，我就轉回。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The LORD’s angel said to Balaam, “Go with the men; but you shall only speak the word that I shall speak to you.” So Balaam went with the princes of Balak.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者对巴兰说：「你同这些人去吧！你只要说我对你说的话。」于是巴兰同着巴勒的使臣去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者對巴蘭說：「你同這些人去吧！你只要說我對你說的話。」於是巴蘭同着巴勒的使臣去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "When Balak heard that Balaam had come, he went out to meet him to the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒听见巴兰来了，就往摩押京城去迎接他；这城是在边界上，在亚嫩河旁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒聽見巴蘭來了，就往摩押京城去迎接他；這城是在邊界上，在亞嫩河旁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Balak said to Balaam, “Didn’t I earnestly send for you to summon you? Why didn’t you come to me? Am I not able indeed to promote you to honor?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒对巴兰说：「我不是急急地打发人到你那里去召你吗？你为何不到我这里来呢？我岂不能使你得尊荣吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒對巴蘭說：「我不是急急地打發人到你那裏去召你嗎？你為何不到我這裏來呢？我豈不能使你得尊榮嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Balaam said to Balak, “Behold, I have come to you. Have I now any power at all to speak anything? I will speak the word that God puts in my mouth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰说：「我已经到你这里来了！现在我岂能擅自说什么呢？ 神将什么话传给我，我就说什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭說：「我已經到你這裏來了！現在我豈能擅自說甚麼呢？上帝將甚麼話傳給我，我就說甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Balaam went with Balak, and they came to Kiriath Huzoth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰和巴勒同行，来到基列·胡琐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭和巴勒同行，來到基列‧胡瑣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who were with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒宰了牛羊，送给巴兰和陪伴的使臣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:40 原文是献"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒宰了牛羊，送給巴蘭和陪伴的使臣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:40 原文是獻"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了早晨，巴勒领巴兰到巴力的高处；巴兰从那里观看以色列营的边界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了早晨，巴勒領巴蘭到巴力的高處；巴蘭從那裏觀看以色列營的邊界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

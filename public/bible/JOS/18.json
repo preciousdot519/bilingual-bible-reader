@@ -1,0 +1,523 @@
+{
+  "bookId": "JOS",
+  "chapter": 18,
+  "bookEnglish": "Joshua",
+  "bookChineseSimplified": "约书亚记",
+  "bookChineseTraditional": "約書亞記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的全会众都聚集在示罗，把会幕设立在那里，那地已经被他们制伏了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的全會眾都聚集在示羅，把會幕設立在那裏，那地已經被他們制伏了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Seven tribes remained among the children of Israel, which had not yet divided their inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人中其余的七个支派还没有分给他们地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人中其餘的七個支派還沒有分給他們地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which the LORD, the God of your fathers, has given you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约书亚对以色列人说：「耶和华—你们列祖的 神所赐给你们的地，你们耽延不去得，要到几时呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約書亞對以色列人說：「耶和華－你們列祖的上帝所賜給你們的地，你們耽延不去得，要到幾時呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Appoint for yourselves three men from each tribe. I will send them, and they shall arise, walk through the land, and describe it according to their inheritance; then they shall come to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们每支派当选举三个人，我要打发他们去，他们就要起身走遍那地，按着各支派应得的地业写明，就回到我这里来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:4 或译：画图"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們每支派當選舉三個人，我要打發他們去，他們就要起身走遍那地，按着各支派應得的地業寫明，就回到我這裏來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:4 或譯：畫圖"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They shall divide it into seven portions. Judah shall live in his borders on the south, and the house of Joseph shall live in their borders on the north.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要将地分做七分；犹大仍在南方，住在他的境内。约瑟家仍在北方，住在他的境内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要將地分做七分；猶大仍在南方，住在他的境內。約瑟家仍在北方，住在他的境內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before the LORD our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要将地分做七分，写明了拿到我这里来。我要在耶和华—我们 神面前，为你们拈阄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要將地分做七分，寫明了拿到我這裏來。我要在耶和華－我們上帝面前，為你們拈鬮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "However, the Levites have no portion among you; for the priesthood of the LORD is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the Jordan, which Moses the servant of the LORD gave them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人在你们中间没有分，因为供耶和华祭司的职任就是他们的产业。迦得支派、吕便支派，和玛拿西半支派已经在约旦河东得了地业，就是耶和华仆人摩西所给他们的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人在你們中間沒有分，因為供耶和華祭司的職任就是他們的產業。迦得支派、呂便支派，和瑪拿西半支派已經在約旦河東得了地業，就是耶和華僕人摩西所給他們的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The men arose and went. Joshua commanded those who went to survey the land, saying, “Go walk through the land, survey it, and come again to me. I will cast lots for you here before the LORD in Shiloh.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "划地势的人起身去的时候，约书亚嘱咐他们说：「你们去走遍那地，划明地势，就回到我这里来。我要在示罗这里，耶和华面前，为你们拈阄。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "劃地勢的人起身去的時候，約書亞囑咐他們說：「你們去走遍那地，劃明地勢，就回到我這裏來。我要在示羅這裏，耶和華面前，為你們拈鬮。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The men went and passed through the land, and surveyed it by cities into seven portions in a book. They came to Joshua to the camp at Shiloh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就去了，走遍那地，按着城邑分做七分，写在册子上，回到示罗营中见约书亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就去了，走遍那地，按着城邑分做七分，寫在冊子上，回到示羅營中見約書亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Joshua cast lots for them in Shiloh before the LORD. There Joshua divided the land to the children of Israel according to their divisions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约书亚就在示罗，耶和华面前，为他们拈阄。约书亚在那里，按着以色列人的支派，将地分给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約書亞就在示羅，耶和華面前，為他們拈鬮。約書亞在那裏，按着以色列人的支派，將地分給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The lot of the tribe of the children of Benjamin came up according to their families. The border of their lot went out between the children of Judah and the children of Joseph.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯支派，按着宗族拈阄所得之地，是在犹大、约瑟子孙中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫支派，按着宗族拈鬮所得之地，是在猶大、約瑟子孫中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Their border on the north quarter was from the Jordan. The border went up to the side of Jericho on the north, and went up through the hill country westward. It ended at the wilderness of Beth Aven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的北界是从约旦河起，往上贴近耶利哥的北边；又往西通过山地，直到伯·亚文的旷野；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的北界是從約旦河起，往上貼近耶利哥的北邊；又往西通過山地，直到伯‧亞文的曠野；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The border passed along from there to Luz, to the side of Luz (also called Bethel), southward. The border went down to Ataroth Addar, by the mountain that lies on the south of Beth Horon the lower.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里往南接连到路斯，贴近路斯（路斯就是伯特利），又下到亚他绿·亚达，靠近下伯·和 南边的山；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏往南接連到路斯，貼近路斯（路斯就是伯特利），又下到亞他綠‧亞達，靠近下伯‧和崙南邊的山；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The border extended, and turned around on the west quarter southward, from the mountain that lies before Beth Horon southward; and ended at Kiriath Baal (also called Kiriath Jearim), a city of the children of Judah. This was the west quarter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里往西，又转向南，从伯·和 南对面的山，直达到犹大人的城基列·巴力（基列·巴力就是基列·耶琳）；这是西界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏往西，又轉向南，從伯‧和崙南對面的山，直達到猶大人的城基列‧巴力（基列‧巴力就是基列‧耶琳）；這是西界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The south quarter was from the farthest part of Kiriath Jearim. The border went out westward, and went out to the spring of the waters of Nephtoah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "南界是从基列·耶琳的尽边起，往西达到尼弗多亚的水源；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "南界是從基列‧耶琳的儘邊起，往西達到尼弗多亞的水源；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The border went down to the farthest part of the mountain that lies before the valley of the son of Hinnom, which is in the valley of Rephaim northward. It went down to the valley of Hinnom, to the side of the Jebusite southward, and went down to En Rogel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又下到欣嫩子谷对面山的尽边，就是利乏音谷北边的山；又下到欣嫩谷，贴近耶布斯的南边；又下到隐·罗结；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又下到欣嫩子谷對面山的儘邊，就是利乏音谷北邊的山；又下到欣嫩谷，貼近耶布斯的南邊；又下到隱‧羅結；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "It extended northward, went out at En Shemesh, and went out to Geliloth, which is opposite the ascent of Adummim. It went down to the stone of Bohan the son of Reuben.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又往北通到隐·示麦，达到亚都冥坡对面的基利绿；又下到吕便之子波罕的磐石；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又往北通到隱‧示麥，達到亞都冥坡對面的基利綠；又下到呂便之子波罕的磐石；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "It passed along to the side opposite the Arabah northward, and went down to the Arabah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又接连到亚拉巴对面，往北下到亚拉巴；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又接連到亞拉巴對面，往北下到亞拉巴；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The border passed along to the side of Beth Hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This was the south border.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又接连到伯·曷拉的北边，直通到盐海的北汊，就是约旦河的南头；这是南界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又接連到伯‧曷拉的北邊，直通到鹽海的北汊，就是約旦河的南頭；這是南界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The Jordan was its border on the east quarter. This was the inheritance of the children of Benjamin, by the borders around it, according to their families.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "东界是约旦河。这是便雅悯人按着宗族，照他们四围的交界所得的地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "東界是約旦河。這是便雅憫人按着宗族，照他們四圍的交界所得的地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Now the cities of the tribe of the children of Benjamin according to their families were Jericho, Beth Hoglah, Emek Keziz,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯支派按着宗族所得的城邑就是：耶利哥、伯·曷拉、伊麦·基悉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫支派按着宗族所得的城邑就是：耶利哥、伯‧曷拉、伊麥‧基悉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Beth Arabah, Zemaraim, Bethel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯·亚拉巴、洗玛脸、伯特利、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯‧亞拉巴、洗瑪臉、伯特利、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Avvim, Parah, Ophrah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚文、巴拉、俄弗拉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞文、巴拉、俄弗拉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Chephar Ammoni, Ophni, and Geba; twelve cities with their villages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基法·阿摩尼、俄弗尼、迦巴，共十二座城，还有属城的村庄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基法‧阿摩尼、俄弗尼、迦巴，共十二座城，還有屬城的村莊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Gibeon, Ramah, Beeroth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有基遍、拉玛、比录、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有基遍、拉瑪、比錄、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Mizpeh, Chephirah, Mozah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米斯巴、基非拉、摩撒、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米斯巴、基非拉、摩撒、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Rekem, Irpeel, Taralah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利坚、伊利毗勒、他拉拉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利堅、伊利毗勒、他拉拉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洗拉、以利弗、耶布斯（耶布斯就是耶路撒冷）、基比亚、基列，共十四座城，还有属城的村庄。这是便雅悯人按着宗族所得的地业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洗拉、以利弗、耶布斯（耶布斯就是耶路撒冷）、基比亞、基列，共十四座城，還有屬城的村莊。這是便雅憫人按着宗族所得的地業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

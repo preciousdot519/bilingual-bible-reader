@@ -1,0 +1,536 @@
+{
+  "bookId": "MAT",
+  "chapter": 7,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Don’t judge, so that you won’t be judged.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不要论断人，免得你们被论断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不要論斷人，免得你們被論斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Forwith whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们怎样论断人，也必怎样被论断；你们用什么量器量给人，也必用什么量器量给你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們怎樣論斷人，也必怎樣被論斷；你們用甚麼量器量給人，也必用甚麼量器量給你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Whydo you see the speck that is in your brother’s eye, but don’ t consider the beam that is in your own eye?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为什么看见你弟兄眼中有刺，却不想自己眼中有梁木呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為甚麼看見你弟兄眼中有刺，卻不想自己眼中有樑木呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Orhow will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你自己眼中有梁木，怎能对你弟兄说：『容我去掉你眼中的刺』呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你自己眼中有樑木，怎能對你弟兄說：『容我去掉你眼中的刺』呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Youhypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这假冒为善的人！先去掉自己眼中的梁木，然后才能看得清楚，去掉你弟兄眼中的刺。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這假冒為善的人！先去掉自己眼中的樑木，然後才能看得清楚，去掉你弟兄眼中的刺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“Don’tgive that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要把圣物给狗，也不要把你们的珍珠丢在猪前，恐怕它践踏了珍珠，转过来咬你们。」 （路11·9—13）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要把聖物給狗，也不要把你們的珍珠丟在豬前，恐怕牠踐踏了珍珠，轉過來咬你們。」 （路11‧9－13）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Ask, andit will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們祈求，就給你們；尋找，就尋見；叩門，就給你們開門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Foreveryone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为凡祈求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為凡祈求的，就得着；尋找的，就尋見；叩門的，就給他開門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Orwho is there among you who, if his son asks him for bread, will give him a stone?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间谁有儿子求饼，反给他石头呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間誰有兒子求餅，反給他石頭呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Orif he asks for a fish, who will give him a serpent?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求鱼，反给他蛇呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求魚，反給他蛇呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Ifyou then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们虽然不好，尚且知道拿好东西给儿女，何况你们在天上的父，岂不更把好东西给求他的人吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們雖然不好，尚且知道拿好東西給兒女，何況你們在天上的父，豈不更把好東西給求他的人嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，无论何事，你们愿意人怎样待你们，你们也要怎样待人，因为这就是律法和先知的道理。」 （路13·24）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，無論何事，你們願意人怎樣待你們，你們也要怎樣待人，因為這就是律法和先知的道理。」 （路13‧24）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Enterin by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要进窄门。因为引到灭亡，那门是宽的，路是大的，进去的人也多；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "How narrowis the gate and the way is restricted that leads to life! There are few who find it.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:14 TR reads “Because” instead of “How”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "引到永生，那门是窄的，路是小的，找着的人也少。」 （路6·43—44）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "引到永生，那門是窄的，路是小的，找着的人也少。」 （路6‧43－44）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Bewareof false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要防备假先知。他们到你们这里来，外面披着羊皮，里面却是残暴的狼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要防備假先知。他們到你們這裏來，外面披着羊皮，裏面卻是殘暴的狼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Bytheir fruits you will know them. Do you gather grapes from thorns or figs from thistles?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凭着他们的果子，就可以认出他们来。荆棘上岂能摘葡萄呢？蒺藜里岂能摘无花果呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "憑着他們的果子，就可以認出他們來。荊棘上豈能摘葡萄呢？蒺藜裏豈能摘無花果呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Evenso, every good tree produces good fruit, but the corrupt tree produces evil fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，凡好树都结好果子，惟独坏树结坏果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，凡好樹都結好果子，惟獨壞樹結壞果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Agood tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好树不能结坏果子；坏树不能结好果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好樹不能結壞果子；壞樹不能結好果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Everytree that doesn’t grow good fruit is cut down and thrown into the fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡不结好果子的树就砍下来，丢在火里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡不結好果子的樹就砍下來，丟在火裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore bytheir fruits you will know them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，凭着他们的果子就可以认出他们来。」 （路13·25—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，憑着他們的果子就可以認出他們來。」 （路13‧25－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Noteveryone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡称呼我『主啊，主啊』的人不能都进天国；惟独遵行我天父旨意的人才能进去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡稱呼我『主啊，主啊』的人不能都進天國；惟獨遵行我天父旨意的人才能進去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Manywill tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日必有许多人对我说：『主啊，主啊，我们不是奉你的名传道，奉你的名赶鬼，奉你的名行许多异能吗？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日必有許多人對我說：『主啊，主啊，我們不是奉你的名傳道，奉你的名趕鬼，奉你的名行許多異能嗎？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "ThenI will tell them, ‘I never knew you. Depart from me, you who work iniquity.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就明明地告诉他们说：『我从来不认识你们，你们这些作恶的人，离开我去吧！』」 （路6·47—49）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就明明地告訴他們說：『我從來不認識你們，你們這些作惡的人，離開我去吧！』」 （路6‧46－49）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Everyonetherefore who hears these words of mine and does them, I will liken him to a wise man who built his house on the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「所以，凡听见我这话就去行的，好比一个聪明人，把房子盖在磐石上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「所以，凡聽見我這話就去行的，好比一個聰明人，把房子蓋在磐石上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Therain came down, the floods came, and the winds blew and beat on that house; and it didn’ t fall, for it was founded on the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雨淋，水冲，风吹，撞着那房子，房子总不倒塌，因为根基立在磐石上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雨淋，水沖，風吹，撞着那房子，房子總不倒塌，因為根基立在磐石上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Everyonewho hears these words of mine and doesn’ t do them will be like a foolish man who built his house on the sand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡听见我这话不去行的，好比一个无知的人，把房子盖在沙土上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡聽見我這話不去行的，好比一個無知的人，把房子蓋在沙土上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Therain came down, the floods came, and the winds blew and beat on that house; and it fell —and its fall was great.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雨淋，水冲，风吹，撞着那房子，房子就倒塌了，并且倒塌得很大。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雨淋，水沖，風吹，撞着那房子，房子就倒塌了，並且倒塌得很大。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "When Jesus had finished saying these things, the multitudes were astonished at his teaching,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣讲完了这些话，众人都希奇他的教训；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌講完了這些話，眾人都希奇他的教訓；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "for he taught them with authority, and not like the scribes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他教训他们，正像有权柄的人，不像他们的文士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他教訓他們，正像有權柄的人，不像他們的文士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

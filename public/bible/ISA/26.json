@@ -1,0 +1,414 @@
+{
+  "bookId": "ISA",
+  "chapter": 26,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In that day, this song will be sung in the land of Judah: “We have a strong city. God appoints salvation for walls and bulwarks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，在犹大地人必唱这歌说： 我们有坚固的城。 耶和华要将救恩定为城墙，为外郭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，在猶大地人必唱這歌說： 我們有堅固的城。 耶和華要將救恩定為城牆，為外郭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Open the gates, that the righteous nation may enter: the one which keeps faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敞开城门， 使守信的义民得以进入。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敞開城門， 使守信的義民得以進入。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "坚心倚赖你的， 你必保守他十分平安， 因为他倚靠你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "堅心倚賴你的， 你必保守他十分平安， 因為他倚靠你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Trust in the LORD forever; for in the LORD, the LORD, is an everlasting Rock.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:4 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          },
+          {
+            "id": "f2",
+            "text": "26:4 Hebrew: יה Yah"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当倚靠耶和华直到永远， 因为耶和华是永久的磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當倚靠耶和華直到永遠， 因為耶和華是永久的磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For he has brought down those who dwell on high, the lofty city. He lays it low. He lays it low even to the ground. He brings it even to the dust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使住高处的与高城一并败落， 将城拆毁，拆平，直到尘埃，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使住高處的與高城一併敗落， 將城拆毀，拆平，直到塵埃，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The foot shall tread it down, even the feet of the poor and the steps of the needy.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要被脚践踏， 就是被困苦人的脚和穷乏人的脚践踏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要被腳踐踏， 就是被困苦人的腳和窮乏人的腳踐踏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The way of the just is uprightness. You who are upright make the path of the righteous level.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的道是正直的； 你为正直的主，必修平义人的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的道是正直的； 你為正直的主，必修平義人的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Yes, in the way of your judgments, LORD, we have waited for you. Your name and your renown are the desire of our soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我们在你行审判的路上等候你； 我们心里所羡慕的是你的名， 就是你那可记念的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我們在你行審判的路上等候你； 我們心裏所羨慕的是你的名， 就是你那可記念的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "With my soul I have desired you in the night. Yes, with my spirit within me I will seek you earnestly; for when your judgments are on the earth, the inhabitants of the world learn righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夜间，我心中羡慕你； 我里面的灵切切寻求你。 因为你在世上行审判的时候， 地上的居民就学习公义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "夜間，我心中羨慕你； 我裏面的靈切切尋求你。 因為你在世上行審判的時候， 地上的居民就學習公義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Let favor be shown to the wicked, yet he will not learn righteousness. In the land of uprightness he will deal wrongfully, and will not see the LORD’s majesty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以恩惠待恶人， 他仍不学习公义； 在正直的地上，他必行事不义， 也不注意耶和华的威严。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以恩惠待惡人， 他仍不學習公義； 在正直的地上，他必行事不義， 也不注意耶和華的威嚴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "LORD, your hand is lifted up, yet they don’t see; but they will see your zeal for the people and be disappointed. Yes, fire will consume your adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你的手高举， 他们仍然不看； 却要看你为百姓发的热心，因而抱愧， 并且有火烧灭你的敌人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你的手高舉， 他們仍然不看； 卻要看你為百姓發的熱心，因而抱愧， 並且有火燒滅你的敵人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "LORD, you will ordain peace for us, for you have also done all our work for us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你必派定我们得平安， 因为我们所做的事都是你给我们成就的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你必派定我們得平安， 因為我們所做的事都是你給我們成就的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "LORD our God, other lords besides you have had dominion over us, but we will only acknowledge your name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们的 神啊， 在你以外曾有别的主管辖我们， 但我们专要倚靠你，提你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們的上帝啊， 在你以外曾有別的主管轄我們， 但我們專要倚靠你，提你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The dead shall not live. The departed spirits shall not rise. Therefore you have visited and destroyed them, and caused all memory of them to perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们死了，必不能再活； 他们去世，必不能再起； 因为你刑罚他们，毁灭他们， 他们的名号就全然消灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們死了，必不能再活； 他們去世，必不能再起； 因為你刑罰他們，毀滅他們， 他們的名號就全然消滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You have increased the nation, O LORD. You have increased the nation! You are glorified! You have enlarged all the borders of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你增添国民， 你增添国民； 你得了荣耀， 又扩张地的四境。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你增添國民， 你增添國民； 你得了榮耀， 又擴張地的四境。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "LORD, in trouble they have visited you. They poured out a prayer when your chastening was on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，他们在急难中寻求你； 你的惩罚临到他们身上， 他们就倾心吐胆祷告你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，他們在急難中尋求你； 你的懲罰臨到他們身上， 他們就傾心吐膽禱告你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Just as a woman with child, who draws near the time of her delivery, is in pain and cries out in her pangs, so we have been before you, LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人怀孕，临产疼痛， 在痛苦之中喊叫； 耶和华啊，我们在你面前也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人懷孕，臨產疼痛， 在痛苦之中喊叫； 耶和華啊，我們在你面前也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "We have been with child. We have been in pain. We gave birth, it seems, only to wind. We have not worked any deliverance on the earth; neither have the inhabitants of the world fallen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们也曾怀孕疼痛， 所产的竟像风一样。 我们在地上未曾行什么拯救的事； 世上的居民也未曾败落。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們也曾懷孕疼痛， 所產的竟像風一樣。 我們在地上未曾行甚麼拯救的事； 世上的居民也未曾敗落。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Your dead shall live. Their dead bodies shall arise. Awake and sing, you who dwell in the dust; for your dew is like the dew of herbs, and the earth will cast out the departed spirits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "死人要复活， 尸首要兴起。 睡在尘埃的啊，要醒起歌唱！ 因你的甘露好像菜蔬上的甘露， 地也要交出死人来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:19 原文是你的死人"
+          },
+          {
+            "id": "f2",
+            "text": "- 26:19 原文是我的尸首"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "死人要復活， 屍首要興起。 睡在塵埃的啊，要醒起歌唱！ 因你的甘露好像菜蔬上的甘露， 地也要交出死人來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:19 原文是你的死人"
+          },
+          {
+            "id": "f2",
+            "text": "- 26:19 原文是我的屍首"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Come, my people, enter into your rooms, and shut your doors behind you. Hide yourself for a little moment, until the indignation is past.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的百姓啊，你们要来进入内室， 关上门，隐藏片时， 等到忿怒过去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的百姓啊，你們要來進入內室， 關上門，隱藏片時， 等到忿怒過去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For, behold, the LORD comes out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华从他的居所出来， 要刑罚地上居民的罪孽。 地也必露出其中的血， 不再掩盖被杀的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華從他的居所出來， 要刑罰地上居民的罪孽。 地也必露出其中的血， 不再掩蓋被殺的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

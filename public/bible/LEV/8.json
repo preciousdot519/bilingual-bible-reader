@@ -1,0 +1,667 @@
+{
+  "bookId": "LEV",
+  "chapter": 8,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你将亚伦和他儿子一同带来，并将圣衣、膏油，与赎罪祭的一只公牛、两只公绵羊、一筐无酵饼都带来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你將亞倫和他兒子一同帶來，並將聖衣、膏油，與贖罪祭的一隻公牛、兩隻公綿羊、一筐無酵餅都帶來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and assemble all the congregation at the door of the Tent of Meeting.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又招聚会众到会幕门口。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又招聚會眾到會幕門口。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moses did as the LORD commanded him; and the congregation was assembled at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西就照耶和华所吩咐的行了；于是会众聚集在会幕门口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西就照耶和華所吩咐的行了；於是會眾聚集在會幕門口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Moses said to the congregation, “This is the thing which the LORD has commanded to be done.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西告诉会众说：「这就是耶和华所吩咐当行的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西告訴會眾說：「這就是耶和華所吩咐當行的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Moses brought Aaron and his sons, and washed them with water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西带了亚伦和他儿子来，用水洗了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西帶了亞倫和他兒子來，用水洗了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给亚伦穿上内袍，束上腰带，穿上外袍，又加上以弗得，用其上巧工织的带子把以弗得系在他身上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給亞倫穿上內袍，束上腰帶，穿上外袍，又加上以弗得，用其上巧工織的帶子把以弗得繫在他身上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He placed the breastplate on him. He put the Urim and Thummim in the breastplate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又给他戴上胸牌，把乌陵和土明放在胸牌内，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又給他戴上胸牌，把烏陵和土明放在胸牌內，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把冠冕戴在他头上，在冠冕的前面钉上金牌，就是圣冠，都是照耶和华所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把冠冕戴在他頭上，在冠冕的前面釘上金牌，就是聖冠，都是照耶和華所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Moses took the anointing oil, and anointed the tabernacle and all that was in it, and sanctified them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西用膏油抹帐幕和其中所有的，使它成圣；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西用膏油抹帳幕和其中所有的，使它成聖；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He sprinkled it on the altar seven times, and anointed the altar and all its vessels, and the basin and its base, to sanctify them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用膏油在坛上弹了七次，又抹了坛和坛的一切器皿，并洗濯盆和盆座，使它成圣；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用膏油在壇上彈了七次，又抹了壇和壇的一切器皿，並洗濯盆和盆座，使它成聖；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He poured some of the anointing oil on Aaron’s head, and anointed him, to sanctify him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又把膏油倒在亚伦的头上膏他，使他成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又把膏油倒在亞倫的頭上膏他，使他成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Moses brought Aaron’s sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西带了亚伦的儿子来，给他们穿上内袍，束上腰带，包上裹头巾，都是照耶和华所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西帶了亞倫的兒子來，給他們穿上內袍，束上腰帶，包上裹頭巾，都是照耶和華所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他牵了赎罪祭的公牛来，亚伦和他儿子按手在赎罪祭公牛的头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他牽了贖罪祭的公牛來，亞倫和他兒子按手在贖罪祭公牛的頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He killed it; and Moses took the blood, and put it around on the horns of the altar with his finger, and purified the altar, and poured out the blood at the base of the altar, and sanctified it, to make atonement for it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就宰了公牛。摩西用指头蘸血，抹在坛上四角的周围，使坛洁净，把血倒在坛的脚那里，使坛成圣，坛就洁净了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就宰了公牛。摩西用指頭蘸血，抹在壇上四角的周圍，使壇潔淨，把血倒在壇的腳那裏，使壇成聖，壇就潔淨了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He took all the fat that was on the innards, and the cover of the liver, and the two kidneys, and their fat; and Moses burned it on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又取脏上所有的脂油和肝上的网子，并两个腰子与腰子上的脂油，都烧在坛上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又取臟上所有的脂油和肝上的網子，並兩個腰子與腰子上的脂油，都燒在壇上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But the bull, and its skin, and its meat, and its dung, he burned with fire outside the camp, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有公牛，连皮带肉并粪，用火烧在营外，都是照耶和华所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有公牛，連皮帶肉並糞，用火燒在營外，都是照耶和華所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He presented the ram of the burnt offering. Aaron and his sons laid their hands on the head of the ram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他奉上燔祭的公绵羊；亚伦和他儿子按手在羊的头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他奉上燔祭的公綿羊；亞倫和他兒子按手在羊的頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He killed it; and Moses sprinkled the blood around on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就宰了公羊。摩西把血洒在坛的周围，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就宰了公羊。摩西把血灑在壇的周圍，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He cut the ram into its pieces; and Moses burned the head, and the pieces, and the fat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把羊切成块子，把头和肉块并脂油都烧了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把羊切成塊子，把頭和肉塊並脂油都燒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He washed the innards and the legs with water; and Moses burned the whole ram on the altar. It was a burnt offering for a pleasant aroma. It was an offering made by fire to the LORD, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用水洗了脏腑和腿，就把全羊烧在坛上为馨香的燔祭，是献给耶和华的火祭，都是照耶和华所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用水洗了臟腑和腿，就把全羊燒在壇上為馨香的燔祭，是獻給耶和華的火祭，都是照耶和華所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He presented the other ram, the ram of consecration. Aaron and his sons laid their hands on the head of the ram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又奉上第二只公绵羊，就是承接圣职之礼的羊；亚伦和他儿子按手在羊的头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又奉上第二隻公綿羊，就是承接聖職之禮的羊；亞倫和他兒子按手在羊的頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He killed it; and Moses took some of its blood, and put it on the tip of Aaron’s right ear, and on the thumb of his right hand, and on the great toe of his right foot.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就宰了羊。摩西把些血抹在亚伦的右耳垂上和右手的大拇指上，并右脚的大拇指上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就宰了羊。摩西把些血抹在亞倫的右耳垂上和右手的大拇指上，並右腳的大拇指上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He brought Aaron’s sons; and Moses put some of the blood on the tip of their right ear, and on the thumb of their right hand, and on the great toe of their right foot; and Moses sprinkled the blood around on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又带了亚伦的儿子来，把些血抹在他们的右耳垂上和右手的大拇指上，并右脚的大拇指上，又把血洒在坛的周围。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又帶了亞倫的兒子來，把些血抹在他們的右耳垂上和右手的大拇指上，並右腳的大拇指上，又把血灑在壇的周圍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He took the fat, the fat tail, all the fat that was on the innards, the cover of the liver, the two kidneys and their fat, and the right thigh;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "取脂油和肥尾巴，并脏上一切的脂油与肝上的网子，两个腰子和腰子上的脂油，并右腿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "取脂油和肥尾巴，並臟上一切的脂油與肝上的網子，兩個腰子和腰子上的脂油，並右腿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "and out of the basket of unleavened bread that was before the LORD, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再从耶和华面前、盛无酵饼的筐子里取出一个无酵饼，一个油饼，一个薄饼，都放在脂油和右腿上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再從耶和華面前、盛無酵餅的筐子裏取出一個無酵餅，一個油餅，一個薄餅，都放在脂油和右腿上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He put all these in Aaron’s hands and in his sons’ hands, and waved them for a wave offering before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把这一切放在亚伦的手上和他儿子的手上作摇祭，在耶和华面前摇一摇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把這一切放在亞倫的手上和他兒子的手上作搖祭，在耶和華面前搖一搖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Moses took them from their hands, and burned them on the altar on the burnt offering. They were a consecration offering for a pleasant aroma. It was an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西从他们的手上拿下来，烧在坛上的燔祭上，都是为承接圣职献给耶和华馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西從他們的手上拿下來，燒在壇上的燔祭上，都是為承接聖職獻給耶和華馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Moses took the breast, and waved it for a wave offering before the LORD. It was Moses’ portion of the ram of consecration, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西拿羊的胸作为摇祭，在耶和华面前摇一摇，是承接圣职之礼，归摩西的分，都是照耶和华所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西拿羊的胸作為搖祭，在耶和華面前搖一搖，是承接聖職之禮，歸摩西的分，都是照耶和華所吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons’ garments with him, and sanctified Aaron, his garments, and his sons, and his sons’ garments with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西取点膏油和坛上的血，弹在亚伦和他的衣服上，并他儿子和他儿子的衣服上，使他和他们的衣服一同成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西取點膏油和壇上的血，彈在亞倫和他的衣服上，並他兒子和他兒子的衣服上，使他和他們的衣服一同成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Moses said to Aaron and to his sons, “Boil the meat at the door of the Tent of Meeting, and there eat it and the bread that is in the basket of consecration, as I commanded, saying, ‘Aaron and his sons shall eat it.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对亚伦和他儿子说：「把肉煮在会幕门口，在那里吃，又吃承接圣职筐子里的饼，按我所吩咐的说：『这是亚伦和他儿子要吃的。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:31 或译：按所吩咐我的说"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對亞倫和他兒子說：「把肉煮在會幕門口，在那裏吃，又吃承接聖職筐子裏的餅，按我所吩咐的說 ：『這是亞倫和他兒子要吃的。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:31 或譯：按所吩咐我的說"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "What remains of the meat and of the bread you shall burn with fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "剩下的肉和饼，你们要用火焚烧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "剩下的肉和餅，你們要用火焚燒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "You shall not go out from the door of the Tent of Meeting for seven days, until the days of your consecration are fulfilled: for he shall consecrate you seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们七天不可出会幕的门，等到你们承接圣职的日子满了，因为主叫你们七天承接圣职。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們七天不可出會幕的門，等到你們承接聖職的日子滿了，因為主叫你們七天承接聖職。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "What has been done today, so the LORD has commanded to do, to make atonement for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "像今天所行的都是耶和华吩咐行的，为你们赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "像今天所行的都是耶和華吩咐行的，為你們贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "You shall stay at the door of the Tent of Meeting day and night seven days, and keep the LORD’s command, that you don’t die: for so I am commanded.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七天你们要昼夜住在会幕门口，遵守耶和华的吩咐，免得你们死亡，因为所吩咐我的就是这样。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七天你們要晝夜住在會幕門口，遵守耶和華的吩咐，免得你們死亡，因為所吩咐我的就是這樣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Aaron and his sons did all the things which the LORD commanded by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是亚伦和他儿子行了耶和华借着摩西所吩咐的一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是亞倫和他兒子行了耶和華藉着摩西所吩咐的一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

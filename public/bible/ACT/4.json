@@ -1,0 +1,745 @@
+{
+  "bookId": "ACT",
+  "chapter": 4,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒对百姓说话的时候，祭司们和守殿官，并撒都该人忽然来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒對百姓說話的時候，祭司們和守殿官，並撒都該人忽然來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "being upset because they taught the people and proclaimed in Jesus the resurrection from the dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他们教训百姓，本着耶稣，传说死人复活，就很烦恼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他們教訓百姓，本着耶穌，傳說死人復活，就很煩惱，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They laid hands on them, and put them in custody until the next day, for it was now evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是下手拿住他们；因为天已经晚了，就把他们押到第二天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是下手拿住他們；因為天已經晚了，就把他們押到第二天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But many of those who heard the word believed, and the number of the men came to be about five thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但听道之人有许多信的，男丁数目约到五千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但聽道之人有許多信的，男丁數目約到五千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "In the morning, their rulers, elders, and scribes were gathered together in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二天，官府、长老，和文士在耶路撒冷聚会，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二天，官府、長老，和文士在耶路撒冷聚會，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Annas the high priest was there, with Caiaphas, John, Alexander, and as many as were relatives of the high priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有大祭司亚那和该亚法、约翰、亚历山大，并大祭司的亲族都在那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有大祭司亞那和該亞法、約翰、亞歷山大，並大祭司的親族都在那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "When they had stood Peter and John in the middle of them, they inquired, “By what power, or in what name, have you done this?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫使徒站在当中，就问他们说：「你们用什么能力，奉谁的名做这事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫使徒站在當中，就問他們說：「你們用甚麼能力，奉誰的名做這事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Then Peter, filled with the Holy Spirit, said to them, “You rulers of the people and elders of Israel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时彼得被圣灵充满，对他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時彼得被聖靈充滿，對他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "if we are examined today concerning a good deed done to a crippled man, by what means this man has been healed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「治民的官府和长老啊，倘若今日因为在残疾人身上所行的善事查问我们他是怎么得了痊愈，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「治民的官府和長老啊，倘若今日因為在殘疾人身上所行的善事查問我們他是怎麼得了痊癒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "may it be known to you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead, this man stands here before you whole in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们众人和以色列百姓都当知道，站在你们面前的这人得痊愈是因你们所钉十字架、 神叫他从死里复活的拿撒勒人耶稣基督的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們眾人和以色列百姓都當知道，站在你們面前的這人得痊癒是因你們所釘十字架、上帝叫他從死裏復活的拿撒勒人耶穌基督的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He is ‘the stone which was regarded as worthless by you, the builders, which has become the head of the corner.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:11 Psalms 118:22",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他是 你们匠人所弃的石头， 已成了房角的头块石头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是 你們匠人所棄的石頭， 已成了房角的頭塊石頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除他以外，别无拯救；因为在天下人间，没有赐下别的名，我们可以靠着得救。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除他以外，別無拯救；因為在天下人間，沒有賜下別的名，我們可以靠着得救。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们见彼得、约翰的胆量，又看出他们原是没有学问的小民，就希奇，认明他们是跟过耶稣的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們見彼得、約翰的膽量，又看出他們原是沒有學問的小民，就希奇，認明他們是跟過耶穌的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Seeing the man who was healed standing with them, they could say nothing against it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又看见那治好了的人和他们一同站着，就无话可驳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又看見那治好了的人和他們一同站着，就無話可駁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是吩咐他们从公会出去，就彼此商议说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是吩咐他們從公會出去，就彼此商議說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "saying, “What shall we do to these men? Because indeed a notable miracle has been done through them, as can be plainly seen by all who dwell in Jerusalem, and we can’t deny it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我们当怎样办这两个人呢？因为他们诚然行了一件明显的神迹，凡住耶路撒冷的人都知道，我们也不能说没有。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我們當怎樣辦這兩個人呢？因為他們誠然行了一件明顯的神蹟，凡住耶路撒冷的人都知道，我們也不能說沒有。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But so that this spreads no further among the people, let’s threaten them, that from now on they don’t speak to anyone in this name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟恐这事越发传扬在民间，我们必须恐吓他们，叫他们不再奉这名对人讲论。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟恐這事越發傳揚在民間，我們必須恐嚇他們，叫他們不再奉這名對人講論。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They called them, and commanded them not to speak at all nor teach in the name of Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是叫了他们来，禁止他们总不可奉耶稣的名讲论教训人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是叫了他們來，禁止他們總不可奉耶穌的名講論教訓人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得、约翰说：「听从你们，不听从 神，这在 神面前合理不合理，你们自己酌量吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得、約翰說：「聽從你們，不聽從上帝，這在上帝面前合理不合理，你們自己酌量吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "for we can’t help telling the things which we saw and heard.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们所看见所听见的，不能不说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們所看見所聽見的，不能不說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "When they had further threatened them, they let them go, finding no way to punish them, because of the people; for everyone glorified God for that which was done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "官长为百姓的缘故，想不出法子刑罚他们，又恐吓一番，把他们释放了。这是因众人为所行的奇事都归荣耀与 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "官長為百姓的緣故，想不出法子刑罰他們，又恐嚇一番，把他們釋放了。這是因眾人為所行的奇事都歸榮耀與上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For the man on whom this miracle of healing was performed was more than forty years old.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来借着神迹医好的那人有四十多岁了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來藉着神蹟醫好的那人有四十多歲了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Being let go, they came to their own company and reported all that the chief priests and the elders had said to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人既被释放，就到会友那里去，把祭司长和长老所说的话都告诉他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人既被釋放，就到會友那裏去，把祭司長和長老所說的話都告訴他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When they heard it, they lifted up their voice to God with one accord and said, “O Lord, you are God, who made the sky, the earth, the sea, and all that is in them;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们听见了，就同心合意地高声向 神说：「主啊！你是造天、地、海，和其中万物的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們聽見了，就同心合意地高聲向上帝說：「主啊！你是造天、地、海，和其中萬物的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "who by the mouth of your servant David, said, ‘Why do the nations rage, and the peoples plot a vain thing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你曾借着圣灵，托你仆人—我们祖宗大卫的口，说： 外邦为什么争闹？ 万民为什么谋算虚妄的事？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你曾藉着聖靈，託你僕人－我們祖宗大衛的口，說： 外邦為甚麼爭鬧？ 萬民為甚麼謀算虛妄的事？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The kings of the earth take a stand, and the rulers plot together, against the Lord, and against his Christ.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:26 Christ (Greek) and Messiah (Hebrew) both mean Anointed One."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:26 Psalms 2:1-2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "世上的君王一齐起来， 臣宰也聚集， 要敌挡主， 并主的受膏者。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:26 或译：基督"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "世上的君王一齊起來， 臣宰也聚集， 要敵擋主， 並主的受膏者。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:26 或譯：基督"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“For truly, both Herod and Pontius Pilate, with the Gentiles and the people of Israel, were gathered together against your holy servant Jesus, whom you anointed,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:27 nu adds “in this city,”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律和本丢·彼拉多，外邦人和以色列民，果然在这城里聚集，要攻打你所膏的圣仆耶稣，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:27 仆：或译子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律和本丟‧彼拉多，外邦人和以色列民，果然在這城裏聚集，要攻打你所膏的聖僕耶穌，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:27 僕：或譯子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "to do whatever your hand and your counsel foreordained to happen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "成就你手和你意旨所预定必有的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "成就你手和你意旨所預定必有的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29-30",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们恐吓我们，现在求主鉴察，一面叫你仆人大放胆量讲你的道，一面伸出你的手来医治疾病，并且使神迹奇事因着你圣仆耶稣的名行出来。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:29-30 仆：或译子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們恐嚇我們，現在求主鑒察，一面叫你僕人大放膽量講你的道，一面伸出你的手來醫治疾病，並且使神蹟奇事因着你聖僕耶穌的名行出來。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:29-30 僕：或譯子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "while you stretch out your hand to heal; and that signs and wonders may be done through the name of your holy Servant Jesus.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祷告完了，聚会的地方震动，他们就都被圣灵充满，放胆讲论 神的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禱告完了，聚會的地方震動，他們就都被聖靈充滿，放膽講論上帝的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own, but they had all things in common.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那许多信的人都是一心一意的，没有一人说他的东西有一样是自己的，都是大家公用。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那許多信的人都是一心一意的，沒有一人說他的東西有一樣是自己的，都是大家公用。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "With great power, the apostles gave their testimony of the resurrection of the Lord Jesus. Great grace was on them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒大有能力，见证主耶稣复活；众人也都蒙大恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒大有能力，見證主耶穌復活；眾人也都蒙大恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds of the things that were sold,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内中也没有一个缺乏的；因为人人将田产房屋都卖了，把所卖的价银拿来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內中也沒有一個缺乏的；因為人人將田產房屋都賣了，把所賣的價銀拿來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "and laid them at the apostles’ feet; and distribution was made to each, according as anyone had need.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "放在使徒脚前，照各人所需用的，分给各人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "放在使徒腳前，照各人所需用的，分給各人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Joses, who by the apostles was also called Barnabas (which is, being interpreted, Son of Encouragement), a Levite, a man of Cyprus by race,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个利未人，生在塞浦路斯，名叫约瑟，使徒称他为巴拿巴（巴拿巴翻出来就是劝慰子）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個利未人，生在塞浦路斯，名叫約瑟，使徒稱他為巴拿巴（巴拿巴翻出來就是勸慰子）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "having a field, sold it and brought the money and laid it at the apostles’ feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他有田地，也卖了，把价银拿来，放在使徒脚前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他有田地，也賣了，把價銀拿來，放在使徒腳前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

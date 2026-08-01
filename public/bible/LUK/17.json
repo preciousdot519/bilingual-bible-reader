@@ -1,0 +1,700 @@
+{
+  "bookId": "LUK",
+  "chapter": 17,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He said to the disciples, “Itis impossible that no occasions of stumbling should come, but woe to him through whom they come!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对门徒说：「绊倒人的事是免不了的；但那绊倒人的有祸了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對門徒說：「絆倒人的事是免不了的；但那絆倒人的有禍了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Itwould be better for him if a millstone were hung around his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是把磨石拴在这人的颈项上，丢在海里，还强如他把这小子里的一个绊倒了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是把磨石拴在這人的頸項上，丟在海裏，還強如他把這小子裏的一個絆倒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Becareful. If your brother sins against you, rebuke him. If he repents, forgive him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要谨慎！若是你的弟兄得罪你，就劝戒他；他若懊悔，就饶恕他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要謹慎！若是你的弟兄得罪你，就勸戒他；他若懊悔，就饒恕他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Ifhe sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若他一天七次得罪你，又七次回转，说：『我懊悔了』，你总要饶恕他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若他一天七次得罪你，又七次回轉，說：『我懊悔了』，你總要饒恕他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The apostles said to the Lord, “Increase our faith.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒对主说：「求主加增我们的信心。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒對主說：「求主加增我們的信心。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The Lord said, “Ifyou had faith like a grain of mustard seed, you would tell this sycamore tree, ‘Be uprooted and be planted in the sea,’ and it would obey you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主说：「你们若有信心像一粒芥菜种，就是对这棵桑树说：『你要拔起根来，栽在海里』，它也必听从你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主說：「你們若有信心像一粒芥菜種，就是對這棵桑樹說：『你要拔起根來，栽在海裏』，它也必聽從你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Butwho is there among you, having a servant plowing or keeping sheep, that will say when he comes in from the field, ‘Come immediately and sit down at the table’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们谁有仆人耕地或是放羊，从田里回来，就对他说：『你快来坐下吃饭』呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們誰有僕人耕地或是放羊，從田裏回來，就對他說：『你快來坐下吃飯』呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Wouldn’t herather tell him, ‘Prepare my supper, clothe yourself properly, and serve me while I eat and drink. Afterward you shall eat and drink’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂不对他说：『你给我预备晚饭，束上带子伺候我，等我吃喝完了，你才可以吃喝』吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈不對他說：『你給我預備晚飯，束上帶子伺候我，等我吃喝完了，你才可以吃喝』嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Doeshe thank that servant because he did the things that were commanded? I think not.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人照所吩咐的去做，主人还谢谢他吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人照所吩咐的去做，主人還謝謝他嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Evenso you also, when you have done all the things that are commanded you, say, ‘We are unworthy servants. We have done our duty.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你们做完了一切所吩咐的，只当说：『我们是无用的仆人，所做的本是我们应分做的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你們做完了一切所吩咐的，只當說：『我們是無用的僕人，所做的本是我們應分做的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "As he was on his way to Jerusalem, he was passing along the borders of Samaria and Galilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣往耶路撒冷去，经过撒马利亚和加利利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌往耶路撒冷去，經過撒馬利亞和加利利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "As he entered into a certain village, ten men who were lepers met him, who stood at a distance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "进入一个村子，有十个长大麻风的，迎面而来，远远地站着，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "進入一個村子，有十個長大痲瘋的，迎面而來，遠遠地站着，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They lifted up their voices, saying, “Jesus, Master, have mercy on us!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "高声说：「耶稣，夫子，可怜我们吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "高聲說：「耶穌，夫子，可憐我們吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When he saw them, he said to them, “Goand show yourselves to the priests.”As they went, they were cleansed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见，就对他们说：「你们去把身体给祭司察看。」他们去的时候就洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見，就對他們說：「你們去把身體給祭司察看。」他們去的時候就潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "One of them, when he saw that he was healed, turned back, glorifying God with a loud voice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内中有一个见自己已经好了，就回来大声归荣耀与 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內中有一個見自己已經好了，就回來大聲歸榮耀與上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He fell on his face at Jesus’ feet, giving him thanks; and he was a Samaritan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又俯伏在耶稣脚前感谢他；这人是撒马利亚人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又俯伏在耶穌腳前感謝他；這人是撒馬利亞人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jesus answered, “Weren’tthe ten cleansed? But where are the nine?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「洁净了的不是十个人吗？那九个在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「潔淨了的不是十個人嗎？那九個在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Werethere none found who returned to give glory to God, except this foreigner?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除了这外族人，再没有别人回来归荣耀与 神吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除了這外族人，再沒有別人回來歸榮耀與上帝嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Then he said to him, “Getup, and go your way. Your faith has healed you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对那人说：「起来，走吧！你的信救了你了。」 （太24·23—28，37—41）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對那人說：「起來，走吧！你的信救了你了。 」 （太24‧23－28，37－41）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Being asked by the Pharisees when God’s Kingdom would come, he answered them, “God’s Kingdom doesn’t come with observation;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人问：「 神的国几时来到？」耶稣回答说：「 神的国来到不是眼所能见的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人問：「上帝的國幾時來到？」耶穌回答說：「上帝的國來到不是眼所能見的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "neitherwill they say, ‘Look, here!’ or, ‘Look, there!’ for behold, God’s Kingdom is within you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人也不得说：『看哪，在这里！看哪，在那里！』因为 神的国就在你们心里。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:21 心里：或译中间"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人也不得說：『看哪，在這裏！看哪，在那裏！』因為上帝的國就在你們心裏。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:21 心裏：或譯中間"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He said to the disciples, “Thedays will come when you will desire to see one of the days of the Son of Man, and you will not see it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又对门徒说：「日子将到，你们巴不得看见人子的一个日子，却不得看见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又對門徒說：「日子將到，你們巴不得看見人子的一個日子，卻不得看見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Theywill tell you, ‘Look, here!’ or ‘Look, there!’ Don’t go away or follow after them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人将要对你们说：『看哪，在那里！看哪，在这里！』你们不要出去，也不要跟随他们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人將要對你們說：『看哪，在那裏！看哪，在這裏！』你們不要出去，也不要跟隨他們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "foras the lightning, when it flashes out of one part under the sky, shines to another part under the sky, so will the Son of Man be in his day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人子在他降临的日子，好像闪电从天这边一闪直照到天那边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人子在他降臨的日子，好像閃電從天這邊一閃直照到天那邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Butfirst, he must suffer many things and be rejected by this generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是他必须先受许多苦，又被这世代弃绝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是他必須先受許多苦，又被這世代棄絕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Asit was in the days of Noah, even so it will also be in the days of the Son of Man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挪亚的日子怎样，人子的日子也要怎样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挪亞的日子怎樣，人子的日子也要怎樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Theyate, they drank, they married, and they were given in marriage until the day that Noah entered into the ship, and the flood came and destroyed them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时候的人又吃又喝，又娶又嫁，到挪亚进方舟的那日，洪水就来，把他们全都灭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時候的人又吃又喝，又娶又嫁，到挪亞進方舟的那日，洪水就來，把他們全都滅了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Likewise, even as it was in the days of Lot: they ate, they drank, they bought, they sold, they planted, they built;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又好像罗得的日子；人又吃又喝，又买又卖，又耕种又盖造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又好像羅得的日子；人又吃又喝，又買又賣，又耕種又蓋造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "butin the day that Lot went out from Sodom, it rained fire and sulfur from the sky and destroyed them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到罗得出所多玛的那日，就有火与硫磺从天上降下来，把他们全都灭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到羅得出所多瑪的那日，就有火與硫磺從天上降下來，把他們全都滅了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Itwill be the same way in the day that the Son of Man is revealed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人子显现的日子也要这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人子顯現的日子也要這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Inthat day, he who will be on the housetop and his goods in the house, let him not go down to take them away. Let him who is in the field likewise not turn back.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，人在房上，器具在屋里，不要下来拿；人在田里，也不要回家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，人在房上，器具在屋裏，不要下來拿；人在田裏，也不要回家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "RememberLot’s wife!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要回想罗得的妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要回想羅得的妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Whoeverseeks to save his life loses it, but whoever loses his life preserves it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡想要保全生命的，必丧掉生命；凡丧掉生命的，必救活生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡想要保全生命的，必喪掉生命；凡喪掉生命的，必救活生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Itell you, in that night there will be two people in one bed. One will be taken and the other will be left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们说，当那一夜，两个人在一个床上，要取去一个，撇下一个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們說，當那一夜，兩個人在一個床上，要取去一個，撇下一個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Therewill be two grinding grain together. One will be taken and the other will be left.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个女人一同推磨，要取去一个，撇下一个。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:35 有古卷加：\\+fv 36\\+fv* 两个人在田里，要取去一个，撇下一个。"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個女人一同推磨，要取去一個，撇下一個。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 17:35 有古卷加： 36 * 兩個人在田裏，要取去一個，撇下一個。"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "17:36 Some Greek manuscripts add: “Two will be in the field: the one taken, and the other left.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "They, answering, asked him, “Where, Lord?” He said to them, “Wherethe body is, there the vultures will also be gathered together.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒说：「主啊，在哪里有这事呢？」耶稣说：「尸首在哪里，鹰也必聚在那里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒說：「主啊，在哪裏有這事呢？」耶穌說：「屍首在哪裏，鷹也必聚在那裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

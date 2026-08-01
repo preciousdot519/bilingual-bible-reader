@@ -1,0 +1,592 @@
+{
+  "bookId": "GAL",
+  "chapter": 3,
+  "bookEnglish": "Galatians",
+  "bookChineseSimplified": "加拉太书",
+  "bookChineseTraditional": "加拉太書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无知的加拉太人哪，耶稣基督钉十字架，已经活画在你们眼前，谁又迷惑了你们呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無知的加拉太人哪，耶穌基督釘十字架，已經活畫在你們眼前，誰又迷惑了你們呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I just want to learn this from you: Did you receive the Spirit by the works of the law, or by hearing of faith?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我只要问你们这一件：你们受了圣灵，是因行律法呢？是因听信福音呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我只要問你們這一件：你們受了聖靈，是因行律法呢？是因聽信福音呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Are you so foolish? Having begun in the Spirit, are you now completed in the flesh?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既靠圣灵入门，如今还靠肉身成全吗？你们是这样的无知吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既靠聖靈入門，如今還靠肉身成全嗎？你們是這樣的無知嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Did you suffer so many things in vain, if it is indeed in vain?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们受苦如此之多，都是徒然的吗？难道果真是徒然的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們受苦如此之多，都是徒然的嗎？難道果真是徒然的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He therefore who supplies the Spirit to you and does miracles among you, does he do it by the works of the law, or by hearing of faith?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那赐给你们圣灵，又在你们中间行异能的，是因你们行律法呢？是因你们听信福音呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那賜給你們聖靈，又在你們中間行異能的，是因你們行律法呢？是因你們聽信福音呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Even so, Abraham “believed God, and it was counted to him for righteousness.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:6 Genesis 15:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "正如「亚伯拉罕信 神，这就算为他的义」。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正如「亞伯拉罕信上帝，這就算為他的義」。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Know therefore that those who are of faith are children of Abraham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们要知道：那以信为本的人，就是亚伯拉罕的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們要知道：那以信為本的人，就是亞伯拉罕的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:8 Genesis 12:3; 18:18; 22:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "并且圣经既然预先看明， 神要叫外邦人因信称义，就早已传福音给亚伯拉罕，说：「万国都必因你得福。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且聖經既然預先看明，上帝要叫外邦人因信稱義，就早已傳福音給亞伯拉罕，說：「萬國都必因你得福。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So then, those who are of faith are blessed with the faithful Abraham.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可见那以信为本的人和有信心的亚伯拉罕一同得福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可見那以信為本的人和有信心的亞伯拉罕一同得福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For as many as are of the works of the law are under a curse. For it is written, “Cursed is everyone who doesn’t continue in all things that are written in the book of the law, to do them.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:10 Deuteronomy 27:26",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "凡以行律法为本的，都是被咒诅的；因为经上记着：「凡不常照律法书上所记一切之事去行的，就被咒诅。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡以行律法為本的，都是被咒詛的；因為經上記着：「凡不常照律法書上所記一切之事去行的，就被咒詛。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now that no man is justified by the law before God is evident, for, “The righteous will live by faith.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:11 Habakkuk 2:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "没有一个人靠着律法在 神面前称义，这是明显的；因为经上说：「义人必因信得生。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有一個人靠着律法在上帝面前稱義，這是明顯的；因為經上說：「義人必因信得生。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The law is not of faith, but, “The man who does them will live by them.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:12 Leviticus 18:5",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "律法原不本乎信，只说：「行这些事的，就必因此活着。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法原不本乎信，只說：「行這些事的，就必因此活着。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Christ redeemed us from the curse of the law, having become a curse for us. For it is written, “Cursed is everyone who hangs on a tree,”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:13 Deuteronomy 21:23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "基督既为我们受了咒诅，就赎出我们脱离律法的咒诅；因为经上记着：「凡挂在木头上都是被咒诅的。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:13 原文是成"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督既為我們受了咒詛，就贖出我們脫離律法的咒詛；因為經上記着：「凡掛在木頭上都是被咒詛的。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:13 原文是成"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "that the blessing of Abraham might come on the Gentiles through Christ Jesus, that we might receive the promise of the Spirit through faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这便叫亚伯拉罕的福，因基督耶稣可以临到外邦人，使我们因信得着所应许的圣灵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這便叫亞伯拉罕的福，因基督耶穌可以臨到外邦人，使我們因信得着所應許的聖靈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Brothers, speaking of human terms, though it is only a man’s covenant, yet when it has been confirmed, no one makes it void or adds to it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我且照着人的常话说：虽然是人的文约，若已经立定了，就没有能废弃或加增的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我且照着人的常話說：雖然是人的文約，若已經立定了，就沒有能廢棄或加增的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now the promises were spoken to Abraham and to his offspring. He doesn’t say, “To descendants”, as of many, but as of one, “To your offspring”, which is Christ.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:16 or, seed"
+          },
+          {
+            "id": "f2",
+            "text": "3:16 or, seeds"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:16 Genesis 12:7; 13:15; 24:7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所应许的原是向亚伯拉罕和他子孙说的。 神并不是说「众子孙」，指着许多人，乃是说「你那一个子孙」，指着一个人，就是基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所應許的原是向亞伯拉罕和他子孫說的。上帝並不是說「眾子孫」，指着許多人，乃是說「你那一個子孫」，指着一個人，就是基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Now I say this: A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是这么说， 神预先所立的约，不能被那四百三十年以后的律法废掉，叫应许归于虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是這麼說，上帝預先所立的約，不能被那四百三十年以後的律法廢掉，叫應許歸於虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For if the inheritance is of the law, it is no more of promise; but God has granted it to Abraham by promise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为承受产业，若本乎律法，就不本乎应许；但 神是凭着应许把产业赐给亚伯拉罕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為承受產業，若本乎律法，就不本乎應許；但上帝是憑着應許把產業賜給亞伯拉罕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Then why is there the law? It was added because of transgressions, until the offspring should come to whom the promise has been made. It was ordained through angels by the hand of a mediator.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样说来，律法是为什么有的呢？原是为过犯添上的，等候那蒙应许的子孙来到，并且是借天使经中保之手设立的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣說來，律法是為甚麼有的呢？原是為過犯添上的，等候那蒙應許的子孫來到，並且是藉天使經中保之手設立的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Now a mediator is not between one, but God is one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但中保本不是为一面作的； 神却是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但中保本不是為一面作的；上帝卻是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Is the law then against the promises of God? Certainly not! For if there had been a law given which could make alive, most certainly righteousness would have been of the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，律法是与 神的应许反对吗？断乎不是！若曾传一个能叫人得生的律法，义就诚然本乎律法了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，律法是與上帝的應許反對嗎？斷乎不是！若曾傳一個能叫人得生的律法，義就誠然本乎律法了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But the Scripture imprisoned all things under sin, that the promise by faith in Jesus Christ might be given to those who believe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但圣经把众人都圈在罪里，使所应许的福因信耶稣基督，归给那信的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但聖經把眾人都圈在罪裏，使所應許的福因信耶穌基督，歸給那信的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But before faith came, we were kept in custody under the law, confined for the faith which should afterwards be revealed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这因信得救的理还未来以先，我们被看守在律法之下，直圈到那将来的真道显明出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這因信得救的理還未來以先，我們被看守在律法之下，直圈到那將來的真道顯明出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "So that the law has become our tutor to bring us to Christ, that we might be justified by faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，律法是我们训蒙的师傅，引我们到基督那里，使我们因信称义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，律法是我們訓蒙的師傅，引我們到基督那裏，使我們因信稱義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But now that faith has come, we are no longer under a tutor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这因信得救的理既然来到，我们从此就不在师傅的手下了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這因信得救的理既然來到，我們從此就不在師傅的手下了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For you are all children of God, through faith in Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们因信基督耶稣都是 神的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們因信基督耶穌都是上帝的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For as many of you as were baptized into Christ have put on Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们受洗归入基督的都是披戴基督了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們受洗歸入基督的都是披戴基督了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并不分犹太人、希腊人，自主的、为奴的，或男或女，因为你们在基督耶稣里都成为一了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並不分猶太人、希臘人，自主的、為奴的，或男或女，因為你們在基督耶穌裏都成為一了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "If you are Christ’s, then you are Abraham’s offspring and heirs according to promise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既属乎基督，就是亚伯拉罕的后裔，是照着应许承受产业的了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既屬乎基督，就是亞伯拉罕的後裔，是照着應許承受產業的了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

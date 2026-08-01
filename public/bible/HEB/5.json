@@ -1,0 +1,283 @@
+{
+  "bookId": "HEB",
+  "chapter": 5,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡从人间挑选的大祭司，是奉派替人办理属 神的事，为要献上礼物和赎罪祭。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:1 或译：要为罪献上礼物和祭物"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡從人間挑選的大祭司，是奉派替人辦理屬上帝的事，為要獻上禮物和贖罪祭。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:1 或譯：要為罪獻上禮物和祭物"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他能体谅那愚蒙的和失迷的人，因为他自己也是被软弱所困。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他能體諒那愚蒙的和失迷的人，因為他自己也是被軟弱所困。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Because of this, he must offer sacrifices for sins for the people, as well as for himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，他理当为百姓和自己献祭赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，他理當為百姓和自己獻祭贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Nobody takes this honor on himself, but he is called by God, just like Aaron was.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这大祭司的尊荣，没有人自取。惟要蒙 神所召，像亚伦一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這大祭司的尊榮，沒有人自取。惟要蒙上帝所召，像亞倫一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "So also Christ didn’t glorify himself to be made a high priest, but it was he who said to him, “You are my Son. Today I have become your father.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:5 Psalms 2:7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "如此，基督也不是自取荣耀作大祭司，乃是在乎向他说「你是我的儿子，我今日生你」的那一位；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此，基督也不是自取榮耀作大祭司，乃是在乎向他說「你是我的兒子，我今日生你」的那一位；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "As he says also in another place, “You are a priest forever, after the order of Melchizedek.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:6 Psalms 110:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "就如经上又有一处说：「你是照着麦基洗德的等次永远为祭司。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如經上又有一處說：「你是照着麥基洗德的等次永遠為祭司。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He, in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基督在肉体的时候，既大声哀哭，流泪祷告，恳求那能救他免死的主，就因他的虔诚蒙了应允。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督在肉體的時候，既大聲哀哭，流淚禱告，懇求那能救他免死的主，就因他的虔誠蒙了應允。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "though he was a Son, yet learned obedience by the things which he suffered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他虽然为儿子，还是因所受的苦难学了顺从。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他雖然為兒子，還是因所受的苦難學了順從。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Having been made perfect, he became to all of those who obey him the author of eternal salvation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他既得以完全，就为凡顺从他的人成了永远得救的根源，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他既得以完全，就為凡順從他的人成了永遠得救的根源，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "named by God a high priest after the order of Melchizedek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并蒙 神照着麦基洗德的等次称他为大祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並蒙上帝照着麥基洗德的等次稱他為大祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "About him we have many words to say, and hard to interpret, seeing you have become dull of hearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到麦基洗德，我们有好些话，并且难以解明，因为你们听不进去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到麥基洗德，我們有好些話，並且難以解明，因為你們聽不進去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For although by this time you should be teachers, you again need to have someone teach you the rudiments of the first principles of the revelations of God. You have come to need milk, and not solid food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看你们学习的工夫，本该作师傅，谁知还得有人将 神圣言小学的开端另教导你们，并且成了那必须吃奶、不能吃干粮的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看你們學習的工夫，本該作師傅，誰知還得有人將上帝聖言小學的開端另教導你們，並且成了那必須吃奶、不能吃乾糧的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For everyone who lives on milk is not experienced in the word of righteousness, for he is a baby.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡只能吃奶的都不熟练仁义的道理，因为他是婴孩；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡只能吃奶的都不熟練仁義的道理，因為他是嬰孩；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟独长大成人的才能吃干粮；他们的心窍习练得通达，就能分辨好歹了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟獨長大成人的才能吃乾糧；他們的心竅習練得通達，就能分辨好歹了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

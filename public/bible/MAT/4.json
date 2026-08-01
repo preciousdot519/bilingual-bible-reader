@@ -1,0 +1,519 @@
+{
+  "bookId": "MAT",
+  "chapter": 4,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，耶稣被圣灵引到旷野，受魔鬼的试探。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，耶穌被聖靈引到曠野，受魔鬼的試探。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When he had fasted forty days and forty nights, he was hungry afterward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他禁食四十昼夜，后来就饿了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他禁食四十晝夜，後來就餓了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The tempter came and said to him, “If you are the Son of God, command that these stones become bread.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那试探人的进前来，对他说：「你若是 神的儿子，可以吩咐这些石头变成食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那試探人的進前來，對他說：「你若是上帝的兒子，可以吩咐這些石頭變成食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But he answered, “Itis written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:4 Deuteronomy 8:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣却回答说：「经上记着说： 人活着，不是单靠食物， 乃是靠 神口里所出的一切话。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌卻回答說：「經上記着說： 人活着，不是單靠食物， 乃是靠上帝口裏所出的一切話。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the devil took him into the holy city. He set him on the pinnacle of the temple,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼就带他进了圣城，叫他站在殿顶上，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:5 顶：原文是翅"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼就帶他進了聖城，叫他站在殿頂上，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:5 頂：原文是翅"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:6 Psalms 91:11-12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "对他说：「你若是 神的儿子，可以跳下去，因为经上记着说： 主要为你吩咐他的使者 用手托着你， 免得你的脚碰在石头上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「你若是上帝的兒子，可以跳下去，因為經上記着說： 主要為你吩咐他的使者 用手托着你， 免得你的腳碰在石頭上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Jesus said to him, “Again, it is written, ‘You shall not test the Lord, your God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:7 Deuteronomy 6:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「经上又记着说：『不可试探主—你的 神。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「經上又記着說：『不可試探主－你的上帝。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼又带他上了一座最高的山，将世上的万国与万国的荣华都指给他看，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼又帶他上了一座最高的山，將世上的萬國與萬國的榮華都指給他看，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said to him, “I will give you all of these things, if you will fall down and worship me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「你若俯伏拜我，我就把这一切都赐给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「你若俯伏拜我，我就把這一切都賜給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then Jesus said to him, “Getbehind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:10 TR and NU read “Go away” instead of “Get behind me”"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:10 Deuteronomy 6:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「撒但，退去吧！因为经上记着说： 当拜主—你的 神， 单要事奉他。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:10 就是抵挡的意思，乃魔鬼的别名"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「撒但，退去吧！因為經上記着說： 當拜主－你的上帝， 單要事奉他。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:10 就是抵擋的意思，乃魔鬼的別名"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then the devil left him, and behold, angels came and served him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，魔鬼离了耶稣，有天使来伺候他。 （可1·14—15；路4·14—15）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，魔鬼離了耶穌，有天使來伺候他。 （可1‧14－15；路4‧14－15）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now when Jesus heard that John was delivered up, he withdrew into Galilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣听见约翰下了监，就退到加利利去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌聽見約翰下了監，就退到加利利去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后又离开拿撒勒，往迦百农去，就住在那里。那地方靠海，在西布伦和拿弗他利的边界上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後又離開拿撒勒，往迦百農去，就住在那裏。那地方靠海，在西布倫和拿弗他利的邊界上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是要应验先知以赛亚的话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是要應驗先知以賽亞的話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说： 西布伦地，拿弗他利地， 就是沿海的路，约旦河外， 外邦人的加利利地—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說： 西布倫地，拿弗他利地， 就是沿海的路，約旦河外， 外邦人的加利利地－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the people who sat in darkness saw a great light; to those who sat in the region and shadow of death, to them light has dawned.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:16 Isaiah 9:1-2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "那坐在黑暗里的百姓看见了大光； 坐在死荫之地的人有光发现照着他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那坐在黑暗裏的百姓看見了大光； 坐在死蔭之地的人有光發現照着他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "From that time, Jesus began to preach, and to say, “Repent! For the Kingdom of Heaven is at hand.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那时候，耶稣就传起道来，说：「天国近了，你们应当悔改！」 （可1·16—20；路5·1—11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那時候，耶穌就傳起道來，說：「天國近了，你們應當悔改！」 （可1‧16－20；路5‧1－11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Walking by the sea of Galilee, he saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:18 TR reads “Jesus” instead of “he”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣在加利利海边行走，看见弟兄二人，就是那称呼彼得的西门和他兄弟安得烈，在海里撒网；他们本是打鱼的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌在加利利海邊行走，看見弟兄二人，就是那稱呼彼得的西門和他兄弟安得烈，在海裏撒網；他們本是打魚的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He said to them, “Comeafter me, and I will make you fishers for men.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「来跟从我，我要叫你们得人如得鱼一样。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「來跟從我，我要叫你們得人如得魚一樣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They immediately left their nets and followed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就立刻舍了网，跟从了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就立刻捨了網，跟從了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Going on from there, he saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里往前走，又看见弟兄二人，就是西庇太的儿子雅各和他兄弟约翰，同他们的父亲西庇太在船上补网，耶稣就招呼他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏往前走，又看見弟兄二人，就是西庇太的兒子雅各和他兄弟約翰，同他們的父親西庇太在船上補網，耶穌就招呼他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They immediately left the boat and their father, and followed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们立刻舍了船，别了父亲，跟从了耶稣。 （路6·17—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們立刻捨了船，別了父親，跟從了耶穌。 （路6‧17－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Jesus went about in all Galilee, teaching in their synagogues, preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣走遍加利利，在各会堂里教训人，传天国的福音，医治百姓各样的病症。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌走遍加利利，在各會堂裏教訓人，傳天國的福音，醫治百姓各樣的病症。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的名声就传遍了叙利亚。那里的人把一切害病的，就是害各样疾病、各样疼痛的和被鬼附的、癫痫的、瘫痪的，都带了来，耶稣就治好了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的名聲就傳遍了敘利亞。那裏的人把一切害病的，就是害各樣疾病、各樣疼痛的和被鬼附的、癲癇的、癱瘓的，都帶了來，耶穌就治好了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Great multitudes from Galilee, Decapolis, Jerusalem, Judea, and from beyond the Jordan followed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，有许多人从加利利、低加坡里、耶路撒冷、犹太、约旦河外来跟着他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，有許多人從加利利、低加坡里、耶路撒冷、猶太、約旦河外來跟着他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "bookId": "NUM",
+  "chapter": 13,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Send men, that they may spy out the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers, you shall send a man, every one a prince among them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你打发人去窥探我所赐给以色列人的迦南地，他们每支派中要打发一个人，都要作首领的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你打發人去窺探我所賜給以色列人的迦南地，他們每支派中要打發一個人，都要作首領的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Moses sent them from the wilderness of Paran according to the commandment of the LORD. All of them were men who were heads of the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西就照耶和华的吩咐从巴兰的旷野打发他们去；他们都是以色列人的族长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西就照耶和華的吩咐從巴蘭的曠野打發他們去；他們都是以色列人的族長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "These were their names: Of the tribe of Reuben, Shammua the son of Zaccur.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的名字：属吕便支派的有撒刻的儿子沙母亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的名字：屬呂便支派的有撒刻的兒子沙母亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Of the tribe of Simeon, Shaphat the son of Hori.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属西缅支派的有何利的儿子沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬西緬支派的有何利的兒子沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Of the tribe of Judah, Caleb the son of Jephunneh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属犹大支派的有耶孚尼的儿子迦勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬猶大支派的有耶孚尼的兒子迦勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Of the tribe of Issachar, Igal the son of Joseph.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属以萨迦支派的有约色的儿子以迦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬以薩迦支派的有約色的兒子以迦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Of the tribe of Ephraim, Hoshea the son of Nun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属以法莲支派的有嫩的儿子何希阿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬以法蓮支派的有嫩的兒子何希阿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Of the tribe of Benjamin, Palti the son of Raphu.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属便雅悯支派的有拉孚的儿子帕提。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬便雅憫支派的有拉孚的兒子帕提。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属西布伦支派的有梭底的儿子迦叠。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬西布倫支派的有梭底的兒子迦疊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Of the tribe of Joseph, of the tribe of Manasseh, Gaddi the son of Susi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约瑟的子孙，属玛拿西支派的有稣西的儿子迦底。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約瑟的子孫，屬瑪拿西支派的有穌西的兒子迦底。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Of the tribe of Dan, Ammiel the son of Gemalli.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属但支派的有基玛利的儿子亚米利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬但支派的有基瑪利的兒子亞米利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Of the tribe of Asher, Sethur the son of Michael.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属亚设支派的有米迦勒的儿子西帖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬亞設支派的有米迦勒的兒子西帖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属拿弗他利支派的有缚西的儿子拿比。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬拿弗他利支派的有縛西的兒子拿比。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Of the tribe of Gad, Geuel the son of Machi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属迦得支派的有玛基的儿子臼利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬迦得支派的有瑪基的兒子臼利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "These are the names of the men who Moses sent to spy out the land. Moses called Hoshea the son of Nun Joshua.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是摩西所打发、窥探那地之人的名字。摩西就称嫩的儿子何希阿为约书亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是摩西所打發、窺探那地之人的名字。摩西就稱嫩的兒子何希阿為約書亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Moses sent them to spy out the land of Canaan, and said to them, “Go up this way by the South, and go up into the hill country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西打发他们去窥探迦南地，说：「你们从南地上山地去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西打發他們去窺探迦南地，說：「你們從南地上山地去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "See the land, what it is; and the people who dwell therein, whether they are strong or weak, whether they are few or many;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看那地如何，其中所住的民是强是弱，是多是少，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看那地如何，其中所住的民是強是弱，是多是少，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and what the land is that they dwell in, whether it is good or bad; and what cities they are that they dwell in, whether in camps, or in strongholds;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所住之地是好是歹，所住之处是营盘是坚城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所住之地是好是歹，所住之處是營盤是堅城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "and what the land is, whether it is fertile or poor, whether there is wood therein, or not. Be courageous, and bring some of the fruit of the land.” Now the time was the time of the first-ripe grapes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又看那地土是肥美是瘠薄，其中有树木没有。你们要放开胆量，把那地的果子带些来。」（那时正是葡萄初熟的时候。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又看那地土是肥美是瘠薄，其中有樹木沒有。你們要放開膽量，把那地的果子帶些來。」（那時正是葡萄初熟的時候。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "So they went up, and spied out the land from the wilderness of Zin to Rehob, to the entrance of Hamath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们上去窥探那地，从寻的旷野到利合，直到哈马口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們上去窺探那地，從尋的曠野到利合，直到哈馬口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They went up by the South, and came to Hebron; and Ahiman, Sheshai, and Talmai, the children of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从南地上去，到了希伯 ；在那里有亚衲族人亚希幔、示筛、挞买。（原来希伯 城被建造比埃及的锁安城早七年。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從南地上去，到了希伯崙；在那裏有亞衲族人亞希幔、示篩、撻買。（原來希伯崙城被建造比埃及的鎖安城早七年。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They came to the valley of Eshcol, and cut down from there a branch with one cluster of grapes, and they bore it on a staff between two. They also brought some of the pomegranates and figs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们到了以实各谷，从那里砍了葡萄树的一枝，上头有一挂葡萄，两个人用杠抬着，又带了些石榴和无花果来。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們到了以實各谷，從那裏砍了葡萄樹的一枝，上頭有一掛葡萄，兩個人用槓抬着，又帶了些石榴和無花果來。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "That place was called the valley of Eshcol, because of the cluster which the children of Israel cut down from there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为以色列人从那里砍来的那挂葡萄，所以那地方叫做以实各谷。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為以色列人從那裏砍來的那掛葡萄，所以那地方叫做以實各谷。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They returned from spying out the land at the end of forty days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了四十天，他们窥探那地才回来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了四十天，他們窺探那地才回來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They went and came to Moses, to Aaron, and to all the congregation of the children of Israel, to the wilderness of Paran, to Kadesh; and brought back word to them and to all the congregation. They showed them the fruit of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了巴兰旷野的加低斯，见摩西、亚伦，并以色列的全会众，回报摩西、亚伦，并全会众，又把那地的果子给他们看；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了巴蘭曠野的加低斯，見摩西、亞倫，並以色列的全會眾，回報摩西、亞倫，並全會眾，又把那地的果子給他們看；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They told him, and said, “We came to the land where you sent us. Surely it flows with milk and honey, and this is its fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又告诉摩西说：「我们到了你所打发我们去的那地，果然是流奶与蜜之地；这就是那地的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又告訴摩西說：「我們到了你所打發我們去的那地，果然是流奶與蜜之地；這就是那地的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "However, the people who dwell in the land are strong, and the cities are fortified and very large. Moreover, we saw the children of Anak there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而住那地的民强壮，城邑也坚固宽大，并且我们在那里看见了亚衲族的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而住那地的民強壯，城邑也堅固寬大，並且我們在那裏看見了亞衲族的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Amalek dwells in the land of the South. The Hittite, the Jebusite, and the Amorite dwell in the hill country. The Canaanite dwells by the sea, and along the side of the Jordan.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚玛力人住在南地；赫人、耶布斯人、亚摩利人住在山地；迦南人住在海边并约旦河旁。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞瑪力人住在南地；赫人、耶布斯人、亞摩利人住在山地；迦南人住在海邊並約旦河旁。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Caleb stilled the people before Moses, and said, “Let’s go up at once, and possess it; for we are well able to overcome it!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦勒在摩西面前安抚百姓，说：「我们立刻上去得那地吧！我们足能得胜。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦勒在摩西面前安撫百姓，說：「我們立刻上去得那地吧！我們足能得勝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "But the men who went up with him said, “We aren’t able to go up against the people; for they are stronger than we.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那些和他同去的人说：「我们不能上去攻击那民，因为他们比我们强壮。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那些和他同去的人說：「我們不能上去攻擊那民，因為他們比我們強壯。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They brought up an evil report of the land which they had spied out to the children of Israel, saying, “The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people who we saw in it are men of great stature.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "探子中有人论到所窥探之地，向以色列人报恶信，说：「我们所窥探、经过之地是吞吃居民之地，我们在那里所看见的人民都身量高大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "探子中有人論到所窺探之地，向以色列人報惡信，說：「我們所窺探、經過之地是吞吃居民之地，我們在那裏所看見的人民都身量高大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "13:33 or, giants"
+          },
+          {
+            "id": "f2",
+            "text": "13:33 or, giants"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们在那里看见亚衲族人，就是伟人；他们是伟人的后裔。据我们看，自己就如蚱蜢一样；据他们看，我们也是如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們在那裏看見亞衲族人，就是偉人；他們是偉人的後裔。據我們看，自己就如蚱蜢一樣；據他們看，我們也是如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

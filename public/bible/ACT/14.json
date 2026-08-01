@@ -1,0 +1,523 @@
+{
+  "bookId": "ACT",
+  "chapter": 14,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In Iconium, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人在以哥念同进犹太人的会堂，在那里讲的，叫犹太人和希腊人信的很多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人在以哥念同進猶太人的會堂，在那裏講的，叫猶太人和希臘人信的很多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But the disbelieving Jews stirred up and embittered the souls of the Gentiles against the brothers.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:2 or, disobedient"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那不顺从的犹太人耸动外邦人，叫他们心里恼恨弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那不順從的猶太人聳動外邦人，叫他們心裏惱恨弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Therefore they stayed there a long time, speaking boldly in the Lord, who testified to the word of his grace, granting signs and wonders to be done by their hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人在那里住了多日，倚靠主放胆讲道，主借他们的手施行神迹奇事，证明他的恩道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人在那裏住了多日，倚靠主放膽講道，主藉他們的手施行神蹟奇事，證明他的恩道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But the multitude of the city was divided. Part sided with the Jews and part with the apostles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城里的众人就分了党，有附从犹太人的，有附从使徒的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城裏的眾人就分了黨，有附從猶太人的，有附從使徒的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When some of both the Gentiles and the Jews, with their rulers, made a violent attempt to mistreat and stone them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，外邦人和犹太人，并他们的官长，一齐拥上来，要凌辱使徒，用石头打他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，外邦人和猶太人，並他們的官長，一齊擁上來，要凌辱使徒，用石頭打他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "they became aware of it and fled to the cities of Lycaonia, Lystra, Derbe, and the surrounding region.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒知道了，就逃往吕高尼的路司得、特庇两个城和周围地方去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒知道了，就逃往呂高尼的路司得、特庇兩個城和周圍地方去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "There they preached the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里传福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏傳福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "At Lystra a certain man sat, impotent in his feet, a cripple from his mother’s womb, who never had walked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "路司得城里坐着一个两脚无力的人，生来是瘸腿的，从来没有走过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "路司得城裏坐着一個兩腳無力的人，生來是瘸腿的，從來沒有走過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He was listening to Paul speaking, who, fastening eyes on him and seeing that he had faith to be made whole,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他听保罗讲道，保罗定睛看他，见他有信心，可得痊愈，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他聽保羅講道，保羅定睛看他，見他有信心，可得痊癒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "said with a loud voice, “Stand upright on your feet!” He leaped up and walked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就大声说：「你起来，两脚站直！」那人就跳起来，而且行走。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就大聲說：「你起來，兩腳站直！」那人就跳起來，而且行走。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When the multitude saw what Paul had done, they lifted up their voice, saying in the language of Lycaonia, “The gods have come down to us in the likeness of men!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人看见保罗所做的事，就用吕高尼的话大声说：「有神借着人形降临在我们中间了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人看見保羅所做的事，就用呂高尼的話大聲說：「有神藉着人形降臨在我們中間了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They called Barnabas “Jupiter”, and Paul “Mercury”, because he was the chief speaker.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是称巴拿巴为宙斯，称保罗为希耳米，因为他说话领首。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是稱巴拿巴為宙斯，稱保羅為希耳米，因為他說話領首。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The priest of Jupiter, whose temple was in front of their city, brought oxen and garlands to the gates, and would have made a sacrifice along with the multitudes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有城外宙斯庙的祭司牵着牛，拿着花圈，来到门前，要同众人向使徒献祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有城外宙斯廟的祭司牽着牛，拿着花圈，來到門前，要同眾人向使徒獻祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But when the apostles, Barnabas and Paul, heard of it, they tore their clothes and sprang into the multitude, crying out,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴拿巴、保罗二使徒听见，就撕开衣裳，跳进众人中间，喊着说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴拿巴、保羅二使徒聽見，就撕開衣裳，跳進眾人中間，喊着說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Men, why are you doing these things? We also are men of the same nature as you, and bring you good news, that you should turn from these vain things to the living God, who made the sky, the earth, the sea, and all that is in them;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「诸君，为什么做这事呢？我们也是人，性情和你们一样。我们传福音给你们，是叫你们离弃这些虚妄，归向那创造天、地、海，和其中万物的永生 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「諸君，為甚麼做這事呢？我們也是人，性情和你們一樣。我們傳福音給你們，是叫你們離棄這些虛妄，歸向那創造天、地、海，和其中萬物的永生上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "who in the generations gone by allowed all the nations to walk in their own ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在从前的世代，任凭万国各行其道；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在從前的世代，任憑萬國各行其道；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Yet he didn’t leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "14:17 TR reads “us” instead of “you”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而为自己未尝不显出证据来，就如常施恩惠，从天降雨，赏赐丰年，叫你们饮食饱足，满心喜乐。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而為自己未嘗不顯出證據來，就如常施恩惠，從天降雨，賞賜豐年，叫你們飲食飽足，滿心喜樂。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Even saying these things, they hardly stopped the multitudes from making a sacrifice to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人说了这些话，仅仅地拦住众人不献祭与他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人說了這些話，僅僅地攔住眾人不獻祭與他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But some Jews from Antioch and Iconium came there, and having persuaded the multitudes, they stoned Paul and dragged him out of the city, supposing that he was dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但有些犹太人从安提阿和以哥念来，挑唆众人，就用石头打保罗，以为他是死了，便拖到城外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但有些猶太人從安提阿和以哥念來，挑唆眾人，就用石頭打保羅，以為他是死了，便拖到城外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But as the disciples stood around him, he rose up, and entered into the city. On the next day he went out with Barnabas to Derbe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒正围着他，他就起来，走进城去。 巴拿巴往特庇去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒正圍着他，他就起來，走進城去。 巴拿巴往特庇去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "When they had preached the Good News to that city and had made many disciples, they returned to Lystra, Iconium, and Antioch,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对那城里的人传了福音，使好些人作门徒，就回路司得、以哥念、安提阿去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對那城裏的人傳了福音，使好些人作門徒，就回路司得、以哥念、安提阿去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "strengthening the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into God’s Kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "坚固门徒的心，劝他们恒守所信的道；又说：「我们进入 神的国，必须经历许多艰难。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "堅固門徒的心，勸他們恆守所信的道；又說：「我們進入上帝的國，必須經歷許多艱難。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When they had appointed elders for them in every assembly, and had prayed with fasting, they commended them to the Lord on whom they had believed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人在各教会中选立了长老，又禁食祷告，就把他们交托所信的主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人在各教會中選立了長老，又禁食禱告，就把他們交託所信的主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They passed through Pisidia and came to Pamphylia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人经过彼西底，来到旁非利亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人經過彼西底，來到旁非利亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When they had spoken the word in Perga, they went down to Attalia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在别加讲了道，就下亚大利去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在別加講了道，就下亞大利去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "From there they sailed to Antioch, from where they had been committed to the grace of God for the work which they had fulfilled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里坐船，往安提阿去。当初，他们被众人所托、蒙 神之恩、要办现在所做之工，就是在这地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏坐船，往安提阿去。當初，他們被眾人所託、蒙上帝之恩、要辦現在所做之工，就是在這地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "When they had arrived and had gathered the assembly together, they reported all the things that God had done with them, and that he had opened a door of faith to the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了那里，聚集了会众，就述说 神借他们所行的一切事，并 神怎样为外邦人开了信道的门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了那裏，聚集了會眾，就述說上帝藉他們所行的一切事，並上帝怎樣為外邦人開了信道的門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They stayed there with the disciples for a long time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人就在那里同门徒住了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人就在那裏同門徒住了多日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

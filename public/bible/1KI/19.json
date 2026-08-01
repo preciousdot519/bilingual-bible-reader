@@ -1,0 +1,397 @@
+{
+  "bookId": "1KI",
+  "chapter": 19,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Ahab told Jezebel all that Elijah had done, and how he had killed all the prophets with the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈将以利亚一切所行的和他用刀杀众先知的事都告诉耶洗别。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈將以利亞一切所行的和他用刀殺眾先知的事都告訴耶洗別。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Then Jezebel sent a messenger to Elijah, saying, “So let the gods do to me, and more also, if I don’t make your life as the life of one of them by tomorrow about this time!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶洗别就差遣人去见以利亚，告诉他说：「明日约在这时候，我若不使你的性命像那些人的性命一样，愿神明重重地降罚与我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶洗別就差遣人去見以利亞，告訴他說：「明日約在這時候，我若不使你的性命像那些人的性命一樣，願神明重重地降罰與我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When he saw that, he arose and ran for his life, and came to Beersheba, which belongs to Judah, and left his servant there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚见这光景就起来逃命，到了犹大的别是巴，将仆人留在那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞見這光景就起來逃命，到了猶大的別是巴，將僕人留在那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree. Then he requested for himself that he might die, and said, “It is enough. Now, O LORD, take away my life; for I am not better than my fathers.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自己在旷野走了一日的路程，来到一棵罗腾树下，就坐在那里求死，说：「耶和华啊，罢了！求你取我的性命，因为我不胜于我的列祖。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:4 罗腾，小树名，松类；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自己在曠野走了一日的路程，來到一棵羅騰樹下，就坐在那裏求死，說：「耶和華啊，罷了！求你取我的性命，因為我不勝於我的列祖。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:4 羅騰，小樹名，松類；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He lay down and slept under a juniper tree; and behold, an angel touched him, and said to him, “Arise and eat!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就躺在罗腾树下，睡着了。有一个天使拍他，说：「起来吃吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就躺在羅騰樹下，睡着了。有一個天使拍他，說：「起來吃吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He looked, and behold, there was at his head a cake baked on the coals, and a jar of water. He ate and drank, and lay down again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他观看，见头旁有一瓶水与炭火烧的饼，他就吃了喝了，仍然躺下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他觀看，見頭旁有一瓶水與炭火燒的餅，他就吃了喝了，仍然躺下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD’s angel came again the second time, and touched him, and said, “Arise and eat, because the journey is too great for you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者第二次来拍他，说：「起来吃吧！因为你当走的路甚远。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者第二次來拍他，說：「起來吃吧！因為你當走的路甚遠。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He arose, and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, God’s Mountain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就起来吃了喝了，仗着这饮食的力，走了四十昼夜，到了 神的山，就是何烈山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就起來吃了喝了，仗着這飲食的力，走了四十晝夜，到了上帝的山，就是何烈山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He came to a cave there, and camped there; and behold, the LORD’s word came to him, and he said to him, “What are you doing here, Elijah?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在那里进了一个洞，就住在洞中。耶和华的话临到他说：「以利亚啊，你在这里做什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在那裏進了一個洞，就住在洞中。耶和華的話臨到他說：「以利亞啊，你在這裏做甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He said, “I have been very jealous for the LORD, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword. I, even I only, am left; and they seek my life, to take it away.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「我为耶和华—万军之 神大发热心；因为以色列人背弃了你的约，毁坏了你的坛，用刀杀了你的先知，只剩下我一个人，他们还要寻索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「我為耶和華－萬軍之上帝大發熱心；因為以色列人背棄了你的約，毀壞了你的壇，用刀殺了你的先知，只剩下我一個人，他們還要尋索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He said, “Go out and stand on the mountain before the LORD.” Behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD; but the LORD was not in the wind. After the wind there was an earthquake; but the LORD was not in the earthquake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「你出来站在山上，在我面前。」那时耶和华从那里经过，在他面前有烈风大作，崩山碎石，耶和华却不在风中；风后地震，耶和华却不在其中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「你出來站在山上，在我面前。」那時耶和華從那裏經過，在他面前有烈風大作，崩山碎石，耶和華卻不在風中；風後地震，耶和華卻不在其中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "After the earthquake a fire passed; but the LORD was not in the fire. After the fire, there was a still small voice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地震后有火，耶和华也不在火中；火后有微小的声音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地震後有火，耶和華也不在火中；火後有微小的聲音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When Elijah heard it, he wrapped his face in his mantle, went out, and stood in the entrance of the cave. Behold, a voice came to him, and said, “What are you doing here, Elijah?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚听见，就用外衣蒙上脸，出来站在洞口。有声音向他说：「以利亚啊，你在这里做什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞聽見，就用外衣蒙上臉，出來站在洞口。有聲音向他說：「以利亞啊，你在這裏做甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He said, “I have been very jealous for the LORD, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword. I, even I only, am left; and they seek my life, to take it away.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「我为耶和华—万军之 神大发热心；因为以色列人背弃了你的约，毁坏了你的坛，用刀杀了你的先知，只剩下我一个人，他们还要寻索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「我為耶和華－萬軍之上帝大發熱心；因為以色列人背棄了你的約，毀壞了你的壇，用刀殺了你的先知，只剩下我一個人，他們還要尋索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The LORD said to him, “Go, return on your way to the wilderness of Damascus. When you arrive, anoint Hazael to be king over Syria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对他说：「你回去，从旷野往大马士革去。到了那里，就要膏哈薛作亚兰王，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對他說：「你回去，從曠野往大馬士革去。到了那裏，就要膏哈薛作亞蘭王，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Anoint Jehu the son of Nimshi to be king over Israel; and anoint Elisha the son of Shaphat of Abel Meholah to be prophet in your place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又膏宁示的孙子耶户作以色列王，并膏亚伯·米何拉人沙法的儿子以利沙作先知接续你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又膏寧示的孫子耶戶作以色列王，並膏亞伯‧米何拉人沙法的兒子以利沙作先知接續你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He who escapes from the sword of Hazael, Jehu will kill; and he who escapes from the sword of Jehu, Elisha will kill.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将来躲避哈薛之刀的，必被耶户所杀；躲避耶户之刀的，必被以利沙所杀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將來躲避哈薛之刀的，必被耶戶所殺；躲避耶戶之刀的，必被以利沙所殺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Yet I reserved seven thousand in Israel, all the knees of which have not bowed to Baal, and every mouth that has not kissed him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我在以色列人中为自己留下七千人，是未曾向巴力屈膝的，未曾与巴力亲嘴的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我在以色列人中為自己留下七千人，是未曾向巴力屈膝的，未曾與巴力親嘴的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth. Elijah went over to him and put his mantle on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，以利亚离开那里走了，遇见沙法的儿子以利沙耕地；在他前头有十二对牛，自己赶着第十二对。以利亚到他那里去，将自己的外衣搭在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，以利亞離開那裏走了，遇見沙法的兒子以利沙耕地；在他前頭有十二對牛，自己趕着第十二對。以利亞到他那裏去，將自己的外衣搭在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Elisha left the oxen and ran after Elijah, and said, “Let me please kiss my father and my mother, and then I will follow you.” He said to him, “Go back again; for what have I done to you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙就离开牛，跑到以利亚那里，说：「求你容我先与父母亲嘴，然后我便跟随你。」以利亚对他说：「你回去吧，我向你做了什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙就離開牛，跑到以利亞那裏，說：「求你容我先與父母親嘴，然後我便跟隨你。」以利亞對他說：「你回去吧，我向你做了甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He returned from following him, and took the yoke of oxen, killed them, and boiled their meat with the oxen’s equipment, and gave to the people; and they ate. Then he arose, and went after Elijah, and served him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙就离开他回去，宰了一对牛，用套牛的器具煮肉给民吃，随后就起身跟随以利亚，服事他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙就離開他回去，宰了一對牛，用套牛的器具煮肉給民吃，隨後就起身跟隨以利亞，服事他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

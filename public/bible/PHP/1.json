@@ -1,0 +1,592 @@
+{
+  "bookId": "PHP",
+  "chapter": 1,
+  "bookEnglish": "Philippians",
+  "bookChineseSimplified": "腓立比书",
+  "bookChineseTraditional": "腓立比書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the overseers and servants:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 “Christ” means “Anointed One”."
+          },
+          {
+            "id": "f2",
+            "text": "1:1 or, superintendents, or bishops"
+          },
+          {
+            "id": "f3",
+            "text": "1:1 Or, deacons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基督耶稣的仆人保罗和提摩太写信给凡住腓立比、在基督耶稣里的众圣徒，和诸位监督，诸位执事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督耶穌的僕人保羅和提摩太寫信給凡住腓立比、在基督耶穌裏的眾聖徒，和諸位監督，諸位執事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿恩惠、平安从 神我们的父并主耶稣基督归与你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願恩惠、平安從上帝我們的父並主耶穌基督歸與你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I thank my God whenever I remember you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我每逢想念你们，就感谢我的 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我每逢想念你們，就感謝我的上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "always in every request of mine on behalf of you all, making my requests with joy,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每逢为你们众人祈求的时候，常是欢欢喜喜地祈求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每逢為你們眾人祈求的時候，常是歡歡喜喜地祈求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "for your partnership in furtherance of the Good News from the first day until now;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:5 The word translated “partnership” (κοινωνίᾳ) also means “fellowship” and “sharing”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为从头一天直到如今，你们是同心合意地兴旺福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為從頭一天直到如今，你們是同心合意地興旺福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我深信那在你们心里动了善工的，必成全这工，直到耶稣基督的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我深信那在你們心裏動了善工的，必成全這工，直到耶穌基督的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "It is even right for me to think this way on behalf of all of you, because I have you in my heart, because both in my bonds and in the defense and confirmation of the Good News, you all are partakers with me of grace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为你们众人有这样的意念，原是应当的；因你们常在我心里，无论我是在捆锁之中，是辩明证实福音的时候，你们都与我一同得恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為你們眾人有這樣的意念，原是應當的；因你們常在我心裏，無論我是在捆鎖之中，是辯明證實福音的時候，你們都與我一同得恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For God is my witness, how I long after all of you in the tender mercies of Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我体会基督耶稣的心肠，切切地想念你们众人；这是 神可以给我作见证的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我體會基督耶穌的心腸，切切地想念你們眾人；這是上帝可以給我作見證的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "This I pray, that your love may abound yet more and more in knowledge and all discernment,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所祷告的，就是要你们的爱心在知识和各样见识上多而又多，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所禱告的，就是要你們的愛心在知識和各樣見識上多而又多，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "so that you may approve the things that are excellent, that you may be sincere and without offense to the day of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使你们能分别是非，作诚实无过的人，直到基督的日子；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:10 或译：喜爱那美好的事"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使你們能分別是非，作誠實無過的人，直到基督的日子；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:10 或譯：喜愛那美好的事"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "being filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并靠着耶稣基督结满了仁义的果子，叫荣耀称赞归与 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並靠着耶穌基督結滿了仁義的果子，叫榮耀稱讚歸與上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now I desire to have you know, brothers, that the things which happened to me have turned out rather to the progress of the Good News,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:12 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我愿意你们知道，我所遭遇的事更是叫福音兴旺，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我願意你們知道，我所遭遇的事更是叫福音興旺，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "so that it became evident to the whole palace guard, and to all the rest, that my bonds are in Christ,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:13 or, praetorian"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以致我受的捆锁在御营全军和其余的人中，已经显明是为基督的缘故。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以致我受的捆鎖在御營全軍和其餘的人中，已經顯明是為基督的緣故。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and that most of the brothers in the Lord, being confident through my bonds, are more abundantly bold to speak the word of God without fear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且那在主里的弟兄多半因我受的捆锁就笃信不疑，越发放胆传 神的道，无所惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且那在主裏的弟兄多半因我受的捆鎖就篤信不疑，越發放膽傳上帝的道，無所懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Some indeed preach Christ even out of envy and strife, and some also out of good will.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有的传基督是出于嫉妒纷争，也有的是出于好意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有的傳基督是出於嫉妒紛爭，也有的是出於好意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The former insincerely preach Christ from selfish ambition, thinking that they add affliction to my chains;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一等是出于爱心，知道我是为辩明福音设立的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一等是出於愛心，知道我是為辯明福音設立的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "but the latter out of love, knowing that I am appointed for the defense of the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那一等传基督是出于结党，并不诚实，意思要加增我捆锁的苦楚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那一等傳基督是出於結黨，並不誠實，意思要加增我捆鎖的苦楚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "What does it matter? Only that in every way, whether in pretense or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这有何妨呢？或是假意，或是真心，无论怎样，基督究竟被传开了。为此，我就欢喜，并且还要欢喜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這有何妨呢？或是假意，或是真心，無論怎樣，基督究竟被傳開了。為此，我就歡喜，並且還要歡喜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For I know that this will turn out to my salvation through your prayers and the supply of the Spirit of Jesus Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我知道，这事借着你们的祈祷和耶稣基督之灵的帮助，终必叫我得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我知道，這事藉着你們的祈禱和耶穌基督之靈的幫助，終必叫我得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "according to my earnest expectation and hope, that I will in no way be disappointed, but with all boldness, as always, now also Christ will be magnified in my body, whether by life or by death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照着我所切慕、所盼望的，没有一事叫我羞愧。只要凡事放胆，无论是生是死，总叫基督在我身上照常显大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照着我所切慕、所盼望的，沒有一事叫我羞愧。只要凡事放膽，無論是生是死，總叫基督在我身上照常顯大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For to me to live is Christ, and to die is gain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我活着就是基督，我死了就有益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我活着就是基督，我死了就有益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But if I live on in the flesh, this will bring fruit from my work; yet I don’t know what I will choose.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我在肉身活着，若成就我工夫的果子，我就不知道该挑选什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我在肉身活着，若成就我工夫的果子，我就不知道該挑選甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But I am hard pressed between the two, having the desire to depart and be with Christ, which is far better.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我正在两难之间，情愿离世与基督同在，因为这是好得无比的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我正在兩難之間，情願離世與基督同在，因為這是好得無比的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Yet to remain in the flesh is more needful for your sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，我在肉身活着，为你们更是要紧的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，我在肉身活着，為你們更是要緊的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Having this confidence, I know that I will remain, yes, and remain with you all for your progress and joy in the faith,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我既然这样深信，就知道仍要住在世间，且与你们众人同住，使你们在所信的道上又长进又喜乐，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我既然這樣深信，就知道仍要住在世間，且與你們眾人同住，使你們在所信的道上又長進又喜樂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "that your boasting may abound in Christ Jesus in me through my presence with you again.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:26 or, rejoicing"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫你们在基督耶稣里的欢乐，因我再到你们那里去，就越发加增。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫你們在基督耶穌裏的歡樂，因我再到你們那裏去，就越發加增。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Only let your way of life be worthy of the Good News of Christ, that whether I come and see you or am absent, I may hear of your state, that you stand firm in one spirit, with one soul striving for the faith of the Good News;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只要你们行事为人与基督的福音相称，叫我或来见你们，或不在你们那里，可以听见你们的景况，知道你们同有一个心志，站立得稳，为所信的福音齐心努力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只要你們行事為人與基督的福音相稱，叫我或來見你們，或不在你們那裏，可以聽見你們的景況，知道你們同有一個心志，站立得穩，為所信的福音齊心努力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "and in nothing frightened by the adversaries, which is for them a proof of destruction, but to you of salvation, and that from God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事不怕敌人的惊吓，这是证明他们沉沦，你们得救都是出于 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事不怕敵人的驚嚇，這是證明他們沉淪，你們得救都是出於上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们蒙恩，不但得以信服基督，并要为他受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們蒙恩，不但得以信服基督，並要為他受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "having the same conflict which you saw in me and now hear is in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们的争战，就与你们在我身上从前所看见、现在所听见的一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的爭戰，就與你們在我身上從前所看見、現在所聽見的一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

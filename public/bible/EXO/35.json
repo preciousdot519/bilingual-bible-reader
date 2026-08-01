@@ -1,0 +1,649 @@
+{
+  "bookId": "EXO",
+  "chapter": 35,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moses assembled all the congregation of the children of Israel, and said to them, “These are the words which the LORD has commanded, that you should do them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西招聚以色列全会众，对他们说：「这是耶和华所吩咐的话，叫你们照着行：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西招聚以色列全會眾，對他們說：「這是耶和華所吩咐的話，叫你們照着行：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "‘Six days shall work be done, but on the seventh day there shall be a holy day for you, a Sabbath of solemn rest to the LORD: whoever does any work in it shall be put to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六日要做工，第七日乃为圣日，当向耶和华守为安息圣日。凡这日之内做工的，必把他治死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六日要做工，第七日乃為聖日，當向耶和華守為安息聖日。凡這日之內做工的，必把他治死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall kindle no fire throughout your habitations on the Sabbath day.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当安息日，不可在你们一切的住处生火。」 （出25·1—9）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當安息日，不可在你們一切的住處生火。」 （出25‧1－9）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moses spoke to all the congregation of the children of Israel, saying, “This is the thing which the LORD commanded, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对以色列全会众说：「耶和华所吩咐的是这样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對以色列全會眾說：「耶和華所吩咐的是這樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "‘Take from among you an offering to the LORD. Whoever is of a willing heart, let him bring it as the LORD’s offering: gold, silver, bronze,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间要拿礼物献给耶和华，凡乐意献的可以拿耶和华的礼物来，就是金、银、铜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間要拿禮物獻給耶和華，凡樂意獻的可以拿耶和華的禮物來，就是金、銀、銅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "blue, purple, scarlet, fine linen, goats’ hair,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蓝色、紫色、朱红色线，细麻，山羊毛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "藍色、紫色、朱紅色線，細麻，山羊毛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "rams’ skins dyed red, sea cow hides, acacia wood,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "染红的公羊皮，海狗皮，皂荚木，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "染紅的公羊皮，海狗皮，皂莢木，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "oil for the light, spices for the anointing oil and for the sweet incense,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "点灯的油，并做膏油和香的香料，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "點燈的油，並做膏油和香的香料，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "onyx stones, and stones to be set for the ephod and for the breastplate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "红玛瑙与别样的宝石，可以镶嵌在以弗得和胸牌上。」 （出39·32—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "紅瑪瑙與別樣的寶石，可以鑲嵌在以弗得和胸牌上。」 （出39‧32－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“‘Let every wise-hearted man among you come, and make all that the LORD has commanded:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们中间凡心里有智慧的都要来做耶和华一切所吩咐的：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們中間凡心裏有智慧的都要來做耶和華一切所吩咐的：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "the tabernacle, its outer covering, its roof, its clasps, its boards, its bars, its pillars, and its sockets;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是帐幕和帐幕的罩棚，并帐幕的盖、钩子、板、闩、柱子、带卯的座，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是帳幕和帳幕的罩棚，並帳幕的蓋、鉤子、板、閂、柱子、帶卯的座，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "the ark, and its poles, the mercy seat, the veil of the screen;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "柜和柜的杠，施恩座和遮掩柜的幔子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "櫃和櫃的槓，施恩座和遮掩櫃的幔子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "the table with its poles and all its vessels, and the show bread;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "桌子和桌子的杠与桌子的一切器具，并陈设饼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "桌子和桌子的槓與桌子的一切器具，並陳設餅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the lamp stand also for the light, with its vessels, its lamps, and the oil for the light;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灯台和灯台的器具，灯盏并点灯的油，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺和燈臺的器具，燈盞並點燈的油，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and the altar of incense with its poles, the anointing oil, the sweet incense, the screen for the door, at the door of the tabernacle;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "香坛和坛的杠，膏油和馨香的香料，并帐幕门口的帘子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "香壇和壇的槓，膏油和馨香的香料，並帳幕門口的簾子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the altar of burnt offering, with its grating of bronze, its poles, and all its vessels, the basin and its base;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "燔祭坛和坛的铜网，坛的杠并坛的一切器具，洗濯盆和盆座，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燔祭壇和壇的銅網，壇的槓並壇的一切器具，洗濯盆和盆座，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "the hangings of the court, its pillars, their sockets, and the screen for the gate of the court;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子的帷子和帷子的柱子，带卯的座和院子的门帘，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子的帷子和帷子的柱子，帶卯的座和院子的門簾，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "the pins of the tabernacle, the pins of the court, and their cords;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的橛子并院子的橛子，和这两处的绳子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的橛子並院子的橛子，和這兩處的繩子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "the finely worked garments for ministering in the holy place—the holy garments for Aaron the priest, and the garments of his sons—to minister in the priest’s office.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "精工做的礼服和祭司亚伦并他儿子在圣所用以供祭司职分的圣衣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "精工做的禮服和祭司亞倫並他兒子在聖所用以供祭司職分的聖衣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "All the congregation of the children of Israel departed from the presence of Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列全会众从摩西面前退去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列全會眾從摩西面前退去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They came, everyone whose heart stirred him up, and everyone whom his spirit made willing, and brought the LORD’s offering for the work of the Tent of Meeting, and for all of its service, and for the holy garments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡心里受感和甘心乐意的都拿耶和华的礼物来，用以做会幕和其中一切的使用，又用以做圣衣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡心裏受感和甘心樂意的都拿耶和華的禮物來，用以做會幕和其中一切的使用，又用以做聖衣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They came, both men and women, as many as were willing-hearted, and brought brooches, earrings, signet rings, and armlets, all jewels of gold; even every man who offered an offering of gold to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡心里乐意献礼物的，连男带女，各将金器，就是胸前针、耳环、打印的戒指，和手钏带来献给耶和华。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 35:22 或译：鼻环"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡心裏樂意獻禮物的，連男帶女，各將金器，就是胸前鍼、耳環、打印的戒指，和手釧帶來獻給耶和華。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 35:22 或譯：鼻環"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Everyone with whom was found blue, purple, scarlet, fine linen, goats’ hair, rams’ skins dyed red, and sea cow hides, brought them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有蓝色、紫色、朱红色线，细麻，山羊毛，染红的公羊皮，海狗皮的，都拿了来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有藍色、紫色、朱紅色線，細麻，山羊毛，染紅的公羊皮，海狗皮的，都拿了來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Everyone who offered an offering of silver and bronze brought the LORD’s offering; and everyone with whom was found acacia wood for any work of the service, brought it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡献银子和铜给耶和华为礼物的都拿了来；凡有皂荚木可做什么使用的也拿了来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡獻銀子和銅給耶和華為禮物的都拿了來；凡有皂莢木可做甚麼使用的也拿了來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "All the women who were wise-hearted spun with their hands, and brought that which they had spun: the blue, the purple, the scarlet, and the fine linen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡心中有智慧的妇女亲手纺线，把所纺的蓝色、紫色、朱红色线，和细麻都拿了来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡心中有智慧的婦女親手紡線，把所紡的藍色、紫色、朱紅色線，和細麻都拿了來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "All the women whose heart stirred them up in wisdom spun the goats’ hair.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有智慧、心里受感的妇女就纺山羊毛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有智慧、心裏受感的婦女就紡山羊毛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The rulers brought the onyx stones and the stones to be set for the ephod and for the breastplate;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众官长把红玛瑙和别样的宝石，可以镶嵌在以弗得与胸牌上的，都拿了来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾官長把紅瑪瑙和別樣的寶石，可以鑲嵌在以弗得與胸牌上的，都拿了來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "with the spice and the oil for the light, for the anointing oil, and for the sweet incense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又拿香料做香，拿油点灯，做膏油。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又拿香料做香，拿油點燈，做膏油。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The children of Israel brought a free will offering to the LORD; every man and woman whose heart made them willing to bring for all the work, which the LORD had commanded to be made by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人，无论男女，凡甘心乐意献礼物给耶和华的，都将礼物拿来，做耶和华借摩西所吩咐的一切工。 （出31·1—11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人，無論男女，凡甘心樂意獻禮物給耶和華的，都將禮物拿來，做耶和華藉摩西所吩咐的一切工。 （出31‧1－11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Moses said to the children of Israel, “Behold, the LORD has called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对以色列人说：「犹大支派中，户珥的孙子、乌利的儿子比撒列，耶和华已经提他的名召他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對以色列人說：「猶大支派中，戶珥的孫子、烏利的兒子比撒列，耶和華已經提他的名召他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He has filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all kinds of workmanship;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又以 神的灵充满了他，使他有智慧、聪明、知识，能做各样的工，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又以上帝的靈充滿了他，使他有智慧、聰明、知識，能做各樣的工，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "and to make skillful works, to work in gold, in silver, in bronze,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "能想出巧工，用金、银、铜制造各物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "能想出巧工，用金、銀、銅製造各物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "in cutting of stones for setting, and in carving of wood, to work in all kinds of skillful workmanship.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又能刻宝石，可以镶嵌，能雕刻木头，能做各样的巧工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又能刻寶石，可以鑲嵌，能雕刻木頭，能做各樣的巧工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He has put in his heart that he may teach, both he and Oholiab, the son of Ahisamach, of the tribe of Dan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华又使他，和但支派中亚希撒抹的儿子亚何利亚伯，心里灵明，能教导人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華又使他，和但支派中亞希撒抹的兒子亞何利亞伯，心裏靈明，能教導人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He has filled them with wisdom of heart to work all kinds of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使他们的心满有智慧，能做各样的工，无论是雕刻的工，巧匠的工，用蓝色、紫色、朱红色线，和细麻、绣花的工，并机匠的工，他们都能做，也能想出奇巧的工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使他們的心滿有智慧，能做各樣的工，無論是雕刻的工，巧匠的工，用藍色、紫色、朱紅色線，和細麻、繡花的工，並機匠的工，他們都能做，也能想出奇巧的工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

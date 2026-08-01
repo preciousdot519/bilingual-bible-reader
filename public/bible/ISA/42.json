@@ -1,0 +1,479 @@
+{
+  "bookId": "ISA",
+  "chapter": 42,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Behold, my servant, whom I uphold, my chosen, in whom my soul delights: I have put my Spirit on him. He will bring justice to the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我的仆人— 我所扶持所拣选、心里所喜悦的！ 我已将我的灵赐给他； 他必将公理传给外邦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我的僕人－ 我所扶持所揀選、心裏所喜悅的！ 我已將我的靈賜給他； 他必將公理傳給外邦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He will not shout, nor raise his voice, nor cause it to be heard in the street.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不喧嚷，不扬声， 也不使街上听见他的声音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不喧嚷，不揚聲， 也不使街上聽見他的聲音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He won’t break a bruised reed. He won’t quench a dimly burning wick. He will faithfully bring justice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "压伤的芦苇，他不折断； 将残的灯火，他不吹灭。 他凭真实将公理传开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "壓傷的蘆葦，他不折斷； 將殘的燈火，他不吹滅。 他憑真實將公理傳開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He will not fail nor be discouraged, until he has set justice on the earth, and the islands wait for his law.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不灰心，也不丧胆， 直到他在地上设立公理； 海岛都等候他的训诲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不灰心，也不喪膽， 直到他在地上設立公理； 海島都等候他的訓誨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "God the LORD, he who created the heavens and stretched them out, he who spread out the earth and that which comes out of it, he who gives breath to its people and spirit to those who walk in it, says:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "创造诸天，铺张穹苍， 将地和地所出的一并铺开， 赐气息给地上的众人， 又赐灵性给行在其上之人的 神耶和华， 他如此说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "創造諸天，鋪張穹蒼， 將地和地所出的一併鋪開， 賜氣息給地上的眾人， 又賜靈性給行在其上之人的上帝耶和華， 他如此說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“I, the LORD, have called you in righteousness. I will hold your hand. I will keep you, and make you a covenant for the people, as a light for the nations,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—耶和华凭公义召你， 必搀扶你的手，保守你， 使你作众民的中保， 作外邦人的光，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 42:6 中保：原文是约"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－耶和華憑公義召你， 必攙扶你的手，保守你， 使你作眾民的中保， 作外邦人的光，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 42:6 中保：原文是約"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "开瞎子的眼， 领被囚的出牢狱， 领坐黑暗的出监牢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "開瞎子的眼， 領被囚的出牢獄， 領坐黑暗的出監牢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“I am the LORD. That is my name. I will not give my glory to another, nor my praise to engraved images.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华，这是我的名； 我必不将我的荣耀归给假神， 也不将我的称赞归给雕刻的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華，這是我的名； 我必不將我的榮耀歸給假神， 也不將我的稱讚歸給雕刻的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Behold, the former things have happened and I declare new things. I tell you about them before they come up.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，先前的事已经成就， 现在我将新事说明， 这事未发以先，我就说给你们听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，先前的事已經成就， 現在我將新事說明， 這事未發以先，我就說給你們聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Sing to the LORD a new song, and his praise from the end of the earth, you who go down to the sea, and all that is therein, the islands and their inhabitants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "航海的和海中所有的， 海岛和其上的居民， 都当向耶和华唱新歌， 从地极赞美他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "航海的和海中所有的， 海島和其上的居民， 都當向耶和華唱新歌， 從地極讚美他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Let the wilderness and its cities raise their voices, with the villages that Kedar inhabits. Let the inhabitants of Sela sing. Let them shout from the top of the mountains!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "旷野和其中的城邑， 并基达人居住的村庄都当扬声； 西拉的居民当欢呼， 在山顶上呐喊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "曠野和其中的城邑， 並基達人居住的村莊都當揚聲； 西拉的居民當歡呼， 在山頂上吶喊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Let them give glory to the LORD, and declare his praise in the islands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们当将荣耀归给耶和华， 在海岛中传扬他的颂赞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們當將榮耀歸給耶和華， 在海島中傳揚他的頌讚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The LORD will go out like a mighty man. He will stir up zeal like a man of war. He will raise a war cry. Yes, he will shout aloud. He will triumph over his enemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必像勇士出去， 必像战士激动热心， 要喊叫，大声呐喊， 要用大力攻击仇敌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必像勇士出去， 必像戰士激動熱心， 要喊叫，大聲吶喊， 要用大力攻擊仇敵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“I have been silent a long time. I have been quiet and restrained myself. Now I will cry out like a travailing woman. I will both gasp and pant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我许久闭口不言，静默不语； 现在我要喊叫，像产难的妇人； 我要急气而喘哮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我許久閉口不言，靜默不語； 現在我要喊叫，像產難的婦人； 我要急氣而喘哮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I will destroy mountains and hills, and dry up all their herbs. I will make the rivers islands, and will dry up the pools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要使大山小冈变为荒场， 使其上的花草都枯干； 我要使江河变为洲岛， 使水池都干涸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要使大山小岡變為荒場， 使其上的花草都枯乾； 我要使江河變為洲島， 使水池都乾涸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I will bring the blind by a way that they don’t know. I will lead them in paths that they don’t know. I will make darkness light before them, and crooked places straight. I will do these things, and I will not forsake them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要引瞎子行不认识的道， 领他们走不知道的路； 在他们面前使黑暗变为光明， 使弯曲变为平直。 这些事我都要行， 并不离弃他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要引瞎子行不認識的道， 領他們走不知道的路； 在他們面前使黑暗變為光明， 使彎曲變為平直。 這些事我都要行， 並不離棄他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Those who trust in engraved images, who tell molten images, ‘You are our gods,’ will be turned back. They will be utterly disappointed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倚靠雕刻的偶像， 对铸造的偶像说： 你是我们的神； 这等人要退后，全然蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倚靠雕刻的偶像， 對鑄造的偶像說： 你是我們的神； 這等人要退後，全然蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“Hear, you deaf, and look, you blind, that you may see.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这耳聋的，听吧！ 你们这眼瞎的，看吧！ 使你们能看见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這耳聾的，聽吧！ 你們這眼瞎的，看吧！ 使你們能看見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Who is blind, but my servant? Or who is as deaf as my messenger whom I send? Who is as blind as he who is at peace, and as blind as the LORD’s servant?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁比我的仆人眼瞎呢？ 谁比我差遣的使者耳聋呢？ 谁瞎眼像那与我和好的？ 谁瞎眼像耶和华的仆人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰比我的僕人眼瞎呢？ 誰比我差遣的使者耳聾呢？ 誰瞎眼像那與我和好的？ 誰瞎眼像耶和華的僕人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You see many things, but don’t observe. His ears are open, but he doesn’t listen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你看见许多事却不领会， 耳朵开通却不听见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你看見許多事卻不領會， 耳朵開通卻不聽見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "It pleased the LORD, for his righteousness’ sake, to magnify the law and make it honorable.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华因自己公义的缘故， 喜欢使律法为大，为尊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 42:21 或译：训诲"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華因自己公義的緣故， 喜歡使律法為大，為尊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 42:21 或譯：訓誨"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But this is a robbed and plundered people. All of them are snared in holes, and they are hidden in prisons. They have become captives, and no one delivers, and a plunder, and no one says, ‘Restore them!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这百姓是被抢被夺的， 都牢笼在坑中，隐藏在狱里； 他们作掠物，无人拯救， 作掳物，无人说交还。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這百姓是被搶被奪的， 都牢籠在坑中，隱藏在獄裏； 他們作掠物，無人拯救， 作擄物，無人說交還。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Who is there among you who will give ear to this? Who will listen and hear for the time to come?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间谁肯侧耳听此， 谁肯留心而听，以防将来呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間誰肯側耳聽此， 誰肯留心而聽，以防將來呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Who gave Jacob as plunder, and Israel to the robbers? Didn’t the LORD, he against whom we have sinned? For they would not walk in his ways, and they disobeyed his law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁将雅各交出当作掳物， 将以色列交给抢夺的呢？ 岂不是耶和华吗？ 就是我们所得罪的那位。 他们不肯遵行他的道， 也不听从他的训诲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰將雅各交出當作擄物， 將以色列交給搶奪的呢？ 豈不是耶和華嗎？ 就是我們所得罪的那位。 他們不肯遵行他的道， 也不聽從他的訓誨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Therefore he poured the fierceness of his anger on him, and the strength of battle. It set him on fire all around, but he didn’t know. It burned him, but he didn’t take it to heart.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，他将猛烈的怒气和争战的勇力 倾倒在以色列的身上。 在他四围如火着起，他还不知道， 烧着他，他也不介意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，他將猛烈的怒氣和爭戰的勇力 傾倒在以色列的身上。 在他四圍如火着起，他還不知道， 燒着他，他也不介意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

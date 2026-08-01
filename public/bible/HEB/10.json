@@ -1,0 +1,766 @@
+{
+  "bookId": "HEB",
+  "chapter": 10,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "律法既是将来美事的影儿，不是本物的真像，总不能借着每年常献一样的祭物叫那近前来的人得以完全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法既是將來美事的影兒，不是本物的真像，總不能藉着每年常獻一樣的祭物叫那近前來的人得以完全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不然，献祭的事岂不早已止住了吗？因为礼拜的人，良心既被洁净，就不再觉得有罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不然，獻祭的事豈不早已止住了嗎？因為禮拜的人，良心既被潔淨，就不再覺得有罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But in those sacrifices there is a yearly reminder of sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这些祭物是叫人每年想起罪来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這些祭物是叫人每年想起罪來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For it is impossible that the blood of bulls and goats should take away sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为公牛和山羊的血，断不能除罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為公牛和山羊的血，斷不能除罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Therefore when he comes into the world, he says, “You didn’t desire sacrifice and offering, but you prepared a body for me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以基督到世上来的时候，就说： 神啊，祭物和礼物是你不愿意的； 你曾给我预备了身体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以基督到世上來的時候，就說： 上帝啊，祭物和禮物是你不願意的； 你曾給我預備了身體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You had no pleasure in whole burnt offerings and sacrifices for sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "燔祭和赎罪祭是你不喜欢的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燔祭和贖罪祭是你不喜歡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then I said, ‘Behold, I have come (in the scroll of the book it is written of me) to do your will, O God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:7 Psalms 40:6-8",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "那时我说： 神啊，我来了， 为要照你的旨意行； 我的事在经卷上已经记载了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時我說：上帝啊，我來了， 為要照你的旨意行； 我的事在經卷上已經記載了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Previously saying, “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” (those which are offered according to the law),",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以上说：「祭物和礼物，燔祭和赎罪祭，是你不愿意的，也是你不喜欢的（这都是按着律法献的）」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以上說：「祭物和禮物，燔祭和贖罪祭，是你不願意的，也是你不喜歡的（這都是按着律法獻的）」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "then he has said, “Behold, I have come to do your will.” He takes away the first, that he may establish the second,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后又说：「我来了为要照你的旨意行」；可见他是除去在先的，为要立定在后的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後又說：「我來了為要照你的旨意行」；可見他是除去在先的，為要立定在後的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们凭这旨意，靠耶稣基督，只一次献上他的身体，就得以成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們憑這旨意，靠耶穌基督，只一次獻上他的身體，就得以成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Every priest indeed stands day by day serving and offering often the same sacrifices, which can never take away sins,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡祭司天天站着事奉 神，屡次献上一样的祭物，这祭物永不能除罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡祭司天天站着事奉上帝，屢次獻上一樣的祭物，這祭物永不能除罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但基督献了一次永远的赎罪祭，就在 神的右边坐下了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但基督獻了一次永遠的贖罪祭，就在上帝的右邊坐下了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "from that time waiting until his enemies are made the footstool of his feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从此，等候他仇敌成了他的脚凳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從此，等候他仇敵成了他的腳凳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For by one offering he has perfected forever those who are being sanctified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他一次献祭，便叫那得以成圣的人永远完全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他一次獻祭，便叫那得以成聖的人永遠完全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The Holy Spirit also testifies to us, for after saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵也对我们作见证；因为他既已说过：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈也對我們作見證；因為他既已說過：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“This is the covenant that I will make with them after those days,” says the Lord, “I will put my laws on their heart, I will also write them on their mind;” then he says,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:16 Jeremiah 31:33",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "主说：那些日子以后， 我与他们所立的约乃是这样： 我要将我的律法写在他们心上， 又要放在他们的里面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主說：那些日子以後， 我與他們所立的約乃是這樣： 我要將我的律法寫在他們心上， 又要放在他們的裏面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“I will remember their sins and their iniquities no more.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:17 Jeremiah 31:34",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "以后就说： 我不再记念他们的罪愆和他们的过犯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後就說： 我不再記念他們的罪愆和他們的過犯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now where remission of these is, there is no more offering for sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些罪过既已赦免，就不用再为罪献祭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些罪過既已赦免，就不用再為罪獻祭了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我们既因耶稣的血得以坦然进入至圣所，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我們既因耶穌的血得以坦然進入至聖所，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是借着他给我们开了一条又新又活的路，从幔子经过，这幔子就是他的身体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是藉着他給我們開了一條又新又活的路，從幔子經過，這幔子就是他的身體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and having a great priest over God’s house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一位大祭司治理 神的家，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一位大祭司治理上帝的家，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience and having our body washed with pure water,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并我们心中天良的亏欠已经洒去，身体用清水洗净了，就当存着诚心和充足的信心来到 神面前；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並我們心中天良的虧欠已經灑去，身體用清水洗淨了，就當存着誠心和充足的信心來到上帝面前；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "let’s hold fast the confession of our hope without wavering; for he who promised is faithful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也要坚守我们所承认的指望，不至摇动，因为那应许我们的是信实的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也要堅守我們所承認的指望，不致搖動，因為那應許我們的是信實的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Let’s consider how to provoke one another to love and good works,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要彼此相顾，激发爱心，勉励行善。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要彼此相顧，激發愛心，勉勵行善。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "not forsaking our own assembling together, as the custom of some is, but exhorting one another, and so much the more as you see the Day approaching.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不可停止聚会，好像那些停止惯了的人，倒要彼此劝勉，既知道那日子临近，就更当如此。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:25 原文是看见"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不可停止聚會，好像那些停止慣了的人，倒要彼此勸勉，既知道那日子臨近，就更當如此。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:25 原文是看見"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我们得知真道以后，若故意犯罪，赎罪的祭就再没有了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們得知真道以後，若故意犯罪，贖罪的祭就再沒有了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有战惧等候审判和那烧灭众敌人的烈火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有戰懼等候審判和那燒滅眾敵人的烈火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "A man who disregards Moses’ law dies without compassion on the word of two or three witnesses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人干犯摩西的律法，凭两三个见证人，尚且不得怜恤而死，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人干犯摩西的律法，憑兩三個見證人，尚且不得憐恤而死，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何况人践踏 神的儿子，将那使他成圣之约的血当作平常，又亵慢施恩的圣灵，你们想，他要受的刑罚该怎样加重呢！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何況人踐踏上帝的兒子，將那使他成聖之約的血當作平常，又褻慢施恩的聖靈，你們想，他要受的刑罰該怎樣加重呢！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "For we know him who said, “Vengeance belongs to me. I will repay,” says the Lord. Again, “The Lord will judge his people.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:30 Deuteronomy 32:35",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "10:30 Deuteronomy 32:36; Psalms 135:14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为我们知道谁说：「伸冤在我，我必报应」；又说：「主要审判他的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們知道誰說：「伸冤在我，我必報應」；又說：「主要審判他的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "It is a fearful thing to fall into the hands of the living God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "落在永生 神的手里，真是可怕的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "落在永生上帝的手裏，真是可怕的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要追念往日，蒙了光照以后所忍受大争战的各样苦难：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要追念往日，蒙了光照以後所忍受大爭戰的各樣苦難：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "partly, being exposed to both reproaches and oppressions, and partly, becoming partakers with those who were treated so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一面被毁谤，遭患难，成了戏景，叫众人观看；一面陪伴那些受这样苦难的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一面被毀謗，遭患難，成了戲景，叫眾人觀看；一面陪伴那些受這樣苦難的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "For you both had compassion on me in my chains and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们体恤了那些被捆锁的人，并且你们的家业被人抢去，也甘心忍受，知道自己有更美长存的家业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們體恤了那些被捆鎖的人，並且你們的家業被人搶去，也甘心忍受，知道自己有更美長存的家業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Therefore don’t throw away your boldness, which has a great reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们不可丢弃勇敢的心；存这样的心必得大赏赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們不可丟棄勇敢的心；存這樣的心必得大賞賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "For you need endurance so that, having done the will of God, you may receive the promise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们必须忍耐，使你们行完了 神的旨意，就可以得着所应许的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們必須忍耐，使你們行完了上帝的旨意，就可以得着所應許的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“In a very little while, he who comes will come and will not wait.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为还有一点点时候， 那要来的就来，并不迟延；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為還有一點點時候， 那要來的就來，並不遲延；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "But the righteous one will live by faith. If he shrinks back, my soul has no pleasure in him.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:38 Habakkuk 2:3-4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "只是义人必因信得生。 他若退后，我心里就不喜欢他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:38 有古卷：我的义人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是義人必因信得生。 他若退後，我心裏就不喜歡他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:38 有古卷：我的義人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们却不是退后入沉沦的那等人，乃是有信心以致灵魂得救的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們卻不是退後入沉淪的那等人，乃是有信心以致靈魂得救的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

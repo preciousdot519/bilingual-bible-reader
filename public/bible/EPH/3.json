@@ -1,0 +1,412 @@
+{
+  "bookId": "EPH",
+  "chapter": 3,
+  "bookEnglish": "Ephesians",
+  "bookChineseSimplified": "以弗所书",
+  "bookChineseTraditional": "以弗所書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我—保罗为你们外邦人作了基督耶稣被囚的，替你们祈祷。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:1 此句是照对十四节所加"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我－保羅為你們外邦人作了基督耶穌被囚的，替你們祈禱。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:1 此句是照對十四節所加"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "if it is so that you have heard of the administration of that grace of God which was given me toward you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谅必你们曾听见 神赐恩给我，将关切你们的职分托付我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諒必你們曾聽見上帝賜恩給我，將關切你們的職分託付我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "how that by revelation the mystery was made known to me, as I wrote before in few words,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用启示使我知道福音的奥秘，正如我以前略略写过的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用啟示使我知道福音的奧祕，正如我以前略略寫過的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "by which, when you read, you can perceive my understanding in the mystery of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们念了，就能晓得我深知基督的奥秘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們念了，就能曉得我深知基督的奧祕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "which in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这奥秘在以前的世代没有叫人知道，像如今借着圣灵启示他的圣使徒和先知一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這奧祕在以前的世代沒有叫人知道，像如今藉着聖靈啟示他的聖使徒和先知一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "that the Gentiles are fellow heirs and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这奥秘就是外邦人在基督耶稣里，借着福音，得以同为后嗣，同为一体，同蒙应许。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這奧祕就是外邦人在基督耶穌裏，藉着福音，得以同為後嗣，同為一體，同蒙應許。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "of which I was made a servant according to the gift of that grace of God which was given me according to the working of his power.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我作了这福音的执事，是照 神的恩赐，这恩赐是照他运行的大能赐给我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我作了這福音的執事，是照上帝的恩賜，這恩賜是照他運行的大能賜給我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我本来比众圣徒中最小的还小，然而他还赐我这恩典，叫我把基督那测不透的丰富传给外邦人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我本來比眾聖徒中最小的還小，然而他還賜我這恩典，叫我把基督那測不透的豐富傳給外邦人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:9 TR reads “fellowship” instead of “administration”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又使众人都明白，这历代以来隐藏在创造万物之 神里的奥秘是如何安排的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又使眾人都明白，這歷代以來隱藏在創造萬物之上帝裏的奧祕是如何安排的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要借着教会使天上执政的、掌权的，现在得知 神百般的智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要藉着教會使天上執政的、掌權的，現在得知上帝百般的智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "according to the eternal purpose which he accomplished in Christ Jesus our Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是照 神从万世以前，在我们主基督耶稣里所定的旨意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是照上帝從萬世以前，在我們主基督耶穌裏所定的旨意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "In him we have boldness and access in confidence through our faith in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们因信耶稣，就在他里面放胆无惧，笃信不疑地来到 神面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們因信耶穌，就在他裏面放膽無懼，篤信不疑地來到上帝面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Therefore I ask that you may not lose heart at my troubles for you, which are your glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我求你们不要因我为你们所受的患难丧胆，这原是你们的荣耀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我求你們不要因我為你們所受的患難喪膽，這原是你們的榮耀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For this cause, I bow my knees to the Father of our Lord Jesus Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我在父面前屈膝，（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我在父面前屈膝，（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "from whom every family in heaven and on earth is named,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天上地上的各家，都是从他得名。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或译：全"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天上地上的各家，都是從他得名。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或譯：全"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inner person,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求他按着他丰盛的荣耀，借着他的灵，叫你们心里的力量刚强起来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求他按着他豐盛的榮耀，藉着他的靈，叫你們心裏的力量剛強起來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "that Christ may dwell in your hearts through faith, to the end that you, being rooted and grounded in love,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使基督因你们的信，住在你们心里，叫你们的爱心有根有基，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使基督因你們的信，住在你們心裏，叫你們的愛心有根有基，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "may be strengthened to comprehend with all the saints what is the width and length and height and depth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "能以和众圣徒一同明白基督的爱是何等长阔高深，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "能以和眾聖徒一同明白基督的愛是何等長闊高深，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并知道这爱是过于人所能测度的，便叫 神一切所充满的，充满了你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並知道這愛是過於人所能測度的，便叫上帝一切所充滿的，充滿了你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神能照着运行在我们心里的大力充充足足地成就一切，超过我们所求所想的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝能照着運行在我們心裏的大力充充足足地成就一切，超過我們所求所想的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "to him be the glory in the assembly and in Christ Jesus to all generations, forever and ever. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但愿他在教会中，并在基督耶稣里，得着荣耀，直到世世代代，永永远远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但願他在教會中，並在基督耶穌裏，得着榮耀，直到世世代代，永永遠遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

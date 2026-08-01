@@ -1,0 +1,649 @@
+{
+  "bookId": "MRK",
+  "chapter": 3,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He entered again into the synagogue, and there was a man there whose hand was withered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又进了会堂，在那里有一个人枯干了一只手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又進了會堂，在那裏有一個人枯乾了一隻手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They watched him, whether he would heal him on the Sabbath day, that they might accuse him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人窥探耶稣，在安息日医治不医治，意思是要控告耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人窺探耶穌，在安息日醫治不醫治，意思是要控告耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said to the man whose hand was withered, “Standup.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对那枯干一只手的人说：「起来，站在当中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對那枯乾一隻手的人說：「起來，站在當中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He said to them, “Isit lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又问众人说：「在安息日行善行恶，救命害命，哪样是可以的呢？」他们都不作声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又問眾人說：「在安息日行善行惡，救命害命，哪樣是可以的呢？」他們都不作聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretchout your hand.” He stretched it out, and his hand was restored as healthy as the other.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣怒目周围看他们，忧愁他们的心刚硬，就对那人说：「伸出手来！」他把手一伸，手就复了原。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌怒目周圍看他們，憂愁他們的心剛硬，就對那人說：「伸出手來！」他把手一伸，手就復了原。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The Pharisees went out, and immediately conspired with the Herodians against him, how they might destroy him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人出去，同希律一党的人商议怎样可以除灭耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人出去，同希律一黨的人商議怎樣可以除滅耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Jesus withdrew to the sea with his disciples; and a great multitude followed him from Galilee, from Judea,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣和门徒退到海边去，有许多人从加利利跟随他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌和門徒退到海邊去，有許多人從加利利跟隨他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "from Jerusalem, from Idumaea, beyond the Jordan, and those from around Tyre and Sidon. A great multitude, hearing what great things he did, came to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有许多人听见他所做的大事，就从犹太、耶路撒冷、以土买、约旦河外，并泰尔、西顿的四方来到他那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有許多人聽見他所做的大事，就從猶太、耶路撒冷、以土買、約旦河外，並泰爾、西頓的四方來到他那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He spoke to his disciples that a little boat should stay near him because of the crowd, so that they wouldn’t press on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他因为人多，就吩咐门徒叫一只小船伺候着，免得众人拥挤他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他因為人多，就吩咐門徒叫一隻小船伺候着，免得眾人擁擠他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For he had healed many, so that as many as had diseases pressed on him that they might touch him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他治好了许多人，所以凡有灾病的，都挤进来要摸他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他治好了許多人，所以凡有災病的，都擠進來要摸他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The unclean spirits, whenever they saw him, fell down before him and cried, “You are the Son of God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "污鬼无论何时看见他，就俯伏在他面前，喊着说：「你是 神的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "污鬼無論何時看見他，就俯伏在他面前，喊着說：「你是上帝的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He sternly warned them that they should not make him known.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣再三地嘱咐他们，不要把他显露出来。 （太10·1—4；路6·12—16）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌再三地囑咐他們，不要把他顯露出來。 （太10‧1－4；路6‧12－16）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He went up into the mountain and called to himself those whom he wanted, and they went to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣上了山，随自己的意思叫人来；他们便来到他那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌上了山，隨自己的意思叫人來；他們便來到他那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He appointed twelve, that they might be with him, and that he might send them out to preach",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就设立十二个人，要他们常和自己同在，也要差他们去传道，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就設立十二個人，要他們常和自己同在，也要差他們去傳道，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and to have authority to heal sicknesses and to cast out demons:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并给他们权柄赶鬼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並給他們權柄趕鬼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Simon (to whom he gave the name Peter);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这十二个人有西门（耶稣又给他起名叫彼得），",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這十二個人有西門（耶穌又給他起名叫彼得），",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "James the son of Zebedee; and John, the brother of James, (whom he called Boanerges, which means, Sons of Thunder);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有西庇太的儿子雅各和雅各的兄弟约翰（又给这两个人起名叫半尼其，就是雷子的意思），",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有西庇太的兒子雅各和雅各的兄弟約翰（又給這兩個人起名叫半尼其，就是雷子的意思），",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Andrew; Philip; Bartholomew; Matthew; Thomas; James, the son of Alphaeus; Thaddaeus; Simon the Zealot;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有安得烈、腓力、巴多罗买、马太、多马、亚勒腓的儿子雅各，和达太，并奋锐党的西门，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有安得烈、腓力、巴多羅買、馬太、多馬、亞勒腓的兒子雅各，和達太，並奮銳黨的西門，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and Judas Iscariot, who also betrayed him. Then he came into a house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有卖耶稣的加略人犹大。 （太12·22—32；路11·14—23；12·10）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有賣耶穌的加略人猶大。 （太12‧22－32；路11‧14－23；12‧10）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The multitude came together again, so that they could not so much as eat bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣进了一个屋子，众人又聚集，甚至他连饭也顾不得吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌進了一個屋子，眾人又聚集，甚至他連飯也顧不得吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "When his friends heard it, they went out to seize him; for they said, “He is insane.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣的亲属听见，就出来要拉住他，因为他们说他癫狂了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌的親屬聽見，就出來要拉住他，因為他們說他癲狂了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The scribes who came down from Jerusalem said, “He has Beelzebul,” and, “By the prince of the demons he casts out the demons.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从耶路撒冷下来的文士说：「他是被别西卜附着」；又说：「他是靠着鬼王赶鬼。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從耶路撒冷下來的文士說：「他是被別西卜附着」；又說：「他是靠着鬼王趕鬼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He summoned them and said to them in parables, “Howcan Satan cast out Satan?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣叫他们来，用比喻对他们说：「撒但怎能赶出撒但呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌叫他們來，用比喻對他們說：「撒但怎能趕出撒但呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Ifa kingdom is divided against itself, that kingdom cannot stand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若一国自相纷争，那国就站立不住；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若一國自相紛爭，那國就站立不住；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Ifa house is divided against itself, that house cannot stand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若一家自相纷争，那家就站立不住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若一家自相紛爭，那家就站立不住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "IfSatan has risen up against himself, and is divided, he can’t stand, but has an end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若撒但自相攻打纷争，他就站立不住，必要灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若撒但自相攻打紛爭，他就站立不住，必要滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Butno one can enter into the house of the strong man to plunder unless he first binds the strong man; then he will plunder his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有人能进壮士家里，抢夺他的家具；必先捆住那壮士，才可以抢夺他的家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有人能進壯士家裏，搶奪他的家具；必先捆住那壯士，才可以搶奪他的家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "“Most certainlyI tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，世人一切的罪和一切亵渎的话都可得赦免；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，世人一切的罪和一切褻瀆的話都可得赦免；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "butwhoever may blaspheme against the Holy Spirit never has forgiveness, but is subject to eternal condemnation.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:29 NU reads, guilty of an eternal sin."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡亵渎圣灵的，却永不得赦免，乃要担当永远的罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡褻瀆聖靈的，卻永不得赦免，乃要擔當永遠的罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "—because they said, “He has an unclean spirit.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这话是因为他们说：「他是被污鬼附着的。」 （太12·46—50；路8·19—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這話是因為他們說：「他是被污鬼附着的。」 （太12‧46－50；路8‧19－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "His mother and his brothers came, and standing outside, they sent to him, calling him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，耶稣的母亲和弟兄来，站在外边，打发人去叫他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，耶穌的母親和弟兄來，站在外邊，打發人去叫他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "A multitude was sitting around him, and they told him, “Behold, your mother, your brothers, and your sisters are outside looking for you.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:32 TR omits “your sisters”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多人在耶稣周围坐着，他们就告诉他说：「看哪，你母亲和你弟兄在外边找你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多人在耶穌周圍坐着，他們就告訴他說：「看哪，你母親和你弟兄在外邊找你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He answered them, “Whoare my mother and my brothers?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「谁是我的母亲？谁是我的弟兄？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「誰是我的母親？誰是我的弟兄？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Looking around at those who sat around him, he said, “Behold, my mother and my brothers!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就四面观看那周围坐着的人，说：「看哪，我的母亲，我的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就四面觀看那周圍坐着的人，說：「看哪，我的母親，我的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Forwhoever does the will of God is my brother, my sister, and mother.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡遵行 神旨意的人就是我的弟兄姊妹和母亲了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡遵行上帝旨意的人就是我的弟兄姊妹和母親了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

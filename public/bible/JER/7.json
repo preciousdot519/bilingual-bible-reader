@@ -1,0 +1,626 @@
+{
+  "bookId": "JER",
+  "chapter": 7,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The word that came to Jeremiah from the LORD, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Stand in the gate of the LORD’s house, and proclaim this word there, and say, ‘Hear the LORD’s word, all you of Judah, who enter in at these gates to worship the LORD.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你当站在耶和华殿的门口，在那里宣传这话说：你们进这些门敬拜耶和华的一切犹大人，当听耶和华的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你當站在耶和華殿的門口，在那裏宣傳這話說：你們進這些門敬拜耶和華的一切猶大人，當聽耶和華的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD of Armies, the God of Israel says, “Amend your ways and your doings, and I will cause you to dwell in this place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神如此说：你们改正行动作为，我就使你们在这地方仍然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝如此說：你們改正行動作為，我就使你們在這地方仍然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Don’t trust in lying words, saying, ‘The LORD’s temple, the LORD’s temple, the LORD’s temple, are these.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不要倚靠虚谎的话，说：『这些是耶和华的殿，是耶和华的殿，是耶和华的殿！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不要倚靠虛謊的話，說：『這些是耶和華的殿，是耶和華的殿，是耶和華的殿！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For if you thoroughly amend your ways and your doings, if you thoroughly execute justice between a man and his neighbor;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们若实在改正行动作为，在人和邻舍中间诚然施行公平，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們若實在改正行動作為，在人和鄰舍中間誠然施行公平，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "if you don’t oppress the foreigner, the fatherless, and the widow, and don’t shed innocent blood in this place, and don’t walk after other gods to your own hurt,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不欺压寄居的和孤儿寡妇，在这地方不流无辜人的血，也不随从别神陷害自己，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不欺壓寄居的和孤兒寡婦，在這地方不流無辜人的血，也不隨從別神陷害自己，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "then I will cause you to dwell in this place, in the land that I gave to your fathers, from of old even forever more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就使你们在这地方仍然居住，就是我古时所赐给你们列祖的地，直到永远。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就使你們在這地方仍然居住，就是我古時所賜給你們列祖的地，直到永遠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Behold, you trust in lying words that can’t profit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「看哪，你们倚靠虚谎无益的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「看哪，你們倚靠虛謊無益的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Will you steal, murder, commit adultery, swear falsely, burn incense to Baal, and walk after other gods that you have not known,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们偷盗，杀害，奸淫，起假誓，向巴力烧香，并随从素不认识的别神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們偷盜，殺害，姦淫，起假誓，向巴力燒香，並隨從素不認識的別神，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "then come and stand before me in this house, which is called by my name, and say, ‘We are delivered,’ that you may do all these abominations?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "且来到这称为我名下的殿，在我面前敬拜；又说：『我们可以自由了。』你们这样的举动是要行那些可憎的事吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "且來到這稱為我名下的殿，在我面前敬拜；又說：『我們可以自由了。』你們這樣的舉動是要行那些可憎的事嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Has this house, which is called by my name, become a den of robbers in your eyes? Behold, I myself have seen it,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这称为我名下的殿在你们眼中岂可看为贼窝吗？我都看见了。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這稱為我名下的殿在你們眼中豈可看為賊窩嗎？我都看見了。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“But go now to my place which was in Shiloh, where I caused my name to dwell at the first, and see what I did to it for the wickedness of my people Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们且往示罗去，就是我先前立为我名的居所，察看我因这百姓以色列的罪恶向那地所行的如何。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們且往示羅去，就是我先前立為我名的居所，察看我因這百姓以色列的罪惡向那地所行的如何。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now, because you have done all these works,” says the LORD, “and I spoke to you, rising up early and speaking, but you didn’t hear; and I called you, but you didn’t answer;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「现在因你们行了这一切的事，我也从早起来警戒你们，你们却不听从；呼唤你们，你们却不答应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「現在因你們行了這一切的事，我也從早起來警戒你們，你們卻不聽從；呼喚你們，你們卻不答應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "therefore I will do to the house which is called by my name, in which you trust, and to the place which I gave to you and to your fathers, as I did to Shiloh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我要向这称为我名下、你们所倚靠的殿，与我所赐给你们和你们列祖的地施行，照我从前向示罗所行的一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我要向這稱為我名下、你們所倚靠的殿，與我所賜給你們和你們列祖的地施行，照我從前向示羅所行的一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I will cast you out of my sight, as I have cast out all your brothers, even the whole offspring of Ephraim.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:15 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必将你们从我眼前赶出，正如赶出你们的众弟兄，就是以法莲的一切后裔。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必將你們從我眼前趕出，正如趕出你們的眾弟兄，就是以法蓮的一切後裔。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Therefore don’t pray for this people. Don’t lift up a cry or prayer for them or make intercession to me; for I will not hear you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「所以，你不要为这百姓祈祷；不要为他们呼求祷告；也不要向我为他们祈求，因我不听允你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「所以，你不要為這百姓祈禱；不要為他們呼求禱告，也不要向我為他們祈求，因我不聽允你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Don’t you see what they do in the cities of Judah and in the streets of Jerusalem?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在犹大城邑中和耶路撒冷街上所行的，你没有看见吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在猶大城邑中和耶路撒冷街上所行的，你沒有看見嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of the sky, and to pour out drink offerings to other gods, that they may provoke me to anger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子捡柴，父亲烧火，妇女抟面做饼，献给天后，又向别神浇奠祭，惹我发怒。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子撿柴，父親燒火，婦女摶麵做餅，獻給天后，又向別神澆奠祭，惹我發怒。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Do they provoke me to anger?” says the LORD. “Don’t they provoke themselves, to the confusion of their own faces?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「他们岂是惹我发怒呢？不是自己惹祸，以致脸上惭愧吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「他們豈是惹我發怒呢？不是自己惹禍，以致臉上慚愧嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore the Lord GOD says: “Behold, my anger and my wrath will be poured out on this place, on man, on animal, on the trees of the field, and on the fruit of the ground; and it will burn and will not be quenched.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以主耶和华如此说：「看哪，我必将我的怒气和忿怒倾在这地方的人和牲畜身上，并田野的树木和地里的出产上，必如火着起，不能熄灭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以主耶和華如此說：「看哪，我必將我的怒氣和忿怒傾在這地方的人和牲畜身上，並田野的樹木和地裏的出產上，必如火着起，不能熄滅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD of Armies, the God of Israel says: “Add your burnt offerings to your sacrifices and eat meat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神如此说：「你们将燔祭加在平安祭上，吃肉吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝如此說：「你們將燔祭加在平安祭上，吃肉吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For I didn’t speak to your fathers or command them in the day that I brought them out of the land of Egypt concerning burnt offerings or sacrifices;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我将你们列祖从埃及地领出来的那日，燔祭平安祭的事我并没有提说，也没有吩咐他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我將你們列祖從埃及地領出來的那日，燔祭平安祭的事我並沒有提說，也沒有吩咐他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "but this thing I commanded them, saying, ‘Listen to my voice, and I will be your God, and you shall be my people. Walk in all the way that I command you, that it may be well with you.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我只吩咐他们这一件说：『你们当听从我的话，我就作你们的 神，你们也作我的子民。你们行我所吩咐的一切道，就可以得福。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我只吩咐他們這一件說：『你們當聽從我的話，我就作你們的上帝，你們也作我的子民。你們行我所吩咐的一切道，就可以得福。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But they didn’t listen or turn their ear, but walked in their own counsels and in the stubbornness of their evil heart, and went backward, and not forward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们却不听从，不侧耳而听，竟随从自己的计谋和顽梗的恶心，向后不向前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們卻不聽從，不側耳而聽，竟隨從自己的計謀和頑梗的惡心，向後不向前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Since the day that your fathers came out of the land of Egypt to this day, I have sent to you all my servants the prophets, daily rising up early and sending them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自从你们列祖出埃及地的那日，直到今日，我差遣我的仆人众先知到你们那里去，每日从早起来差遣他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自從你們列祖出埃及地的那日，直到今日，我差遣我的僕人眾先知到你們那裏去，每日從早起來差遣他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Yet they didn’t listen to me or incline their ear, but made their neck stiff. They did worse than their fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们却不听从，不侧耳而听，竟硬着颈项行恶，比你们列祖更甚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們卻不聽從，不側耳而聽，竟硬着頸項行惡，比你們列祖更甚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“You shall speak all these words to them, but they will not listen to you. You shall also call to them, but they will not answer you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要将这一切的话告诉他们，他们却不听从；呼唤他们，他们却不答应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要將這一切的話告訴他們，他們卻不聽從；呼喚他們，他們卻不答應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "You shall tell them, ‘This is the nation that has not listened to the LORD their God’s voice, nor received instruction. Truth has perished, and is cut off from their mouth.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要对他们说：这就是不听从耶和华—他们 神的话、不受教训的国民；从他们的口中，诚实灭绝了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要對他們說：這就是不聽從耶和華－他們上帝的話、不受教訓的國民；從他們的口中，誠實滅絕了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Cut off your hair, and throw it away, and take up a lamentation on the bare heights; for the LORD has rejected and forsaken the generation of his wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷啊，要剪发抛弃， 在净光的高处举哀； 因为耶和华丢掉离弃了惹他忿怒的世代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷啊，要剪髮拋棄， 在淨光的高處舉哀； 因為耶和華丟掉離棄了惹他忿怒的世代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“For the children of Judah have done that which is evil in my sight,” says the LORD. “They have set their abominations in the house which is called by my name, to defile it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「犹大人行我眼中看为恶的事，将可憎之物设立在称为我名下的殿中，污秽这殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「猶大人行我眼中看為惡的事，將可憎之物設立在稱為我名下的殿中，污穢這殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "They have built the high places of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire, which I didn’t command, nor did it come into my mind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在欣嫩子谷建筑陀斐特的邱坛，好在火中焚烧自己的儿女。这并不是我所吩咐的，也不是我心所起的意。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在欣嫩子谷建築陀斐特的邱壇，好在火中焚燒自己的兒女。這並不是我所吩咐的，也不是我心所起的意。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Therefore behold, the days come”, says the LORD, “that it will no more be called ‘Topheth’ or ‘The valley of the son of Hinnom’, but ‘The valley of Slaughter’; for they will bury in Topheth until there is no place to bury.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「因此，日子将到，这地方不再称为陀斐特和欣嫩子谷，反倒称为杀戮谷。因为要在陀斐特葬埋尸首，甚至无处可葬；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「因此，日子將到，這地方不再稱為陀斐特和欣嫩子谷，反倒稱為殺戮谷。因為要在陀斐特葬埋屍首，甚至無處可葬；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The dead bodies of this people will be food for the birds of the sky, and for the animals of the earth. No one will frighten them away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且这百姓的尸首必给空中的飞鸟和地上的野兽作食物，并无人哄赶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且這百姓的屍首必給空中的飛鳥和地上的野獸作食物，並無人鬨趕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Then I will cause to cease from the cities of Judah and from the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a waste.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，我必使犹大城邑中和耶路撒冷街上，欢喜和快乐的声音，新郎和新妇的声音，都止息了，因为地必成为荒场。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，我必使猶大城邑中和耶路撒冷街上，歡喜和快樂的聲音，新郎和新婦的聲音，都止息了，因為地必成為荒場。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

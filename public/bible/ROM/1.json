@@ -1,0 +1,621 @@
+{
+  "bookId": "ROM",
+  "chapter": 1,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Paul, a servant of Jesus Christ, called to be an apostle, set apart for the Good News of God,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 “Christ” means “Anointed One”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣基督的仆人保罗，奉召为使徒，特派传 神的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌基督的僕人保羅，奉召為使徒，特派傳上帝的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "which he promised before through his prophets in the holy Scriptures,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这福音是 神从前借众先知在圣经上所应许的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這福音是上帝從前藉眾先知在聖經上所應許的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "concerning his Son, who was born of the offspring of David according to the flesh,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:3 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到他儿子—我主耶稣基督。按肉体说，是从大卫后裔生的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到他兒子－我主耶穌基督。按肉體說，是從大衛後裔生的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "who was declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按圣善的灵说，因从死里复活，以大能显明是 神的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按聖善的靈說，因從死裏復活，以大能顯明是上帝的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "through whom we received grace and apostleship for obedience of faith among all the nations for his name’s sake;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们从他受了恩惠并使徒的职分，在万国之中叫人为他的名信服真道；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們從他受了恩惠並使徒的職分，在萬國之中叫人為他的名信服真道；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "among whom you are also called to belong to Jesus Christ;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中也有你们这蒙召属耶稣基督的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中也有你們這蒙召屬耶穌基督的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "to all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我写信给你们在罗马、为 神所爱、奉召作圣徒的众人。愿恩惠、平安从我们的父 神并主耶稣基督归与你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我寫信給你們在羅馬、為上帝所愛、奉召作聖徒的眾人。願恩惠、平安從我們的父上帝並主耶穌基督歸與你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "First, I thank my God through Jesus Christ for all of you, that your faith is proclaimed throughout the whole world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第一，我靠着耶稣基督，为你们众人感谢我的 神，因你们的信德传遍了天下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第一，我靠着耶穌基督，為你們眾人感謝我的上帝，因你們的信德傳遍了天下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For God is my witness, whom I serve in my spirit in the Good News of his Son, how unceasingly I make mention of you always in my prayers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在他儿子福音上，用心灵所事奉的 神可以见证，我怎样不住地提到你们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在他兒子福音上，用心靈所事奉的上帝可以見證，我怎樣不住地提到你們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "requesting, if by any means now at last I may be prospered by the will of God to come to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在祷告之间常常恳求，或者照 神的旨意，终能得平坦的道路往你们那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在禱告之間常常懇求，或者照上帝的旨意，終能得平坦的道路往你們那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For I long to see you, that I may impart to you some spiritual gift, to the end that you may be established;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我切切地想见你们，要把些属灵的恩赐分给你们，使你们可以坚固；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我切切地想見你們，要把些屬靈的恩賜分給你們，使你們可以堅固；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "that is, that I with you may be encouraged in you, each of us by the other’s faith, both yours and mine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我在你们中间，因你与我彼此的信心，就可以同得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我在你們中間，因你與我彼此的信心，就可以同得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now I don’t desire to have you unaware, brothers, that I often planned to come to you (and was hindered so far), that I might have some fruit among you also, even as among the rest of the Gentiles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我不愿意你们不知道，我屡次定意往你们那里去，要在你们中间得些果子，如同在其余的外邦人中一样；只是到如今仍有阻隔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我不願意你們不知道，我屢次定意往你們那裏去，要在你們中間得些果子，如同在其餘的外邦人中一樣；只是到如今仍有阻隔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I am debtor both to Greeks and to foreigners, both to the wise and to the foolish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是希腊人、化外人、聪明人、愚拙人，我都欠他们的债，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是希臘人、化外人、聰明人、愚拙人，我都欠他們的債，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "So as much as is in me, I am eager to preach the Good News to you also who are in Rome.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以情愿尽我的力量，将福音也传给你们在罗马的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以情願盡我的力量，將福音也傳給你們在羅馬的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes, for the Jew first, and also for the Greek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不以福音为耻；这福音本是 神的大能，要救一切相信的，先是犹太人，后是希腊人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不以福音為恥；這福音本是上帝的大能，要救一切相信的，先是猶太人，後是希臘人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:17 Habakkuk 2:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为 神的义正在这福音上显明出来；这义是本于信，以至于信。如经上所记：「义人必因信得生。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝的義正在這福音上顯明出來；這義是本於信，以至於信。如經上所記：「義人必因信得生。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来， 神的忿怒从天上显明在一切不虔不义的人身上，就是那些行不义阻挡真理的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來，上帝的忿怒從天上顯明在一切不虔不義的人身上，就是那些行不義阻擋真理的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "because that which is known of God is revealed in them, for God revealed it to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神的事情，人所能知道的，原显明在人心里，因为 神已经给他们显明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的事情，人所能知道的，原顯明在人心裏，因為上帝已經給他們顯明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity, that they may be without excuse.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自从造天地以来， 神的永能和神性是明明可知的，虽是眼不能见，但借着所造之物就可以晓得，叫人无可推诿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自從造天地以來，上帝的永能和神性是明明可知的，雖是眼不能見，但藉着所造之物就可以曉得，叫人無可推諉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Because knowing God, they didn’t glorify him as God, and didn’t give thanks, but became vain in their reasoning, and their senseless heart was darkened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，他们虽然知道 神，却不当作 神荣耀他，也不感谢他。他们的思念变为虚妄，无知的心就昏暗了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，他們雖然知道上帝，卻不當作上帝榮耀他，也不感謝他。他們的思念變為虛妄，無知的心就昏暗了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Professing themselves to be wise, they became fools,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自称为聪明，反成了愚拙，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自稱為聰明，反成了愚拙，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and traded the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, four-footed animals, and creeping things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将不能朽坏之 神的荣耀变为偶像，仿佛必朽坏的人和飞禽、走兽、昆虫的样式。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將不能朽壞之上帝的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以， 神任凭他们逞着心里的情欲行污秽的事，以致彼此玷辱自己的身体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，上帝任憑他們逞着心裏的情慾行污穢的事，以致彼此玷辱自己的身體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将 神的真实变为虚谎，去敬拜事奉受造之物，不敬奉那造物的主—主乃是可称颂的，直到永远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將上帝的真實變為虛謊，去敬拜事奉受造之物，不敬奉那造物的主－主乃是可稱頌的，直到永遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For this reason, God gave them up to vile passions. For their women changed the natural function into that which is against nature.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此， 神任凭他们放纵可羞耻的情欲。他们的女人把顺性的用处变为逆性的用处；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，上帝任憑他們放縱可羞恥的情慾。他們的女人把順性的用處變為逆性的用處；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "男人也是如此，弃了女人顺性的用处，欲火攻心，彼此贪恋，男和男行可羞耻的事，就在自己身上受这妄为当得的报应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "男人也是如此，棄了女人順性的用處，慾火攻心，彼此貪戀，男和男行可羞恥的事，就在自己身上受這妄為當得的報應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Even as they refused to have God in their knowledge, God gave them up to a reprobate mind, to do those things which are not fitting;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们既然故意不认识 神， 神就任凭他们存邪僻的心，行那些不合理的事；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們既然故意不認識上帝，上帝就任憑他們存邪僻的心，行那些不合理的事；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil habits, secret slanderers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "装满了各样不义、邪恶、贪婪、恶毒；满心是嫉妒、凶杀、争竞、诡诈、毒恨；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:29 或译：阴毒"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "裝滿了各樣不義、邪惡、貪婪、惡毒；滿心是嫉妒、凶殺、爭競、詭詐、毒恨；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:29 或譯：陰毒"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "backbiters, hateful to God, insolent, arrogant, boastful, inventors of evil things, disobedient to parents,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又是谗毁的、背后说人的、怨恨 神的、侮慢人的、狂傲的、自夸的、捏造恶事的、违背父母的、",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:30 或译：被 神所憎恶的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又是讒毀的、背後說人的、怨恨上帝的、侮慢人的、狂傲的、自誇的、捏造惡事的、違背父母的、",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:30 或譯：被上帝所憎惡的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无知的、背约的、无亲情的、不怜悯人的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無知的、背約的、無親情的、不憐憫人的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们虽知道 神判定行这样事的人是当死的，然而他们不但自己去行，还喜欢别人去行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們雖知道上帝判定行這樣事的人是當死的，然而他們不但自己去行，還喜歡別人去行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "bookId": "EXO",
+  "chapter": 34,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD said to Moses, “Chisel two stone tablets like the first. I will write on the tablets the words that were on the first tablets, which you broke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华吩咐摩西说：「你要凿出两块石版，和先前你摔碎的那版一样；其上的字我要写在这版上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華吩咐摩西說：「你要鑿出兩塊石版，和先前你摔碎的那版一樣；其上的字我要寫在這版上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "明日早晨，你要预备好了，上西奈山，在山顶上站在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "明日早晨，你要預備好了，上西奈山，在山頂上站在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "No one shall come up with you or be seen anywhere on the mountain. Do not let the flocks or herds graze in front of that mountain.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁也不可和你一同上去，遍山都不可有人，在山根也不可叫羊群牛群吃草。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰也不可和你一同上去，遍山都不可有人，在山根也不可叫羊群牛群吃草。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He chiseled two tablets of stone like the first; then Moses rose up early in the morning, and went up to Mount Sinai, as the LORD had commanded him, and took in his hand two stone tablets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西就凿出两块石版，和先前的一样。清晨起来，照耶和华所吩咐的上西奈山去，手里拿着两块石版。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西就鑿出兩塊石版，和先前的一樣。清晨起來，照耶和華所吩咐的上西奈山去，手裏拿着兩塊石版。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD descended in the cloud, and stood with him there, and proclaimed the LORD’s name.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "34:5 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在云中降临，和摩西一同站在那里，宣告耶和华的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在雲中降臨，和摩西一同站在那裏，宣告耶和華的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD passed by before him, and proclaimed, “The LORD! The LORD, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在他面前宣告说：「耶和华，耶和华，是有怜悯有恩典的 神，不轻易发怒，并有丰盛的慈爱和诚实，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在他面前宣告說：「耶和華，耶和華，是有憐憫有恩典的上帝，不輕易發怒，並有豐盛的慈愛和誠實，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and who will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children’s children, on the third and on the fourth generation.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为千万人存留慈爱，赦免罪孽、过犯，和罪恶，万不以有罪的为无罪，必追讨他的罪，自父及子，直到三、四代。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為千萬人存留慈愛，赦免罪孽、過犯，和罪惡，萬不以有罪的為無罪，必追討他的罪，自父及子，直到三、四代。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Moses hurried and bowed his head toward the earth, and worshiped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西急忙伏地下拜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西急忙伏地下拜，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said, “If now I have found favor in your sight, Lord, please let the Lord go among us, even though this is a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「主啊，我若在你眼前蒙恩，求你在我们中间同行，因为这是硬着颈项的百姓。又求你赦免我们的罪孽和罪恶，以我们为你的产业。」 （出23·14—19；申7·1—5；16·1—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「主啊，我若在你眼前蒙恩，求你在我們中間同行，因為這是硬着頸項的百姓。又求你赦免我們的罪孽和罪惡，以我們為你的產業。」 （出23‧14－19；申7‧1－5；16‧1－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He said, “Behold, I make a covenant: before all your people I will do marvels, such as have not been worked in all the earth, nor in any nation; and all the people among whom you are shall see the work of the LORD; for it is an awesome thing that I do with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我要立约，要在百姓面前行奇妙的事，是在遍地万国中所未曾行的。在你四围的外邦人就要看见耶和华的作为，因我向你所行的是可畏惧的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我要立約，要在百姓面前行奇妙的事，是在遍地萬國中所未曾行的。在你四圍的外邦人就要看見耶和華的作為，因我向你所行的是可畏懼的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Observe that which I command you today. Behold, I will drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我今天所吩咐你的，你要谨守。我要从你面前撵出亚摩利人、迦南人、赫人、比利洗人、希未人、耶布斯人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我今天所吩咐你的，你要謹守。我要從你面前攆出亞摩利人、迦南人、赫人、比利洗人、希未人、耶布斯人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Be careful, lest you make a covenant with the inhabitants of the land where you are going, lest it be for a snare among you;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要谨慎，不可与你所去那地的居民立约，恐怕成为你们中间的网罗；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要謹慎，不可與你所去那地的居民立約，恐怕成為你們中間的網羅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "but you shall break down their altars, and dash in pieces their pillars, and you shall cut down their Asherah poles;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却要拆毁他们的祭坛，打碎他们的柱像，砍下他们的木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻要拆毀他們的祭壇，打碎他們的柱像，砍下他們的木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "for you shall worship no other god; for the LORD, whose name is Jealous, is a jealous God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可敬拜别神；因为耶和华是忌邪的 神，名为忌邪者。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可敬拜別神；因為耶和華是忌邪的上帝，名為忌邪者。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Don’t make a covenant with the inhabitants of the land, lest they play the prostitute after their gods, and sacrifice to their gods, and one call you and you eat of his sacrifice;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只怕你与那地的居民立约，百姓随从他们的神，就行邪淫，祭祀他们的神，有人叫你，你便吃他的祭物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只怕你與那地的居民立約，百姓隨從他們的神，就行邪淫，祭祀他們的神，有人叫你，你便吃他的祭物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and you take of their daughters to your sons, and their daughters play the prostitute after their gods, and make your sons play the prostitute after their gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又为你的儿子娶他们的女儿为妻，他们的女儿随从她们的神，就行邪淫，使你的儿子也随从她们的神行邪淫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又為你的兒子娶他們的女兒為妻，他們的女兒隨從她們的神，就行邪淫，使你的兒子也隨從她們的神行邪淫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“You shall make no cast idols for yourselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不可为自己铸造神像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不可為自己鑄造神像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“You shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib; for in the month Abib you came out of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要守除酵节，照我所吩咐你的，在亚笔月内所定的日期吃无酵饼七天，因为你是这亚笔月内出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要守除酵節，照我所吩咐你的，在亞筆月內所定的日期吃無酵餅七天，因為你是這亞筆月內出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“All that opens the womb is mine; and all your livestock that is male, the firstborn of cow and sheep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡头生的都是我的；一切牲畜头生的，无论是牛是羊，公的都是我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡頭生的都是我的；一切牲畜頭生的，無論是牛是羊，公的都是我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You shall redeem the firstborn of a donkey with a lamb. If you will not redeem it, then you shall break its neck. You shall redeem all the firstborn of your sons. No one shall appear before me empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "头生的驴要用羊羔代赎，若不代赎就要打折它的颈项。凡头生的儿子都要赎出来。谁也不可空手朝见我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "頭生的驢要用羊羔代贖，若不代贖就要打折牠的頸項。凡頭生的兒子都要贖出來。誰也不可空手朝見我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Six days you shall work, but on the seventh day you shall rest: in plowing time and in harvest you shall rest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你六日要做工，第七日要安息，虽在耕种收割的时候也要安息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你六日要做工，第七日要安息，雖在耕種收割的時候也要安息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“You shall observe the feast of weeks with the first fruits of wheat harvest, and the feast of harvest at the year’s end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在收割初熟麦子的时候要守七七节；又在年底要守收藏节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在收割初熟麥子的時候要守七七節；又在年底要守收藏節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Three times in the year all your males shall appear before the Lord GOD, the God of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们一切男丁要一年三次朝见主耶和华—以色列的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們一切男丁要一年三次朝見主耶和華－以色列的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For I will drive out nations before you and enlarge your borders; neither shall any man desire your land when you go up to appear before the LORD, your God, three times in the year.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要从你面前赶出外邦人，扩张你的境界。你一年三次上去朝见耶和华—你 神的时候，必没有人贪慕你的地土。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要從你面前趕出外邦人，擴張你的境界。你一年三次上去朝見耶和華－你上帝的時候，必沒有人貪慕你的地土。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“You shall not offer the blood of my sacrifice with leavened bread. The sacrifice of the feast of the Passover shall not be left to the morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你不可将我祭物的血和有酵的饼一同献上。逾越节的祭物也不可留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你不可將我祭物的血和有酵的餅一同獻上。逾越節的祭物也不可留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“You shall bring the first of the first fruits of your ground to the house of the LORD your God. You shall not boil a young goat in its mother’s milk.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地里首先初熟之物要送到耶和华—你 神的殿。不可用山羊羔母的奶煮山羊羔。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地裏首先初熟之物要送到耶和華－你上帝的殿。不可用山羊羔母的奶煮山羊羔。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The LORD said to Moses, “Write these words; for in accordance with these words I have made a covenant with you and with Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华吩咐摩西说：「你要将这些话写上，因为我是按这话与你和以色列人立约。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華吩咐摩西說：「你要將這些話寫上，因為我是按這話與你和以色列人立約。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He was there with the LORD forty days and forty nights; he neither ate bread, nor drank water. He wrote on the tablets the words of the covenant, the ten commandments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西在耶和华那里四十昼夜，也不吃饭也不喝水。耶和华将这约的话，就是十条诫，写在两块版上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西在耶和華那裏四十晝夜，也不吃飯也不喝水。耶和華將這約的話，就是十條誡，寫在兩塊版上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "When Moses came down from Mount Sinai with the two tablets of the covenant in Moses’ hand, when he came down from the mountain, Moses didn’t know that the skin of his face shone by reason of his speaking with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西手里拿着两块法版下西奈山的时候，不知道自己的面皮因耶和华和他说话就发了光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西手裏拿着兩塊法版下西奈山的時候，不知道自己的面皮因耶和華和他說話就發了光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "When Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come near him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦和以色列众人看见摩西的面皮发光就怕挨近他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫和以色列眾人看見摩西的面皮發光就怕挨近他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Moses called to them, and Aaron and all the rulers of the congregation returned to him; and Moses spoke to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西叫他们来；于是亚伦和会众的官长都到他那里去，摩西就与他们说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西叫他們來；於是亞倫和會眾的官長都到他那裏去，摩西就與他們說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Afterward all the children of Israel came near, and he gave them all the commandments that the LORD had spoken with him on Mount Sinai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随后以色列众人都近前来，他就把耶和华在西奈山与他所说的一切话都吩咐他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨後以色列眾人都近前來，他就把耶和華在西奈山與他所說的一切話都吩咐他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "When Moses was done speaking with them, he put a veil on his face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西与他们说完了话就用帕子蒙上脸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西與他們說完了話就用帕子蒙上臉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "But when Moses went in before the LORD to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但摩西进到耶和华面前与他说话就揭去帕子，及至出来的时候便将耶和华所吩咐的告诉以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但摩西進到耶和華面前與他說話就揭去帕子，及至出來的時候便將耶和華所吩咐的告訴以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The children of Israel saw Moses’ face, that the skin of Moses’ face shone; so Moses put the veil on his face again, until he went in to speak with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人看见摩西的面皮发光。摩西又用帕子蒙上脸，等到他进去与耶和华说话就揭去帕子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人看見摩西的面皮發光。摩西又用帕子蒙上臉，等到他進去與耶和華說話就揭去帕子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

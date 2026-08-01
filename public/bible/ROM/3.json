@@ -1,0 +1,623 @@
+{
+  "bookId": "ROM",
+  "chapter": 3,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then what advantage does the Jew have? Or what is the profit of circumcision?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样说来，犹太人有什么长处？割礼有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣說來，猶太人有甚麼長處？割禮有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Much in every way! Because first of all, they were entrusted with the revelations of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事大有好处：第一是 神的圣言交托他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事大有好處：第一是上帝的聖言交託他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For what if some were without faith? Will their lack of faith nullify the faithfulness of God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "即便有不信的，这有何妨呢？难道他们的不信就废掉 神的信吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "即便有不信的，這有何妨呢？難道他們的不信就廢掉上帝的信嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "May it never be! Yes, let God be found true, but every man a liar. As it is written, “that you might be justified in your words, and might prevail when you come into judgment.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:4 Psalms 51:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "断乎不能！不如说， 神是真实的，人都是虚谎的。如经上所记： 你责备人的时候，显为公义； 被人议论的时候，可以得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "斷乎不能！不如說，上帝是真實的，人都是虛謊的。如經上所記： 你責備人的時候，顯為公義； 被人議論的時候，可以得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But if our unrighteousness commends the righteousness of God, what will we say? Is God unrighteous who inflicts wrath? I speak like men do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我且照着人的常话说，我们的不义若显出 神的义来，我们可以怎么说呢？ 神降怒，是他不义吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我且照着人的常話說，我們的不義若顯出上帝的義來，我們可以怎麼說呢？上帝降怒，是他不義嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "May it never be! For then how will God judge the world?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "断乎不是！若是这样， 神怎能审判世界呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "斷乎不是！若是這樣，上帝怎能審判世界呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For if the truth of God through my lie abounded to his glory, why am I also still judged as a sinner?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若 神的真实，因我的虚谎越发显出他的荣耀，为什么我还受审判，好像罪人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若上帝的真實，因我的虛謊越發顯出他的榮耀，為甚麼我還受審判，好像罪人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Why not (as we are slanderously reported, and as some affirm that we say), “Let’s do evil, that good may come?” Those who say so are justly condemned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为什么不说，我们可以作恶以成善呢？这是毁谤我们的人说我们有这话。这等人定罪是该当的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為甚麼不說，我們可以作惡以成善呢？這是毀謗我們的人說我們有這話。這等人定罪是該當的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "What then? Are we better than they? No, in no way. For we previously warned both Jews and Greeks that they are all under sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这却怎么样呢？我们比他们强吗？决不是的！因我们已经证明：犹太人和希腊人都在罪恶之下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這卻怎麼樣呢？我們比他們強嗎？決不是的！因我們已經證明：猶太人和希臘人都在罪惡之下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "As it is written, “There is no one righteous; no, not one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就如经上所记： 没有义人，连一个也没有。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如經上所記： 沒有義人，連一個也沒有。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "There is no one who understands. There is no one who seeks after God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有明白的； 没有寻求 神的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有明白的； 沒有尋求上帝的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They have all turned away. They have together become unprofitable. There is no one who does good, no, not so much as one.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:12 Psalms 14:1-3; 53:1-3; Ecclesiastes 7:20",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "都是偏离正路， 一同变为无用。 没有行善的，连一个也没有。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都是偏離正路， 一同變為無用。 沒有行善的，連一個也沒有。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Their throat is an open tomb. With their tongues they have used deceit.” “The poison of vipers is under their lips.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:13 Psalms 5:9",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "3:13 Psalms 140:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他们的喉咙是敞开的坟墓； 他们用舌头弄诡诈， 嘴唇里有虺蛇的毒气，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的喉嚨是敞開的墳墓； 他們用舌頭弄詭詐， 嘴唇裏有虺蛇的毒氣，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Their mouth is full of cursing and bitterness.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:14 Psalms 10:7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "满口是咒骂苦毒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "滿口是咒罵苦毒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Their feet are swift to shed blood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "杀人流血， 他们的脚飞跑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殺人流血， 他們的腳飛跑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Destruction and misery are in their ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所经过的路便行残害暴虐的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所經過的路便行殘害暴虐的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The way of peace, they haven’t known.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:17 Isaiah 59:7-8",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "平安的路，他们未曾知道；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "平安的路，他們未曾知道；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“There is no fear of God before their eyes.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "3:18 Psalms 36:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他们眼中不怕 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們眼中不怕上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgment of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们晓得律法上的话都是对律法以下之人说的，好塞住各人的口，叫普世的人都伏在 神审判之下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們曉得律法上的話都是對律法以下之人說的，好塞住各人的口，叫普世的人都伏在上帝審判之下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Because by the works of the law, no flesh will be justified in his sight; for through the law comes the knowledge of sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以凡有血气的，没有一个因行律法能在 神面前称义，因为律法本是叫人知罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以凡有血氣的，沒有一個因行律法能在上帝面前稱義，因為律法本是叫人知罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But now apart from the law, a righteousness of God has been revealed, being testified by the law and the prophets;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但如今， 神的义在律法以外已经显明出来，有律法和先知为证：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但如今，上帝的義在律法以外已經顯明出來，有律法和先知為證：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "even the righteousness of God through faith in Jesus Christ to all and on all those who believe. For there is no distinction,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是 神的义，因信耶稣基督加给一切相信的人，并没有分别。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是上帝的義，因信耶穌基督加給一切相信的人，並沒有分別。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "for all have sinned, and fall short of the glory of God;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为世人都犯了罪，亏缺了 神的荣耀；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為世人都犯了罪，虧缺了上帝的榮耀；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "being justified freely by his grace through the redemption that is in Christ Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今却蒙 神的恩典，因基督耶稣的救赎，就白白地称义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今卻蒙上帝的恩典，因基督耶穌的救贖，就白白地稱義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "whom God sent to be an atoning sacrifice through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:25 or, a propitiation"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神设立耶稣作挽回祭，是凭着耶稣的血，借着人的信，要显明 神的义；因为他用忍耐的心宽容人先时所犯的罪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝設立耶穌作挽回祭，是憑着耶穌的血，藉着人的信，要顯明上帝的義；因為他用忍耐的心寬容人先時所犯的罪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "to demonstrate his righteousness at this present time, that he might himself be just and the justifier of him who has faith in Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好在今时显明他的义，使人知道他自己为义，也称信耶稣的人为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好在今時顯明他的義，使人知道他自己為義，也稱信耶穌的人為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Where then is the boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既是这样，哪里能夸口呢？没有可夸的了。用何法没有的呢？是用立功之法吗？不是，乃用信主之法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既是這樣，哪裏能誇口呢？沒有可誇的了。用何法沒有的呢？是用立功之法嗎？不是，乃用信主之法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "We maintain therefore that a man is justified by faith apart from the works of the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我们看定了：人称义是因着信，不在乎遵行律法。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:28 有古卷：因为"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我們看定了：人稱義是因着信，不在乎遵行律法。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:28 有古卷：因為"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Or is God the God of Jews only? Isn’t he the God of Gentiles also? Yes, of Gentiles also,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "难道 神只作犹太人的 神吗？不也是作外邦人的 神吗？是的，也作外邦人的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "難道上帝只作猶太人的上帝嗎？不也是作外邦人的上帝嗎？是的，也作外邦人的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "since indeed there is one God who will justify the circumcised by faith and the uncircumcised through faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神既是一位，他就要因信称那受割礼的为义，也要因信称那未受割礼的为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝既是一位，他就要因信稱那受割禮的為義，也要因信稱那未受割禮的為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Do we then nullify the law through faith? May it never be! No, we establish the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我们因信废了律法吗？断乎不是！更是坚固律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們因信廢了律法嗎？斷乎不是！更是堅固律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

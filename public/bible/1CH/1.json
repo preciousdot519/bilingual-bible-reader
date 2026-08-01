@@ -1,0 +1,1021 @@
+{
+  "bookId": "1CH",
+  "chapter": 1,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Adam, Seth, Enosh,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚当生塞特；塞特生以挪士；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞當生塞特；塞特生以挪士；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Kenan, Mahalalel, Jared,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以挪士生该南；该南生玛勒列；玛勒列生雅列；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以挪士生該南；該南生瑪勒列；瑪勒列生雅列；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Enoch, Methuselah, Lamech,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅列生以诺；以诺生玛土撒拉；玛土撒拉生拉麦；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅列生以諾；以諾生瑪土撒拉；瑪土撒拉生拉麥；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Noah, Shem, Ham, and Japheth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉麦生挪亚；挪亚生闪、含、雅弗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉麥生挪亞；挪亞生閃、含、雅弗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅弗的儿子是歌篾、玛各、玛代、雅完、土巴、米设、提拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅弗的兒子是歌篾、瑪各、瑪代、雅完、土巴、米設、提拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "歌篾的儿子是亚实基拿、低法、陀迦玛。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 在创世记十章三节是利法"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "歌篾的兒子是亞實基拿、低法、陀迦瑪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 在創世記十章三節是利法"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅完的儿子是以利沙、他施、基提、多单。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:7 有作罗单的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅完的兒子是以利沙、他施、基提、多單。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:7 有作羅單的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "含的儿子是古实、麦西、弗、迦南。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "含的兒子是古實、麥西、弗、迦南。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The sons of Cush: Seba, Havilah, Sabta, Raama, Sabteca. The sons of Raamah: Sheba and Dedan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "古实的儿子是西巴、哈腓拉、撒弗他、拉玛、撒弗提迦。拉玛的儿子是示巴、底但。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "古實的兒子是西巴、哈腓拉、撒弗他、拉瑪、撒弗提迦。拉瑪的兒子是示巴、底但。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Cush became the father of Nimrod. He began to be a mighty one on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "古实生宁录；他为世上英雄之首。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "古實生寧錄；他為世上英雄之首。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "麦西生路低人、亚拿米人、利哈比人、拿弗土希人、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "麥西生路低人、亞拿米人、利哈比人、拿弗土希人、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Pathrusim, Casluhim (where the Philistines came from), and Caphtorim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帕斯鲁细人、迦斯路希人、迦斐托人；从迦斐托出来的有非利士人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帕斯魯細人、迦斯路希人、迦斐託人；從迦斐託出來的有非利士人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Canaan became the father of Sidon his firstborn, Heth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦南生长子西顿，又生赫",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦南生長子西頓，又生赫",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the Jebusite, the Amorite, the Girgashite,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和耶布斯人、亚摩利人、革迦撒人、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和耶布斯人、亞摩利人、革迦撒人、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "the Hivite, the Arkite, the Sinite,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希未人、亚基人、西尼人、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希未人、亞基人、西尼人、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the Arvadite, the Zemarite, and the Hamathite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚瓦底人、洗玛利人，并哈马人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞瓦底人、洗瑪利人，並哈馬人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "闪的儿子是以拦、亚述、亚法 撒、路德、亚兰、乌斯、户勒、基帖、米设。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:17 在创世记十章二十三节是玛施"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "閃的兒子是以攔、亞述、亞法撒、路德、亞蘭、烏斯、戶勒、基帖、米設。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:17 在創世記十章二十三節是瑪施"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Arpachshad became the father of Shelah, and Shelah became the father of Eber.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚法撒生沙拉；沙拉生希伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞法撒生沙拉；沙拉生希伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希伯生了两个儿子：一个名叫法勒，因为那时人就分地居住；法勒的兄弟名叫约坍。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:19 就是分的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希伯生了兩個兒子：一個名叫法勒，因為那時人就分地居住；法勒的兄弟名叫約坍。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:19 就是分的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约坍生亚摩答、沙列、哈萨玛非、耶拉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約坍生亞摩答、沙列、哈薩瑪非、耶拉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Hadoram, Uzal, Diklah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈多兰、乌萨、德拉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈多蘭、烏薩、德拉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Ebal, Abimael, Sheba,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以巴录、亚比玛利、示巴、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以巴錄、亞比瑪利、示巴、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "阿斐、哈腓拉、约巴。这都是约坍的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "阿斐、哈腓拉、約巴。這都是約坍的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Shem, Arpachshad, Shelah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "闪生亚法撒；亚法撒生沙拉；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "閃生亞法撒；亞法撒生沙拉；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Eber, Peleg, Reu,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙拉生希伯；希伯生法勒；法勒生拉吴；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙拉生希伯；希伯生法勒；法勒生拉吳；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Serug, Nahor, Terah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉吴生西鹿；西鹿生拿鹤；拿鹤生他拉；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉吳生西鹿；西鹿生拿鶴；拿鶴生他拉；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Abram (also called Abraham).",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他拉生亚伯兰，亚伯兰就是亚伯拉罕。 （创25·12—16）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他拉生亞伯蘭，亞伯蘭就是亞伯拉罕。 （創25‧12－16）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The sons of Abraham: Isaac and Ishmael.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕的儿子是以撒、以实玛利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕的兒子是以撒、以實瑪利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "These are their generations: the firstborn of Ishmael, Nebaioth; then Kedar, Adbeel, Mibsam,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以实玛利的儿子记在下面：以实玛利的长子是尼拜约，其次是基达、押德别、米比衫、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以實瑪利的兒子記在下面：以實瑪利的長子是尼拜約，其次是基達、押德別、米比衫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Mishma, Dumah, Massa, Hadad, Tema,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米施玛、度玛、玛撒、哈达、提玛、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米施瑪、度瑪、瑪撒、哈達、提瑪、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊突、拿非施、基底玛。这都是以实玛利的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊突、拿非施、基底瑪。這都是以實瑪利的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕的妾基土拉所生的儿子，就是心兰、约珊、米但、米甸、伊施巴、书亚。约珊的儿子是示巴、底但。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕的妾基土拉所生的兒子，就是心蘭、約珊、米但、米甸、伊施巴、書亞。約珊的兒子是示巴、底但。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米甸的儿子是以法、以弗、哈诺、亚比大、以勒大。这都是基土拉的子孙。 （创36·1—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米甸的兒子是以法、以弗、哈諾、亞比大、以勒大。這都是基土拉的子孫。 （創36‧1－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Abraham became the father of Isaac. The sons of Isaac: Esau and Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕生以撒；以撒的儿子是以扫和以色列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕生以撒；以撒的兒子是以掃和以色列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以扫的儿子是以利法、流珥、耶乌施、雅兰、可拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以掃的兒子是以利法、流珥、耶烏施、雅蘭、可拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利法的儿子是提幔、阿抹、洗玻、迦坦、基纳斯、亭纳、亚玛力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利法的兒子是提幔、阿抹、洗玻、迦坦、基納斯、亭納、亞瑪力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "流珥的儿子是拿哈、谢拉、沙玛、米撒。 （创36·20—30）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "流珥的兒子是拿哈、謝拉、沙瑪、米撒。 （創36‧20－30）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西珥的儿子是罗坍、朔巴、祭便、亚拿、底顺、以察、底珊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西珥的兒子是羅坍、朔巴、祭便、亞拿、底順、以察、底珊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The sons of Lotan: Hori and Homam; and Timna was Lotan’s sister.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗坍的儿子是何利、荷幔；罗坍的妹子是亭纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅坍的兒子是何利、荷幔；羅坍的妹子是亭納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "朔巴的儿子是亚勒文、玛拿辖、以巴录、示非、阿南。祭便的儿子是亚雅、亚拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "朔巴的兒子是亞勒文、瑪拿轄、以巴錄、示非、阿南。祭便的兒子是亞雅、亞拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "The son of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿的儿子是底顺。底顺的儿子是哈默兰、伊是班、益兰、基兰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿的兒子是底順。底順的兒子是哈默蘭、伊是班、益蘭、基蘭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The sons of Ezer: Bilhan, Zaavan, and Jaakan. The sons of Dishan: Uz and Aran.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以察的儿子是辟罕、撒番、亚干。底珊的儿子是乌斯、亚兰。 （创36·31—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以察的兒子是辟罕、撒番、亞干。底珊的兒子是烏斯、亞蘭。 （創36‧31－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Now these are the kings who reigned in the land of Edom, before any king reigned over the children of Israel: Bela the son of Beor; and the name of his city was Dinhabah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人未有君王治理之先，在以东地作王的记在下面：有比珥的儿子比拉，他的京城名叫亭哈巴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人未有君王治理之先，在以東地作王的記在下面：有比珥的兒子比拉，他的京城名叫亭哈巴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Bela died, and Jobab the son of Zerah of Bozrah reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比拉死了，波斯拉人谢拉的儿子约巴接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比拉死了，波斯拉人謝拉的兒子約巴接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Jobab died, and Husham of the land of the Temanites reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约巴死了，提幔地的人户珊接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約巴死了，提幔地的人戶珊接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Husham died, and Hadad the son of Bedad, who struck Midian in the field of Moab, reigned in his place; and the name of his city was Avith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户珊死了，比达的儿子哈达接续他作王。这哈达就是在摩押地杀败米甸人的，他的京城名叫亚未得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶珊死了，比達的兒子哈達接續他作王。這哈達就是在摩押地殺敗米甸人的，他的京城名叫亞未得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Hadad died, and Samlah of Masrekah reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈达死了，玛士利加人桑拉接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈達死了，瑪士利加人桑拉接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Samlah died, and Shaul of Rehoboth by the River reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "桑拉死了，大河边的利河伯人扫罗接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "桑拉死了，大河邊的利河伯人掃羅接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Shaul died, and Baal Hanan the son of Achbor reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗死了，亚革波的儿子巴勒·哈南接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅死了，亞革波的兒子巴勒‧哈南接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai. His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒·哈南死了，哈达接续他作王。他的京城名叫巴伊，他的妻子名叫米希她别，是米·萨合的孙女，玛特列的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒‧哈南死了，哈達接續他作王。他的京城名叫巴伊，他的妻子名叫米希她別，是米‧薩合的孫女，瑪特列的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Then Hadad died. The chiefs of Edom were: chief Timna, chief Aliah, chief Jetheth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈达死了，以东人的族长有亭纳族长、亚勒瓦族长、耶帖族长、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈達死了，以東人的族長有亭納族長、亞勒瓦族長、耶帖族長、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "chief Oholibamah, chief Elah, chief Pinon,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚何利巴玛族长、以拉族长、比嫩族长、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞何利巴瑪族長、以拉族長、比嫩族長、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "chief Kenaz, chief Teman, chief Mibzar,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基纳斯族长、提幔族长、米比萨族长、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基納斯族長、提幔族長、米比薩族長、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "chief Magdiel, and chief Iram. These are the chiefs of Edom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛基叠族长、以兰族长。这都是以东人的族长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪基疊族長、以蘭族長。這都是以東人的族長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

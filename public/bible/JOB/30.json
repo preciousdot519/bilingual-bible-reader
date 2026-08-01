@@ -1,0 +1,587 @@
+{
+  "bookId": "JOB",
+  "chapter": 30,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“But now those who are younger than I have me in derision, whose fathers I considered unworthy to put with my sheep dogs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但如今，比我年少的人戏笑我； 其人之父我曾藐视， 不肯安在看守我羊群的狗中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但如今，比我年少的人戲笑我； 其人之父我曾藐視， 不肯安在看守我羊群的狗中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Of what use is the strength of their hands to me, men in whom ripe age has perished?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们壮年的气力既已衰败， 其手之力与我何益呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們壯年的氣力既已衰敗， 其手之力與我何益呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They are gaunt from lack and famine. They gnaw the dry ground, in the gloom of waste and desolation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们因穷乏饥饿，身体枯瘦， 在荒废凄凉的幽暗中啃干燥之地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們因窮乏飢餓，身體枯瘦， 在荒廢淒涼的幽暗中齦乾燥之地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They pluck salt herbs by the bushes. The roots of the broom tree are their food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在草丛之中采咸草， 罗腾的根为他们的食物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:4 小树名，松类"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在草叢之中採鹹草， 羅騰的根為他們的食物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:4 小樹名，松類"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They are driven out from among men. They cry after them as after a thief,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从人中被赶出； 人追喊他们如贼一般，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從人中被趕出； 人追喊他們如賊一般，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "so that they live in frightful valleys, and in holes of the earth and of the rocks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以致他们住在荒谷之间， 在地洞和岩穴中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以致他們住在荒谷之間， 在地洞和巖穴中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They bray among the bushes. They are gathered together under the nettles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在草丛中叫唤， 在荆棘下聚集。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在草叢中叫喚， 在荊棘下聚集。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They are children of fools, yes, children of wicked men. They were flogged out of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是愚顽下贱人的儿女； 他们被鞭打，赶出境外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是愚頑下賤人的兒女； 他們被鞭打，趕出境外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“Now I have become their song. Yes, I am a byword to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在这些人以我为歌曲， 以我为笑谈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在這些人以我為歌曲， 以我為笑談。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They abhor me, they stand aloof from me, and don’t hesitate to spit in my face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们厌恶我，躲在旁边站着， 不住地吐唾沫在我脸上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們厭惡我，躲在旁邊站着， 不住地吐唾沫在我臉上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For he has untied his cord, and afflicted me; and they have thrown off restraint before me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "松开他们的绳索苦待我， 在我面前脱去辔头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鬆開他們的繩索苦待我， 在我面前脫去轡頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "On my right hand rise the rabble. They thrust aside my feet. They cast their ways of destruction up against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这等下流人在我右边起来， 推开我的脚，筑成战路来攻击我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這等下流人在我右邊起來， 推開我的腳，築成戰路來攻擊我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They mar my path. They promote my destruction without anyone’s help.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些无人帮助的， 毁坏我的道，加增我的灾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些無人幫助的， 毀壞我的道，加增我的災。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "As through a wide breach they come. They roll themselves in amid the ruin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来如同闯进大破口， 在毁坏之间滚在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來如同闖進大破口， 在毀壞之間滾在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Terrors have turned on me. They chase my honor as the wind. My welfare has passed away as a cloud.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惊恐临到我， 驱逐我的尊荣如风； 我的福禄如云过去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驚恐臨到我， 驅逐我的尊榮如風； 我的福祿如雲過去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Now my soul is poured out within me. Days of affliction have taken hold of me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我心极其悲伤； 困苦的日子将我抓住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我心極其悲傷； 困苦的日子將我抓住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In the night season my bones are pierced in me, and the pains that gnaw me take no rest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夜间，我里面的骨头刺我， 疼痛不止，好像啃我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "夜間，我裏面的骨頭刺我， 疼痛不止，好像齦我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "My garment is disfigured by great force. It binds me about as the collar of my tunic.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因 神的大力，我的外衣污秽不堪， 又如里衣的领子将我缠住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因上帝的大力，我的外衣污穢不堪， 又如裏衣的領子將我纏住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He has cast me into the mire. I have become like dust and ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神把我扔在淤泥中， 我就像尘土和炉灰一般。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝把我扔在淤泥中， 我就像塵土和爐灰一般。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "I cry to you, and you do not answer me. I stand up, and you gaze at me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，我呼求你，你不应允我； 我站起来，你就定睛看我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，我呼求你，你不應允我； 我站起來，你就定睛看我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You have turned to be cruel to me. With the might of your hand you persecute me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你向我变心，待我残忍， 又用大能追逼我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你向我變心，待我殘忍， 又用大能追逼我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You lift me up to the wind, and drive me with it. You dissolve me in the storm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把我提在风中，使我驾风而行， 又使我消灭在烈风中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把我提在風中，使我駕風而行， 又使我消滅在烈風中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For I know that you will bring me to death, to the house appointed for all living.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道要使我临到死地， 到那为众生所定的阴宅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道要使我臨到死地， 到那為眾生所定的陰宅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“However doesn’t one stretch out a hand in his fall? Or in his calamity therefore cry for help?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，人仆倒岂不伸手？ 遇灾难岂不求救呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，人仆倒豈不伸手？ 遇災難豈不求救呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Didn’t I weep for him who was in trouble? Wasn’t my soul grieved for the needy?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人遭难，我岂不为他哭泣呢？ 人穷乏，我岂不为他忧愁呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人遭難，我豈不為他哭泣呢？ 人窮乏，我豈不為他憂愁呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When I looked for good, then evil came. When I waited for light, darkness came.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我仰望得好处，灾祸就到了； 我等待光明，黑暗便来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我仰望得好處，災禍就到了； 我等待光明，黑暗便來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "My heart is troubled, and doesn’t rest. Days of affliction have come on me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里烦扰不安， 困苦的日子临到我身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏煩擾不安， 困苦的日子臨到我身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "I go mourning without the sun. I stand up in the assembly, and cry for help.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我没有日光就哀哭行去 ； 我在会中站着求救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:28 或译：我面发黑并非因日晒"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我沒有日光就哀哭行去； 我在會中站着求救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 30:28 或譯：我面發黑並非因日曬"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "I am a brother to jackals, and a companion to ostriches.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我与野狗为弟兄， 与鸵鸟为同伴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我與野狗為弟兄， 與鴕鳥為同伴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "My skin grows black and peels from me. My bones are burned with heat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的皮肤黑而脱落； 我的骨头因热烧焦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的皮膚黑而脫落； 我的骨頭因熱燒焦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Therefore my harp has turned to mourning, and my pipe into the voice of those who weep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我的琴音变为悲音； 我的箫声变为哭声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我的琴音變為悲音； 我的簫聲變為哭聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

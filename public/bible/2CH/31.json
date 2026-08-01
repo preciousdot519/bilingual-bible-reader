@@ -1,0 +1,397 @@
+{
+  "bookId": "2CH",
+  "chapter": 31,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事既都完毕，在那里的以色列众人就到犹大的城邑，打碎柱像，砍断木偶，又在犹大、便雅悯、以法莲、玛拿西遍地将邱坛和祭坛拆毁净尽。于是以色列众人各回各城，各归各地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事既都完畢，在那裏的以色列眾人就到猶大的城邑，打碎柱像，砍斷木偶，又在猶大、便雅憫、以法蓮、瑪拿西遍地將邱壇和祭壇拆毀淨盡。於是以色列眾人各回各城，各歸各地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Hezekiah appointed the divisions of the priests and the Levites after their divisions, every man according to his service, both the priests and the Levites, for burnt offerings and for peace offerings, to minister, to give thanks, and to praise in the gates of the LORD’s camp.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家派定祭司利未人的班次，各按各职献燔祭和平安祭，又在耶和华殿门内事奉，称谢颂赞耶和华。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:2 原文是营"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家派定祭司利未人的班次，各按各職獻燔祭和平安祭，又在耶和華殿門內事奉，稱謝頌讚耶和華。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:2 原文是營"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He also appointed the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, for the new moons, and for the set feasts, as it is written in the LORD’s law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王又从自己的产业中定出分来为燔祭，就是早晚的燔祭和安息日、月朔，并节期的燔祭，都是按耶和华律法上所载的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王又從自己的產業中定出分來為燔祭，就是早晚的燔祭和安息日、月朔，並節期的燔祭，都是按耶和華律法上所載的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moreover he commanded the people who lived in Jerusalem to give the portion of the priests and the Levites, that they might give themselves to the LORD’s law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又吩咐住耶路撒冷的百姓将祭司、利未人所应得的分给他们，使他们专心遵守耶和华的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又吩咐住耶路撒冷的百姓將祭司、利未人所應得的分給他們，使他們專心遵守耶和華的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "As soon as the commandment went out, the children of Israel gave in abundance the first fruits of grain, new wine, oil, honey, and of all the increase of the field; and they brought in the tithe of all things abundantly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谕旨一出，以色列人就把初熟的五谷、新酒、油、蜜，和田地的出产多多送来，又把各物的十分之一送来的极多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諭旨一出，以色列人就把初熟的五穀、新酒、油、蜜，和田地的出產多多送來，又把各物的十分之一送來的極多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The children of Israel and Judah, who lived in the cities of Judah, also brought in the tithe of cattle and sheep, and the tithe of dedicated things which were consecrated to the LORD their God, and laid them in heaps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住犹大各城的以色列人和犹大人也将牛羊的十分之一，并分别为圣归耶和华—他们 神之物，就是十分取一之物，尽都送来，积成堆垒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住猶大各城的以色列人和猶大人也將牛羊的十分之一，並分別為聖歸耶和華－他們上帝之物，就是十分取一之物，盡都送來，積成堆壘；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "In the third month, they began to lay the foundation of the heaps, and finished them in the seventh month.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三月积起，到七月才完。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三月積起，到七月才完。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When Hezekiah and the princes came and saw the heaps, they blessed the LORD and his people Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家和众首领来，看见堆垒，就称颂耶和华，又为耶和华的民以色列人祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家和眾首領來，看見堆壘，就稱頌耶和華，又為耶和華的民以色列人祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then Hezekiah questioned the priests and the Levites about the heaps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家向祭司、利未人查问这堆垒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家向祭司、利未人查問這堆壘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Azariah the chief priest, of the house of Zadok, answered him and said, “Since people began to bring the offerings into the LORD’s house, we have eaten and had enough, and have plenty left over, for the LORD has blessed his people; and that which is left is this great store.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒督家的大祭司亚撒利雅回答说：「自从民将供物送到耶和华殿以来，我们不但吃饱，且剩下的甚多；因为耶和华赐福给他的民，所剩下的才这样丰盛。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒督家的大祭司亞撒利雅回答說：「自從民將供物送到耶和華殿以來，我們不但吃飽，且剩下的甚多；因為耶和華賜福給他的民，所剩下的才這樣豐盛。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then Hezekiah commanded them to prepare rooms in the LORD’s house, and they prepared them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家吩咐在耶和华殿里预备仓房，他们就预备了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家吩咐在耶和華殿裏預備倉房，他們就預備了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They brought in the offerings, the tithes, and the dedicated things faithfully. Conaniah the Levite was ruler over them, and Shimei his brother was second.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们诚心将供物和十分取一之物，并分别为圣之物，都搬入仓内。利未人歌楠雅掌管这事，他兄弟示每为副管。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們誠心將供物和十分取一之物，並分別為聖之物，都搬入倉內。利未人歌楠雅掌管這事，他兄弟示每為副管。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the hand of Conaniah and Shimei his brother, by the appointment of Hezekiah the king and Azariah the ruler of God’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶歇、亚撒细雅、拿哈、亚撒黑、耶利末、约撒拔、以列、伊斯玛基雅、玛哈、比拿雅都是督理，在歌楠雅和他兄弟示每的手下，是希西家王和管理 神殿的亚撒利雅所派的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶歇、亞撒細雅、拿哈、亞撒黑、耶利末、約撒拔、以列、伊斯瑪基雅、瑪哈、比拿雅都是督理，在歌楠雅和他兄弟示每的手下，是希西家王和管理上帝殿的亞撒利雅所派的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Kore the son of Imnah the Levite, the gatekeeper at the east gate, was over the free will offerings of God, to distribute the LORD’s offerings and the most holy things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "守东门的利未人音拿的儿子可利，掌管乐意献与 神的礼物，发放献与耶和华的供物和至圣的物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "守東門的利未人音拿的兒子可利，掌管樂意獻與上帝的禮物，發放獻與耶和華的供物和至聖的物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他手下有伊甸、珉雅珉、耶书亚、示玛雅、亚玛利雅、示迦尼雅，在祭司的各城里供紧要的职任，无论弟兄大小，都按着班次分给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他手下有伊甸、珉雅珉、耶書亞、示瑪雅、亞瑪利雅、示迦尼雅，在祭司的各城裏供緊要的職任，無論弟兄大小，都按着班次分給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "in addition to those who were listed by genealogy of males, from three years old and upward, even everyone who entered into the LORD’s house, as the duty of every day required, for their service in their offices according to their divisions;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按家谱，三岁以外的男丁，凡每日进耶和华殿、按班次供职的，也分给他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按家譜，三歲以外的男丁，凡每日進耶和華殿、按班次供職的，也分給他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又按宗族家谱分给祭司，按班次职任分给二十岁以外的利未人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又按宗族家譜分給祭司，按班次職任分給二十歲以外的利未人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又按家谱计算，分给他们会中的妻子、儿女；因他们身供要职，自洁成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又按家譜計算，分給他們會中的妻子、兒女；因他們身供要職，自潔成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Also for the sons of Aaron the priests, who were in the fields of the pasture lands of their cities, in every city, there were men who were mentioned by name to give portions to all the males among the priests and to all who were listed by genealogy among the Levites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按名派定的人要把应得的分给亚伦子孙，住在各城郊野、祭司所有的男丁和一切载入家谱的利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按名派定的人要把應得的分給亞倫子孫，住在各城郊野、祭司所有的男丁和一切載入家譜的利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before the LORD his God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家在犹大遍地这样办理，行耶和华—他 神眼中看为善为正为忠的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家在猶大遍地這樣辦理，行耶和華－他上帝眼中看為善為正為忠的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡他所行的，无论是办 神殿的事，是遵律法守诫命，是寻求他的 神，都是尽心去行，无不亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡他所行的，無論是辦上帝殿的事，是遵律法守誡命，是尋求他的上帝，都是盡心去行，無不亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

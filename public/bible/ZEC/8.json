@@ -1,0 +1,443 @@
+{
+  "bookId": "ZEC",
+  "chapter": 8,
+  "bookEnglish": "Zechariah",
+  "bookChineseSimplified": "撒迦利亚书",
+  "bookChineseTraditional": "撒迦利亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The word of the LORD of Armies came to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD of Armies says: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「万军之耶和华如此说：我为锡安心里极其火热，我为她火热，向她的仇敌发烈怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「萬軍之耶和華如此說：我為錫安心裏極其火熱，我為她火熱，向她的仇敵發烈怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD says: “I have returned to Zion, and will dwell in the middle of Jerusalem. Jerusalem shall be called ‘The City of Truth;’ and the mountain of the LORD of Armies, ‘The Holy Mountain.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说：我现在回到锡安，要住在耶路撒冷中。耶路撒冷必称为诚实的城，万军之耶和华的山必称为圣山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說：我現在回到錫安，要住在耶路撒冷中。耶路撒冷必稱為誠實的城，萬軍之耶和華的山必稱為聖山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD of Armies says: “Old men and old women will again dwell in the streets of Jerusalem, every man with his staff in his hand because of their old age.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：将来必有年老的男女坐在耶路撒冷街上，因为年纪老迈就手拿拐杖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：將來必有年老的男女坐在耶路撒冷街上，因為年紀老邁就手拿柺杖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The streets of the city will be full of boys and girls playing in its streets.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城中街上必满有男孩女孩玩耍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城中街上必滿有男孩女孩玩耍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD of Armies says: “If it is marvelous in the eyes of the remnant of this people in those days, should it also be marvelous in my eyes?” says the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：到那日，这事在余剩的民眼中看为希奇，在我眼中也看为希奇吗？这是万军之耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：到那日，這事在餘剩的民眼中看為希奇，在我眼中也看為希奇嗎？這是萬軍之耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD of Armies says: “Behold, I will save my people from the east country and from the west country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：我要从东方从西方救回我的民。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：我要從東方從西方救回我的民。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I will bring them, and they will dwell within Jerusalem. They will be my people, and I will be their God, in truth and in righteousness.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要领他们来，使他们住在耶路撒冷中。他们要作我的子民，我要作他们的 神，都凭诚实和公义。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要領他們來，使他們住在耶路撒冷中。他們要作我的子民，我要作他們的上帝，都憑誠實和公義。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD of Armies says: “Let your hands be strong, you who hear in these days these words from the mouth of the prophets who were in the day that the foundation of the house of the LORD of Armies was laid, even the temple, that it might be built.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：「当建造万军之耶和华的殿，立根基之日的先知所说的话，现在你们听见，应当手里强壮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：「當建造萬軍之耶和華的殿，立根基之日的先知所說的話，現在你們聽見，應當手裏強壯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For before those days there was no wages for man nor any wages for an animal, neither was there any peace to him who went out or came in, because of the adversary. For I set all men everyone against his neighbor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日以先，人得不着雇价，牲畜也是如此；且因敌人的缘故，出入之人不得平安，乃因我使众人互相攻击。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日以先，人得不着雇價，牲畜也是如此；且因敵人的緣故，出入之人不得平安，乃因我使眾人互相攻擊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But now I will not be to the remnant of this people as in the former days,” says the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但如今，我待这余剩的民必不像从前。这是万军之耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但如今，我待這餘剩的民必不像從前。這是萬軍之耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“For the seed of peace and the vine will yield its fruit, and the ground will give its increase, and the heavens will give their dew. I will cause the remnant of this people to inherit all these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们必平安撒种，葡萄树必结果子，地土必有出产，天也必降甘露。我要使这余剩的民享受这一切的福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們必平安撒種，葡萄樹必結果子，地土必有出產，天也必降甘露。我要使這餘剩的民享受這一切的福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "It shall come to pass that, as you were a curse among the nations, house of Judah and house of Israel, so I will save you, and you shall be a blessing. Don’t be afraid. Let your hands be strong.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大家和以色列家啊，你们从前在列国中怎样成为可咒诅的；照样，我要拯救你们，使人称你们为有福的。你们不要惧怕，手要强壮。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:13 或译：使你们叫人得福"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大家和以色列家啊，你們從前在列國中怎樣成為可咒詛的；照樣，我要拯救你們，使人稱你們為有福的。你們不要懼怕，手要強壯。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:13 或譯：使你們叫人得福"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For the LORD of Armies says: “As I thought to do evil to you when your fathers provoked me to wrath,” says the LORD of Armies, “and I didn’t repent,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：「你们列祖惹我发怒的时候，我怎样定意降祸，并不后悔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：「你們列祖惹我發怒的時候，我怎樣定意降禍，並不後悔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "so again I have thought in these days to do good to Jerusalem and to the house of Judah. Don’t be afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我照样定意施恩与耶路撒冷和犹大家，你们不要惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我照樣定意施恩與耶路撒冷和猶大家，你們不要懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "These are the things that you shall do: speak every man the truth with his neighbor. Execute the judgment of truth and peace in your gates,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们所当行的是这样：各人与邻舍说话诚实，在城门口按至理判断，使人和睦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們所當行的是這樣：各人與鄰舍說話誠實，在城門口按至理判斷，使人和睦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "and let none of you devise evil in your hearts against his neighbor, and love no false oath; for all these are things that I hate,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁都不可心里谋害邻舍，也不可喜爱起假誓，因为这些事都为我所恨恶。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰都不可心裏謀害鄰舍，也不可喜愛起假誓，因為這些事都為我所恨惡。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The word of the LORD of Armies came to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The LORD of Armies says: “The fasts of the fourth, fifth, seventh, and tenth months shall be for the house of Judah joy, gladness, and cheerful feasts. Therefore love truth and peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「万军之耶和华如此说：四月、五月禁食的日子，七月、十月禁食的日子，必变为犹大家欢喜快乐的日子和欢乐的节期；所以你们要喜爱诚实与和平。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「萬軍之耶和華如此說：四月、五月禁食的日子，七月、十月禁食的日子，必變為猶大家歡喜快樂的日子和歡樂的節期；所以你們要喜愛誠實與和平。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The LORD of Armies says: “Many peoples and the inhabitants of many cities will yet come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：「将来必有列国的人和多城的居民来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：「將來必有列國的人和多城的居民來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The inhabitants of one will go to another, saying, ‘Let’s go speedily to entreat the favor of the LORD, and to seek the LORD of Armies. I will go also.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这城的居民必到那城，说：『我们要快去恳求耶和华的恩，寻求万军之耶和华；我也要去。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這城的居民必到那城，說：『我們要快去懇求耶和華的恩，尋求萬軍之耶和華；我也要去。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Yes, many peoples and strong nations will come to seek the LORD of Armies in Jerusalem and to entreat the favor of the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必有列邦的人和强国的民来到耶路撒冷寻求万军之耶和华，恳求耶和华的恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必有列邦的人和強國的民來到耶路撒冷尋求萬軍之耶和華，懇求耶和華的恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The LORD of Armies says: “In those days, ten men out of all the languages of the nations will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：在那些日子，必有十个人从列国诸族中出来，拉住一个犹大人的衣襟，说：『我们要与你们同去，因为我们听见 神与你们同在了。』」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:23 原文是方言"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：在那些日子，必有十個人從列國諸族中出來，拉住一個猶大人的衣襟，說：『我們要與你們同去，因為我們聽見上帝與你們同在了。』」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:23 原文是方言"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

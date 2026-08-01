@@ -1,0 +1,837 @@
+{
+  "bookId": "JOS",
+  "chapter": 21,
+  "bookEnglish": "Joshua",
+  "bookChineseSimplified": "约书亚记",
+  "bookChineseTraditional": "約書亞記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then the heads of fathers’ houses of the Levites came near to Eleazar the priest, and to Joshua the son of Nun, and to the heads of fathers’ houses of the tribes of the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，利未人的众族长来到祭司以利亚撒和嫩的儿子约书亚，并以色列各支派的族长面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，利未人的眾族長來到祭司以利亞撒和嫩的兒子約書亞，並以色列各支派的族長面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They spoke to them at Shiloh in the land of Canaan, saying, “The LORD commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在迦南地的示罗对他们说：「从前耶和华借着摩西吩咐给我们城邑居住，并城邑的郊野可以牧养我们的牲畜。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在迦南地的示羅對他們說：「從前耶和華藉着摩西吩咐給我們城邑居住，並城邑的郊野可以牧養我們的牲畜。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The children of Israel gave to the Levites out of their inheritance, according to the commandment of the LORD, these cities with their pasture lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列人照耶和华所吩咐的，从自己的地业中，将以下所记的城邑和城邑的郊野给了利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列人照耶和華所吩咐的，從自己的地業中，將以下所記的城邑和城邑的郊野給了利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The lot came out for the families of the Kohathites. The children of Aaron the priest, who were of the Levites, had thirteen cities by lot out of the tribe of Judah, out of the tribe of the Simeonites, and out of the tribe of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为哥辖族拈阄：利未人的祭司、亚伦的子孙，从犹大支派、西缅支派、便雅悯支派的地业中，按阄得了十三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為哥轄族拈鬮：利未人的祭司、亞倫的子孫，從猶大支派、西緬支派、便雅憫支派的地業中，按鬮得了十三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The rest of the children of Kohath had ten cities by lot out of the families of the tribe of Ephraim, out of the tribe of Dan, and out of the half-tribe of Manasseh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哥辖其余的子孙，从以法莲支派、但支派、玛拿西半支派的地业中，按阄得了十座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哥轄其餘的子孫，從以法蓮支派、但支派、瑪拿西半支派的地業中，按鬮得了十座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The children of Gershon had thirteen cities by lot out of the families of the tribe of Issachar, out of the tribe of Asher, out of the tribe of Naphtali, and out of the half-tribe of Manasseh in Bashan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "革顺的子孙，从以萨迦支派、亚设支派、拿弗他利支派、住巴珊的玛拿西半支派的地业中，按阄得了十三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "革順的子孫，從以薩迦支派、亞設支派、拿弗他利支派、住巴珊的瑪拿西半支派的地業中，按鬮得了十三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The children of Merari according to their families had twelve cities out of the tribe of Reuben, out of the tribe of Gad, and out of the tribe of Zebulun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米拉利的子孙，按着宗族，从吕便支派、迦得支派、西布伦支派的地业中，按阄得了十二座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米拉利的子孫，按着宗族，從呂便支派、迦得支派、西布倫支派的地業中，按鬮得了十二座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The children of Israel gave these cities with their pasture lands by lot to the Levites, as the LORD commanded by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人照着耶和华借摩西所吩咐的，将这些城邑和城邑的郊野，按阄分给利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人照着耶和華藉摩西所吩咐的，將這些城邑和城邑的郊野，按鬮分給利未人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are mentioned by name:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9-10",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从犹大支派、西缅支派的地业中，将以下所记的城给了利未支派哥辖宗族亚伦的子孙；因为给他们拈出头一阄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從猶大支派、西緬支派的地業中，將以下所記的城給了利未支派哥轄宗族亞倫的子孫；因為給他們拈出頭一鬮，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They gave them Kiriath Arba, named after the father of Anak (also called Hebron), in the hill country of Judah, with its pasture lands around it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将犹大山地的基列·亚巴和四围的郊野给了他们。亚巴是亚衲族的始祖。（基列·亚巴就是希伯 ）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將猶大山地的基列‧亞巴和四圍的郊野給了他們。亞巴是亞衲族的始祖。（基列‧亞巴就是希伯崙）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But they gave the fields of the city and its villages to Caleb the son of Jephunneh for his possession.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟将属城的田地和村庄给了耶孚尼的儿子迦勒为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟將屬城的田地和村莊給了耶孚尼的兒子迦勒為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "To the children of Aaron the priest they gave Hebron with its pasture lands, the city of refuge for the man slayer, Libnah with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人将希伯 ，就是误杀人的逃城和属城的郊野，给了祭司亚伦的子孙；又给他们立拿和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人將希伯崙，就是誤殺人的逃城和屬城的郊野，給了祭司亞倫的子孫；又給他們立拿和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Jattir with its pasture lands, Eshtemoa with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅提珥和属城的郊野，以实提莫和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅提珥和屬城的郊野，以實提莫和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Holon with its pasture lands, Debir with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何 和属城的郊野，底璧和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何崙和屬城的郊野，底璧和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Ain with its pasture lands, Juttah with its pasture lands, and Beth Shemesh with its pasture lands: nine cities out of those two tribes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚因和属城的郊野，淤他和属城的郊野，伯·示麦和属城的郊野，共九座城，都是从这二支派中分出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞因和屬城的郊野，淤他和屬城的郊野，伯‧示麥和屬城的郊野，共九座城，都是從這二支派中分出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Out of the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从便雅悯支派的地业中给了他们基遍和属城的郊野，迦巴和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從便雅憫支派的地業中給了他們基遍和屬城的郊野，迦巴和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Anathoth with its pasture lands, and Almon with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿突和属城的郊野，亚勒们和属城的郊野，共四座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿突和屬城的郊野，亞勒們和屬城的郊野，共四座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "All the cities of the children of Aaron, the priests, were thirteen cities with their pasture lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦子孙作祭司的共有十三座城，还有属城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫子孫作祭司的共有十三座城，還有屬城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The families of the children of Kohath, the Levites, even the rest of the children of Kohath, had the cities of their lot out of the tribe of Ephraim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未支派中哥辖的宗族，就是哥辖其余的子孙，拈阄所得的城有从以法莲支派中分出来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未支派中哥轄的宗族，就是哥轄其餘的子孫，拈鬮所得的城有從以法蓮支派中分出來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They gave them Shechem with its pasture lands in the hill country of Ephraim, the city of refuge for the man slayer, and Gezer with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人将以法莲山地的示剑，就是误杀人的逃城和属城的郊野，给了他们；又给他们基色和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人將以法蓮山地的示劍，就是誤殺人的逃城和屬城的郊野，給了他們；又給他們基色和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Kibzaim with its pasture lands, and Beth Horon with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基伯先和属城的郊野，伯·和 和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基伯先和屬城的郊野，伯‧和崙和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Out of the tribe of Dan, Elteke with its pasture lands, Gibbethon with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从但支派的地业中给了他们伊利提基和属城的郊野，基比顿和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從但支派的地業中給了他們伊利提基和屬城的郊野，基比頓和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Aijalon with its pasture lands, Gath Rimmon with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚雅 和属城的郊野，迦特·临门和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞雅崙和屬城的郊野，迦特‧臨門和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Out of the half-tribe of Manasseh, Taanach with its pasture lands, and Gath Rimmon with its pasture lands: two cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从玛拿西半支派的地业中给了他们他纳和属城的郊野，迦特·临门和属城的郊野，共两座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從瑪拿西半支派的地業中給了他們他納和屬城的郊野，迦特‧臨門和屬城的郊野，共兩座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "All the cities of the families of the rest of the children of Kohath were ten with their pasture lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哥辖其余的子孙共有十座城，还有属城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哥轄其餘的子孫共有十座城，還有屬城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They gave to the children of Gershon, of the families of the Levites, out of the half-tribe of Manasseh Golan in Bashan with its pasture lands, the city of refuge for the man slayer, and Be Eshterah with its pasture lands: two cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人又从玛拿西半支派的地业中将巴珊的哥兰，就是误杀人的逃城和属城的郊野，给了利未支派革顺的子孙；又给他们比·施提拉和属城的郊野，共两座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人又從瑪拿西半支派的地業中將巴珊的哥蘭，就是誤殺人的逃城和屬城的郊野，給了利未支派革順的子孫；又給他們比‧施提拉和屬城的郊野，共兩座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Out of the tribe of Issachar, Kishion with its pasture lands, Daberath with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从以萨迦支派的地业中给了他们基善和属城的郊野，大比拉和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從以薩迦支派的地業中給了他們基善和屬城的郊野，大比拉和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jarmuth with its pasture lands, En Gannim with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶末和属城的郊野，隐·干宁和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶末和屬城的郊野，隱‧干寧和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Out of the tribe of Asher, Mishal with its pasture lands, Abdon with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从亚设支派的地业中给了他们米沙勒和属城的郊野，押顿和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從亞設支派的地業中給了他們米沙勒和屬城的郊野，押頓和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Helkath with its pasture lands, and Rehob with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黑甲和属城的郊野，利合和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黑甲和屬城的郊野，利合和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Out of the tribe of Naphtali, Kedesh in Galilee with its pasture lands, the city of refuge for the man slayer, Hammothdor with its pasture lands, and Kartan with its pasture lands: three cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从拿弗他利支派的地业中将加利利的基低斯，就是误杀人的逃城和属城的郊野，给了他们；又给他们哈末·多珥和属城的郊野，加珥坦和属城的郊野，共三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從拿弗他利支派的地業中將加利利的基低斯，就是誤殺人的逃城和屬城的郊野，給了他們；又給他們哈末‧多珥和屬城的郊野，加珥坦和屬城的郊野，共三座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "All the cities of the Gershonites according to their families were thirteen cities with their pasture lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "革顺人按着宗族所得的城，共十三座，还有属城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "革順人按着宗族所得的城，共十三座，還有屬城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "To the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with its pasture lands, Kartah with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余利未支派米拉利子孙，从西布伦支派的地业中所得的，就是约念和属城的郊野，加珥他和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘利未支派米拉利子孫，從西布倫支派的地業中所得的，就是約念和屬城的郊野，加珥他和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Dimnah with its pasture lands, and Nahalal with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "丁拿和属城的郊野，拿哈拉和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "丁拿和屬城的郊野，拿哈拉和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Out of the tribe of Reuben, Bezer with its pasture lands, Jahaz with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从吕便支派的地业中给了他们比悉和属城的郊野，雅杂和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從呂便支派的地業中給了他們比悉和屬城的郊野，雅雜和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Kedemoth with its pasture lands, and Mephaath with its pasture lands: four cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基底莫和属城的郊野，米法押和属城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基底莫和屬城的郊野，米法押和屬城的郊野，共四座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Out of the tribe of Gad, Ramoth in Gilead with its pasture lands, the city of refuge for the man slayer, and Mahanaim with its pasture lands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从迦得支派的地业中，将基列的拉末，就是误杀人的逃城和属城的郊野，给了他们；又给他们玛哈念和属城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從迦得支派的地業中，將基列的拉末，就是誤殺人的逃城和屬城的郊野，給了他們；又給他們瑪哈念和屬城的郊野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Heshbon with its pasture lands, Jazer with its pasture lands: four cities in all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希实本和属城的郊野，雅谢和属城的郊野，共四座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希實本和屬城的郊野，雅謝和屬城的郊野，共四座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "All these were the cities of the children of Merari according to their families, even the rest of the families of the Levites. Their lot was twelve cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余利未支派的人，就是米拉利的子孙，按着宗族拈阄所得的，共十二座城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘利未支派的人，就是米拉利的子孫，按着宗族拈鬮所得的，共十二座城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "All the cities of the Levites among the possessions of the children of Israel were forty-eight cities with their pasture lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人在以色列人的地业中所得的城，共四十八座，并有属城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人在以色列人的地業中所得的城，共四十八座，並有屬城的郊野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Each of these cities included their pasture lands around them. It was this way with all these cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些城四围都有属城的郊野，城城都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些城四圍都有屬城的郊野，城城都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "So the LORD gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，耶和华将从前向他们列祖起誓所应许的全地赐给以色列人，他们就得了为业，住在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，耶和華將從前向他們列祖起誓所應許的全地賜給以色列人，他們就得了為業，住在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The LORD gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. The LORD delivered all their enemies into their hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华照着向他们列祖起誓所应许的一切话，使他们四境平安；他们一切仇敌中，没有一人在他们面前站立得住。耶和华把一切仇敌都交在他们手中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華照着向他們列祖起誓所應許的一切話，使他們四境平安；他們一切仇敵中，沒有一人在他們面前站立得住。耶和華把一切仇敵都交在他們手中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Nothing failed of any good thing which the LORD had spoken to the house of Israel. All came to pass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华应许赐福给以色列家的话一句也没有落空，都应验了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華應許賜福給以色列家的話一句也沒有落空，都應驗了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

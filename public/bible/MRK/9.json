@@ -1,0 +1,994 @@
+{
+  "bookId": "MRK",
+  "chapter": 9,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He said to them, “Mostcertainly I tell you, there are some standing here who will in no way taste death until they see God’s Kingdom come with power.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对他们说：「我实在告诉你们，站在这里的，有人在没尝死味以前，必要看见 神的国大有能力临到。」 （太17·1—13；路9·28—36）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對他們說：「我實在告訴你們，站在這裏的，有人在沒嘗死味以前，必要看見上帝的國大有能力臨到。」 （太17‧1－13；路9‧28－36）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "After six days Jesus took with him Peter, James, and John, and brought them up onto a high mountain privately by themselves, and he was changed into another form in front of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了六天，耶稣带着彼得、雅各、约翰暗暗地上了高山，就在他们面前变了形象，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了六天，耶穌帶着彼得、雅各、約翰暗暗地上了高山，就在他們面前變了形像，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "His clothing became glistening, exceedingly white, like snow, such as no launderer on earth can whiten them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "衣服放光，极其洁白，地上漂布的，没有一个能漂得那样白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "衣服放光，極其潔白，地上漂布的，沒有一個能漂得那樣白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Elijah and Moses appeared to them, and they were talking with Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忽然，有以利亚同摩西向他们显现，并且和耶稣说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "忽然，有以利亞同摩西向他們顯現，並且和耶穌說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Peter answered Jesus, “Rabbi, it is good for us to be here. Let’s make three tents: one for you, one for Moses, and one for Elijah.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得对耶稣说：「拉比，我们在这里真好！可以搭三座棚，一座为你，一座为摩西，一座为以利亚。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:5 就是夫子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得對耶穌說：「拉比，我們在這裏真好！可以搭三座棚，一座為你，一座為摩西，一座為以利亞。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:5 就是夫子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For he didn’t know what to say, for they were very afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得不知道说什么才好，因为他们甚是惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得不知道說甚麼才好，因為他們甚是懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "A cloud came, overshadowing them, and a voice came out of the cloud, “This is my beloved Son. Listen to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一朵云彩来遮盖他们；也有声音从云彩里出来，说：「这是我的爱子，你们要听他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一朵雲彩來遮蓋他們；也有聲音從雲彩裏出來，說：「這是我的愛子，你們要聽他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Suddenly looking around, they saw no one with them any more, except Jesus only.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒忽然周围一看，不再见一人，只见耶稣同他们在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒忽然周圍一看，不再見一人，只見耶穌同他們在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "As they were coming down from the mountain, he commanded them that they should tell no one what things they had seen, until after the Son of Man had risen from the dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "下山的时候，耶稣嘱咐他们说：「人子还没有从死里复活，你们不要将所看见的告诉人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "下山的時候，耶穌囑咐他們說：「人子還沒有從死裏復活，你們不要將所看見的告訴人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They kept this saying to themselves, questioning what the “rising from the dead” meant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒将这话存记在心，彼此议论「从死里复活」是什么意思。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒將這話存記在心，彼此議論「從死裏復活」是甚麼意思。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They asked him, saying, “Why do the scribes say that Elijah must come first?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就问耶稣说：「文士为什么说以利亚必须先来？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就問耶穌說：「文士為甚麼說以利亞必須先來？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He said to them, “Elijahindeed comes first, and restores all things. How is it written about the Son of Man, that he should suffer many things and be despised?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「以利亚固然先来复兴万事；经上不是指着人子说，他要受许多的苦被人轻慢呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「以利亞固然先來復興萬事；經上不是指着人子說，他要受許多的苦被人輕慢呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "ButI tell you that Elijah has come, and they have also done to him whatever they wanted to, even as it is written about him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我告诉你们，以利亚已经来了，他们也任意待他，正如经上所指着他的话。」 （太17·14—21；路9·37—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我告訴你們，以利亞已經來了，他們也任意待他，正如經上所指着他的話。」 （太17‧14－21；路9‧37－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Coming to the disciples, he saw a great multitude around them, and scribes questioning them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣到了门徒那里，看见有许多人围着他们，又有文士和他们辩论。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌到了門徒那裏，看見有許多人圍着他們，又有文士和他們辯論。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Immediately all the multitude, when they saw him, were greatly amazed, and running to him, greeted him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人一见耶稣，都甚希奇，就跑上去问他的安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人一見耶穌，都甚希奇，就跑上去問他的安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He asked the scribes, “Whatare you asking them?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣问他们说：「你们和他们辩论的是什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌問他們說：「你們和他們辯論的是甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "One of the multitude answered, “Teacher, I brought to you my son, who has a mute spirit;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人中间有一个人回答说：「夫子，我带了我的儿子到你这里来，他被哑巴鬼附着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人中間有一個人回答說：「夫子，我帶了我的兒子到你這裏來，他被啞巴鬼附着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "and wherever it seizes him, it throws him down; and he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to cast it out, and they weren’t able.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论在哪里，鬼捉弄他，把他摔倒，他就口中流沫，咬牙切齿，身体枯干。我请过你的门徒把鬼赶出去，他们却是不能。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論在哪裏，鬼捉弄他，把他摔倒，他就口中流沫，咬牙切齒，身體枯乾。我請過你的門徒把鬼趕出去，他們卻是不能。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He answered him, “Unbelieving generation, how long shall I be with you? How long shall I bear with you? Bring him to me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「嗳！不信的世代啊，我在你们这里要到几时呢？我忍耐你们要到几时呢？把他带到我这里来吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「噯！不信的世代啊，我在你們這裏要到幾時呢？我忍耐你們要到幾時呢？把他帶到我這裏來吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They brought him to him, and when he saw him, immediately the spirit convulsed him and he fell on the ground, wallowing and foaming at the mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就带了他来。他一见耶稣，鬼便叫他重重地抽风，倒在地上，翻来覆去，口中流沫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就帶了他來。他一見耶穌，鬼便叫他重重地抽瘋，倒在地上，翻來覆去，口中流沫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He asked his father, “Howlong has it been since this has been happening to him?” He said, “From childhood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣问他父亲说：「他得这病有多少日子呢？」回答说：「从小的时候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌問他父親說：「他得這病有多少日子呢？」回答說：「從小的時候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Often it has cast him both into the fire and into the water to destroy him. But if you can do anything, have compassion on us and help us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鬼屡次把他扔在火里、水里，要灭他。你若能做什么，求你怜悯我们，帮助我们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鬼屢次把他扔在火裏、水裏，要滅他。你若能做甚麼，求你憐憫我們，幫助我們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Jesus said to him, “Ifyou can believe, all things are possible to him who believes.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「你若能信，在信的人，凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「你若能信，在信的人，凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Immediately the father of the child cried out with tears, “I believe. Help my unbelief!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子的父亲立时喊着说：「我信！但我信不足，求主帮助。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 有古卷：立时流泪地喊着说"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子的父親立時喊着說：「我信！但我信不足，求主幫助。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 有古卷：立時流淚地喊着說"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When Jesus saw that a multitude came running together, he rebuked the unclean spirit, saying to him, “Youmute and deaf spirit, I command you, come out of him, and never enter him again!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见众人都跑上来，就斥责那污鬼，说：「你这聋哑的鬼，我吩咐你从他里头出来，再不要进去！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見眾人都跑上來， 就斥責那污鬼，說：「你這聾啞的鬼，我吩咐你從他裏頭出來，再不要進去！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "After crying out and convulsing him greatly, it came out of him. The boy became like one dead, so much that most of them said, “He is dead.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那鬼喊叫，使孩子大大地抽了一阵风，就出来了。孩子好像死了一般，以致众人多半说：「他是死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那鬼喊叫，使孩子大大地抽了一陣瘋，就出來了。孩子好像死了一般，以致眾人多半說：「他是死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "But Jesus took him by the hand and raised him up; and he arose.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但耶稣拉着他的手，扶他起来，他就站起来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但耶穌拉着他的手，扶他起來，他就站起來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "When he had come into the house, his disciples asked him privately, “Why couldn’t we cast it out?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣进了屋子，门徒就暗暗地问他说：「我们为什么不能赶出他去呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌進了屋子，門徒就暗暗地問他說：「我們為甚麼不能趕出他去呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He said to them, “Thiskind can come out by nothing but by prayer and fasting.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「非用祷告，这一类的鬼总不能出来。」 （太17·22—23；路9·43—45）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:29 有古卷加：禁食二字"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:29 或译：不能赶他出来"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「非用禱告，這一類的鬼總不能出來。」 （太17‧22－23；路9‧43－45）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:29 有古卷加：禁食二字"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:29 或譯：不能趕他 出來"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "They went out from there and passed through Galilee. He didn’t want anyone to know it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们离开那地方，经过加利利；耶稣不愿意人知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們離開那地方，經過加利利；耶穌不願意人知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "for he was teaching his disciples, and said to them, “TheSon of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是教训门徒，说：「人子将要被交在人手里，他们要杀害他；被杀以后，过三天他要复活。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是教訓門徒，說：「人子將要被交在人手裏，他們要殺害他；被殺以後，過三天他要復活。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "But they didn’t understand the saying, and were afraid to ask him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒却不明白这话，又不敢问他。 （太18·1—5；路9·46—48）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒卻不明白這話，又不敢問他。 （太18‧1－5；路9‧46－48）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He came to Capernaum, and when he was in the house he asked them, “Whatwere you arguing among yourselves on the way?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来到迦百农。耶稣在屋里问门徒说：「你们在路上议论的是什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來到迦百農。耶穌在屋裏問門徒說：「你們在路上議論的是甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "But they were silent, for they had disputed with one another on the way about who was the greatest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒不作声，因为他们在路上彼此争论谁为大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒不作聲，因為他們在路上彼此爭論誰為大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He sat down and called the twelve; and he said to them, “Ifany man wants to be first, he shall be last of all, and servant of all.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣坐下，叫十二个门徒来，说：「若有人愿意作首先的，他必作众人末后的，作众人的用人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌坐下，叫十二個門徒來，說：「若有人願意作首先的，他必作眾人末後的，作眾人的用人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He took a little child and set him in the middle of them. Taking him in his arms, he said to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是领过一个小孩子来，叫他站在门徒中间，又抱起他来，对他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是領過一個小孩子來，叫他站在門徒中間，又抱起他來，對他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“Whoeverreceives one such little child in my name receives me; and whoever receives me, doesn’t receive me, but him who sent me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡为我名接待一个像这小孩子的，就是接待我；凡接待我的，不是接待我，乃是接待那差我来的。」 （路9·49—50）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡為我名接待一個像這小孩子的，就是接待我；凡接待我的，不是接待我，乃是接待那差我來的。」 （路9‧49－50）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "John said to him, “Teacher, we saw someone who doesn’t follow us casting out demons in your name; and we forbade him, because he doesn’t follow us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰对耶稣说：「夫子，我们看见一个人奉你的名赶鬼，我们就禁止他，因为他不跟从我们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰對耶穌說：「夫子，我們看見一個人奉你的名趕鬼，我們就禁止他，因為他不跟從我們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "But Jesus said, “Don’tforbid him, for there is no one who will do a mighty work in my name and be able quickly to speak evil of me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「不要禁止他；因为没有人奉我名行异能，反倒轻易毁谤我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「不要禁止他；因為沒有人奉我名行異能，反倒輕易毀謗我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Forwhoever is not against us is on our side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不敌挡我们的，就是帮助我们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不敵擋我們的，就是幫助我們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Forwhoever will give you a cup of water to drink in my name because you are Christ’s, most certainly I tell you, he will in no way lose his reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡因你们是属基督，给你们一杯水喝的，我实在告诉你们，他不能不得赏赐。」 （太18·6—9；路17·1—2）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡因你們是屬基督，給你們一杯水喝的，我實在告訴你們，他不能不得賞賜。」 （太18‧6－9；路17‧1－2）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "“Whoeverwill cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡使这信我的一个小子跌倒的，倒不如把大磨石拴在这人的颈项上，扔在海里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡使這信我的一個小子跌倒的，倒不如把大磨石拴在這人的頸項上，扔在海裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Ifyour hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, intothe unquenchable fire,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:43 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你一只手叫你跌倒，就把它砍下来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你一隻手叫你跌倒，就把它砍下來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "‘where their worm doesn’t die, and the fire is not quenched.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:44 NU omits verse 44."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:44 Isaiah 66:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你缺了肢体进入永生，强如有两只手落到地狱，入那不灭的火里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你缺了肢體進入永生，強如有兩隻手落到地獄，入那不滅的火裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Ifyour foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, intothe fire that will never be quenched—",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:45 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你一只脚叫你跌倒，就把它砍下来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你一隻腳叫你跌倒，就把它 砍下來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "‘where their worm doesn’t die, and the fire is not quenched.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:46 NU omits verse 46."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你瘸腿进入永生，强如有两只脚被丢在地狱里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你瘸腿進入永生，強如有兩隻腳被丟在地獄裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Ifyour eye causes you to stumble, throw it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna offire,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:47 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你一只眼叫你跌倒，就去掉它；你只有一只眼进入 神的国，强如有两只眼被丢在地狱里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你一隻眼叫你跌倒，就去掉它；你只有一隻眼進入上帝的國，強如有兩隻眼被丟在地獄裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "‘wheretheir worm doesn’ t die, and the fire is not quenched.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:48 Isaiah 66:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "在那里，虫是不死的，火是不灭的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏，蟲是不死的，火是不滅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Foreveryone will be salted with fire, and every sacrifice will be seasoned with salt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为必用火当盐腌各人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:49 有古卷加：凡祭物必用盐腌。"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為必用火當鹽醃各人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:49 有古卷加：凡祭物必用鹽醃。"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Salt isgood, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "盐本是好的，若失了味，可用什么叫它再咸呢？你们里头应当有盐，彼此和睦。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鹽本是好的，若失了味，可用甚麼叫它再鹹呢？你們裏頭應當有鹽，彼此和睦。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

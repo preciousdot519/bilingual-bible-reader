@@ -1,0 +1,443 @@
+{
+  "bookId": "REV",
+  "chapter": 1,
+  "bookEnglish": "Revelation",
+  "bookChineseSimplified": "启示录",
+  "bookChineseTraditional": "啟示錄",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 “Christ” means “Anointed One”."
+          },
+          {
+            "id": "f2",
+            "text": "1:1 or, messenger (here and wherever angel is mentioned)"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣基督的启示，就是 神赐给他，叫他将必要快成的事指示他的众仆人。他就差遣使者晓谕他的仆人约翰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌基督的啟示，就是上帝賜給他，叫他將必要快成的事指示他的眾僕人。他就差遣使者曉諭他的僕人約翰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰便将 神的道和耶稣基督的见证，凡自己所看见的都证明出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰便將上帝的道和耶穌基督的見證，凡自己所看見的都證明出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "念这书上预言的和那些听见又遵守其中所记载的，都是有福的，因为日期近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "念這書上預言的和那些聽見又遵守其中所記載的，都是有福的，因為日期近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰写信给亚细亚的七个教会。但愿从那昔在、今在、以后永在的 神，和他宝座前的七灵，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰寫信給亞細亞的七個教會。但願從那昔在、今在、以後永在的上帝，和他寶座前的七靈，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并那诚实作见证的、从死里首先复活、为世上君王元首的耶稣基督，有恩惠、平安归与你们！ 罪恶，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:5 有古卷：洗去"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並那誠實作見證的、從死裏首先復活、為世上君王元首的耶穌基督，有恩惠、平安歸與你們！ 罪惡，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:5 有古卷：洗去"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "and he made us to be a Kingdom, priests to his God and Father—to him be the glory and the dominion forever and ever. Amen.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:6 Exodus 19:6; Isaiah 61:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "又使我们成为国民，作他父 神的祭司。但愿荣耀、权能归给他，直到永永远远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又使我們成為國民，作他父上帝的祭司。但願榮耀、權能歸給他，直到永永遠遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Behold, he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:7 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，他驾云降临！ 众目要看见他， 连刺他的人也要看见他； 地上的万族都要因他哀哭。 这话是真实的。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，他駕雲降臨！ 眾目要看見他， 連刺他的人也要看見他； 地上的萬族都要因他哀哭。 這話是真實的。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Iam the Alpha and the Omega,” says the Lord God, “whois and who was and who is to come, the Almighty.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:8 TR adds “the Beginning and the End”"
+          },
+          {
+            "id": "f2",
+            "text": "1:8 TR omits “God”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主 神说：「我是阿拉法，我是俄梅戛，是昔在、今在、以后永在的全能者。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:8 阿拉法，俄梅戛：是希腊字母首末二字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主上帝說：「我是阿拉法，我是俄梅戛，是昔在、今在、以後永在的全能者。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:8 阿拉法，俄梅戛：是希臘字母首末二字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—约翰就是你们的弟兄，和你们在耶稣的患难、国度、忍耐里一同有分，为 神的道，并为给耶稣作的见证，曾在那名叫拔摩的海岛上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－約翰就是你們的弟兄，和你們在耶穌的患難、國度、忍耐裏一同有分，為上帝的道，並為給耶穌作的見證，曾在那名叫拔摩的海島上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当主日，我被圣灵感动，听见在我后面有大声音如吹号，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當主日，我被聖靈感動，聽見在我後面有大聲音如吹號，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "saying, “Whatyou see, write in a book and send to the seven assemblies: toEphesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:11 TR adds “I am the Alpha and the Omega, the First and the Last.”"
+          },
+          {
+            "id": "f2",
+            "text": "1:11 TR adds “which are in Asia”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你所看见的当写在书上，达与以弗所、士每拿、别迦摩、推雅推喇、撒狄、非拉铁非、老底嘉那七个教会。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你所看見的當寫在書上，達與以弗所、士每拿、別迦摩、推雅推喇、撒狄、非拉鐵非、老底嘉那七個教會。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I turned to see the voice that spoke with me. Having turned, I saw seven golden lamp stands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我转过身来，要看是谁发声与我说话；既转过来，就看见七个金灯台。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我轉過身來，要看是誰發聲與我說話；既轉過來，就看見七個金燈臺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "And among the lamp stands was one like a son of man, clothed with a robe reaching down to his feet, and with a golden sash around his chest.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:13 Daniel 7:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "灯台中间有一位好像人子，身穿长衣，直垂到脚，胸间束着金带。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燈臺中間有一位好像人子，身穿長衣，直垂到腳，胸間束着金帶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "His head and his hair were white as white wool, like snow. His eyes were like a flame of fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的头与发皆白，如白羊毛，如雪；眼目如同火焰；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的頭與髮皆白，如白羊毛，如雪；眼目如同火焰；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "脚好像在炉中锻炼光明的铜；声音如同众水的声音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "腳好像在爐中鍛鍊光明的銅；聲音如同眾水的聲音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining at its brightest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他右手拿着七星，从他口中出来一把两刃的利剑；面貌如同烈日放光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他右手拿着七星，從他口中出來一把兩刃的利劍；面貌如同烈日放光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, “Don’tbe afraid. I am the first and the last,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我一看见，就仆倒在他脚前，像死了一样。他用右手按着我，说：「不要惧怕！我是首先的，我是末后的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我一看見，就仆倒在他腳前，像死了一樣。他用右手按着我，說：「不要懼怕！我是首先的，我是末後的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "andthe Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:18 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又是那存活的；我曾死过，现在又活了，直活到永永远远；并且拿着死亡和阴间的钥匙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又是那存活的；我曾死過，現在又活了，直活到永永遠遠；並且拿着死亡和陰間的鑰匙。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Writetherefore the things which you have seen, and the things which are, and the things which will happen hereafter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你要把所看见的，和现在的事，并将来必成的事，都写出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你要把所看見的，和現在的事，並將來必成的事，都寫出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Themystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels ofthe seven assemblies. The seven lamp stands are seven assemblies.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:20 or, messengers (here and wherever angels are mentioned)"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到你所看见、在我右手中的七星和七个金灯台的奥秘，那七星就是七个教会的使者，七灯台就是七个教会。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到你所看見、在我右手中的七星和七個金燈臺的奧祕，那七星就是七個教會的使者，七燈臺就是七個教會。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

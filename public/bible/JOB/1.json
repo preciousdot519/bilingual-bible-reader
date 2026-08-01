@@ -1,0 +1,430 @@
+{
+  "bookId": "JOB",
+  "chapter": 1,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乌斯地有一个人名叫约伯；那人完全正直，敬畏 神，远离恶事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "烏斯地有一個人名叫約伯；那人完全正直，敬畏上帝，遠離惡事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "There were born to him seven sons and three daughters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他生了七个儿子，三个女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他生了七個兒子，三個女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的家产有七千羊，三千骆驼，五百对牛，五百母驴，并有许多仆婢。这人在东方人中就为至大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的家產有七千羊，三千駱駝，五百對牛，五百母驢，並有許多僕婢。這人在東方人中就為至大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的儿子按着日子各在自己家里设摆筵宴，就打发人去，请了他们的三个姊妹来，与他们一同吃喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的兒子按着日子各在自己家裏設擺筵宴，就打發人去，請了他們的三個姊妹來，與他們一同吃喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "筵宴的日子过了，约伯打发人去叫他们自洁。他清早起来，按着他们众人的数目献燔祭；因为他说：「恐怕我儿子犯了罪，心中弃掉 神。」约伯常常这样行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "筵宴的日子過了，約伯打發人去叫他們自潔。他清早起來，按着他們眾人的數目獻燔祭；因為他說：「恐怕我兒子犯了罪，心中棄掉上帝。」約伯常常這樣行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Now on the day when God’s sons came to present themselves before the LORD, Satan also came among them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:6 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一天， 神的众子来侍立在耶和华面前，撒但也来在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一天，上帝的眾子來侍立在耶和華面前，撒但也來在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD said to Satan, “Where have you come from?” Then Satan answered the LORD, and said, “From going back and forth on the earth, and from walking up and down in it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华问撒但说：「你从哪里来？」撒但回答说：「我从地上走来走去，往返而来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華問撒但說：「你從哪裏來？」撒但回答說：「我從地上走來走去，往返而來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD said to Satan, “Have you considered my servant, Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华问撒但说：「你曾用心察看我的仆人约伯没有？地上再没有人像他完全正直，敬畏 神，远离恶事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華問撒但說：「你曾用心察看我的僕人約伯沒有？地上再沒有人像他完全正直，敬畏上帝，遠離惡事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then Satan answered the LORD, and said, “Does Job fear God for nothing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒但回答耶和华说：「约伯敬畏 神，岂是无故呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒但回答耶和華說：「約伯敬畏上帝，豈是無故呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你岂不是四面圈上篱笆围护他和他的家，并他一切所有的吗？他手所做的都蒙你赐福；他的家产也在地上增多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你豈不是四面圈上籬笆圍護他和他的家，並他一切所有的嗎？他手所做的都蒙你賜福；他的家產也在地上增多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But stretch out your hand now, and touch all that he has, and he will renounce you to your face.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你且伸手毁他一切所有的；他必当面弃掉你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你且伸手毀他一切所有的；他必當面棄掉你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of the LORD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:12 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对撒但说：「凡他所有的都在你手中；只是不可伸手加害于他。」于是撒但从耶和华面前退去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對撒但說：「凡他所有的都在你手中；只是不可伸手加害於他。」於是撒但從耶和華面前退去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一天，约伯的儿女正在他们长兄的家里吃饭喝酒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一天，約伯的兒女正在他們長兄的家裏吃飯喝酒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "that a messenger came to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有报信的来见约伯，说：「牛正耕地，驴在旁边吃草，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有報信的來見約伯，說：「牛正耕地，驢在旁邊吃草，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示巴人忽然闯来，把牲畜掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示巴人忽然闖來，把牲畜擄去，並用刀殺了僕人；惟有我一人逃脫，來報信給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "While he was still speaking, another also came and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他还说话的时候，又有人来说：「 神从天上降下火来，将群羊和仆人都烧灭了；惟有我一人逃脱，来报信给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他還說話的時候，又有人來說：「上帝從天上降下火來，將群羊和僕人都燒滅了；惟有我一人逃脫，來報信給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "While he was still speaking, another also came and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他还说话的时候，又有人来说：「迦勒底人分作三队忽然闯来，把骆驼掳去，并用刀杀了仆人；惟有我一人逃脱，来报信给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他還說話的時候，又有人來說：「迦勒底人分作三隊忽然闖來，把駱駝擄去，並用刀殺了僕人；惟有我一人逃脫，來報信給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他还说话的时候，又有人来说：「你的儿女正在他们长兄的家里吃饭喝酒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他還說話的時候，又有人來說：「你的兒女正在他們長兄的家裏吃飯喝酒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不料，有狂风从旷野刮来，击打房屋的四角，房屋倒塌在少年人身上，他们就都死了；惟有我一人逃脱，来报信给你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不料，有狂風從曠野颳來，擊打房屋的四角，房屋倒塌在少年人身上，他們就都死了；惟有我一人逃脫，來報信給你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯便起来，撕裂外袍，剃了头，伏在地上下拜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯便起來，撕裂外袍，剃了頭，伏在地上下拜，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He said, “Naked I came out of my mother’s womb, and naked will I return there. The LORD gave, and the LORD has taken away. Blessed be the LORD’s name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我赤身出于母胎，也必赤身归回；赏赐的是耶和华，收取的也是耶和华。耶和华的名是应当称颂的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我赤身出於母胎，也必赤身歸回；賞賜的是耶和華，收取的也是耶和華。耶和華的名是應當稱頌的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "In all this, Job didn’t sin, nor charge God with wrongdoing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这一切的事上约伯并不犯罪，也不以 神为愚妄。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:22 或译：也不妄评 神"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這一切的事上約伯並不犯罪，也不以上帝為愚妄。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:22 或譯：也不妄評上帝"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

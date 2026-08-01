@@ -1,0 +1,965 @@
+{
+  "bookId": "DEU",
+  "chapter": 32,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Give ear, you heavens, and I will speak. Let the earth hear the words of my mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诸天哪，侧耳，我要说话； 愿地也听我口中的言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諸天哪，側耳，我要說話； 願地也聽我口中的言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "My doctrine will drop as the rain. My speech will condense as the dew, as the misty rain on the tender grass, as the showers on the herb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的教训要淋漓如雨； 我的言语要滴落如露， 如细雨降在嫩草上， 如甘霖降在菜蔬中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的教訓要淋漓如雨； 我的言語要滴落如露， 如細雨降在嫩草上， 如甘霖降在菜蔬中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For I will proclaim the LORD’s name. Ascribe greatness to our God!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要宣告耶和华的名； 你们要将大德归与我们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要宣告耶和華的名； 你們要將大德歸與我們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The Rock: his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是磐石，他的作为完全； 他所行的无不公平， 是诚实无伪的 神， 又公义，又正直。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是磐石，他的作為完全； 他所行的無不公平， 是誠實無偽的上帝， 又公義，又正直。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这乖僻弯曲的世代向他行事邪僻； 有这弊病就不是他的儿女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這乖僻彎曲的世代向他行事邪僻； 有這弊病就不是他的兒女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Is this the way you repay the LORD, foolish and unwise people? Isn’t he your father who has bought you? He has made you and established you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚昧无知的民哪，你们这样报答耶和华吗？ 他岂不是你的父、将你买来的吗？ 他是制造你、建立你的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚昧無知的民哪，你們這樣報答耶和華嗎？ 他豈不是你的父、將你買來的嗎？ 他是製造你、建立你的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Remember the days of old. Consider the years of many generations. Ask your father, and he will show you; your elders, and they will tell you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当追想上古之日， 思念历代之年； 问你的父亲，他必指示你； 问你的长者，他必告诉你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當追想上古之日， 思念歷代之年； 問你的父親，他必指示你； 問你的長者，他必告訴你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When the Most High gave to the nations their inheritance, when he separated the children of men, he set the bounds of the peoples according to the number of the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至高者将地业赐给列邦，将世人分开， 就照以色列人的数目立定万民的疆界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至高者將地業賜給列邦，將世人分開， 就照以色列人的數目立定萬民的疆界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For the LORD’s portion is his people. Jacob is the lot of his inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的分本是他的百姓； 他的产业本是雅各。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的分本是他的百姓； 他的產業本是雅各。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He found him in a desert land, in the waste howling wilderness. He surrounded him. He cared for him. He kept him as the apple of his eye.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华遇见他在旷野— 荒凉野兽吼叫之地， 就环绕他，看顾他， 保护他，如同保护眼中的瞳人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華遇見他在曠野－ 荒涼野獸吼叫之地， 就環繞他，看顧他， 保護他，如同保護眼中的瞳人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "As an eagle that stirs up her nest, that flutters over her young, he spread abroad his wings, he took them, he bore them on his feathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又如鹰搅动巢窝， 在雏鹰以上两翅搧展， 接取雏鹰，背在两翼之上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又如鷹攪動巢窩， 在雛鷹以上兩翅搧展， 接取雛鷹，背在兩翼之上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD alone led him. There was no foreign god with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，耶和华独自引导他， 并无外邦神与他同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，耶和華獨自引導他， 並無外邦神與他同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He made him ride on the high places of the earth. He ate the increase of the field. He caused him to suck honey out of the rock, oil out of the flinty rock;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使他乘驾地的高处， 得吃田间的土产； 又使他从磐石中咂蜜， 从坚石中吸油；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使他乘駕地的高處， 得吃田間的土產； 又使他從磐石中咂蜜， 從堅石中吸油；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "butter from the herd, and milk from the flock, with fat of lambs, rams of the breed of Bashan, and goats, with the finest of the wheat. From the blood of the grape, you drank wine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也吃牛的奶油， 羊的奶，羊羔的脂油， 巴珊所出的公绵羊和山羊， 与上好的麦子， 也喝葡萄汁酿的酒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也吃牛的奶油， 羊的奶，羊羔的脂油， 巴珊所出的公綿羊和山羊， 與上好的麥子， 也喝葡萄汁釀的酒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But Jeshurun grew fat, and kicked. You have grown fat. You have grown thick. You have become sleek. Then he abandoned God who made him, and rejected the Rock of his salvation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但耶书 渐渐肥胖，粗壮， 光润，踢跳，奔跑， 便离弃造他的 神， 轻看救他的磐石；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但耶書崙漸漸肥胖，粗壯， 光潤，踢跳，奔跑， 便離棄造他的上帝， 輕看救他的磐石；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They moved him to jealousy with strange gods. They provoked him to anger with abominations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敬拜别神，触动 神的愤恨， 行可憎恶的事，惹了他的怒气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敬拜別神，觸動上帝的憤恨， 行可憎惡的事，惹了他的怒氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They sacrificed to demons, not God, to gods that they didn’t know, to new gods that came up recently, which your fathers didn’t dread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所祭祀的鬼魔并非真神， 乃是素不认识的神， 是近来新兴的， 是你列祖所不畏惧的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所祭祀的鬼魔並非真神， 乃是素不認識的神， 是近來新興的， 是你列祖所不畏懼的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Of the Rock who became your father, you are unmindful, and have forgotten God who gave you birth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你轻忽生你的磐石， 忘记产你的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你輕忽生你的磐石， 忘記產你的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The LORD saw and abhorred, because of the provocation of his sons and his daughters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华看见他的儿女惹动他， 就厌恶他们，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華看見他的兒女惹動他， 就厭惡他們，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said, “I will hide my face from them. I will see what their end will be; for they are a very perverse generation, children in whom is no faithfulness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要向他们掩面， 看他们的结局如何。 他们本是极乖僻的族类， 心中无诚实的儿女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要向他們掩面， 看他們的結局如何。 他們本是極乖僻的族類， 心中無誠實的兒女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They have moved me to jealousy with that which is not God. They have provoked me to anger with their vanities. I will move them to jealousy with those who are not a people. I will provoke them to anger with a foolish nation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们以那「不算为神」的触动我的愤恨， 以虚无的神惹了我的怒气。 我也要以那「不成子民」的触动他们的愤恨， 以愚昧的国民惹了他们的怒气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們以那「不算為神」的觸動我的憤恨， 以虛無的神惹了我的怒氣。 我也要以那「不成子民」的觸動他們的憤恨， 以愚昧的國民惹了他們的怒氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For a fire is kindled in my anger, that burns to the lowest Sheol, devours the earth with its increase, and sets the foundations of the mountains on fire.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:22 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为在我怒中有火烧起， 直烧到极深的阴间， 把地和地的出产尽都焚烧， 山的根基也烧着了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為在我怒中有火燒起， 直燒到極深的陰間， 把地和地的出產盡都焚燒， 山的根基也燒着了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“I will heap evils on them. I will spend my arrows on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将祸患堆在他们身上， 把我的箭向他们射尽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將禍患堆在他們身上， 把我的箭向他們射盡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They shall be wasted with hunger, and devoured with burning heat and bitter destruction. I will send the teeth of animals on them, with the venom of vipers that glide in the dust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必因饥饿消瘦， 被炎热苦毒吞灭。 我要打发野兽用牙齿咬他们， 并土中腹行的，用毒气害他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必因飢餓消瘦， 被炎熱苦毒吞滅。 我要打發野獸用牙齒咬他們， 並土中腹行的，用毒氣害他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Outside the sword will bereave, and in the rooms, terror on both young man and virgin, the nursing infant with the gray-haired man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "外头有刀剑，内室有惊恐， 使人丧亡，使少男、童女、 吃奶的、白发的，尽都灭绝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "外頭有刀劍，內室有驚恐， 使人喪亡，使少男、童女、 吃奶的、白髮的，盡都滅絕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I said that I would scatter them afar. I would make their memory to cease from among men;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说，我必将他们分散远方， 使他们的名号从人间除灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說，我必將他們分散遠方， 使他們的名號從人間除滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "were it not that I feared the provocation of the enemy, lest their adversaries should judge wrongly, lest they should say, ‘Our hand is exalted; the LORD has not done all this.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟恐仇敌惹动我， 只怕敌人错看，说：是我们手的能力， 并非耶和华所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟恐仇敵惹動我， 只怕敵人錯看，說：是我們手的能力， 並非耶和華所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "For they are a nation void of counsel. There is no understanding in them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为以色列民毫无计谋， 心中没有聪明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為以色列民毫無計謀， 心中沒有聰明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Oh that they were wise, that they understood this, that they would consider their latter end!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿他们有智慧， 能明白这事，肯思念他们的结局。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願他們有智慧， 能明白這事，肯思念他們的結局。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "How could one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, and the LORD had delivered them up?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不是他们的磐石卖了他们， 若不是耶和华交出他们， 一人焉能追赶他们千人？ 二人焉能使万人逃跑呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不是他們的磐石賣了他們， 若不是耶和華交出他們， 一人焉能追趕他們千人？ 二人焉能使萬人逃跑呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For their rock is not as our Rock, even our enemies themselves concede.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "据我们的仇敌自己断定， 他们的磐石不如我们的磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "據我們的仇敵自己斷定， 他們的磐石不如我們的磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "For their vine is of the vine of Sodom, of the fields of Gomorrah. Their grapes are poison grapes. Their clusters are bitter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的葡萄树是所多玛的葡萄树， 蛾摩拉田园所生的； 他们的葡萄是毒葡萄， 全挂都是苦的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的葡萄樹是所多瑪的葡萄樹， 蛾摩拉田園所生的； 他們的葡萄是毒葡萄， 全掛都是苦的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Their wine is the poison of serpents, the cruel venom of asps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的酒是大蛇的毒气， 是虺蛇残害的恶毒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的酒是大蛇的毒氣， 是虺蛇殘害的惡毒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“Isn’t this laid up in store with me, sealed up among my treasures?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这不都是积蓄在我这里， 封锁在我府库中吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這不都是積蓄在我這裏， 封鎖在我府庫中嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Vengeance is mine, and recompense, at the time when their foot slides, for the day of their calamity is at hand. Their doom rushes at them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们失脚的时候，伸冤报应在我； 因他们遭灾的日子近了； 那要临在他们身上的必速速来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們失腳的時候，伸冤報應在我； 因他們遭災的日子近了； 那要臨在他們身上的必速速來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "For the LORD will judge his people, and have compassion on his servants, when he sees that their power is gone, that there is no one remaining, shut up or left at large.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华见他百姓毫无能力， 无论困住的、自由的都没有剩下， 就必为他们伸冤， 为他的仆人后悔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華見他百姓毫無能力， 無論困住的、自由的都沒有剩下， 就必為他們伸冤， 為他的僕人後悔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He will say, “Where are their gods, the rock in which they took refuge,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必说：他们的神， 他们所投靠的磐石，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必說：他們的神， 他們所投靠的磐石，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "which ate the fat of their sacrifices, and drank the wine of their drink offering? Let them rise up and help you! Let them be your protection.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是向来吃他们祭牲的脂油， 喝他们奠祭之酒的，在哪里呢？ 他可以兴起帮助你们， 护卫你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是向來吃他們祭牲的脂油， 喝他們奠祭之酒的，在哪裏呢？ 他可以興起幫助你們， 護衛你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "“See now that I myself am he. There is no god with me. I kill and I make alive. I wound and I heal. There is no one who can deliver out of my hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们如今要知道： 我，惟有我是 神； 在我以外并无别神。 我使人死，我使人活； 我损伤，我也医治， 并无人能从我手中救出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們如今要知道： 我，惟有我是上帝； 在我以外並無別神。 我使人死，我使人活； 我損傷，我也醫治， 並無人能從我手中救出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "For I lift up my hand to heaven and declare, as I live forever,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我向天举手说： 我凭我的永生起誓：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我向天舉手說： 我憑我的永生起誓：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "if I sharpen my glittering sword, my hand grasps it in judgment; I will take vengeance on my adversaries, and will repay those who hate me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若磨我闪亮的刀， 手掌审判之权， 就必报复我的敌人， 报应恨我的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若磨我閃亮的刀， 手掌審判之權， 就必報復我的敵人， 報應恨我的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "I will make my arrows drunk with blood. My sword shall devour flesh with the blood of the slain and the captives, from the head of the leaders of the enemy.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要使我的箭饮血饮醉， 就是被杀被掳之人的血。 我的刀要吃肉， 乃是仇敌中首领之头的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要使我的箭飲血飲醉， 就是被殺被擄之人的血。 我的刀要吃肉， 乃是仇敵中首領之頭的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:43 For this verse, LXX reads: Rejoice, you heavens, with him, and let all the angels of God worship him; rejoice you Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will give vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们外邦人当与主的百姓一同欢呼； 因他要伸他仆人流血的冤， 报应他的敌人， 洁净他的地，救赎他的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們外邦人當與主的百姓一同歡呼； 因他要伸他僕人流血的冤， 報應他的敵人， 潔淨他的地，救贖他的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Moses came and spoke all the words of this song in the ears of the people, he and Joshua the son of Nun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西和嫩的儿子约书亚去将这歌的一切话说给百姓听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西和嫩的兒子約書亞去將這歌的一切話說給百姓聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Moses finished reciting all these words to all Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西向以色列众人说完了这一切的话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西向以色列眾人說完了這一切的話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "He said to them, “Set your heart to all the words which I testify to you today, which you shall command your children to observe to do, all the words of this law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我今日所警教你们的，你们都要放在心上；要吩咐你们的子孙谨守遵行这律法上的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我今日所警教你們的，你們都要放在心上；要吩咐你們的子孫謹守遵行這律法上的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "For it is no vain thing for you, because it is your life, and through this thing you shall prolong your days in the land, where you go over the Jordan to possess it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为这不是虚空、与你们无关的事，乃是你们的生命；在你们过约旦河要得为业的地上必因这事日子得以长久。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為這不是虛空、與你們無關的事，乃是你們的生命；在你們過約旦河要得為業的地上必因這事日子得以長久。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "The LORD spoke to Moses that same day, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日，耶和华吩咐摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日，耶和華吩咐摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "“Go up into this mountain of Abarim, to Mount Nebo, which is in the land of Moab, that is across from Jericho; and see the land of Canaan, which I give to the children of Israel for a possession.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你上这亚巴琳山中的尼波山去，在摩押地与耶利哥相对，观看我所要赐给以色列人为业的迦南地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你上這亞巴琳山中的尼波山去，在摩押地與耶利哥相對，觀看我所要賜給以色列人為業的迦南地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Die on the mountain where you go up, and be gathered to your people, as Aaron your brother died on Mount Hor, and was gathered to his people;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必死在你所登的山上，归你列祖去，像你哥哥亚伦死在何珥山上，归他的列祖一样。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:50 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必死在你所登的山上，歸你列祖去，像你哥哥亞倫死在何珥山上，歸他的列祖一樣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 32:50 原文是本民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "because you trespassed against me among the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because you didn’t uphold my holiness among the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们在寻的旷野，加低斯的米利巴水，在以色列人中没有尊我为圣，得罪了我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們在尋的曠野，加低斯的米利巴水，在以色列人中沒有尊我為聖，得罪了我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "For you shall see the land from a distance; but you shall not go there into the land which I give the children of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所赐给以色列人的地，你可以远远地观看，却不得进去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所賜給以色列人的地，你可以遠遠地觀看，卻不得進去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

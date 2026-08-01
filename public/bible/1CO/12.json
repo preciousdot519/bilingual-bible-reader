@@ -1,0 +1,572 @@
+{
+  "bookId": "1CO",
+  "chapter": 12,
+  "bookEnglish": "1 Corinthians",
+  "bookChineseSimplified": "哥林多前书",
+  "bookChineseTraditional": "哥林多前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now concerning spiritual things, brothers, I don’t want you to be ignorant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，论到属灵的恩赐，我不愿意你们不明白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，論到屬靈的恩賜，我不願意你們不明白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You know that when you were heathen, you were led away to those mute idols, however you might be led.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:2 or Gentiles"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们作外邦人的时候，随事被牵引，受迷惑，去服事那哑巴偶像，这是你们知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們作外邦人的時候，隨事被牽引，受迷惑，去服事那啞巴偶像，這是你們知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我告诉你们，被 神的灵感动的，没有说「耶稣是可咒诅」的；若不是被圣灵感动的，也没有能说「耶稣是主」的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我告訴你們，被上帝的靈感動的，沒有說「耶穌是可咒詛」的；若不是被聖靈感動的，也沒有能說「耶穌是主」的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now there are various kinds of gifts, but the same Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恩赐原有分别，圣灵却是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恩賜原有分別，聖靈卻是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "There are various kinds of service, and the same Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "职事也有分别，主却是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "職事也有分別，主卻是一位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "There are various kinds of workings, but the same God who works all things in all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "功用也有分别， 神却是一位，在众人里面运行一切的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "功用也有分別，上帝卻是一位，在眾人裏面運行一切的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But to each one is given the manifestation of the Spirit for the profit of all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵显在各人身上，是叫人得益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈顯在各人身上，是叫人得益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For to one is given through the Spirit the word of wisdom, and to another the word of knowledge according to the same Spirit,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这人蒙圣灵赐他智慧的言语，那人也蒙这位圣灵赐他知识的言语，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人蒙聖靈賜他智慧的言語，那人也蒙這位聖靈賜他知識的言語，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "to another faith by the same Spirit, and to another gifts of healings by the same Spirit,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一人蒙这位圣灵赐他信心，还有一人蒙这位圣灵赐他医病的恩赐，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一人蒙這位聖靈賜他信心，還有一人蒙這位聖靈賜他醫病的恩賜，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and to another workings of miracles, and to another prophecy, and to another discerning of spirits, to another different kinds of languages, and to another the interpretation of languages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又叫一人能行异能，又叫一人能作先知，又叫一人能辨别诸灵，又叫一人能说方言，又叫一人能翻方言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又叫一人能行異能，又叫一人能作先知，又叫一人能辨別諸靈，又叫一人能說方言，又叫一人能翻方言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But the one and the same Spirit produces all of these, distributing to each one separately as he desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一切都是这位圣灵所运行、随己意分给各人的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一切都是這位聖靈所運行、隨己意分給各人的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For as the body is one and has many members, and all the members of the body, being many, are one body; so also is Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就如身子是一个，却有许多肢体；而且肢体虽多，仍是一个身子；基督也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如身子是一個，卻有許多肢體；而且肢體雖多，仍是一個身子；基督也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free; and were all given to drink into one Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们不拘是犹太人，是希腊人，是为奴的，是自主的，都从一位圣灵受洗，成了一个身体，饮于一位圣灵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們不拘是猶太人，是希臘人，是為奴的，是自主的，都從一位聖靈受洗，成了一個身體，飲於一位聖靈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For the body is not one member, but many.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "身子原不是一个肢体，乃是许多肢体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "身子原不是一個肢體，乃是許多肢體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "If the foot would say, “Because I’m not the hand, I’m not part of the body,” it is not therefore not part of the body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设若脚说：「我不是手，所以不属乎身子，」它不能因此就不属乎身子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設若腳說：「我不是手，所以不屬乎身子，」它不能因此就不屬乎身子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If the ear would say, “Because I’m not the eye, I’m not part of the body,” it’s not therefore not part of the body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设若耳说：「我不是眼，所以不属乎身子，」它也不能因此就不属乎身子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設若耳說：「我不是眼，所以不屬乎身子，」它也不能因此就不屬乎身子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "If the whole body were an eye, where would the hearing be? If the whole were hearing, where would the smelling be?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若全身是眼，从哪里听声呢？若全身是耳，从哪里闻味呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若全身是眼，從哪裏聽聲呢？若全身是耳，從哪裏聞味呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But now God has set the members, each one of them, in the body, just as he desired.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但如今， 神随自己的意思把肢体俱各安排在身上了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但如今，上帝隨自己的意思把肢體俱各安排在身上了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "If they were all one member, where would the body be?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若都是一个肢体，身子在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若都是一個肢體，身子在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But now they are many members, but one body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但如今肢体是多的，身子却是一个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但如今肢體是多的，身子卻是一個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The eye can’t tell the hand, “I have no need for you,” or again the head to the feet, “I have no need for you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "眼不能对手说：「我用不着你」；头也不能对脚说：「我用不着你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眼不能對手說：「我用不着你。」頭也不能對腳說：「我用不着你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "No, much rather, those members of the body which seem to be weaker are necessary.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不但如此，身上肢体人以为软弱的，更是不可少的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不但如此，身上肢體人以為軟弱的，更是不可少的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Those parts of the body which we think to be less honorable, on those we bestow more abundant honor; and our unpresentable parts have more abundant modesty,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "身上肢体，我们看为不体面的，越发给它加上体面；不俊美的，越发得着俊美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "身上肢體，我們看為不體面的，越發給它加上體面；不俊美的，越發得着俊美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "while our presentable parts have no such need. But God composed the body together, giving more abundant honor to the inferior part,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们俊美的肢体，自然用不着装饰；但 神配搭这身子，把加倍的体面给那有缺欠的肢体，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們俊美的肢體，自然用不着裝飾；但上帝配搭這身子，把加倍的體面給那有缺欠的肢體，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "that there should be no division in the body, but that the members should have the same care for one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "免得身上分门别类，总要肢体彼此相顾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "免得身上分門別類，總要肢體彼此相顧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When one member suffers, all the members suffer with it. When one member is honored, all the members rejoice with it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若一个肢体受苦，所有的肢体就一同受苦；若一个肢体得荣耀，所有的肢体就一同快乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若一個肢體受苦，所有的肢體就一同受苦；若一個肢體得榮耀，所有的肢體就一同快樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Now you are the body of Christ, and members individually.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们就是基督的身子，并且各自作肢体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們就是基督的身子，並且各自作肢體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "God has set some in the assembly: first apostles, second prophets, third teachers, then miracle workers, then gifts of healings, helps, governments, and various kinds of languages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神在教会所设立的：第一是使徒，第二是先知，第三是教师，其次是行异能的，再次是得恩赐医病的，帮助人的，治理事的，说方言的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝在教會所設立的：第一是使徒，第二是先知，第三是教師，其次是行異能的，再次是得恩賜醫病的，幫助人的，治理事的，說方言的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Are all apostles? Are all prophets? Are all teachers? Are all miracle workers?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂都是使徒吗？岂都是先知吗？岂都是教师吗？岂都是行异能的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈都是使徒嗎？豈都是先知嗎？豈都是教師嗎？豈都是行異能的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Do all have gifts of healings? Do all speak with various languages? Do all interpret?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂都是得恩赐医病的吗？岂都是说方言的吗？岂都是翻方言的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈都是得恩賜醫病的嗎？豈都是說方言的嗎？豈都是翻方言的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "But earnestly desire the best gifts. Moreover, I show a most excellent way to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要切切地求那更大的恩赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要切切地求那更大的恩賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

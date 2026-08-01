@@ -1,0 +1,698 @@
+{
+  "bookId": "EXO",
+  "chapter": 36,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Bezalel and Oholiab shall work with every wise-hearted man, in whom the LORD has put wisdom and understanding to know how to do all the work for the service of the sanctuary, according to all that the LORD has commanded.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「比撒列和亚何利亚伯，并一切心里有智慧的，就是蒙耶和华赐智慧聪明、叫他知道做圣所各样使用之工的，都要照耶和华所吩咐的做工。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「比撒列和亞何利亞伯，並一切心裏有智慧的，就是蒙耶和華賜智慧聰明、叫他知道做聖所各樣使用之工的，都要照耶和華所吩咐的做工。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Moses called Bezalel and Oholiab, and every wise-hearted man, in whose heart the LORD had put wisdom, even everyone whose heart stirred him up to come to the work to do it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡耶和华赐他心里有智慧、而且受感前来做这工的，摩西把他们和比撒列并亚何利亚伯一同召来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡耶和華賜他心裏有智慧、而且受感前來做這工的，摩西把他們和比撒列並亞何利亞伯一同召來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They received from Moses all the offering which the children of Israel had brought for the work of the service of the sanctuary, with which to make it. They kept bringing free will offerings to him every morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人就从摩西收了以色列人为做圣所并圣所使用之工所拿来的礼物。百姓每早晨还把甘心献的礼物拿来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人就從摩西收了以色列人為做聖所並聖所使用之工所拿來的禮物。百姓每早晨還把甘心獻的禮物拿來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "All the wise men, who performed all the work of the sanctuary, each came from his work which he did.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡做圣所一切工的智慧人各都离开他所做的工，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡做聖所一切工的智慧人各都離開他所做的工，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They spoke to Moses, saying, “The people have brought much more than enough for the service of the work which the LORD commanded to make.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "来对摩西说：「百姓为耶和华吩咐使用之工所拿来的，富富有余。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "來對摩西說：「百姓為耶和華吩咐使用之工所拿來的，富富有餘。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Moses gave a commandment, and they caused it to be proclaimed throughout the camp, saying, “Let neither man nor woman make anything else for the offering for the sanctuary.” So the people were restrained from bringing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西传命，他们就在全营中宣告说：「无论男女，不必再为圣所拿什么礼物来。」这样才拦住百姓不再拿礼物来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西傳命，他們就在全營中宣告說：「無論男女，不必再為聖所拿甚麼禮物來。」這樣才攔住百姓不再拿禮物來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For the stuff they had was sufficient to do all the work, and too much.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们所有的材料够做一切当做的物，而且有余。 （出26·1—37）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們所有的材料夠做一切當做的物，而且有餘。 （出26‧1－37）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "All the wise-hearted men among those who did the work made the tabernacle with ten curtains of fine twined linen, blue, purple, and scarlet. They made them with cherubim, the work of a skillful workman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们中间，凡心里有智慧做工的，用十幅幔子做帐幕。这幔子是比撒列用捻的细麻和蓝色、紫色、朱红色线制造的，并用巧匠的手工绣上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們中間，凡心裏有智慧做工的，用十幅幔子做帳幕。這幔子是比撒列用撚的細麻和藍色、紫色、朱紅色線製造的，並用巧匠的手工繡上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The length of each curtain was twenty-eight cubits, and the width of each curtain four cubits. All the curtains had one measure.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "36:9 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每幅幔子长二十八肘，宽四肘，都是一样的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每幅幔子長二十八肘，寬四肘，都是一樣的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He coupled five curtains to one another, and the other five curtains he coupled to one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使这五幅幔子幅幅相连，又使那五幅幔子幅幅相连；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使這五幅幔子幅幅相連，又使那五幅幔子幅幅相連；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He made loops of blue on the edge of the one curtain from the edge in the coupling. Likewise he made in the edge of the curtain that was outermost in the second coupling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这相连的幔子末幅边上做蓝色的钮扣，在那相连的幔子末幅边上也照样做；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這相連的幔子末幅邊上做藍色的鈕扣，在那相連的幔子末幅邊上也照樣做；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He made fifty loops in the one curtain, and he made fifty loops in the edge of the curtain that was in the second coupling. The loops were opposite to one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这相连的幔子上做五十个钮扣，在那相连的幔子上也做五十个钮扣，都是两两相对；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這相連的幔子上做五十個鈕扣，在那相連的幔子上也做五十個鈕扣，都是兩兩相對；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He made fifty clasps of gold, and coupled the curtains to one another with the clasps: so the tabernacle was a unit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又做五十个金钩，使幔子相连。这才成了一个帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又做五十個金鉤，使幔子相連。這才成了一個帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He made curtains of goats’ hair for a covering over the tabernacle. He made them eleven curtains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用山羊毛织十一幅幔子，作为帐幕以上的罩棚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用山羊毛織十一幅幔子，作為帳幕以上的罩棚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The length of each curtain was thirty cubits, and four cubits the width of each curtain. The eleven curtains had one measure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每幅幔子长三十肘，宽四肘；十一幅幔子都是一样的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每幅幔子長三十肘，寬四肘；十一幅幔子都是一樣的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He coupled five curtains by themselves, and six curtains by themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他把五幅幔子连成一幅，又把六幅幔子连成一幅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他把五幅幔子連成一幅，又把六幅幔子連成一幅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He made fifty loops on the edge of the curtain that was outermost in the coupling, and he made fifty loops on the edge of the curtain which was outermost in the second coupling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这相连的幔子末幅边上做五十个钮扣，在那相连的幔子末幅边上也做五十个钮扣；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這相連的幔子末幅邊上做五十個鈕扣，在那相連的幔子末幅邊上也做五十個鈕扣；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He made fifty clasps of bronze to couple the tent together, that it might be a unit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又做五十个铜钩，使罩棚连成一个；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又做五十個銅鉤，使罩棚連成一個；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He made a covering for the tent of rams’ skins dyed red, and a covering of sea cow hides above.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并用染红的公羊皮做罩棚的盖，再用海狗皮做一层罩棚上的顶盖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並用染紅的公羊皮做罩棚的蓋，再用海狗皮做一層罩棚上的頂蓋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He made the boards for the tabernacle of acacia wood, standing up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做帐幕的竖板。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做帳幕的豎板。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Ten cubits was the length of a board, and a cubit and a half the width of each board.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每块长十肘，宽一肘半；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每塊長十肘，寬一肘半；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Each board had two tenons, joined to one another. He made all the boards of the tabernacle this way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每块有两榫相对。帐幕一切的板都是这样做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每塊有兩榫相對。帳幕一切的板都是這樣做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He made the boards for the tabernacle, twenty boards for the south side southward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的南面做板二十块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的南面做板二十塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He made forty sockets of silver under the twenty boards: two sockets under one board for its two tenons, and two sockets under another board for its two tenons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这二十块板底下又做四十个带卯的银座：两卯接这块板上的两榫，两卯接那块板上的两榫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這二十塊板底下又做四十個帶卯的銀座：兩卯接這塊板上的兩榫，兩卯接那塊板上的兩榫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For the second side of the tabernacle, on the north side, he made twenty boards",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的第二面，就是北面，也做板二十块",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的第二面，就是北面，也做板二十塊",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "and their forty sockets of silver: two sockets under one board, and two sockets under another board.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和带卯的银座四十个：这板底下有两卯，那板底下也有两卯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和帶卯的銀座四十個：這板底下有兩卯，那板底下也有兩卯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For the far part of the tabernacle westward he made six boards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的后面，就是西面，做板六块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的後面，就是西面，做板六塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He made two boards for the corners of the tabernacle in the far part.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕后面的拐角做板两块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕後面的拐角做板兩塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They were double beneath, and in the same way they were all the way to its top to one ring. He did this to both of them in the two corners.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "板的下半截是双的，上半截是整的，直到第一个环子；在帐幕的两个拐角上都是这样做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "板的下半截是雙的，上半截是整的，直到第一個環子；在帳幕的兩個拐角上都是這樣做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "There were eight boards and their sockets of silver, sixteen sockets—under every board two sockets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有八块板和十六个带卯的银座，每块板底下有两卯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有八塊板和十六個帶卯的銀座，每塊板底下有兩卯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He made bars of acacia wood: five for the boards of the one side of the tabernacle,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做闩：为帐幕这面的板做五闩，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做閂：為帳幕這面的板做五閂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the tabernacle for the hinder part westward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为帐幕那面的板做五闩，又为帐幕后面的板做五闩，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為帳幕那面的板做五閂，又為帳幕後面的板做五閂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He made the middle bar to pass through in the middle of the boards from the one end to the other.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使板腰间的中闩从这一头通到那一头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使板腰間的中閂從這一頭通到那一頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He overlaid the boards with gold, and made their rings of gold as places for the bars, and overlaid the bars with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用金子将板包裹，又做板上的金环套闩；闩也用金子包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用金子將板包裹，又做板上的金環套閂；閂也用金子包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He made the veil of blue, purple, scarlet, and fine twined linen, with cherubim. He made it the work of a skillful workman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用蓝色、紫色、朱红色线，和捻的细麻织幔子，以巧匠的手工绣上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用藍色、紫色、朱紅色線，和撚的細麻織幔子，以巧匠的手工繡上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He made four pillars of acacia for it, and overlaid them with gold. Their hooks were of gold. He cast four sockets of silver for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为幔子做四根皂荚木柱子，用金包裹，柱子上有金钩，又为柱子铸了四个带卯的银座。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為幔子做四根皂莢木柱子，用金包裹，柱子上有金鉤，又為柱子鑄了四個帶卯的銀座。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He made a screen for the door of the tent, of blue, purple, scarlet, and fine twined linen, the work of an embroiderer;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿蓝色、紫色、朱红色线，和捻的细麻，用绣花的手工织帐幕的门帘；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿藍色、紫色、朱紅色線，和撚的細麻，用繡花的手工織帳幕的門簾；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "and the five pillars of it with their hooks. He overlaid their capitals and their fillets with gold, and their five sockets were of bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又为帘子做五根柱子和柱子上的钩子，用金子把柱顶和柱子上的杆子包裹。柱子有五个带卯的座，是铜的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又為簾子做五根柱子和柱子上的鉤子，用金子把柱頂和柱子上的杆子包裹。柱子有五個帶卯的座，是銅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

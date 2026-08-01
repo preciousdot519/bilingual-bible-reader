@@ -1,0 +1,561 @@
+{
+  "bookId": "DEU",
+  "chapter": 33,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "This is the blessing with which Moses the man of God blessed the children of Israel before his death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以下是神人摩西在未死之先为以色列人所祝的福：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以下是神人摩西在未死之先為以色列人所祝的福：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said, “The LORD came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "33:2 another manuscript reads “He came with myriads of holy ones from the south, from his mountain slopes.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：耶和华从西奈而来， 从西珥向他们显现， 从巴兰山发出光辉， 从万万圣者中来临， 从他右手为百姓传出烈火的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：耶和華從西奈而來， 從西珥向他們顯現， 從巴蘭山發出光輝， 從萬萬聖者中來臨， 從他右手為百姓傳出烈火的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Yes, he loves the people. All his saints are in your hand. They sat down at your feet. Each receives your words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他疼爱百姓； 众圣徒都在他手中。 他们坐在他的脚下， 领受他的言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他疼愛百姓； 眾聖徒都在他手中。 他們坐在他的腳下， 領受他的言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moses commanded us a law, an inheritance for the assembly of Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西将律法传给我们， 作为雅各会众的产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西將律法傳給我們， 作為雅各會眾的產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He was king in Jeshurun, when the heads of the people were gathered, all the tribes of Israel together.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓的众首领， 以色列的各支派， 一同聚会的时候， 耶和华在耶书 中为王。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:5 原文是他"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓的眾首領， 以色列的各支派， 一同聚會的時候， 耶和華在耶書崙中為王。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:5 原文是他"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“Let Reuben live, and not die; Nor let his men be few.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿吕便存活，不致死亡； 愿他人数不致稀少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願呂便存活，不致死亡； 願他人數不致稀少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "This is for Judah. He said, “Hear, LORD, the voice of Judah. Bring him in to his people. With his hands he contended for himself. You shall be a help against his adversaries.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为犹大祝福说： 求耶和华俯听犹大的声音， 引导他归于本族； 他曾用手为自己争战， 你必帮助他攻击敌人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為猶大祝福說： 求耶和華俯聽猶大的聲音， 引導他歸於本族； 他曾用手為自己爭戰， 你必幫助他攻擊敵人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "About Levi he said, “Your Thummim and your Urim are with your godly one, whom you proved at Massah, with whom you contended at the waters of Meribah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论利未说： 耶和华啊，你的土明和乌陵 都在你的虔诚人那里。 你在玛撒曾试验他， 在米利巴水与他争论。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論利未說： 耶和華啊，你的土明和烏陵 都在你的虔誠人那裏。 你在瑪撒曾試驗他， 在米利巴水與他爭論。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said of his father, and of his mother, ‘I have not seen him.’ He didn’t acknowledge his brothers, nor did he know his own children; for they have observed your word, and keep your covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他论自己的父母说： 我未曾看见； 他也不承认弟兄， 也不认识自己的儿女。 这是因利未人遵行你的话， 谨守你的约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他論自己的父母說： 我未曾看見； 他也不承認弟兄， 也不認識自己的兒女。 這是因利未人遵行你的話， 謹守你的約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They shall teach Jacob your ordinances, and Israel your law. They shall put incense before you, and whole burnt offering on your altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要将你的典章教训雅各， 将你的律法教训以色列。 他们要把香焚在你面前， 把全牲的燔祭献在你的坛上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要將你的典章教訓雅各， 將你的律法教訓以色列。 他們要把香焚在你面前， 把全牲的燔祭獻在你的壇上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "LORD, bless his skills. Accept the work of his hands. Strike through the hips of those who rise up against him, of those who hate him, that they not rise again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求耶和华降福在他的财物上， 悦纳他手里所办的事。 那些起来攻击他和恨恶他的人， 愿你刺透他们的腰， 使他们不得再起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求耶和華降福在他的財物上， 悅納他手裏所辦的事。 那些起來攻擊他和恨惡他的人， 願你刺透他們的腰， 使他們不得再起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "About Benjamin he said, “The beloved of the LORD will dwell in safety by him. He covers him all day long. He dwells between his shoulders.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论便雅悯说： 耶和华所亲爱的必同耶和华安然居住； 耶和华终日遮蔽他，也住在他两肩之中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論便雅憫說： 耶和華所親愛的必同耶和華安然居住； 耶和華終日遮蔽他，也住在他兩肩之中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "About Joseph he said, “His land is blessed by the LORD, for the precious things of the heavens, for the dew, for the deep that couches beneath,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论约瑟说： 愿他的地蒙耶和华赐福， 得天上的宝物、甘露， 以及地里所藏的泉水；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論約瑟說： 願他的地蒙耶和華賜福， 得天上的寶物、甘露， 以及地裏所藏的泉水；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "for the precious things of the fruits of the sun, for the precious things that the moon can yield,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得太阳所晒熟的美果， 月亮所养成的宝物；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得太陽所曬熟的美果， 月亮所養成的寶物；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "for the best things of the ancient mountains, for the precious things of the everlasting hills,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得上古之山的至宝， 永世之岭的宝物；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得上古之山的至寶， 永世之嶺的寶物；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "for the precious things of the earth and its fullness, the good will of him who lived in the bush. Let this come on the head of Joseph, on the crown of the head of him who was separated from his brothers.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "33:16 i.e., the burning bush of Exodus 3:3-4."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得地和其中所充满的宝物， 并住荆棘中上主的喜悦。 愿这些福都归于约瑟的头上， 归于那与弟兄迥别之人的顶上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得地和其中所充滿的寶物， 並住荊棘中上主的喜悅。 願這些福都歸於約瑟的頭上， 歸於那與弟兄迥別之人的頂上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Majesty belongs to the firstborn of his herd. His horns are the horns of the wild ox. With them he will push all the peoples to the ends of the earth. They are the ten thousands of Ephraim. They are the thousands of Manasseh.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他为牛群中头生的，有威严； 他的角是野牛的角， 用以抵触万邦，直到地极。 这角是以法莲的万万， 玛拿西的千千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他為牛群中頭生的，有威嚴； 他的角是野牛的角， 用以牴觸萬邦，直到地極。 這角是以法蓮的萬萬， 瑪拿西的千千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "About Zebulun he said, “Rejoice, Zebulun, in your going out; and Issachar, in your tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论西布伦说： 西布伦哪，你出外可以欢喜。 以萨迦啊，在你帐棚里可以快乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論西布倫說： 西布倫哪，你出外可以歡喜。 以薩迦啊，在你帳棚裏可以快樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They will call the peoples to the mountain. There they will offer sacrifices of righteousness, for they will draw out the abundance of the seas, the hidden treasures of the sand.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要将列邦召到山上， 在那里献公义的祭； 因为他们要吸取海里的丰富， 并沙中所藏的珍宝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要將列邦召到山上， 在那裏獻公義的祭； 因為他們要吸取海裏的豐富， 並沙中所藏的珍寶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "About Gad he said, “He who enlarges Gad is blessed. He dwells as a lioness, and tears the arm and the crown of the head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论迦得说： 使迦得扩张的应当称颂！ 迦得住如母狮； 他撕裂膀臂，连头顶也撕裂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論迦得說： 使迦得擴張的應當稱頌！ 迦得住如母獅； 他撕裂膀臂，連頭頂也撕裂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He provided the first part for himself, for the lawgiver’s portion was reserved for him. He came with the heads of the people. He executed the righteousness of the LORD, His ordinances with Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他为自己选择头一段地， 因在那里有设立律法者的分存留。 他与百姓的首领同来； 他施行耶和华的公义 和耶和华与以色列所立的典章。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他為自己選擇頭一段地， 因在那裏有設立律法者的分存留。 他與百姓的首領同來； 他施行耶和華的公義 和耶和華與以色列所立的典章。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "About Dan he said, “Dan is a lion’s cub that leaps out of Bashan.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论但说： 但为小狮子， 从巴珊跳出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論但說： 但為小獅子， 從巴珊跳出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "About Naphtali he said, “Naphtali, satisfied with favor, full of the LORD’s blessing, Possess the west and the south.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论拿弗他利说： 拿弗他利啊，你足沾恩惠， 满得耶和华的福， 可以得西方和南方为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論拿弗他利說： 拿弗他利啊，你足沾恩惠， 滿得耶和華的福， 可以得西方和南方為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "About Asher he said, “Asher is blessed with children. Let him be acceptable to his brothers. Let him dip his foot in oil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论亚设说： 愿亚设享受多子的福乐， 得他弟兄的喜悦， 可以把脚蘸在油中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論亞設說： 願亞設享受多子的福樂， 得他弟兄的喜悅， 可以把腳蘸在油中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Your bars will be iron and bronze. As your days, so your strength will be.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的门闩是铜的，铁的。 你的日子如何，你的力量也必如何。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:25 或译：鞋"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的門閂是銅的，鐵的。 你的日子如何，你的力量也必如何。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:25 或譯：鞋"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“There is no one like God, Jeshurun, who rides on the heavens for your help, in his excellency on the skies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶书 哪，没有能比 神的。 他为帮助你，乘在天空， 显其威荣，驾行穹苍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶書崙哪，沒有能比上帝的。 他為幫助你，乘在天空， 顯其威榮，駕行穹蒼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The eternal God is your dwelling place. Underneath are the everlasting arms. He thrust out the enemy from before you, and said, ‘Destroy!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "永生的 神是你的居所； 他永久的膀臂在你以下。 他在你前面撵出仇敌， 说：毁灭吧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "永生的上帝是你的居所； 他永久的膀臂在你以下。 他在你前面攆出仇敵， 說：毀滅吧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Israel dwells in safety, the fountain of Jacob alone, In a land of grain and new wine. Yes, his heavens drop down dew.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列安然居住； 雅各的本源独居五谷新酒之地。 他的天也滴甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列安然居住； 雅各的本源獨居五穀新酒之地。 他的天也滴甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "You are happy, Israel! Who is like you, a people saved by the LORD, the shield of your help, the sword of your excellency? Your enemies will submit themselves to you. You will tread on their high places.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列啊，你是有福的！ 谁像你这蒙耶和华所拯救的百姓呢？ 他是你的盾牌，帮助你， 是你威荣的刀剑。 你的仇敌必投降你； 你必踏在他们的高处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列啊，你是有福的！ 誰像你這蒙耶和華所拯救的百姓呢？ 他是你的盾牌，幫助你， 是你威榮的刀劍。 你的仇敵必投降你； 你必踏在他們的高處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

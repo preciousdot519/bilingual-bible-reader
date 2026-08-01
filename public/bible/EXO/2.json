@@ -1,0 +1,469 @@
+{
+  "bookId": "EXO",
+  "chapter": 2,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "A man of the house of Levi went and took a daughter of Levi as his wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个利未家的人娶了一个利未女子为妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個利未家的人娶了一個利未女子為妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那女人怀孕，生一个儿子，见他俊美，就藏了他三个月，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那女人懷孕，生一個兒子，見他俊美，就藏了他三個月，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river’s bank.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来不能再藏，就取了一个蒲草箱，抹上石漆和石油，将孩子放在里头，把箱子搁在河边的芦荻中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來不能再藏，就取了一個蒲草箱，抹上石漆和石油，將孩子放在裏頭，把箱子擱在河邊的蘆荻中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "His sister stood far off, to see what would be done to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子的姊姊远远站着，要知道他究竟怎么样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子的姊姊遠遠站着，要知道他究竟怎麼樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Pharaoh’s daughter came down to bathe at the river. Her maidens walked along by the riverside. She saw the basket among the reeds, and sent her servant to get it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老的女儿来到河边洗澡，她的使女们在河边行走。她看见箱子在芦荻中，就打发一个婢女拿来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老的女兒來到河邊洗澡，她的使女們在河邊行走。她看見箱子在蘆荻中，就打發一個婢女拿來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, “This is one of the Hebrews’ children.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她打开箱子，看见那孩子。孩子哭了，她就可怜他，说：「这是希伯来人的一个孩子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她打開箱子，看見那孩子。孩子哭了，她就可憐他，說：「這是希伯來人的一個孩子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then his sister said to Pharaoh’s daughter, “Should I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子的姊姊对法老的女儿说：「我去在希伯来妇人中叫一个奶妈来，为你奶这孩子，可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子的姊姊對法老的女兒說：「我去在希伯來婦人中叫一個奶媽來，為你奶這孩子，可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Pharaoh’s daughter said to her, “Go.” The young woman went and called the child’s mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老的女儿说：「可以。」童女就去叫了孩子的母亲来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老的女兒說：「可以。」童女就去叫了孩子的母親來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Pharaoh’s daughter said to her, “Take this child away, and nurse him for me, and I will give you your wages.” The woman took the child, and nursed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老的女儿对她说：「你把这孩子抱去，为我奶他，我必给你工价。」妇人就抱了孩子去奶他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老的女兒對她說：「你把這孩子抱去，為我奶他，我必給你工價。」婦人就抱了孩子去奶他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The child grew, and she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, and said, “Because I drew him out of the water.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:10 “Moses” sounds like the Hebrew for “draw out”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子渐长，妇人把他带到法老的女儿那里，就作了她的儿子。她给孩子起名叫摩西，意思说：「因我把他从水里拉出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子漸長，婦人把他帶到法老的女兒那裏，就作了她的兒子。她給孩子起名叫摩西，意思說：「因我把他從水裏拉出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "In those days, when Moses had grown up, he went out to his brothers and saw their burdens. He saw an Egyptian striking a Hebrew, one of his brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来，摩西长大，他出去到他弟兄那里，看他们的重担，见一个埃及人打希伯来人的一个弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來，摩西長大，他出去到他弟兄那裏，看他們的重擔，見一個埃及人打希伯來人的一個弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他左右观看，见没有人，就把埃及人打死了，藏在沙土里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他左右觀看，見沒有人，就把埃及人打死了，藏在沙土裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He went out the second day, and behold, two men of the Hebrews were fighting with each other. He said to him who did the wrong, “Why do you strike your fellow?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二天他出去，见有两个希伯来人争斗，就对那欺负人的说：「你为什么打你同族的人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二天他出去，見有兩個希伯來人爭鬥，就對那欺負人的說：「你為甚麼打你同族的人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He said, “Who made you a prince and a judge over us? Do you plan to kill me, as you killed the Egyptian?” Moses was afraid, and said, “Surely this thing is known.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人说：「谁立你作我们的首领和审判官呢？难道你要杀我，像杀那埃及人吗？」摩西便惧怕，说：「这事必是被人知道了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人說：「誰立你作我們的首領和審判官呢？難道你要殺我，像殺那埃及人嗎？」摩西便懼怕，說：「這事必是被人知道了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Now when Pharaoh heard this thing, he sought to kill Moses. But Moses fled from the face of Pharaoh, and lived in the land of Midian, and he sat down by a well.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老听见这事，就想杀摩西，但摩西躲避法老，逃往米甸地居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老聽見這事，就想殺摩西，但摩西躲避法老，逃往米甸地居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now the priest of Midian had seven daughters. They came and drew water, and filled the troughs to water their father’s flock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一日，他在井旁坐下。米甸的祭司有七个女儿；她们来打水，打满了槽，要饮父亲的群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一日，他在井旁坐下。米甸的祭司有七個女兒；她們來打水，打滿了槽，要飲父親的群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The shepherds came and drove them away; but Moses stood up and helped them, and watered their flock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有牧羊的人来，把她们赶走了，摩西却起来帮助她们，又饮了她们的群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有牧羊的人來，把她們趕走了，摩西卻起來幫助她們，又飲了她們的群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When they came to Reuel, their father, he said, “How is it that you have returned so early today?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们来到父亲流珥那里；他说：「今日你们为何来得这么快呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們來到父親流珥那裏；他說：「今日你們為何來得這麼快呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They said, “An Egyptian delivered us out of the hand of the shepherds, and moreover he drew water for us, and watered the flock.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们说：「有一个埃及人救我们脱离牧羊人的手，并且为我们打水饮了群羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們說：「有一個埃及人救我們脫離牧羊人的手，並且為我們打水飲了群羊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said to his daughters, “Where is he? Why is it that you have left the man? Call him, that he may eat bread.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对女儿们说：「那个人在哪里？你们为什么撇下他呢？你们去请他来吃饭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對女兒們說：「那個人在哪裏？你們為甚麼撇下他呢？你們去請他來吃飯。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Moses was content to dwell with the man. He gave Moses Zipporah, his daughter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西甘心和那人同住；那人把他的女儿西坡拉给摩西为妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西甘心和那人同住；那人把他的女兒西坡拉給摩西為妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "She bore a son, and he named him Gershom, for he said, “I have lived as a foreigner in a foreign land.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:22 “Gershom” sounds like the Hebrew for “an alien there”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西坡拉生了一个儿子，摩西给他起名叫革舜，意思说：「因我在外邦作了寄居的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西坡拉生了一個兒子，摩西給他起名叫革舜，意思說：「因我在外邦作了寄居的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "In the course of those many days, the king of Egypt died, and the children of Israel sighed because of the bondage, and they cried, and their cry came up to God because of the bondage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了多年，埃及王死了。以色列人因做苦工，就叹息哀求，他们的哀声达于 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了多年，埃及王死了。以色列人因做苦工，就歎息哀求，他們的哀聲達於上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神听见他们的哀声，就记念他与亚伯拉罕、以撒、雅各所立的约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝聽見他們的哀聲，就記念他與亞伯拉罕、以撒、雅各所立的約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "God saw the children of Israel, and God understood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神看顾以色列人，也知道他们的苦情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝看顧以色列人，也知道他們的苦情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

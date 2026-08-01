@@ -1,0 +1,369 @@
+{
+  "bookId": "DEU",
+  "chapter": 13,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们中间若有先知或是做梦的起来，向你显个神迹奇事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們中間若有先知或是做夢的起來，向你顯個神蹟奇事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let’s go after other gods” (which you have not known) “and let’s serve them,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对你说：『我们去随从你素来所不认识的别神，事奉它吧。』他所显的神迹奇事虽有应验，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對你說：『我們去隨從你素來所不認識的別神，事奉它吧。』他所顯的神蹟奇事雖有應驗，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "you shall not listen to the words of that prophet, or to that dreamer of dreams; for the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也不可听那先知或是那做梦之人的话；因为这是耶和华—你们的 神试验你们，要知道你们是尽心尽性爱耶和华—你们的 神不是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也不可聽那先知或是那做夢之人的話；因為這是耶和華－你們的上帝試驗你們，要知道你們是盡心盡性愛耶和華－你們的上帝不是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You shall walk after the LORD your God, fear him, keep his commandments, and obey his voice. You shall serve him, and cling to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要顺从耶和华—你们的 神，敬畏他，谨守他的诫命，听从他的话，事奉他，专靠他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要順從耶和華－你們的上帝，敬畏他，謹守他的誡命，聽從他的話，事奉他，專靠他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "That prophet, or that dreamer of dreams, shall be put to death, because he has spoken rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you out of the house of bondage, to draw you aside out of the way which the LORD your God commanded you to walk in. So you shall remove the evil from among you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那先知或是那做梦的既用言语叛逆那领你们出埃及地、救赎你脱离为奴之家的耶和华—你们的 神，要勾引你离开耶和华—你 神所吩咐你行的道，你便要将他治死。这样，就把那恶从你们中间除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那先知或是那做夢的既用言語叛逆那領你們出埃及地、救贖你脫離為奴之家的耶和華－你們的上帝，要勾引你離開耶和華－你上帝所吩咐你行的道，你便要將他治死。這樣，就把那惡從你們中間除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, “Let’s go and serve other gods”—which you have not known, you, nor your fathers;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你的同胞弟兄，或是你的儿女，或是你怀中的妻，或是如同你性命的朋友，若暗中引诱你，说：『我们不如去事奉你和你列祖素来所不认识的别神—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你的同胞弟兄，或是你的兒女，或是你懷中的妻，或是如同你性命的朋友，若暗中引誘你，說：『我們不如去事奉你和你列祖素來所不認識的別神－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是你四围列国的神。』无论是离你近，离你远，从地这边到地那边的神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是你四圍列國的神。』無論是離你近，離你遠，從地這邊到地那邊的神，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "you shall not consent to him nor listen to him; neither shall your eye pity him, neither shall you spare, neither shall you conceal him;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可依从他，也不可听从他，眼不可顾惜他。你不可怜恤他，也不可遮庇他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可依從他，也不可聽從他，眼不可顧惜他。你不可憐恤他，也不可遮庇他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "but you shall surely kill him. Your hand shall be first on him to put him to death, and afterwards the hands of all the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "总要杀他；你先下手，然后众民也下手，将他治死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "總要殺他；你先下手，然後眾民也下手，將他治死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall stone him to death with stones, because he has sought to draw you away from the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用石头打死他，因为他想要勾引你离开那领你出埃及地为奴之家的耶和华—你的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用石頭打死他，因為他想要勾引你離開那領你出埃及地為奴之家的耶和華－你的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "All Israel shall hear, and fear, and shall not do any more wickedness like this among you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众人都要听见害怕，就不敢在你们中间再行这样的恶了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾人都要聽見害怕，就不敢在你們中間再行這樣的惡了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "If you hear about one of your cities, which the LORD your God gives you to dwell there, that",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12-13",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在耶和华—你 神所赐你居住的各城中，你若听人说，有些匪类从你们中间的一座城出来勾引本城的居民，说：『我们不如去事奉你们素来所不认识的别神』；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在耶和華－你上帝所賜你居住的各城中，你若聽人說，有些匪類從你們中間的一座城出來勾引本城的居民，說：『我們不如去事奉你們素來所不認識的別神』；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "certain wicked fellows have gone out from among you and have drawn away the inhabitants of their city, saying, “Let’s go and serve other gods,” which you have not known,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination was done among you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就要探听，查究，细细地访问，果然是真，准有这可憎恶的事行在你们中间，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就要探聽，查究，細細地訪問，果然是真，準有這可憎惡的事行在你們中間，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is therein and its livestock, with the edge of the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必要用刀杀那城里的居民，把城里所有的，连牲畜，都用刀杀尽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必要用刀殺那城裏的居民，把城裏所有的，連牲畜，都用刀殺盡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "You shall gather all its plunder into the middle of its street, and shall burn with fire the city, with all of its plunder, to the LORD your God. It shall be a heap forever. It shall not be built again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你从那城里所夺的财物都要堆积在街市上，用火将城和其内所夺的财物都在耶和华—你 神面前烧尽；那城就永为荒堆，不可再建造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你從那城裏所奪的財物都要堆積在街市上，用火將城和其內所奪的財物都在耶和華－你上帝面前燒盡；那城就永為荒堆，不可再建造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Nothing of the devoted thing shall cling to your hand, that the LORD may turn from the fierceness of his anger and show you mercy, and have compassion on you and multiply you, as he has sworn to your fathers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17-18",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那当毁灭的物连一点都不可粘你的手。你要听从耶和华—你 神的话，遵守我今日所吩咐你的一切诫命，行耶和华—你 神眼中看为正的事，耶和华就必转意，不发烈怒，恩待你，怜恤你，照他向你列祖所起的誓使你人数增多。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那當毀滅的物連一點都不可粘你的手。你要聽從耶和華－你上帝的話，遵守我今日所吩咐你的一切誡命，行耶和華－你上帝眼中看為正的事，耶和華就必轉意，不發烈怒，恩待你，憐恤你，照他向你列祖所起的誓使你人數增多。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "when you listen to the LORD your God’s voice, to keep all his commandments which I command you today, to do that which is right in the LORD your God’s eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

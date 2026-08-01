@@ -1,0 +1,713 @@
+{
+  "bookId": "2KI",
+  "chapter": 15,
+  "bookEnglish": "2 Kings",
+  "bookChineseSimplified": "列王纪下",
+  "bookChineseTraditional": "列王紀下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王耶罗波安二十七年，犹大王亚玛谢的儿子亚撒利雅登基，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王耶羅波安二十七年，猶大王亞瑪謝的兒子亞撒利雅登基，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他登基的时候年十六岁，在耶路撒冷作王五十二年。他母亲名叫耶可利雅，是耶路撒冷人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他登基的時候年十六歲，在耶路撒冷作王五十二年。他母親名叫耶可利雅，是耶路撒冷人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He did that which was right in the LORD’s eyes, according to all that his father Amaziah had done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒利雅行耶和华眼中看为正的事，效法他父亲亚玛谢一切所行的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒利雅行耶和華眼中看為正的事，效法他父親亞瑪謝一切所行的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "However, the high places were not taken away. The people still sacrificed and burned incense in the high places.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是邱坛还没有废去，百姓仍在那里献祭烧香。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是邱壇還沒有廢去，百姓仍在那裏獻祭燒香。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD struck the king, so that he was a leper to the day of his death, and lived in a separate house. Jotham, the king’s son, was over the household, judging the people of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华降灾与王，使他长大麻风，直到死日，他就住在别的宫里。他的儿子约坦管理家事，治理国民。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華降災與王，使他長大痲瘋，直到死日，他就住在別的宮裏。他的兒子約坦管理家事，治理國民。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Now the rest of the acts of Azariah, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒利雅其余的事，凡他所行的都写在犹大列王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒利雅其餘的事，凡他所行的都寫在猶大列王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Azariah slept with his fathers; and they buried him with his fathers in David’s city; and Jotham his son reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒利雅与他列祖同睡，葬在大卫城他列祖的坟地里。他儿子约坦接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒利雅與他列祖同睡，葬在大衛城他列祖的墳地裏。他兒子約坦接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam reigned over Israel in Samaria six months.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王亚撒利雅三十八年，耶罗波安的儿子撒迦利雅在撒马利亚作以色列王六个月。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王亞撒利雅三十八年，耶羅波安的兒子撒迦利雅在撒馬利亞作以色列王六個月。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight, as his fathers had done. He didn’t depart from the sins of Jeroboam the son of Nebat, with which he made Israel to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他行耶和华眼中看为恶的事，效法他列祖所行的，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他行耶和華眼中看為惡的事，效法他列祖所行的，不離開尼八的兒子耶羅波安使以色列人陷在罪裏的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Shallum the son of Jabesh conspired against him, and struck him before the people and killed him, and reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅比的儿子沙龙背叛他，在百姓面前击杀他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅比的兒子沙龍背叛他，在百姓面前擊殺他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now the rest of the acts of Zechariah, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒迦利雅其余的事都写在以色列诸王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒迦利雅其餘的事都寫在以色列諸王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "This was the LORD’s word which he spoke to Jehu, saying, “Your sons to the fourth generation shall sit on the throne of Israel.” So it came to pass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是从前耶和华应许耶户说：「你的子孙必坐以色列的国位直到四代。」这话果然应验了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是從前耶和華應許耶戶說：「你的子孫必坐以色列的國位直到四代。」這話果然應驗了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned for a month in Samaria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王乌西雅三十九年，雅比的儿子沙龙登基在撒马利亚作王一个月。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 15:13 就是亚撒利雅"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王烏西雅三十九年，雅比的兒子沙龍登基在撒馬利亞作王一個月。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 15:13 就是亞撒利雅"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Menahem the son of Gadi went up from Tirzah, came to Samaria, struck Shallum the son of Jabesh in Samaria, killed him, and reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦底的儿子米拿现从得撒上撒马利亚，杀了雅比的儿子沙龙，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦底的兒子米拿現從得撒上撒馬利亞，殺了雅比的兒子沙龍，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Now the rest of the acts of Shallum, and his conspiracy which he made, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙龙其余的事和他背叛的情形都写在以色列诸王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙龍其餘的事和他背叛的情形都寫在以色列諸王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Then Menahem attacked Tiphsah and all who were in it and its border areas, from Tirzah. He attacked it because they didn’t open their gates to him, and he ripped up all their women who were with child.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时米拿现从得撒起攻打提斐萨和其四境，击杀城中一切的人，剖开其中所有的孕妇，都因他们没有给他开城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時米拿現從得撒起攻打提斐薩和其四境，擊殺城中一切的人，剖開其中所有的孕婦，都因他們沒有給他開城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In the thirty ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel for ten years in Samaria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王亚撒利雅三十九年，迦底的儿子米拿现登基，在撒马利亚作以色列王十年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王亞撒利雅三十九年，迦底的兒子米拿現登基，在撒馬利亞作以色列王十年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight. He didn’t depart all his days from the sins of Jeroboam the son of Nebat, with which he made Israel to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他行耶和华眼中看为恶的事，终身不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他行耶和華眼中看為惡的事，終身不離開尼八的兒子耶羅波安使以色列人陷在罪裏的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Pul the king of Assyria came against the land, and Menahem gave Pul one thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:19 A talent is about 30 kilograms or 66 pounds, so 1000 talents is about 30 metric tons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚述王普勒来攻击以色列国，米拿现给他一千他连得银子，请普勒帮助他坚定国位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞述王普勒來攻擊以色列國，米拿現給他一千他連得銀子，請普勒幫助他堅定國位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Menahem exacted the money from Israel, even from all the mighty men of wealth, from each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and didn’t stay there in the land.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:20 A shekel is about 10 grams or about 0.35 ounces, so 50 shekels was about 0.5 kilograms or 1.1 pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米拿现向以色列一切大富户索要银子，使他们各出五十舍客勒，就给了亚述王。于是亚述王回去，不在国中停留。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米拿現向以色列一切大富戶索要銀子，使他們各出五十舍客勒，就給了亞述王。於是亞述王回去，不在國中停留。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Now the rest of the acts of Menahem, and all that he did, aren’t they written in the book of the chronicles of the kings of Israel?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米拿现其余的事，凡他所行的都写在以色列诸王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米拿現其餘的事，凡他所行的都寫在以色列諸王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Menahem slept with his fathers, and Pekahiah his son reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米拿现与他列祖同睡。他儿子比加辖接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米拿現與他列祖同睡。他兒子比加轄接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria for two years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王亚撒利雅五十年，米拿现的儿子比加辖在撒马利亚登基作以色列王二年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王亞撒利雅五十年，米拿現的兒子比加轄在撒馬利亞登基作以色列王二年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight. He didn’t depart from the sins of Jeroboam the son of Nebat, with which he made Israel to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他行耶和華眼中看為惡的事，不離開尼八的兒子耶羅波安使以色列人陷在罪裏的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Pekah the son of Remaliah, his captain, conspired against him and attacked him in Samaria, in the fortress of the king’s house, with Argob and Arieh; and with him were fifty men of the Gileadites. He killed him, and reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比加辖的将军、利玛利的儿子比加背叛他，在撒马利亚王宫里的卫所杀了他。亚珥歌伯和亚利耶并基列的五十人帮助比加；比加击杀他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比加轄的將軍、利瑪利的兒子比加背叛他，在撒馬利亞王宮裏的衛所殺了他。亞珥歌伯和亞利耶並基列的五十人幫助比加；比加擊殺他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Now the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比加辖其余的事，凡他所行的都写在以色列诸王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比加轄其餘的事，凡他所行的都寫在以色列諸王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria for twenty years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王亚撒利雅五十二年，利玛利的儿子比加在撒马利亚登基作以色列王二十年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王亞撒利雅五十二年，利瑪利的兒子比加在撒馬利亞登基作以色列王二十年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight. He didn’t depart from the sins of Jeroboam the son of Nebat, with which he made Israel to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他行耶和华眼中看为恶的事，不离开尼八的儿子耶罗波安使以色列人陷在罪里的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他行耶和華眼中看為惡的事，不離開尼八的兒子耶羅波安使以色列人陷在罪裏的那罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "In the days of Pekah king of Israel, Tiglath Pileser king of Assyria came and took Ijon, Abel Beth Maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, all the land of Naphtali; and he carried them captive to Assyria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王比加年间，亚述王提革拉·毗列色来夺了以云、亚伯·伯·玛迦、亚挪、基低斯、夏琐、基列、加利利，和拿弗他利全地，将这些地方的居民都掳到亚述去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王比加年間，亞述王提革拉‧毗列色來奪了以雲、亞伯‧伯‧瑪迦、亞挪、基低斯、夏瑣、基列、加利利，和拿弗他利全地，將這些地方的居民都擄到亞述去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, attacked him, killed him, and reigned in his place, in the twentieth year of Jotham the son of Uzziah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乌西雅的儿子约坦二十年，以拉的儿子何细亚背叛利玛利的儿子比加，击杀他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "烏西雅的兒子約坦二十年，以拉的兒子何細亞背叛利瑪利的兒子比加，擊殺他，篡了他的位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Now the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比加其余的事，凡他所行的都写在以色列诸王记上。 （代下27·1—9）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比加其餘的事，凡他所行的都寫在以色列諸王記上。 （代下27‧1－9）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of Uzziah king of Judah began to reign.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王利玛利的儿子比加第二年，犹大王乌西雅的儿子约坦登基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王利瑪利的兒子比加第二年，猶大王烏西雅的兒子約坦登基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerusha the daughter of Zadok.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他登基的时候年二十五岁，在耶路撒冷作王十六年。他母亲名叫耶路沙，是撒督的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他登基的時候年二十五歲，在耶路撒冷作王十六年。他母親名叫耶路沙，是撒督的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He did that which was right in the LORD’s eyes. He did according to all that his father Uzziah had done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约坦行耶和华眼中看为正的事，效法他父亲乌西雅一切所行的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約坦行耶和華眼中看為正的事，效法他父親烏西雅一切所行的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "However the high places were not taken away. The people still sacrificed and burned incense in the high places. He built the upper gate of the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是邱坛还没有废去，百姓仍在那里献祭烧香。约坦建立耶和华殿的上门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是邱壇還沒有廢去，百姓仍在那裏獻祭燒香。約坦建立耶和華殿的上門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Now the rest of the acts of Jotham, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约坦其余的事，凡他所行的都写在犹大列王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約坦其餘的事，凡他所行的都寫在猶大列王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "In those days, the LORD began to send Rezin the king of Syria and Pekah the son of Remaliah against Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那些日子，耶和华才使亚兰王利汛和利玛利的儿子比加去攻击犹大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那些日子，耶和華才使亞蘭王利汛和利瑪利的兒子比加去攻擊猶大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Jotham slept with his fathers, and was buried with his fathers in his father David’s city; and Ahaz his son reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约坦与他列祖同睡，葬在他祖大卫城他列祖的坟地里。他儿子亚哈斯接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約坦與他列祖同睡，葬在他祖大衛城他列祖的墳地裏。他兒子亞哈斯接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "bookId": "ROM",
+  "chapter": 10,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我心里所愿的，向 神所求的，是要以色列人得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我心裏所願的，向上帝所求的，是要以色列人得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For I testify about them that they have a zeal for God, but not according to knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我可以证明，他们向 神有热心，但不是按着真知识；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我可以證明，他們向上帝有熱心，但不是按着真知識；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For being ignorant of God’s righteousness, and seeking to establish their own righteousness, they didn’t subject themselves to the righteousness of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为不知道 神的义，想要立自己的义，就不服 神的义了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為不知道上帝的義，想要立自己的義，就不服上帝的義了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For Christ is the fulfillment of the law for righteousness to everyone who believes.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:4 or, completion, or end"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "律法的总结就是基督，使凡信他的都得着义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法的總結就是基督，使凡信他的都得着義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For Moses writes about the righteousness of the law, “The one who does them will live by them.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:5 Leviticus 18:5",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "摩西写着说：「人若行那出于律法的义，就必因此活着。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西寫着說：「人若行那出於律法的義，就必因此活着。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But the righteousness which is of faith says this, “Don’t say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down);",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:6 Deuteronomy 30:12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "惟有出于信心的义如此说：「你不要心里说：谁要升到天上去呢？（就是要领下基督来；）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有出於信心的義如此說：「你不要心裏說：誰要升到天上去呢？（就是要領下基督來；）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "or, ‘Who will descend into the abyss?’ (that is, to bring Christ up from the dead.)”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:7 Deuteronomy 30:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "谁要下到阴间去呢？（就是要领基督从死里上来。）」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰要下到陰間去呢？（就是要領基督從死裏上來。）」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But what does it say? “The word is near you, in your mouth and in your heart;” that is, the word of faith which we preach:",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:8 Deuteronomy 30:14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他到底怎么说呢？他说： 这道离你不远， 正在你口里，在你心里— 主的道。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他到底怎麼說呢？他說： 這道離你不遠， 正在你口裏，在你心裏－ 主的道。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若口里认耶稣为主，心里信 神叫他从死里复活，就必得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若口裏認耶穌為主，心裏信上帝叫他從死裏復活，就必得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For with the heart one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，人心里相信就可以称义，口里承认就可以得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，人心裏相信就可以稱義，口裏承認就可以得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For the Scripture says, “Whoever believes in him will not be disappointed.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:11 Isaiah 28:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "经上说：「凡信他的人必不至于羞愧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "經上說：「凡信他的人必不至於羞愧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹太人和希腊人并没有分别，因为众人同有一位主；他也厚待一切求告他的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶太人和希臘人並沒有分別，因為眾人同有一位主；他也厚待一切求告他的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For, “Whoever will call on the name of the Lord will be saved.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:13 Joel 2:32",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为「凡求告主名的就必得救」。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為「凡求告主名的就必得救」。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，人未曾信他，怎能求他呢？未曾听见他，怎能信他呢？没有传道的，怎能听见呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，人未曾信他，怎能求他呢？未曾聽見他，怎能信他呢？沒有傳道的，怎能聽見呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "And how will they preach unless they are sent? As it is written: “How beautiful are the feet of those who preach the Good News of peace, who bring glad tidings of good things!”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:15 Isaiah 52:7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "若没有奉差遣，怎能传道呢？如经上所记：「报福音、传喜信的人，他们的脚踪何等佳美！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若沒有奉差遣，怎能傳道呢？如經上所記：「報福音、傳喜信的人，他們的腳蹤何等佳美！ 」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But they didn’t all listen to the glad news. For Isaiah says, “Lord, who has believed our report?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:16 Isaiah 53:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "只是人没有都听从福音，因为以赛亚说：「主啊，我们所传的有谁信呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是人沒有都聽從福音，因為以賽亞說：「主啊，我們所傳的有誰信呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So faith comes by hearing, and hearing by the word of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可见，信道是从听道来的，听道是从基督的话来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可見，信道是從聽道來的，聽道是從基督的話來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But I say, didn’t they hear? Yes, most certainly, “Their sound went out into all the earth, their words to the ends of the world.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:18 Psalms 19:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "但我说，人没有听见吗？诚然听见了。 他们的声音传遍天下； 他们的言语传到地极。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我說，人沒有聽見嗎？誠然聽見了。 他們的聲音傳遍天下； 他們的言語傳到地極。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But I ask, didn’t Israel know? First Moses says, “I will provoke you to jealousy with that which is no nation. I will make you angry with a nation void of understanding.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:19 Deuteronomy 32:21",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "我再说，以色列人不知道吗？先有摩西说： 我要用那不成子民的惹动你们的愤恨； 我要用那无知的民触动你们的怒气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我再說，以色列人不知道嗎？先有摩西說： 我要用那不成子民的惹動你們的憤恨； 我要用那無知的民觸動你們的怒氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Isaiah is very bold and says, “I was found by those who didn’t seek me. I was revealed to those who didn’t ask for me.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:20 Isaiah 65:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "又有以赛亚放胆说： 没有寻找我的，我叫他们遇见； 没有访问我的，我向他们显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有以賽亞放膽說： 沒有尋找我的，我叫他們遇見； 沒有訪問我的，我向他們顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But about Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:21 Isaiah 65:2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "至于以色列人，他说：「我整天伸手招呼那悖逆顶嘴的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於以色列人，他說：「我整天伸手招呼那悖逆頂嘴的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

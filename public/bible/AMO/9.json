@@ -1,0 +1,299 @@
+{
+  "bookId": "AMO",
+  "chapter": 9,
+  "bookEnglish": "Amos",
+  "bookChineseSimplified": "阿摩司书",
+  "bookChineseTraditional": "阿摩司書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看见主站在祭坛旁边； 他说：你要击打柱顶，使门槛震动， 打碎柱顶，落在众人头上； 所剩下的人，我必用刀杀戮， 无一人能逃避，无一人能逃脱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看見主站在祭壇旁邊； 他說：你要擊打柱頂，使門檻震動， 打碎柱頂，落在眾人頭上； 所剩下的人，我必用刀殺戮， 無一人能逃避，無一人能逃脫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Though they dig into Sheol, there my hand will take them; and though they climb up to heaven, there I will bring them down.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:2 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们虽然挖透阴间， 我的手必取出他们来； 虽然爬上天去， 我必拿下他们来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們雖然挖透陰間， 我的手必取出他們來； 雖然爬上天去， 我必拿下他們來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Though they hide themselves in the top of Carmel, I will search and take them out from there; and though they be hidden from my sight in the bottom of the sea, there I will command the serpent, and it will bite them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽然藏在迦密山顶， 我必搜寻，捉出他们来； 虽然从我眼前藏在海底， 我必命蛇咬他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖然藏在迦密山頂， 我必搜尋，捉出他們來； 雖然從我眼前藏在海底， 我必命蛇咬他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Though they go into captivity before their enemies, there I will command the sword, and it will kill them. I will set my eyes on them for evil, and not for good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽被仇敌掳去， 我必命刀剑杀戮他们； 我必向他们定住眼目， 降祸不降福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖被仇敵擄去， 我必命刀劍殺戮他們； 我必向他們定住眼目， 降禍不降福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For the Lord, the GOD of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:5 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主—万军之耶和华摸地，地就消化， 凡住在地上的都必悲哀。 地必全然像尼罗河涨起， 如同埃及河落下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主－萬軍之耶和華摸地，地就消化， 凡住在地上的都必悲哀。 地必全然像尼羅河漲起， 如同埃及河落下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth—the LORD is his name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那在天上建造楼阁、 在地上安定穹苍、 命海水浇在地上的— 耶和华是他的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那在天上建造樓閣、 在地上安定穹蒼、 命海水澆在地上的－ 耶和華是他的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Are you not like the children of the Ethiopians to me, children of Israel?” says the LORD. “Haven’t I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：以色列人哪， 我岂不看你们如古实人吗？ 我岂不是领以色列人出埃及地， 领非利士人出迦斐托， 领亚兰人出吉珥吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：以色列人哪， 我豈不看你們如古實人嗎？ 我豈不是領以色列人出埃及地， 領非利士人出迦斐託， 領亞蘭人出吉珥嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Behold, the eyes of the Lord GOD are on the sinful kingdom, and I will destroy it from off the surface of the earth, except that I will not utterly destroy the house of Jacob,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华的眼目察看这有罪的国， 必将这国从地上灭绝， 却不将雅各家灭绝净尽。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華的眼目察看這有罪的國， 必將這國從地上滅絕， 卻不將雅各家滅絕淨盡。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“For behold, I will command, and I will sift the house of Israel among all the nations as grain is sifted in a sieve, yet not the least kernel will fall on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必出令， 将以色列家分散在列国中， 好像用筛子筛谷， 连一粒也不落在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必出令， 將以色列家分散在列國中， 好像用篩子篩穀， 連一粒也不落在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "All the sinners of my people will die by the sword, who say, ‘Evil won’t overtake nor meet us.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我民中的一切罪人说： 灾祸必追不上我们， 也迎不着我们。 他们必死在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我民中的一切罪人說： 災禍必追不上我們， 也迎不着我們。 他們必死在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "In that day I will raise up the tent of David who is fallen and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，我必建立大卫倒塌的帐幕， 堵住其中的破口， 把那破坏的建立起来， 重新修造，像古时一样，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，我必建立大衛倒塌的帳幕， 堵住其中的破口， 把那破壞的建立起來， 重新修造，像古時一樣，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "that they may possess the remnant of Edom and all the nations who are called by my name,” says the LORD who does this.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使以色列人得以东所余剩的 和所有称为我名下的国。 此乃行这事的耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使以色列人得以東所餘剩的 和所有稱為我名下的國。 此乃行這事的耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Behold, the days come,” says the LORD, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说： 日子将到， 耕种的必接续收割的； 踹葡萄的必接续撒种的； 大山要滴下甜酒； 小山都必流奶。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:13 原文是消化，见约珥三章十八节"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說： 日子將到， 耕種的必接續收割的； 踹葡萄的必接續撒種的； 大山要滴下甜酒； 小山都必流奶。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:13 原文是消化，見約珥三章十八節"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I will bring my people Israel back from captivity, and they will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them. They shall also make gardens, and eat their fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必使我民以色列被掳的归回； 他们必重修荒废的城邑居住， 栽种葡萄园，喝其中所出的酒， 修造果木园，吃其中的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必使我民以色列被擄的歸回； 他們必重修荒廢的城邑居住， 栽種葡萄園，喝其中所出的酒， 修造果木園，吃其中的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将他们栽于本地， 他们不再从我所赐给他们的地上拔出来。 这是耶和华—你的 神说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將他們栽於本地， 他們不再從我所賜給他們的地上拔出來。 這是耶和華－你的上帝說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

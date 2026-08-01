@@ -1,0 +1,506 @@
+{
+  "bookId": "1CO",
+  "chapter": 9,
+  "bookEnglish": "1 Corinthians",
+  "bookChineseSimplified": "哥林多前书",
+  "bookChineseTraditional": "哥林多前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Am I not free? Am I not an apostle? Haven’t I seen Jesus Christ, our Lord? Aren’t you my work in the Lord?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不是自由的吗？我不是使徒吗？我不是见过我们的主耶稣吗？你们不是我在主里面所做之工吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不是自由的嗎？我不是使徒嗎？我不是見過我們的主耶穌嗎？你們不是我在主裏面所做之工嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假若在别人，我不是使徒，在你们，我总是使徒，因为你们在主里正是我作使徒的印证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假若在別人，我不是使徒，在你們，我總是使徒，因為你們在主裏正是我作使徒的印證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "My defense to those who examine me is this:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对那盘问我的人就是这样分诉：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對那盤問我的人就是這樣分訴：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Have we no right to eat and to drink?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "难道我们没有权柄靠福音吃喝吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "難道我們沒有權柄靠福音吃喝嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Have we no right to take along a wife who is a believer, even as the rest of the apostles, and the brothers of the Lord, and Cephas?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "难道我们没有权柄娶信主的姊妹为妻，带着一同往来，仿佛其余的使徒和主的弟兄并矶法一样吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "難道我們沒有權柄娶信主的姊妹為妻，帶着一同往來，彷彿其餘的使徒和主的弟兄並磯法一樣嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Or have only Barnabas and I no right to not work?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "独有我与巴拿巴没有权柄不做工吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "獨有我與巴拿巴沒有權柄不做工嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "What soldier ever serves at his own expense? Who plants a vineyard, and doesn’t eat of its fruit? Or who feeds a flock, and doesn’t drink from the flock’s milk?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有谁当兵自备粮饷呢？有谁栽葡萄园不吃园里的果子呢？有谁牧养牛羊不吃牛羊的奶呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有誰當兵自備糧餉呢？有誰栽葡萄園不吃園裏的果子呢？有誰牧養牛羊不吃牛羊的奶呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Do I speak these things according to the ways of men? Or doesn’t the law also say the same thing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说这话，岂是照人的意见；律法不也是这样说吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說這話，豈是照人的意見；律法不也是這樣說嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For it is written in the law of Moses, “You shall not muzzle an ox while it treads out the grain.” Is it for the oxen that God cares,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "9:9 Deuteronomy 25:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "就如摩西的律法记着说：「牛在场上踹谷的时候，不可笼住它的嘴。」难道 神所挂念的是牛吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如摩西的律法記着說：「牛在場上踹穀的時候，不可籠住牠的嘴。」難道上帝所掛念的是牛嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "or does he say it assuredly for our sake? Yes, it was written for our sake, because he who plows ought to plow in hope, and he who threshes in hope should partake of his hope.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不全是为我们说的吗？分明是为我们说的。因为耕种的当存着指望去耕种；打场的也当存得粮的指望去打场。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不全是為我們說的嗎？分明是為我們說的。因為耕種的當存着指望去耕種；打場的也當存得糧的指望去打場。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "If we sowed to you spiritual things, is it a great thing if we reap your fleshly things?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若把属灵的种子撒在你们中间，就是从你们收割奉养肉身之物，这还算大事吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若把屬靈的種子撒在你們中間，就是從你們收割奉養肉身之物，這還算大事嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "If others partake of this right over you, don’t we yet more? Nevertheless we didn’t use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若别人在你们身上有这权柄，何况我们呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若別人在你們身上有這權柄，何況我們呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Don’t you know that those who serve around sacred things eat from the things of the temple, and those who wait on the altar have their portion with the altar?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们岂不知为圣事劳碌的就吃殿中的物吗？伺候祭坛的就分领坛上的物吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們豈不知為聖事勞碌的就吃殿中的物嗎？伺候祭壇的就分領壇上的物嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Even so the Lord ordained that those who proclaim the Good News should live from the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主也是这样命定，叫传福音的靠着福音养生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主也是這樣命定，叫傳福音的靠着福音養生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But I have used none of these things, and I don’t write these things that it may be done so in my case; for I would rather die, than that anyone should make my boasting void.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这权柄我全没有用过。我写这话，并非要你们这样待我，因为我宁可死也不叫人使我所夸的落了空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這權柄我全沒有用過。我寫這話，並非要你們這樣待我，因為我寧可死也不叫人使我所誇的落了空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For if I preach the Good News, I have nothing to boast about, for necessity is laid on me; but woe is to me if I don’t preach the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我传福音原没有可夸的，因为我是不得已的。若不传福音，我便有祸了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我傳福音原沒有可誇的，因為我是不得已的。若不傳福音，我便有禍了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For if I do this of my own will, I have a reward. But if not of my own will, I have a stewardship entrusted to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若甘心做这事，就有赏赐；若不甘心，责任却已经托付我了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若甘心做這事，就有賞賜；若不甘心，責任卻已經託付我了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "What then is my reward? That when I preach the Good News, I may present the Good News of Christ without charge, so as not to abuse my authority in the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既是这样，我的赏赐是什么呢？就是我传福音的时候叫人不花钱得福音，免得用尽我传福音的权柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既是這樣，我的賞賜是甚麼呢？就是我傳福音的時候叫人不花錢得福音，免得用盡我傳福音的權柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For though I was free from all, I brought myself under bondage to all, that I might gain the more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽是自由的，无人辖管；然而我甘心作了众人的仆人，为要多得人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖是自由的，無人轄管；然而我甘心作了眾人的僕人，為要多得人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "To the Jews I became as a Jew, that I might gain Jews; to those who are under the law, as under the law, that I might gain those who are under the law;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:20 NU adds: though I myself am not under the law"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向犹太人，我就作犹太人，为要得犹太人；向律法以下的人，我虽不在律法以下，还是作律法以下的人，为要得律法以下的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向猶太人，我就作猶太人，為要得猶太人；向律法以下的人，我雖不在律法以下，還是作律法以下的人，為要得律法以下的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "to those who are without law, as without law (not being without law toward God, but under law toward Christ), that I might win those who are without law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向没有律法的人，我就作没有律法的人，为要得没有律法的人；其实我在 神面前，不是没有律法；在基督面前，正在律法之下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向沒有律法的人，我就作沒有律法的人，為要得沒有律法的人；其實我在上帝面前，不是沒有律法；在基督面前，正在律法之下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "To the weak I became as weak, that I might gain the weak. I have become all things to all men, that I may by all means save some.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向软弱的人，我就作软弱的人，为要得软弱的人。向什么样的人，我就作什么样的人。无论如何，总要救些人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向軟弱的人，我就作軟弱的人，為要得軟弱的人。向甚麼樣的人，我就作甚麼樣的人。無論如何，總要救些人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Now I do this for the sake of the Good News, that I may be a joint partaker of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡我所行的，都是为福音的缘故，为要与人同得这福音的好处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡我所行的，都是為福音的緣故，為要與人同得這福音的好處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Don’t you know that those who run in a race all run, but one receives the prize? Run like that, so that you may win.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂不知在场上赛跑的都跑，但得奖赏的只有一人？你们也当这样跑，好叫你们得着奖赏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈不知在場上賽跑的都跑，但得獎賞的只有一人？你們也當這樣跑，好叫你們得着獎賞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡较力争胜的，诸事都有节制，他们不过是要得能坏的冠冕；我们却是要得不能坏的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡較力爭勝的，諸事都有節制，他們不過是要得能壞的冠冕；我們卻是要得不能壞的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I therefore run like that, not aimlessly. I fight like that, not beating the air,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我奔跑不像无定向的；我斗拳不像打空气的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我奔跑不像無定向的；我鬥拳不像打空氣的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是攻克己身，叫身服我，恐怕我传福音给别人，自己反被弃绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是攻克己身，叫身服我，恐怕我傳福音給別人，自己反被棄絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

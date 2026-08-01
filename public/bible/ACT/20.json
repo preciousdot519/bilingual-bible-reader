@@ -1,0 +1,753 @@
+{
+  "bookId": "ACT",
+  "chapter": 20,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into Macedonia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乱定之后，保罗请门徒来，劝勉他们，就辞别起行，往马其顿去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亂定之後，保羅請門徒來，勸勉他們，就辭別起行，往馬其頓去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When he had gone through those parts and had encouraged them with many words, he came into Greece.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "走遍了那一带地方，用许多话劝勉门徒，然后来到希腊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:2 或译：众人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "走遍了那一帶地方，用許多話勸勉門徒，然後來到希臘。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:2 或譯：眾人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When he had spent three months there, and a plot was made against him by Jews as he was about to set sail for Syria, he determined to return through Macedonia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里住了三个月，将要坐船往叙利亚去，犹太人设计要害他，他就定意从马其顿回去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏住了三個月，將要坐船往敘利亞去，猶太人設計要害他，他就定意從馬其頓回去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "These accompanied him as far as Asia: Sopater of Beroea, Aristarchus and Secundus of the Thessalonians, Gaius of Derbe, Timothy, and Tychicus and Trophimus of Asia.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同他到亚细亚去的，有庇哩亚人毕罗斯的儿子所巴特，帖撒罗尼迦人亚里达古和西公都，还有特庇人该犹，并提摩太，又有亚细亚人推基古和特罗非摩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同他到亞細亞去的，有庇哩亞人畢羅斯的兒子所巴特，帖撒羅尼迦人亞里達古和西公都，還有特庇人該猶，並提摩太，又有亞細亞人推基古和特羅非摩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But these had gone ahead, and were waiting for us at Troas.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人先走，在特罗亚等候我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人先走，在特羅亞等候我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We sailed away from Philippi after the days of Unleavened Bread, and came to them at Troas in five days, where we stayed seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了除酵的日子，我们从腓立比开船，五天到了特罗亚，和他们相会，在那里住了七天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了除酵的日子，我們從腓立比開船，五天到了特羅亞，和他們相會，在那裏住了七天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "On the first day of the week, when the disciples were gathered together to break bread, Paul talked with them, intending to depart on the next day; and continued his speech until midnight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七日的第一日，我们聚会擘饼的时候，保罗因为要次日起行，就与他们讲论，直讲到半夜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七日的第一日，我們聚會擘餅的時候，保羅因為要次日起行，就與他們講論，直講到半夜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "There were many lights in the upper room where we were gathered together.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:8 TR reads “they” instead of “we”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们聚会的那座楼上，有好些灯烛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們聚會的那座樓上，有好些燈燭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "A certain young man named Eutychus sat in the window, weighed down with deep sleep. As Paul spoke still longer, being weighed down by his sleep, he fell down from the third floor and was taken up dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个少年人，名叫犹推古，坐在窗台上，困倦沉睡。保罗讲了多时，少年人睡熟了，就从三层楼上掉下去；扶起他来，已经死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個少年人，名叫猶推古，坐在窗臺上，困倦沉睡。保羅講了多時，少年人睡熟了，就從三層樓上掉下去；扶起他來，已經死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Paul went down and fell upon him, and embracing him said, “Don’t be troubled, for his life is in him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗下去，伏在他身上，抱着他，说：「你们不要发慌，他的灵魂还在身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅下去，伏在他身上，抱着他，說：「你們不要發慌，他的靈魂還在身上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When he had gone up, had broken bread and eaten, and had talked with them a long while, even until break of day, he departed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗又上去，擘饼，吃了，谈论许久，直到天亮，这才走了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅又上去，擘餅，吃了，談論許久，直到天亮，這才走了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They brought the boy in alive, and were greatly comforted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人把那童子活活地领来，得的安慰不小。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人把那童子活活地領來，得的安慰不小。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But we, going ahead to the ship, set sail for Assos, intending to take Paul aboard there; for he had so arranged, intending himself to go by land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们先上船，开往亚朔去，意思要在那里接保罗；因为他是这样安排的，他自己打算要步行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們先上船，開往亞朔去，意思要在那裏接保羅；因為他是這樣安排的，他自己打算要步行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When he met us at Assos, we took him aboard and came to Mitylene.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他既在亚朔与我们相会，我们就接他上船，来到米推利尼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他既在亞朔與我們相會，我們就接他上船，來到米推利尼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Sailing from there, we came the following day opposite Chios. The next day we touched at Samos and stayed at Trogyllium, and the day after we came to Miletus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里开船，次日到了基阿的对面；又次日，在撒摩靠岸；又次日，来到米利都。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏開船，次日到了基阿的對面；又次日，在撒摩靠岸；又次日，來到米利都。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For Paul had determined to sail past Ephesus, that he might not have to spend time in Asia; for he was hastening, if it were possible for him, to be in Jerusalem on the day of Pentecost.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乃因保罗早已定意越过以弗所，免得在亚细亚耽延，他急忙前走，巴不得赶五旬节能到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "乃因保羅早已定意越過以弗所，免得在亞細亞耽延，他急忙前走，巴不得趕五旬節能到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "From Miletus he sent to Ephesus and called to himself the elders of the assembly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗从米利都打发人往以弗所去，请教会的长老来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅從米利都打發人往以弗所去，請教會的長老來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来了，保罗就说：「你们知道，自从我到亚细亚的日子以来，在你们中间始终为人如何，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來了，保羅就說：「你們知道，自從我到亞細亞的日子以來，在你們中間始終為人如何，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "服事主，凡事谦卑，眼中流泪，又因犹太人的谋害，经历试炼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "服事主，凡事謙卑，眼中流淚，又因猶太人的謀害，經歷試煉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "how I didn’t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也知道，凡与你们有益的，我没有一样避讳不说的，或在众人面前，或在各人家里，我都教导你们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也知道，凡與你們有益的，我沒有一樣避諱不說的，或在眾人面前，或在各人家裏，我都教導你們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "testifying both to Jews and to Greeks repentance toward God and faith toward our Lord Jesus.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:21 TR adds “Christ”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对犹太人和希腊人证明当向 神悔改，信靠我主耶稣基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對猶太人和希臘人證明當向上帝悔改，信靠我主耶穌基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Now, behold, I go bound by the Spirit to Jerusalem, not knowing what will happen to me there;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我往耶路撒冷去，心甚迫切，不知道在那里要遇见什么事；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:22 原文是心被捆绑"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我往耶路撒冷去，心甚迫切，不知道在那裏要遇見甚麼事；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:22 原文是心被捆綁"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "except that the Holy Spirit testifies in every city, saying that bonds and afflictions wait for me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但知道圣灵在各城里向我指证，说有捆锁与患难等待我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但知道聖靈在各城裏向我指證，說有捆鎖與患難等待我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But these things don’t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却不以性命为念，也不看为宝贵，只要行完我的路程，成就我从主耶稣所领受的职事，证明 神恩惠的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻不以性命為念，也不看為寶貴，只要行完我的路程，成就我從主耶穌所領受的職事，證明上帝恩惠的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“Now, behold, I know that you all, among whom I went about preaching God’s Kingdom, will see my face no more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我素常在你们中间来往，传讲 神国的道；如今我晓得，你们以后都不得再见我的面了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我素常在你們中間來往，傳講上帝國的道；如今我曉得，你們以後都不得再見我的面了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Therefore I testify to you today that I am clean from the blood of all men,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我今日向你们证明，你们中间无论何人死亡，罪不在我身上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:26 原文是我于众人的血是洁净的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我今日向你們證明，你們中間無論何人死亡，罪不在我身上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:26 原文是我於眾人的血是潔淨的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "for I didn’t shrink from declaring to you the whole counsel of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神的旨意，我并没有一样避讳不传给你们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝的旨意，我並沒有一樣避諱不傳給你們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Take heed, therefore, to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:28 TR, NU omit “the Lord and”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵立你们作全群的监督，你们就当为自己谨慎，也为全群谨慎，牧养 神的教会，就是他用自己血所买来的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:28 或译：救赎的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈立你們作全群的監督，你們就當為自己謹慎，也為全群謹慎，牧養上帝的教會，就是他用自己血所買來的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:28 或譯：救贖的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "For I know that after my departure, vicious wolves will enter in among you, not sparing the flock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道，我去之后必有凶暴的豺狼进入你们中间，不爱惜羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道，我去之後必有兇暴的豺狼進入你們中間，不愛惜羊群。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Men will arise from among your own selves, speaking perverse things, to draw away the disciples after them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是你们中间，也必有人起来说悖谬的话，要引诱门徒跟从他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是你們中間，也必有人起來說悖謬的話，要引誘門徒跟從他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Therefore watch, remembering that for a period of three years I didn’t cease to admonish everyone night and day with tears.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你们应当警醒，记念我三年之久昼夜不住地流泪、劝戒你们各人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你們應當警醒，記念我三年之久晝夜不住地流淚、勸戒你們各人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Now, brothers, I entrust you to God and to the word of his grace, which is able to build up and to give you the inheritance among all those who are sanctified.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:32 The word for “brothers” here and where the context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今我把你们交托 神和他恩惠的道；这道能建立你们，叫你们和一切成圣的人同得基业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今我把你們交託上帝和他恩惠的道；這道能建立你們，叫你們和一切成聖的人同得基業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "I coveted no one’s silver, gold, or clothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我未曾贪图一个人的金、银、衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我未曾貪圖一個人的金、銀、衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "You yourselves know that these hands served my necessities, and those who were with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我这两只手常供给我和同人的需用，这是你们自己知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我這兩隻手常供給我和同人的需用，這是你們自己知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘Itis more blessed to give than to receive.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我凡事给你们作榜样，叫你们知道应当这样劳苦，扶助软弱的人，又当记念主耶稣的话，说：『施比受更为有福。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我凡事給你們作榜樣，叫你們知道應當這樣勞苦，扶助軟弱的人，又當記念主耶穌的話，說：『施比受更為有福。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "When he had spoken these things, he knelt down and prayed with them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "保罗说完了这话，就跪下同众人祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "保羅說完了這話，就跪下同眾人禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "They all wept freely, and fell on Paul’s neck and kissed him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人痛哭，抱着保罗的颈项，和他亲嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人痛哭，抱着保羅的頸項，和他親嘴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫他们最伤心的，就是他说「以后不能再见我的面」那句话，于是送他上船去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫他們最傷心的，就是他說「以後不能再見我的面」那句話，於是送他上船去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

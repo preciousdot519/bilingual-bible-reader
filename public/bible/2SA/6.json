@@ -1,0 +1,448 @@
+{
+  "bookId": "2SA",
+  "chapter": 6,
+  "bookEnglish": "2 Samuel",
+  "bookChineseSimplified": "撒母耳记下",
+  "bookChineseTraditional": "撒母耳記下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "David again gathered together all the chosen men of Israel, thirty thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫又聚集以色列中所有挑选的人三万。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛又聚集以色列中所有挑選的人三萬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "David arose and went with all the people who were with him from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of the LORD of Armies who sits above the cherubim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫起身，率领跟随他的众人前往，要从巴拉·犹大将 神的约柜运来；这约柜就是坐在二基路伯上万军之耶和华留名的约柜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛起身，率領跟隨他的眾人前往，要從巴拉‧猶大將上帝的約櫃運來；這約櫃就是坐在二基路伯上萬軍之耶和華留名的約櫃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They set God’s ark on a new cart, and brought it out of Abinadab’s house that was on the hill; and Uzzah and Ahio, the sons of Abinadab, drove the new cart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将 神的约柜从冈上亚比拿达的家里抬出来，放在新车上；亚比拿达的两个儿子乌撒和亚希约赶这新车。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將上帝的約櫃從岡上亞比拿達的家裏抬出來，放在新車上；亞比拿達的兩個兒子烏撒和亞希約趕這新車。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They brought it out of Abinadab’s house which was in the hill, with God’s ark; and Ahio went before the ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将 神的约柜从冈上亚比拿达家里抬出来的时候，亚希约在柜前行走。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將上帝的約櫃從岡上亞比拿達家裏抬出來的時候，亞希約在櫃前行走。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "David and all the house of Israel played before the LORD with all kinds of instruments made of cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫和以色列的全家在耶和华面前，用松木制造的各样乐器和琴、瑟、鼓、钹、锣，作乐跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛和以色列的全家在耶和華面前，用松木製造的各樣樂器和琴、瑟、鼓、鈸、鑼，作樂跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When they came to the threshing floor of Nacon, Uzzah reached for God’s ark and took hold of it, for the cattle stumbled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了拿艮的禾场，因为牛失前蹄，乌撒就伸手扶住 神的约柜。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:6 或译：惊跳"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了拿艮的禾場，因為牛失前蹄，烏撒就伸手扶住上帝的約櫃。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:6 或譯：驚跳"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD’s anger burned against Uzzah, and God struck him there for his error; and he died there by God’s ark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神耶和华向乌撒发怒，因这错误击杀他，他就死在 神的约柜旁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝耶和華向烏撒發怒，因這錯誤擊殺他，他就死在上帝的約櫃旁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "David was displeased because the LORD had broken out against Uzzah; and he called that place Perez Uzzah to this day.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:8 “Perez Uzzah” means “outbreak against Uzzah”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫因耶和华击杀乌撒，心里愁烦，就称那地方为毗列斯·乌撒，直到今日。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:8 原文是闯杀"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛因耶和華擊殺 烏撒，心裏愁煩，就稱那地方為毗列斯‧烏撒，直到今日。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:8 原文是闖殺"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "David was afraid of the LORD that day; and he said, “How could the LORD’s ark come to me?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日，大卫惧怕耶和华，说：「耶和华的约柜怎可运到我这里来？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日，大衛懼怕耶和華，說：「耶和華的約櫃怎可運到我這裏來？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "So David would not move the LORD’s ark to be with him in David’s city; but David carried it aside into Obed-Edom the Gittite’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是大卫不肯将耶和华的约柜运进大卫的城，却运到迦特人俄别·以东的家中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是大衛不肯將耶和華的約櫃運進大衛的城，卻運到迦特人俄別‧以東的家中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD’s ark remained in Obed-Edom the Gittite’s house three months; and the LORD blessed Obed-Edom and all his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的约柜在迦特人俄别·以东家中三个月；耶和华赐福给俄别·以东和他的全家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的約櫃在迦特人俄別‧以東家中三個月；耶和華賜福給俄別‧以東和他的全家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "King David was told, “The LORD has blessed the house of Obed-Edom, and all that belongs to him, because of God’s ark.” So David went and brought up God’s ark from the house of Obed-Edom into David’s city with joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人告诉大卫王说：「耶和华因为约柜赐福给俄别·以东的家和一切属他的。」大卫就去，欢欢喜喜地将 神的约柜从俄别·以东家中抬到大卫的城里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人告訴大衛王說：「耶和華因為約櫃賜福給俄別‧以東的家和一切屬他的。」大衛就去，歡歡喜喜地將上帝的約櫃從俄別‧以東家中抬到大衛的城裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When those who bore the LORD’s ark had gone six paces, he sacrificed an ox and a fattened calf.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "抬耶和华约柜的人走了六步，大卫就献牛与肥羊为祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "抬耶和華約櫃的人走了六步，大衛就獻牛與肥羊為祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "David danced before the LORD with all his might; and David was clothed in a linen ephod.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫穿着细麻布的以弗得，在耶和华面前极力跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛穿着細麻布的以弗得，在耶和華面前極力跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "So David and all the house of Israel brought up the LORD’s ark with shouting and with the sound of the trumpet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，大卫和以色列的全家欢呼吹角，将耶和华的约柜抬上来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，大衛和以色列的全家歡呼吹角，將耶和華的約櫃抬上來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "As the LORD’s ark came into David’s city, Michal the daughter of Saul looked out through the window and saw King David leaping and dancing before the LORD; and she despised him in her heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的约柜进了大卫城的时候，扫罗的女儿米甲从窗户里观看，见大卫王在耶和华面前踊跃跳舞，心里就轻视他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的約櫃進了大衛城的時候，掃羅的女兒米甲從窗戶裏觀看，見大衛王在耶和華面前踴躍跳舞，心裏就輕視他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They brought in the LORD’s ark, and set it in its place in the middle of the tent that David had pitched for it; and David offered burnt offerings and peace offerings before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人将耶和华的约柜请进去，安放在所预备的地方，就是在大卫所搭的帐幕里。大卫在耶和华面前献燔祭和平安祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人將耶和華的約櫃請進去，安放在所預備的地方，就是在大衛所搭的帳幕裏。大衛在耶和華面前獻燔祭和平安祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When David had finished offering the burnt offering and the peace offerings, he blessed the people in the name of the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫献完了燔祭和平安祭，就奉万军之耶和华的名给民祝福，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛獻完了燔祭和平安祭，就奉萬軍之耶和華的名給民祝福，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He gave to all the people, even among the whole multitude of Israel, both to men and women, to everyone a portion of bread, dates, and raisins. So all the people departed, each to his own house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且分给以色列众人，无论男女，每人一个饼，一块肉，一个葡萄饼；众人就各回各家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且分給以色列眾人，無論男女，每人一個餅，一塊肉，一個葡萄餅；眾人就各回各家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then David returned to bless his household. Michal the daughter of Saul came out to meet David, and said, “How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants’ maids, as one of the vain fellows shamelessly uncovers himself!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫回家要给眷属祝福；扫罗的女儿米甲出来迎接他，说：「以色列王今日在臣仆的婢女眼前露体，如同一个轻贱人无耻露体一样，有好大的荣耀啊！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛回家要給眷屬祝福；掃羅的女兒米甲出來迎接他，說：「以色列王今日在臣僕的婢女眼前露體，如同一個輕賤人無恥露體一樣，有好大的榮耀啊！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "David said to Michal, “It was before the LORD, who chose me above your father, and above all his house, to appoint me prince over the people of the LORD, over Israel. Therefore I will celebrate before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫对米甲说：「这是在耶和华面前；耶和华已拣选我，废了你父和你父的全家，立我作耶和华民以色列的君，所以我必在耶和华面前跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛對米甲說：「這是在耶和華面前；耶和華已揀選我，廢了你父和你父的全家，立我作耶和華民以色列的君，所以我必在耶和華面前跳舞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "I will be yet more undignified than this, and will be worthless in my own sight. But the maids of whom you have spoken will honor me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也必更加卑微，自己看为轻贱。你所说的那些婢女，她们倒要尊敬我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也必更加卑微，自己看為輕賤。你所說的那些婢女，她們倒要尊敬我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Michal the daughter of Saul had no child to the day of her death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗的女儿米甲，直到死日，没有生养儿女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅的女兒米甲，直到死日，沒有生養兒女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

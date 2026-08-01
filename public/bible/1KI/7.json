@@ -1,0 +1,947 @@
+{
+  "bookId": "1KI",
+  "chapter": 7,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Solomon was building his own house thirteen years, and he finished all his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门为自己建造宫室，十三年方才造成；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門為自己建造宮室，十三年方才造成；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For he built the House of the Forest of Lebanon. Its length was one hundred cubits, its width fifty cubits, and its height thirty cubits, on four rows of cedar pillars, with cedar beams on the pillars.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:2 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又建造黎巴嫩林宫，长一百肘，宽五十肘，高三十肘，有香柏木柱三行，柱上有香柏木柁梁。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:2 原文是四"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又建造黎巴嫩林宮，長一百肘，寬五十肘，高三十肘，有香柏木柱三行，柱上有香柏木柁樑。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:2 原文是四"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "It was covered with cedar above over the forty-five beams that were on the pillars, fifteen in a row.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其上以香柏木为盖，每行柱子十五根，共有四十五根。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其上以香柏木為蓋，每行柱子十五根，共有四十五根。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "There were beams in three rows, and window was facing window in three ranks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有窗户三层，窗与窗相对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有窗戶三層，窗與窗相對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "All the doors and posts were made square with beams; and window was facing window in three ranks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所有的门框都是厚木见方的，有窗户三层，窗与窗相对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有的門框都是厚木見方的，有窗戶三層，窗與窗相對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He made the hall of pillars. Its length was fifty cubits and its width thirty cubits, with a porch before them, and pillars and a threshold before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并建造有柱子的廊子，长五十肘，宽三十肘；在这廊前又有廊子，廊外有柱子和台阶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並建造有柱子的廊子，長五十肘，寬三十肘；在這廊前又有廊子，廊外有柱子和臺階。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He made the porch of the throne where he was to judge, even the porch of judgment; and it was covered with cedar from floor to floor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又建造一廊，其中设立审判的座位，这廊从地到顶都用香柏木遮蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又建造一廊，其中設立審判的座位，這廊從地到頂都用香柏木遮蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "His house where he was to dwell, the other court within the porch, was of the same construction. He made also a house for Pharaoh’s daughter (whom Solomon had taken as wife), like this porch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊后院内有所罗门住的宫室；工作与这工作相同。所罗门又为所娶法老的女儿建造一宫，做法与这廊子一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊後院內有所羅門住的宮室；工作與這工作相同。所羅門又為所娶法老的女兒建造一宮，做法與這廊子一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "All these were of costly stones, even of stone cut according to measure, sawed with saws, inside and outside, even from the foundation to the coping, and so on the outside to the great court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "建造这一切所用的石头都是宝贵的，是按着尺寸凿成的，是用锯里外锯齐的；从根基直到檐石，从外头直到大院，都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "建造這一切所用的石頭都是寶貴的，是按着尺寸鑿成的，是用鋸裏外鋸齊的；從根基直到檐石，從外頭直到大院，都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The foundation was of costly stones, even great stones, stones of ten cubits and stones of eight cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "根基是宝贵的大石头，有长十肘的，有长八肘的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "根基是寶貴的大石頭，有長十肘的，有長八肘的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Above were costly stones, even cut stone, according to measure, and cedar wood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "上面有香柏木和按着尺寸凿成宝贵的石头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上面有香柏木和按着尺寸鑿成寶貴的石頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The great court around had three courses of cut stone with a course of cedar beams, like the inner court of the LORD’s house and the porch of the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大院周围有凿成的石头三层、香柏木一层，都照耶和华殿的内院和殿廊的样式。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大院周圍有鑿成的石頭三層、香柏木一層，都照耶和華殿的內院和殿廊的樣式。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "King Solomon sent and brought Hiram out of Tyre.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王差遣人往泰尔去，将户兰召了来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王差遣人往泰爾去，將戶蘭召了來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He was the son of a widow of the tribe of Naphtali, and his father was a man of Tyre, a worker in bronze; and he was filled with wisdom and understanding and skill to work all works in bronze. He came to King Solomon and performed all his work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是拿弗他利支派中一个寡妇的儿子，他父亲是泰尔人，作铜匠的。户兰满有智慧、聪明、技能，善于各样铜作。他来到所罗门王那里，做王一切所要做的。 （代下3·15—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是拿弗他利支派中一個寡婦的兒子，他父親是泰爾人，作銅匠的。戶蘭滿有智慧、聰明、技能，善於各樣銅作。他來到所羅門王那裏，做王一切所要做的。 （代下3‧15－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For he fashioned the two pillars of bronze, eighteen cubits high apiece; and a line of twelve cubits encircled either of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他制造两根铜柱，每根高十八肘，围十二肘；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他製造兩根銅柱，每根高十八肘，圍十二肘；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He made two capitals of molten bronze to set on the tops of the pillars. The height of the one capital was five cubits, and the height of the other capital was five cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用铜铸了两个柱顶安在柱上，各高五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用銅鑄了兩個柱頂安在柱上，各高五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "There were nets of checker work and wreaths of chain work for the capitals which were on the top of the pillars: seven for the one capital, and seven for the other capital.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "柱顶上有装修的网子和拧成的链索，每顶七个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "柱頂上有裝修的網子和擰成的鍊索，每頂七個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "So he made the pillars; and there were two rows of pomegranates around the one network, to cover the capitals that were on the top of the pillars; and he did so for the other capital.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "网子周围有两行石榴遮盖柱顶，两个柱顶都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "網子周圍有兩行石榴遮蓋柱頂，兩個柱頂都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The capitals that were on the top of the pillars in the porch were of lily work, four cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊子的柱顶径四肘，刻着百合花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊子的柱頂徑四肘，刻着百合花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "There were capitals above also on the two pillars, close by the belly which was beside the network. There were two hundred pomegranates in rows around the other capital.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两柱顶的鼓肚上挨着网子，各有两行石榴环绕，两行共有二百。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩柱頂的鼓肚上挨着網子，各有兩行石榴環繞，兩行共有二百。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He set up the pillars at the porch of the temple. He set up the right pillar and called its name Jachin; and he set up the left pillar and called its name Boaz.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将两根柱子立在殿廊前头：右边立一根，起名叫雅斤；左边立一根，起名叫波阿斯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將兩根柱子立在殿廊前頭：右邊立一根，起名叫雅斤；左邊立一根，起名叫波阿斯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "On the tops of the pillars was lily work. So the work of the pillars was finished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在柱顶上刻着百合花。这样，造柱子的工就完毕了。 （代下4·2—5）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在柱頂上刻着百合花。這樣，造柱子的工就完畢了。 （代下4‧2－5）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He made the molten sea ten cubits from brim to brim, round in shape. Its height was five cubits; and a line of thirty cubits encircled it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又铸一个铜海，样式是圆的，高五肘，径十肘，围三十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又鑄一個銅海，樣式是圓的，高五肘，徑十肘，圍三十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Under its brim around there were buds which encircled it for ten cubits, encircling the sea. The buds were in two rows, cast when it was cast.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在海边之下，周围有野瓜的样式；每肘十瓜，共有两行，是铸海的时候铸上的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在海邊之下，周圍有野瓜的樣式；每肘十瓜，共有兩行，是鑄海的時候鑄上的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "It stood on twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east; and the sea was set on them above, and all their hindquarters were inward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有十二只铜牛驮海：三只向北，三只向西，三只向南，三只向东；海在牛上，牛尾都向内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有十二隻銅牛馱海：三隻向北，三隻向西，三隻向南，三隻向東；海在牛上，牛尾都向內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "It was a hand width thick. Its brim was worked like the brim of a cup, like the flower of a lily. It held two thousand baths.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "海厚一掌，边如杯边，又如百合花，可容二千罢特。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "海厚一掌，邊如杯邊，又如百合花，可容二千罷特。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He made the ten bases of bronze. The length of one base was four cubits, four cubits its width, and three cubits its height.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用铜制造十个盆座，每座长四肘，宽四肘，高三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用銅製造十個盆座，每座長四肘，寬四肘，高三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The work of the bases was like this: they had panels; and there were panels between the ledges;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "座的造法是这样：四面都有心子，心子在边子当中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "座的造法是這樣：四面都有心子，心子在邊子當中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "and on the panels that were between the ledges were lions, oxen, and cherubim; and on the ledges there was a pedestal above; and beneath the lions and oxen were wreaths of hanging work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心子上有狮子和牛，并基路伯；边上有小座，狮子和牛以下有垂下的璎珞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心子上有獅子和牛，並基路伯；邊上有小座，獅子和牛以下有垂下的瓔珞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Every base had four bronze wheels and axles of bronze; and its four feet had supports. The supports were cast beneath the basin, with wreaths at the side of each.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每盆座有四个铜轮和铜轴。小座的四角上在盆以下，有铸成的盆架，其旁都有璎珞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每盆座有四個銅輪和銅軸。小座的四角上在盆以下，有鑄成的盆架，其旁都有瓔珞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Its opening within the capital and above was a cubit. Its opening was round like the work of a pedestal, a cubit and a half; and also on its opening were engravings, and their panels were square, not round.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "小座高一肘，口是圆的，仿佛座的样式，径一肘半，在口上有雕工，心子是方的，不是圆的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "小座高一肘，口是圓的，彷彿座的樣式，徑一肘半，在口上有雕工，心子是方的，不是圓的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The four wheels were underneath the panels; and the axles of the wheels were in the base. The height of a wheel was a cubit and half a cubit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四个轮子在心子以下，轮轴与座相连，每轮高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四個輪子在心子以下，輪軸與座相連，每輪高一肘半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The work of the wheels was like the work of a chariot wheel. Their axles, their rims, their spokes, and their hubs were all of cast metal.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "轮的样式如同车轮；轴、辋、辐、毂都是铸的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "輪的樣式如同車輪；軸、輞、輻、轂都是鑄的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "There were four supports at the four corners of each base. Its supports were of the base itself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每座四角上都有盆架，是与座一同铸成的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每座四角上都有盆架，是與座一同鑄成的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "In the top of the base there was a round band half a cubit high; and on the top of the base its supports and its panels were the same.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "座上有圆架，高半肘；座上有撑子和心子，是与座一同铸的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "座上有圓架，高半肘；座上有撐子和心子，是與座一同鑄的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "On the plates of its supports and on its panels, he engraved cherubim, lions, and palm trees, each in its space, with wreaths all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在撑子和心子上刻着基路伯、狮子，和棕树，周围有璎珞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在撐子和心子上刻着基路伯、獅子，和棕樹，周圍有瓔珞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He made the ten bases in this way: all of them had one casting, one measure, and one form.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "十个盆座都是这样，铸法、尺寸、样式相同。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "十個盆座都是這樣，鑄法、尺寸、樣式相同。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He made ten basins of bronze. One basin contained forty baths. Every basin measured four cubits. One basin was on every one of the ten bases.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:38 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters, so 40 baths was about 224 gallons or 840 liters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用铜制造十个盆，每盆可容四十罢特。盆径四肘，在那十座上，每座安设一盆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用銅製造十個盆，每盆可容四十罷特。盆徑四肘，在那十座上，每座安設一盆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "He set the bases, five on the right side of the house and five on the left side of the house. He set the sea on the right side of the house eastward and toward the south.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "五个安在殿门的右边，五个放在殿门的左边；又将海放在殿门的右旁，就是南边。 （代下4·11—5·1）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "五個安在殿門的右邊，五個放在殿門的左邊；又將海放在殿門的右旁，就是南邊。 （代下4‧11－5‧1）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Hiram made the pots, the shovels, and the basins. So Hiram finished doing all the work that he worked for King Solomon in the LORD’s house:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户兰又造了盆、铲子，和盘子。这样，他为所罗门王做完了耶和华殿的一切工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶蘭又造了盆、鏟子，和盤子。這樣，他為所羅門王做完了耶和華殿的一切工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "the two pillars; the two bowls of the capitals that were on the top of the pillars; the two networks to cover the two bowls of the capitals that were on the top of the pillars;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所造的就是：两根柱子和柱上两个如球的顶；并两个盖柱顶的网子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所造的就是：兩根柱子和柱上兩個如球的頂；並兩個蓋柱頂的網子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和四百石榴，安在两个网子上，每网两行，盖着两个柱上如球的顶；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和四百石榴，安在兩個網子上，每網兩行，蓋着兩個柱上如球的頂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "the ten bases; the ten basins on the bases;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "十个座和其上的十个盆；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "十個座和其上的十個盆；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "the one sea; the twelve oxen under the sea;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "海和海下的十二只牛；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "海和海下的十二隻牛；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "the pots; the shovels; and the basins. All of these vessels, which Hiram made for King Solomon for the LORD’s house, were of burnished bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "盆、铲子、盘子。这一切都是户兰给所罗门王用光亮的铜为耶和华的殿造成的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "盆、鏟子、盤子。這一切都是戶蘭給所羅門王用光亮的銅為耶和華的殿造成的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zarethan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是遵王命在约旦平原、疏割和撒拉但中间借胶泥铸成的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是遵王命在約旦平原、疏割和撒拉但中間藉膠泥鑄成的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Solomon left all the vessels unweighed, because there were so many of them. The weight of the bronze could not be determined.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一切所罗门都没有过秤；因为甚多，铜的轻重也无法可查。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一切所羅門都沒有過秤；因為甚多，銅的輕重也無法可查。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Solomon made all the vessels that were in the LORD’s house: the golden altar and the table that the show bread was on, of gold;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门又造耶和华殿里的金坛和陈设饼的金桌子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門又造耶和華殿裏的金壇和陳設餅的金桌子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "and the lamp stands, five on the right side and five on the left, in front of the inner sanctuary, of pure gold; and the flowers, the lamps, and the tongs, of gold;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿前的精金灯台：右边五个，左边五个，并其上的金花、灯盏、蜡剪，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿前的精金燈臺：右邊五個，左邊五個，並其上的金花、燈盞、蠟剪，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "the cups, the snuffers, the basins, the spoons, and the fire pans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, of the temple, of gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与精金的杯、盘、镊子、调羹、火鼎，以及至圣所、内殿的门枢，和外殿的门枢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與精金的杯、盤、鑷子、調羹、火鼎，以及至聖所、內殿的門樞，和外殿的門樞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Thus all the work that King Solomon did in the LORD’s house was finished. Solomon brought in the things which David his father had dedicated—the silver, the gold, and the vessels—and put them in the treasuries of the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王做完了耶和华殿的一切工，就把他父大卫分别为圣的金银和器皿都带来放在耶和华殿的府库里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王做完了耶和華殿的一切工，就把他父大衛分別為聖的金銀和器皿都帶來放在耶和華殿的府庫裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

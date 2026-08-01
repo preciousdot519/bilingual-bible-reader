@@ -1,0 +1,423 @@
+{
+  "bookId": "EXO",
+  "chapter": 33,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华吩咐摩西说：「我曾起誓应许亚伯拉罕、以撒、雅各说：『要将迦南地赐给你的后裔。』现在你和你从埃及地所领出来的百姓，要从这里往那地去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華吩咐摩西說：「我曾起誓應許亞伯拉罕、以撒、雅各說：『要將迦南地賜給你的後裔。』現在你和你從埃及地所領出來的百姓，要從這裏往那地去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要差遣使者在你前面，撵出迦南人、亚摩利人、赫人、比利洗人、希未人、耶布斯人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要差遣使者在你前面，攆出迦南人、亞摩利人、赫人、比利洗人、希未人、耶布斯人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "领你到那流奶与蜜之地。我自己不同你们上去；因为你们是硬着颈项的百姓，恐怕我在路上把你们灭绝。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "領你到那流奶與蜜之地。我自己不同你們上去；因為你們是硬着頸項的百姓，恐怕我在路上把你們滅絕。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When the people heard this evil news, they mourned; and no one put on his jewelry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓听见这凶信就悲哀，也没有人佩戴妆饰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓聽見這凶信就悲哀，也沒有人佩戴妝飾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD had said to Moses, “Tell the children of Israel, ‘You are a stiff-necked people. If I were to go up among you for one moment, I would consume you. Therefore now take off your jewelry from you, that I may know what to do to you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「你告诉以色列人说：『耶和华说：你们是硬着颈项的百姓，我若一霎时临到你们中间，必灭绝你们。现在你们要把身上的妆饰摘下来，使我可以知道怎样待你们。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「你告訴以色列人說：『耶和華說：你們是硬着頸項的百姓，我若一霎時臨到你們中間，必滅絕你們。現在你們要把身上的妝飾摘下來，使我可以知道怎樣待你們。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The children of Israel stripped themselves of their jewelry from Mount Horeb onward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人从住何烈山以后，就把身上的妆饰摘得干净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人從住何烈山以後，就把身上的妝飾摘得乾淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Now Moses used to take the tent and pitch it outside the camp, far away from the camp, and he called it “The Tent of Meeting.” Everyone who sought the LORD went out to the Tent of Meeting, which was outside the camp.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西素常将帐棚支搭在营外，离营却远，他称这帐棚为会幕。凡求问耶和华的，就到营外的会幕那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西素常將帳棚支搭在營外，離營卻遠，他稱這帳棚為會幕。凡求問耶和華的，就到營外的會幕那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "When Moses went out to the Tent, all the people rose up, and stood, everyone at their tent door, and watched Moses, until he had gone into the Tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当摩西出营到会幕去的时候，百姓就都起来，各人站在自己帐棚的门口，望着摩西，直等到他进了会幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當摩西出營到會幕去的時候，百姓就都起來，各人站在自己帳棚的門口，望着摩西，直等到他進了會幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When Moses entered into the Tent, the pillar of cloud descended, stood at the door of the Tent, and the LORD spoke with Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西进会幕的时候，云柱降下来，立在会幕的门前，耶和华便与摩西说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西進會幕的時候，雲柱降下來，立在會幕的門前，耶和華便與摩西說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "All the people saw the pillar of cloud stand at the door of the Tent, and all the people rose up and worshiped, everyone at their tent door.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众百姓看见云柱立在会幕门前，就都起来，各人在自己帐棚的门口下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾百姓看見雲柱立在會幕門前，就都起來，各人在自己帳棚的門口下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD spoke to Moses face to face, as a man speaks to his friend. He turned again into the camp, but his servant Joshua, the son of Nun, a young man, didn’t depart from the Tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华与摩西面对面说话，好像人与朋友说话一般。摩西转到营里去，惟有他的帮手—一个少年人嫩的儿子约书亚不离开会幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華與摩西面對面說話，好像人與朋友說話一般。摩西轉到營裏去，惟有他的幫手－一個少年人嫩的兒子約書亞不離開會幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Moses said to the LORD, “Behold, you tell me, ‘Bring up this people;’ and you haven’t let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对耶和华说：「你吩咐我说：『将这百姓领上去』，却没有叫我知道你要打发谁与我同去，只说：『我按你的名认识你，你在我眼前也蒙了恩。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對耶和華說：「你吩咐我說：『將這百姓領上去』，卻沒有叫我知道你要打發誰與我同去，只說：『我按你的名認識你，你在我眼前也蒙了恩。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now therefore, if I have found favor in your sight, please show me your way, now, that I may know you, so that I may find favor in your sight; and consider that this nation is your people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我如今若在你眼前蒙恩，求你将你的道指示我，使我可以认识你，好在你眼前蒙恩。求你想到这民是你的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我如今若在你眼前蒙恩，求你將你的道指示我，使我可以認識你，好在你眼前蒙恩。求你想到這民是你的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He said, “My presence will go with you, and I will give you rest.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我必亲自和你同去，使你得安息。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我必親自和你同去，使你得安息。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moses said to him, “If your presence doesn’t go with me, don’t carry us up from here.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西说：「你若不亲自和我同去，就不要把我们从这里领上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西說：「你若不親自和我同去，就不要把我們從這裏領上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For how would people know that I have found favor in your sight, I and your people? Isn’t it that you go with us, so that we are separated, I and your people, from all the people who are on the surface of the earth?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在何事上得以知道我和你的百姓在你眼前蒙恩呢？岂不是因你与我们同去、使我和你的百姓与地上的万民有分别吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在何事上得以知道我和你的百姓在你眼前蒙恩呢？豈不是因你與我們同去、使我和你的百姓與地上的萬民有分別嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The LORD said to Moses, “I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「你这所求的我也要行；因为你在我眼前蒙了恩，并且我按你的名认识你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「你這所求的我也要行；因為你在我眼前蒙了恩，並且我按你的名認識你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Moses said, “Please show me your glory.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西说：「求你显出你的荣耀给我看。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西說：「求你顯出你的榮耀給我看。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He said, “I will make all my goodness pass before you, and will proclaim the LORD’s name before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我要显我一切的恩慈，在你面前经过，宣告我的名。我要恩待谁就恩待谁；要怜悯谁就怜悯谁」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我要顯我一切的恩慈，在你面前經過，宣告我的名。我要恩待誰就恩待誰；要憐憫誰就憐憫誰」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said, “You cannot see my face, for man may not see me and live.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「你不能看见我的面，因为人见我的面不能存活。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「你不能看見我的面，因為人見我的面不能存活。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD also said, “Behold, there is a place by me, and you shall stand on the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「看哪，在我这里有地方，你要站在磐石上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「看哪，在我這裏有地方，你要站在磐石上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的荣耀经过的时候，我必将你放在磐石穴中，用我的手遮掩你，等我过去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的榮耀經過的時候，我必將你放在磐石穴中，用我的手遮掩你，等我過去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "then I will take away my hand, and you will see my back; but my face shall not be seen.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然后我要将我的手收回，你就得见我的背，却不得见我的面。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然後我要將我的手收回，你就得見我的背，卻不得見我的面。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

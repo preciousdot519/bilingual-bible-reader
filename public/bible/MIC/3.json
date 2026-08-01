@@ -1,0 +1,240 @@
+{
+  "bookId": "MIC",
+  "chapter": 3,
+  "bookEnglish": "Micah",
+  "bookChineseSimplified": "弥迦书",
+  "bookChineseTraditional": "彌迦書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I said, “Please listen, you heads of Jacob, and rulers of the house of Israel: Isn’t it for you to know justice?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：雅各的首领， 以色列家的官长啊，你们要听！ 你们不当知道公平吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：雅各的首領， 以色列家的官長啊，你們要聽！ 你們不當知道公平嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You who hate the good, and love the evil; who tear off their skin, and their flesh from off their bones;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们恶善好恶， 从人身上剥皮， 从人骨头上剔肉，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們惡善好惡， 從人身上剝皮， 從人骨頭上剔肉，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "who also eat the flesh of my people, and peel their skin from off them, and break their bones, and chop them in pieces, as for the pot, and as meat within the cauldron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃我民的肉， 剥他们的皮， 打折他们的骨头， 分成块子像要下锅， 又像釜中的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃我民的肉， 剝他們的皮， 打折他們的骨頭， 分成塊子像要下鍋， 又像釜中的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then they will cry to the LORD, but he will not answer them. Yes, he will hide his face from them at that time, because they made their deeds evil.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了遭灾的时候， 这些人必哀求耶和华， 他却不应允他们。 那时他必照他们所行的恶事向他们掩面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了遭災的時候， 這些人必哀求耶和華， 他卻不應允他們。 那時他必照他們所行的惡事向他們掩面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到使我民走差路的先知— 他们牙齿有所嚼的， 他们就呼喊说：平安了！ 凡不供给他们吃的， 他们就预备攻击他— 耶和华如此说：",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 预备攻击他：或译说必遭遇刀兵"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到使我民走差路的先知－ 他們牙齒有所嚼的， 他們就呼喊說：平安了！ 凡不供給他們吃的， 他們就預備攻擊他－ 耶和華如此說：",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 預備攻擊他：或譯說必遭遇刀兵"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“Therefore night is over you, with no vision, and it is dark to you, that you may not divine; and the sun will go down on the prophets, and the day will be black over them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们必遭遇黑夜，以致不见异象； 又必遭遇幽暗，以致不能占卜。 日头必向你们沉落， 白昼变为黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們必遭遇黑夜，以致不見異象； 又必遭遇幽暗，以致不能占卜。 日頭必向你們沉落， 白晝變為黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The seers shall be disappointed, and the diviners confounded. Yes, they shall all cover their lips, for there is no answer from God.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:7 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先见必抱愧， 占卜的必蒙羞， 都必捂着嘴唇， 因为 神不应允他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先見必抱愧， 占卜的必蒙羞， 都必摀着嘴唇， 因為上帝不應允他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But as for me, I am full of power by the LORD’s Spirit, and of judgment, and of might, to declare to Jacob his disobedience, and to Israel his sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于我，我借耶和华的灵， 满有力量、公平、才能， 可以向雅各说明他的过犯， 向以色列指出他的罪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於我，我藉耶和華的靈， 滿有力量、公平、才能， 可以向雅各說明他的過犯， 向以色列指出他的罪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Please listen to this, you heads of the house of Jacob, and rulers of the house of Israel, who abhor justice, and pervert all equity,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各家的首领、以色列家的官长啊， 当听我的话！ 你们厌恶公平， 在一切事上屈枉正直；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各家的首領、以色列家的官長啊， 當聽我的話！ 你們厭惡公平， 在一切事上屈枉正直；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "who build up Zion with blood, and Jerusalem with iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以人血建立锡安， 以罪孽建造耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以人血建立錫安， 以罪孽建造耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Her leaders judge for bribes, and her priests teach for a price, and her prophets of it tell fortunes for money; yet they lean on the LORD, and say, “Isn’t the LORD among us? No disaster will come on us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "首领为贿赂行审判； 祭司为雇价施训诲； 先知为银钱行占卜。 他们却倚赖耶和华，说： 耶和华不是在我们中间吗？ 灾祸必不临到我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "首領為賄賂行審判； 祭司為雇價施訓誨； 先知為銀錢行占卜。 他們卻倚賴耶和華，說： 耶和華不是在我們中間嗎？ 災禍必不臨到我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore Zion for your sake will be plowed like a field, and Jerusalem will become heaps of rubble, and the mountain of the temple like the high places of a forest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以因你们的缘故， 锡安必被耕种像一块田， 耶路撒冷必变为乱堆； 这殿的山必像丛林的高处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以因你們的緣故， 錫安必被耕種像一塊田， 耶路撒冷必變為亂堆； 這殿的山必像叢林的高處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

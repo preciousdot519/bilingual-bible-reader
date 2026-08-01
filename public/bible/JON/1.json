@@ -1,0 +1,334 @@
+{
+  "bookId": "JON",
+  "chapter": 1,
+  "bookEnglish": "Jonah",
+  "bookChineseSimplified": "约拿书",
+  "bookChineseTraditional": "約拿書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now the LORD’s word came to Jonah the son of Amittai, saying,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到亚米太的儿子约拿，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到亞米太的兒子約拿，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你起来往尼尼微大城去，向其中的居民呼喊，因为他们的恶达到我面前。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你起來往尼尼微大城去，向其中的居民呼喊，因為他們的惡達到我面前。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But Jonah rose up to flee to Tarshish from the presence of the LORD. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿却起来，逃往他施去躲避耶和华；下到约帕，遇见一只船，要往他施去。他就给了船价，上了船，要与船上的人同往他施去躲避耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿卻起來，逃往他施去躲避耶和華；下到約帕，遇見一隻船，要往他施去。他就給了船價，上了船，要與船上的人同往他施去躲避耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But the LORD sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而耶和华使海中起大风，海就狂风大作，甚至船几乎破坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而耶和華使海中起大風，海就狂風大作，甚至船幾乎破壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水手便惧怕，各人哀求自己的神。他们将船上的货物抛在海中，为要使船轻些。约拿已下到底舱，躺卧沉睡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水手便懼怕，各人哀求自己的神。他們將船上的貨物拋在海中，為要使船輕些。約拿已下到底艙，躺臥沉睡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "So the ship master came to him, and said to him, “What do you mean, sleeper? Arise, call on your God! Maybe your God will notice us, so that we won’t perish.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:6 or, gods"
+          },
+          {
+            "id": "f2",
+            "text": "1:6 or, gods"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "船主到他那里对他说：「你这沉睡的人哪，为何这样呢？起来，求告你的神，或者神顾念我们，使我们不致灭亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "船主到他那裏對他說：「你這沉睡的人哪，為何這樣呢？起來，求告你的神，或者神顧念我們，使我們不致滅亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They all said to each other, “Come! Let’s cast lots, that we may know who is responsible for this evil that is on us.” So they cast lots, and the lot fell on Jonah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "船上的人彼此说：「来吧，我们掣签，看看这灾临到我们是因谁的缘故。」于是他们掣签，掣出约拿来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "船上的人彼此說：「來吧，我們掣籤，看看這災臨到我們是因誰的緣故。」於是他們掣籤，掣出約拿來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Then they asked him, “Tell us, please, for whose cause this evil is on us. What is your occupation? Where do you come from? What is your country? Of what people are you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人对他说：「请你告诉我们，这灾临到我们是因谁的缘故？你以何事为业？你从哪里来？你是哪一国？属哪一族的人？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人對他說：「請你告訴我們，這災臨到我們是因誰的緣故？你以何事為業？你從哪裏來？你是哪一國？屬哪一族的人？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said to them, “I am a Hebrew, and I fear the LORD, the God of heaven, who has made the sea and the dry land.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:9 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「我是希伯来人。我敬畏耶和华—那创造沧海旱地之天上的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「我是希伯來人。我敬畏耶和華－那創造滄海旱地之天上的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of the LORD, because he had told them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就大大惧怕，对他说：「你做的是什么事呢？」他们已经知道他躲避耶和华，因为他告诉了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就大大懼怕，對他說：「你做的是甚麼事呢？」他們已經知道他躲避耶和華，因為他告訴了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then they said to him, “What shall we do to you, that the sea may be calm to us?” For the sea grew more and more stormy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们问他说：「我们当向你怎样行，使海浪平静呢？」这话是因海浪越发翻腾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們問他說：「我們當向你怎樣行，使海浪平靜呢？」這話是因海浪越發翻騰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He said to them, “Take me up, and throw me into the sea. Then the sea will be calm for you; for I know that because of me this great storm is on you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对他们说：「你们将我抬起来，抛在海中，海就平静了；我知道你们遭这大风是因我的缘故。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對他們說：「你們將我抬起來，拋在海中，海就平靜了；我知道你們遭這大風是因我的緣故。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Nevertheless the men rowed hard to get them back to the land; but they could not, for the sea grew more and more stormy against them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而那些人竭力荡桨，要把船拢岸，却是不能，因为海浪越发向他们翻腾。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而那些人竭力盪槳，要把船攏岸，卻是不能，因為海浪越發向他們翻騰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Therefore they cried to the LORD, and said, “We beg you, LORD, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, LORD, have done as it pleased you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们便求告耶和华说：「耶和华啊，我们恳求你，不要因这人的性命使我们死亡，不要使流无辜血的罪归与我们；因为你—耶和华是随自己的意旨行事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們便求告耶和華說：「耶和華啊，我們懇求你，不要因這人的性命使我們死亡，不要使流無辜血的罪歸與我們；因為你－耶和華是隨自己的意旨行事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "So they took up Jonah and threw him into the sea; and the sea ceased its raging.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们遂将约拿抬起，抛在海中，海的狂浪就平息了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們遂將約拿抬起，拋在海中，海的狂浪就平息了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Then the men feared the LORD exceedingly; and they offered a sacrifice to the LORD and made vows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些人便大大敬畏耶和华，向耶和华献祭，并且许愿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些人便大大敬畏耶和華，向耶和華獻祭，並且許願。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The LORD prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华安排一条大鱼吞了约拿，他在鱼腹中三日三夜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華安排一條大魚吞了約拿，他在魚腹中三日三夜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

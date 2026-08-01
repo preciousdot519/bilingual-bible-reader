@@ -1,0 +1,877 @@
+{
+  "bookId": "1KI",
+  "chapter": 2,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now the days of David came near that he should die; and he commanded Solomon his son, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫的死期临近了，就嘱咐他儿子所罗门说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛的死期臨近了，就囑咐他兒子所羅門說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“I am going the way of all the earth. You be strong therefore, and show yourself a man;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我现在要走世人必走的路。所以，你当刚强，作大丈夫，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我現在要走世人必走的路。所以，你當剛強，作大丈夫，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and keep the instruction of the LORD your God, to walk in his ways, to keep his statutes, his commandments, his ordinances, and his testimonies, according to that which is written in the law of Moses, that you may prosper in all that you do and wherever you turn yourself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遵守耶和华—你 神所吩咐的，照着摩西律法上所写的行主的道，谨守他的律例、诫命、典章、法度。这样，你无论做什么事，不拘往何处去，尽都亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遵守耶和華－你上帝所吩咐的，照着摩西律法上所寫的行主的道，謹守他的律例、誡命、典章、法度。這樣，你無論做甚麼事，不拘往何處去，盡都亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then the LORD may establish his word which he spoke concerning me, saying, ‘If your children are careful of their way, to walk before me in truth with all their heart and with all their soul, there shall not fail you,’ he said, ‘a man on the throne of Israel.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必成就向我所应许的话说：『你的子孙若谨慎自己的行为，尽心尽意诚诚实实地行在我面前，就不断人坐以色列的国位。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必成就向我所應許的話說：『你的子孫若謹慎自己的行為，盡心盡意誠誠實實地行在我面前，就不斷人坐以色列的國位。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Moreover you know also what Joab the son of Zeruiah did to me, even what he did to the two captains of the armies of Israel, to Abner the son of Ner and to Amasa the son of Jether, whom he killed, and shed the blood of war in peace, and put the blood of war on his sash that was around his waist and in his sandals that were on his feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你知道洗鲁雅的儿子约押向我所行的，就是杀了以色列的两个元帅：尼珥的儿子押尼珥和益帖的儿子亚玛撒。他在太平之时流这二人的血，如在争战之时一样，将这血染了腰间束的带和脚上穿的鞋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你知道洗魯雅的兒子約押向我所行的，就是殺了以色列的兩個元帥：尼珥的兒子押尼珥和益帖的兒子亞瑪撒。他在太平之時流這二人的血，如在爭戰之時一樣，將這血染了腰間束的帶和腳上穿的鞋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Do therefore according to your wisdom, and don’t let his gray head go down to Sheol in peace.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:6 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你要照你的智慧行，不容他白头安然下阴间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你要照你的智慧行，不容他白頭安然下陰間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But show kindness to the sons of Barzillai the Gileadite, and let them be among those who eat at your table; for so they came to me when I fled from Absalom your brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当恩待基列人巴西莱的众子，使他们常与你同席吃饭；因为我躲避你哥哥押沙龙的时候，他们拿食物来迎接我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當恩待基列人巴西萊的眾子，使他們常與你同席吃飯；因為我躲避你哥哥押沙龍的時候，他們拿食物來迎接我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Behold, there is with you Shimei the son of Gera, the Benjamite of Bahurim, who cursed me with a grievous curse in the day when I went to Mahanaim; but he came down to meet me at the Jordan, and I swore to him by the LORD, saying, ‘I will not put you to death with the sword.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你这里有巴户琳的便雅悯人，基拉的儿子示每；我往玛哈念去的那日，他用狠毒的言语咒骂我，后来却下约旦河迎接我，我就指着耶和华向他起誓说：『我必不用刀杀你。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你這裏有巴戶琳的便雅憫人，基拉的兒子示每；我往瑪哈念去的那日，他用狠毒的言語咒罵我，後來卻下約旦河迎接我，我就指着耶和華向他起誓說：『我必不用刀殺你。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now therefore don’t hold him guiltless, for you are a wise man; and you will know what you ought to do to him, and you shall bring his gray head down to Sheol with blood.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:9 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你不要以他为无罪。你是聪明人，必知道怎样待他，使他白头见杀，流血下到阴间。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你不要以他為無罪。你是聰明人，必知道怎樣待他，使他白頭見殺，流血下到陰間。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "David slept with his fathers, and was buried in David’s city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫与他列祖同睡，葬在大卫城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛與他列祖同睡，葬在大衛城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The days that David reigned over Israel were forty years; he reigned seven years in Hebron, and he reigned thirty-three years in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫作以色列王四十年：在希伯 作王七年，在耶路撒冷作王三十三年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛作以色列王四十年：在希伯崙作王七年，在耶路撒冷作王三十三年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Solomon sat on David his father’s throne; and his kingdom was firmly established.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门坐他父亲大卫的位，他的国甚是坚固。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門坐他父親大衛的位，他的國甚是堅固。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then Adonijah the son of Haggith came to Bathsheba the mother of Solomon. She said, “Do you come peaceably?” He said, “Peaceably.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈及的儿子亚多尼雅去见所罗门的母亲拔示巴，拔示巴问他说：「你来是为平安吗？」回答说：「是为平安」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈及的兒子亞多尼雅去見所羅門的母親拔示巴，拔示巴問他說：「你來是為平安嗎？」回答說：「是為平安」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He said moreover, I have something to tell you.” said, “Say on.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我有话对你说。」拔示巴说：「你说吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我有話對你說。」拔示巴說：「你說吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He said, “You know that the kingdom was mine, and that all Israel set their faces on me, that I should reign. However, the kingdom is turned around, and has become my brother’s; for it was his from the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅说：「你知道国原是归我的，以色列众人也都仰望我作王，不料，国反归了我兄弟，因他得国是出乎耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅說：「你知道國原是歸我的，以色列眾人也都仰望我作王，不料，國反歸了我兄弟，因他得國是出乎耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now I ask one petition of you. Don’t deny me.” She said to him, “Say on.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我有一件事求你，望你不要推辞。」拔示巴说：「你说吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我有一件事求你，望你不要推辭。」拔示巴說：「你說吧。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He said, “Please speak to Solomon the king (for he will not tell you ‘no’), that he give me Abishag the Shunammite as wife.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「求你请所罗门王将书念的女子亚比煞赐我为妻，因他必不推辞你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「求你請所羅門王將書念的女子亞比煞賜我為妻，因他必不推辭你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Bathsheba said, “All right. I will speak for you to the king.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴说：「好，我必为你对王提说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴說：「好，我必為你對王提說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Bathsheba therefore went to King Solomon, to speak to him for Adonijah. The king rose up to meet her and bowed himself to her, and sat down on his throne and caused a throne to be set for the king’s mother; and she sat on his right hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，拔示巴去见所罗门王，要为亚多尼雅提说；王起来迎接，向她下拜，就坐在位上，吩咐人为王母设一座位，她便坐在王的右边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，拔示巴去見所羅門王，要為亞多尼雅提說；王起來迎接，向她下拜，就坐在位上，吩咐人為王母設一座位，她便坐在王的右邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then she said, “I ask one small petition of you; don’t deny me.” The king said to her, “Ask on, my mother, for I will not deny you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴说：「我有一件小事求你，望你不要推辞。」王说：「请母亲说，我必不推辞。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴說：「我有一件小事求你，望你不要推辭。」王說：「請母親說，我必不推辭。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "She said, “Let Abishag the Shunammite be given to Adonijah your brother as wife.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴说：「求你将书念的女子亚比煞赐给你哥哥亚多尼雅为妻。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴說：「求你將書念的女子亞比煞賜給你哥哥亞多尼雅為妻。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "King Solomon answered his mother, “Why do you ask Abishag the Shunammite for Adonijah? Ask for him the kingdom also, for he is my elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王对他母亲说：「为何单替他求书念的女子亚比煞呢？也可以为他求国吧！他是我的哥哥，他有祭司亚比亚他和洗鲁雅的儿子约押为辅佐。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王對他母親說：「為何單替他求書念的女子亞比煞呢？也可以為他求國吧！他是我的哥哥，他有祭司亞比亞他和洗魯雅的兒子約押為輔佐。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then King Solomon swore by the LORD, saying, “God do so to me, and more also, if Adonijah has not spoken this word against his own life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王就指着耶和华起誓说：「亚多尼雅这话是自己送命，不然，愿 神重重地降罚与我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王就指着耶和華起誓說：「亞多尼雅這話是自己送命，不然，願上帝重重地降罰與我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Now therefore as the LORD lives, who has established me and set me on my father David’s throne, and who has made me a house as he promised, surely Adonijah shall be put to death today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华坚立我，使我坐在父亲大卫的位上，照着所应许的话为我建立家室；现在我指着永生的耶和华起誓，亚多尼雅今日必被治死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華堅立我，使我坐在父親大衛的位上，照着所應許的話為我建立家室；現在我指着永生的耶和華起誓，亞多尼雅今日必被治死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "King Solomon sent Benaiah the son of Jehoiada; and he fell on him, so that he died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是所罗门王差遣耶何耶大的儿子比拿雅，将亚多尼雅杀死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是所羅門王差遣耶何耶大的兒子比拿雅，將亞多尼雅殺死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "To Abiathar the priest the king said, “Go to Anathoth, to your own fields, for you are worthy of death. But I will not at this time put you to death, because you bore the Lord GOD’s ark before David my father, and because you were afflicted in all in which my father was afflicted.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:26 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王对祭司亚比亚他说：「你回亚拿突归自己的田地去吧！你本是该死的，但因你在我父亲大卫面前抬过主耶和华的约柜，又与我父亲同受一切苦难，所以我今日不将你杀死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王對祭司亞比亞他說：「你回亞拿突歸自己的田地去吧！你本是該死的，但因你在我父親大衛面前抬過主耶和華的約櫃，又與我父親同受一切苦難，所以我今日不將你殺死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "So Solomon thrust Abiathar out from being priest to the LORD, that he might fulfill the LORD’s word which he spoke concerning the house of Eli in Shiloh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门就革除亚比亚他，不许他作耶和华的祭司。这样，便应验耶和华在示罗论以利家所说的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門就革除亞比亞他，不許他作耶和華的祭司。這樣，便應驗耶和華在示羅論以利家所說的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "This news came to Joab; for Joab had followed Adonijah, although he didn’t follow Absalom. Joab fled to the LORD’s Tent, and held onto the horns of the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押虽然没有归从押沙龙，却归从了亚多尼雅。他听见这风声，就逃到耶和华的帐幕，抓住祭坛的角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押雖然沒有歸從押沙龍，卻歸從了亞多尼雅。他聽見這風聲，就逃到耶和華的帳幕，抓住祭壇的角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "King Solomon was told, “Joab has fled to the LORD’s Tent; and behold, he is by the altar.” Then Solomon sent Benaiah the son of Jehoiada, saying, “Go, fall on him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人告诉所罗门王说：「约押逃到耶和华的帐幕，现今在祭坛的旁边。」所罗门就差遣耶何耶大的儿子比拿雅，说：「你去将他杀死。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人告訴所羅門王說：「約押逃到耶和華的帳幕，現今在祭壇的旁邊。」所羅門就差遣耶何耶大的兒子比拿雅，說：「你去將他殺死。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Benaiah came to the LORD’s Tent, and said to him, “The king says, ‘Come out!’” He said, “No; but I will die here.” Benaiah brought the king word again, saying, “This is what Joab said, and this is how he answered me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比拿雅来到耶和华的帐幕，对约押说：「王吩咐说，你出来吧！」他说：「我不出去，我要死在这里。」比拿雅就去回复王，说约押如此如此回答我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比拿雅來到耶和華的帳幕，對約押說：「王吩咐說，你出來吧！」他說：「我不出去，我要死在這裏。」比拿雅就去回覆王，說約押如此如此回答我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The king said to him, “Do as he has said, and fall on him, and bury him, that you may take away the blood, which Joab shed without cause, from me and from my father’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王说：「你可以照着他的话行，杀死他，将他葬埋，好叫约押流无辜人血的罪不归我和我的父家了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王說：「你可以照着他的話行，殺死他，將他葬埋，好叫約押流無辜人血的罪不歸我和我的父家了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The LORD will return his blood on his own head, because he fell on two men more righteous and better than he, and killed them with the sword, and my father David didn’t know it: Abner the son of Ner, captain of the army of Israel, and Amasa the son of Jether, captain of the army of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必使约押流人血的罪归到他自己的头上；因为他用刀杀了两个比他又义又好的人，就是以色列元帅尼珥的儿子押尼珥和犹大元帅益帖的儿子亚玛撒，我父亲大卫却不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必使約押流人血的罪歸到他自己的頭上；因為他用刀殺了兩個比他又義又好的人，就是以色列元帥尼珥的兒子押尼珥和猶大元帥益帖的兒子亞瑪撒，我父親大衛卻不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "So their blood will return on the head of Joab and on the head of his offspring forever. But for David, for his offspring, for his house, and for his throne, there will be peace forever from the LORD.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:33 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，流这二人血的罪必归到约押和他后裔的头上，直到永远；惟有大卫和他的后裔，并他的家与国，必从耶和华那里得平安，直到永远。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，流這二人血的罪必歸到約押和他後裔的頭上，直到永遠；惟有大衛和他的後裔，並他的家與國，必從耶和華那裏得平安，直到永遠。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Then Benaiah the son of Jehoiada went up and fell on him, and killed him; and he was buried in his own house in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶何耶大的儿子比拿雅上去，将约押杀死，葬在旷野约押自己的坟墓里。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:34 原文是房屋"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶何耶大的兒子比拿雅上去，將約押殺死，葬在曠野約押自己的墳墓裏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:34 原文是房屋"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The king put Benaiah the son of Jehoiada in his place over the army; and the king put Zadok the priest in the place of Abiathar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王就立耶何耶大的儿子比拿雅作元帅，代替约押，又使祭司撒督代替亚比亚他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王就立耶何耶大的兒子比拿雅作元帥，代替約押，又使祭司撒督代替亞比亞他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The king sent and called for Shimei, and said to him, “Build yourself a house in Jerusalem, and live there, and don’t go anywhere else.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王差遣人将示每召来，对他说：「你要在耶路撒冷建造房屋居住，不可出来往别处去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王差遣人將示每召來，對他說：「你要在耶路撒冷建造房屋居住，不可出來往別處去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "For on the day you go out and pass over the brook Kidron, know for certain that you will surely die. Your blood will be on your own head.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当确实地知道，你何日出来过汲沦溪，何日必死！你的罪必归到自己的头上。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:37 原文是血"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當確實地知道，你何日出來過汲淪溪，何日必死！你的罪必歸到自己的頭上。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:37 原文是血"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Shimei said to the king, “What you say is good. As my lord the king has said, so will your servant do.” Shimei lived in Jerusalem many days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示每对王说：「这话甚好！我主我王怎样说，仆人必怎样行。」于是示每多日住在耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示每對王說：「這話甚好！我主我王怎樣說，僕人必怎樣行。」於是示每多日住在耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "At the end of three years, two of Shimei’s slaves ran away to Achish, son of Maacah, king of Gath. They told Shimei, saying, “Behold, your slaves are in Gath.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了三年，示每的两个仆人逃到迦特王玛迦的儿子亚吉那里去。有人告诉示每说：「你的仆人在迦特。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了三年，示每的兩個僕人逃到迦特王瑪迦的兒子亞吉那裏去。有人告訴示每說：「你的僕人在迦特。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Shimei arose, saddled his donkey, and went to Gath to Achish to seek his slaves; and Shimei went and brought his slaves from Gath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示每起来，备上驴，往迦特到亚吉那里去找他的仆人，就从迦特带他仆人回来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示每起來，備上驢，往迦特到亞吉那裏去找他的僕人，就從迦特帶他僕人回來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Solomon was told that Shimei had gone from Jerusalem to Gath, and had come again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人告诉所罗门说：「示每出耶路撒冷往迦特去，回来了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人告訴所羅門說：「示每出耶路撒冷往迦特去，回來了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The king sent and called for Shimei, and said to him, “Didn’t I adjure you by the LORD and warn you, saying, ‘Know for certain that on the day you go out and walk anywhere else, you shall surely die’? You said to me, ‘The saying that I have heard is good.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王就差遣人将示每召了来，对他说：「我岂不是叫你指着耶和华起誓，并且警戒你说『你当确实地知道，你哪日出来往别处去，那日必死』吗？你也对我说：『这话甚好，我必听从。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王就差遣人將示每召了來，對他說：「我豈不是叫你指着耶和華起誓，並且警戒你說『你當確實地知道，你哪日出來往別處去，那日必死』嗎？你也對我說：『這話甚好，我必聽從。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Why then have you not kept the oath of the LORD and the commandment that I have instructed you with?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你为何不遵守你指着耶和华起的誓和我所吩咐你的命令呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你為何不遵守你指着耶和華起的誓和我所吩咐你的命令呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The king said moreover to Shimei, “You know in your heart all the wickedness that you did to David my father. Therefore the LORD will return your wickedness on your own head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王又对示每说：「你向我父亲大卫所行的一切恶事，你自己心里也知道，所以耶和华必使你的罪恶归到自己的头上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王又對示每說：「你向我父親大衛所行的一切惡事，你自己心裏也知道，所以耶和華必使你的罪惡歸到自己的頭上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "But King Solomon will be blessed, and David’s throne will be established before the LORD forever.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有所罗门王必得福，并且大卫的国位必在耶和华面前坚定，直到永远。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有所羅門王必得福，並且大衛的國位必在耶和華面前堅定，直到永遠。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "So the king commanded Benaiah the son of Jehoiada; and he went out, and fell on him, so that he died. The kingdom was established in the hand of Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是王吩咐耶何耶大的儿子比拿雅，他就去杀死示每。这样，便坚定了所罗门的国位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是王吩咐耶何耶大的兒子比拿雅，他就去殺死示每。這樣，便堅定了所羅門的國位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

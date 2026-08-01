@@ -1,0 +1,608 @@
+{
+  "bookId": "2CH",
+  "chapter": 32,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这虔诚的事以后，亚述王西拿基立来侵入犹大，围困一切坚固城，想要攻破占据。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這虔誠的事以後，亞述王西拿基立來侵入猶大，圍困一切堅固城，想要攻破佔據。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When Hezekiah saw that Sennacherib had come, and that he was planning to fight against Jerusalem,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家见西拿基立来，定意要攻打耶路撒冷，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家見西拿基立來，定意要攻打耶路撒冷，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "he took counsel with his princes and his mighty men to stop the waters of the springs which were outside of the city, and they helped him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就与首领和勇士商议，塞住城外的泉源；他们就都帮助他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就與首領和勇士商議，塞住城外的泉源；他們就都幫助他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then many people gathered together and they stopped all the springs and the brook that flowed through the middle of the land, saying, “Why should the kings of Assyria come, and find abundant water?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是有许多人聚集，塞了一切泉源，并通流国中的小河，说：「亚述王来，为何让他得着许多水呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是有許多人聚集，塞了一切泉源，並通流國中的小河，說：「亞述王來，為何讓他得着許多水呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He took courage, built up all the wall that was broken down, and raised it up to the towers, with the other wall outside, and strengthened Millo in David’s city, and made weapons and shields in abundance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家力图自强，就修筑所有拆毁的城墙，高与城楼相齐；在城外又筑一城，坚固大卫城的米罗，制造了许多军器、盾牌；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家力圖自強，就修築所有拆毀的城牆，高與城樓相齊；在城外又築一城，堅固大衛城的米羅，製造了許多軍器、盾牌；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He set captains of war over the people, gathered them together to him in the wide place at the gate of the city, and spoke encouragingly to them, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设立军长管理百姓，将他们招聚在城门的宽阔处，用话勉励他们，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設立軍長管理百姓，將他們招聚在城門的寬闊處，用話勉勵他們，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Be strong and courageous. Don’t be afraid or dismayed because of the king of Assyria, nor for all the multitude who is with him; for there is a greater one with us than with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们当刚强壮胆，不要因亚述王和跟随他的大军恐惧、惊慌；因为与我们同在的，比与他们同在的更大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們當剛強壯膽，不要因亞述王和跟隨他的大軍恐懼、驚慌；因為與我們同在的，比與他們同在的更大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "An arm of flesh is with him, but the LORD our God is with us to help us and to fight our battles.” The people rested themselves on the words of Hezekiah king of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与他们同在的是肉臂，与我们同在的是耶和华—我们的 神，他必帮助我们，为我们争战。」百姓就靠犹大王希西家的话，安然无惧了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與他們同在的是肉臂，與我們同在的是耶和華－我們的上帝，他必幫助我們，為我們爭戰。」百姓就靠猶大王希西家的話，安然無懼了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "After this, Sennacherib king of Assyria sent his servants to Jerusalem, (now he was attacking Lachish, and all his forces were with him), to Hezekiah king of Judah, and to all Judah who were at Jerusalem, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此后，亚述王西拿基立和他的全军攻打拉吉，就差遣臣仆到耶路撒冷见犹大王希西家和一切在耶路撒冷的犹大人，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此後，亞述王西拿基立和他的全軍攻打拉吉，就差遣臣僕到耶路撒冷見猶大王希西家和一切在耶路撒冷的猶大人，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Sennacherib king of Assyria says, “In whom do you trust, that you remain under siege in Jerusalem?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「亚述王西拿基立如此说：『你们倚靠什么，还在耶路撒冷受困呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「亞述王西拿基立如此說：『你們倚靠甚麼，還在耶路撒冷受困呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Doesn’t Hezekiah persuade you to give you over to die by famine and by thirst, saying, ‘The LORD our God will deliver us out of the hand of the king of Assyria’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家对你们说「耶和华—我们的 神必救我们脱离亚述王的手」，这不是诱惑你们，使你们受饥渴而死吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家對你們說「耶和華－我們的上帝必救我們脫離亞述王的手」，這不是誘惑你們，使你們受飢渴而死嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Hasn’t the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, ‘You shall worship before one altar, and you shall burn incense on it’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这希西家岂不是废去耶和华的邱坛和祭坛，吩咐犹大与耶路撒冷的人说「你们当在一个坛前敬拜，在其上烧香」吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這希西家豈不是廢去耶和華的邱壇和祭壇，吩咐猶大與耶路撒冷的人說「你們當在一個壇前敬拜，在其上燒香」嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Don’t you know what I and my fathers have done to all the peoples of the lands? Were the gods of the nations of those lands in any way able to deliver their land out of my hand?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我与我列祖向列邦所行的，你们岂不知道吗？列邦的神何尝能救自己的国脱离我手呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我與我列祖向列邦所行的，你們豈不知道嗎？列邦的神何嘗能救自己的國脫離我手呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Who was there among all the gods of those nations which my fathers utterly destroyed that could deliver his people out of my hand, that your God should be able to deliver you out of my hand?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我列祖所灭的国，那些神中谁能救自己的民脱离我手呢？难道你们的神能救你们脱离我手吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我列祖所滅的國，那些神中誰能救自己的民脫離我手呢？難道你們的神能救你們脫離我手嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Now therefore don’t let Hezekiah deceive you nor persuade you in this way. Don’t believe him, for no god of any nation or kingdom was able to deliver his people out of my hand, and out of the hand of my fathers. How much less will your God deliver you out of my hand?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你们不要叫希西家这样欺哄诱惑你们，也不要信他；因为没有一国一邦的神能救自己的民脱离我手和我列祖的手，何况你们的神更不能救你们脱离我的手。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你們不要叫希西家這樣欺哄誘惑你們，也不要信他；因為沒有一國一邦的神能救自己的民脫離我手和我列祖的手，何況你們的神更不能救你們脫離我的手。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "His servants spoke yet more against the LORD God and against his servant Hezekiah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西拿基立的臣仆还有别的话毁谤耶和华 神和他仆人希西家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西拿基立的臣僕還有別的話毀謗耶和華上帝和他僕人希西家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He also wrote letters insulting the LORD, the God of Israel, and speaking against him, saying, “As the gods of the nations of the lands, which have not delivered their people out of my hand, so shall the God of Hezekiah not deliver his people out of my hand.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西拿基立也写信毁谤耶和华—以色列的 神说：「列邦的神既不能救他的民脱离我手，希西家的神也不能救他的民脱离我手了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西拿基立也寫信毀謗耶和華－以色列的上帝說：「列邦的神既不能救他的民脫離我手，希西家的神也不能救他的民脫離我手了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They called out with a loud voice in the Jews’ language to the people of Jerusalem who were on the wall, to frighten them and to trouble them, that they might take the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚述王的臣仆用犹大言语向耶路撒冷城上的民大声呼叫，要惊吓他们，扰乱他们，以便取城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞述王的臣僕用猶大言語向耶路撒冷城上的民大聲呼叫，要驚嚇他們，擾亂他們，以便取城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They spoke of the God of Jerusalem as of the gods of the peoples of the earth, which are the work of men’s hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们论耶路撒冷的 神，如同论世上人手所造的神一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們論耶路撒冷的上帝，如同論世上人手所造的神一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Hezekiah the king and Isaiah the prophet, the son of Amoz, prayed because of this, and cried to heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家王和亚摩斯的儿子先知以赛亚因此祷告，向天呼求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家王和亞摩斯的兒子先知以賽亞因此禱告，向天呼求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD sent an angel, who cut off all the mighty men of valor, the leaders, and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. When he had come into the house of his god, those who came out of his own body killed him there with the sword.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:21 i.e., his own sons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华就差遣一个使者进入亚述王营中，把所有大能的勇士和官长、将帅尽都灭了。亚述王满面含羞地回到本国，进了他神的庙中，有他亲生的儿子在那里用刀杀了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華就差遣一個使者進入亞述王營中，把所有大能的勇士和官長、將帥盡都滅了。亞述王滿面含羞地回到本國，進了他神的廟中，有他親生的兒子在那裏用刀殺了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria and from the hand of all others, and guided them on every side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，耶和华救希西家和耶路撒冷的居民脱离亚述王西拿基立的手，也脱离一切仇敌的手，又赐他们四境平安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，耶和華救希西家和耶路撒冷的居民脫離亞述王西拿基立的手，也脫離一切仇敵的手，又賜他們四境平安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Many brought gifts to the LORD to Jerusalem, and precious things to Hezekiah king of Judah, so that he was exalted in the sight of all nations from then on.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多人到耶路撒冷，将供物献与耶和华，又将宝物送给犹大王希西家。此后，希西家在列邦人的眼中看为尊大。 （王下20·1—3，12—19；赛38·1—3；39·1—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多人到耶路撒冷，將供物獻與耶和華，又將寶物送給猶大王希西家。此後，希西家在列邦人的眼中看為尊大。 王下20‧1－3，12－19；賽38‧1－3；39‧1－8*",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "In those days Hezekiah was terminally ill, and he prayed to the LORD; and he spoke to him, and gave him a sign.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时希西家病得要死，就祷告耶和华，耶和华应允他，赐他一个兆头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時希西家病得要死，就禱告耶和華，耶和華應允他，賜他一個兆頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But Hezekiah didn’t reciprocate appropriate to the benefit done for him, because his heart was lifted up. Therefore there was wrath on him, Judah, and Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家却没有照他所蒙的恩报答耶和华；因他心里骄傲，所以忿怒要临到他和犹大并耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家卻沒有照他所蒙的恩報答耶和華；因他心裏驕傲，所以忿怒要臨到他和猶大並耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "However, Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the LORD’s wrath didn’t come on them in the days of Hezekiah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但希西家和耶路撒冷的居民觉得心里骄傲，就一同自卑，以致耶和华的忿怒在希西家的日子没有临到他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但希西家和耶路撒冷的居民覺得心裏驕傲，就一同自卑，以致耶和華的忿怒在希西家的日子沒有臨到他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Hezekiah had exceedingly great riches and honor. He provided himself with treasuries for silver, for gold, for precious stones, for spices, for shields, and for all kinds of valuable vessels;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家大有尊荣资财，建造府库，收藏金银、宝石、香料、盾牌，和各样的宝器，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家大有尊榮資財，建造府庫，收藏金銀、寶石、香料、盾牌，和各樣的寶器，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "also storehouses for the increase of grain, new wine, and oil; and stalls for all kinds of animals, and flocks in folds.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又建造仓房，收藏五谷、新酒，和油，又为各类牲畜盖棚立圈；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又建造倉房，收藏五穀、新酒，和油，又為各類牲畜蓋棚立圈；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Moreover he provided for himself cities, and possessions of flocks and herds in abundance; for God had given him abundant possessions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且建立城邑，还有许多的羊群牛群，因为 神赐他极多的财产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且建立城邑，還有許多的羊群牛群，因為上帝賜他極多的財產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "This same Hezekiah also stopped the upper spring of the waters of Gihon, and brought them straight down on the west side of David’s city. Hezekiah prospered in all his works.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这希西家也塞住基训的上源，引水直下，流在大卫城的西边。希西家所行的事尽都亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這希西家也塞住基訓的上源，引水直下，流在大衛城的西邊。希西家所行的事盡都亨通。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "However, concerning the ambassadors of the princes of Babylon, who sent to him to inquire of the wonder that was done in the land, God left him to test him, that he might know all that was in his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有一件事，就是巴比伦王差遣使者来见希西家，访问国中所现的奇事；这件事 神离开他，要试验他，好知道他心内如何。 （王下20·20—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有一件事，就是巴比倫王差遣使者來見希西家，訪問國中所現的奇事；這件事上帝離開他，要試驗他，好知道他心內如何。 （王下20‧20－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Now the rest of the acts of Hezekiah and his good deeds, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, in the book of the kings of Judah and Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家其余的事和他的善行都写在亚摩斯的儿子先知以赛亚的默示书上和犹大、以色列的诸王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家其餘的事和他的善行都寫在亞摩斯的兒子先知以賽亞的默示書上和猶大、以色列的諸王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Hezekiah slept with his fathers, and they buried him in the ascent to the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家与他列祖同睡，葬在大卫子孙的高陵上。他死的时候，犹大人和耶路撒冷的居民都尊敬他。他儿子玛拿西接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家與他列祖同睡，葬在大衛子孫的高陵上。他死的時候，猶大人和耶路撒冷的居民都尊敬他。他兒子瑪拿西接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "bookId": "ISA",
+  "chapter": 10,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Woe to those who decree unrighteous decrees, and to the writers who write oppressive decrees",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祸哉！那些设立不义之律例的 和记录奸诈之判语的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禍哉！那些設立不義之律例的 和記錄奸詐之判語的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "to deprive the needy of justice, and to rob the poor among my people of their rights, that widows may be their plunder, and that they may make the fatherless their prey!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要屈枉穷乏人， 夺去我民中困苦人的理， 以寡妇当作掳物， 以孤儿当作掠物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要屈枉窮乏人， 奪去我民中困苦人的理， 以寡婦當作擄物， 以孤兒當作掠物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "What will you do in the day of visitation, and in the desolation which will come from afar? To whom will you flee for help? Where will you leave your wealth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到降罚的日子，有灾祸从远方临到， 那时，你们怎样行呢？ 你们向谁逃奔求救呢？ 你们的荣耀存留何处呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:3 或译：财宝"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到降罰的日子，有災禍從遠方臨到， 那時，你們怎樣行呢？ 你們向誰逃奔求救呢？ 你們的榮耀存留何處呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:3 或譯：財寶"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They will only bow down under the prisoners, and will fall under the slain. For all this his anger is not turned away, but his hand is stretched out still.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们只得屈身在被掳的人以下， 仆倒在被杀的人以下。 虽然如此，耶和华的怒气还未转消； 他的手仍伸不缩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們只得屈身在被擄的人以下， 仆倒在被殺的人以下。 雖然如此，耶和華的怒氣還未轉消； 他的手仍伸不縮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Alas Assyrian, the rod of my anger, the staff in whose hand is my indignation!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚述是我怒气的棍， 手中拿我恼恨的杖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞述是我怒氣的棍， 手中拿我惱恨的杖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I will send him against a profane nation, and against the people who anger me I will give him a command to take the plunder and to take the prey, and to tread them down like the mire of the streets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要打发他攻击亵渎的国民， 吩咐他攻击我所恼怒的百姓， 抢财为掳物，夺货为掠物， 将他们践踏，像街上的泥土一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要打發他攻擊褻瀆的國民， 吩咐他攻擊我所惱怒的百姓， 搶財為擄物，奪貨為掠物， 將他們踐踏，像街上的泥土一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "However, he doesn’t mean so, neither does his heart think so; but it is in his heart to destroy, and to cut off not a few nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，他不是这样的意思； 他心也不这样打算。 他心里倒想毁灭， 剪除不少的国。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，他不是這樣的意思； 他心也不這樣打算。 他心裏倒想毀滅， 剪除不少的國。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For he says, “Aren’t all of my princes kings?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：我的臣仆岂不都是王吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：我的臣僕豈不都是王嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Isn’t Calno like Carchemish? Isn’t Hamath like Arpad? Isn’t Samaria like Damascus?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦勒挪岂不像迦基米施吗？ 哈马岂不像亚珥拔吗？ 撒马利亚岂不像大马士革吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦勒挪豈不像迦基米施嗎？ 哈馬豈不像亞珥拔嗎？ 撒馬利亞豈不像大馬士革嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "As my hand has found the kingdoms of the idols, whose engraved images exceeded those of Jerusalem and of Samaria,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我手已经搆到有偶像的国； 这些国雕刻的偶像 过于耶路撒冷和撒马利亚的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我手已經搆到有偶像的國； 這些國雕刻的偶像 過於耶路撒冷和撒馬利亞的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her idols?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我怎样待撒马利亚和其中的偶像， 岂不照样待耶路撒冷和其中的偶像吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我怎樣待撒馬利亞和其中的偶像， 豈不照樣待耶路撒冷和其中的偶像嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore it will happen that when the Lord has performed his whole work on Mount Zion and on Jerusalem, I will punish the fruit of the willful proud heart of the king of Assyria, and the insolence of his arrogant looks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主在锡安山和耶路撒冷成就他一切工作的时候，主说：「我必罚亚述王自大的心和他高傲眼目的荣耀。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主在錫安山和耶路撒冷成就他一切工作的時候，主說：「我必罰亞述王自大的心和他高傲眼目的榮耀。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For he has said, “By the strength of my hand I have done it, and by my wisdom, for I have understanding. I have removed the boundaries of the peoples, and have robbed their treasures. Like a valiant man I have brought down their rulers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他说： 我所成就的事是靠我手的能力 和我的智慧， 我本有聪明。 我挪移列国的地界， 抢夺他们所积蓄的财宝； 并且我像勇士，使坐宝座的降为卑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他說： 我所成就的事是靠我手的能力 和我的智慧， 我本有聰明。 我挪移列國的地界， 搶奪他們所積蓄的財寶； 並且我像勇士，使坐寶座的降為卑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "My hand has found the riches of the peoples like a nest, and like one gathers eggs that are abandoned, I have gathered all the earth. There was no one who moved their wing, or that opened their mouth, or chirped.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的手搆到列国的财宝， 好像人搆到鸟窝； 我也得了全地， 好像人拾起所弃的雀蛋。 没有动翅膀的； 没有张嘴的，也没有鸣叫的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的手搆到列國的財寶， 好像人搆到鳥窩； 我也得了全地， 好像人拾起所棄的雀蛋。 沒有動翅膀的； 沒有張嘴的，也沒有鳴叫的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Should an ax brag against him who chops with it? Should a saw exalt itself above him who saws with it? As if a rod should lift those who lift it up, or as if a staff should lift up someone who is not wood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "斧岂可向用斧砍木的自夸呢？ 锯岂可向用锯的自大呢？ 好比棍抡起那举棍的， 好比杖举起那非木的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "斧豈可向用斧砍木的自誇呢？ 鋸豈可向用鋸的自大呢？ 好比棍掄起那舉棍的， 好比杖舉起那非木的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Therefore the Lord, GOD of Armies, will send among his fat ones leanness; and under his glory a burning will be kindled like the burning of fire.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:16 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，主—万军之耶和华 必使亚述王的肥壮人变为瘦弱， 在他的荣华之下必有火着起， 如同焚烧一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，主－萬軍之耶和華 必使亞述王的肥壯人變為瘦弱， 在他的榮華之下必有火着起， 如同焚燒一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The light of Israel will be for a fire, and his Holy One for a flame; and it will burn and devour his thorns and his briers in one day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的光必如火； 他的圣者必如火焰。 在一日之间，将亚述王的荆棘 和蒺藜焚烧净尽；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的光必如火； 他的聖者必如火焰。 在一日之間，將亞述王的荊棘 和蒺藜焚燒淨盡；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He will consume the glory of his forest and of his fruitful field, both soul and body. It will be as when a standard bearer faints.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将他树林和肥田的荣耀全然烧尽， 好像拿军旗的昏过去一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將他樹林和肥田的榮耀全然燒盡， 好像拿軍旗的昏過去一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The remnant of the trees of his forest shall be few, so that a child could write their number.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他林中剩下的树必稀少， 就是孩子也能写其数。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他林中剩下的樹必稀少， 就是孩子也能寫其數。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "It will come to pass in that day that the remnant of Israel, and those who have escaped from the house of Jacob will no more again lean on him who struck them, but shall lean on the LORD, the Holy One of Israel, in truth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:20 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，以色列所剩下的和雅各家所逃脱的，不再倚靠那击打他们的，却要诚实倚靠耶和华—以色列的圣者。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，以色列所剩下的和雅各家所逃脫的，不再倚靠那擊打他們的，卻要誠實倚靠耶和華－以色列的聖者。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "A remnant will return, even the remnant of Jacob, to the mighty God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所剩下的，就是雅各家所剩下的，必归回全能的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所剩下的，就是雅各家所剩下的，必歸回全能的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For though your people, Israel, are like the sand of the sea, only a remnant of them will return. A destruction is determined, overflowing with righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列啊，你的百姓虽多如海沙，惟有剩下的归回。原来灭绝的事已定，必有公义施行，如水涨溢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列啊，你的百姓雖多如海沙，惟有剩下的歸回。原來滅絕的事已定，必有公義施行，如水漲溢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For the Lord, GOD of Armies, will make a full end, and that determined, throughout all the earth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:23 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为主—万军之耶和华在全地之中必成就所定规的结局。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為主－萬軍之耶和華在全地之中必成就所定規的結局。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Therefore the Lord, GOD of Armies, says, “My people who dwell in Zion, don’t be afraid of the Assyrian, though he strike you with the rod, and lift up his staff against you, as Egypt did.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，主—万军之耶和华如此说：「住锡安我的百姓啊，亚述王虽然用棍击打你，又照埃及的样子举杖攻击你，你却不要怕他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，主－萬軍之耶和華如此說：「住錫安我的百姓啊，亞述王雖然用棍擊打你，又照埃及的樣子舉杖攻擊你，你卻不要怕他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For yet a very little while, and the indignation against you will be accomplished, and my anger will be directed to his destruction.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为还有一点点时候，向你们发的忿恨就要完毕，我的怒气要向他发作，使他灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為還有一點點時候，向你們發的忿恨就要完畢，我的怒氣要向他發作，使他滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The LORD of Armies will stir up a scourge against him, as in the slaughter of Midian at the rock of Oreb. His rod will be over the sea, and he will lift it up like he did against Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华要兴起鞭来攻击他，好像在俄立磐石那里杀戮米甸人一样。耶和华的杖要向海伸出，把杖举起，像在埃及一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華要興起鞭來攻擊他，好像在俄立磐石那裏殺戮米甸人一樣。耶和華的杖要向海伸出，把杖舉起，像在埃及一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "It will happen in that day that his burden will depart from off your shoulder, and his yoke from off your neck, and the yoke shall be destroyed because of the anointing oil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到那日，亚述王的重担必离开你的肩头；他的轭必离开你的颈项；那轭也必因肥壮的缘故撑断。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:27 或译：因膏油的缘故毁坏"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到那日，亞述王的重擔必離開你的肩頭；他的軛必離開你的頸項；那軛也必因肥壯的緣故撐斷。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:27 或譯：因膏油的緣故毀壞"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He has come to Aiath. He has passed through Migron. At Michmash he stores his baggage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚述王来到亚叶， 经过米矶 ， 在密抹安放辎重。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞述王來到亞葉， 經過米磯崙， 在密抹安放輜重。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They have gone over the pass. They have taken up their lodging at Geba. Ramah trembles. Gibeah of Saul has fled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们过了隘口， 在迦巴住宿。 拉玛人战兢； 扫罗的基比亚人逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們過了隘口， 在迦巴住宿。 拉瑪人戰兢； 掃羅的基比亞人逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Cry aloud with your voice, daughter of Gallim! Listen, Laishah! You poor Anathoth!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦琳的居民哪，要高声呼喊！ 莱煞人哪，须听！ 哀哉！困苦的亚拿突啊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:30 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦琳的居民哪，要高聲呼喊！ 萊煞人哪，須聽！ 哀哉！困苦的亞拿突啊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:30 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Madmenah is a fugitive. The inhabitants of Gebim flee for safety.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛得米那人躲避； 基柄的居民逃遁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪得米那人躲避； 基柄的居民逃遁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "This very day he will halt at Nob. He shakes his hand at the mountain of the daughter of Zion, the hill of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，亚述王要在挪伯歇兵， 向锡安女子的山— 就是耶路撒冷的山—抡手攻他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，亞述王要在挪伯歇兵， 向錫安女子的山－ 就是耶路撒冷的山－掄手攻他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Behold, the Lord, GOD of Armies, will lop the boughs with terror. The tall will be cut down, and the lofty will be brought low.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，主—万军之耶和华 以惊吓削去树枝； 长高的必被砍下， 高大的必被伐倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，主－萬軍之耶和華 以驚嚇削去樹枝； 長高的必被砍下， 高大的必被伐倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "稠密的树林，他要用铁器砍下； 黎巴嫩的树木必被大能者伐倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "稠密的樹林，他要用鐵器砍下； 黎巴嫩的樹木必被大能者伐倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "bookId": "ROM",
+  "chapter": 6,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，怎么说呢？我们可以仍在罪中、叫恩典显多吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，怎麼說呢？我們可以仍在罪中、叫恩典顯多嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "May it never be! We who died to sin, how could we live in it any longer?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "断乎不可！我们在罪上死了的人岂可仍在罪中活着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "斷乎不可！我們在罪上死了的人豈可仍在罪中活着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂不知我们这受洗归入基督耶稣的人是受洗归入他的死吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈不知我們這受洗歸入基督耶穌的人是受洗歸入他的死嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我们借着洗礼归入死，和他一同埋葬，原是叫我们一举一动有新生的样式，像基督借着父的荣耀从死里复活一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我們藉着洗禮歸入死，和他一同埋葬，原是叫我們一舉一動有新生的樣式，像基督藉着父的榮耀從死裏復活一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For if we have become united with him in the likeness of his death, we will also be part of his resurrection;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若在他死的形状上与他联合，也要在他复活的形状上与他联合；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若在他死的形狀上與他聯合，也要在他復活的形狀上與他聯合；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "knowing this, that our old man was crucified with him, that the body of sin might be done away with, so that we would no longer be in bondage to sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为知道我们的旧人和他同钉十字架，使罪身灭绝，叫我们不再作罪的奴仆；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為知道我們的舊人和他同釘十字架，使罪身滅絕，叫我們不再作罪的奴僕；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For he who has died has been freed from sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为已死的人是脱离了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為已死的人是脫離了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But if we died with Christ, we believe that we will also live with him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若是与基督同死，就信必与他同活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若是與基督同死，就信必與他同活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "knowing that Christ, being raised from the dead, dies no more. Death no longer has dominion over him!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为知道基督既从死里复活，就不再死，死也不再作他的主了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為知道基督既從死裏復活，就不再死，死也不再作他的主了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For the death that he died, he died to sin one time; but the life that he lives, he lives to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他死是向罪死了，只有一次；他活是向 神活着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他死是向罪死了，只有一次；他活是向上帝活着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Thus consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你们向罪也当看自己是死的；向 神在基督耶稣里，却当看自己是活的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你們向罪也當看自己是死的；向上帝在基督耶穌裏，卻當看自己是活的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore don’t let sin reign in your mortal body, that you should obey it in its lusts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，不要容罪在你们必死的身上作王，使你们顺从身子的私欲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，不要容罪在你們必死的身上作王，使你們順從身子的私慾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Also, do not present your members to sin as instruments of unrighteousness, but present yourselves to God as alive from the dead, and your members as instruments of righteousness to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不要将你们的肢体献给罪作不义的器具；倒要像从死里复活的人，将自己献给 神，并将肢体作义的器具献给 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不要將你們的肢體獻給罪作不義的器具；倒要像從死裏復活的人，將自己獻給上帝，並將肢體作義的器具獻給上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For sin will not have dominion over you, for you are not under law, but under grace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罪必不能作你们的主；因你们不在律法之下，乃在恩典之下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "罪必不能作你們的主；因你們不在律法之下，乃在恩典之下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "What then? Shall we sin because we are not under law but under grace? May it never be!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这却怎么样呢？我们在恩典之下，不在律法之下，就可以犯罪吗？断乎不可！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這卻怎麼樣呢？我們在恩典之下，不在律法之下，就可以犯罪嗎？斷乎不可！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Don’t you know that when you present yourselves as servants and obey someone, you are the servants of whomever you obey, whether of sin to death, or of obedience to righteousness?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂不晓得你们献上自己作奴仆，顺从谁，就作谁的奴仆吗？或作罪的奴仆，以至于死；或作顺命的奴仆，以至成义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈不曉得你們獻上自己作奴僕，順從誰，就作誰的奴僕嗎？或作罪的奴僕，以至於死；或作順命的奴僕，以致成義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But thanks be to God that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching to which you were delivered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "感谢 神！因为你们从前虽然作罪的奴仆，现今却从心里顺服了所传给你们道理的模范。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "感謝上帝！因為你們從前雖然作罪的奴僕，現今卻從心裏順服了所傳給你們道理的模範。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Being made free from sin, you became bondservants of righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既从罪里得了释放，就作了义的奴仆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既從罪裏得了釋放，就作了義的奴僕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I speak in human terms because of the weakness of your flesh; for as you presented your members as servants to uncleanness and to wickedness upon wickedness, even so now present your members as servants to righteousness for sanctification.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我因你们肉体的软弱，就照人的常话对你们说。你们从前怎样将肢体献给不洁不法作奴仆，以至于不法；现今也要照样将肢体献给义作奴仆，以至于成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我因你們肉體的軟弱，就照人的常話對你們說。你們從前怎樣將肢體獻給不潔不法作奴僕，以至於不法；現今也要照樣將肢體獻給義作奴僕，以至於成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For when you were servants of sin, you were free from righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们作罪之奴仆的时候，就不被义约束了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們作罪之奴僕的時候，就不被義約束了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "What fruit then did you have at that time in the things of which you are now ashamed? For the end of those things is death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们现今所看为羞耻的事，当日有什么果子呢？那些事的结局就是死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們現今所看為羞恥的事，當日有甚麼果子呢？那些事的結局就是死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But now, being made free from sin and having become servants of God, you have your fruit of sanctification and the result of eternal life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但现今，你们既从罪里得了释放，作了 神的奴仆，就有成圣的果子，那结局就是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但現今，你們既從罪裏得了釋放，作了上帝的奴僕，就有成聖的果子，那結局就是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为罪的工价乃是死；惟有 神的恩赐，在我们的主基督耶稣里，乃是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為罪的工價乃是死；惟有上帝的恩賜，在我們的主基督耶穌裏，乃是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

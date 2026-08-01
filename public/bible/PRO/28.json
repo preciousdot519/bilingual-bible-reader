@@ -1,0 +1,513 @@
+{
+  "bookId": "PRO",
+  "chapter": 28,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The wicked flee when no one pursues; but the righteous are as bold as a lion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人虽无人追赶也逃跑； 义人却胆壮像狮子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人雖無人追趕也逃跑； 義人卻膽壯像獅子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "In rebellion, a land has many rulers, but order is maintained by a man of understanding and knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邦国因有罪过，君王就多更换； 因有聪明知识的人，国必长存。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "邦國因有罪過，君王就多更換； 因有聰明知識的人，國必長存。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "A needy man who oppresses the poor is like a driving rain which leaves no crops.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "穷人欺压贫民， 好像暴雨冲没粮食。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "窮人欺壓貧民， 好像暴雨沖沒糧食。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Those who forsake the law praise the wicked; but those who keep the law contend with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "违弃律法的，夸奖恶人； 遵守律法的，却与恶人相争。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "違棄律法的，誇獎惡人； 遵守律法的，卻與惡人相爭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Evil men don’t understand justice; but those who seek the LORD understand it fully.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "坏人不明白公义； 惟有寻求耶和华的，无不明白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "壞人不明白公義； 惟有尋求耶和華的，無不明白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Better is the poor who walks in his integrity than he who is perverse in his ways, and he is rich.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行为纯正的穷乏人 胜过行事乖僻的富足人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行為純正的窮乏人 勝過行事乖僻的富足人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Whoever keeps the law is a wise son; but he who is a companion of gluttons shames his father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谨守律法的，是智慧之子； 与贪食人作伴的，却羞辱其父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謹守律法的，是智慧之子； 與貪食人作伴的，卻羞辱其父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He who increases his wealth by excessive interest gathers it for one who has pity on the poor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人以厚利加增财物， 是给那怜悯穷人者积蓄的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人以厚利加增財物， 是給那憐憫窮人者積蓄的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He who turns away his ear from hearing the law, even his prayer is an abomination.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "转耳不听律法的， 他的祈祷也为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "轉耳不聽律法的， 他的祈禱也為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Whoever causes the upright to go astray in an evil way, he will fall into his own trap; but the blameless will inherit good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诱惑正直人行恶道的，必掉在自己的坑里； 惟有完全人必承受福分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誘惑正直人行惡道的，必掉在自己的坑裏； 惟有完全人必承受福分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The rich man is wise in his own eyes; but the poor who has understanding sees through him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "富足人自以为有智慧， 但聪明的贫穷人能将他查透。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "富足人自以為有智慧， 但聰明的貧窮人能將他查透。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "When the righteous triumph, there is great glory; but when the wicked rise, men hide themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人得志，有大荣耀； 恶人兴起，人就躲藏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人得志，有大榮耀； 惡人興起，人就躲藏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He who conceals his sins doesn’t prosper, but whoever confesses and renounces them finds mercy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遮掩自己罪过的，必不亨通； 承认离弃罪过的，必蒙怜恤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遮掩自己罪過的，必不亨通； 承認離棄罪過的，必蒙憐恤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Blessed is the man who always fears; but one who hardens his heart falls into trouble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "常存敬畏的，便为有福； 心存刚硬的，必陷在祸患里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "常存敬畏的，便為有福； 心存剛硬的，必陷在禍患裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "As a roaring lion or a charging bear, so is a wicked ruler over helpless people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暴虐的君王辖制贫民， 好像吼叫的狮子、觅食的熊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暴虐的君王轄制貧民， 好像吼叫的獅子、覓食的熊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "A tyrannical ruler lacks judgment. One who hates ill-gotten gain will have long days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无知的君多行暴虐； 以贪财为可恨的，必年长日久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無知的君多行暴虐； 以貪財為可恨的，必年長日久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "A man who is tormented by blood guilt will be a fugitive until death. No one will support him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "背负流人血之罪的，必往坑里奔跑， 谁也不可拦阻他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "背負流人血之罪的，必往坑裏奔跑， 誰也不可攔阻他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Whoever walks blamelessly is kept safe; but one with perverse ways will fall suddenly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行动正直的，必蒙拯救； 行事弯曲的，立时跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行動正直的，必蒙拯救； 行事彎曲的，立時跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "One who works his land will have an abundance of food; but one who chases fantasies will have his fill of poverty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耕种自己田地的，必得饱食； 追随虚浮的，足受穷乏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耕種自己田地的，必得飽食； 追隨虛浮的，足受窮乏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "A faithful man is rich with blessings; but one who is eager to be rich will not go unpunished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诚实人必多得福； 想要急速发财的，不免受罚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誠實人必多得福； 想要急速發財的，不免受罰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "To show partiality is not good, yet a man will do wrong for a piece of bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看人的情面乃为不好； 人因一块饼枉法也为不好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看人的情面乃為不好； 人因一塊餅枉法也為不好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "A stingy man hurries after riches, and doesn’t know that poverty waits for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人有恶眼想要急速发财， 却不知穷乏必临到他身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人有惡眼想要急速發財， 卻不知窮乏必臨到他身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "One who rebukes a man will afterward find more favor than one who flatters with the tongue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "责备人的，后来蒙人喜悦， 多于那用舌头谄媚人的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "責備人的，後來蒙人喜悅， 多於那用舌頭諂媚人的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Whoever robs his father or his mother and says, “It’s not wrong,” is a partner with a destroyer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "偷窃父母的，说：这不是罪， 此人就是与强盗同类。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "偷竊父母的，說：這不是罪， 此人就是與強盜同類。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "One who is greedy stirs up strife; but one who trusts in the LORD will prosper.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心中贪婪的，挑起争端； 倚靠耶和华的，必得丰裕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心中貪婪的，挑起爭端； 倚靠耶和華的，必得豐裕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "One who trusts in himself is a fool; but one who walks in wisdom is kept safe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心中自是的，便是愚昧人； 凭智慧行事的，必蒙拯救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心中自是的，便是愚昧人； 憑智慧行事的，必蒙拯救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "One who gives to the poor has no lack; but one who closes his eyes will have many curses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "周济贫穷的，不致缺乏； 佯为不见的，必多受咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "賙濟貧窮的，不致缺乏； 佯為不見的，必多受咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "When the wicked rise, men hide themselves; but when they perish, the righteous thrive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人兴起，人就躲藏； 恶人败亡，义人增多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人興起，人就躲藏； 惡人敗亡，義人增多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

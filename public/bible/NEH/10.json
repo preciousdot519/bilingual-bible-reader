@@ -1,0 +1,716 @@
+{
+  "bookId": "NEH",
+  "chapter": 10,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "签名的是：哈迦利亚的儿子—省长尼希米，和西底家；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "簽名的是：哈迦利亞的兒子－省長尼希米，和西底家；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Seraiah, Azariah, Jeremiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司：西莱雅、亚撒利雅、耶利米、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司：西萊雅、亞撒利雅、耶利米、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Pashhur, Amariah, Malchijah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴施户珥、亚玛利雅、玛基雅、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴施戶珥、亞瑪利雅、瑪基雅、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Hattush, Shebaniah, Malluch,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈突、示巴尼、玛鹿、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈突、示巴尼、瑪鹿、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Harim, Meremoth, Obadiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈琳、米利末、俄巴底亚、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈琳、米利末、俄巴底亞、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Daniel, Ginnethon, Baruch,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但以理、近顿、巴录、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但以理、近頓、巴錄、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Meshullam, Abijah, Mijamin,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米书兰、亚比雅、米雅民、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米書蘭、亞比雅、米雅民、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Maaziah, Bilgai, and Shemaiah. These were the priests.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛西亚、璧该、示玛雅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪西亞、璧該、示瑪雅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The Levites: Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有利未人，就是亚散尼的儿子耶书亚、希拿达的子孙宾内、甲篾；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有利未人，就是亞散尼的兒子耶書亞、希拿達的子孫賓內、甲篾；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有他们的弟兄示巴尼、荷第雅、基利他、毗莱雅、哈难、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有他們的弟兄示巴尼、荷第雅、基利他、毗萊雅、哈難、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Mica, Rehob, Hashabiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米迦、利合、哈沙比雅、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米迦、利合、哈沙比雅、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Zaccur, Sherebiah, Shebaniah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒刻、示利比、示巴尼、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒刻、示利比、示巴尼、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Hodiah, Bani, and Beninu.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "荷第雅、巴尼、比尼努；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "荷第雅、巴尼、比尼努；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The chiefs of the people: Parosh, Pahathmoab, Elam, Zattu, Bani,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有民的首领，就是巴录、巴哈·摩押、以拦、萨土、巴尼、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有民的首領，就是巴錄、巴哈‧摩押、以攔、薩土、巴尼、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Bunni, Azgad, Bebai,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "布尼、押甲、比拜、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "布尼、押甲、比拜、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Adonijah, Bigvai, Adin,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅、比革瓦伊、亚丁、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅、比革瓦伊、亞丁、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Ater, Hezekiah, Azzur,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚特、希西家、押朔、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞特、希西家、押朔、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Hodiah, Hashum, Bezai,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "荷第雅、哈顺、比赛、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "荷第雅、哈順、比賽、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Hariph, Anathoth, Nobai,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈拉、亚拿突、尼拜、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈拉、亞拿突、尼拜、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Magpiash, Meshullam, Hezir,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "抹比押、米书兰、希悉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "抹比押、米書蘭、希悉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Meshezabel, Zadok, Jaddua,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米示萨别、撒督、押杜亚、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米示薩別、撒督、押杜亞、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Pelatiah, Hanan, Anaiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "毗拉提、哈难、亚奈雅、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "毗拉提、哈難、亞奈雅、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Hoshea, Hananiah, Hasshub,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何细亚、哈拿尼雅、哈述、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何細亞、哈拿尼雅、哈述、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Hallohesh, Pilha, Shobek,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈罗黑、毗利哈、朔百、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈羅黑、毗利哈、朔百、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Rehum, Hashabnah, Maaseiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利宏、哈沙拿、玛西雅、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利宏、哈沙拿、瑪西雅、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Ahiah, Hanan, Anan,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希雅、哈难、亚难、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希雅、哈難、亞難、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Malluch, Harim, and Baanah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛鹿、哈琳、巴拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪鹿、哈琳、巴拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who had separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters—everyone who had knowledge and understanding—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的民、祭司、利未人、守门的、歌唱的、尼提宁，和一切离绝邻邦居民归服 神律法的，并他们的妻子、儿女，凡有知识能明白的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的民、祭司、利未人、守門的、歌唱的、尼提寧，和一切離絕鄰邦居民歸服上帝律法的，並他們的妻子、兒女，凡有知識能明白的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his ordinances and his statutes;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都随从他们贵胄的弟兄，发咒起誓，必遵行 神借他仆人摩西所传的律法，谨守遵行耶和华—我们主的一切诫命、典章、律例；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都隨從他們貴冑的弟兄，發咒起誓，必遵行上帝藉他僕人摩西所傳的律法，謹守遵行耶和華－我們主的一切誡命、典章、律例；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并不将我们的女儿嫁给这地的居民，也不为我们的儿子娶他们的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並不將我們的女兒嫁給這地的居民，也不為我們的兒子娶他們的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "and if the peoples of the land bring wares or any grain on the Sabbath day to sell, that we would not buy from them on the Sabbath, or on a holy day; and that we would forego the seventh year crops and the exaction of every debt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地的居民若在安息日，或什么圣日，带了货物或粮食来卖给我们，我们必不买。每逢第七年必不耕种，凡欠我们债的必不追讨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地的居民若在安息日，或甚麼聖日，帶了貨物或糧食來賣給我們，我們必不買。每逢第七年必不耕種，凡欠我們債的必不追討。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Also we made ordinances for ourselves, to charge ourselves yearly with the third part of a shekel for the service of the house of our God:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:32 A shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们又为自己定例，每年各人捐银一舍客勒三分之一，为我们 神殿的使用，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們又為自己定例，每年各人捐銀一舍客勒三分之一，為我們上帝殿的使用，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "for the show bread, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是为陈设饼、常献的素祭，和燔祭，安息日、月朔、节期所献的与圣物，并以色列人的赎罪祭，以及我们 神殿里一切的费用。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是為陳設餅、常獻的素祭，和燔祭，安息日、月朔、節期所獻的與聖物，並以色列人的贖罪祭，以及我們上帝殿裏一切的費用。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on the LORD our God’s altar, as it is written in the law;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的祭司、利未人，和百姓都掣签，看每年是哪一族按定期将献祭的柴奉到我们 神的殿里，照着律法上所写的，烧在耶和华—我们 神的坛上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的祭司、利未人，和百姓都掣籤，看每年是哪一族按定期將獻祭的柴奉到我們上帝的殿裏，照着律法上所寫的，燒在耶和華－我們上帝的壇上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "and to bring the first fruits of our ground and the first fruits of all fruit of all kinds of trees, year by year, to the LORD’s house;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又定每年将我们地上初熟的土产和各样树上初熟的果子都奉到耶和华的殿里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又定每年將我們地上初熟的土產和各樣樹上初熟的果子都奉到耶和華的殿裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "also the firstborn of our sons and of our livestock, as it is written in the law, and the firstborn of our herds and of our flocks, to bring to the house of our God, to the priests who minister in the house of our God;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又照律法上所写的，将我们头胎的儿子和首生的牛羊都奉到我们 神的殿，交给我们 神殿里供职的祭司；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又照律法上所寫的，將我們頭胎的兒子和首生的牛羊都奉到我們上帝的殿，交給我們上帝殿裏供職的祭司；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "and that we should bring the first fruits of our dough, our wave offerings, the fruit of all kinds of trees, and the new wine and the oil, to the priests, to the rooms of the house of our God; and the tithes of our ground to the Levites; for they, the Levites, take the tithes in all our farming villages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并将初熟之麦子所磨的面和举祭、各样树上初熟的果子、新酒与油奉给祭司，收在我们 神殿的库房里，把我们地上所产的十分之一奉给利未人，因利未人在我们一切城邑的土产中当取十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並將初熟之麥子所磨的麵和舉祭、各樣樹上初熟的果子、新酒與油奉給祭司，收在我們上帝殿的庫房裏，把我們地上所產的十分之一奉給利未人，因利未人在我們一切城邑的土產中當取十分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "The priest, the descendent of Aaron, shall be with the Levites when the Levites take tithes. The Levites shall bring up the tithe of the tithes to the house of our God, to the rooms, into the treasure house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人取十分之一的时候，亚伦的子孙中，当有一个祭司与利未人同在。利未人也当从十分之一中取十分之一，奉到我们 神殿的屋子里，收在库房中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人取十分之一的時候，亞倫的子孫中，當有一個祭司與利未人同在。利未人也當從十分之一中取十分之一，奉到我們上帝殿的屋子裏，收在庫房中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "For the children of Israel and the children of Levi shall bring the wave offering of the grain, of the new wine, and of the oil, to the rooms where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人和利未人要将五谷、新酒，和油为举祭，奉到收存圣所器皿的屋子里，就是供职的祭司、守门的、歌唱的所住的屋子。这样，我们就不离弃我们 神的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人和利未人要將五穀、新酒，和油為舉祭，奉到收存聖所器皿的屋子裏，就是供職的祭司、守門的、歌唱的所住的屋子。這樣，我們就不離棄我們上帝的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

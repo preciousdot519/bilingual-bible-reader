@@ -1,0 +1,714 @@
+{
+  "bookId": "ROM",
+  "chapter": 11,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我且说， 神弃绝了他的百姓吗？断乎没有！因为我也是以色列人，亚伯拉罕的后裔，属便雅悯支派的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我且說，上帝棄絕了他的百姓嗎？斷乎沒有！因為我也是以色列人，亞伯拉罕的後裔，屬便雅憫支派的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "God didn’t reject his people, whom he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神并没有弃绝他预先所知道的百姓。你们岂不晓得经上论到以利亚是怎么说的呢？他在 神面前怎样控告以色列人说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝並沒有棄絕他預先所知道的百姓。你們豈不曉得經上論到以利亞是怎麼說的呢？他在上帝面前怎樣控告以色列人說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Lord, they have killed your prophets. They have broken down your altars. I am left alone, and they seek my life.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:3 1 Kings 19:10,14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「主啊，他们杀了你的先知，拆了你的祭坛，只剩下我一个人；他们还要寻索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「主啊，他們殺了你的先知，拆了你的祭壇，只剩下我一個人；他們還要尋索我的命。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But how does God answer him? “I have reserved for myself seven thousand men who have not bowed the knee to Baal.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:4 1 Kings 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "神的回话是怎么说的呢？他说：「我为自己留下七千人，是未曾向巴力屈膝的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的回話是怎麼說的呢？他說：「我為自己留下七千人，是未曾向巴力屈膝的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Even so too at this present time also there is a remnant according to the election of grace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今也是这样，照着拣选的恩典，还有所留的余数。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今也是這樣，照着揀選的恩典，還有所留的餘數。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "And if by grace, then it is no longer of works; otherwise grace is no longer grace. But if it is of works, it is no longer grace; otherwise work is no longer work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既是出于恩典，就不在乎行为；不然，恩典就不是恩典了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "What then? That which Israel seeks for, that he didn’t obtain, but the chosen ones obtained it, and the rest were hardened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是怎么样呢？以色列人所求的，他们没有得着。惟有蒙拣选的人得着了；其余的就成了顽梗不化的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是怎麼樣呢？以色列人所求的，他們沒有得着。惟有蒙揀選的人得着了；其餘的就成了頑梗不化的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "According as it is written, “God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, to this very day.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:8 Deuteronomy 29:4; Isaiah 29:10",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "如经上所记： 神给他们昏迷的心， 眼睛不能看见， 耳朵不能听见， 直到今日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如經上所記： 上帝給他們昏迷的心， 眼睛不能看見， 耳朵不能聽見， 直到今日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "David says, “Let their table be made a snare, a trap, a stumbling block, and a retribution to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫也说： 愿他们的筵席变为网罗，变为机槛， 变为绊脚石，作他们的报应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛也說： 願他們的筵席變為網羅，變為機檻， 變為絆腳石，作他們的報應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Let their eyes be darkened, that they may not see. Always keep their backs bent.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:10 Psalms 69:22,23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "愿他们的眼睛昏蒙，不得看见； 愿你时常弯下他们的腰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願他們的眼睛昏矇，不得看見； 願你時常彎下他們的腰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "I ask then, did they stumble that they might fall? May it never be! But by their fall salvation has come to the Gentiles, to provoke them to jealousy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我且说，他们失脚是要他们跌倒吗？断乎不是！反倒因他们的过失，救恩便临到外邦人，要激动他们发愤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我且說，他們失腳是要他們跌倒嗎？斷乎不是！反倒因他們的過失，救恩便臨到外邦人，要激動他們發憤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now if their fall is the riches of the world, and their loss the riches of the Gentiles, how much more their fullness!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若他们的过失为天下的富足，他们的缺乏为外邦人的富足，何况他们的丰满呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若他們的過失為天下的富足，他們的缺乏為外邦人的富足，何況他們的豐滿呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For I speak to you who are Gentiles. Since then as I am an apostle to Gentiles, I glorify my ministry,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们外邦人说这话；因我是外邦人的使徒，所以敬重我的职分，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:13 原文是荣耀"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們外邦人說這話；因我是外邦人的使徒，所以敬重我的職分，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:13 原文是榮耀"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "if by any means I may provoke to jealousy those who are my flesh, and may save some of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或者可以激动我骨肉之亲发愤，好救他们一些人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或者可以激動我骨肉之親發憤，好救他們一些人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For if the rejection of them is the reconciling of the world, what would their acceptance be, but life from the dead?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若他们被丢弃，天下就得与 神和好，他们被收纳，岂不是死而复生吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若他們被丟棄，天下就得與上帝和好，他們被收納，豈不是死而復生嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If the first fruit is holy, so is the lump. If the root is holy, so are the branches.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所献的新面若是圣洁，全团也就圣洁了；树根若是圣洁，树枝也就圣洁了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所獻的新麵若是聖潔，全團也就聖潔了；樹根若是聖潔，樹枝也就聖潔了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But if some of the branches were broken off, and you, being a wild olive, were grafted in among them and became partaker with them of the root and of the richness of the olive tree,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有几根枝子被折下来，你这野橄榄得接在其中，一同得着橄榄根的肥汁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有幾根枝子被折下來，你這野橄欖得接在其中，一同得着橄欖根的肥汁，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "don’t boast over the branches. But if you boast, remember that it is not you who support the root, but the root supports you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就不可向旧枝子夸口；若是夸口，当知道不是你托着根，乃是根托着你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就不可向舊枝子誇口；若是誇口，當知道不是你托着根，乃是根托着你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You will say then, “Branches were broken off, that I might be grafted in.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若说，那枝子被折下来是特为叫我接上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若說，那枝子被折下來是特為叫我接上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "True; by their unbelief they were broken off, and you stand by your faith. Don’t be conceited, but fear;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不错！他们因为不信，所以被折下来；你因为信，所以立得住；你不可自高，反要惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不錯！他們因為不信，所以被折下來；你因為信，所以立得住；你不可自高，反要懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "for if God didn’t spare the natural branches, neither will he spare you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神既不爱惜原来的枝子，也必不爱惜你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝既不愛惜原來的枝子，也必不愛惜你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "See then the goodness and severity of God. Toward those who fell, severity; but toward you, goodness, if you continue in his goodness; otherwise you also will be cut off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可见， 神的恩慈和严厉向那跌倒的人是严厉的，向你是有恩慈的，只要你长久在他的恩慈里；不然，你也要被砍下来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可見，上帝的恩慈和嚴厲向那跌倒的人是嚴厲的，向你是有恩慈的，只要你長久在他的恩慈裏；不然，你也要被砍下來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They also, if they don’t continue in their unbelief, will be grafted in, for God is able to graft them in again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "而且他们若不是长久不信，仍要被接上，因为 神能够把他们从新接上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "而且他們若不是長久不信，仍要被接上，因為上帝能夠把他們重新接上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For if you were cut out of that which is by nature a wild olive tree, and were grafted contrary to nature into a good olive tree, how much more will these, which are the natural branches, be grafted into their own olive tree?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你是从那天生的野橄榄上砍下来的，尚且逆着性得接在好橄榄上，何况这本树的枝子，要接在本树上呢！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你是從那天生的野橄欖上砍下來的，尚且逆着性得接在好橄欖上，何況這本樹的枝子，要接在本樹上呢！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For I don’t desire you to be ignorant, brothers, of this mystery, so that you won’t be wise in your own conceits, that a partial hardening has happened to Israel, until the fullness of the Gentiles has come in,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "11:25 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我不愿意你们不知道这奥秘（恐怕你们自以为聪明），就是以色列人有几分是硬心的，等到外邦人的数目添满了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我不願意你們不知道這奧祕（恐怕你們自以為聰明），就是以色列人有幾分是硬心的，等到外邦人的數目添滿了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "and so all Israel will be saved. Even as it is written, “There will come out of Zion the Deliverer, and he will turn away ungodliness from Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列全家都要得救。如经上所记： 必有一位救主从锡安出来， 要消除雅各家的一切罪恶；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列全家都要得救。如經上所記： 必有一位救主從錫安出來， 要消除雅各家的一切罪惡；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "This is my covenant with them, when I will take away their sins.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:27 Isaiah 59:20-21; 27:9; Jeremiah 31:33-34",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "又说：我除去他们罪的时候， 这就是我与他们所立的约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：我除去他們罪的時候， 這就是我與他們所立的約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Concerning the Good News, they are enemies for your sake. But concerning the election, they are beloved for the fathers’ sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就着福音说，他们为你们的缘故是仇敌；就着拣选说，他们为列祖的缘故是蒙爱的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就着福音說，他們為你們的緣故是仇敵；就着揀選說，他們為列祖的緣故是蒙愛的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "For the gifts and the calling of God are irrevocable.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神的恩赐和选召是没有后悔的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝的恩賜和選召是沒有後悔的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "For as you in time past were disobedient to God, but now have obtained mercy by their disobedience,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们从前不顺服 神，如今因他们的不顺服，你们倒蒙了怜恤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們從前不順服上帝，如今因他們的不順服，你們倒蒙了憐恤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "even so these also have now been disobedient, that by the mercy shown to you they may also obtain mercy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，他们也是不顺服，叫他们因着施给你们的怜恤，现在也就蒙怜恤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，他們也是不順服，叫他們因着施給你們的憐恤，現在也就蒙憐恤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "For God has bound all to disobedience, that he might have mercy on all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神将众人都圈在不顺服之中，特意要怜恤众人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝將眾人都圈在不順服之中，特意要憐恤眾人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments, and his ways past tracing out!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "深哉， 神丰富的智慧和知识！ 他的判断何其难测！ 他的踪迹何其难寻！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "深哉，上帝豐富的智慧和知識！ 他的判斷何其難測！ 他的蹤跡何其難尋！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“For who has known the mind of the Lord? Or who has been his counselor?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:34 Isaiah 40:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "谁知道主的心？ 谁作过他的谋士呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰知道主的心？ 誰作過他的謀士呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“Or who has first given to him, and it will be repaid to him again?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "11:35 Job 41:11",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "谁是先给了他， 使他后来偿还呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰是先給了他， 使他後來償還呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "For of him and through him and to him are all things. To him be the glory for ever! Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为万有都是本于他， 倚靠他，归于他。 愿荣耀归给他，直到永远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為萬有都是本於他， 倚靠他，歸於他。 願榮耀歸給他，直到永遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

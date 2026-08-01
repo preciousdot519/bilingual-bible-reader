@@ -1,0 +1,731 @@
+{
+  "bookId": "LUK",
+  "chapter": 21,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He looked up and saw the rich people who were putting their gifts into the treasury.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣抬头观看，见财主把捐项投在库里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌抬頭觀看，見財主把捐項投在庫裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He saw a certain poor widow casting in two small brass coins.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:2 literally, “two lepta.” 2 lepta was about 1% of a day’s wages for an agricultural laborer."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又见一个穷寡妇投了两个小钱，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又見一個窮寡婦投了兩個小錢，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said, “Truly Itell you, this poor widow put in more than all of them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就说：「我实在告诉你们，这穷寡妇所投的比众人还多；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就說：「我實在告訴你們，這窮寡婦所投的比眾人還多；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "forall these put in gifts for God from their abundance, but she, out of her poverty, put in all that she had to live on.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为众人都是自己有余，拿出来投在捐项里，但这寡妇是自己不足，把她一切养生的都投上了。」 （太24·1—2；可13·1—2）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為眾人都是自己有餘，拿出來投在捐項裏，但這寡婦是自己不足，把她一切養生的都投上了。」 （太24‧1－2；可13‧1－2）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "As some were talking about the temple and how it was decorated with beautiful stones and gifts, he said,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人谈论圣殿是用美石和供物妆饰的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人談論聖殿是用美石和供物妝飾的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“Asfor these things which you see, the days will come in which there will not be left here one stone on another that will not be thrown down.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就说：「论到你们所看见的这一切，将来日子到了，在这里没有一块石头留在石头上，不被拆毁了。」 （太24·3—14；可13·3—13）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就說：「論到你們所看見的這一切，將來日子到了，在這裏沒有一塊石頭留在石頭上，不被拆毀了。」 （太24‧3－14；可13‧3－13）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They asked him, “Teacher, so when will these things be? What is the sign that these things are about to happen?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们问他说：「夫子！什么时候有这事呢？这事将到的时候有什么预兆呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們問他說：「夫子！甚麼時候有這事呢？這事將到的時候有甚麼預兆呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said, “Watch outthat you don’ t get led astray, for many will come in my name, saying, ‘I am he,’ and, ‘The time is at hand.’ Therefore don’ t follow them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:8 or, I AM"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们要谨慎，不要受迷惑；因为将来有好些人冒我的名来，说：『我是基督』，又说：『时候近了』，你们不要跟从他们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們要謹慎，不要受迷惑；因為將來有好些人冒我的名來，說：『我是基督』，又說：『時候近了』，你們不要跟從他們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Whenyou hear of wars and disturbances, don’ t be terrified, for these things must happen first, but the end won’ t come immediately.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们听见打仗和扰乱的事，不要惊惶；因为这些事必须先有，只是末期不能立时就到。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們聽見打仗和擾亂的事，不要驚惶；因為這些事必須先有，只是末期不能立時就到。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then he said to them, “Nationwill rise against nation, and kingdom against kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，耶稣对他们说：「民要攻打民，国要攻打国；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，耶穌對他們說：「民要攻打民，國要攻打國；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therewill be great earthquakes, famines, and plagues in various places. There will be terrors and great signs from heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地要大大震动，多处必有饥荒、瘟疫，又有可怕的异象和大神迹从天上显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地要大大震動，多處必有饑荒、瘟疫，又有可怕的異象和大神蹟從天上顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Butbefore all these things, they will lay their hands on you and will persecute you, delivering you up to synagogues and prisons, bringing you before kings and governors for my name’s sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这一切的事以先，人要下手拿住你们，逼迫你们，把你们交给会堂，并且收在监里，又为我的名拉你们到君王诸侯面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這一切的事以先，人要下手拿住你們，逼迫你們，把你們交給會堂，並且收在監裏，又為我的名拉你們到君王諸侯面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Itwill turn out as a testimony for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但这些事终必为你们的见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但這些事終必為你們的見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Settleit therefore in your hearts not to meditate beforehand how to answer,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们当立定心意，不要预先思想怎样分诉；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們當立定心意，不要預先思想怎樣分訴；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "forI will give you a mouth and wisdom which all your adversaries will not be able to withstand or to contradict.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我必赐你们口才、智慧，是你们一切敌人所敌不住、驳不倒的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我必賜你們口才、智慧，是你們一切敵人所敵不住、駁不倒的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Youwill be handed over even by parents, brothers, relatives, and friends. They will cause some of you to be put to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "连你们的父母、弟兄、亲族、朋友也要把你们交官；你们也有被他们害死的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "連你們的父母、弟兄、親族、朋友也要把你們交官；你們也有被他們害死的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Youwill be hated by all men for my name’s sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要为我的名被众人恨恶，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要為我的名被眾人恨惡，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Andnot a hair of your head will perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，你们连一根头发也必不损坏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，你們連一根頭髮也必不損壞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Byyour endurance you will win your lives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们常存忍耐，就必保全灵魂。」 （太24·15—21；可13·14—19）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:19 或译：必得生命"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們常存忍耐，就必保全靈魂。」 （太24‧15－21；可13‧14－19）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:19 或譯：必得生命"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Butwhen you see Jerusalem surrounded by armies, then know that its desolation is at hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们看见耶路撒冷被兵围困，就可知道它成荒场的日子近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們看見耶路撒冷被兵圍困，就可知道它成荒場的日子近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Thenlet those who are in Judea flee to the mountains. Let those who are in the middle of her depart. Let those who are in the country not enter therein.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，在犹太的应当逃到山上；在城里的应当出来；在乡下的不要进城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，在猶太的應當逃到山上；在城裏的應當出來；在鄉下的不要進城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Forthese are days of vengeance, that all things which are written may be fulfilled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为这是报应的日子，使经上所写的都得应验。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為這是報應的日子，使經上所寫的都得應驗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Woeto those who are pregnant and to those who nurse infants in those days! For there will be great distress in the land and wrath to this people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那些日子，怀孕的和奶孩子的有祸了！因为将有大灾难降在这地方，也有震怒临到这百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那些日子，懷孕的和奶孩子的有禍了！因為將有大災難降在這地方，也有震怒臨到這百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Theywill fall by the edge of the sword, and will be led captive into all the nations. Jerusalem will be trampled down by the Gentiles until the times of the Gentiles are fulfilled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要倒在刀下，又被掳到各国去。耶路撒冷要被外邦人践踏，直到外邦人的日期满了。」 （太24·29—31；可13·24—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要倒在刀下，又被擄到各國去。耶路撒冷要被外邦人踐踏，直到外邦人的日期滿了。」 （太24‧29－31；可13‧24－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“Therewill be signs in the sun, moon, and stars; and on the earth anxiety of nations, in perplexity for the roaring of the sea and the waves;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「日、月、星辰要显出异兆，地上的邦国也有困苦；因海中波浪的响声，就慌慌不定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「日、月、星辰要顯出異兆，地上的邦國也有困苦；因海中波浪的響聲，就慌慌不定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "menfainting for fear and for expectation of the things which are coming on the world, for the powers of the heavens will be shaken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天势都要震动，人想起那将要临到世界的事，就都吓得魂不附体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天勢都要震動，人想起那將要臨到世界的事，就都嚇得魂不附體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Thenthey will see the Son of Man coming in a cloud with power and great glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，他们要看见人子有能力，有大荣耀驾云降临。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，他們要看見人子有能力，有大榮耀駕雲降臨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Butwhen these things begin to happen, look up and lift up your heads, because your redemption is near.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一有这些事，你们就当挺身昂首，因为你们得赎的日子近了。」 （太24·32—35；可13·28—31）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一有這些事，你們就當挺身昂首，因為你們得贖的日子近了。」 （太24‧32－35；可13‧28－31）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He told them a parable. “Seethe fig tree and all the trees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29-30",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又设比喻对他们说：「你们看无花果树和各样的树；它发芽的时候，你们一看见，自然晓得夏天近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又設比喻對他們說：「你們看無花果樹和各樣的樹；它發芽的時候，你們一看見，自然曉得夏天近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Whenthey are already budding, you see it and know by your own selves that the summer is already near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Evenso you also, when you see these things happening, know that God’s Kingdom is near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你们看见这些事渐渐地成就，也该晓得 神的国近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你們看見這些事漸漸地成就，也該曉得上帝的國近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Most certainlyI tell you, this generation will not pass away until all things are accomplished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，这世代还没有过去，这些事都要成就。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，這世代還沒有過去，這些事都要成就。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Heavenand earth will pass away, but my words will by no means pass away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天地要废去，我的话却不能废去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天地要廢去，我的話卻不能廢去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“Sobe careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要谨慎，恐怕因贪食、醉酒，并今生的思虑累住你们的心，那日子就如同网罗忽然临到你们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要謹慎，恐怕因貪食、醉酒，並今生的思慮累住你們的心，那日子就如同網羅忽然臨到你們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Forit will come like a snare on all those who dwell on the surface of all the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为那日子要这样临到全地上一切居住的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為那日子要這樣臨到全地上一切居住的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Thereforebe watchful all the time, praying that you may be counted worthy to escape all these things that will happen, and to stand before the Son of Man.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要时时警醒，常常祈求，使你们能逃避这一切要来的事，得以站立在人子面前。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要時時警醒，常常祈求，使你們能逃避這一切要來的事，得以站立在人子面前。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Every day Jesus was teaching in the temple, and every night he would go out and spend the night on the mountain that is called Olivet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣每日在殿里教训人，每夜出城在一座山，名叫橄榄山住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌每日在殿裏教訓人，每夜出城在一座山，名叫橄欖山住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "All the people came early in the morning to him in the temple to hear him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众百姓清早上圣殿，到耶稣那里，要听他讲道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾百姓清早上聖殿，到耶穌那裏，要聽他講道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

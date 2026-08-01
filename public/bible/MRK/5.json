@@ -1,0 +1,783 @@
+{
+  "bookId": "MRK",
+  "chapter": 5,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "They came to the other side of the sea, into the country of the Gadarenes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来到海那边格拉森人的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來到海那邊格拉森人的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When he had come out of the boat, immediately a man with an unclean spirit met him out of the tombs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣一下船，就有一个被污鬼附着的人从坟茔里出来迎着他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌一下船，就有一個被污鬼附着的人從墳塋裏出來迎着他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He lived in the tombs. Nobody could bind him any more, not even with chains,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人常住在坟茔里，没有人能捆住他，就是用铁链也不能；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人常住在墳塋裏，沒有人能捆住他，就是用鐵鍊也不能；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "because he had been often bound with fetters and chains, and the chains had been torn apart by him, and the fetters broken in pieces. Nobody had the strength to tame him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人屡次用脚镣和铁链捆锁他，铁链竟被他挣断了，脚镣也被他弄碎了；总没有人能制伏他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人屢次用腳鐐和鐵鍊捆鎖他，鐵鍊竟被他掙斷了，腳鐐也被他弄碎了；總沒有人能制伏他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Always, night and day, in the tombs and in the mountains, he was crying out, and cutting himself with stones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他昼夜常在坟茔里和山中喊叫，又用石头砍自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他晝夜常在墳塋裏和山中喊叫，又用石頭砍自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When he saw Jesus from afar, he ran and bowed down to him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他远远地看见耶稣，就跑过去拜他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他遠遠地看見耶穌，就跑過去拜他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and crying out with a loud voice, he said, “What have I to do with you, Jesus, you Son of the Most High God? I adjure you by God, don’t torment me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大声呼叫说：「至高 神的儿子耶稣，我与你有什么相干？我指着 神恳求你，不要叫我受苦！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大聲呼叫說：「至高上帝的兒子耶穌，我與你有甚麼相干？我指着上帝懇求你，不要叫我受苦！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For he said to him, “Comeout of the man, you unclean spirit!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是因耶稣曾吩咐他说：「污鬼啊，从这人身上出来吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是因耶穌曾吩咐他說：「污鬼啊，從這人身上出來吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He asked him, “Whatis your name?” He said to him, “My name is Legion, for we are many.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣问他说：「你名叫什么？」回答说：「我名叫『群』，因为我们多的缘故」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌問他說：「你名叫甚麼？」回答說：「我名叫『群』，因為我們多的緣故」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He begged him much that he would not send them away out of the country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就再三地求耶稣，不要叫他们离开那地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就再三地求耶穌，不要叫他們離開那地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now on the mountainside there was a great herd of pigs feeding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里山坡上，有一大群猪吃食；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏山坡上，有一大群豬吃食；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "All the demons begged him, saying, “Send us into the pigs, that we may enter into them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鬼就央求耶稣说：「求你打发我们往猪群里，附着猪去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鬼就央求耶穌說：「求你打發我們往豬群裏，附着豬去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "At once Jesus gave them permission. The unclean spirits came out and entered into the pigs. The herd of about two thousand rushed down the steep bank into the sea, and they were drowned in the sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣准了他们，污鬼就出来，进入猪里去。于是那群猪闯下山崖，投在海里，淹死了。猪的数目约有二千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌准了他們，污鬼就出來，進入豬裏去。於是那群豬闖下山崖，投在海裏，淹死了。豬的數目約有二千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Those who fed the pigs fled, and told it in the city and in the country. The people came to see what it was that had happened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "放猪的就逃跑了，去告诉城里和乡下的人。众人就来，要看是什么事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "放豬的就逃跑了，去告訴城裏和鄉下的人。眾人就來，要看是甚麼事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "They came to Jesus, and saw him who had been possessed by demons sitting, clothed, and in his right mind, even him who had the legion; and they were afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来到耶稣那里，看见那被鬼附着的人，就是从前被群鬼所附的，坐着，穿上衣服，心里明白过来，他们就害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來到耶穌那裏，看見那被鬼附着的人，就是從前被群鬼所附的，坐着，穿上衣服，心裏明白過來，他們就害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Those who saw it declared to them what happened to him who was possessed by demons, and about the pigs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见这事的，便将鬼附之人所遇见的和那群猪的事都告诉了众人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見這事的，便將鬼附之人所遇見的和那群豬的事都告訴了眾人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They began to beg him to depart from their region.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人就央求耶稣离开他们的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人就央求耶穌離開他們的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "As he was entering into the boat, he who had been possessed by demons begged him that he might be with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣上船的时候，那从前被鬼附着的人恳求和耶稣同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌上船的時候，那從前被鬼附着的人懇求和耶穌同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He didn’t allow him, but said to him, “Goto your house, to your friends, and tell them what great things the Lord has done for you and how he had mercy on you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣不许，却对他说：「你回家去，到你的亲属那里，将主为你所做的是何等大的事，是怎样怜悯你，都告诉他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌不許，卻對他說：「你回家去，到你的親屬那裏，將主為你所做的是何等大的事，是怎樣憐憫你，都告訴他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He went his way, and began to proclaim in Decapolis how Jesus had done great things for him, and everyone marveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人就走了，在低加坡里传扬耶稣为他做了何等大的事，众人就都希奇。 （太9·18—26；路8·40—56）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人就走了，在低加坡里傳揚耶穌為他做了何等大的事，眾人就都希奇。 （太9‧18－26；路8‧40－56）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "When Jesus had crossed back over in the boat to the other side, a great multitude was gathered to him; and he was by the sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣坐船又渡到那边去，就有许多人到他那里聚集；他正在海边上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌坐船又渡到那邊去，就有許多人到他那裏聚集；他正在海邊上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Behold, one of the rulers of the synagogue, Jairus by name, came; and seeing him, he fell at his feet",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个管会堂的人，名叫睚鲁，来见耶稣，就俯伏在他脚前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個管會堂的人，名叫睚魯，來見耶穌，就俯伏在他腳前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and begged him much, saying, “My little daughter is at the point of death. Please come and lay your hands on her, that she may be made healthy, and live.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再三地求他，说：「我的小女儿快要死了，求你去按手在她身上，使她痊愈，得以活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再三地求他，說：「我的小女兒快要死了，求你去按手在她身上，使她痊癒，得以活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He went with him, and a great multitude followed him, and they pressed upon him on all sides.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就和他同去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就和他同去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "A certain woman who had a discharge of blood for twelve years,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个女人，患了十二年的血漏，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個女人，患了十二年的血漏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "and had suffered many things by many physicians, and had spent all that she had, and was no better, but rather grew worse,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在好些医生手里受了许多的苦，又花尽了她所有的，一点也不见好，病势反倒更重了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在好些醫生手裏受了許多的苦，又花盡了她所有的，一點也不見好，病勢反倒更重了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "having heard the things concerning Jesus, came up behind him in the crowd and touched his clothes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她听见耶稣的事，就从后头来，杂在众人中间，摸耶稣的衣裳，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她聽見耶穌的事，就從後頭來，雜在眾人中間，摸耶穌的衣裳，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "For she said, “If I just touch his clothes, I will be made well.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "意思说：「我只摸他的衣裳，就必痊愈。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "意思說：「我只摸他的衣裳，就必痊癒。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Immediately the flow of her blood was dried up, and she felt in her body that she was healed of her affliction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是她血漏的源头立刻干了；她便觉得身上的灾病好了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是她血漏的源頭立刻乾了；她便覺得身上的災病好了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Immediately Jesus, perceiving in himself that the power had gone out from him, turned around in the crowd and asked, “Whotouched my clothes?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣顿时心里觉得有能力从自己身上出去，就在众人中间转过来，说：「谁摸我的衣裳？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌頓時心裏覺得有能力從自己身上出去，就在眾人中間轉過來，說：「誰摸我的衣裳？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "His disciples said to him, “You see the multitude pressing against you, and you say, ‘Who touched me?’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒对他说：「你看众人拥挤你，还说『谁摸我』吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒對他說：「你看眾人擁擠你，還說『誰摸我』嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He looked around to see her who had done this thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣周围观看，要见做这事的女人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌周圍觀看，要見做這事的女人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "But the woman, fearing and trembling, knowing what had been done to her, came and fell down before him, and told him all the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那女人知道在自己身上所成的事，就恐惧战兢，来俯伏在耶稣跟前，将实情全告诉他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那女人知道在自己身上所成的事，就恐懼戰兢，來俯伏在耶穌跟前，將實情全告訴他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He said to her, “Daughter, your faith has made you well. Go in peace, and be cured of your disease.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对她说：「女儿，你的信救了你，平平安安地回去吧！你的灾病痊愈了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對她說：「女兒，你的信救了你，平平安安地回去吧！你的災病痊癒了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "While he was still speaking, people came from the synagogue ruler’s house, saying, “Your daughter is dead. Why bother the Teacher any more?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还说话的时候，有人从管会堂的家里来，说：「你的女儿死了，何必还劳动先生呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還說話的時候，有人從管會堂的家裏來，說：「你的女兒死了，何必還勞動先生呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "But Jesus, when he heard the message spoken, immediately said to the ruler of the synagogue, “Don’tbe afraid, only believe.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣听见所说的话，就对管会堂的说：「不要怕，只要信！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌聽見所說的話，就對管會堂的說：「不要怕，只要信！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He allowed no one to follow him except Peter, James, and John the brother of James.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是带着彼得、雅各，和雅各的兄弟约翰同去，不许别人跟随他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是帶着彼得、雅各，和雅各的兄弟約翰同去，不許別人跟隨他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He came to the synagogue ruler’s house, and he saw an uproar, weeping, and great wailing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来到管会堂的家里；耶稣看见那里乱嚷，并有人大大地哭泣哀号，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來到管會堂的家裏；耶穌看見那裏亂嚷，並有人大大地哭泣哀號，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "When he had entered in, he said to them, “Whydo you make an uproar and weep? The child is not dead, but is asleep.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "进到里面，就对他们说：「为什么乱嚷哭泣呢？孩子不是死了，是睡着了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "進到裏面，就對他們說：「為甚麼亂嚷哭泣呢？孩子不是死了，是睡着了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "They ridiculed him. But he, having put them all out, took the father of the child, her mother, and those who were with him, and went in where the child was lying.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就嗤笑耶稣。耶稣把他们都撵出去，就带着孩子的父母和跟随的人进了孩子所在的地方，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就嗤笑耶穌。耶穌把他們都攆出去，就帶着孩子的父母和跟隨的人進了孩子所在的地方，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Taking the child by the hand, he said to her, “Talithacumi!” which means, being interpreted, “Girl, I tell you, get up!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就拉着孩子的手，对她说：「大利大，古米！」（翻出来就是说：「闺女，我吩咐你起来！」）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就拉着孩子的手，對她說：「大利大，古米！」（翻出來就是說：「閨女，我吩咐你起來！」）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Immediately the girl rose up and walked, for she was twelve years old. They were amazed with great amazement.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那闺女立时起来走。他们就大大地惊奇；闺女已经十二岁了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那閨女立時起來走。他們就大大地驚奇；閨女已經十二歲了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He strictly ordered them that no one should know this, and commanded that something should be given to her to eat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣切切地嘱咐他们，不要叫人知道这事，又吩咐给她东西吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌切切地囑咐他們，不要叫人知道這事，又吩咐給她東西吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

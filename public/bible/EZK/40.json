@@ -1,0 +1,954 @@
+{
+  "bookId": "EZK",
+  "chapter": 40,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, the LORD’s hand was on me, and he brought me there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们被掳掠第二十五年，耶路撒冷城攻破后十四年，正在年初，月之初十日，耶和华的灵降在我身上，他把我带到以色列地。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:1 原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們被擄掠第二十五年，耶路撒冷城攻破後十四年，正在年初，月之初十日，耶和華的靈降在我身上，他把我帶到以色列地。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:1 原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "In the visions of God he brought me into the land of Israel, and set me down on a very high mountain, on which was something like the frame of a city to the south.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在 神的异象中带我到以色列地，安置在至高的山上；在山上的南边有仿佛一座城建立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在上帝的異象中帶我到以色列地，安置在至高的山上；在山上的南邊有彷彿一座城建立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He brought me there; and, behold, there was a man whose appearance was like the appearance of bronze, with a line of flax in his hand and a measuring reed; and he stood in the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我到那里，见有一人，颜色如铜，手拿麻绳和量度的竿，站在门口。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:3 原文是形状"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我到那裏，見有一人，顏色如銅，手拿麻繩和量度的竿，站在門口。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:3 原文是形狀"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The man said to me, “Son of man, see with your eyes, and hear with your ears, and set your heart on all that I will show you; for you have been brought here so that I may show them to you. Declare all that you see to the house of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人对我说：「人子啊，凡我所指示你的，你都要用眼看，用耳听，并要放在心上。我带你到这里来，特为要指示你；凡你所见的，你都要告诉以色列家。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人對我說：「人子啊，凡我所指示你的，你都要用眼看，用耳聽，並要放在心上。我帶你到這裏來，特為要指示你；凡你所見的，你都要告訴以色列家。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Behold, there was a wall on the outside of the house all around, and in the man’s hand a measuring reed six cubits long, of a cubit and a hand width each. So he measured the thickness of the building, one reed; and the height, one reed.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "40:5 A normal cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A handbreadth is about 4.3 inches or 11 centimeters, so the long cubit described here would be about 22.3 inches or 57 centimeters long. Thus, a 6 long cubit measuring reed would have been about 3 yards 26.6 inches or about 3.42 meters long."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见殿四围有墙。那人手拿量度的竿，长六肘，每肘是一肘零一掌。他用竿量墙，厚一竿，高一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見殿四圍有牆。那人手拿量度的竿，長六肘，每肘是一肘零一掌。他用竿量牆，厚一竿，高一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Then he came to the gate which looks toward the east, and went up its steps. He measured the threshold of the gate, one reed wide; and the other threshold, one reed wide.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他到了朝东的门，就上门的台阶，量门的这槛，宽一竿；又量门的那槛，宽一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他到了朝東的門，就上門的臺階，量門的這檻，寬一竿；又量門的那檻，寬一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Every lodge was one reed long and one reed wide. Between the lodges was five cubits. The threshold of the gate by the porch of the gate toward the house was one reed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有卫房，每房长一竿，宽一竿，相隔五肘。门槛，就是挨着向殿的廊门槛，宽一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有衛房，每房長一竿，寬一竿，相隔五肘。門檻，就是挨着向殿的廊門檻，寬一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He measured also the porch of the gate toward the house, one reed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又量向殿门的廊子，宽一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又量向殿門的廊子，寬一竿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then he measured the porch of the gate, eight cubits; and its posts, two cubits; and the porch of the gate was toward the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又量门廊，宽八肘，墙柱厚二肘；那门的廊子向着殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又量門廊，寬八肘，牆柱厚二肘；那門的廊子向着殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The side rooms of the gate eastward were three on this side, and three on that side. The three of them were of one measure. The posts had one measure on this side and on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "东门洞有卫房：这旁三间，那旁三间，都是一样的尺寸；这边的柱子和那边的柱子，也是一样的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "東門洞有衛房：這旁三間，那旁三間，都是一樣的尺寸；這邊的柱子和那邊的柱子，也是一樣的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He measured the width of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他量门口，宽十肘，长十三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他量門口，寬十肘，長十三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and a border before the lodges, one cubit on this side, and a border, one cubit on that side; and the side rooms, six cubits on this side, and six cubits on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "卫房前展出的境界：这边一肘，那边一肘；卫房这边六肘，那边六肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "衛房前展出的境界：這邊一肘，那邊一肘；衛房這邊六肘，那邊六肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He measured the gate from the roof of the one side room to the roof of the other, a width of twenty-five cubits, door against door.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又量门洞，从这卫房顶的后檐到那卫房顶的后檐，宽二十五肘；卫房门与门相对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又量門洞，從這衛房頂的後檐到那衛房頂的後檐，寬二十五肘；衛房門與門相對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He also made posts, sixty cubits; and the court reached to the posts, around the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又量廊子六十肘，墙柱外是院子，有廊为界，在门洞两边。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:14 原文是造"
+          },
+          {
+            "id": "f2",
+            "text": "- 40:14 七十士译本是二十肘"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又量廊子六十肘，牆柱外是院子，有廊為界，在門洞兩邊。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:14 原文是造"
+          },
+          {
+            "id": "f2",
+            "text": "- 40:14 七十士譯本是二十肘"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "From the forefront of the gate at the entrance to the forefront of the inner porch of the gate were fifty cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从大门口到内廊前，共五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從大門口到內廊前，共五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "There were closed windows to the side rooms, and to their posts within the gate all around, and likewise to the arches. Windows were around inward. Palm trees were on each post.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "卫房和门洞两旁柱间并廊子，都有严紧的窗棂；里边都有窗棂，柱上有雕刻的棕树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "衛房和門洞兩旁柱間並廊子，都有嚴緊的窗櫺；裏邊都有窗櫺，柱上有雕刻的棕樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Then he brought me into the outer court. Behold, there were rooms and a pavement made for the court all around. Thirty rooms were on the pavement.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我到外院，见院的四围有铺石地；铺石地上有屋子三十间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我到外院，見院的四圍有鋪石地；鋪石地上有屋子三十間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The pavement was by the side of the gates, corresponding to the length of the gates, even the lower pavement.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "铺石地，就是矮铺石地在各门洞两旁，以门洞的长短为度。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鋪石地，就是矮鋪石地在各門洞兩旁，以門洞的長短為度。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Then he measured the width from the forefront of the lower gate to the forefront of the inner court outside, one hundred cubits, both on the east and on the north.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从下门量到内院外，共宽一百肘，东面北面都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從下門量到內院外，共寬一百肘，東面北面都是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He measured the length and width of the gate of the outer court which faces toward the north.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他量外院朝北的门，长宽若干。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他量外院朝北的門，長寬若干。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The lodges of it were three on this side and three on that side. Its posts and its arches were the same as the measure of the first gate: its length was fifty cubits, and the width twenty-five cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门洞的卫房，这旁三间，那旁三间。门洞的柱子和廊子，与第一门的尺寸一样。门洞长五十肘，宽二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門洞的衛房，這旁三間，那旁三間。門洞的柱子和廊子，與第一門的尺寸一樣。門洞長五十肘，寬二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Its windows, its arches, and its palm trees were the same as the measure of the gate which faces toward the east. They went up to it by seven steps. Its arches were before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其窗棂和廊子，并雕刻的棕树，与朝东的门尺寸一样。登七层台阶上到这门，前面有廊子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其窗櫺和廊子，並雕刻的棕樹，與朝東的門尺寸一樣。登七層臺階上到這門，前面有廊子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "There was a gate to the inner court facing the other gate, on the north and on the east. He measured one hundred cubits from gate to gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内院有门与这门相对，北面东面都是如此。他从这门量到那门，共一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內院有門與這門相對，北面東面都是如此。他從這門量到那門，共一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He led me toward the south; and behold, there was a gate toward the south. He measured its posts and its arches according to these measurements.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我往南去，见朝南有门，又照先前的尺寸量门洞的柱子和廊子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我往南去，見朝南有門，又照先前的尺寸量門洞的柱子和廊子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There were windows in it and in its arches all around, like the other windows: the length was fifty cubits, and the width twenty-five cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门洞两旁与廊子的周围都有窗棂，和先量的窗棂一样。门洞长五十肘，宽二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門洞兩旁與廊子的周圍都有窗櫺，和先量的窗櫺一樣。門洞長五十肘，寬二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "There were seven steps to go up to it, and its arches were before them. It had palm trees, one on this side, and another on that side, on its posts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "登七层台阶上到这门，前面有廊子；柱上有雕刻的棕树，这边一棵，那边一棵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "登七層臺階上到這門，前面有廊子；柱上有雕刻的棕樹，這邊一棵，那邊一棵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "There was a gate to the inner court toward the south. He measured one hundred cubits from gate to gate toward the south.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内院朝南有门。从这门量到朝南的那门，共一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內院朝南有門。從這門量到朝南的那門，共一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Then he brought me to the inner court by the south gate. He measured the south gate according to these measurements;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我从南门到内院，就照先前的尺寸量南门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我從南門到內院，就照先前的尺寸量南門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "卫房和柱子，并廊子都照先前的尺寸。门洞两旁与廊子的周围都有窗棂。门洞长五十肘，宽二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "衛房和柱子，並廊子都照先前的尺寸。門洞兩旁與廊子的周圍都有窗櫺。門洞長五十肘，寬二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "There were arches all around, twenty-five cubits long and five cubits wide.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "周围有廊子，长二十五肘，宽五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "周圍有廊子，長二十五肘，寬五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Its arches were toward the outer court. Palm trees were on its posts. The ascent to it had eight steps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊子朝着外院，柱上有雕刻的棕树。登八层台阶上到这门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊子朝着外院，柱上有雕刻的棕樹。登八層臺階上到這門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He brought me into the inner court toward the east. He measured the gate according to these measurements;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我到内院的东面，就照先前的尺寸量东门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我到內院的東面，就照先前的尺寸量東門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "卫房和柱子，并廊子都照先前的尺寸。门洞两旁与廊子的周围都有窗棂。门洞长五十肘，宽二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "衛房和柱子，並廊子都照先前的尺寸。門洞兩旁與廊子的周圍都有窗櫺。門洞長五十肘，寬二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Its arches were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊子朝着外院。门洞两旁的柱子都有雕刻的棕树。登八层台阶上到这门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊子朝着外院。門洞兩旁的柱子都有雕刻的棕樹。登八層臺階上到這門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He brought me to the north gate, and he measured it according to these measurements—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我到北门，就照先前的尺寸量那门，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我到北門，就照先前的尺寸量那門，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "its lodges, its posts, and its arches. There were windows in it all around. The length was fifty cubits and the width twenty-five cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是量卫房和柱子，并廊子。门洞周围都有窗棂；门洞长五十肘，宽二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是量衛房和柱子，並廊子。門洞周圍都有窗櫺；門洞長五十肘，寬二十五肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Its posts were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊柱朝着外院。门洞两旁的柱子都有雕刻的棕树。登八层台阶上到这门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊柱朝着外院。門洞兩旁的柱子都有雕刻的棕樹。登八層臺階上到這門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "A room with its door was by the posts at the gates. They washed the burnt offering there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门洞的柱旁有屋子和门；祭司在那里洗燔祭牲。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:38 原文是他们"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門洞的柱旁有屋子和門；祭司在那裏洗燔祭牲。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:38 原文是他們"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "In the porch of the gate were two tables on this side and two tables on that side, on which to kill the burnt offering, the sin offering, and the trespass offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在门廊内，这边有两张桌子，那边有两张桌子，在其上可以宰杀燔祭牲、赎罪祭牲，和赎愆祭牲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在門廊內，這邊有兩張桌子，那邊有兩張桌子，在其上可以宰殺燔祭牲、贖罪祭牲，和贖愆祭牲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "On the one side outside, as one goes up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "上到朝北的门口，这边有两张桌子，门廊那边也有两张桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上到朝北的門口，這邊有兩張桌子，門廊那邊也有兩張桌子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Four tables were on this side, and four tables on that side, by the side of the gate: eight tables, on which they killed the sacrifices.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门这边有四张桌子，那边有四张桌子，共八张；在其上祭司宰杀牺牲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門這邊有四張桌子，那邊有四張桌子，共八張；在其上祭司宰殺犧牲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "There were four cut stone tables for the burnt offering, a cubit and a half long, a cubit and a half wide, and one cubit high. They laid the instruments with which they killed the burnt offering and the sacrifice on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为燔祭牲有四张桌子，是凿过的石头做成的，长一肘半，宽一肘半，高一肘。祭司将宰杀燔祭牲和平安祭牲所用的器皿放在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為燔祭牲有四張桌子，是鑿過的石頭做成的，長一肘半，寬一肘半，高一肘。祭司將宰殺燔祭牲和平安祭牲所用的器皿放在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "The hooks, a hand width long, were fastened within all around. The meat of the offering was on the tables.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有钩子，宽一掌，钉在廊内的四围。桌子上有牺牲的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有鉤子，寬一掌，釘在廊內的四圍。桌子上有犧牲的肉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Outside of the inner gate were rooms for the singers in the inner court, which was at the side of the north gate. They faced toward the south. One at the side of the east gate faced toward the north.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在北门旁，内院里有屋子，为歌唱的人而设。这屋子朝南；在南门旁，又有一间朝北。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:44 南：原文是东"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在北門旁，內院裏有屋子，為歌唱的人而設。這屋子朝南；在南門旁，又有一間朝北。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:44 南：原文是東"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "He said to me, “This room, which faces toward the south, is for the priests who perform the duty of the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「这朝南的屋子是为看守殿宇的祭司；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「這朝南的屋子是為看守殿宇的祭司；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "The room which faces toward the north is for the priests who perform the duty of the altar. These are the sons of Zadok, who from among the sons of Levi come near to the LORD to minister to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那朝北的屋子是为看守祭坛的祭司。这些祭司是利未人中撒督的子孙，近前来事奉耶和华的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那朝北的屋子是為看守祭壇的祭司。這些祭司是利未人中撒督的子孫，近前來事奉耶和華的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "He measured the court, one hundred cubits long and one hundred cubits wide, square. The altar was before the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又量内院，长一百肘，宽一百肘，是见方的。祭坛在殿前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又量內院，長一百肘，寬一百肘，是見方的。祭壇在殿前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他带我到殿前的廊子，量廊子的墙柱。这面厚五肘，那面厚五肘。门两旁，这边三肘，那边三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他帶我到殿前的廊子，量廊子的牆柱。這面厚五肘，那面厚五肘。門兩旁，這邊三肘，那邊三肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "The length of the porch was twenty cubits and the width eleven cubits, even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "廊子长二十肘，宽十一肘。上廊子有台阶。靠近墙柱又有柱子，这边一根，那边一根。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "廊子長二十肘，寬十一肘。上廊子有臺階。靠近牆柱又有柱子，這邊一根，那邊一根。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

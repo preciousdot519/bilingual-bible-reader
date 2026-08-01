@@ -1,0 +1,1019 @@
+{
+  "bookId": "LUK",
+  "chapter": 11,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When he finished praying in a certain place, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣在一个地方祷告；祷告完了，有个门徒对他说：「求主教导我们祷告，像约翰教导他的门徒。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌在一個地方禱告；禱告完了，有個門徒對他說：「求主教導我們禱告，像約翰教導他的門徒。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said to them, “Whenyou pray, say, ‘OurFather in heaven, mayyour name be kept holy. Mayyour Kingdom come. Mayyour will be done on earth, as it is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们祷告的时候，要说： 我们在天上的父： 愿人都尊你的名为圣。 愿你的国降临； 愿你的旨意行在地上， 如同行在天上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:2 有古卷：父啊"
+          },
+          {
+            "id": "f2",
+            "text": "- 11:2 有古卷没有愿你的旨意…"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們禱告的時候，要說： 我們在天上的父： 願人都尊你的名為聖。 願你的國降臨； 願你的旨意行在地上， 如同行在天上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:2 有古卷：父啊"
+          },
+          {
+            "id": "f2",
+            "text": "- 11:2 有古卷沒有願你的旨意…"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Giveus day by day our daily bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们日用的饮食， 天天赐给我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們日用的飲食， 天天賜給我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Forgive usour sins, forwe ourselves also forgive everyone who is indebted to us. Bringus not into temptation, butdeliver us from the evil one.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "赦免我们的罪， 因为我们也赦免凡亏欠我们的人。 不叫我们遇见试探； 救我们脱离凶恶。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:4 有古卷没有末句"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "赦免我們的罪， 因為我們也赦免凡虧欠我們的人。 不叫我們遇見試探； 救我們脫離凶惡。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:4 有古卷沒有末句"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said to them, “Whichof you, if you go to a friend at midnight and tell him, ‘Friend, lend me three loaves of bread,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又说：「你们中间谁有一个朋友半夜到他那里去，说：『朋友！请借给我三个饼；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又說：「你們中間誰有一個朋友半夜到他那裏去，說：『朋友！請借給我三個餅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "fora friend of mine has come to me from a journey, and I have nothing to set before him,’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我有一个朋友行路，来到我这里，我没有什么给他摆上。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我有一個朋友行路，來到我這裏，我沒有甚麼給他擺上。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "andhe from within will answer and say, ‘Don’t bother me. The door is now shut, and my children are with me in bed. I can’t get up and give it to you’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人在里面回答说：『不要搅扰我，门已经关闭，孩子们也同我在床上了，我不能起来给你。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人在裏面回答說：『不要攪擾我，門已經關閉，孩子們也同我在床上了，我不能起來給你。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Itell you, although he will not rise and give it to him because he is his friend, yet because of his persistence, he will get up and give him as many as he needs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我告诉你们，虽不因他是朋友起来给他，但因他情词迫切地直求，就必起来照他所需用的给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我告訴你們，雖不因他是朋友起來給他，但因他情詞迫切地直求，就必起來照他所需用的給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“Itell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又告诉你们，你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又告訴你們，你們祈求，就給你們；尋找，就尋見；叩門，就給你們開門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Foreveryone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，凡祈求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，凡祈求的，就得着；尋找的，就尋見；叩門的，就給他開門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“Whichof you fathers, if your son asks for bread, will give him a stone? Or if he asks for a fish, he won’ t give him a snake instead of a fish, will he?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间作父亲的，谁有儿子求饼，反给他石头呢？求鱼，反拿蛇当鱼给他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間作父親的，誰有兒子求餅，反給他石頭呢？求魚，反拿蛇當魚給他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Orif he asks for an egg, he won’t give him a scorpion, will he?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求鸡蛋，反给他蝎子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求雞蛋，反給他蠍子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Ifyou then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们虽然不好，尚且知道拿好东西给儿女；何况天父，岂不更将圣灵给求他的人吗？」 （太12·22—30；可3·20—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們雖然不好，尚且知道拿好東西給兒女；何況天父，豈不更將聖靈給求他的人嗎？」 （太12‧22－30；可3‧20－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He was casting out a demon, and it was mute. When the demon had gone out, the mute man spoke; and the multitudes marveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣赶出一个叫人哑巴的鬼；鬼出去了，哑巴就说出话来；众人都希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌趕出一個叫人啞巴的鬼；鬼出去了，啞巴就說出話來；眾人都希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But some of them said, “He casts out demons by Beelzebul, the prince of the demons.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内中却有人说：「他是靠着鬼王别西卜赶鬼。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內中卻有人說：「他是靠着鬼王別西卜趕鬼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Others, testing him, sought from him a sign from heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有人试探耶稣，向他求从天上来的神迹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有人試探耶穌，向他求從天上來的神蹟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But he, knowing their thoughts, said to them, “Everykingdom divided against itself is brought to desolation. A house divided against itself falls.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他晓得他们的意念，便对他们说：「凡一国自相纷争，就成为荒场；凡一家自相纷争，就必败落。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他曉得他們的意念，便對他們說：「凡一國自相紛爭，就成為荒場；凡一家自相紛爭，就必敗落。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "IfSatan also is divided against himself, how will his kingdom stand? For you say that I cast out demons by Beelzebul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若撒但自相纷争，他的国怎能站得住呢？因为你们说我是靠着别西卜赶鬼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若撒但自相紛爭，他的國怎能站得住呢？因為你們說我是靠着別西卜趕鬼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Butif I cast out demons by Beelzebul, by whom do your children cast them out? Therefore they will be your judges.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若靠着别西卜赶鬼，你们的子弟赶鬼又靠着谁呢？这样，他们就要断定你们的是非。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若靠着別西卜趕鬼，你們的子弟趕鬼又靠着誰呢？這樣，他們就要斷定你們的是非。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Butif I by God’s finger cast out demons, then God’s Kingdom has come to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若靠着 神的能力赶鬼，这就是 神的国临到你们了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若靠着上帝的能力趕鬼，這就是上帝的國臨到你們了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Whenthe strong man, fully armed, guards his own dwelling, his goods are safe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "壮士披挂整齐，看守自己的住宅，他所有的都平安无事；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "壯士披掛整齊，看守自己的住宅，他所有的都平安無事；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Butwhen someone stronger attacks him and overcomes him, he takes from him his whole armor in which he trusted, and divides his plunder.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但有一个比他更壮的来，胜过他，就夺去他所倚靠的盔甲兵器，又分了他的赃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但有一個比他更壯的來，勝過他，就奪去他所倚靠的盔甲兵器，又分了他的贓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Hewho is not with me is against me. He who doesn’ t gather with me scatters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不与我相合的，就是敌我的；不同我收聚的，就是分散的。」 （太12·43—45）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不與我相合的，就是敵我的；不同我收聚的，就是分散的。」 （太12‧43－45）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Theunclean spirit, when he has gone out of the man, passes through dry places, seeking rest; and finding none, he says, ‘I will turn back to my house from which I came out.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「污鬼离了人身，就在无水之地过来过去，寻求安歇之处；既寻不着，便说：『我要回到我所出来的屋里去。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「污鬼離了人身，就在無水之地過來過去，尋求安歇之處；既尋不着，便說：『我要回到我所出來的屋裏去。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Whenhe returns, he finds it swept and put in order.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了，就看见里面打扫干净，修饰好了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了，就看見裏面打掃乾淨，修飾好了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Thenhe goes and takes seven other spirits more evil than himself, and they enter in and dwell there. The last state of that man becomes worse than the first.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便去另带了七个比自己更恶的鬼来，都进去住在那里。那人末后的景况比先前更不好了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便去另帶了七個比自己更惡的鬼來，都進去住在那裏。那人末後的景況比先前更不好了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "It came to pass, as he said these things, a certain woman out of the multitude lifted up her voice and said to him, “Blessed is the womb that bore you, and the breasts which nursed you!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣正说这话的时候，众人中间有一个女人大声说：「怀你胎的和乳养你的有福了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌正說這話的時候，眾人中間有一個女人大聲說：「懷你胎的和乳養你的有福了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "But he said, “Onthe contrary, blessed are those who hear the word of God, and keep it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「是，却还不如听 神之道而遵守的人有福。」 （太12·38—42）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「是，卻還不如聽上帝之道而遵守的人有福。」 （太12‧38－42）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "When the multitudes were gathering together to him, he began to say, “Thisis an evil generation. It seeks after a sign. No sign will be given to it but the sign of Jonah the prophet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当众人聚集的时候，耶稣开讲说：「这世代是一个邪恶的世代。他们求看神迹，除了约拿的神迹以外，再没有神迹给他们看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當眾人聚集的時候，耶穌開講說：「這世代是一個邪惡的世代。他們求看神蹟，除了約拿的神蹟以外，再沒有神蹟給他們看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Foreven as Jonah became a sign to the Ninevites, so the Son of Man will also be to this generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿怎样为尼尼微人成了神迹，人子也要照样为这世代的人成了神迹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿怎樣為尼尼微人成了神蹟，人子也要照樣為這世代的人成了神蹟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "TheQueen of the South will rise up in the judgment with the men of this generation and will condemn them, for she came from the ends of the earth to hear the wisdom of Solomon; and behold, one greater than Solomon is here.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当审判的时候，南方的女王要起来定这世代的罪；因为她从地极而来，要听所罗门的智慧话。看哪，在这里有一人比所罗门更大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當審判的時候，南方的女王要起來定這世代的罪；因為她從地極而來，要聽所羅門的智慧話。看哪，在這裏有一人比所羅門更大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Themen of Nineveh will stand up in the judgment with this generation, and will condemn it, for they repented at the preaching of Jonah; and behold, one greater than Jonah is here.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当审判的时候，尼尼微人要起来定这世代的罪，因为尼尼微人听了约拿所传的就悔改了。看哪，在这里有一人比约拿更大。」 （太5·15；6·22—23）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當審判的時候，尼尼微人要起來定這世代的罪，因為尼尼微人聽了約拿所傳的就悔改了。看哪，在這裏有一人比約拿更大。」 （太5‧15；6‧22－23）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“Noone, when he has lit a lamp, puts it in a cellar or under a basket, but on a stand, that those who come in may see the light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「没有人点灯放在地窨子里，或是斗底下，总是放在灯台上，使进来的人得见亮光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「沒有人點燈放在地窨子裏，或是斗底下，總是放在燈臺上，使進來的人得見亮光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Thelamp of the body is the eye. Therefore when your eye is good, your whole body is also full of light; but when it is evil, your body also is full of darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你眼睛就是身上的灯。你的眼睛若了亮，全身就光明；眼睛若昏花，全身就黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你眼睛就是身上的燈。你的眼睛若瞭亮，全身就光明；眼睛若昏花，全身就黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Thereforesee whether the light that is in you isn’ t darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你要省察，恐怕你里头的光或者黑暗了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你要省察，恐怕你裏頭的光或者黑暗了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Iftherefore your whole body is full of light, having no part dark, it will be wholly full of light, as when the lamp with its bright shining gives you light.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是你全身光明，毫无黑暗，就必全然光明，如同灯的明光照亮你。」 （太23·1—36；可12·38—40）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是你全身光明，毫無黑暗，就必全然光明，如同燈的明光照亮你。」 （太23‧1－36；可12‧38－40）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Now as he spoke, a certain Pharisee asked him to dine with him. He went in and sat at the table.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说话的时候，有一个法利赛人请耶稣同他吃饭，耶稣就进去坐席。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說話的時候，有一個法利賽人請耶穌同他吃飯，耶穌就進去坐席。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "When the Pharisee saw it, he marveled that he had not first washed himself before dinner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这法利赛人看见耶稣饭前不洗手便诧异。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這法利賽人看見耶穌飯前不洗手便詫異。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The Lord said to him, “Nowyou Pharisees cleanse the outside of the cup and of the platter, but your inward part is full of extortion and wickedness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主对他说：「如今你们法利赛人洗净杯盘的外面，你们里面却满了勒索和邪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主對他說：「如今你們法利賽人洗淨杯盤的外面，你們裏面卻滿了勒索和邪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Youfoolish ones, didn’ t he who made the outside make the inside also?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无知的人哪，造外面的，不也造里面吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無知的人哪，造外面的，不也造裏面嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Butgive for gifts to the needy those things which are within, and behold, all things will be clean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只要把里面的施舍给人，凡物于你们就都洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只要把裏面的施捨給人，凡物於你們就都潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Butwoe to you Pharisees! For you tithe mint and rue and every herb, but you bypass justice and God’s love. You ought to have done these, and not to have left the other undone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们法利赛人有祸了！因为你们将薄荷、芸香并各样菜蔬献上十分之一，那公义和爱 神的事反倒不行了。这原是你们当行的；那也是不可不行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們法利賽人有禍了！因為你們將薄荷、芸香並各樣菜蔬獻上十分之一，那公義和愛上帝的事反倒不行了。這原是你們當行的；那也是不可不行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Woeto you Pharisees! For you love the best seats in the synagogues and the greetings in the marketplaces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们法利赛人有祸了！因为你们喜爱会堂里的首位，又喜爱人在街市上问你们的安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們法利賽人有禍了！因為你們喜愛會堂裏的首位，又喜愛人在街市上問你們的安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Woeto you, scribes and Pharisees, hypocrites! For you are like hidden graves, and the men who walk over them don’ t know it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们有祸了！因为你们如同不显露的坟墓，走在上面的人并不知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們有禍了！因為你們如同不顯露的墳墓，走在上面的人並不知道。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "One of the lawyers answered him, “Teacher, in saying this you insult us also.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "律法师中有一个回答耶稣说：「夫子！你这样说也把我们糟蹋了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法師中有一個回答耶穌說：「夫子！你這樣說也把我們糟蹋了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "He said, “Woeto you lawyers also! For you load men with burdens that are difficult to carry, and you yourselves won’ t even lift one finger to help carry those burdens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们律法师也有祸了！因为你们把难担的担子放在人身上，自己一个指头却不肯动。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們律法師也有禍了！因為你們把難擔的擔子放在人身上，自己一個指頭卻不肯動。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Woeto you! For you build the tombs of the prophets, and your fathers killed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们有祸了！因为你们修造先知的坟墓，那先知正是你们的祖宗所杀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們有禍了！因為你們修造先知的墳墓，那先知正是你們的祖宗所殺的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Soyou testify and consent to the works of your fathers. For they killed them, and you build their tombs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可见你们祖宗所做的事，你们又证明又喜欢；因为他们杀了先知，你们修造先知的坟墓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可見你們祖宗所做的事，你們又證明又喜歡；因為他們殺了先知，你們修造先知的墳墓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Thereforealso the wisdom of God said, ‘I will send to them prophets and apostles; and some of them they will kill and persecute,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以 神用智慧曾说：『我要差遣先知和使徒到他们那里去，有的他们要杀害，有的他们要逼迫』，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:49 用智慧：或译的智者"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以上帝用智慧曾說：『我要差遣先知和使徒到他們那裏去，有的他們要殺害，有的他們要逼迫』，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:49 用智慧：或譯的智者"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "thatthe blood of all the prophets, which was shed from the foundation of the world, may be required of this generation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使创世以来所流众先知血的罪都要问在这世代的人身上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使創世以來所流眾先知血的罪都要問在這世代的人身上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "fromthe blood of Abel to the blood of Zachariah, who perished between the altar and the sanctuary.’ Yes, I tell you, it will be required of this generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是从亚伯的血起，直到被杀在坛和殿中间撒迦利亚的血为止。我实在告诉你们，这都要问在这世代的人身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是從亞伯的血起，直到被殺在壇和殿中間撒迦利亞的血為止。我實在告訴你們，這都要問在這世代的人身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "Woeto you lawyers! For you took away the key of knowledge. You didn’ t enter in yourselves, and those who were entering in, you hindered.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们律法师有祸了！因为你们把知识的钥匙夺了去，自己不进去，正要进去的人你们也阻挡他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們律法師有禍了！因為你們把知識的鑰匙奪了去，自己不進去，正要進去的人你們也阻擋他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "As he said these things to them, the scribes and the Pharisees began to be terribly angry, and to draw many things out of him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣从那里出来，文士和法利赛人就极力地催逼他，引动他多说话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌從那裏出來，文士和法利賽人就極力地催逼他，引動他多說話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "lying in wait for him, and seeking to catch him in something he might say, that they might accuse him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "私下窥听，要拿他的话柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "私下窺聽，要拿他的話柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1057 @@
+{
+  "bookId": "LUK",
+  "chapter": 23,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The whole company of them rose up and brought him before Pilate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人都起来，把耶稣解到彼拉多面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人都起來，把耶穌解到彼拉多面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They began to accuse him, saying, “We found this man perverting the nation, forbidding paying taxes to Caesar, and saying that he himself is Christ, a king.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就告他说：「我们见这人诱惑国民，禁止纳税给凯撒，并说自己是基督，是王。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就告他說：「我們見這人誘惑國民，禁止納稅給凱撒，並說自己是基督，是王。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Pilate asked him, “Are you the King of the Jews?” He answered him, “Soyou say.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多问耶稣说：「你是犹太人的王吗？」耶稣回答说：「你说的是。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多問耶穌說：「你是猶太人的王嗎？」耶穌回答說：「你說的是。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Pilate said to the chief priests and the multitudes, “I find no basis for a charge against this man.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多对祭司长和众人说：「我查不出这人有什么罪来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多對祭司長和眾人說：「我查不出這人有甚麼罪來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But they insisted, saying, “He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但他们越发极力地说：「他煽惑百姓，在犹太遍地传道，从加利利起，直到这里了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他們越發極力地說：「他煽惑百姓，在猶太遍地傳道，從加利利起，直到這裏了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But when Pilate heard Galilee mentioned, he asked if the man was a Galilean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多一听见，就问：「这人是加利利人吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多一聽見，就問：「這人是加利利人嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "When he found out that he was in Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem during those days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既晓得耶稣属希律所管，就把他送到希律那里去。那时希律正在耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既曉得耶穌屬希律所管，就把他送到希律那裏去。那時希律正在耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Now when Herod saw Jesus, he was exceedingly glad, for he had wanted to see him for a long time, because he had heard many things about him. He hoped to see some miracle done by him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律看见耶稣，就很欢喜；因为听见过他的事，久已想要见他，并且指望看他行一件神迹，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律看見耶穌，就很歡喜；因為聽見過他的事，久已想要見他，並且指望看他行一件神蹟，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He questioned him with many words, but he gave no answers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是问他许多的话，耶稣却一言不答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是問他許多的話，耶穌卻一言不答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The chief priests and the scribes stood, vehemently accusing him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司长和文士都站着，极力地告他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司長和文士都站着，極力地告他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Herod with his soldiers humiliated him and mocked him. Dressing him in luxurious clothing, they sent him back to Pilate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律和他的兵丁就藐视耶稣，戏弄他，给他穿上华丽衣服，把他送回彼拉多那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律和他的兵丁就藐視耶穌，戲弄他，給他穿上華麗衣服，把他送回彼拉多那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Herod and Pilate became friends with each other that very day, for before that they were enemies with each other.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前希律和彼拉多彼此有仇，在那一天就成了朋友。 （太27·15—26；可15·6—15；约18·39—19·16）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前希律和彼拉多彼此有仇，在那一天就成了朋友。 （太27‧15－26；可15‧6－15；約18‧39－19‧16）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Pilate called together the chief priests, the rulers, and the people,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多传齐了祭司长和官府并百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多傳齊了祭司長和官府並百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and said to them, “You brought this man to me as one that perverts the people, and behold, having examined him before you, I found no basis for a charge against this man concerning those things of which you accuse him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就对他们说：「你们解这人到我这里，说他是诱惑百姓的。看哪，我也曾将你们告他的事，在你们面前审问他，并没有查出他什么罪来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就對他們說：「你們解這人到我這裏，說他是誘惑百姓的。看哪，我也曾將你們告他的事，在你們面前審問他，並沒有查出他甚麼罪來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Neither has Herod, for I sent you to him, and see, nothing worthy of death has been done by him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是希律也是如此，所以把他送回来。可见他没有做什么该死的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是希律也是如此，所以把他送回來。可見他沒有做甚麼該死的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I will therefore chastise him and release him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，我要责打他，把他释放了。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:16 有古卷加：\\+fv 17\\+fv* 每逢这节期，巡抚必须释放一个囚犯给他们。"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，我要責打他，把他釋放了。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:16 有古卷加： 17 * 每逢這節期，巡撫必須釋放一個囚犯給他們。"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Now he had to release one prisoner to them at the feast.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "23:17 NU omits verse 17."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But they all cried out together, saying, “Away with this man! Release to us Barabbas!”—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人却一齐喊着说：「除掉这个人！释放巴拉巴给我们！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人卻一齊喊着說：「除掉這個人！釋放巴拉巴給我們！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "one who was thrown into prison for a certain revolt in the city, and for murder.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这巴拉巴是因在城里作乱杀人，下在监里的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這巴拉巴是因在城裏作亂殺人，下在監裏的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then Pilate spoke to them again, wanting to release Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多愿意释放耶稣，就又劝解他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多願意釋放耶穌，就又勸解他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "but they shouted, saying, “Crucify! Crucify him!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无奈他们喊着说：「钉他十字架！钉他十字架！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無奈他們喊着說：「釘他十字架！釘他十字架！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He said to them the third time, “Why? What evil has this man done? I have found no capital crime in him. I will therefore chastise him and release him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多第三次对他们说：「为什么呢？这人做了什么恶事呢？我并没有查出他什么该死的罪来。所以，我要责打他，把他释放了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多第三次對他們說：「為甚麼呢？這人做了甚麼惡事呢？我並沒有查出他甚麼該死的罪來。所以，我要責打他，把他釋放了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But they were urgent with loud voices, asking that he might be crucified. Their voices and the voices of the chief priests prevailed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们大声催逼彼拉多，求他把耶稣钉在十字架上。他们的声音就得了胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們大聲催逼彼拉多，求他把耶穌釘在十字架上。他們的聲音就得了勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Pilate decreed that what they asked for should be done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼拉多这才照他们所求的定案，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼拉多這才照他們所求的定案，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He released him who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus up to their will.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把他们所求的那作乱杀人、下在监里的释放了，把耶稣交给他们，任凭他们的意思行。 （太27·32—44；可15·21—32；约19·17—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把他們所求的那作亂殺人、下在監裏的釋放了，把耶穌交給他們，任憑他們的意思行。 （太27‧32－44；可15‧21－32；約19‧17－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When they led him away, they grabbed one Simon of Cyrene, coming from the country, and laid the cross on him to carry it after Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "带耶稣去的时候，有一个古利奈人西门，从乡下来；他们就抓住他，把十字架搁在他身上，叫他背着跟随耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帶耶穌去的時候，有一個古利奈人西門，從鄉下來；他們就抓住他，把十字架擱在他身上，叫他背着跟隨耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "A great multitude of the people followed him, including women who also mourned and lamented him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多百姓跟随耶稣，内中有好些妇女；妇女们为他号咷痛哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多百姓跟隨耶穌，內中有好些婦女；婦女們為他號咷痛哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "But Jesus, turning to them, said, “Daughtersof Jerusalem, don’t weep for me, but weep for yourselves and for your children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣转身对她们说：「耶路撒冷的女子，不要为我哭，当为自己和自己的儿女哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌轉身對她們說：「耶路撒冷的女子，不要為我哭，當為自己和自己的兒女哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Forbehold, the days are coming in which they will say, ‘Blessed are the barren, the wombs that never bore, and the breasts that never nursed.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为日子要到，人必说：『不生育的，和未曾怀胎的，未曾乳养婴孩的，有福了！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為日子要到，人必說：『不生育的，和未曾懷胎的，未曾乳養嬰孩的，有福了！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Thenthey will begin to tell the mountains, ‘Fall on us!’ and tell the hills, ‘Cover us.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "23:30 Hosea 10:8",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "那时，人要向大山说： 倒在我们身上！ 向小山说： 遮盖我们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，人要向大山說： 倒在我們身上！ 向小山說： 遮蓋我們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Forif they do these things in the green tree, what will be done in the dry?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这些事既行在有汁水的树上，那枯干的树将来怎么样呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這些事既行在有汁水的樹上，那枯乾的樹將來怎麼樣呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "There were also others, two criminals, led with him to be put to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有两个犯人，和耶稣一同带来处死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有兩個犯人，和耶穌一同帶來處死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "When they came to the place that is called “The Skull”, they crucified him there with the criminals, one on the right and the other on the left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了一个地方，名叫「髑髅地」，就在那里把耶稣钉在十字架上，又钉了两个犯人：一个在左边，一个在右边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了一個地方，名叫「髑髏地」，就在那裏把耶穌釘在十字架上，又釘了兩個犯人：一個在左邊，一個在右邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Jesus said, “Father, forgive them, for they don’ t know what they are doing.” Dividing his garments among them, they cast lots.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下耶稣说：「父啊！赦免他们；因为他们所做的，他们不晓得。」兵丁就拈阄分他的衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下耶穌說：「父啊！赦免他們；因為他們所做的，他們不曉得。」兵丁就拈鬮分他的衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The people stood watching. The rulers with them also scoffed at him, saying, “He saved others. Let him save himself, if this is the Christ of God, his chosen one!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓站在那里观看。官府也嗤笑他，说：「他救了别人；他若是基督， 神所拣选的，可以救自己吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓站在那裏觀看。官府也嗤笑他，說：「他救了別人；他若是基督，上帝所揀選的，可以救自己吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The soldiers also mocked him, coming to him and offering him vinegar,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兵丁也戏弄他，上前拿醋送给他喝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兵丁也戲弄他，上前拿醋送給他喝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "and saying, “If you are the King of the Jews, save yourself!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「你若是犹太人的王，可以救自己吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「你若是猶太人的王，可以救自己吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "An inscription was also written over him in letters of Greek, Latin, and Hebrew: “THIS IS THE KING OF THE JEWS.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶稣以上有一个牌子写着：「这是犹太人的王。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:38 有古卷加：用希腊、罗马、希伯来的文字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶穌以上有一個牌子寫着：「這是猶太人的王。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:38 有古卷加：用希臘、羅馬、希伯來的文字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "One of the criminals who was hanged insulted him, saying, “If you are the Christ, save yourself and us!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那同钉的两个犯人有一个讥笑他，说：「你不是基督吗？可以救自己和我们吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那同釘的兩個犯人有一個譏笑他，說：「你不是基督嗎？可以救自己和我們吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "But the other answered, and rebuking him said, “Don’t you even fear God, seeing you are under the same condemnation?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那一个就应声责备他，说：「你既是一样受刑的，还不怕 神吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那一個就應聲責備他，說：「你既是一樣受刑的，還不怕上帝嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "And we indeed justly, for we receive the due reward for our deeds, but this man has done nothing wrong.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们是应该的，因我们所受的与我们所做的相称，但这个人没有做过一件不好的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們是應該的，因我們所受的與我們所做的相稱，但這個人沒有做過一件不好的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "He said to Jesus, “Lord, remember me when you come into your Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就说：「耶稣啊，你得国降临的时候，求你记念我！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就說：「耶穌啊，你得國降臨的時候，求你記念我！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Jesus said to him, “Assuredly Itell you, today you will be with me in Paradise.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「我实在告诉你，今日你要同我在乐园里了。」 （太27·45—56；可15·33—41；约19·28—30）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「我實在告訴你，今日你要同我在樂園裏了。」 （太27‧45－56；可15‧33－41；約19‧28－30）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "It was now about the sixth hour, and darkness came over the whole land until the ninth hour.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "23:44 Time was counted from sunrise, so the sixth hour was about noon."
+          },
+          {
+            "id": "f2",
+            "text": "23:44 3:00 p.m."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时约有午正，遍地都黑暗了，直到申初，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時約有午正，遍地都黑暗了，直到申初，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "The sun was darkened, and the veil of the temple was torn in two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头变黑了；殿里的幔子从当中裂为两半。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭變黑了；殿裏的幔子從當中裂為兩半。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Jesus, crying with a loud voice, said, “Father, into your hands I commit my spirit!”Having said this, he breathed his last.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣大声喊着说：「父啊！我将我的灵魂交在你手里。」说了这话，气就断了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌大聲喊着說：「父啊！我將我的靈魂交在你手裏。」說了這話，氣就斷了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "When the centurion saw what was done, he glorified God, saying, “Certainly this was a righteous man.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百夫长看见所成的事，就归荣耀与 神，说：「这真是个义人！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百夫長看見所成的事，就歸榮耀與上帝，說：「這真是個義人！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "All the multitudes that came together to see this, when they saw the things that were done, returned home beating their chests.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "聚集观看的众人见了这所成的事都捶着胸回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聚集觀看的眾人見了這所成的事都捶着胸回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "All his acquaintances and the women who followed with him from Galilee stood at a distance, watching these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有一切与耶稣熟识的人，和从加利利跟着他来的妇女们，都远远地站着看这些事。 （太27·57—61；可15·42—47；约19·38—42）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有一切與耶穌熟識的人，和從加利利跟着他來的婦女們，都遠遠地站着看這些事。 （太27‧57－61；可15‧42－47；約19‧38－42）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Behold, there was a man named Joseph, who was a member of the council, a good and righteous man",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个人名叫约瑟，是个议士，为人善良公义；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個人名叫約瑟，是個議士，為人善良公義；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "(he had not consented to their counsel and deed), from Arimathaea, a city of the Jews, who was also waiting for God’s Kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人所谋所为，他并没有附从。他本是犹太、亚利马太城里素常盼望 神国的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人所謀所為，他並沒有附從。他本是猶太、亞利馬太城裏素常盼望上帝國的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "This man went to Pilate, and asked for Jesus’ body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这人去见彼拉多，求耶稣的身体，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這人去見彼拉多，求耶穌的身體，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "He took it down and wrapped it in a linen cloth, and laid him in a tomb that was cut in stone, where no one had ever been laid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就取下来，用细麻布裹好，安放在石头凿成的坟墓里；那里头从来没有葬过人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就取下來，用細麻布裹好，安放在石頭鑿成的墳墓裏；那裏頭從來沒有葬過人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "It was the day of the Preparation, and the Sabbath was drawing near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日是预备日，安息日也快到了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日是預備日，安息日也快到了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "The women who had come with him out of Galilee followed after, and saw the tomb and how his body was laid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些从加利利和耶稣同来的妇女跟在后面，看见了坟墓和他的身体怎样安放。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些從加利利和耶穌同來的婦女跟在後面，看見了墳墓和他的身體怎樣安放。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "They returned and prepared spices and ointments. On the Sabbath they rested according to the commandment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们就回去，预备了香料香膏。她们在安息日，便遵着诫命安息了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們就回去，預備了香料香膏。她們在安息日，便遵着誡命安息了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

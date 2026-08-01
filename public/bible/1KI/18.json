@@ -1,0 +1,852 @@
+{
+  "bookId": "1KI",
+  "chapter": 18,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After many days, the LORD’s word came to Elijah, in the third year, saying, “Go, show yourself to Ahab; and I will send rain on the earth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了许久，到第三年，耶和华的话临到以利亚说：「你去，使亚哈得见你；我要降雨在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了許久，到第三年，耶和華的話臨到以利亞說：「你去，使亞哈得見你；我要降雨在地上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Elijah went to show himself to Ahab. The famine was severe in Samaria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚就去，要使亚哈得见他。那时，撒马利亚有大饥荒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞就去，要使亞哈得見他。那時，撒馬利亞有大饑荒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Ahab called Obadiah, who was over the household. (Now Obadiah feared the LORD greatly;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈将他的家宰俄巴底召了来。（俄巴底甚是敬畏耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈將他的家宰俄巴底召了來。（俄巴底甚是敬畏耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "for when Jezebel cut off the LORD’s prophets, Obadiah took one hundred prophets, and hid them fifty to a cave, and fed them with bread and water.)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶洗别杀耶和华众先知的时候，俄巴底将一百个先知藏了，每五十人藏在一个洞里，拿饼和水供养他们。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶洗別殺耶和華眾先知的時候，俄巴底將一百個先知藏了，每五十人藏在一個洞裏，拿餅和水供養他們。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Ahab said to Obadiah, “Go through the land, to all the springs of water, and to all the brooks. Perhaps we may find grass and save the horses and mules alive, that we not lose all the animals.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈对俄巴底说：「我们走遍这地，到一切水泉旁和一切溪边，或者找得着青草，可以救活骡马，免得绝了牲畜。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈對俄巴底說：「我們走遍這地，到一切水泉旁和一切溪邊，或者找得着青草，可以救活騾馬，免得絕了牲畜。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "So they divided the land between them to pass throughout it. Ahab went one way by himself, and Obadiah went another way by himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是二人分地游行，亚哈独走一路，俄巴底独走一路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是二人分地遊行，亞哈獨走一路，俄巴底獨走一路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "As Obadiah was on the way, behold, Elijah met him. He recognized him, and fell on his face, and said, “Is it you, my lord Elijah?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "俄巴底在路上恰与以利亚相遇，俄巴底认出他来，就俯伏在地，说：「你是我主以利亚不是？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "俄巴底在路上恰與以利亞相遇，俄巴底認出他來，就俯伏在地，說：「你是我主以利亞不是？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He answered him, “It is I. Go, tell your lord, ‘Behold, Elijah is here!’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "回答说：「是。你去告诉你主人说，以利亚在这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "回答說：「是。你去告訴你主人說，以利亞在這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said, “How have I sinned, that you would deliver your servant into the hand of Ahab, to kill me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "俄巴底说：「仆人有什么罪，你竟要将我交在亚哈手里，使他杀我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "俄巴底說：「僕人有甚麼罪，你竟要將我交在亞哈手裏，使他殺我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "As the LORD your God lives, there is no nation or kingdom where my lord has not sent to seek you. When they said, ‘He is not here,’ he took an oath of the kingdom and nation that they didn’t find you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我指着永生耶和华—你的 神起誓，无论哪一邦哪一国，我主都打发人去找你。若说你没有在那里，就必使那邦那国的人起誓说，实在是找不着你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我指着永生耶和華－你的上帝起誓，無論哪一邦哪一國，我主都打發人去找你。若說你沒有在那裏，就必使那邦那國的人起誓說，實在是找不着你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now you say, ‘Go, tell your lord, “Behold, Elijah is here.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你说，要去告诉你主人说，以利亚在这里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你說，要去告訴你主人說，以利亞在這裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "It will happen, as soon as I leave you, that the LORD’s Spirit will carry you I don’t know where; and so when I come and tell Ahab, and he can’t find you, he will kill me. But I, your servant, have feared the LORD from my youth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恐怕我一离开你，耶和华的灵就提你到我所不知道的地方去。这样，我去告诉亚哈，他若找不着你，就必杀我；仆人却是自幼敬畏耶和华的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恐怕我一離開你，耶和華的靈就提你到我所不知道的地方去。這樣，我去告訴亞哈，他若找不着你，就必殺我；僕人卻是自幼敬畏耶和華的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Wasn’t it told my lord what I did when Jezebel killed the LORD’s prophets, how I hid one hundred men of the LORD’s prophets with fifty to a cave, and fed them with bread and water?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶洗别杀耶和华众先知的时候，我将耶和华的一百个先知藏了，每五十人藏在一个洞里，拿饼和水供养他们，岂没有人将这事告诉我主吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶洗別殺耶和華眾先知的時候，我將耶和華的一百個先知藏了，每五十人藏在一個洞裏，拿餅和水供養他們，豈沒有人將這事告訴我主嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Now you say, ‘Go, tell your lord, “Behold, Elijah is here”.’ He will kill me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你说，要去告诉你主人说，以利亚在这里，他必杀我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你說，要去告訴你主人說，以利亞在這裏，他必殺我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Elijah said, “As the LORD of Armies lives, before whom I stand, I will surely show myself to him today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚说：「我指着所事奉永生的万军之耶和华起誓，我今日必使亚哈得见我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞說：「我指着所事奉永生的萬軍之耶和華起誓，我今日必使亞哈得見我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So Obadiah went to meet Ahab, and told him; and Ahab went to meet Elijah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是俄巴底去迎着亚哈，告诉他；亚哈就去迎着以利亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是俄巴底去迎着亞哈，告訴他；亞哈就去迎着以利亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "When Ahab saw Elijah, Ahab said to him, “Is that you, you troubler of Israel?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈见了以利亚，便说：「使以色列遭灾的就是你吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈見了以利亞，便說：「使以色列遭災的就是你嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He answered, “I have not troubled Israel, but you and your father’s house, in that you have forsaken the LORD’s commandments and you have followed the Baals.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚说：「使以色列遭灾的不是我，乃是你和你父家；因为你们离弃耶和华的诫命，去随从巴力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞說：「使以色列遭災的不是我，乃是你和你父家；因為你們離棄耶和華的誡命，去隨從巴力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now therefore send, and gather to me all Israel to Mount Carmel, and four hundred fifty of the prophets of Baal, and four hundred of the prophets of the Asherah, who eat at Jezebel’s table.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你当差遣人，招聚以色列众人和事奉巴力的那四百五十个先知，并耶洗别所供养事奉亚舍拉的那四百个先知，使他们都上迦密山去见我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你當差遣人，招聚以色列眾人和事奉巴力的那四百五十個先知，並耶洗別所供養事奉亞舍拉的那四百個先知，使他們都上迦密山去見我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "So Ahab sent to all the children of Israel, and gathered the prophets together to Mount Carmel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈就差遣人招聚以色列众人和先知都上迦密山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈就差遣人招聚以色列眾人和先知都上迦密山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Elijah came near to all the people, and said, “How long will you waver between the two sides? If the LORD is God, follow him; but if Baal, then follow him.” The people didn’t say a word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚前来对众民说：「你们心持两意要到几时呢？若耶和华是 神，就当顺从耶和华；若巴力是 神，就当顺从巴力。」众民一言不答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞前來對眾民說：「你們心持兩意要到幾時呢？若耶和華是上帝，就當順從耶和華；若巴力是上帝，就當順從巴力。」眾民一言不答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Then Elijah said to the people, “I, even I only, am left as a prophet of the LORD; but Baal’s prophets are four hundred fifty men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚对众民说：「作耶和华先知的只剩下我一个人；巴力的先知却有四百五十个人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞對眾民說：「作耶和華先知的只剩下我一個人；巴力的先知卻有四百五十個人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Let them therefore give us two bulls; and let them choose one bull for themselves, and cut it in pieces, and lay it on the wood, and put no fire under; and I will dress the other bull, and lay it on the wood, and put no fire under it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当给我们两只牛犊，巴力的先知可以挑选一只，切成块子，放在柴上，不要点火；我也预备一只牛犊放在柴上，也不点火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當給我們兩隻牛犢，巴力的先知可以挑選一隻，切成塊子，放在柴上，不要點火；我也預備一隻牛犢放在柴上，也不點火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You call on the name of your god, and I will call on the LORD’s name. The God who answers by fire, let him be God.” All the people answered, “What you say is good.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们求告你们神的名，我也求告耶和华的名。那降火显应的神，就是 神。」众民回答说：「这话甚好。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們求告你們神的名，我也求告耶和華的名。那降火顯應的神，就是上帝。」眾民回答說：「這話甚好。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Elijah said to the prophets of Baal, “Choose one bull for yourselves, and dress it first, for you are many; and call on the name of your god, but put no fire under it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚对巴力的先知说：「你们既是人多，当先挑选一只牛犊，预备好了，就求告你们神的名，却不要点火。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞對巴力的先知說：「你們既是人多，當先挑選一隻牛犢，預備好了，就求告你們神的名，卻不要點火。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They took the bull which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, “Baal, hear us!” But there was no voice, and nobody answered. They leaped about the altar which was made.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将所得的牛犊预备好了，从早晨到午间，求告巴力的名说：「巴力啊，求你应允我们！」却没有声音，没有应允的。他们在所筑的坛四围踊跳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將所得的牛犢預備好了，從早晨到午間，求告巴力的名說：「巴力啊，求你應允我們！」卻沒有聲音，沒有應允的。他們在所築的壇四圍踊跳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "At noon, Elijah mocked them, and said, “Cry aloud, for he is a god. Either he is deep in thought, or he has gone somewhere, or he is on a journey, or perhaps he sleeps and must be awakened.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了正午，以利亚嬉笑他们，说：「大声求告吧！因为他是神，他或默想，或走到一边，或行路，或睡觉，你们当叫醒他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了正午，以利亞嬉笑他們，說：「大聲求告吧！因為他是神，他或默想，或走到一邊，或行路，或睡覺，你們當叫醒他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They cried aloud, and cut themselves in their way with knives and lances until the blood gushed out on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们大声求告，按着他们的规矩，用刀枪自割、自刺，直到身体流血。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們大聲求告，按着他們的規矩，用刀槍自割、自刺，直到身體流血。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "When midday was past, they prophesied until the time of the evening offering; but there was no voice, no answer, and nobody paid attention.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从午后直到献晚祭的时候，他们狂呼乱叫，却没有声音，没有应允的，也没有理会的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從午後直到獻晚祭的時候，他們狂呼亂叫，卻沒有聲音，沒有應允的，也沒有理會的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Elijah said to all the people, “Come near to me!”; and all the people came near to him. He repaired the LORD’s altar that had been thrown down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚对众民说：「你们到我这里来。」众民就到他那里。他便重修已经毁坏耶和华的坛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞對眾民說：「你們到我這裏來。」眾民就到他那裏。他便重修已經毀壞耶和華的壇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the LORD’s word came, saying, “Israel shall be your name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚照雅各子孙支派的数目，取了十二块石头（耶和华的话曾临到雅各说：「你的名要叫以色列」），",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞照雅各子孫支派的數目，取了十二塊石頭（耶和華的話曾臨到雅各說：「你的名要叫以色列」），",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "With the stones he built an altar in the LORD’s name. He made a trench around the altar large enough to contain two seahs of seed.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "18:32 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用这些石头为耶和华的名筑一座坛，在坛的四围挖沟，可容谷种二细亚，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用這些石頭為耶和華的名築一座壇，在壇的四圍挖溝，可容穀種二細亞，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He put the wood in order, and cut the bull in pieces and laid it on the wood. He said, “Fill four jars with water, and pour it on the burnt offering and on the wood.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又在坛上摆好了柴，把牛犊切成块子放在柴上，对众人说：「你们用四个桶盛满水，倒在燔祭和柴上」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又在壇上擺好了柴，把牛犢切成塊子放在柴上，對眾人說：「你們用四個桶盛滿水，倒在燔祭和柴上」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He said, “Do it a second time;” and they did it the second time. He said, “Do it a third time;” and they did it the third time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「倒第二次。」他们就倒第二次；又说：「倒第三次。」他们就倒第三次。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「倒第二次。」他們就倒第二次；又說：「倒第三次。」他們就倒第三次。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The water ran around the altar; and he also filled the trench with water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水流在坛的四围，沟里也满了水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水流在壇的四圍，溝裏也滿了水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "At the time of the evening offering, Elijah the prophet came near and said, “LORD, the God of Abraham, of Isaac, and of Israel, let it be known today that you are God in Israel and that I am your servant, and that I have done all these things at your word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了献晚祭的时候，先知以利亚近前来，说：「亚伯拉罕、以撒、以色列的 神，耶和华啊，求你今日使人知道你是以色列的 神，也知道我是你的仆人，又是奉你的命行这一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了獻晚祭的時候，先知以利亞近前來，說：「亞伯拉罕、以撒、以色列的上帝，耶和華啊，求你今日使人知道你是以色列的上帝，也知道我是你的僕人，又是奉你的命行這一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Hear me, LORD, hear me, that this people may know that you, LORD, are God, and that you have turned their heart back again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你应允我，应允我！使这民知道你—耶和华是 神，又知道是你叫这民的心回转。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你應允我，應允我！使這民知道你－耶和華是上帝，又知道是你叫這民的心回轉。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Then the LORD’s fire fell and consumed the burnt offering, the wood, the stones, and the dust; and it licked up the water that was in the trench.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，耶和华降下火来，烧尽燔祭、木柴、石头、尘土，又烧干沟里的水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，耶和華降下火來，燒盡燔祭、木柴、石頭、塵土，又燒乾溝裏的水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "When all the people saw it, they fell on their faces. They said, “The LORD, he is God! The LORD, he is God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众民看见了，就俯伏在地，说：「耶和华是 神！耶和华是 神！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾民看見了，就俯伏在地，說：「耶和華是上帝！耶和華是上帝！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Elijah said to them, “Seize the prophets of Baal! Don’t let one of them escape!” They seized them; and Elijah brought them down to the brook Kishon, and killed them there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚对他们说：「拿住巴力的先知，不容一人逃脱！」众人就拿住他们。以利亚带他们到基顺河边，在那里杀了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞對他們說：「拿住巴力的先知，不容一人逃脫！」眾人就拿住他們。以利亞帶他們到基順河邊，在那裏殺了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Elijah said to Ahab, “Get up, eat and drink; for there is the sound of abundance of rain.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚对亚哈说：「你现在可以上去吃喝，因为有多雨的响声了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞對亞哈說：「你現在可以上去吃喝，因為有多雨的響聲了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "So Ahab went up to eat and to drink. Elijah went up to the top of Carmel; and he bowed himself down on the earth, and put his face between his knees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈就上去吃喝。以利亚上了迦密山顶，屈身在地，将脸伏在两膝之中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈就上去吃喝。以利亞上了迦密山頂，屈身在地，將臉伏在兩膝之中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He said to his servant, “Go up now and look toward the sea.” He went up and looked, then said, “There is nothing.” He said, “Go again” seven times.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对仆人说：「你上去，向海观看。」仆人就上去观看，说：「没有什么。」他说：「你再去观看。」如此七次。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對僕人說：「你上去，向海觀看。」僕人就上去觀看，說：「沒有甚麼。」他說：「你再去觀看。」如此七次。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "On the seventh time, he said, “Behold, a small cloud, like a man’s hand, is rising out of the sea.” He said, “Go up, tell Ahab, ‘Get ready and go down, so that the rain doesn’t stop you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第七次仆人说：「我看见有一小片云从海里上来，不过如人手那样大。」以利亚说：「你上去告诉亚哈，当套车下去，免得被雨阻挡。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第七次僕人說：「我看見有一小片雲從海裏上來，不過如人手那樣大。」以利亞說：「你上去告訴亞哈，當套車下去，免得被雨阻擋。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "In a little while, the sky grew black with clouds and wind, and there was a great rain. Ahab rode, and went to Jezreel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "霎时间，天因风云黑暗，降下大雨。亚哈就坐车往耶斯列去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "霎時間，天因風雲黑暗，降下大雨。亞哈就坐車往耶斯列去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "The LORD’s hand was on Elijah; and he tucked his cloak into his belt and ran before Ahab to the entrance of Jezreel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的灵降在以利亚身上，他就束上腰，奔在亚哈前头，直到耶斯列的城门。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:46 原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的靈降在以利亞身上，他就束上腰，奔在亞哈前頭，直到耶斯列的城門。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:46 原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

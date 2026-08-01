@@ -1,0 +1,523 @@
+{
+  "bookId": "ISA",
+  "chapter": 43,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "But now the LORD who created you, Jacob, and he who formed you, Israel, says: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各啊，创造你的耶和华， 以色列啊，造成你的那位， 现在如此说： 你不要害怕！因为我救赎了你。 我曾提你的名召你，你是属我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各啊，創造你的耶和華， 以色列啊，造成你的那位， 現在如此說： 你不要害怕！因為我救贖了你。 我曾提你的名召你，你是屬我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When you pass through the waters, I will be with you, and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你从水中经过，我必与你同在； 你趟过江河，水必不漫过你； 你从火中行过，必不被烧， 火焰也不着在你身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你從水中經過，我必與你同在； 你詵過江河，水必不漫過你； 你從火中行過，必不被燒， 火焰也不着在你身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For I am the LORD your God, the Holy One of Israel, your Savior. I have given Egypt as your ransom, Ethiopia and Seba in your place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我是耶和华—你的 神， 是以色列的圣者—你的救主； 我已经使埃及作你的赎价， 使古实和西巴代替你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我是耶和華－你的上帝， 是以色列的聖者－你的救主； 我已經使埃及作你的贖價， 使古實和西巴代替你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Since you have been precious and honored in my sight, and I have loved you, therefore I will give people in your place, and nations instead of your life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我看你为宝为尊； 又因我爱你， 所以我使人代替你， 使列邦人替换你的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我看你為寶為尊； 又因我愛你， 所以我使人代替你， 使列邦人替換你的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Don’t be afraid, for I am with you. I will bring your offspring from the east, and gather you from the west.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要害怕，因我与你同在； 我必领你的后裔从东方来， 又从西方招聚你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要害怕，因我與你同在； 我必領你的後裔從東方來， 又從西方招聚你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I will tell the north, ‘Give them up!’ and tell the south, ‘Don’t hold them back! Bring my sons from far away, and my daughters from the ends of the earth—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要对北方说，交出来！ 对南方说，不要拘留！ 将我的众子从远方带来， 将我的众女从地极领回，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要對北方說，交出來！ 對南方說，不要拘留！ 將我的眾子從遠方帶來， 將我的眾女從地極領回，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "everyone who is called by my name, and whom I have created for my glory, whom I have formed, yes, whom I have made.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是凡称为我名下的人， 是我为自己的荣耀创造的， 是我所做成，所造作的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是凡稱為我名下的人， 是我為自己的榮耀創造的， 是我所做成，所造作的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Bring out the blind people who have eyes, and the deaf who have ears.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要将有眼而瞎、 有耳而聋的民都带出来！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要將有眼而瞎、 有耳而聾的民都帶出來！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Let all the nations be gathered together, and let the peoples be assembled. Who among them can declare this, and show us former things? Let them bring their witnesses, that they may be justified, or let them hear, and say, “That is true.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "任凭万国聚集； 任凭众民会合。 其中谁能将此声明， 并将先前的事说给我们听呢？ 他们可以带出见证来，自显为是； 或者他们听见便说：这是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "任憑萬國聚集； 任憑眾民會合。 其中誰能將此聲明， 並將先前的事說給我們聽呢？ 他們可以帶出見證來，自顯為是； 或者他們聽見便說：這是真的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“You are my witnesses,” says the LORD, “With my servant whom I have chosen; that you may know and believe me, and understand that I am he. Before me there was no God formed, neither will there be after me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：你们是我的见证， 我所拣选的仆人。 既是这样，便可以知道，且信服我， 又明白我就是耶和华。 在我以前没有真神； 在我以后也必没有。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 43:10 真：原文是造作的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：你們是我的見證， 我所揀選的僕人。 既是這樣，便可以知道，且信服我， 又明白我就是耶和華。 在我以前沒有真神； 在我以後也必沒有。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 43:10 真：原文是造作的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "I myself am the LORD. Besides me, there is no savior.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有我是耶和华； 除我以外没有救主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有我是耶和華； 除我以外沒有救主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I have declared, I have saved, and I have shown, and there was no strange god among you. Therefore you are my witnesses”, says the LORD, “and I am God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾指示，我曾拯救，我曾说明， 并且在你们中间没有别神。 所以耶和华说： 你们是我的见证。 我也是 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾指示，我曾拯救，我曾說明， 並且在你們中間沒有別神。 所以耶和華說： 你們是我的見證。 我也是上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Yes, since the day was, I am he. There is no one who can deliver out of my hand. I will work, and who can hinder it?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自从有日子以来，我就是 神； 谁也不能救人脱离我手。 我要行事谁能阻止呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自從有日子以來，我就是上帝； 誰也不能救人脫離我手。 我要行事誰能阻止呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The LORD, your Redeemer, the Holy One of Israel says: “For your sake, I have sent to Babylon, and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—你们的救赎主、 以色列的圣者如此说： 因你们的缘故， 我已经打发人到巴比伦去； 并且我要使迦勒底人如逃民， 都坐自己喜乐的船下来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－你們的救贖主、 以色列的聖者如此說： 因你們的緣故， 我已經打發人到巴比倫去； 並且我要使迦勒底人如逃民， 都坐自己喜樂的船下來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I am the LORD, your Holy One, the Creator of Israel, your King.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华—你们的圣者， 是创造以色列的，是你们的君王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華－你們的聖者， 是創造以色列的，是你們的君王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD, who makes a way in the sea, and a path in the mighty waters,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在沧海中开道， 在大水中开路，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在滄海中開道， 在大水中開路，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "who brings out the chariot and horse, the army and the mighty man (they lie down together, they shall not rise; they are extinct, they are quenched like a wick) says:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使车辆、马匹、军兵、勇士都出来， 一同躺下，不再起来； 他们灭没，好像熄灭的灯火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使車輛、馬匹、軍兵、勇士都出來， 一同躺下，不再起來； 他們滅沒，好像熄滅的燈火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“Don’t remember the former things, and don’t consider the things of old.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 你们不要记念从前的事， 也不要思想古时的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 你們不要記念從前的事， 也不要思想古時的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Behold, I will do a new thing. It springs out now. Don’t you know it? I will even make a way in the wilderness, and rivers in the desert.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我要做一件新事； 如今要发现，你们岂不知道吗？ 我必在旷野开道路， 在沙漠开江河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我要做一件新事； 如今要發現，你們豈不知道嗎？ 我必在曠野開道路， 在沙漠開江河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The animals of the field, the jackals and the ostriches, shall honor me, because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "野地的走兽必尊重我； 野狗和鸵鸟也必如此。 因我使旷野有水， 使沙漠有河， 好赐给我的百姓、我的选民喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "野地的走獸必尊重我； 野狗和鴕鳥也必如此。 因我使曠野有水， 使沙漠有河， 好賜給我的百姓、我的選民喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "the people which I formed for myself, that they might declare my praise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这百姓是我为自己所造的， 好述说我的美德。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這百姓是我為自己所造的， 好述說我的美德。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Yet you have not called on me, Jacob; but you have been weary of me, Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各啊，你并没有求告我； 以色列啊，你倒厌烦我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各啊，你並沒有求告我； 以色列啊，你倒厭煩我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "You have not brought me any of your sheep for burnt offerings, neither have you honored me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你没有将你的羊带来给我作燔祭， 也没有用祭物尊敬我； 我没有因供物使你服劳， 也没有因乳香使你厌烦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你沒有將你的羊帶來給我作燔祭， 也沒有用祭物尊敬我； 我沒有因供物使你服勞， 也沒有因乳香使你厭煩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices, but you have burdened me with your sins. You have wearied me with your iniquities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你没有用银子为我买菖蒲， 也没有用祭物的脂油使我饱足； 倒使我因你的罪恶服劳， 使我因你的罪孽厌烦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你沒有用銀子為我買菖蒲， 也沒有用祭物的脂油使我飽足； 倒使我因你的罪惡服勞， 使我因你的罪孽厭煩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有我为自己的缘故涂抹你的过犯； 我也不记念你的罪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有我為自己的緣故塗抹你的過犯； 我也不記念你的罪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Put me in remembrance. Let us plead together. Declare your case, that you may be justified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要提醒我，你我可以一同辩论； 你可以将你的理陈明，自显为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要提醒我，你我可以一同辯論； 你可以將你的理陳明，自顯為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Your first father sinned, and your teachers have transgressed against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的始祖犯罪； 你的师傅违背我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的始祖犯罪； 你的師傅違背我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Therefore I will profane the princes of the sanctuary; and I will make Jacob a curse, and Israel an insult.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我要辱没圣所的首领， 使雅各成为咒诅， 使以色列成为辱骂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我要辱沒聖所的首領， 使雅各成為咒詛， 使以色列成為辱罵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

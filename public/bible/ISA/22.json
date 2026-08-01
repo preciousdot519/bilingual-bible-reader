@@ -1,0 +1,484 @@
+{
+  "bookId": "ISA",
+  "chapter": 22,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The burden of the valley of vision. What ails you now, that you have all gone up to the housetops?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论异象谷的默示： 有什么事使你这满城的人都上房顶呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論異象谷的默示： 有甚麼事使你這滿城的人都上房頂呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You that are full of shouting, a tumultuous city, a joyous town, your slain are not slain with the sword, neither are they dead in battle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这满处呐喊、大有喧哗的城， 欢乐的邑啊， 你中间被杀的并不是被刀杀， 也不是因打仗死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這滿處吶喊、大有喧嘩的城， 歡樂的邑啊， 你中間被殺的並不是被刀殺， 也不是因打仗死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "All your rulers fled away together. They were bound by the archers. All who were found by you were bound together. They fled far away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你所有的官长一同逃跑， 都为弓箭手所捆绑。 你中间一切被找到的都一同被捆绑； 他们本是逃往远方的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你所有的官長一同逃跑， 都為弓箭手所捆綁。 你中間一切被找到的都一同被捆綁； 他們本是逃往遠方的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Therefore I said, “Look away from me. I will weep bitterly. Don’t labor to comfort me for the destruction of the daughter of my people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我说：你们转眼不看我， 我要痛哭。 不要因我众民的毁灭， 就竭力安慰我。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:4 原文是民女"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我說：你們轉眼不看我， 我要痛哭。 不要因我眾民的毀滅， 就竭力安慰我。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:4 原文是民女"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For it is a day of confusion, and of treading down, and of perplexity from the Lord, GOD of Armies, in the valley of vision, a breaking down of the walls, and a crying to the mountains.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:5 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为主—万军之耶和华使「异象谷」 有溃乱、践踏、烦扰的日子。 城被攻破， 哀声达到山间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為主－萬軍之耶和華使「異象谷」 有潰亂、踐踏、煩擾的日子。 城被攻破， 哀聲達到山間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Elam carried his quiver, with chariots of men and horsemen; and Kir uncovered the shield.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以拦带着箭袋， 还有坐战车的和马兵； 吉珥揭开盾牌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以攔帶着箭袋， 還有坐戰車的和馬兵； 吉珥揭開盾牌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Your choicest valleys were full of chariots, and the horsemen set themselves in array at the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你嘉美的谷遍满战车， 也有马兵在城门前排列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你嘉美的谷遍滿戰車， 也有馬兵在城門前排列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He took away the covering of Judah; and you looked in that day to the armor in the house of the forest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他去掉犹大的遮盖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他去掉猶大的遮蓋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You saw the breaches of David’s city, that they were many; and you gathered together the waters of the lower pool.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们看见大卫城的破口很多，便聚积下池的水，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們看見大衛城的破口很多，便聚積下池的水，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You counted the houses of Jerusalem, and you broke down the houses to fortify the wall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又数点耶路撒冷的房屋，将房屋拆毁，修补城墙，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又數點耶路撒冷的房屋，將房屋拆毀，修補城牆，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You also made a reservoir between the two walls for the water of the old pool. But you didn’t look to him who had done this, neither did you have respect for him who planned it long ago.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又在两道城墙中间挖一个聚水池可盛旧池的水，却不仰望做这事的主，也不顾念从古定这事的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又在兩道城牆中間挖一個聚水池可盛舊池的水，卻不仰望做這事的主，也不顧念從古定這事的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "In that day, the Lord, GOD of Armies, called to weeping, to mourning, to baldness, and to dressing in sackcloth;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:12 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，主—万军之耶和华叫人哭泣哀号， 头上光秃，身披麻布。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，主－萬軍之耶和華叫人哭泣哀號， 頭上光禿，身披麻布。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "and behold, there is joy and gladness, killing cattle and killing sheep, eating meat and drinking wine: “Let’s eat and drink, for tomorrow we will die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁知，人倒欢喜快乐， 宰牛杀羊，吃肉喝酒，说： 我们吃喝吧！因为明天要死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰知，人倒歡喜快樂， 宰牛殺羊，吃肉喝酒，說： 我們吃喝吧！因為明天要死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The LORD of Armies revealed himself in my ears, “Surely this iniquity will not be forgiven you until you die,” says the Lord, GOD of Armies.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:14 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华亲自默示我说： 这罪孽直到你们死，断不得赦免！ 这是主—万军之耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華親自默示我說： 這罪孽直到你們死，斷不得赦免！ 這是主－萬軍之耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The Lord, GOD of Armies says, “Go, get yourself to this treasurer, even to Shebna, who is over the house, and say,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主—万军之耶和华这样说：「你去见掌银库的，就是家宰舍伯那，对他说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主－萬軍之耶和華這樣說：「你去見掌銀庫的，就是家宰舍伯那，對他說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "‘What are you doing here? Who has you here, that you have dug out a tomb here?’ Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『你在这里做什么呢？有什么人竟在这里凿坟墓，就是在高处为自己凿坟墓，在磐石中为自己凿出安身之所？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『你在這裏做甚麼呢？有甚麼人竟在這裏鑿墳墓，就是在高處為自己鑿墳墓，在磐石中為自己鑿出安身之所？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Behold, the LORD will overcome you and hurl you away violently. Yes, he will grasp you firmly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，耶和华必像大有力的人，将你紧紧缠裹，竭力抛去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，耶和華必像大有力的人，將你緊緊纏裹，竭力拋去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He will surely wind you around and around, and throw you like a ball into a large country. There you will die, and there the chariots of your glory will be, you disgrace of your lord’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必将你滚成一团，抛在宽阔之地，好像抛球一样。你这主人家的羞辱，必在那里坐你荣耀的车，也必在那里死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必將你滾成一團，拋在寬闊之地，好像拋球一樣。你這主人家的羞辱，必在那裏坐你榮耀的車，也必在那裏死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I will thrust you from your office. You will be pulled down from your station.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必赶逐你离开官职；你必从你的原位撤下。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必趕逐你離開官職；你必從你的原位撤下。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "It will happen in that day that I will call my servant Eliakim the son of Hilkiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「到那日，我必召我仆人希勒家的儿子以利亚敬来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「到那日，我必召我僕人希勒家的兒子以利亞敬來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and I will clothe him with your robe, and strengthen him with your belt. I will commit your government into his hand; and he will be a father to the inhabitants of Jerusalem, and to the house of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将你的外袍给他穿上，将你的腰带给他系紧，将你的政权交在他手中。他必作耶路撒冷居民和犹大家的父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將你的外袍給他穿上，將你的腰帶給他繫緊，將你的政權交在他手中。他必作耶路撒冷居民和猶大家的父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "I will lay the key of David’s house on his shoulder. He will open, and no one will shut. He will shut, and no one will open.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必将大卫家的钥匙放在他肩头上。他开，无人能关；他关，无人能开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必將大衛家的鑰匙放在他肩頭上。他開，無人能關；他關，無人能開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "I will fasten him like a nail in a sure place. He will be for a throne of glory to his father’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必将他安稳，像钉子钉在坚固处；他必作为他父家荣耀的宝座。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必將他安穩，像釘子釘在堅固處；他必作為他父家榮耀的寶座。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They will hang on him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the pitchers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父家所有的荣耀，连儿女带子孙，都挂在他身上，好像一切小器皿，从杯子到酒瓶挂上一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父家所有的榮耀，連兒女帶子孫，都掛在他身上，好像一切小器皿，從杯子到酒瓶掛上一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“In that day,” says the LORD of Armies, “the nail that was fastened in a sure place will give way. It will be cut down and fall. The burden that was on it will be cut off, for the LORD has spoken it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华说：当那日，钉在坚固处的钉子必压斜，被砍断落地；挂在其上的重担必被剪断。因为这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華說：當那日，釘在堅固處的釘子必壓斜，被砍斷落地；掛在其上的重擔必被剪斷。因為這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

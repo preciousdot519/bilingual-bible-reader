@@ -1,0 +1,289 @@
+{
+  "bookId": "AMO",
+  "chapter": 1,
+  "bookEnglish": "Amos",
+  "bookChineseSimplified": "阿摩司书",
+  "bookChineseTraditional": "阿摩司書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当犹大王乌西雅，以色列王约阿施的儿子耶罗波安在位的时候，大地震前二年，提哥亚牧人中的阿摩司得默示论以色列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當猶大王烏西雅，以色列王約阿施的兒子耶羅波安在位的時候，大地震前二年，提哥亞牧人中的阿摩司得默示論以色列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said: “The LORD will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:2 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：耶和华必从锡安吼叫， 从耶路撒冷发声； 牧人的草场要悲哀； 迦密的山顶要枯干。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：耶和華必從錫安吼叫， 從耶路撒冷發聲； 牧人的草場要悲哀； 迦密的山頂要枯乾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD says: “For three transgressions of Damascus, yes, for four, I will not turn away its punishment, because they have threshed Gilead with threshing instruments of iron;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 大马士革三番四次地犯罪， 我必不免去她的刑罚； 因为她以打粮食的铁器打过基列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 大馬士革三番四次地犯罪， 我必不免去她的刑罰； 因為她以打糧食的鐵器打過基列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "but I will send a fire into the house of Hazael, and it will devour the palaces of Ben Hadad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却要降火在哈薛的家中， 烧灭便·哈达的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻要降火在哈薛的家中， 燒滅便‧哈達的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,” the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必折断大马士革的门闩， 剪除亚文平原的居民和伯·伊甸掌权的。 亚兰人必被掳到吉珥。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必折斷大馬士革的門閂， 剪除亞文平原的居民和伯‧伊甸掌權的。 亞蘭人必被擄到吉珥。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD says: “For three transgressions of Gaza, yes, for four, I will not turn away its punishment, because they carried away captive the whole community, to deliver them up to Edom;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 迦萨三番四次地犯罪， 我必不免去她的刑罚； 因为她掳掠众民交给以东。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 迦薩三番四次地犯罪， 我必不免去她的刑罰； 因為她擄掠眾民交給以東。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but I will send a fire on the wall of Gaza, and it will devour its palaces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却要降火在迦萨的城内， 烧灭其中的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻要降火在迦薩的城內， 燒滅其中的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,” the Lord GOD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:8 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必剪除亚实突的居民和亚实基伦掌权的， 也必反手攻击以革伦。 非利士人所余剩的必都灭亡。 这是主耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必剪除亞實突的居民和亞實基倫掌權的， 也必反手攻擊以革倫。 非利士人所餘剩的必都滅亡。 這是主耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD says: “For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn’t remember the brotherly covenant;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 泰尔三番四次地犯罪， 我必不免去她的刑罚； 因为她将众民交给以东， 并不记念弟兄的盟约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 泰爾三番四次地犯罪， 我必不免去她的刑罰； 因為她將眾民交給以東， 並不記念弟兄的盟約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "but I will send a fire on the wall of Tyre, and it will devour its palaces.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却要降火在泰尔的城内， 烧灭其中的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻要降火在泰爾的城內， 燒滅其中的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD says: “For three transgressions of Edom, yes, for four, I will not turn away its punishment, because he pursued his brother with the sword and cast off all pity, and his anger raged continually, and he kept his wrath forever;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 以东三番四次地犯罪， 我必不免去她的刑罚； 因为她拿刀追赶兄弟，毫无怜悯， 发怒撕裂，永怀忿怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 以東三番四次地犯罪， 我必不免去她的刑罰； 因為她拿刀追趕兄弟，毫無憐憫， 發怒撕裂，永懷忿怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "but I will send a fire on Teman, and it will devour the palaces of Bozrah.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却要降火在提幔， 烧灭波斯拉的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻要降火在提幔， 燒滅波斯拉的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The LORD says: “For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment, because they have ripped open the pregnant women of Gilead, that they may enlarge their border.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 亚扪人三番四次地犯罪， 我必不免去他们的刑罚； 因为他们剖开基列的孕妇， 扩张自己的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 亞捫人三番四次地犯罪， 我必不免去他們的刑罰； 因為他們剖開基列的孕婦， 擴張自己的境界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But I will kindle a fire in the wall of Rabbah, and it will devour its palaces, with shouting in the day of battle, with a storm in the day of the whirlwind;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却要在争战呐喊的日子， 旋风狂暴的时候， 点火在拉巴的城内， 烧灭其中的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻要在爭戰吶喊的日子， 旋風狂暴的時候， 點火在拉巴的城內， 燒滅其中的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and their king will go into captivity, he and his princes together,” the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的王和首领必一同被掳去。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的王和首領必一同被擄去。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

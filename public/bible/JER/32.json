@@ -1,0 +1,806 @@
+{
+  "bookId": "JER",
+  "chapter": 32,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王西底家第十年，就是尼布甲尼撒十八年，耶和华的话临到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王西底家第十年，就是尼布甲尼撒十八年，耶和華的話臨到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Now at that time the king of Babylon’s army was besieging Jerusalem. Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时巴比伦王的军队围困耶路撒冷，先知耶利米囚在护卫兵的院内，在犹大王的宫中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時巴比倫王的軍隊圍困耶路撒冷，先知耶利米囚在護衛兵的院內，在猶大王的宮中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For Zedekiah king of Judah had shut him up, saying, “Why do you prophesy, and say, ‘The LORD says, “Behold, I will give this city into the hand of the king of Babylon, and he will take it;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为犹大王西底家已将他囚禁，说：「你为什么预言说，耶和华如此说：『我必将这城交在巴比伦王的手中，他必攻取这城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為猶大王西底家已將他囚禁，說：「你為甚麼預言說，耶和華如此說：『我必將這城交在巴比倫王的手中，他必攻取這城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and Zedekiah king of Judah won’t escape out of the hand of the Chaldeans, but will surely be delivered into the hand of the king of Babylon, and will speak with him mouth to mouth, and his eyes will see his eyes;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王西底家必不能逃脱迦勒底人的手，定要交在巴比伦王的手中，要口对口彼此说话，眼对眼彼此相看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王西底家必不能逃脫迦勒底人的手，定要交在巴比倫王的手中，要口對口彼此說話，眼對眼彼此相看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and he will bring Zedekiah to Babylon, and he will be there until I visit him,” says the LORD, “though you fight with the Chaldeans, you will not prosper”’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴比伦王必将西底家带到巴比伦；西底家必住在那里，直到我眷顾他的时候。你们虽与迦勒底人争战，却不顺利。这是耶和华说的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴比倫王必將西底家帶到巴比倫；西底家必住在那裏，直到我眷顧他的時候。你們雖與迦勒底人爭戰，卻不順利。這是耶和華說的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Jeremiah said, “The LORD’s word came to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶利米说：「耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶利米說：「耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "‘Behold, Hanamel the son of Shallum your uncle will come to you, saying, “Buy my field that is in Anathoth; for the right of redemption is yours to buy it.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『你叔叔沙龙的儿子哈拿篾必来见你，说：我在亚拿突的那块地，求你买来；因你买这地是合乎赎回之理。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『你叔叔沙龍的兒子哈拿篾必來見你，說：我在亞拿突的那塊地，求你買來；因你買這地是合乎贖回之理。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“So Hanamel my uncle’s son came to me in the court of the guard according to the LORD’s word, and said to me, ‘Please buy my field that is in Anathoth, which is in the land of Benjamin; for the right of inheritance is yours, and the redemption is yours. Buy it for yourself.’ Then I knew that this was the LORD’s word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我叔叔的儿子哈拿篾果然照耶和华的话来到护卫兵的院内，对我说：「我在便雅悯境内、亚拿突的那块地，求你买来；因你买来是合乎承受之理，是你当赎的。你为自己买来吧！」我—耶利米就知道这是耶和华的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我叔叔的兒子哈拿篾果然照耶和華的話來到護衛兵的院內，對我說：「我在便雅憫境內、亞拿突的那塊地，求你買來；因你買來是合乎承受之理，是你當贖的。你為自己買來吧！」我－耶利米就知道這是耶和華的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I bought the field that was in Anathoth of Hanamel my uncle’s son, and weighed him the money, even seventeen shekels of silver.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "32:9 A shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便向我叔叔的儿子哈拿篾买了亚拿突的那块地，平了十七舍客勒银子给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便向我叔叔的兒子哈拿篾買了亞拿突的那塊地，平了十七舍客勒銀子給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I signed the deed, sealed it, called witnesses, and weighed the money in the balances to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在契上画押，将契封缄，又请见证人来，并用天平将银子平给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在契上畫押，將契封緘，又請見證人來，並用天平將銀子平給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "So I took the deed of the purchase, both that which was sealed, containing the terms and conditions, and that which was open;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便将照例按规所立的买契，就是封缄的那一张和敞着的那一张，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便將照例按規所立的買契，就是封緘的那一張和敞着的那一張，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and I delivered the deed of the purchase to Baruch the son of Neriah, the son of Mahseiah, in the presence of Hanamel my uncle’s son, and in the presence of the witnesses who signed the deed of the purchase, before all the Jews who sat in the court of the guard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当着我叔叔的儿子哈拿篾和画押作见证的人，并坐在护卫兵院内的一切犹大人眼前，交给玛西雅的孙子尼利亚的儿子巴录。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當着我叔叔的兒子哈拿篾和畫押作見證的人，並坐在護衛兵院內的一切猶大人眼前，交給瑪西雅的孫子尼利亞的兒子巴錄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“I commanded Baruch before them, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当着他们众人眼前，我嘱咐巴录说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當着他們眾人眼前，我囑咐巴錄說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the LORD of Armies, the God of Israel, says: ‘Take these deeds, this deed of the purchase which is sealed, and this deed which is open, and put them in an earthen vessel, that they may last many days.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「万军之耶和华—以色列的 神如此说：要将这封缄的和敞着的两张契放在瓦器里，可以存留多日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「萬軍之耶和華－以色列的上帝如此說：要將這封緘的和敞着的兩張契放在瓦器裏，可以存留多日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For the LORD of Armies, the God of Israel says: ‘Houses and fields and vineyards will yet again be bought in this land.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为万军之耶和华—以色列的 神如此说：将来在这地必有人再买房屋、田地，和葡萄园。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為萬軍之耶和華－以色列的上帝如此說：將來在這地必有人再買房屋、田地，和葡萄園。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now after I had delivered the deed of the purchase to Baruch the son of Neriah, I prayed to the LORD, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将买契交给尼利亚的儿子巴录以后，便祷告耶和华说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將買契交給尼利亞的兒子巴錄以後，便禱告耶和華說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Ah Lord GOD! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. There is nothing too hard for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「主耶和华啊，你曾用大能和伸出来的膀臂创造天地，在你没有难成的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「主耶和華啊，你曾用大能和伸出來的膀臂創造天地，在你沒有難成的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You show loving kindness to thousands, and repay the iniquity of the fathers into the bosom of their children after them. The great, the mighty God, the LORD of Armies is your name:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你施慈爱与千万人，又将父亲的罪孽报应在他后世子孙的怀中，是至大全能的 神，万军之耶和华是你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你施慈愛與千萬人，又將父親的罪孽報應在他後世子孫的懷中，是至大全能的上帝，萬軍之耶和華是你的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "great in counsel, and mighty in work; whose eyes are open to all the ways of the children of men, to give everyone according to his ways, and according to the fruit of his doings;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谋事有大略，行事有大能，注目观看世人一切的举动，为要照各人所行的和他做事的结果报应他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謀事有大略，行事有大能，注目觀看世人一切的舉動，為要照各人所行的和他做事的結果報應他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "who performed signs and wonders in the land of Egypt, even to this day, both in Israel and among other men; and made yourself a name, as it is today;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在埃及地显神迹奇事，直到今日在以色列和别人中间也是如此，使自己得了名声，正如今日一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在埃及地顯神蹟奇事，直到今日在以色列和別人中間也是如此，使自己得了名聲，正如今日一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and brought your people Israel out of the land of Egypt with signs, with wonders, with a strong hand, with an outstretched arm, and with great terror;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用神迹奇事和大能的手，并伸出来的膀臂与大可畏的事，领你的百姓以色列出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用神蹟奇事和大能的手，並伸出來的膀臂與大可畏的事，領你的百姓以色列出了埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "and gave them this land, which you swore to their fathers to give them, a land flowing with milk and honey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将这地赐给他们，就是你向他们列祖起誓应许赐给他们流奶与蜜之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將這地賜給他們，就是你向他們列祖起誓應許賜給他們流奶與蜜之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They came in and possessed it, but they didn’t obey your voice and didn’t walk in your law. They have done nothing of all that you commanded them to do. Therefore you have caused all this evil to come upon them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们进入这地得了为业，却不听从你的话，也不遵行你的律法；你一切所吩咐他们行的，他们一无所行，因此你使这一切的灾祸临到他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們進入這地得了為業，卻不聽從你的話，也不遵行你的律法；你一切所吩咐他們行的，他們一無所行，因此你使這一切的災禍臨到他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Behold, siege ramps have been built against the city to take it. The city is given into the hand of the Chaldeans who fight against it, because of the sword, of the famine, and of the pestilence. What you have spoken has happened. Behold, you see it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，敌人已经来到，筑垒要攻取这城；城也因刀剑、饥荒、瘟疫交在攻城的迦勒底人手中。你所说的话都成就了，你也看见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，敵人已經來到，築壘要攻取這城；城也因刀劍、饑荒、瘟疫交在攻城的迦勒底人手中。你所說的話都成就了，你也看見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You have said to me, Lord GOD, ‘Buy the field for money, and call witnesses;’ whereas the city is given into the hand of the Chaldeans.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华啊，你对我说：要用银子为自己买那块地，又请见证人。其实这城已交在迦勒底人的手中了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華啊，你對我說：要用銀子為自己買那塊地，又請見證人。其實這城已交在迦勒底人的手中了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Then the LORD’s word came to Jeremiah, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Behold, I am the LORD, the God of all flesh. Is there anything too hard for me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我是耶和华，是凡有血气者的 神，岂有我难成的事吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我是耶和華，是凡有血氣者的上帝，豈有我難成的事嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Therefore the LORD says: Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadnezzar king of Babylon, and he will take it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说：我必将这城交付迦勒底人的手和巴比伦王尼布甲尼撒的手，他必攻取这城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說：我必將這城交付迦勒底人的手和巴比倫王尼布甲尼撒的手，他必攻取這城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The Chaldeans, who fight against this city, will come and set this city on fire, and burn it with the houses on whose roofs they have offered incense to Baal, and poured out drink offerings to other gods, to provoke me to anger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "攻城的迦勒底人必来放火焚烧这城和其中的房屋。在这房屋上，人曾向巴力烧香，向别神浇奠，惹我发怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "攻城的迦勒底人必來放火焚燒這城和其中的房屋。在這房屋上，人曾向巴力燒香，向別神澆奠，惹我發怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“For the children of Israel and the children of Judah have done only that which was evil in my sight from their youth; for the children of Israel have only provoked me to anger with the work of their hands, says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人和犹大人自从幼年以来，专行我眼中看为恶的事；以色列人尽以手所做的惹我发怒。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人和猶大人自從幼年以來，專行我眼中看為惡的事；以色列人盡以手所做的惹我發怒。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For this city has been to me a provocation of my anger and of my wrath from the day that they built it even to this day, so that I should remove it from before my face,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这城自从建造的那日直到今日，常惹我的怒气和忿怒，使我将这城从我面前除掉；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這城自從建造的那日直到今日，常惹我的怒氣和忿怒，使我將這城從我面前除掉；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "because of all the evil of the children of Israel and of the children of Judah, which they have done to provoke me to anger—they, their kings, their princes, their priests, their prophets, the men of Judah, and the inhabitants of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是因以色列人和犹大人一切的邪恶，就是他们和他们的君王、首领、祭司、先知，并犹大的众人，以及耶路撒冷的居民所行的，惹我发怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是因以色列人和猶大人一切的邪惡，就是他們和他們的君王、首領、祭司、先知，並猶大的眾人，以及耶路撒冷的居民所行的，惹我發怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They have turned their backs to me, and not their faces. Although I taught them, rising up early and teaching them, yet they have not listened to receive instruction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们以背向我，不以面向我；我虽从早起来教训他们，他们却不听从，不受教训，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們以背向我，不以面向我；我雖從早起來教訓他們，他們卻不聽從，不受教訓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "But they set their abominations in the house which is called by my name, to defile it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "竟把可憎之物设立在称为我名下的殿中，污秽了这殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "竟把可憎之物設立在稱為我名下的殿中，污穢了這殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through fire to Molech, which I didn’t command them. It didn’t even come into my mind, that they should do this abomination, to cause Judah to sin.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在欣嫩子谷建筑巴力的邱坛，好使自己的儿女经火归摩洛；他们行这可憎的事，使犹大陷在罪里，这并不是我所吩咐的，也不是我心所起的意。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在欣嫩子谷建築巴力的邱壇，好使自己的兒女經火歸摩洛；他們行這可憎的事，使猶大陷在罪裏，這並不是我所吩咐的，也不是我心所起的意。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Now therefore the LORD, the God of Israel, says concerning this city, about which you say, “It is given into the hand of the king of Babylon by the sword, by the famine, and by the pestilence:”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在论到这城，就是你们所说、已经因刀剑、饥荒、瘟疫交在巴比伦王手中的，耶和华—以色列的 神如此说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在論到這城，就是你們所說、已經因刀劍、饑荒、瘟疫交在巴比倫王手中的，耶和華－以色列的上帝如此說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“Behold, I will gather them out of all the countries where I have driven them in my anger, and in my wrath, and in great indignation; and I will bring them again to this place. I will cause them to dwell safely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我在怒气、忿怒，和大恼恨中，将以色列人赶到各国。日后我必从那里将他们招聚出来，领他们回到此地，使他们安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我在怒氣、忿怒，和大惱恨中，將以色列人趕到各國。日後我必從那裏將他們招聚出來，領他們回到此地，使他們安然居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Then they will be my people, and I will be their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要作我的子民，我要作他们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要作我的子民，我要作他們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "I will give them one heart and one way, that they may fear me forever, for their good and the good of their children after them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要使他们彼此同心同道，好叫他们永远敬畏我，使他们和他们后世的子孙得福乐，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要使他們彼此同心同道，好叫他們永遠敬畏我，使他們和他們後世的子孫得福樂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "I will make an everlasting covenant with them, that I will not turn away from following them, to do them good. I will put my fear in their hearts, that they may not depart from me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要与他们立永远的约，必随着他们施恩，并不离开他们，且使他们有敬畏我的心，不离开我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要與他們立永遠的約，必隨着他們施恩，並不離開他們，且使他們有敬畏我的心，不離開我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Yes, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必欢喜施恩与他们，要尽心尽意、诚诚实实将他们栽于此地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必歡喜施恩與他們，要盡心盡意、誠誠實實將他們栽於此地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "For the LORD says: “Just as I have brought all this great evil on this people, so I will bring on them all the good that I have promised them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「因为耶和华如此说：我怎样使这一切大祸临到这百姓，我也要照样使我所应许他们的一切福乐都临到他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「因為耶和華如此說：我怎樣使這一切大禍臨到這百姓，我也要照樣使我所應許他們的一切福樂都臨到他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Fields will be bought in this land, about which you say, ‘It is desolate, without man or animal. It is given into the hand of the Chaldeans.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们说，这地是荒凉、无人民、无牲畜，是交付迦勒底人手之地。日后在这境内，必有人置买田地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們說，這地是荒涼、無人民、無牲畜，是交付迦勒底人手之地。日後在這境內，必有人置買田地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Men will buy fields for money, sign the deeds, seal them, and call witnesses, in the land of Benjamin, and in the places around Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the lowland, and in the cities of the South; for I will cause their captivity to be reversed,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在便雅悯地、耶路撒冷四围的各处、犹大的城邑、山地的城邑、高原的城邑，并南地的城邑，人必用银子买田地，在契上画押，将契封缄，请出见证人，因为我必使被掳的人归回。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在便雅憫地、耶路撒冷四圍的各處、猶大的城邑、山地的城邑、高原的城邑，並南地的城邑，人必用銀子買田地，在契上畫押，將契封緘，請出見證人，因為我必使被擄的人歸回。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

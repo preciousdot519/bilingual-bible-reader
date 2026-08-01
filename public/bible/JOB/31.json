@@ -1,0 +1,749 @@
+{
+  "bookId": "JOB",
+  "chapter": 31,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“I made a covenant with my eyes; how then should I look lustfully at a young woman?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我与眼睛立约， 怎能恋恋瞻望处女呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我與眼睛立約， 怎能戀戀瞻望處女呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For what is the portion from God above, and the heritage from the Almighty on high?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从至上的 神所得之分， 从至高全能者所得之业是什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從至上的上帝所得之分， 從至高全能者所得之業是甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Is it not calamity to the unrighteous, and disaster to the workers of iniquity?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂不是祸患临到不义的， 灾害临到作孽的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈不是禍患臨到不義的， 災害臨到作孽的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Doesn’t he see my ways, and count all my steps?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神岂不是察看我的道路， 数点我的脚步呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝豈不是察看我的道路， 數點我的腳步呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“If I have walked with falsehood, and my foot has hurried to deceit",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若与虚谎同行， 脚若追随诡诈； （",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若與虛謊同行， 腳若追隨詭詐； （",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "(let me be weighed in an even balance, that God may know my integrity);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若被公道的天平称度， 使 神可以知道我的纯正；）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若被公道的天平稱度， 使上帝可以知道我的純正；）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "if my step has turned out of the way, if my heart walked after my eyes, if any defilement has stuck to my hands,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的脚步若偏离正路， 我的心若随着我的眼目， 若有玷污粘在我手上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的腳步若偏離正路， 我的心若隨着我的眼目， 若有玷污粘在我手上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "then let me sow, and let another eat. Yes, let the produce of my field be rooted out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就愿我所种的有别人吃， 我田所产的被拔出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就願我所種的有別人吃， 我田所產的被拔出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“If my heart has been enticed to a woman, and I have laid wait at my neighbor’s door,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若受迷惑，向妇人起淫念， 在邻舍的门外蹲伏，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若受迷惑，向婦人起淫念， 在鄰舍的門外蹲伏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "then let my wife grind for another, and let others sleep with her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就愿我的妻子给别人推磨， 别人也与她同室。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就願我的妻子給別人推磨， 別人也與她同室。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For that would be a heinous crime. Yes, it would be an iniquity to be punished by the judges,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为这是大罪， 是审判官当罚的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為這是大罪， 是審判官當罰的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "for it is a fire that consumes to destruction, and would root out all my increase.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这本是火焚烧，直到毁灭， 必拔除我所有的家产。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這本是火焚燒，直到毀滅， 必拔除我所有的家產。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“If I have despised the cause of my male servant or of my female servant, when they contended with me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的仆婢与我争辩的时候， 我若藐视不听他们的情节；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的僕婢與我爭辯的時候， 我若藐視不聽他們的情節；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "what then will I do when God rises up? When he visits, what will I answer him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神兴起，我怎样行呢？ 他察问，我怎样回答呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝興起，我怎樣行呢？ 他察問，我怎樣回答呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Didn’t he who made me in the womb make him? Didn’t one fashion us in the womb?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "造我在腹中的，不也是造他吗？ 将他与我抟在腹中的岂不是一位吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "造我在腹中的，不也是造他嗎？ 將他與我摶在腹中的豈不是一位嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“If I have withheld the poor from their desire, or have caused the eyes of the widow to fail,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若不容贫寒人得其所愿， 或叫寡妇眼中失望，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若不容貧寒人得其所願， 或叫寡婦眼中失望，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "or have eaten my morsel alone, and the fatherless has not eaten of it",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或独自吃我一点食物， 孤儿没有与我同吃； （",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或獨自吃我一點食物， 孤兒沒有與我同吃； （",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "(no, from my youth he grew up with me as with a father, I have guided her from my mother’s womb);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从幼年时孤儿与我同长，好像父子一样； 我从出母腹就扶助寡妇。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:18 原文是引领"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從幼年時孤兒與我同長，好像父子一樣； 我從出母腹就扶助 寡婦。）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:18 原文是引領"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "if I have seen any perish for want of clothing, or that the needy had no covering;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若见人因无衣死亡， 或见穷乏人身无遮盖；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若見人因無衣死亡， 或見窮乏人身無遮蓋；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "if his heart hasn’t blessed me, if he hasn’t been warmed with my sheep’s fleece;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若不使他因我羊的毛得暖， 为我祝福；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若不使他因我羊的毛得暖， 為我祝福；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "if I have lifted up my hand against the fatherless, because I saw my help in the gate;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若在城门口见有帮助我的， 举手攻击孤儿；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若在城門口見有幫助我的， 舉手攻擊孤兒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "then let my shoulder fall from the shoulder blade, and my arm be broken from the bone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "情愿我的肩头从缺盆骨脱落， 我的膀臂从羊矢骨折断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "情願我的肩頭從缺盆骨脫落， 我的膀臂從羊矢骨折斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For calamity from God is a terror to me. Because of his majesty, I can do nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因 神降的灾祸使我恐惧； 因他的威严，我不能妄为。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因上帝降的災禍使我恐懼； 因他的威嚴，我不能妄為。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“If I have made gold my hope, and have said to the fine gold, ‘You are my confidence;’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若以黄金为指望， 对精金说：你是我的倚靠；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若以黃金為指望， 對精金說：你是我的倚靠；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "If I have rejoiced because my wealth was great, and because my hand had gotten much;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若因财物丰裕， 因我手多得资财而欢喜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若因財物豐裕， 因我手多得資財而歡喜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "if I have seen the sun when it shined, or the moon moving in splendor,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若见太阳发光， 明月行在空中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若見太陽發光， 明月行在空中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "and my heart has been secretly enticed, and my hand threw a kiss from my mouth;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心就暗暗被引诱， 口便亲手；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心就暗暗被引誘， 口便親手；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "this also would be an iniquity to be punished by the judges, for I would have denied the God who is above.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这也是审判官当罚的罪孽， 又是我背弃在上的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這也是審判官當罰的罪孽， 又是我背棄在上的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“If I have rejoiced at the destruction of him who hated me, or lifted up myself when evil found him",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若见恨我的遭报就欢喜， 见他遭灾便高兴； （",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若見恨我的遭報就歡喜， 見他遭災便高興； （",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "(I have certainly not allowed my mouth to sin by asking his life with a curse);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我没有容口犯罪， 咒诅他的生命；）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我沒有容口犯罪， 咒詛他的生命；）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "if the men of my tent have not said, ‘Who can find one who has not been filled with his meat?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若我帐棚的人未尝说， 谁不以主人的食物吃饱呢？ （",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若我帳棚的人未嘗說， 誰不以主人的食物吃飽呢？ （",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "(the foreigner has not camped in the street, but I have opened my doors to the traveler);",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从来我没有容客旅在街上住宿， 却开门迎接行路的人；）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從來我沒有容客旅在街上住宿， 卻開門迎接行路的人；）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "if like Adam I have covered my transgressions, by hiding my iniquity in my heart,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若像亚当遮掩我的过犯， 将罪孽藏在怀中；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:33 或译：别人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若像亞當遮掩我的過犯， 將罪孽藏在懷中；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 31:33 或譯：別人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "because I feared the great multitude, and the contempt of families terrified me, so that I kept silence, and didn’t go out of the door—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因惧怕大众， 又因宗族藐视我使我惊恐， 以致闭口无言，杜门不出；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因懼怕大眾， 又因宗族藐視我使我驚恐， 以致閉口無言，杜門不出；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "oh that I had one to hear me! Behold, here is my signature! Let the Almighty answer me! Let the accuser write my indictment!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿有一位肯听我！ （看哪，在这里有我所划的押， 愿全能者回答我！）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願有一位肯聽我！ （看哪，在這裏有我所劃的押， 願全能者回答我！）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Surely I would carry it on my shoulder, and I would bind it to me as a crown.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿那敌我者所写的状词在我这里！ 我必带在肩上，又绑在头上为冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願那敵我者所寫的狀詞在我這裏！ 我必帶在肩上，又綁在頭上為冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "I would declare to him the number of my steps. I would go near to him like a prince.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必向他述说我脚步的数目， 必如君王进到他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必向他述說我腳步的數目， 必如君王進到他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "If my land cries out against me, and its furrows weep together;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若夺取田地，这地向我喊冤， 犁沟一同哭泣；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若奪取田地，這地向我喊冤， 犂溝一同哭泣；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "if I have eaten its fruits without money, or have caused its owners to lose their life,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若吃地的出产不给价值， 或叫原主丧命；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若吃地的出產不給價值， 或叫原主喪命；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "let briers grow instead of wheat, and stinkweed instead of barley.” The words of Job are ended.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿这地长蒺藜代替麦子， 长恶草代替大麦。 约伯的话说完了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願這地長蒺藜代替麥子， 長惡草代替大麥。 約伯的話說完了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "bookId": "LUK",
+  "chapter": 20,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "On one of those days, as he was teaching the people in the temple and preaching the Good News, the priests and scribes came to him with the elders.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:1 TR adds “chief”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一天，耶稣在殿里教训百姓，讲福音的时候，祭司长和文士并长老上前来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一天，耶穌在殿裏教訓百姓，講福音的時候，祭司長和文士並長老上前來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They asked him, “Tell us: by what authority do you do these things? Or who is giving you this authority?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "问他说：「你告诉我们，你仗着什么权柄做这些事？给你这权柄的是谁呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "問他說：「你告訴我們，你仗着甚麼權柄做這些事？給你這權柄的是誰呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He answered them, “Ialso will ask you one question. Tell me:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我也要问你们一句话，你们且告诉我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我也要問你們一句話，你們且告訴我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "thebaptism of John, was it from heaven, or from men?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰的洗礼是从天上来的？是从人间来的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰的洗禮是從天上來的？是從人間來的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will say, ‘Why didn’t you believe him?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们彼此商议说：「我们若说『从天上来』，他必说：『你们为什么不信他呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們彼此商議說：「我們若說『從天上來』，他必說：『你們為甚麼不信他呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But if we say, ‘From men,’ all the people will stone us, for they are persuaded that John was a prophet.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若说『从人间来』，百姓都要用石头打死我们，因为他们信约翰是先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若說『從人間來』，百姓都要用石頭打死我們，因為他們信約翰是先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They answered that they didn’t know where it was from.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是回答说：「不知道是从哪里来的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是回答說：「不知道是從哪裏來的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Jesus said to them, “Neitherwill I tell you by what authority I do these things.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我也不告诉你们，我仗着什么权柄做这些事。」 （太21·33—46；可12·1—12）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我也不告訴你們，我仗着甚麼權柄做這些事。」 （太21‧33－46；可12‧1－12）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He began to tell the people this parable: “A manplanted a vineyard and rented it out to some farmers, and went into another country for a long time.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:9 NU (in brackets) and TR add “certain”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就设比喻对百姓说：「有人栽了一个葡萄园，租给园户，就往外国去住了许久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就設比喻對百姓說：「有人栽了一個葡萄園，租給園戶，就往外國去住了許久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Atthe proper season, he sent a servant to the farmers to collect his share of the fruit of the vineyard. But the farmers beat him and sent him away empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了时候，打发一个仆人到园户那里去，叫他们把园中当纳的果子交给他；园户竟打了他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了時候，打發一個僕人到園戶那裏去，叫他們把園中當納的果子交給他；園戶竟打了他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Hesent yet another servant, and they also beat him and treated him shamefully, and sent him away empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又打发一个仆人去，他们也打了他，并且凌辱他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又打發一個僕人去，他們也打了他，並且凌辱他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Hesent yet a third, and they also wounded him and threw him out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又打发第三个仆人去，他们也打伤了他，把他推出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又打發第三個僕人去，他們也打傷了他，把他推出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Thelord of the vineyard said, ‘What shall I do? I will send my beloved son. It may be that seeing him, they will respect him.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "园主说：『我怎么办呢？我要打发我的爱子去，或者他们尊敬他。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "園主說：『我怎麼辦呢？我要打發我的愛子去，或者他們尊敬他。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Butwhen the farmers saw him, they reasoned among themselves, saying, ‘This is the heir. Come, let’s kill him, that the inheritance may be ours.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不料，园户看见他，就彼此商量说：『这是承受产业的，我们杀他吧，使产业归于我们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不料，園戶看見他，就彼此商量說：『這是承受產業的，我們殺他吧，使產業歸於我們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Thenthey threw him out of the vineyard and killed him. What therefore will the lord of the vineyard do to them?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是把他推出葡萄园外，杀了。这样，葡萄园的主人要怎样处治他们呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是把他推出葡萄園外，殺了。這樣，葡萄園的主人要怎樣處治他們呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Hewill come and destroy these farmers, and will give the vineyard to others.” When they heard that, they said, “May that never be!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要来除灭这些园户，将葡萄园转给别人。」听见的人说：「这是万不可的！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要來除滅這些園戶，將葡萄園轉給別人。」聽見的人說：「這是萬不可的！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But he looked at them and said, “Thenwhat is this that is written, ‘Thestone which the builders rejected wasmade the chief cornerstone’?",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "20:17 Psalms 118:22",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣看着他们说：「经上记着： 匠人所弃的石头 已作了房角的头块石头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看着他們說：「經上記着： 匠人所棄的石頭 已作了房角的頭塊石頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Everyonewho falls on that stone will be broken to pieces, butit will crush whomever it falls on to dust.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡掉在那石头上的，必要跌碎；那石头掉在谁的身上，就要把谁砸得稀烂。」 （太22·15—22；可12·13—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡掉在那石頭上的，必要跌碎；那石頭掉在誰的身上，就要把誰砸得稀爛。」 （太22‧15－22；可12‧13－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The chief priests and the scribes sought to lay hands on him that very hour, but they feared the people—for they knew he had spoken this parable against them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "文士和祭司长看出这比喻是指着他们说的，当时就想要下手拿他，只是惧怕百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "文士和祭司長看出這比喻是指着他們說的，當時就想要下手拿他，只是懼怕百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They watched him and sent out spies, who pretended to be righteous, that they might trap him in something he said, so as to deliver him up to the power and authority of the governor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是窥探耶稣，打发奸细装作好人，要在他的话上得把柄，好将他交在巡抚的政权之下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是窺探耶穌，打發奸細裝作好人，要在他的話上得把柄，好將他交在巡撫的政權之下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They asked him, “Teacher, we know that you say and teach what is right, and aren’t partial to anyone, but truly teach the way of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奸细就问耶稣说：「夫子，我们晓得你所讲所传都是正道，也不取人的外貌，乃是诚诚实实传 神的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奸細就問耶穌說：「夫子，我們曉得你所講所傳都是正道，也不取人的外貌，乃是誠誠實實傳上帝的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Is it lawful for us to pay taxes to Caesar, or not?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们纳税给凯撒，可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們納稅給凱撒，可以不可以？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But he perceived their craftiness, and said to them, “Why doyou test me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看出他们的诡诈，就对他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看出他們的詭詐，就對他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Showme a denarius. Whose image and inscription are on it?” They answered, “Caesar’s.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「拿一个银钱来给我看。这像和这号是谁的？」他们说：「是凯撒的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「拿一個銀錢來給我看。這像和這號是誰的？」他們說：「是凱撒的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He said to them, “Thengive to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「这样，凯撒的物当归给凯撒， 神的物当归给 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「這樣，凱撒的物當歸給凱撒，上帝的物當歸給上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They weren’t able to trap him in his words before the people. They marveled at his answer and were silent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们当着百姓，在这话上得不着把柄，又希奇他的应对，就闭口无言了。 （太22·23—33；可12·18—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們當着百姓，在這話上得不着把柄，又希奇他的應對，就閉口無言了。 （太22‧23－33；可12‧18－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Some of the Sadducees came to him, those who deny that there is a resurrection.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒都该人常说没有复活的事。有几个来问耶稣说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒都該人常說沒有復活的事。有幾個來問耶穌說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They asked him, “Teacher, Moses wrote to us that if a man’s brother dies having a wife, and he is childless, his brother should take the wife and raise up children for his brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「夫子！摩西为我们写着说：『人若有妻无子就死了，他兄弟当娶他的妻，为哥哥生子立后。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「夫子！摩西為我們寫着說：『人若有妻無子就死了，他兄弟當娶他的妻，為哥哥生子立後。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "There were therefore seven brothers. The first took a wife, and died childless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有弟兄七人，第一个娶了妻，没有孩子死了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有弟兄七人，第一個娶了妻，沒有孩子死了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The second took her as wife, and he died childless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二个、第三个也娶过她；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二個、第三個也娶過她；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The third took her, and likewise the seven all left no children, and died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那七个人都娶过她，没有留下孩子就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那七個人都娶過她，沒有留下孩子就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Afterward the woman also died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来妇人也死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來婦人也死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Therefore in the resurrection whose wife of them will she be? For the seven had her as a wife.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，当复活的时候，她是哪一个的妻子呢？因为他们七个人都娶过她。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，當復活的時候，她是哪一個的妻子呢？因為他們七個人都娶過她。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Jesus said to them, “Thechildren of this age marry and are given in marriage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「这世界的人有娶有嫁；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「這世界的人有娶有嫁；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Butthose who are considered worthy to attain to that age and the resurrection from the dead neither marry nor are given in marriage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有算为配得那世界，与从死里复活的人也不娶也不嫁；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有算為配得那世界，與從死裏復活的人也不娶也不嫁；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Forthey can’t die any more, for they are like the angels and are children of God, being children of the resurrection.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们不能再死，和天使一样；既是复活的人，就为 神的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們不能再死，和天使一樣；既是復活的人，就為上帝的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Butthat the dead are raised, even Moses showed at the bush, when he called the Lord ‘The God of Abraham, the God of Isaac, and the God of Jacob.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "20:37 Exodus 3:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "至于死人复活，摩西在荆棘篇上，称主是亚伯拉罕的 神，以撒的 神，雅各的 神，就指示明白了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於死人復活，摩西在荊棘篇上，稱主是亞伯拉罕的上帝，以撒的上帝，雅各的上帝，就指示明白了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Nowhe is not the God of the dead, but of the living, for all are alive to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神原不是死人的 神，乃是活人的 神；因为在他那里，人都是活的。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:38 那里：或译看来"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝原不是死人的上帝，乃是活人的上帝；因為在他那裏，人都是活的。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:38 那裏：或譯看來"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Some of the scribes answered, “Teacher, you speak well.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有几个文士说：「夫子！你说得好。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有幾個文士說：「夫子！你說得好。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "They didn’t dare to ask him any more questions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以后他们不敢再问他什么。 （太22·41—46；可12·35—37）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後他們不敢再問他甚麼。 （太22‧41－46；可12‧35－37）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He said to them, “Whydo they say that the Christ is David’s son?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「人怎么说基督是大卫的子孙呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「人怎麼說基督是大衛的子孫呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Davidhimself says in the book of Psalms, ‘TheLord said to my Lord, “Sitat my right hand,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "诗篇上大卫自己说： 主对我主说： 你坐在我的右边，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "詩篇上大衛自己說： 主對我主說： 你坐在我的右邊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "untilI make your enemies the footstool of your feet.”’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "20:43 Psalms 110:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "等我使你仇敌作你的脚凳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "等我使你仇敵作你的腳凳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "“Davidtherefore calls him Lord, so how is he his son?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫既称他为主，他怎么又是大卫的子孙呢？」 （太23·1—36；可12·38—40）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛既稱他為主，他怎麼又是大衛的子孫呢？」 （太23‧1－36；可12‧38－40）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "In the hearing of all the people, he said to his disciples,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众百姓听的时候，耶稣对门徒说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾百姓聽的時候，耶穌對門徒說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "“Bewareof those scribes who like to walk in long robes, and love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要防备文士。他们好穿长衣游行，喜爱人在街市上问他们安，又喜爱会堂里的高位，筵席上的首座；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要防備文士。他們好穿長衣遊行，喜愛人在街市上問他們安，又喜愛會堂裏的高位，筵席上的首座；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "whodevour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们侵吞寡妇的家产，假意作很长的祷告。这些人要受更重的刑罚！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

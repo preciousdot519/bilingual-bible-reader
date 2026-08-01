@@ -1,0 +1,490 @@
+{
+  "bookId": "ROM",
+  "chapter": 7,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:1 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我现在对明白律法的人说，你们岂不晓得律法管人是在活着的时候吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我現在對明白律法的人說，你們豈不曉得律法管人是在活着的時候嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就如女人有了丈夫，丈夫还活着，就被律法约束；丈夫若死了，就脱离了丈夫的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就如女人有了丈夫，丈夫還活着，就被律法約束；丈夫若死了，就脫離了丈夫的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以丈夫活着，她若归于别人，便叫淫妇；丈夫若死了，她就脱离了丈夫的律法，虽然归于别人，也不是淫妇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以丈夫活着，她若歸於別人，便叫淫婦；丈夫若死了，她就脫離了丈夫的律法，雖然歸於別人，也不是淫婦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的弟兄们，这样说来，你们借着基督的身体，在律法上也是死了，叫你们归于别人，就是归于那从死里复活的，叫我们结果子给 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的弟兄們，這樣說來，你們藉着基督的身體，在律法上也是死了，叫你們歸於別人，就是歸於那從死裏復活的，叫我們結果子給上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For when we were in the flesh, the sinful passions which were through the law worked in our members to bring out fruit to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我们属肉体的时候，那因律法而生的恶欲就在我们肢体中发动，以致结成死亡的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們屬肉體的時候，那因律法而生的惡慾就在我們肢體中發動，以致結成死亡的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我们既然在捆我们的律法上死了，现今就脱离了律法，叫我们服事主，要按着心灵的新样，不按着仪文的旧样。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:6 心灵：或译圣灵"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我們既然在捆我們的律法上死了，現今就脫離了律法，叫我們服事主，要按着心靈的新樣，不按着儀文的舊樣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:6 心靈：或譯聖靈"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin except through the law. For I wouldn’t have known coveting unless the law had said, “You shall not covet.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "7:7 Exodus 20:17; Deuteronomy 5:21",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这样，我们可说什么呢？律法是罪吗？断乎不是！只是非因律法，我就不知何为罪。非律法说「不可起贪心」，我就不知何为贪心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們可說甚麼呢？律法是罪嗎？斷乎不是！只是非因律法，我就不知何為罪。非律法說「不可起貪心」，我就不知何為貪心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，罪趁着机会，就借着诫命叫诸般的贪心在我里头发动；因为没有律法，罪是死的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，罪趁着機會， 就藉着誡命叫諸般的貪心在我裏頭發動；因為沒有律法，罪是死的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I was alive apart from the law once, but when the commandment came, sin revived and I died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我以前没有律法是活着的；但是诫命来到，罪又活了，我就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我以前沒有律法是活着的；但是誡命來到，罪又活了，我就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The commandment which was for life, this I found to be for death;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那本来叫人活的诫命，反倒叫我死；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那本來叫人活的誡命，反倒叫我死；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "for sin, finding occasion through the commandment, deceived me, and through it killed me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为罪趁着机会，就借着诫命引诱我，并且杀了我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為罪趁着機會， 就藉着誡命引誘我，並且殺了我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore the law indeed is holy, and the commandment holy, righteous, and good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，律法是圣洁的，诫命也是圣洁、公义、良善的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，律法是聖潔的，誡命也是聖潔、公義、良善的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, was producing death in me through that which is good; that through the commandment sin might become exceedingly sinful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既然如此，那良善的是叫我死吗？断乎不是！叫我死的乃是罪。但罪借着那良善的叫我死，就显出真是罪，叫罪因着诫命更显出是恶极了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既然如此，那良善的是叫我死嗎？斷乎不是！叫我死的乃是罪。但罪藉着那良善的叫我死，就顯出真是罪，叫罪因着誡命更顯出是惡極了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For we know that the law is spiritual, but I am fleshly, sold under sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们原晓得律法是属乎灵的，但我是属乎肉体的，是已经卖给罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們原曉得律法是屬乎靈的，但我是屬乎肉體的，是已經賣給罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For I don’t understand what I am doing. For I don’t practice what I desire to do; but what I hate, that I do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我所做的，我自己不明白；我所愿意的，我并不做；我所恨恶的，我倒去做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我所做的，我自己不明白；我所願意的，我並不做；我所恨惡的，我倒去做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But if what I don’t desire, that I do, I consent to the law that it is good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若我所做的，是我所不愿意的，我就应承律法是善的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若我所做的，是我所不願意的，我就應承律法是善的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So now it is no more I that do it, but sin which dwells in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既是这样，就不是我做的，乃是住在我里头的罪做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既是這樣，就不是我做的，乃是住在我裏頭的罪做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For I know that in me, that is, in my flesh, dwells no good thing. For desire is present with me, but I don’t find it doing that which is good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也知道，在我里头，就是我肉体之中，没有良善。因为，立志为善由得我，只是行出来由不得我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也知道，在我裏頭，就是我肉體之中，沒有良善。因為，立志為善由得我，只是行出來由不得我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For the good which I desire, I don’t do; but the evil which I don’t desire, that I practice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，我所愿意的善，我反不做；我所不愿意的恶，我倒去做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，我所願意的善，我反不做；我所不願意的惡，我倒去做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But if what I don’t desire, that I do, it is no more I that do it, but sin which dwells in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若我去做所不愿意做的，就不是我做的，乃是住在我里头的罪做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若我去做所不願意做的，就不是我做的，乃是住在我裏頭的罪做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I find then the law that, while I desire to do good, evil is present.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我觉得有个律，就是我愿意为善的时候，便有恶与我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我覺得有個律，就是我願意為善的時候，便有惡與我同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For I delight in God’s law after the inward person,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为按着我里面的意思，我是喜欢 神的律；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:22 原文是人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為按着我裏面的意思，我是喜歡上帝的律；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:22 原文是人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我觉得肢体中另有个律和我心中的律交战，把我掳去，叫我附从那肢体中犯罪的律。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我覺得肢體中另有個律和我心中的律交戰，把我擄去，叫我附從那肢體中犯罪的律。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "What a wretched man I am! Who will deliver me out of the body of this death?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我真是苦啊！谁能救我脱离这取死的身体呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我真是苦啊！誰能救我脫離這取死的身體呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, sin’s law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "感谢 神，靠着我们的主耶稣基督就能脱离了。这样看来，我以内心顺服 神的律，我肉体却顺服罪的律了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "感謝上帝，靠着我們的主耶穌基督就能脫離了。這樣看來，我以內心順服上帝的律，我肉體卻順服罪的律了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

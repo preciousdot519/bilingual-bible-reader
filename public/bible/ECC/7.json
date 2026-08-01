@@ -1,0 +1,549 @@
+{
+  "bookId": "ECC",
+  "chapter": 7,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "A good name is better than fine perfume; and the day of death better than the day of one’s birth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "名誉强如美好的膏油；人死的日子胜过人生的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "名譽強如美好的膏油；人死的日子勝過人生的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men, and the living should take this to heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "往遭丧的家去， 强如往宴乐的家去； 因为死是众人的结局， 活人也必将这事放在心上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "往遭喪的家去， 強如往宴樂的家去； 因為死是眾人的結局， 活人也必將這事放在心上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Sorrow is better than laughter; for by the sadness of the face the heart is made good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忧愁强如喜笑； 因为面带愁容，终必使心喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "憂愁強如喜笑； 因為面帶愁容，終必使心喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的心在遭丧之家； 愚昧人的心在快乐之家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的心在遭喪之家； 愚昧人的心在快樂之家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "It is better to hear the rebuke of the wise than for a man to hear the song of fools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听智慧人的责备， 强如听愚昧人的歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽智慧人的責備， 強如聽愚昧人的歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For as the crackling of thorns under a pot, so is the laughter of the fool. This also is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚昧人的笑声， 好像锅下烧荆棘的爆声； 这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚昧人的笑聲， 好像鍋下燒荊棘的爆聲； 這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Surely extortion makes the wise man foolish; and a bribe destroys the understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "勒索使智慧人变为愚妄； 贿赂能败坏人的慧心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "勒索使智慧人變為愚妄； 賄賂能敗壞人的慧心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Better is the end of a thing than its beginning. The patient in spirit is better than the proud in spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "事情的终局强如事情的起头； 存心忍耐的，胜过居心骄傲的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "事情的終局強如事情的起頭； 存心忍耐的，勝過居心驕傲的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不要心里急躁恼怒， 因为恼怒存在愚昧人的怀中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不要心裏急躁惱怒， 因為惱怒存在愚昧人的懷中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Don’t say, “Why were the former days better than these?” For you do not ask wisely about this.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要说： 先前的日子强过如今的日子， 是什么缘故呢？ 你这样问，不是出于智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要說： 先前的日子強過如今的日子， 是甚麼緣故呢？ 你這樣問，不是出於智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Wisdom is as good as an inheritance. Yes, it is more excellent for those who see the sun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧和产业并好， 而且见天日的人得智慧更为有益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧和產業並好， 而且見天日的人得智慧更為有益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为智慧护庇人， 好像银钱护庇人一样。 惟独智慧能保全智慧人的生命。 这就是知识的益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為智慧護庇人， 好像銀錢護庇人一樣。 惟獨智慧能保全智慧人的生命。 這就是知識的益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Consider the work of God, for who can make that straight which he has made crooked?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要察看 神的作为； 因 神使为曲的，谁能变为直呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要察看上帝的作為； 因上帝使為曲的，誰能變為直呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "In the day of prosperity be joyful, and in the day of adversity consider; yes, God has made the one side by side with the other, to the end that man should not find out anything after him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遇亨通的日子你当喜乐；遭患难的日子你当思想；因为 神使这两样并列，为的是叫人查不出身后有什么事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遇亨通的日子你當喜樂；遭患難的日子你當思想；因為上帝使這兩樣並列，為的是叫人查不出身後有甚麼事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "All this I have seen in my days of vanity: there is a righteous man who perishes in his righteousness, and there is a wicked man who lives long in his evildoing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有义人行义，反致灭亡；有恶人行恶，倒享长寿。这都是我在虚度之日中所见过的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有義人行義，反致滅亡；有惡人行惡，倒享長壽。這都是我在虛度之日中所見過的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Don’t be overly righteous, neither make yourself overly wise. Why should you destroy yourself?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要行义过分，也不要过于自逞智慧，何必自取败亡呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要行義過分，也不要過於自逞智慧，何必自取敗亡呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Don’t be too wicked, neither be foolish. Why should you die before your time?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要行恶过分，也不要为人愚昧，何必不到期而死呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要行惡過分，也不要為人愚昧，何必不到期而死呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "It is good that you should take hold of this. Yes, also don’t withdraw your hand from that; for he who fears God will come out of them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你持守这个为美，那个也不要松手；因为敬畏 神的人，必从这两样出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你持守這個為美，那個也不要鬆手；因為敬畏上帝的人，必從這兩樣出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Wisdom is a strength to the wise man more than ten rulers who are in a city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧使有智慧的人比城中十个官长更有能力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧使有智慧的人比城中十個官長更有能力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Surely there is not a righteous man on earth who does good and doesn’t sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "时常行善而不犯罪的义人，世上实在没有。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "時常行善而不犯罪的義人，世上實在沒有。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Also don’t take heed to all words that are spoken, lest you hear your servant curse you;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人所说的一切话，你不要放在心上，恐怕听见你的仆人咒诅你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人所說的一切話，你不要放在心上，恐怕聽見你的僕人咒詛你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "for often your own heart knows that you yourself have likewise cursed others.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你心里知道，自己也曾屡次咒诅别人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你心裏知道，自己也曾屢次咒詛別人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "All this I have proved in wisdom. I said, “I will be wise;” but it was far from me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾用智慧试验这一切事；我说，要得智慧，智慧却离我远。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾用智慧試驗這一切事；我說，要得智慧，智慧卻離我遠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "That which is, is far off and exceedingly deep. Who can find it out?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万事之理，离我甚远，而且最深，谁能测透呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬事之理，離我甚遠，而且最深，誰能測透呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "I turned around, and my heart sought to know and to search out, and to seek wisdom and the scheme of things, and to know that wickedness is stupidity, and that foolishness is madness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我转念，一心要知道，要考察，要寻求智慧和万事的理由；又要知道邪恶为愚昧，愚昧为狂妄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我轉念，一心要知道，要考察，要尋求智慧和萬事的理由；又要知道邪惡為愚昧，愚昧為狂妄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases God shall escape from her; but the sinner will be ensnared by her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我得知有等妇人比死还苦：她的心是网罗，手是锁链。凡蒙 神喜悦的人必能躲避她；有罪的人却被她缠住了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我得知有等婦人比死還苦：她的心是網羅，手是鎖鍊。凡蒙上帝喜悅的人必能躲避她；有罪的人卻被她纏住了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Behold, I have found this,” says the Preacher, “to one another, to find an explanation",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27-28",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "传道者说：「看哪，一千男子中，我找到一个正直人，但众女子中，没有找到一个。」我将这事一一比较，要寻求其理，我心仍要寻找，却未曾找到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "傳道者說：「看哪，一千男子中，我找到一個正直人，但眾女子中，沒有找到一個。」我將這事一一比較，要尋求其理，我心仍要尋找，卻未曾找到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "which my soul still seeks, but I have not found. I have found one man among a thousand, but I have not found a woman among all those.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Behold, I have only found this: that God made mankind upright; but they search for many inventions.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所找到的只有一件，就是 神造人原是正直，但他们寻出许多巧计。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所找到的只有一件，就是上帝造人原是正直，但他們尋出許多巧計。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

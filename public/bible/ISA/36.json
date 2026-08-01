@@ -1,0 +1,405 @@
+{
+  "bookId": "ISA",
+  "chapter": 36,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now in the fourteenth year of King Hezekiah, Sennacherib king of Assyria attacked all of the fortified cities of Judah and captured them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家王十四年，亞述王西拿基立上來攻擊猶大的一切堅固城，將城攻取。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The king of Assyria sent Rabshakeh from Lachish to Jerusalem to King Hezekiah with a large army. He stood by the aqueduct from the upper pool in the fuller’s field highway.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚述王从拉吉差遣拉伯沙基率领大军往耶路撒冷，到希西家王那里去。他就站在上池的水沟旁，在漂布地的大路上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞述王從拉吉差遣拉伯沙基率領大軍往耶路撒冷，到希西家王那裏去。他就站在上池的水溝旁，在漂布地的大路上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe, and Joah, the son of Asaph the recorder came out to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是希勒家的儿子家宰以利亚敬，并书记舍伯那和亚萨的儿子史官约亚，出来见拉伯沙基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是希勒家的兒子家宰以利亞敬，並書記舍伯那和亞薩的兒子史官約亞，出來見拉伯沙基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Rabshakeh said to them, “Now tell Hezekiah, ‘The great king, the king of Assyria, says, “What confidence is this in which you trust?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉伯沙基对他们说：「你们去告诉希西家说，亚述大王如此说：『你所倚靠的有什么可仗赖的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉伯沙基對他們說：「你們去告訴希西家說，亞述大王如此說：『你所倚靠的有甚麼可仗賴的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I say that your counsel and strength for the war are only vain words. Now in whom do you trust, that you have rebelled against me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你说，有打仗的计谋和能力，我看不过是虚话。你到底倚靠谁才背叛我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你說，有打仗的計謀和能力，我看不過是虛話。你到底倚靠誰才背叛我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Behold, you trust in the staff of this bruised reed, even in Egypt, which if a man leans on it, it will go into his hand and pierce it. So is Pharaoh king of Egypt to all who trust in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，你所倚靠的埃及是那压伤的苇杖，人若靠这杖，就必刺透他的手。埃及王法老向一切倚靠他的人也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，你所倚靠的埃及是那壓傷的葦杖，人若靠這杖，就必刺透他的手。埃及王法老向一切倚靠他的人也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But if you tell me, ‘We trust in the LORD our God,’ isn’t that he whose high places and whose altars Hezekiah has taken away, and has said to Judah and to Jerusalem, ‘You shall worship before this altar’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若对我说：我们倚靠耶和华—我们的 神。希西家岂不是将 神的邱坛和祭坛废去，且对犹大和耶路撒冷的人说：你们当在这坛前敬拜吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若對我說：我們倚靠耶和華－我們的上帝。希西家豈不是將上帝的邱壇和祭壇廢去，且對猶大和耶路撒冷的人說：你們當在這壇前敬拜嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Now therefore, please make a pledge to my master the king of Assyria, and I will give you two thousand horses, if you are able on your part to set riders on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你把当头给我主亚述王，我给你二千匹马，看你这一面骑马的人够不够。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你把當頭給我主亞述王，我給你二千匹馬，看你這一面騎馬的人夠不夠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "How then can you turn away the face of one captain of the least of my master’s servants, and put your trust in Egypt for chariots and for horsemen?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不然，怎能打败我主臣仆中最小的军长呢？你竟倚靠埃及的战车马兵吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不然，怎能打敗我主臣僕中最小的軍長呢？你竟倚靠埃及的戰車馬兵嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Have I come up now without the LORD against this land to destroy it? The LORD said to me, “Go up against this land, and destroy it.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我上来攻击毁灭这地，岂没有耶和华的意思吗？耶和华吩咐我说，你上去攻击毁灭这地吧！』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我上來攻擊毀滅這地，豈沒有耶和華的意思嗎？耶和華吩咐我說，你上去攻擊毀滅這地吧！』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then Eliakim, Shebna and Joah said to Rabshakeh, “Please speak to your servants in Aramaic, for we understand it. Don’t speak to us in the Jews’ language in the hearing of the people who are on the wall.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚敬、舍伯那、约亚对拉伯沙基说：「求你用亚兰言语和仆人说话，因为我们懂得；不要用犹大言语和我们说话，达到城上百姓的耳中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞敬、舍伯那、約亞對拉伯沙基說：「求你用亞蘭言語和僕人說話，因為我們懂得；不要用猶大言語和我們說話，達到城上百姓的耳中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But Rabshakeh said, “Has my master sent me only to your master and to you, to speak these words, and not to the men who sit on the wall, who will eat their own dung and drink their own urine with you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉伯沙基说：「我主差遣我来，岂是单对你和你的主说这些话吗？不也是对这些坐在城上、要与你们一同吃自己粪喝自己尿的人说吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉伯沙基說：「我主差遣我來，豈是單對你和你的主說這些話嗎？不也是對這些坐在城上、要與你們一同吃自己糞喝自己尿的人說嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then Rabshakeh stood, and called out with a loud voice in the Jews’ language, and said, “Hear the words of the great king, the king of Assyria!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，拉伯沙基站着，用犹大言语大声喊着说：「你们当听亚述大王的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，拉伯沙基站着，用猶大言語大聲喊着說：「你們當聽亞述大王的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The king says, ‘Don’t let Hezekiah deceive you; for he will not be able to deliver you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王如此说：『你们不要被希西家欺哄了，因他不能拯救你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王如此說：『你們不要被希西家欺哄了，因他不能拯救你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Don’t let Hezekiah make you trust in the LORD, saying, “The LORD will surely deliver us. This city won’t be given into the hand of the king of Assyria.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不要听希西家使你们倚靠耶和华说：耶和华必要拯救我们，这城必不交在亚述王的手中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不要聽希西家使你們倚靠耶和華說：耶和華必要拯救我們，這城必不交在亞述王的手中。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Don’t listen to Hezekiah, for the king of Assyria says, ‘Make your peace with me, and come out to me; and each of you eat from his vine, and each one from his fig tree, and each one of you drink the waters of his own cistern;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要听希西家的话，因亚述王如此说：你们要与我和好。出来投降我，各人就可以吃自己葡萄树和无花果树的果子，喝自己井里的水。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要聽希西家的話，因亞述王如此說：『你們要與我和好。出來投降我，各人就可以吃自己葡萄樹和無花果樹的果子，喝自己井裏的水。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "until I come and take you away to a land like your own land, a land of grain and new wine, a land of bread and vineyards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "等我来领你们到一个地方，与你们本地一样，就是有五谷和新酒之地，有粮食和葡萄园之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "等我來領你們到一個地方，與你們本地一樣，就是有五穀和新酒之地，有糧食和葡萄園之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Beware lest Hezekiah persuade you, saying, “The LORD will deliver us.” Have any of the gods of the nations delivered their lands from the hand of the king of Assyria?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要谨防，恐怕希西家劝导你们说：耶和华必拯救我们。列国的神有哪一个救他本国脱离亚述王的手呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要謹防，恐怕希西家勸導你們說：耶和華必拯救我們。列國的神有哪一個救他本國脫離亞述王的手呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈马和亚珥拔的神在哪里呢？西法瓦音的神在哪里呢？他们曾救撒马利亚脱离我的手吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈馬和亞珥拔的神在哪裏呢？西法瓦音的神在哪裏呢？他們曾救撒馬利亞脫離我的手嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Who are they among all the gods of these countries that have delivered their country out of my hand, that the LORD should deliver Jerusalem out of my hand?’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些国的神有谁曾救自己的国脱离我的手呢？难道耶和华能救耶路撒冷脱离我的手吗？』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些國的神有誰曾救自己的國脫離我的手呢？難道耶和華能救耶路撒冷脫離我的手嗎？』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But they remained silent, and said nothing in reply, for the king’s commandment was, “Don’t answer him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓静默不言，并不回答一句，因为王曾吩咐说：「不要回答他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓靜默不言，並不回答一句，因為王曾吩咐說：「不要回答他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe, and Joah, the son of Asaph the recorder, came to Hezekiah with their clothes torn, and told him the words of Rabshakeh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下希勒家的儿子家宰以利亚敬和书记舍伯那，并亚萨的儿子史官约亚，都撕裂衣服，来到希西家那里，将拉伯沙基的话告诉了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下希勒家的兒子家宰以利亞敬和書記舍伯那，並亞薩的兒子史官約亞，都撕裂衣服，來到希西家那裏，將拉伯沙基的話告訴了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

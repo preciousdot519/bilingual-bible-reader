@@ -1,0 +1,687 @@
+{
+  "bookId": "1SA",
+  "chapter": 2,
+  "bookEnglish": "1 Samuel",
+  "bookChineseSimplified": "撒母耳记上",
+  "bookChineseTraditional": "撒母耳記上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Hannah prayed, and said, “My heart exults in the LORD! My horn is exalted in the LORD. My mouth is enlarged over my enemies, because I rejoice in your salvation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈拿祷告说： 我的心因耶和华快乐； 我的角因耶和华高举。 我的口向仇敌张开； 我因耶和华的救恩欢欣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈拿禱告說： 我的心因耶和華快樂； 我的角因耶和華高舉。 我的口向仇敵張開； 我因耶和華的救恩歡欣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "There is no one as holy as the LORD, for there is no one besides you, nor is there any rock like our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只有耶和华为圣； 除他以外没有可比的， 也没有磐石像我们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只有耶和華為聖； 除他以外沒有可比的， 也沒有磐石像我們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Don’t keep talking so exceedingly proudly. Don’t let arrogance come out of your mouth, for the LORD is a God of knowledge. By him actions are weighed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人不要夸口说骄傲的话， 也不要出狂妄的言语； 因耶和华是大有智识的 神， 人的行为被他衡量。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人不要誇口說驕傲的話， 也不要出狂妄的言語； 因耶和華是大有智識的上帝， 人的行為被他衡量。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“The bows of the mighty men are broken. Those who stumbled are armed with strength.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "勇士的弓都已折断； 跌倒的人以力量束腰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "勇士的弓都已折斷； 跌倒的人以力量束腰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Those who were full have hired themselves out for bread. Those who were hungry are satisfied. Yes, the barren has borne seven. She who has many children languishes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "素来饱足的，反作用人求食； 饥饿的，再不饥饿。 不生育的，生了七个儿子； 多有儿女的，反倒衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "素來飽足的，反作用人求食； 飢餓的，再不飢餓。 不生育的，生了七個兒子； 多有兒女的，反倒衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“The LORD kills and makes alive. He brings down to Sheol and brings up.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:6 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使人死，也使人活， 使人下阴间，也使人往上升。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使人死，也使人活， 使人下陰間，也使人往上升。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD makes poor and makes rich. He brings low, he also lifts up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使人贫穷，也使人富足， 使人卑微，也使人高贵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使人貧窮，也使人富足， 使人卑微，也使人高貴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He raises up the poor out of the dust. He lifts up the needy from the dunghill to make them sit with princes and inherit the throne of glory. For the pillars of the earth are the LORD’s. He has set the world on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从灰尘里抬举贫寒人， 从粪堆中提拔穷乏人， 使他们与王子同坐， 得着荣耀的座位。 地的柱子属于耶和华； 他将世界立在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從灰塵裏抬舉貧寒人， 從糞堆中提拔窮乏人， 使他們與王子同坐， 得着榮耀的座位。 地的柱子屬於耶和華； 他將世界立在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He will keep the feet of his holy ones, but the wicked will be put to silence in darkness; for no man will prevail by strength.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必保护圣民的脚步， 使恶人在黑暗中寂然不动； 人都不能靠力量得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必保護聖民的腳步， 使惡人在黑暗中寂然不動； 人都不能靠力量得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Those who strive with the LORD shall be broken to pieces. He will thunder against them in the sky. “The LORD will judge the ends of the earth. He will give strength to his king, and exalt the horn of his anointed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与耶和华争竞的，必被打碎； 耶和华必从天上以雷攻击他， 必审判地极的人， 将力量赐与所立的王， 高举受膏者的角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與耶和華爭競的，必被打碎； 耶和華必從天上以雷攻擊他， 必審判地極的人， 將力量賜與所立的王， 高舉受膏者的角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Elkanah went to Ramah to his house. The child served the LORD before Eli the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利加拿往拉玛回家去了。那孩子在祭司以利面前事奉耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利加拿往拉瑪回家去了。那孩子在祭司以利面前事奉耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now the sons of Eli were wicked men. They didn’t know the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利的两个儿子是恶人，不认识耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利的兩個兒子是惡人，不認識耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The custom of the priests with the people was that when anyone offered a sacrifice, the priest’s servant came while the meat was boiling, with a fork of three teeth in his hand;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这二祭司待百姓是这样的规矩：凡有人献祭，正煮肉的时候，祭司的仆人就来，手拿三齿的叉子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這二祭司待百姓是這樣的規矩：凡有人獻祭，正煮肉的時候，祭司的僕人就來，手拿三齒的叉子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and he stabbed it into the pan, or kettle, or cauldron, or pot. The priest took all that the fork brought up for himself. They did this to all the Israelites who came there to Shiloh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将叉子往罐里，或鼎里，或釜里，或锅里一插，插上来的肉，祭司都取了去。凡上到示罗的以色列人，他们都是这样看待。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將叉子往罐裏，或鼎裏，或釜裏，或鍋裏一插，插上來的肉，祭司都取了去。凡上到示羅的以色列人，他們都是這樣看待。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Yes, before they burned the fat, the priest’s servant came, and said to the man who sacrificed, “Give meat to roast for the priest; for he will not accept boiled meat from you, but raw.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又在未烧脂油以前，祭司的仆人就来对献祭的人说：「将肉给祭司，叫他烤吧。他不要煮过的，要生的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又在未燒脂油以前，祭司的僕人就來對獻祭的人說：「將肉給祭司，叫他烤吧。他不要煮過的，要生的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If the man said to him, “Let the fat be burned first, and then take as much as your soul desires;” then he would say, “No, but you shall give it to me now; and if not, I will take it by force.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "献祭的人若说：「必须先烧脂油，然后你可以随意取肉。」仆人就说：「你立时给我，不然我便抢去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "獻祭的人若說：「必須先燒脂油，然後你可以隨意取肉。」僕人就說：「你立時給我，不然我便搶去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The sin of the young men was very great before the LORD; for the men despised the LORD’s offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如此，这二少年人的罪在耶和华面前甚重了，因为他们藐视耶和华的祭物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:17 或译：他们使人厌弃给耶和华献祭"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此，這二少年人的罪在耶和華面前甚重了，因為他們藐視耶和華的祭物。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:17 或譯：他們使人厭棄給耶和華獻祭"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But Samuel ministered before the LORD, being a child, clothed with a linen ephod.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，撒母耳还是孩子，穿着细麻布的以弗得，侍立在耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，撒母耳還是孩子，穿着細麻布的以弗得，侍立在耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Moreover his mother made him a little robe, and brought it to him from year to year when she came up with her husband to offer the yearly sacrifice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他母亲每年为他做一件小外袍，同着丈夫上来献年祭的时候带来给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他母親每年為他做一件小外袍，同着丈夫上來獻年祭的時候帶來給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Eli blessed Elkanah and his wife, and said, “May the LORD give you offspring from this woman for the petition which was asked of the LORD.” Then they went to their own home.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:20 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利为以利加拿和他的妻祝福，说：「愿耶和华由这妇人再赐你后裔，代替你从耶和华求来的孩子。」他们就回本乡去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利為以利加拿和他的妻祝福，說：「願耶和華由這婦人再賜你後裔，代替你從耶和華求來的孩子。」他們就回本鄉去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD visited Hannah, and she conceived and bore three sons and two daughters. The child Samuel grew before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华眷顾哈拿，她就怀孕生了三个儿子，两个女儿。那孩子撒母耳在耶和华面前渐渐长大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華眷顧哈拿，她就懷孕生了三個兒子，兩個女兒。那孩子撒母耳在耶和華面前漸漸長大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Now Eli was very old; and he heard all that his sons did to all Israel, and how that they slept with the women who served at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利年甚老迈，听见他两个儿子待以色列众人的事，又听见他们与会幕门前伺候的妇人苟合，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利年甚老邁，聽見他兩個兒子待以色列眾人的事，又聽見他們與會幕門前伺候的婦人苟合，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said to them, “Why do you do such things? For I hear of your evil dealings from all these people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就对他们说：「你们为何行这样的事呢？我从这众百姓听见你们的恶行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就對他們說：「你們為何行這樣的事呢？我從這眾百姓聽見你們的惡行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "No, my sons; for it is not a good report that I hear! You make the LORD’s people disobey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿啊，不可这样！我听见你们的风声不好，你们使耶和华的百姓犯了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒啊，不可這樣！我聽見你們的風聲不好，你們使耶和華的百姓犯了罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "If one man sins against another, God will judge him; but if a man sins against the LORD, who will intercede for him?” Notwithstanding, they didn’t listen to the voice of their father, because the LORD intended to kill them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若得罪人，有士师审判他；人若得罪耶和华，谁能为他祈求呢？」然而他们还是不听父亲的话，因为耶和华想要杀他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若得罪人，有士師審判他；人若得罪耶和華，誰能為他祈求呢？」然而他們還是不聽父親的話，因為耶和華想要殺他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The child Samuel grew on, and increased in favor both with the LORD and also with men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子撒母耳渐渐长大，耶和华与人越发喜爱他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子撒母耳漸漸長大，耶和華與人越發喜愛他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "A man of God came to Eli and said to him, “The LORD says, ‘Did I reveal myself to the house of your father when they were in Egypt in bondage to Pharaoh’s house?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有神人来见以利，对他说：「耶和华如此说：『你祖父在埃及法老家作奴仆的时候，我不是向他们显现吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有神人來見以利，對他說：「耶和華如此說：『你祖父在埃及法老家作奴僕的時候，我不是向他們顯現嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Didn’t I choose him out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me? Didn’t I give to the house of your father all the offerings of the children of Israel made by fire?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在以色列众支派中，我不是拣选人作我的祭司，使他烧香，在我坛上献祭，在我面前穿以弗得，又将以色列人所献的火祭都赐给你父家吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在以色列眾支派中，我不是揀選人作我的祭司，使他燒香，在我壇上獻祭，在我面前穿以弗得，又將以色列人所獻的火祭都賜給你父家嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Why do you kick at my sacrifice and at my offering, which I have commanded in my habitation, and honor your sons above me, to make yourselves fat with the best of all the offerings of Israel my people?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所吩咐献在我居所的祭物，你们为何践踏？尊重你的儿子过于尊重我，将我民以色列所献美好的祭物肥己呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所吩咐獻在我居所的祭物，你們為何踐踏？尊重你的兒子過於尊重我，將我民以色列所獻美好的祭物肥己呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“Therefore the LORD, the God of Israel, says, ‘I said indeed that your house and the house of your father should walk before me forever.’ But now the LORD says, ‘Far be it from me; for those who honor me I will honor, and those who despise me will be cursed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，耶和华—以色列的 神说：『我曾说，你和你父家必永远行在我面前；现在我却说，决不容你们这样行。因为尊重我的，我必重看他；藐视我的，他必被轻视。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，耶和華－以色列的上帝說：『我曾說，你和你父家必永遠行在我面前；現在我卻說，決不容你們這樣行。因為尊重我的，我必重看他；藐視我的，他必被輕視。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Behold, the days come that I will cut off your arm and the arm of your father’s house, that there will not be an old man in your house.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:31 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日子必到，我要折断你的膀臂和你父家的膀臂，使你家中没有一个老年人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日子必到，我要折斷你的膀臂和你父家的膀臂，使你家中沒有一個老年人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "You will see the affliction of my habitation, in all the wealth which I will give Israel. There shall not be an old man in your house forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在 神使以色列人享福的时候，你必看见我居所的败落。在你家中必永远没有一个老年人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在上帝使以色列人享福的時候，你必看見我居所的敗落。在你家中必永遠沒有一個老年人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The man of yours whom I don’t cut off from my altar will consume your eyes and grieve your heart. All the increase of your house will die in the flower of their age.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:33 or, blind your eyes with tears"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必不从我坛前灭尽你家中的人；那未灭的必使你眼目干瘪、心中忧伤。你家中所生的人都必死在中年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必不從我壇前滅盡你家中的人；那未滅的必使你眼目乾癟、心中憂傷。你家中所生的人都必死在中年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "This will be the sign to you that will come on your two sons, on Hophni and Phinehas: in one day they will both die.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的两个儿子何弗尼、非尼哈所遭遇的事可作你的证据：他们二人必一日同死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的兩個兒子何弗尼、非尼哈所遭遇的事可作你的證據：他們二人必一日同死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "I will raise up a faithful priest for myself who will do according to that which is in my heart and in my mind. I will build him a sure house. He will walk before my anointed forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要为自己立一个忠心的祭司；他必照我的心意而行。我要为他建立坚固的家；他必永远行在我的受膏者面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要為自己立一個忠心的祭司；他必照我的心意而行。我要為他建立堅固的家；他必永遠行在我的受膏者面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "It will happen that everyone who is left in your house will come and bow down to him for a piece of silver and a loaf of bread, and will say, “Please put me into one of the priests’ offices, that I may eat a morsel of bread.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你家所剩下的人都必来叩拜他，求块银子，求个饼，说：求你赐我祭司的职分，好叫我得点饼吃。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你家所剩下的人都必來叩拜他，求塊銀子，求個餅，說：求你賜我祭司的職分，好叫我得點餅吃。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "bookId": "ISA",
+  "chapter": 57,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is taken away from the evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人死亡， 无人放在心上； 虔诚人被收去， 无人思念。 这义人被收去是免了将来的祸患；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人死亡， 無人放在心上； 虔誠人被收去， 無人思念。 這義人被收去是免了將來的禍患；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He enters into peace. They rest in their beds, each one who walks in his uprightness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们得享平安。 素行正直的，各人在坟里安歇。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 57:2 原文是进入"
+          },
+          {
+            "id": "f2",
+            "text": "- 57:2 原文是床上"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們得享平安。 素行正直的，各人在墳裏安歇。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 57:2 原文是進入"
+          },
+          {
+            "id": "f2",
+            "text": "- 57:2 原文是床上"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“But draw near here, you sons of a sorceress, you offspring of adulterers and prostitutes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这些巫婆的儿子， 奸夫和妓女的种子， 都要前来！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這些巫婆的兒子， 姦夫和妓女的種子， 都要前來！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Whom do you mock? Against whom do you make a wide mouth and stick out your tongue? Aren’t you children of disobedience and offspring of falsehood,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们向谁戏笑？ 向谁张口吐舌呢？ 你们岂不是悖逆的儿女， 虚谎的种类呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們向誰戲笑？ 向誰張口吐舌呢？ 你們豈不是悖逆的兒女， 虛謊的種類呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "you who inflame yourselves among the oaks, under every green tree; who kill the children in the valleys, under the clefts of the rocks?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在橡树中间，在各青翠树下欲火攻心； 在山谷间，在石穴下杀了儿女；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在橡樹中間，在各青翠樹下慾火攻心； 在山谷間，在石穴下殺了兒女；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Among the smooth stones of the valley is your portion. They, they are your lot. You have even poured a drink offering to them. You have offered an offering. Shall I be appeased for these things?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在谷中光滑石头里有你的分。 这些就是你所得的分； 你也向他浇了奠祭，献了供物， 因这事我岂能容忍吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在谷中光滑石頭裏有你的分。 這些就是你所得的分； 你也向他澆了奠祭，獻了供物， 因這事我豈能容忍嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "On a high and lofty mountain you have set your bed. You also went up there to offer sacrifice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在高而又高的山上安设床榻， 也上那里去献祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在高而又高的山上安設床榻， 也上那裏去獻祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You have set up your memorial behind the doors and the posts, for you have exposed yourself to someone besides me, and have gone up. You have enlarged your bed and made a covenant for yourself with them. You loved what you saw on their bed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在门后，在门框后， 立起你的纪念； 向外人赤露，又上去扩张床榻， 与他们立约； 你在那里看见他们的床就甚喜爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在門後，在門框後， 立起你的紀念； 向外人赤露，又上去擴張床榻， 與他們立約； 你在那裏看見他們的床就甚喜愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You went to the king with oil, increased your perfumes, sent your ambassadors far off, and degraded yourself even to Sheol.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "57:9 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你把油带到王那里， 又多加香料， 打发使者往远方去， 自卑自贱直到阴间，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你把油帶到王那裏， 又多加香料， 打發使者往遠方去， 自卑自賤直到陰間，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You were wearied with the length of your ways; yet you didn’t say, ‘It is in vain.’ You found a reviving of your strength; therefore you weren’t faint.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你因路远疲倦， 却不说这是枉然； 你以为有复兴之力， 所以不觉疲惫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你因路遠疲倦， 卻不說這是枉然； 你以為有復興之力， 所以不覺疲憊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“Whom have you dreaded and feared, so that you lie, and have not remembered me, nor laid it to your heart? Haven’t I held my peace for a long time, and you don’t fear me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你怕谁？因谁恐惧？ 竟说谎，不记念我， 又不将这事放在心上。 我不是许久闭口不言， 你仍不怕我吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你怕誰？因誰恐懼？ 竟說謊，不記念我， 又不將這事放在心上。 我不是許久閉口不言， 你仍不怕我嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I will declare your righteousness; and as for your works, they will not benefit you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要指明你的公义； 至于你所行的都必与你无益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要指明你的公義； 至於你所行的都必與你無益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When you cry, let those whom you have gathered deliver you, but the wind will take them. A breath will carry them all away, but he who takes refuge in me will possess the land, and will inherit my holy mountain.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你哀求的时候， 让你所聚集的拯救你吧！ 风要把他们刮散， 一口气要把他们都吹去。 但那投靠我的必得地土， 必承受我的圣山为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你哀求的時候， 讓你所聚集的拯救你吧！ 風要把他們颳散， 一口氣要把他們都吹去。 但那投靠我的必得地土， 必承受我的聖山為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He will say, “Build up, build up, prepare the way! Remove the stumbling-block out of the way of my people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华要说： 你们修筑修筑，预备道路， 将绊脚石从我百姓的路中除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華要說： 你們修築修築，預備道路， 將絆腳石從我百姓的路中除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For the high and lofty One who inhabits eternity, whose name is Holy, says: “I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为那至高至上、永远长存 名为圣者的如此说： 我住在至高至圣的所在， 也与心灵痛悔谦卑的人同居； 要使谦卑人的灵苏醒， 也使痛悔人的心苏醒。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 57:15 原文是住在永远"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為那至高至上、永遠長存 名為聖者的如此說： 我住在至高至聖的所在， 也與心靈痛悔謙卑的人同居； 要使謙卑人的靈甦醒， 也使痛悔人的心甦醒。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 57:15 原文是住在永遠"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For I will not contend forever, neither will I always be angry; for the spirit would faint before me, and the souls whom I have made.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必不永远相争，也不长久发怒， 恐怕我所造的人与灵性都必发昏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必不永遠相爭，也不長久發怒， 恐怕我所造的人與靈性都必發昏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I was angry because of the iniquity of his covetousness and struck him. I hid myself and was angry; and he went on backsliding in the way of his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他贪婪的罪孽，我就发怒击打他； 我向他掩面发怒， 他却仍然随心背道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他貪婪的罪孽，我就發怒擊打他； 我向他掩面發怒， 他卻仍然隨心背道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I have seen his ways, and will heal him. I will lead him also, and restore comforts to him and to his mourners.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看见他所行的道，也要医治他； 又要引导他， 使他和那一同伤心的人再得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看見他所行的道，也要醫治他； 又要引導他， 使他和那一同傷心的人再得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I create the fruit of the lips: Peace, peace, to him who is far off and to him who is near,” says the LORD; “and I will heal them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我造就嘴唇的果子； 愿平安康泰归与远处的人， 也归与近处的人； 并且我要医治他。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我造就嘴唇的果子； 願平安康泰歸與遠處的人， 也歸與近處的人； 並且我要醫治他。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But the wicked are like the troubled sea; for it can’t rest and its waters cast up mire and mud.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟独恶人，好像翻腾的海， 不得平静； 其中的水常涌出污秽和淤泥来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟獨惡人，好像翻騰的海， 不得平靜； 其中的水常湧出污穢和淤泥來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“There is no peace”, says my God, “for the wicked.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神说：恶人必不得平安！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝說：惡人必不得平安！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "bookId": "HOS",
+  "chapter": 8,
+  "bookEnglish": "Hosea",
+  "bookChineseSimplified": "何西阿书",
+  "bookChineseTraditional": "何西阿書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Put the trumpet to your lips! Something like an eagle is over the LORD’s house, because they have broken my covenant and rebelled against my law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你用口吹角吧！ 敌人如鹰来攻打耶和华的家； 因为这民违背我的约， 干犯我的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你用口吹角吧！ 敵人如鷹來攻打耶和華的家； 因為這民違背我的約， 干犯我的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They cry to me, ‘My God, we, Israel, acknowledge you!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必呼叫我说： 我的 神啊，我们以色列认识你了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必呼叫我說： 我的上帝啊，我們以色列認識你了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Israel has cast off that which is good. The enemy will pursue him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列丢弃良善； 仇敌必追逼他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:3 或译：福分"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列丟棄良善； 仇敵必追逼他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:3 或譯：福分"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They have set up kings, but not by me. They have made princes, and I didn’t approve. Of their silver and their gold they have made themselves idols, that they may be cut off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们立君王，却不由我； 他们立首领，我却不认。 他们用金银为自己制造偶像， 以致被剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們立君王，卻不由我； 他們立首領，我卻不認。 他們用金銀為自己製造偶像， 以致被剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Let Samaria throw out his calf idol! My anger burns against them! How long will it be until they are capable of purity?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒马利亚啊，耶和华已经丢弃你的牛犊； 我的怒气向拜牛犊的人发作。 他们到几时方能无罪呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒馬利亞啊，耶和華已經丟棄你的牛犢； 我的怒氣向拜牛犢的人發作。 他們到幾時方能無罪呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For this is even from Israel! The workman made it, and it is no God; indeed, the calf of Samaria shall be broken in pieces.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这牛犊出于以色列， 是匠人所造的，并不是神。 撒马利亚的牛犊必被打碎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這牛犢出於以色列， 是匠人所造的，並不是神。 撒馬利亞的牛犢必被打碎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For they sow the wind, and they will reap the whirlwind. He has no standing grain. The stalk will yield no head. If it does yield, strangers will swallow it up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们所种的是风，所收的是暴风； 所种的不成禾稼，就是发苗也不结实； 即便结实，外邦人必吞吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們所種的是風，所收的是暴風； 所種的不成禾稼，就是發苗也不結實； 即便結實，外邦人必吞吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Israel is swallowed up. Now they are among the nations like a worthless thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列被吞吃； 现今在列国中，好像人不喜悦的器皿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列被吞吃； 現今在列國中，好像人不喜悅的器皿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For they have gone up to Assyria, like a wild donkey wandering alone. Ephraim has hired lovers for himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们投奔亚述，如同独行的野驴； 以法莲贿买朋党。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們投奔亞述，如同獨行的野驢； 以法蓮賄買朋黨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "But although they sold themselves among the nations, I will now gather them; and they begin to waste away because of the oppression of the king of mighty ones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们虽在列邦中贿买人， 现在我却要聚集惩罚他们； 他们因君王和首领所加的重担日渐衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們雖在列邦中賄買人， 現在我卻要聚集懲罰他們； 他們因君王和首領所加的重擔日漸衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Because Ephraim has multiplied altars for sinning, they became for him altars for sinning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以法莲增添祭坛取罪； 因此，祭坛使他犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以法蓮增添祭壇取罪； 因此，祭壇使他犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I wrote for him the many things of my law, but they were regarded as a strange thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为他写了律法万条， 他却以为与他毫无关涉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為他寫了律法萬條， 他卻以為與他毫無關涉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "As for the sacrifices of my offerings, they sacrifice meat and eat it, but the LORD doesn’t accept them. Now he will remember their iniquity, and punish their sins. They will return to Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于献给我的祭物， 他们自食其肉， 耶和华却不悦纳他们。 现在必记念他们的罪孽， 追讨他们的罪恶； 他们必归回埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於獻給我的祭物， 他們自食其肉， 耶和華卻不悅納他們。 現在必記念他們的罪孽， 追討他們的罪惡； 他們必歸回埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For Israel has forgotten his Maker and built palaces; and Judah has multiplied fortified cities; but I will send a fire on his cities, and it will devour its fortresses.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列忘记造他的主，建造宫殿； 犹大多造坚固城， 我却要降火焚烧他的城邑， 烧灭其中的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列忘記造他的主，建造宮殿； 猶大多造堅固城， 我卻要降火焚燒他的城邑， 燒滅其中的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

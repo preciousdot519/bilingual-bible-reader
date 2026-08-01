@@ -1,0 +1,505 @@
+{
+  "bookId": "EXO",
+  "chapter": 18,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the LORD had brought Israel out of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西的岳父，米甸祭司叶忒罗，听见 神为摩西和 神的百姓以色列所行的一切事，就是耶和华将以色列从埃及领出来的事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西的岳父，米甸祭司葉忒羅，聽見上帝為摩西和上帝的百姓以色列所行的一切事，就是耶和華將以色列從埃及領出來的事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Jethro, Moses’ father-in-law, received Zipporah, Moses’ wife, after he had sent her away,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便带着摩西的妻子西坡拉，就是摩西从前打发回去的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便帶着摩西的妻子西坡拉，就是摩西從前打發回去的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and her two sons. The name of one son was Gershom, for Moses said, “I have lived as a foreigner in a foreign land”.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "18:3 “Gershom” sounds like the Hebrew for “an alien there”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：「我在外邦作了寄居的」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又帶着西坡拉的兩個兒子，一個名叫革舜，因為摩西說：「我在外邦作了寄居的」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The name of the other was Eliezer, for he said, “My father’s God was my help and delivered me from Pharaoh’s sword.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "18:4 Eliezer means “God is my helper”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一个名叫以利以谢，因为他说：「我父亲的 神帮助了我，救我脱离法老的刀。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一個名叫以利以謝，因為他說：「我父親的上帝幫助了我，救我脫離法老的刀。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jethro, Moses’ father-in-law, came with Moses’ sons and his wife to Moses into the wilderness where he was encamped, at the Mountain of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西的岳父叶忒罗带着摩西的妻子和两个儿子来到 神的山，就是摩西在旷野安营的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西的岳父葉忒羅帶着摩西的妻子和兩個兒子來到上帝的山，就是摩西在曠野安營的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He said to Moses, “I, your father-in-law Jethro, have come to you with your wife, and her two sons with her.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对摩西说：「我是你岳父叶忒罗，带着你的妻子和两个儿子来到你这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對摩西說：「我是你岳父葉忒羅，帶着你的妻子和兩個兒子來到你這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Moses went out to meet his father-in-law, and bowed and kissed him. They asked each other of their welfare, and they came into the tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西迎接他的岳父，向他下拜，与他亲嘴，彼此问安，都进了帐棚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西迎接他的岳父，向他下拜，與他親嘴，彼此問安，都進了帳棚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Moses told his father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardships that had come on them on the way, and how the LORD delivered them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西将耶和华为以色列的缘故向法老和埃及人所行的一切事，以及路上所遭遇的一切艰难，并耶和华怎样搭救他们，都述说与他岳父听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西將耶和華為以色列的緣故向法老和埃及人所行的一切事，以及路上所遭遇的一切艱難，並耶和華怎樣搭救他們，都述說與他岳父聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Jethro rejoiced for all the goodness which the LORD had done to Israel, in that he had delivered them out of the hand of the Egyptians.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叶忒罗因耶和华待以色列的一切好处，就是拯救他们脱离埃及人的手，便甚欢喜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "葉忒羅因耶和華待以色列的一切好處，就是拯救他們脫離埃及人的手，便甚歡喜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Jethro said, “Blessed be the LORD, who has delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh; who has delivered the people from under the hand of the Egyptians.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叶忒罗说：「耶和华是应当称颂的；他救了你们脱离埃及人和法老的手，将这百姓从埃及人的手下救出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "葉忒羅說：「耶和華是應當稱頌的；他救了你們脫離埃及人和法老的手，將這百姓從埃及人的手下救出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Now I know that the LORD is greater than all gods because of the way that they treated people arrogantly.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现今在埃及人向这百姓发狂傲的事上得知，耶和华比万神都大。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現今在埃及人向這百姓發狂傲的事上得知，耶和華比萬神都大。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jethro, Moses’ father-in-law, took a burnt offering and sacrifices for God. Aaron came with all the elders of Israel, to eat bread with Moses’ father-in-law before God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西的岳父叶忒罗把燔祭和平安祭献给 神。亚伦和以色列的众长老都来了，与摩西的岳父在 神面前吃饭。 （申1·9—18）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西的岳父葉忒羅把燔祭和平安祭獻給上帝。亞倫和以色列的眾長老都來了，與摩西的岳父在上帝面前吃飯。 （申1‧9－18）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "On the next day, Moses sat to judge the people, and the people stood around Moses from the morning to the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二天，摩西坐着审判百姓，百姓从早到晚都站在摩西的左右。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二天，摩西坐着審判百姓，百姓從早到晚都站在摩西的左右。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When Moses’ father-in-law saw all that he did to the people, he said, “What is this thing that you do for the people? Why do you sit alone, and all the people stand around you from morning to evening?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西的岳父看见他向百姓所做的一切事，就说：「你向百姓做的是什么事呢？你为什么独自坐着，众百姓从早到晚都站在你的左右呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西的岳父看見他向百姓所做的一切事，就說：「你向百姓做的是甚麼事呢？你為甚麼獨自坐着，眾百姓從早到晚都站在你的左右呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moses said to his father-in-law, “Because the people come to me to inquire of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对岳父说：「这是因百姓到我这里来求问 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對岳父說：「這是因百姓到我這裏來求問上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "When they have a matter, they come to me, and I judge between a man and his neighbor, and I make them know the statutes of God, and his laws.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们有事的时候就到我这里来，我便在两造之间施行审判；我又叫他们知道 神的律例和法度。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們有事的時候就到我這裏來，我便在兩造之間施行審判；我又叫他們知道上帝的律例和法度。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Moses’ father-in-law said to him, “The thing that you do is not good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西的岳父说：「你这做的不好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西的岳父說：「你這做的不好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You will surely wear away, both you, and this people that is with you; for the thing is too heavy for you. You are not able to perform it yourself alone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你和这些百姓必都疲惫；因为这事太重，你独自一人办理不了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你和這些百姓必都疲憊；因為這事太重，你獨自一人辦理不了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Listen now to my voice. I will give you counsel, and God be with you. You represent the people before God, and bring the causes to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你要听我的话。我为你出个主意，愿 神与你同在。你要替百姓到 神面前，将案件奏告 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你要聽我的話。我為你出個主意，願上帝與你同在。你要替百姓到上帝面前，將案件奏告上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You shall teach them the statutes and the laws, and shall show them the way in which they must walk, and the work that they must do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要将律例和法度教训他们，指示他们当行的道，当做的事；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要將律例和法度教訓他們，指示他們當行的道，當做的事；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Moreover you shall provide out of all the people able men which fear God: men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并要从百姓中拣选有才能的人，就是敬畏 神、诚实无妄、恨不义之财的人，派他们作千夫长、百夫长、五十夫长、十夫长，管理百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並要從百姓中揀選有才能的人，就是敬畏上帝、誠實無妄、恨不義之財的人，派他們作千夫長、百夫長、五十夫長、十夫長，管理百姓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Let them judge the people at all times. It shall be that every great matter they shall bring to you, but every small matter they shall judge themselves. So shall it be easier for you, and they shall share the load with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫他们随时审判百姓，大事都要呈到你这里，小事他们自己可以审判。这样，你就轻省些，他们也可以同当此任。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫他們隨時審判百姓，大事都要呈到你這裏，小事他們自己可以審判。這樣，你就輕省些，他們也可以同當此任。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "If you will do this thing, and God commands you so, then you will be able to endure, and all these people also will go to their place in peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若这样行， 神也这样吩咐你，你就能受得住，这百姓也都平平安安归回他们的住处。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若這樣行，上帝也這樣吩咐你，你就能受得住，這百姓也都平平安安歸回他們的住處。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "So Moses listened to the voice of his father-in-law, and did all that he had said.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，摩西听从他岳父的话，按着他所说的去行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，摩西聽從他岳父的話，按着他所說的去行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西从以色列人中拣选了有才能的人，立他们为百姓的首领，作千夫长、百夫长、五十夫长、十夫长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西從以色列人中揀選了有才能的人，立他們為百姓的首領，作千夫長、百夫長、五十夫長、十夫長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They judged the people at all times. They brought the hard cases to Moses, but every small matter they judged themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们随时审判百姓，有难断的案件就呈到摩西那里，但各样小事他们自己审判。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們隨時審判百姓，有難斷的案件就呈到摩西那裏，但各樣小事他們自己審判。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Moses let his father-in-law depart, and he went his way into his own land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此后，摩西让他的岳父去，他就往本地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此後，摩西讓他的岳父去，他就往本地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

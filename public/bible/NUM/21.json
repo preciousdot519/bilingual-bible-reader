@@ -1,0 +1,684 @@
+{
+  "bookId": "NUM",
+  "chapter": 21,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住南地的迦南人亚拉得王，听说以色列人从亚他林路来，就和以色列人争战，掳了他们几个人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住南地的迦南人亞拉得王，聽說以色列人從亞他林路來，就和以色列人爭戰，擄了他們幾個人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Israel vowed a vow to the LORD, and said, “If you will indeed deliver this people into my hand, then I will utterly destroy their cities.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人向耶和华发愿说：「你若将这民交付我手，我就把他们的城邑尽行毁灭。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人向耶和華發願說：「你若將這民交付我手，我就把他們的城邑盡行毀滅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:3 “Hormah” means “destruction”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华应允了以色列人，把迦南人交付他们，他们就把迦南人和迦南人的城邑尽行毁灭。那地方的名便叫何珥玛。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:3 就是毁灭的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華應允了以色列人，把迦南人交付他們，他們就把迦南人和迦南人的城邑盡行毀滅。那地方的名便叫何珥瑪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:3 就是毀滅的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They traveled from Mount Hor by the way to the Red Sea, to go around the land of Edom. The soul of the people was very discouraged because of the journey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们从何珥山起行，往红海那条路走，要绕过以东地。百姓因这路难行，心中甚是烦躁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們從何珥山起行，往紅海那條路走，要繞過以東地。百姓因這路難行，心中甚是煩躁，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, there is no water, and our soul loathes this disgusting food!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就怨 神和摩西说：「你们为什么把我们从埃及领出来、使我们死在旷野呢？这里没有粮，没有水，我们的心厌恶这淡薄的食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就怨讟上帝和摩西說：「你們為甚麼把我們從埃及領出來、使我們死在曠野呢？這裏沒有糧，沒有水，我們的心厭惡這淡薄的食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The LORD sent venomous snakes among the people, and they bit the people. Many people of Israel died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶和华使火蛇进入百姓中间，蛇就咬他们。以色列人中死了许多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶和華使火蛇進入百姓中間，蛇就咬他們。以色列人中死了許多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The people came to Moses, and said, “We have sinned, because we have spoken against the LORD and against you. Pray to the LORD, that he take away the serpents from us.” Moses prayed for the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓到摩西那里，说：「我们怨 耶和华和你，有罪了。求你祷告耶和华，叫这些蛇离开我们。」于是摩西为百姓祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓到摩西那裏，說：「我們怨讟耶和華和你，有罪了。求你禱告耶和華，叫這些蛇離開我們。」於是摩西為百姓禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD said to Moses, “Make a venomous snake, and set it on a pole. It shall happen that everyone who is bitten, when he sees it, shall live.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「你制造一条火蛇，挂在杆子上；凡被咬的，一望这蛇，就必得活。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「你製造一條火蛇，掛在杆子上；凡被咬的，一望這蛇，就必得活。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Moses made a serpent of bronze, and set it on the pole. If a serpent had bitten any man, when he looked at the serpent of bronze, he lived.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西便制造一条铜蛇，挂在杆子上；凡被蛇咬的，一望这铜蛇就活了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西便製造一條銅蛇，掛在杆子上；凡被蛇咬的，一望這銅蛇就活了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The children of Israel traveled, and encamped in Oboth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人起行，安营在阿伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人起行，安營在阿伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They traveled from Oboth, and encamped at Iyeabarim, in the wilderness which is before Moab, toward the sunrise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从阿伯起行，安营在以耶·亚巴琳，与摩押相对的旷野，向日出之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從阿伯起行，安營在以耶‧亞巴琳，與摩押相對的曠野，向日出之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "From there they traveled, and encamped in the valley of Zered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里起行，安营在撒烈谷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏起行，安營在撒烈谷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "From there they traveled, and encamped on the other side of the Arnon, which is in the wilderness that comes out of the border of the Amorites; for the Arnon is the border of Moab, between Moab and the Amorites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里起行，安营在亚嫩河那边。这亚嫩河是在旷野，从亚摩利的境界流出来的；原来亚嫩河是摩押的边界，在摩押和亚摩利人搭界的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏起行，安營在亞嫩河那邊。這亞嫩河是在曠野，從亞摩利的境界流出來的；原來亞嫩河是摩押的邊界，在摩押和亞摩利人搭界的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Therefore it is said in The Book of the Wars of the LORD, “Vaheb in Suphah, the valleys of the Arnon,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华的战记上说：「苏法的哇哈伯与亚嫩河的谷，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華的戰記上說：「蘇法的哇哈伯與亞嫩河的谷，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "the slope of the valleys that incline toward the dwelling of Ar, leans on the border of Moab.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并向亚珥城众谷的下坡，是靠近摩押的境界。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並向亞珥城眾谷的下坡，是靠近摩押的境界。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "From there they traveled to Beer; that is the well of which the LORD said to Moses, “Gather the people together, and I will give them water.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人从那里起行，到了比珥。从前耶和华吩咐摩西说：「招聚百姓，我好给他们水喝」，说的就是这井。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:16 就是井的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人從那裏起行，到了比珥。從前耶和華吩咐摩西說：「招聚百姓，我好給他們水喝」，說的就是這井。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:16 就是井的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Then Israel sang this song: “Spring up, well! Sing to it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时，以色列人唱歌说： 井啊，涌上水来！ 你们要向这井歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時，以色列人唱歌說： 井啊，湧上水來！ 你們要向這井歌唱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "the well, which the princes dug, which the nobles of the people dug, with the scepter, and with their poles.” From the wilderness they traveled to Mattanah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这井是首领和民中的尊贵人 用圭用杖所挖所掘的。 以色列人从旷野往玛他拿去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這井是首領和民中的尊貴人 用圭用杖所挖所掘的。 以色列人從曠野往瑪他拿去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从玛他拿到拿哈列，从拿哈列到巴末，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從瑪他拿到拿哈列，從拿哈列到巴末，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从巴末到摩押地的谷，又到那下望旷野之毗斯迦的山顶。 （申2·26—3·11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從巴末到摩押地的谷，又到那下望曠野之毗斯迦的山頂。 （申2‧26－3‧11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Israel sent messengers to Sihon king of the Amorites, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人差遣使者去见亚摩利人的王西宏，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人差遣使者去見亞摩利人的王西宏，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Let me pass through your land. We will not turn away into field or vineyard. We will not drink of the water of the wells. We will go by the king’s highway, until we have passed your border.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「求你容我们从你的地经过；我们不偏入田间和葡萄园，也不喝井里的水，只走大道，直到过了你的境界。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:22 原文是王道"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「求你容我們從你的地經過；我們不偏入田間和葡萄園，也不喝井裏的水，只走大道，直到過了你的境界。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:22 原文是王道"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Sihon would not allow Israel to pass through his border, but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz. He fought against Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西宏不容以色列人从他的境界经过，就招聚他的众民出到旷野，要攻击以色列人，到了雅杂与以色列人争战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西宏不容以色列人從他的境界經過，就招聚他的眾民出到曠野，要攻擊以色列人，到了雅雜與以色列人爭戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Israel struck him with the edge of the sword, and possessed his land from the Arnon to the Jabbok, even to the children of Ammon; for the border of the children of Ammon was fortified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人用刀杀了他，得了他的地，从亚嫩河到雅博河，直到亚扪人的境界，因为亚扪人的境界多有坚垒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人用刀殺了他，得了他的地，從亞嫩河到雅博河，直到亞捫人的境界，因為亞捫人的境界多有堅壘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Israel took all these cities. Israel lived in all the cities of the Amorites, in Heshbon, and in all its villages.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人夺取这一切的城邑，也住亚摩利人的城邑，就是希实本与希实本的一切乡村。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人奪取這一切的城邑，也住亞摩利人的城邑，就是希實本與希實本的一切鄉村。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even to the Arnon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这希实本是亚摩利王西宏的京城；西宏曾与摩押的先王争战，从他手中夺取了全地，直到亚嫩河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這希實本是亞摩利王西宏的京城；西宏曾與摩押的先王爭戰，從他手中奪取了全地，直到亞嫩河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Therefore those who speak in proverbs say, “Come to Heshbon. Let the city of Sihon be built and established;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以那些作诗歌的说： 你们来到希实本； 愿西宏的城被修造，被建立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以那些作詩歌的說： 你們來到希實本； 願西宏的城被修造，被建立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devoured Ar of Moab, The lords of the high places of the Arnon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有火从希实本发出， 有火焰出于西宏的城， 烧尽摩押的亚珥和亚嫩河邱坛的祭司 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:28 祭司原文是主"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有火從希實本發出， 有火焰出於西宏的城， 燒盡摩押的亞珥和亞嫩河邱壇的祭司。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:28 祭司原文是主"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Woe to you, Moab! You are undone, people of Chemosh! He has given his sons as fugitives, and his daughters into captivity, to Sihon king of the Amorites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩押啊，你有祸了！ 基抹的民哪，你们灭亡了！ 基抹的男子逃奔， 女子被掳，交付亚摩利的王西宏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩押啊，你有禍了！ 基抹的民哪，你們滅亡了！ 基抹的男子逃奔， 女子被擄，交付亞摩利的王西宏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "We have shot at them. Heshbon has perished even to Dibon. We have laid waste even to Nophah, Which reaches to Medeba.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们射了他们； 希实本直到底本尽皆毁灭。 我们使地变成荒场，直到挪法； 这挪法直延到米底巴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們射了他們； 希實本直到底本盡皆毀滅。 我們使地變成荒場，直到挪法； 這挪法直延到米底巴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Thus Israel lived in the land of the Amorites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，以色列人就住在亚摩利人之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，以色列人就住在亞摩利人之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Moses sent to spy out Jazer. They took its villages, and drove out the Amorites who were there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西打发人去窥探雅谢，以色列人就占了雅谢的镇市，赶出那里的亚摩利人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西打發人去窺探雅謝，以色列人就佔了雅謝的鎮市，趕出那裏的亞摩利人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They turned and went up by the way of Bashan. Og the king of Bashan went out against them, he and all his people, to battle at Edrei.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人转回，向巴珊去。巴珊王噩和他的众民都出来，在以得来与他们交战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人轉回，向巴珊去。巴珊王噩和他的眾民都出來，在以得來與他們交戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The LORD said to Moses, “Don’t fear him, for I have delivered him into your hand, with all his people, and his land. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：「不要怕他！因我已将他和他的众民，并他的地，都交在你手中；你要待他像从前待住希实本的亚摩利王西宏一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：「不要怕他！因我已將他和他的眾民，並他的地，都交在你手中；你要待他像從前待住希實本的亞摩利王西宏一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们杀了他和他的众子，并他的众民，没有留下一个，就得了他的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們殺了他和他的眾子，並他的眾民，沒有留下一個，就得了他的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

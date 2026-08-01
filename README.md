@@ -1,4 +1,4 @@
-# 双语圣经 | Bilingual Bible Reader
+﻿# 双语圣经 | Bilingual Bible Reader
 
 A responsive Chinese–English Bible reader built with React, TypeScript and Vite.
 
@@ -15,21 +15,21 @@ A responsive Chinese–English Bible reader built with React, TypeScript and Vit
 - Provider abstraction for future API integrations
 - Netlify and GitHub Pages deployment files
 
-## Important licensing note
+## Bible text, provenance and licensing
 
 This project deliberately **does not scrape Bible Gateway or other Bible websites**.
 
-Many modern Bible translations are copyrighted, and website access does not automatically grant permission to reproduce the text in another app. Use an authorized provider and follow each translation's attribution and usage rules.
+The bundled dataset contains the complete 66-book Protestant Bible in three editions downloaded as USFM files from eBible.org:
 
-Suitable provider options include:
+- English: World English Bible, Protestant edition (`engwebp`)
+- Simplified Chinese: Chinese Union Version, New Punctuation (`cmn-cu89s`)
+- Traditional Chinese: Chinese Union Version, New Punctuation (`cmn-cu89t`)
 
-- API.Bible
-- YouVersion Platform
-- Bible Gateway's official API or widgets, when authorized
-- Public-domain Bible datasets
+eBible.org identifies all three editions as public domain. "World English Bible" is a trademark of eBible.org; text changed from that edition should not continue to be represented as the World English Bible.
 
-The bundled verses are only a small demo dataset. Before public or commercial deployment, verify the copyright status in every jurisdiction where the app will be distributed.
+The application converts the local USFM files into chapter-level JSON under `public/bible/`. Display formatting and USFM markup are transformed for the reader, while verse text, footnotes and cross-references are retained as structured data. Translation-specific verse divisions and numbering are preserved rather than rewritten.
 
+See `public/bible/SOURCES.md` for source identifiers, provenance, processing notes and licensing links.
 ## Local setup
 
 ```bash
@@ -84,3 +84,5 @@ src/services/bibleProvider.ts
 ```
 
 Implement the provider with an approved API, map both translations by canonical book/chapter/verse identifiers, and retain the local provider as an offline fallback.
+
+

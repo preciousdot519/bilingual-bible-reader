@@ -1,0 +1,840 @@
+{
+  "bookId": "MRK",
+  "chapter": 12,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He began to speak to them in parables. “Aman planted a vineyard, put a hedge around it, dug a pit for the wine press, built a tower, rented it out to a farmer, and went into another country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就用比喻对他们说：「有人栽了一个葡萄园，周围圈上篱笆，挖了一个压酒池，盖了一座楼，租给园户，就往外国去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就用比喻對他們說：「有人栽了一個葡萄園，周圍圈上籬笆，挖了一個壓酒池，蓋了一座樓，租給園戶，就往外國去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Whenit was time, he sent a servant to the farmer to get from the farmer his share of the fruit of the vineyard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了时候，打发一个仆人到园户那里，要从园户收葡萄园的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了時候，打發一個僕人到園戶那裏，要從園戶收葡萄園的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Theytook him, beat him, and sent him away empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "园户拿住他，打了他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "園戶拿住他，打了他，叫他空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Again, he sent another servant to them; and they threw stones at him, wounded him in the head, and sent him away shamefully treated.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再打发一个仆人到他们那里。他们打伤他的头，并且凌辱他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再打發一個僕人到他們那裏。他們打傷他的頭，並且凌辱他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Againhe sent another, and they killed him, and many others, beating some, and killing some.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又打发一个仆人去，他们就杀了他。后又打发好些仆人去，有被他们打的，有被他们杀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又打發一個僕人去，他們就殺了他。後又打發好些僕人去，有被他們打的，有被他們殺的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Thereforestill having one, his beloved son, he sent him last to them, saying, ‘They will respect my son.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "园主还有一位是他的爱子，末后又打发他去，意思说：『他们必尊敬我的儿子。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "園主還有一位是他的愛子，末後又打發他去，意思說：『他們必尊敬我的兒子。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Butthose farmers said among themselves, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不料，那些园户彼此说：『这是承受产业的。来吧，我们杀他，产业就归我们了！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不料，那些園戶彼此說：『這是承受產業的。來吧，我們殺他，產業就歸我們了！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Theytook him, killed him, and cast him out of the vineyard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是拿住他，杀了他，把他丢在园外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是拿住他，殺了他，把他丟在園外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Whattherefore will the lord of the vineyard do? He will come and destroy the farmers, and will give the vineyard to others.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，葡萄园的主人要怎么办呢？他要来除灭那些园户，将葡萄园转给别人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，葡萄園的主人要怎麼辦呢？他要來除滅那些園戶，將葡萄園轉給別人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Haven’tyou even read this Scripture: ‘Thestone which the builders rejected wasmade the head of the corner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "经上写着说： 匠人所弃的石头 已作了房角的头块石头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "經上寫着說： 匠人所棄的石頭 已作了房角的頭塊石頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Thiswas from the Lord. Itis marvelous in our eyes’?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:11 Psalms 118:22-23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这是主所做的， 在我们眼中看为希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是主所做的， 在我們眼中看為希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They tried to seize him, but they feared the multitude; for they perceived that he spoke the parable against them. They left him and went away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们看出这比喻是指着他们说的，就想要捉拿他，只是惧怕百姓，于是离开他走了。 （太22·15—22；路20·19—26）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們看出這比喻是指着他們說的，就想要捉拿他，只是懼怕百姓，於是離開他走了。 （太22‧15－22；路20‧19－26）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They sent some of the Pharisees and the Herodians to him, that they might trap him with words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来，他们打发几个法利赛人和几个希律党的人到耶稣那里，要就着他的话陷害他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來，他們打發幾個法利賽人和幾個希律黨的人到耶穌那裏，要就着他的話陷害他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When they had come, they asked him, “Teacher, we know that you are honest, and don’t defer to anyone; for you aren’t partial to anyone, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们来了，就对他说：「夫子，我们知道你是诚实的，什么人你都不徇情面；因为你不看人的外貌，乃是诚诚实实传 神的道。纳税给凯撒可以不可以？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們來了，就對他說：「夫子，我們知道你是誠實的，甚麼人你都不徇情面；因為你不看人的外貌，乃是誠誠實實傳上帝的道。納稅給凱撒可以不可以？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Shall we give, or shall we not give?” But he, knowing their hypocrisy, said to them, “Whydo you test me? Bring me a denarius, that I may see it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们该纳不该纳？」耶稣知道他们的假意，就对他们说：「你们为什么试探我？拿一个银钱来给我看！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們該納不該納？」耶穌知道他們的假意，就對他們說：「你們為甚麼試探我？拿一個銀錢來給我看！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They brought it. He said to them, “Whoseis this image and inscription?” They said to him, “Caesar’s.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就拿了来。耶稣说：「这像和这号是谁的？」他们说：「是凯撒的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就拿了來。耶穌說：「這像和這號是誰的？」他們說：「是凱撒的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Jesus answered them, “Giveto Caesar the things that are Caesar’s, and to God the things that are God’s.” They marveled greatly at him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「凯撒的物当归给凯撒， 神的物当归给 神。」他们就很希奇他。 （太22·23—33；路20·27—40）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「凱撒的物當歸給凱撒，上帝的物當歸給上帝。」他們就很希奇他。 （太22‧23－33；路20‧27－40）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Some Sadducees, who say that there is no resurrection, came to him. They asked him, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒都该人常说没有复活的事。他们来问耶稣说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒都該人常說沒有復活的事。他們來問耶穌說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Teacher, Moses wrote to us, ‘If a man’s brother dies and leaves a wife behind him, and leaves no children, that his brother should take his wife and raise up offspring for his brother.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「夫子，摩西为我们写着说：『人若死了，撇下妻子，没有孩子，他兄弟当娶他的妻，为哥哥生子立后。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「夫子，摩西為我們寫着說：『人若死了，撇下妻子，沒有孩子，他兄弟當娶他的妻，為哥哥生子立後。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "There were seven brothers. The first took a wife, and dying left no offspring.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有弟兄七人，第一个娶了妻，死了，没有留下孩子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有弟兄七人，第一個娶了妻，死了，沒有留下孩子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The second took her, and died, leaving no children behind him. The third likewise;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二个娶了她，也死了，没有留下孩子。第三个也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二個娶了她，也死了，沒有留下孩子。第三個也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "and the seven took her and left no children. Last of all the woman also died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那七个人都没有留下孩子；末了，那妇人也死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那七個人都沒有留下孩子；末了，那婦人也死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "In the resurrection, when they rise, whose wife will she be of them? For the seven had her as a wife.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当复活的时候，她是哪一个的妻子呢？因为他们七个人都娶过她。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當復活的時候，她是哪一個的妻子呢？因為他們七個人都娶過她。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Jesus answered them, “Isn’tthis because you are mistaken, not knowing the Scriptures nor the power of God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们所以错了，岂不是因为不明白圣经，不晓得 神的大能吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們所以錯了，豈不是因為不明白聖經，不曉得上帝的大能嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Forwhen they will rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人从死里复活，也不娶也不嫁，乃像天上的使者一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人從死裏復活，也不娶也不嫁，乃像天上的使者一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Butabout the dead, that they are raised, haven’t you read in the book of Moses about the Bush, how God spoke to him, saying, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:26 Exodus 3:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "论到死人复活，你们没有念过摩西的书荆棘篇上所载的吗？ 神对摩西说：『我是亚伯拉罕的 神，以撒的 神，雅各的 神。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到死人復活，你們沒有念過摩西的書荊棘篇上所載的嗎？上帝對摩西說：『我是亞伯拉罕的上帝，以撒的上帝，雅各的上帝。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Heis not the God of the dead, but of the living. You are therefore badly mistaken.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神不是死人的 神，乃是活人的 神。你们是大错了。」 （太22·34—40；路10·25—28）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝不是死人的上帝，乃是活人的上帝。你們是大錯了。」 （太22‧34－40；路10‧25－28）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "One of the scribes came and heard them questioning together, and knowing that he had answered them well, asked him, “Which commandment is the greatest of all?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个文士来，听见他们辩论，晓得耶稣回答的好，就问他说：「诫命中哪是第一要紧的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個文士來，聽見他們辯論，曉得耶穌回答的好，就問他說：「誡命中哪是第一要緊的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jesus answered, “Thegreatest is: ‘Hear, Israel, the Lord our God, the Lord is one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「第一要紧的就是说：『以色列啊，你要听，主—我们 神是独一的主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「第一要緊的就是說：『以色列啊，你要聽，主－我們上帝是獨一的主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Youshall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ Thisis the first commandment.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:30 Deuteronomy 6:4-5",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你要尽心、尽性、尽意、尽力爱主—你的 神。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要盡心、盡性、盡意、盡力愛主－你的上帝。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Thesecond is like this: ‘You shall love your neighbor as yourself.’ Thereis no other commandment greater than these.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:31 Leviticus 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "其次就是说：『要爱人如己。』再没有比这两条诫命更大的了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次就是說：『要愛人如己。 』再沒有比這兩條誡命更大的了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那文士对耶稣说：「夫子说， 神是一位，实在不错；除了他以外，再没有别的 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那文士對耶穌說：「夫子說，上帝是一位，實在不錯；除了他以外，再沒有別的上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "and to love him with all the heart, with all the understanding, all the soul, and with all the strength, and to love his neighbor as himself, is more important than all whole burnt offerings and sacrifices.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且尽心、尽智、尽力爱他，又爱人如己，就比一切燔祭和各样祭祀好的多。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且盡心、盡智、盡力愛他，又愛人如己，就比一切燔祭和各樣祭祀好的多。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "When Jesus saw that he answered wisely, he said to him, “Youare not far from God’s Kingdom.” No one dared ask him any question after that.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣见他回答的有智慧，就对他说：「你离 神的国不远了。」从此以后，没有人敢再问他什么。 （太22·41—46；路20·41—44）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌見他回答的有智慧，就對他說：「你離上帝的國不遠了。」從此以後，沒有人敢再問他甚麼。 （太22‧41－46；路20‧41－44）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Jesus responded, as he taught in the temple, “Howis it that the scribes say that the Christ is the son of David?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣在殿里教训人，就问他们说：「文士怎么说基督是大卫的子孙呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌在殿裏教訓人，就問他們說：「文士怎麼說基督是大衛的子孫呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "ForDavid himself said in the Holy Spirit, ‘TheLord said to my Lord, “Sitat my right hand, untilI make your enemies the footstool of your feet.”’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:36 Psalms 110:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "大卫被圣灵感动，说： 主对我主说： 你坐在我的右边， 等我使你仇敌作你的脚凳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛被聖靈感動，說： 主對我主說： 你坐在我的右邊， 等我使你仇敵作你的腳凳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "ThereforeDavid himself calls him Lord, so how can he be his son?” The common people heard him gladly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫既自己称他为主，他怎么又是大卫的子孙呢？」众人都喜欢听他。 （太23·1—36；路20·45—47）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛既自己稱他為主，他怎麼又是大衛的子孫呢？」眾人都喜歡聽他。 （太23‧1－36；路20‧45－47）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "In his teaching he said to them, “Beware ofthe scribes, who like to walk in long robes, and to get greetings in the marketplaces,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣在教训之间，说：「你们要防备文士；他们好穿长衣游行，喜爱人在街市上问他们的安，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌在教訓之間，說：「你們要防備文士；他們好穿長衣遊行，喜愛人在街市上問他們的安，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "andto get the best seats in the synagogues and the best places at feasts,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又喜爱会堂里的高位，筵席上的首座。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又喜愛會堂裏的高位，筵席上的首座。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "thosewho devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们侵吞寡妇的家产，假意作很长的祷告。这些人要受更重的刑罚！」 （路21·1—4）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」 （路21‧1－4）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Jesus sat down opposite the treasury and saw how the multitude cast money into the treasury. Many who were rich cast in much.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对银库坐着，看众人怎样投钱入库。有好些财主往里投了若干的钱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對銀庫坐着，看眾人怎樣投錢入庫。有好些財主往裏投了若干的錢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "A poor widow came and she cast in two small brass coins, which equal a quadrans coin.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:42 literally, lepta (or widow’s mites). Lepta are very small brass coins worth half a quadrans each, which is a quarter of the copper assarion. Lepta are worth less than 1% of an agricultural worker’s daily wages."
+          },
+          {
+            "id": "f2",
+            "text": "12:42 A quadrans is a coin worth about 1/64 of a denarius. A denarius is about one day’s wages for an agricultural laborer."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个穷寡妇来，往里投了两个小钱，就是一个大钱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個窮寡婦來，往裏投了兩個小錢，就是一個大錢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He called his disciples to himself and said to them, “Mostcertainly I tell you, this poor widow gave more than all those who are giving into the treasury,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣叫门徒来，说：「我实在告诉你们，这穷寡妇投入库里的，比众人所投的更多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌叫門徒來，說：「我實在告訴你們，這窮寡婦投入庫裏的，比眾人所投的更多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "forthey all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，他们都是自己有余，拿出来投在里头；但这寡妇是自己不足，把她一切养生的都投上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，他們都是自己有餘，拿出來投在裏頭；但這寡婦是自己不足，把她一切養生的都投上了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

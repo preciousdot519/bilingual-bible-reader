@@ -1,0 +1,684 @@
+{
+  "bookId": "MAT",
+  "chapter": 6,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Becareful that you don’ t do your charitable giving beforemen, to be seen by them, or else you have no reward from your Father who is in heaven.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:1 NU reads “acts of righteousness” instead of “charitable giving”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要小心，不可将善事行在人的面前，故意叫他们看见，若是这样，就不能得你们天父的赏赐了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要小心，不可將善事行在人的面前，故意叫他們看見，若是這樣，就不能得你們天父的賞賜了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你施舍的时候，不可在你前面吹号，像那假冒为善的人在会堂里和街道上所行的，故意要得人的荣耀。我实在告诉你们，他们已经得了他们的赏赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你施捨的時候，不可在你前面吹號，像那假冒為善的人在會堂裏和街道上所行的，故意要得人的榮耀。我實在告訴你們，他們已經得了他們的賞賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Butwhen you do merciful deeds, don’t let your left hand know what your right hand does,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你施舍的时候，不要叫左手知道右手所做的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你施捨的時候，不要叫左手知道右手所做的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "sothat your merciful deeds may be in secret, then your Father who sees in secret will reward you openly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要叫你施舍的事行在暗中。你父在暗中察看，必然报答你。」 （路11·2—4）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:4 有古卷：必在明处报答你"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要叫你施捨的事行在暗中。你父在暗中察看，必然報答你 。」 （路11‧2－4）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:4 有古卷：必在明處報答你"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Whenyou pray, you shall not be as the hypocrites, for they love to stand and pray in the synagogues and in the corners of the streets, that they may be seen by men. Most certainly, I tell you, they have received their reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们祷告的时候，不可像那假冒为善的人，爱站在会堂里和十字路口上祷告，故意叫人看见。我实在告诉你们，他们已经得了他们的赏赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們禱告的時候，不可像那假冒為善的人，愛站在會堂裏和十字路口上禱告，故意叫人看見。我實在告訴你們，他們已經得了他們的賞賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Butyou, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret; and your Father who sees in secret will reward you openly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你祷告的时候，要进你的内屋，关上门，祷告你在暗中的父；你父在暗中察看，必然报答你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你禱告的時候，要進你的內屋，關上門，禱告你在暗中的父；你父在暗中察看，必然報答你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Inpraying, don’t use vain repetitions as the Gentiles do; for they think that they will be heard for their much speaking.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们祷告，不可像外邦人，用许多重复话，他们以为话多了必蒙垂听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們禱告，不可像外邦人，用許多重複話，他們以為話多了必蒙垂聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Thereforedon’ t be like them, for your Father knows what things you need before you ask him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不可效法他们；因为你们没有祈求以先，你们所需用的，你们的父早已知道了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不可效法他們；因為你們沒有祈求以先，你們所需用的，你們的父早已知道了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Praylike this: “‘OurFather in heaven, may your name be kept holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们祷告要这样说： 我们在天上的父： 愿人都尊你的名为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們禱告要這樣說： 我們在天上的父： 願人都尊你的名為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Letyour Kingdom come. Letyour will be done on earth as it is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你的国降临； 愿你的旨意行在地上， 如同行在天上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你的國降臨； 願你的旨意行在地上， 如同行在天上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Giveus today our daily bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们日用的饮食，今日赐给我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們日用的飲食，今日賜給我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Forgive usour debts, aswe also forgive our debtors.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "免我们的债， 如同我们免了人的债。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "免我們的債， 如同我們免了人的債。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Bringus not into temptation, butdeliver us from the evil one. Foryours is the Kingdom, the power, and the glory forever. Amen.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:13 NU omits “For yours is the Kingdom, the power, and the glory forever. Amen.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不叫我们遇见试探； 救我们脱离凶恶。 因为国度、权柄、荣耀，全是你的， 直到永远。阿们！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:13 或译：脱离恶者"
+          },
+          {
+            "id": "f2",
+            "text": "- 6:13 有古卷没有因为…阿们等字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不叫我們遇見試探； 救我們脫離凶惡 。 因為國度、權柄、榮耀，全是你的， 直到永遠。阿們 ！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:13 或譯：脫離惡者"
+          },
+          {
+            "id": "f2",
+            "text": "- 6:13 有古卷沒有因為…阿們等字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Forif you forgive men their trespasses, your heavenly Father will also forgive you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们饶恕人的过犯，你们的天父也必饶恕你们的过犯；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們饒恕人的過犯，你們的天父也必饒恕你們的過犯；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Butif you don’ t forgive men their trespasses, neither will your Father forgive your trespasses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不饶恕人的过犯，你们的天父也必不饶恕你们的过犯。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不饒恕人的過犯，你們的天父也必不饒恕你們的過犯。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Moreoverwhen you fast, don’t be like the hypocrites, with sad faces. For they disfigure their faces that they may be seen by men to be fasting. Most certainly I tell you, they have received their reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们禁食的时候，不可像那假冒为善的人，脸上带着愁容；因为他们把脸弄得难看，故意叫人看出他们是禁食。我实在告诉你们，他们已经得了他们的赏赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們禁食的時候，不可像那假冒為善的人，臉上帶着愁容；因為他們把臉弄得難看，故意叫人看出他們是禁食。我實在告訴你們，他們已經得了他們的賞賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Butyou, when you fast, anoint your head and wash your face,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你禁食的时候，要梳头洗脸，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你禁食的時候，要梳頭洗臉，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "sothat you are not seen by men to be fasting, but by your Father who is in secret; and your Father, who sees in secret, will reward you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不叫人看出你禁食来，只叫你暗中的父看见；你父在暗中察看，必然报答你。」 （路12·33—34）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不叫人看出你禁食來，只叫你暗中的父看見；你父在暗中察看，必然報答你。」 （路12‧33－34）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Don’tlay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「不要为自己积攒财宝在地上；地上有虫子咬，能锈坏，也有贼挖窟窿来偷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「不要為自己積攢財寶在地上；地上有蟲子咬，能銹壞，也有賊挖窟窿來偷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "butlay up for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves don’t break through and steal;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只要积攒财宝在天上；天上没有虫子咬，不能锈坏，也没有贼挖窟窿来偷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只要積攢財寶在天上；天上沒有蟲子咬，不能銹壞，也沒有賊挖窟窿來偷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "forwhere your treasure is, there your heart will be also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你的财宝在哪里，你的心也在那里。」 （路11·34—36）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你的財寶在哪裏，你的心也在那裏。」 （路11‧34－36）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Thelamp of the body is the eye. If therefore your eye is sound, your whole body will be full of light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「眼睛就是身上的灯。你的眼睛若了亮，全身就光明；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「眼睛就是身上的燈。你的眼睛若瞭亮，全身就光明；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Butif your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的眼睛若昏花，全身就黑暗。你里头的光若黑暗了，那黑暗是何等大呢！」 （路16·13）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的眼睛若昏花，全身就黑暗。你裏頭的光若黑暗了，那黑暗是何等大呢！」 （路16‧13）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Noone can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「一个人不能事奉两个主；不是恶这个、爱那个，就是重这个、轻那个。你们不能又事奉 神，又事奉玛门。」 （路12·22—31）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:24 玛门：财利的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「一個人不能事奉兩個主；不是惡這個、愛那個，就是重這個、輕那個。你們不能又事奉上帝，又事奉瑪門 。」 （路12‧22－31）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:24 瑪門：財利的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "ThereforeI tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’ t life more than food, and the body more than clothing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「所以我告诉你们，不要为生命忧虑吃什么，喝什么；为身体忧虑穿什么。生命不胜于饮食吗？身体不胜于衣裳吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「所以我告訴你們，不要為生命憂慮吃甚麼，喝甚麼；為身體憂慮穿甚麼。生命不勝於飲食嗎？身體不勝於衣裳嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Seethe birds of the sky, that they don’ t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们看那天上的飞鸟，也不种，也不收，也不积蓄在仓里，你们的天父尚且养活它。你们不比飞鸟贵重得多吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們看那天上的飛鳥，也不種，也不收，也不積蓄在倉裏，你們的天父尚且養活牠。你們不比飛鳥貴重得多嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Whichof you by being anxious, can add one moment tohis lifespan?",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:27 literally, cubit"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们哪一个能用思虑使寿数多加一刻呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:27 或译：使身量多加一肘呢"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們哪一個能用思慮使壽數多加一刻呢 ？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:27 或譯：使身量多加一肘呢"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Whyare you anxious about clothing? Consider the lilies of the field, how they grow. They don’ t toil, neither do they spin,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "何必为衣裳忧虑呢？你想野地里的百合花怎么长起来；它也不劳苦，也不纺线。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "何必為衣裳憂慮呢？你想野地裏的百合花怎麼長起來；它也不勞苦，也不紡線。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "yetI tell you that even Solomon in all his glory was not dressed like one of these.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而我告诉你们，就是所罗门极荣华的时候，他所穿戴的，还不如这花一朵呢！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而我告訴你們，就是所羅門極榮華的時候，他所穿戴的，還不如這花一朵呢！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Butif God so clothes the grass of the field, which today exists and tomorrow is thrown into the oven, won’ t he much more clothe you, you of little faith?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这小信的人哪！野地里的草今天还在，明天就丢在炉里， 神还给它这样的妆饰，何况你们呢！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這小信的人哪！野地裏的草今天還在，明天就丟在爐裏，上帝還給它這樣的妝飾，何況你們呢！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Thereforedon’t be anxious, saying, ‘What will we eat?’, ‘What will we drink?’ or, ‘With what will we be clothed?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，不要忧虑说，吃什么？喝什么？穿什么？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，不要憂慮說，吃甚麼？喝甚麼？穿甚麼？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Forthe Gentiles seek after all these things; for your heavenly Father knows that you need all these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是外邦人所求的。你们需用的这一切东西，你们的天父是知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是外邦人所求的。你們需用的這一切東西，你們的天父是知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Butseek first God’s Kingdom and his righteousness; and all these things will be given to you as well.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要先求他的国和他的义，这些东西都要加给你们了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要先求他的國和他的義，這些東西都要加給你們了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Thereforedon’ t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，不要为明天忧虑，因为明天自有明天的忧虑；一天的难处一天当就够了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，不要為明天憂慮，因為明天自有明天的憂慮；一天的難處一天當就夠了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

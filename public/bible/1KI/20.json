@@ -1,0 +1,788 @@
+{
+  "bookId": "1KI",
+  "chapter": 20,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Ben Hadad the king of Syria gathered all his army together; and there were thirty-two kings with him, with horses and chariots. He went up and besieged Samaria, and fought against it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚兰王便·哈达聚集他的全军，率领三十二个王，带着车马上来围攻撒马利亚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞蘭王便‧哈達聚集他的全軍，率領三十二個王，帶着車馬上來圍攻撒馬利亞；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He sent messengers into the city to Ahab king of Israel and said to him, “Ben Hadad says,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又差遣使者进城见以色列王亚哈，对他说：「便·哈达如此说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又差遣使者進城見以色列王亞哈，對他說：「便‧哈達如此說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "‘Your silver and your gold are mine. Your wives also and your children, even the best, are mine.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的金银都要归我，你妻子儿女中最美的也要归我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的金銀都要歸我，你妻子兒女中最美的也要歸我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The king of Israel answered, “It is according to your saying, my lord, O king. I am yours, and all that I have.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王回答说：「我主我王啊，可以依着你的话，我与我所有的都归你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王回答說：「我主我王啊，可以依着你的話，我與我所有的都歸你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The messengers came again and said, “Ben Hadad says, ‘I sent indeed to you, saying, “You shall deliver me your silver, your gold, your wives, and your children;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使者又来说：「便·哈达如此说：我已差遣人去见你，要你将你的金银、妻子、儿女都给我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使者又來說：「便‧哈達如此說：我已差遣人去見你，要你將你的金銀、妻子、兒女都給我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "but I will send my servants to you tomorrow about this time, and they will search your house and the houses of your servants. Whatever is pleasant in your eyes, they will put it in their hand, and take it away.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但明日约在这时候，我还要差遣臣仆到你那里，搜查你的家和你仆人的家，将你眼中一切所喜爱的都拿了去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但明日約在這時候，我還要差遣臣僕到你那裏，搜查你的家和你僕人的家，將你眼中一切所喜愛的都拿了去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then the king of Israel called all the elders of the land, and said, “Please notice how this man seeks mischief; for he sent to me for my wives, and for my children, and for my silver, and for my gold; and I didn’t deny him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王召了国中的长老来，对他们说：「请你们看看，这人是怎样地谋害我，他先差遣人到我这里来，要我的妻子、儿女，和金银，我并没有推辞他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王召了國中的長老來，對他們說：「請你們看看，這人是怎樣地謀害我，他先差遣人到我這裏來，要我的妻子、兒女，和金銀，我並沒有推辭他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "All the elders and all the people said to him, “Don’t listen, and don’t consent.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "长老和百姓对王说：「不要听从他，也不要应允他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "長老和百姓對王說：「不要聽從他，也不要應允他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Therefore he said to the messengers of Ben Hadad, “Tell my lord the king, ‘All that you sent for to your servant at the first I will do, but this thing I cannot do.’” The messengers departed and brought him back the message.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，以色列王对便·哈达的使者说：「你们告诉我主我王说：王头一次差遣人向仆人所要的，仆人都依从；但这次所要的，我不能依从。」使者就去回复便·哈达。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，以色列王對便‧哈達的使者說：「你們告訴我主我王說：王頭一次差遣人向僕人所要的，僕人都依從；但這次所要的，我不能依從。」使者就去回覆便‧哈達。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Ben Hadad sent to him, and said, “The gods do so to me, and more also, if the dust of Samaria will be enough for handfuls for all the people who follow me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便·哈达又差遣人去见亚哈说：「撒马利亚的尘土若够跟从我的人每人捧一捧的，愿神明重重地降罚与我！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便‧哈達又差遣人去見亞哈說：「撒馬利亞的塵土若夠跟從我的人每人捧一捧的，願神明重重地降罰與我！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The king of Israel answered, “Tell him, ‘Don’t let him who puts on his armor brag like he who takes it off.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王说：「你告诉他说，才顶盔贯甲的，休要像摘盔卸甲的夸口。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王說：「你告訴他說，才頂盔貫甲的，休要像摘盔卸甲的誇口。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "When Ben Hadad heard this message as he was drinking, he and the kings in the pavilions, he said to his servants, “Prepare to attack!” So they prepared to attack the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便·哈达和诸王正在帐幕里喝酒，听见这话，就对他臣仆说：「摆队吧！」他们就摆队攻城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便‧哈達和諸王正在帳幕裏喝酒，聽見這話，就對他臣僕說：「擺隊吧！」他們就擺隊攻城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Behold, a prophet came near to Ahab king of Israel, and said, “The LORD says, ‘Have you seen all this great multitude? Behold, I will deliver it into your hand today. Then you will know that I am the LORD.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个先知来见以色列王亚哈，说：「耶和华如此说：『这一大群人你看见了吗？今日我必将他们交在你手里，你就知道我是耶和华。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個先知來見以色列王亞哈，說：「耶和華如此說：『這一大群人你看見了嗎？今日我必將他們交在你手裏，你就知道我是耶和華。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Ahab said, “By whom?” He said, “The LORD says, ‘By the young men of the princes of the provinces.’” Then he said, “Who shall begin the battle?” He answered, “You.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚哈说：「借着谁呢？」他回答说：「耶和华说，借着跟从省长的少年人。」亚哈说：「要谁率领呢？」他说：「要你亲自率领。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞哈說：「藉着誰呢？」他回答說：「耶和華說，藉着跟從省長的少年人。」亞哈說：「要誰率領呢？」他說：「要你親自率領。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Then he mustered the young men of the princes of the provinces, and they were two hundred and thirty-two. After them, he mustered all the people, even all the children of Israel, being seven thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是亚哈数点跟从省长的少年人，共有二百三十二名，后又数点以色列的众兵，共有七千名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是亞哈數點跟從省長的少年人，共有二百三十二名，後又數點以色列的眾兵，共有七千名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They went out at noon. But Ben Hadad was drinking himself drunk in the pavilions, he and the kings, the thirty-two kings who helped him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "午间，他们就出城；便·哈达和帮助他的三十二个王正在帐幕里痛饮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "午間，他們就出城；便‧哈達和幫助他的三十二個王正在帳幕裏痛飲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The young men of the princes of the provinces went out first; and Ben Hadad sent out, and they told him, saying, “Men are coming out from Samaria.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "跟从省长的少年人先出城；便·哈达差遣人去探望，他们回报说：「有人从撒马利亚出来了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "跟從省長的少年人先出城；便‧哈達差遣人去探望，他們回報說：「有人從撒馬利亞出來了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He said, “If they have come out for peace, take them alive; or if they have come out for war, take them alive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「他们若为讲和出来，要活捉他们；若为打仗出来，也要活捉他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「他們若為講和出來，要活捉他們；若為打仗出來，也要活捉他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "So these went out of the city, the young men of the princes of the provinces, and the army which followed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "跟从省长的少年人出城，军兵跟随他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "跟從省長的少年人出城，軍兵跟隨他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They each killed his man. The Syrians fled, and Israel pursued them. Ben Hadad the king of Syria escaped on a horse with horsemen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各人遇见敌人就杀。亚兰人逃跑，以色列人追赶他们；亚兰王便·哈达骑着马和马兵一同逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各人遇見敵人就殺。亞蘭人逃跑，以色列人追趕他們；亞蘭王便‧哈達騎着馬和馬兵一同逃跑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The king of Israel went out and struck the horses and chariots, and killed the Syrians with a great slaughter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王出城攻打车马，大大击杀亚兰人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王出城攻打車馬，大大擊殺亞蘭人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The prophet came near to the king of Israel and said to him, “Go, strengthen yourself, and plan what you must do, for at the return of the year, the king of Syria will come up against you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那先知来见以色列王，对他说：「你当自强，留心怎样防备；因为到明年这时候，亚兰王必上来攻击你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那先知來見以色列王，對他說：「你當自強，留心怎樣防備；因為到明年這時候，亞蘭王必上來攻擊你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The servants of the king of Syria said to him, “Their god is a god of the hills; therefore they were stronger than we. But let’s fight against them in the plain, and surely we will be stronger than they.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚兰王的臣仆对亚兰王说：「以色列人的神是山神，所以他们胜过我们；但在平原与他们打仗，我们必定得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞蘭王的臣僕對亞蘭王說：「以色列人的神是山神，所以他們勝過我們；但在平原與他們打仗，我們必定得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Do this thing: take the kings away, every man out of his place, and put captains in their place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王当这样行：把诸王革去，派军长代替他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王當這樣行：把諸王革去，派軍長代替他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Muster an army like the army that you have lost, horse for horse and chariot for chariot. We will fight against them in the plain, and surely we will be stronger than they are.” He listened to their voice and did so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又照着王丧失军兵之数，再招募一军，马补马，车补车，我们在平原与他们打仗，必定得胜。」王便听臣仆的话去行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又照着王喪失軍兵之數，再招募一軍，馬補馬，車補車，我們在平原與他們打仗，必定得勝。」王便聽臣僕的話去行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "At the return of the year, Ben Hadad mustered the Syrians and went up to Aphek to fight against Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "次年，便·哈达果然点齐亚兰人上亚弗去，要与以色列人打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "次年，便‧哈達果然點齊亞蘭人上亞弗去，要與以色列人打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The children of Israel were mustered and given provisions, and went against them. The children of Israel encamped before them like two little flocks of young goats, but the Syrians filled the country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人也点齐军兵，预备食物，迎着亚兰人出去，对着他们安营，好像两小群山羊羔；亚兰人却满了地面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人也點齊軍兵，預備食物，迎着亞蘭人出去，對着他們安營，好像兩小群山羊羔；亞蘭人卻滿了地面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "A man of God came near and spoke to the king of Israel, and said, “The LORD says, ‘Because the Syrians have said, “The LORD is a god of the hills, but he is not a god of the valleys,” therefore I will deliver all this great multitude into your hand, and you shall know that I am the LORD.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有神人来见以色列王，说：「耶和华如此说：『亚兰人既说我—耶和华是山神，不是平原的神，所以我必将这一大群人都交在你手中，你们就知道我是耶和华。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有神人來見以色列王，說：「耶和華如此說：『亞蘭人既說我－耶和華是山神，不是平原的神，所以我必將這一大群人都交在你手中，你們就知道我是耶和華。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They encamped opposite each other for seven days. Then on the seventh day the battle was joined; and the children of Israel killed one hundred thousand footmen of the Syrians in one day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人与亚兰人相对安营七日，到第七日两军交战；那一日以色列人杀了亚兰人步兵十万，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人與亞蘭人相對安營七日，到第七日兩軍交戰；那一日以色列人殺了亞蘭人步兵十萬，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "But the rest fled to Aphek, into the city; and the wall fell on twenty-seven thousand men who were left. Ben Hadad fled and came into the city, into an inner room.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的逃入亚弗城；城墙塌倒，压死剩下的二万七千人。 便·哈达也逃入城，藏在严密的屋子里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的逃入亞弗城；城牆塌倒，壓死剩下的二萬七千人。 便‧哈達也逃入城，藏在嚴密的屋子裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "His servants said to him, “See now, we have heard that the kings of the house of Israel are merciful kings. Please let us put sackcloth on our bodies and ropes on our heads, and go out to the king of Israel. Maybe he will save your life.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的臣仆对他说：「我们听说以色列王都是仁慈的王，现在我们不如腰束麻布，头套绳索，出去投降以色列王，或者他存留王的性命。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的臣僕對他說：「我們聽說以色列王都是仁慈的王，現在我們不如腰束麻布，頭套繩索，出去投降以色列王，或者他存留王的性命。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "So they put sackcloth on their bodies and ropes on their heads, and came to the king of Israel, and said, “Your servant Ben Hadad says, ‘Please let me live.’” He said, “Is he still alive? He is my brother.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们腰束麻布，头套绳索，去见以色列王，说：「王的仆人便·哈达说，求王存留我的性命。」亚哈说：「他还活着吗？他是我的兄弟。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們腰束麻布，頭套繩索，去見以色列王，說：「王的僕人便‧哈達說，求王存留我的性命。」亞哈說：「他還活着嗎？他是我的兄弟。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Now the men observed diligently and hurried to take this phrase; and they said, “Your brother Ben Hadad.” Then he said, “Go, bring him.” Then Ben Hadad came out to him; and he caused him to come up into the chariot.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人留心探出他的口气来，便急忙就着他的话说：「便·哈达是王的兄弟！」王说：「你们去请他来。」便·哈达出来见王，王就请他上车。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人留心探出他的口氣來，便急忙就着他的話說：「便‧哈達是王的兄弟！」王說：「你們去請他來。」便‧哈達出來見王，王就請他上車。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Ben Hadad said to him, “The cities which my father took from your father I will restore. You shall make streets for yourself in Damascus, as my father made in Samaria.” I”, said Ahab, “will let you go with this covenant.” So he made a covenant with him and let him go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便·哈达对王说：「我父从你父那里所夺的城邑，我必归还。你可以在大马士革立街市，像我父在撒马利亚所立的一样。」亚哈说：「我照此立约，放你回去」，就与他立约，放他去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便‧哈達對王說：「我父從你父那裏所奪的城邑，我必歸還。你可以在大馬士革立街市，像我父在撒馬利亞所立的一樣。」亞哈說：「我照此立約，放你回去」，就與他立約，放他去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "A certain man of the sons of the prophets said to his fellow by the LORD’s word, “Please strike me!” The man refused to strike him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有先知的一个门徒奉耶和华的命对他的同伴说：「你打我吧！」那人不肯打他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有先知的一個門徒奉耶和華的命對他的同伴說：「你打我吧！」那人不肯打他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Then he said to him, “Because you have not obeyed the LORD’s voice, behold, as soon as you have departed from me, a lion will kill you.” As soon as he had departed from him, a lion found him and killed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就对那人说：「你既不听从耶和华的话，你一离开我，必有狮子咬死你。」那人一离开他，果然遇见狮子，把他咬死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就對那人說：「你既不聽從耶和華的話，你一離開我，必有獅子咬死你。」那人一離開他，果然遇見獅子，把他咬死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Then he found another man, and said, “Please strike me.” The man struck him and wounded him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先知的门徒又遇见一个人，对他说：「你打我吧！」那人就打他，将他打伤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先知的門徒又遇見一個人，對他說：「你打我吧！」那人就打他，將他打傷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "So the prophet departed and waited for the king by the way, and disguised himself with his headband over his eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就去了，用头巾蒙眼，改换面目，在路旁等候王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就去了，用頭巾蒙眼，改換面目，在路旁等候王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "As the king passed by, he cried to the king, and he said, “Your servant went out into the middle of the battle; and behold, a man came over and brought a man to me, and said, ‘Guard this man! If by any means he is missing, then your life shall be for his life, or else you shall pay a talent of silver.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:39 A talent is about 30 kilograms or 66 pounds"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王从那里经过，他向王呼叫说：「仆人在阵上的时候，有人带了一个人来，对我说：『你看守这人，若把他失了，你的性命必代替他的性命；不然，你必交出一他连得银子来。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王從那裏經過，他向王呼叫說：「僕人在陣上的時候，有人帶了一個人來，對我說：『你看守這人，若把他失了，你的性命必代替他的性命；不然，你必交出一他連得銀子來。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "As your servant was busy here and there, he was gone.” The king of Israel said to him, “So shall your judgment be. You yourself have decided it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人正在忙乱之间，那人就不见了。」以色列王对他说：「你自己定妥了，必照样判断你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人正在忙亂之間，那人就不見了。」以色列王對他說：「你自己定妥了，必照樣判斷你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "He hurried, and took the headband away from his eyes; and the king of Israel recognized that he was one of the prophets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他急忙除掉蒙眼的头巾，以色列王就认出他是一个先知。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他急忙除掉蒙眼的頭巾，以色列王就認出他是一個先知。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "He said to him, “The LORD says, ‘Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life will take the place of his life, and your people take the place of his people.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对王说：「耶和华如此说：『因你将我定要灭绝的人放去，你的命就必代替他的命，你的民也必代替他的民。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對王說：「耶和華如此說：『因你將我定要滅絕的人放去，你的命就必代替他的命，你的民也必代替他的民。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "The king of Israel went to his house sullen and angry, and came to Samaria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列王闷闷不乐地回到撒马利亚，进了他的宫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列王悶悶不樂地回到撒馬利亞，進了他的宮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

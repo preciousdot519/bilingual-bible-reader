@@ -1,0 +1,433 @@
+{
+  "bookId": "DEU",
+  "chapter": 21,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "If someone is found slain in the land which the LORD your God gives you to possess, lying in the field, and it isn’t known who has struck him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「在耶和华—你 神所赐你为业的地上，若遇见被杀的人倒在田野，不知道是谁杀的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「在耶和華－你上帝所賜你為業的地上，若遇見被殺的人倒在田野，不知道是誰殺的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "then your elders and your judges shall come out, and they shall measure to the cities which are around him who is slain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "长老和审判官就要出去，从被杀的人那里量起，直量到四围的城邑，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "長老和審判官就要出去，從被殺的人那裏量起，直量到四圍的城邑，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "It shall be that the elders of the city which is nearest to the slain man shall take a heifer of the herd, which hasn’t been worked with and which has not drawn in the yoke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪城离被杀的人最近，那城的长老就要从牛群中取一只未曾耕地、未曾负轭的母牛犊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪城離被殺的人最近，那城的長老就要從牛群中取一隻未曾耕地、未曾負軛的母牛犢，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The elders of that city shall bring the heifer down to a valley with running water, which is neither plowed nor sown, and shall break the heifer’s neck there in the valley.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把母牛犊牵到流水、未曾耕种的山谷去，在谷中打折母牛犊的颈项。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把母牛犢牽到流水、未曾耕種的山谷去，在谷中打折母牛犢的頸項。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The priests the sons of Levi shall come near, for them the LORD your God has chosen to minister to him, and to bless in the LORD’s name; and according to their word shall every controversy and every assault be decided.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司利未的子孙要近前来；因为耶和华—你的 神拣选了他们事奉他，奉耶和华的名祝福，所有争讼殴打的事都要凭他们判断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司利未的子孫要近前來；因為耶和華－你的上帝揀選了他們事奉他，奉耶和華的名祝福，所有爭訟毆打的事都要憑他們判斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "All the elders of that city which is nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那城的众长老，就是离被杀的人最近的，要在那山谷中，在所打折颈项的母牛犊以上洗手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那城的眾長老，就是離被殺的人最近的，要在那山谷中，在所打折頸項的母牛犢以上洗手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They shall answer and say, “Our hands have not shed this blood, neither have our eyes seen it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祷告说：『我们的手未曾流这人的血；我们的眼也未曾看见这事。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:7 原文是回答"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禱告說：『我們的手未曾流這人的血；我們的眼也未曾看見這事。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:7 原文是回答"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Forgive, LORD, your people Israel, whom you have redeemed, and don’t allow innocent blood among your people Israel.” The blood shall be forgiven them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你赦免你所救赎的以色列民，不要使流无辜血的罪归在你的百姓以色列中间。』这样，流血的罪必得赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你赦免你所救贖的以色列民，不要使流無辜血的罪歸在你的百姓以色列中間。』這樣，流血的罪必得赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So you shall put away the innocent blood from among you, when you shall do that which is right in the LORD’s eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你行耶和华眼中看为正的事，就可以从你们中间除掉流无辜血的罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你行耶和華眼中看為正的事，就可以從你們中間除掉流無辜血的罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you carry them away captive,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你出去与仇敌争战的时候，耶和华—你的 神将他们交在你手中，你就掳了他们去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你出去與仇敵爭戰的時候，耶和華－你的上帝將他們交在你手中，你就擄了他們去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "and see among the captives a beautiful woman, and you are attracted to her, and desire to take her as your wife,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若在被掳的人中见有美貌的女子，恋慕她，要娶她为妻，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若在被擄的人中見有美貌的女子，戀慕她，要娶她為妻，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "then you shall bring her home to your house. She shall shave her head and trim her nails.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就可以领她到你家里去；她便要剃头发，修指甲，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就可以領她到你家裏去；她便要剃頭髮，修指甲，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "She shall take off the clothing of her captivity, and shall remain in your house, and bewail her father and her mother a full month. After that you shall go in to her and be her husband, and she shall be your wife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "脱去被掳时所穿的衣服，住在你家里哀哭父母一个整月，然后可以与她同房。你作她的丈夫，她作你的妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "脫去被擄時所穿的衣服，住在你家裏哀哭父母一個整月，然後可以與她同房。你作她的丈夫，她作你的妻子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "It shall be, if you have no delight in her, then you shall let her go where she desires; but you shall not sell her at all for money. You shall not deal with her as a slave, because you have humbled her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来你若不喜悦她，就要由她随意出去，决不可为钱卖她，也不可当婢女待她，因为你玷污了她。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來你若不喜悅她，就要由她隨意出去，決不可為錢賣她，也不可當婢女待她，因為你玷污了她。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "If a man has two wives, the one beloved and the other hated, and they have borne him children, both the beloved and the hated, and if the firstborn son is hers who was hated,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若有二妻，一为所爱，一为所恶，所爱的、所恶的都给他生了儿子，但长子是所恶之妻生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若有二妻，一為所愛，一為所惡，所愛的、所惡的都給他生了兒子，但長子是所惡之妻生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "then it shall be, in the day that he causes his sons to inherit that which he has, that he may not give the son of the beloved the rights of the firstborn before the son of the hated, who is the firstborn;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了把产业分给儿子承受的时候，不可将所爱之妻生的儿子立为长子，在所恶之妻生的儿子以上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了把產業分給兒子承受的時候，不可將所愛之妻生的兒子立為長子，在所惡之妻生的兒子以上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "but he shall acknowledge the firstborn, the son of the hated, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却要认所恶之妻生的儿子为长子，将产业多加一分给他；因这儿子是他力量强壮的时候生的，长子的名分本当归他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻要認所惡之妻生的兒子為長子，將產業多加一分給他；因這兒子是他力量強壯的時候生的，長子的名分本當歸他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and though they chasten him, will not listen to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若有顽梗悖逆的儿子，不听从父母的话，他们虽惩治他，他仍不听从，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若有頑梗悖逆的兒子，不聽從父母的話，他們雖懲治他，他仍不聽從，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "then his father and his mother shall take hold of him and bring him out to the elders of his city and to the gate of his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "父母就要抓住他，将他带到本地的城门、本城的长老那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "父母就要抓住他，將他帶到本地的城門、本城的長老那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They shall tell the elders of his city, “This our son is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对长老说：『我们这儿子顽梗悖逆，不听从我们的话，是贪食好酒的人。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對長老說：『我們這兒子頑梗悖逆，不聽從我們的話，是貪食好酒的人。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "All the men of his city shall stone him to death with stones. So you shall remove the evil from among you. All Israel shall hear, and fear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "本城的众人就要用石头将他打死。这样，就把那恶从你们中间除掉，以色列众人都要听见害怕。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "本城的眾人就要用石頭將他打死。這樣，就把那惡從你們中間除掉，以色列眾人都要聽見害怕。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若犯该死的罪，被治死了，你将他挂在木头上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若犯該死的罪，被治死了，你將他掛在木頭上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which the LORD your God gives you for an inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的尸首不可留在木头上过夜，必要当日将他葬埋，免得玷污了耶和华—你 神所赐你为业之地。因为被挂的人是在 神面前受咒诅的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的屍首不可留在木頭上過夜，必要當日將他葬埋，免得玷污了耶和華－你上帝所賜你為業之地。因為被掛的人是在上帝面前受咒詛的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

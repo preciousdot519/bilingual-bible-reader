@@ -1,0 +1,636 @@
+{
+  "bookId": "EXO",
+  "chapter": 38,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He made the altar of burnt offering of acacia wood. It was square. Its length was five cubits, its width was five cubits, and its height was three cubits.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:1 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用皂荚木做燔祭坛，是四方的，长五肘，宽五肘，高三肘，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用皂莢木做燔祭壇，是四方的，長五肘，寬五肘，高三肘，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He made its horns on its four corners. Its horns were of one piece with it, and he overlaid it with bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在坛的四拐角上做四个角，与坛接连一块，用铜把坛包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在壇的四拐角上做四個角，與壇接連一塊，用銅把壇包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He made all the vessels of the altar: the pots, the shovels, the basins, the forks, and the fire pans. He made all its vessels of bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他做坛上的盆、铲子、盘子、肉锸子、火鼎；这一切器具都是用铜做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他做壇上的盆、鏟子、盤子、肉鍤子、火鼎；這一切器具都是用銅做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He made for the altar a grating of a network of bronze, under the ledge around it beneath, reaching halfway up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又为坛做一个铜网，安在坛四面的围腰板以下，从下达到坛的半腰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又為壇做一個銅網，安在壇四面的圍腰板以下，從下達到壇的半腰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He cast four rings for the four corners of bronze grating, to be places for the poles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为铜网的四角铸四个环子，作为穿杠的用处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為銅網的四角鑄四個環子，作為穿槓的用處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He made the poles of acacia wood, and overlaid them with bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用皂荚木做杠，用铜包裹，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用皂莢木做槓，用銅包裹，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He put the poles into the rings on the sides of the altar, with which to carry it. He made it hollow with planks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把杠穿在坛两旁的环子内，用以抬坛，并用板做坛；坛是空的。 （出30·18）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把槓穿在壇兩旁的環子內，用以抬壇，並用板做壇；壇是空的。 （出30‧18）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He made the basin of bronze, and its base of bronze, out of the mirrors of the ministering women who ministered at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用铜做洗濯盆和盆座，是用会幕门前伺候的妇人之镜子做的。 （出27·9—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用銅做洗濯盆和盆座，是用會幕門前伺候的婦人之鏡子做的。 （出27‧9－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He made the court: for the south side southward the hangings of the court were of fine twined linen, one hundred cubits;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他做帐幕的院子。院子的南面用捻的细麻做帷子，宽一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他做帳幕的院子。院子的南面用撚的細麻做帷子，寬一百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "their pillars were twenty, and their sockets twenty, of bronze; the hooks of the pillars and their fillets were of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帷子的柱子二十根，带卯的铜座二十个；柱子上的钩子和杆子都是用银子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帷子的柱子二十根，帶卯的銅座二十個；柱子上的鉤子和杆子都是用銀子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For the north side one hundred cubits, their pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "北面也有帷子，宽一百肘。帷子的柱子二十根，带卯的铜座二十个；柱子上的钩子和杆子都是用银子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "北面也有帷子，寬一百肘。帷子的柱子二十根，帶卯的銅座二十個；柱子上的鉤子和杆子都是用銀子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars, and their fillets, of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子的西面有帷子，宽五十肘。帷子的柱子十根，带卯的座十个；柱子的钩子和杆子都是用银子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子的西面有帷子，寬五十肘。帷子的柱子十根，帶卯的座十個；柱子的鉤子和杆子都是用銀子做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For the east side eastward fifty cubits,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子的东面，宽五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子的東面，寬五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the hangings for the one side were fifteen cubits; their pillars three, and their sockets three;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14-15",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门这边的帷子十五肘，那边也是一样。帷子的柱子三根，带卯的座三个。在门的左右各有帷子十五肘，帷子的柱子三根，带卯的座三个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門這邊的帷子十五肘，那邊也是一樣。帷子的柱子三根，帶卯的座三個。在門的左右各有帷子十五肘，帷子的柱子三根，帶卯的座三個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and so for the other side: on this hand and that hand by the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "All the hangings around the court were of fine twined linen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子四面的帷子都是用捻的细麻做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子四面的帷子都是用撚的細麻做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The sockets for the pillars were of bronze. The hooks of the pillars and their fillets were of silver. Their capitals were overlaid with silver. All the pillars of the court had silver bands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "柱子带卯的座是铜的，柱子上的钩子和杆子是银的，柱顶是用银子包的。院子一切的柱子都是用银杆连络的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "柱子帶卯的座是銅的，柱子上的鉤子和杆子是銀的，柱頂是用銀子包的。院子一切的柱子都是用銀杆連絡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The screen for the gate of the court was the work of the embroiderer, of blue, purple, scarlet, and fine twined linen. Twenty cubits was the length, and the height along the width was five cubits, like the hangings of the court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子的门帘是以绣花的手工，用蓝色、紫色、朱红色线，和捻的细麻织的，宽二十肘，高五肘，与院子的帷子相配。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子的門簾是以繡花的手工，用藍色、紫色、朱紅色線，和撚的細麻織的，寬二十肘，高五肘，與院子的帷子相配。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Their pillars were four, and their sockets four, of bronze; their hooks of silver, and the overlaying of their capitals, and their fillets, of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帷子的柱子四根，带卯的铜座四个；柱子上的钩子和杆子是银的；柱顶是用银子包的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帷子的柱子四根，帶卯的銅座四個；柱子上的鉤子和杆子是銀的；柱頂是用銀子包的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "All the pins of the tabernacle, and around the court, were of bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕一切的橛子和院子四围的橛子都是铜的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕一切的橛子和院子四圍的橛子都是銅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "These are the amounts of materials used for the tabernacle, even the Tabernacle of the Testimony, as they were counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, the son of Aaron the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是法柜的帐幕中利未人所用物件的总数，是照摩西的吩咐，经祭司亚伦的儿子以他玛的手数点的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是法櫃的帳幕中利未人所用物件的總數，是照摩西的吩咐，經祭司亞倫的兒子以他瑪的手數點的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Bezalel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡耶和华所吩咐摩西的都是犹大支派户珥的孙子、乌利的儿子比撒列做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡耶和華所吩咐摩西的都是猶大支派戶珥的孫子、烏利的兒子比撒列做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "With him was Oholiab, the son of Ahisamach, of the tribe of Dan, an engraver, and a skillful workman, and an embroiderer in blue, in purple, in scarlet, and in fine linen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与他同工的有但支派中亚希撒抹的儿子亚何利亚伯；他是雕刻匠，又是巧匠，又能用蓝色、紫色、朱红色线，和细麻绣花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與他同工的有但支派中亞希撒抹的兒子亞何利亞伯；他是雕刻匠，又是巧匠，又能用藍色、紫色、朱紅色線，和細麻繡花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "All the gold that was used for the work in all the work of the sanctuary, even the gold of the offering, was twenty-nine talents and seven hundred thirty shekels, according to the shekel of the sanctuary.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:24 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces."
+          },
+          {
+            "id": "f2",
+            "text": "38:24 A shekel is about 10 grams or about 0.32 Troy ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为圣所一切工作使用所献的金子，按圣所的平，有二十九他连得并七百三十舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為聖所一切工作使用所獻的金子，按聖所的平，有二十九他連得並七百三十舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The silver of those who were counted of the congregation was one hundred talents and one thousand seven hundred seventy-five shekels, according to the shekel of the sanctuary:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:25 A talent is about 30 kilograms or 66 pounds"
+          },
+          {
+            "id": "f2",
+            "text": "38:25 A shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会中被数的人所出的银子，按圣所的平，有一百他连得并一千七百七十五舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會中被數的人所出的銀子，按聖所的平，有一百他連得並一千七百七十五舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "a beka a head, that is, half a shekel, according to the shekel of the sanctuary, for everyone who passed over to those who were counted, from twenty years old and upward, for six hundred three thousand five hundred fifty men.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:26 a beka is about 5 grams or about 0.175 ounces"
+          },
+          {
+            "id": "f2",
+            "text": "38:26 A shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡过去归那些被数之人的，从二十岁以外，有六十万零三千五百五十人。按圣所的平，每人出银半舍客勒，就是一比加。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡過去歸那些被數之人的，從二十歲以外，有六十萬零三千五百五十人。按聖所的平，每人出銀半舍客勒，就是一比加。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The one hundred talents of silver were for casting the sockets of the sanctuary and the sockets of the veil: one hundred sockets for the one hundred talents, one talent per socket.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:27 A talent is about 30 kilograms or 66 pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用那一百他连得银子铸造圣所带卯的座和幔子柱子带卯的座；一百他连得共一百带卯的座，每带卯的座用一他连得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用那一百他連得銀子鑄造聖所帶卯的座和幔子柱子帶卯的座；一百他連得共一百帶卯的座，每帶卯的座用一他連得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "From the one thousand seven hundred seventy-five shekels he made hooks for the pillars, overlaid their capitals, and made fillets for them.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:28 A shekel is about 10 grams or about 0.35 ounces, so 1775 shekels is about 17.75 kilograms or about 39 pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用那一千七百七十五舍客勒银子做柱子上的钩子，包裹柱顶并柱子上的杆子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用那一千七百七十五舍客勒銀子做柱子上的鉤子，包裹柱頂並柱子上的杆子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The bronze of the offering was seventy talents and two thousand four hundred shekels.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "38:29 A talent is about 30 kilograms or 66 pounds"
+          },
+          {
+            "id": "f2",
+            "text": "38:29 70 talents + 2400 shekels is about 2124 kilograms, or 2.124 metric tons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所献的铜有七十他连得并二千四百舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所獻的銅有七十他連得並二千四百舍客勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "With this he made the sockets to the door of the Tent of Meeting, the bronze altar, the bronze grating for it, all the vessels of the altar,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用这铜做会幕门带卯的座和铜坛，并坛上的铜网和坛的一切器具，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用這銅做會幕門帶卯的座和銅壇，並壇上的銅網和壇的一切器具，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并院子四围带卯的座和院门带卯的座，与帐幕一切的橛子和院子四围所有的橛子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並院子四圍帶卯的座和院門帶卯的座，與帳幕一切的橛子和院子四圍所有的橛子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

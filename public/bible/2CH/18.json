@@ -1,0 +1,621 @@
+{
+  "bookId": "2CH",
+  "chapter": 18,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约沙法大有尊荣资财，就与亚哈结亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約沙法大有尊榮資財，就與亞哈結親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "After some years, he went down to Ahab to Samaria. Ahab killed sheep and cattle for him in abundance, and for the people who were with him, and moved him to go up with him to Ramoth Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了几年，他下到撒马利亚去见亚哈；亚哈为他和跟从他的人宰了许多牛羊，劝他与自己同去攻取基列的拉末。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了幾年，他下到撒馬利亞去見亞哈；亞哈為他和跟從他的人宰了許多牛羊，勸他與自己同去攻取基列的拉末。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me to Ramoth Gilead?” He answered him, “I am as you are, and my people as your people. We will be with you in the war.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王亚哈问犹大王约沙法说：「你肯同我去攻取基列的拉末吗？」他回答说：「你我不分彼此，我的民与你的民一样，必与你同去争战。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王亞哈問猶大王約沙法說：「你肯同我去攻取基列的拉末嗎？」他回答說：「你我不分彼此，我的民與你的民一樣，必與你同去爭戰。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Jehoshaphat said to the king of Israel, “Please inquire first for the LORD’s word.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约沙法对以色列王说：「请你先求问耶和华。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約沙法對以色列王說：「請你先求問耶和華。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the king of Israel gathered the prophets together, four hundred men, and said to them, “Shall we go to Ramoth Gilead to battle, or shall I forbear?” They said, “Go up, for God will deliver it into the hand of the king.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列王招聚先知四百人，问他们说：「我们上去攻取基列的拉末可以不可以？」他们说：「可以上去，因为 神必将那城交在王的手里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列王招聚先知四百人，問他們說：「我們上去攻取基列的拉末可以不可以？」他們說：「可以上去，因為上帝必將那城交在王的手裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But Jehoshaphat said, “Isn’t there here a prophet of the LORD besides, that we may inquire of him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约沙法说：「这里不是还有耶和华的先知，我们可以求问他吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約沙法說：「這裏不是還有耶和華的先知，我們可以求問他嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The king of Israel said to Jehoshaphat, “There is yet one man by whom we may inquire of the LORD; but I hate him, for he never prophesies good concerning me, but always evil. He is Micaiah the son of Imla.” Jehoshaphat said, “Don’t let the king say so.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王对约沙法说：「还有一个人，是音拉的儿子米该雅。我们可以托他求问耶和华，只是我恨他；因为他指着我所说的预言，不说吉语，常说凶言。」约沙法说：「王不必这样说。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王對約沙法說：「還有一個人，是音拉的兒子米該雅。我們可以託他求問耶和華，只是我恨他；因為他指着我所說的預言，不說吉語，常說凶言。」約沙法說：「王不必這樣說。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Then the king of Israel called an officer, and said, “Get Micaiah the son of Imla quickly.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王就召了一个太监来，说：「你快去将音拉的儿子米该雅召来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王就召了一個太監來，說：「你快去將音拉的兒子米該雅召來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now the king of Israel and Jehoshaphat the king of Judah each sat on his throne, arrayed in their robes, and they were sitting in an open place at the entrance of the gate of Samaria; and all the prophets were prophesying before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王和犹大王约沙法在撒马利亚城门前的空场上，各穿朝服坐在位上，所有的先知都在他们面前说预言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王和猶大王約沙法在撒馬利亞城門前的空場上，各穿朝服坐在位上，所有的先知都在他們面前說預言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Zedekiah the son of Chenaanah made himself horns of iron and said, “The LORD says, ‘With these you shall push the Syrians, until they are consumed.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基拿拿的儿子西底家造了两个铁角，说：「耶和华如此说：『你要用这角抵触亚兰人，直到将他们灭尽。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基拿拿的兒子西底家造了兩個鐵角，說：「耶和華如此說：『你要用這角牴觸亞蘭人，直到將他們滅盡。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "All the prophets prophesied so, saying, “Go up to Ramoth Gilead, and prosper; for the LORD will deliver it into the hand of the king.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所有的先知也都这样预言说：「可以上基列的拉末去，必然得胜，因为耶和华必将那城交在王的手中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有的先知也都這樣預言說：「可以上基列的拉末去，必然得勝，因為耶和華必將那城交在王的手中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The messenger who went to call Micaiah spoke to him, saying, “Behold, the words of the prophets declare good to the king with one mouth. Let your word therefore, please be like one of theirs, and speak good.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那去召米该雅的使者对米该雅说：「众先知一口同音地都向王说吉言，你不如与他们说一样的话，也说吉言。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那去召米該雅的使者對米該雅說：「眾先知一口同音地都向王說吉言，你不如與他們說一樣的話，也說吉言。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Micaiah said, “As the LORD lives, I will say what my God says.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅说：「我指着永生的耶和华起誓，我的 神说什么，我就说什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅說：「我指着永生的耶和華起誓，我的上帝說甚麼，我就說甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "When he had come to the king, the king said to him, “Micaiah, shall we go to Ramoth Gilead to battle, or shall I forbear?” He said, “Go up, and prosper. They shall be delivered into your hand.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅到王面前，王问他说：「米该雅啊，我们上去攻取基列的拉末可以不可以？」他说：「可以上去，必然得胜，敌人必交在你们手里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅到王面前，王問他說：「米該雅啊，我們上去攻取基列的拉末可以不可以？」他說：「可以上去，必然得勝，敵人必交在你們手裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The king said to him, “How many times shall I adjure you that you speak to me nothing but the truth in the LORD’s name?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王对他说：「我当嘱咐你几次，你才奉耶和华的名向我说实话呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王對他說：「我當囑咐你幾次，你才奉耶和華的名向我說實話呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He said, “I saw all Israel scattered on the mountains, as sheep that have no shepherd. The LORD said, ‘These have no master. Let them each return to his house in peace.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅说：「我看见以色列众民散在山上，如同没有牧人的羊群一般。耶和华说：『这民没有主人，他们可以平平安安地各归各家去。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅說：「我看見以色列眾民散在山上，如同沒有牧人的羊群一般。耶和華說：『這民沒有主人，他們可以平平安安地各歸各家去。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The king of Israel said to Jehoshaphat, “Didn’t I tell you that he would not prophesy good concerning me, but evil?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王对约沙法说：「我岂没有告诉你，这人指着我所说的预言，不说吉语，单说凶言吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王對約沙法說：「我豈沒有告訴你，這人指着我所說的預言，不說吉語，單說凶言嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Micaiah said, “Therefore hear the LORD’s word: I saw the LORD sitting on his throne, and all the army of heaven standing on his right hand and on his left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅说：「你们要听耶和华的话。我看见耶和华坐在宝座上，天上的万军侍立在他左右。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅說：「你們要聽耶和華的話。我看見耶和華坐在寶座上，天上的萬軍侍立在他左右。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The LORD said, ‘Who will entice Ahab king of Israel, that he may go up and fall at Ramoth Gilead?’ One spoke saying in this way, and another saying in that way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：『谁去引诱以色列王亚哈上基列的拉末去阵亡呢？』这个就这样说，那个就那样说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：『誰去引誘以色列王亞哈上基列的拉末去陣亡呢？』這個就這樣說，那個就那樣說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "A spirit came out, stood before the LORD, and said, ‘I will entice him.’ The LORD said to him, ‘How?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随后，有一个神灵出来，站在耶和华面前说：『我去引诱他。』耶和华问他说：『你用何法呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨後，有一個神靈出來，站在耶和華面前說：『我去引誘他。』耶和華問他說：『你用何法呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“He said, ‘I will go, and will be a lying spirit in the mouth of all his prophets.’ He said, ‘You will entice him, and will prevail also. Go and do so.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：『我去，要在他众先知口中作谎言的灵。』耶和华说：『这样，你必能引诱他，你去如此行吧！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：『我去，要在他眾先知口中作謊言的靈。』耶和華說：『這樣，你必能引誘他，你去如此行吧！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Now therefore, behold, the LORD has put a lying spirit in the mouth of these your prophets; and the LORD has spoken evil concerning you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在耶和华使谎言的灵入了你这些先知的口，并且耶和华已经命定降祸与你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在耶和華使謊言的靈入了你這些先知的口，並且耶和華已經命定降禍與你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then Zedekiah the son of Chenaanah came near, and struck Micaiah on the cheek, and said, “Which way did the LORD’s Spirit go from me to speak to you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基拿拿的儿子西底家前来打米该雅的脸，说：「耶和华的灵从哪里离开我与你说话呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基拿拿的兒子西底家前來打米該雅的臉，說：「耶和華的靈從哪裏離開我與你說話呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Micaiah said, “Behold, you shall see on that day, when you go into an inner room to hide yourself.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅说：「你进严密的屋子藏躲的那日，就必看见了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅說：「你進嚴密的屋子藏躲的那日，就必看見了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The king of Israel said, “Take Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王说：「将米该雅带回，交给邑宰亚们和王的儿子约阿施，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王說：「將米該雅帶回，交給邑宰亞們和王的兒子約阿施，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "and say, ‘The king says, “Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『王如此说：把这个人下在监里，使他受苦，吃不饱喝不足，等候我平平安安地回来。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『王如此說：把這個人下在監裏，使他受苦，吃不飽喝不足，等候我平平安安地回來。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Micaiah said, “If you return at all in peace, the LORD has not spoken by me.” He said, “Listen, you people, all of you!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米该雅说：「你若能平安回来，那就是耶和华没有借我说这话了」；又说：「众民哪，你们都要听！」 （王上22·29—35）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米該雅說：「你若能平安回來，那就是耶和華沒有藉我說這話了」；又說：「眾民哪，你們都要聽！」 （王上22‧29－35）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王和犹大王约沙法上基列的拉末去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王和猶大王約沙法上基列的拉末去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The king of Israel said to Jehoshaphat, “I will disguise myself, and go into the battle; but you put on your robes.” So the king of Israel disguised himself; and they went into the battle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列王对约沙法说：「我要改装上阵，你可以仍穿王服。」于是以色列王改装，他们就上阵去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列王對約沙法說：「我要改裝上陣，你可以仍穿王服。」於是以色列王改裝，他們就上陣去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Now the king of Syria had commanded the captains of his chariots, saying, “Don’t fight with small nor great, except only with the king of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先是亚兰王吩咐车兵长说：「他们的兵将，无论大小，你们都不可与他们争战，只要与以色列王争战。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先是亞蘭王吩咐車兵長說：「他們的兵將，無論大小，你們都不可與他們爭戰，只要與以色列王爭戰。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "When the captains of the chariots saw Jehoshaphat, they said, “It is the king of Israel!” Therefore they turned around to fight against him. But Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "车兵长看见约沙法便说，这必是以色列王，就转过去与他争战。约沙法一呼喊，耶和华就帮助他， 神又感动他们离开他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "車兵長看見約沙法便說，這必是以色列王，就轉過去與他爭戰。約沙法一呼喊，耶和華就幫助他，上帝又感動他們離開他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "When the captains of the chariots saw that it was not the king of Israel, they turned back from pursuing him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "车兵长见不是以色列王，就转去不追他了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "車兵長見不是以色列王，就轉去不追他了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "A certain man drew his bow at random, and struck the king of Israel between the joints of the armor. Therefore he said to the driver of the chariot, “Turn around and carry me out of the battle, for I am severely wounded.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一人随便开弓，恰巧射入以色列王的甲缝里。王对赶车的说：「我受了重伤，你转过车来，拉我出阵吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一人隨便開弓，恰巧射入以色列王的甲縫裏。王對趕車的說：「我受了重傷，你轉過車來，拉我出陣吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The battle increased that day. However, the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日阵势越战越猛，以色列王勉强站在车上抵挡亚兰人，直到晚上。约在日落的时候，王就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日陣勢越戰越猛，以色列王勉強站在車上抵擋亞蘭人，直到晚上。約在日落的時候，王就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

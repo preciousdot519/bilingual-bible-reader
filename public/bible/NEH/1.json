@@ -1,0 +1,222 @@
+{
+  "bookId": "NEH",
+  "chapter": 1,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The words of Nehemiah the son of Hacaliah. Now in the month Chislev, in the twentieth year, as I was in Susa the palace,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈迦利亚的儿子尼希米的言语如下： 亚达薛西王二十年基斯流月，我在书珊城的宫中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈迦利亞的兒子尼希米的言語如下： 亞達薛西王二十年基斯流月，我在書珊城的宮中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，有我一个弟兄哈拿尼，同着几个人从犹大来。我问他们那些被掳归回、剩下逃脱的犹大人和耶路撒冷的光景。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，有我一個弟兄哈拿尼，同着幾個人從猶大來。我問他們那些被擄歸回、剩下逃脫的猶大人和耶路撒冷的光景。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They said to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们对我说：「那些被掳归回剩下的人在犹大省遭大难，受凌辱；并且耶路撒冷的城墙拆毁，城门被火焚烧。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們對我說：「那些被擄歸回剩下的人在猶大省遭大難，受凌辱；並且耶路撒冷的城牆拆毀，城門被火焚燒。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God of heaven,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:4 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见这话，就坐下哭泣，悲哀几日，在天上的 神面前禁食祈祷，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見這話，就坐下哭泣，悲哀幾日，在天上的上帝面前禁食祈禱，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and said, “I beg you, LORD, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:5 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「耶和华—天上的 神，大而可畏的 神啊，你向爱你、守你诫命的人守约施慈爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「耶和華－天上的上帝，大而可畏的上帝啊，你向愛你、守你誡命的人守約施慈愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你睁眼看，侧耳听，你仆人昼夜在你面前为你众仆人以色列民的祈祷，承认我们以色列人向你所犯的罪；我与我父家都有罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你睜眼看，側耳聽，你僕人晝夜在你面前為你眾僕人以色列民的祈禱，承認我們以色列人向你所犯的罪；我與我父家都有罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们向你所行的甚是邪恶，没有遵守你借着仆人摩西所吩咐的诫命、律例、典章。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們向你所行的甚是邪惡，沒有遵守你藉着僕人摩西所吩咐的誡命、律例、典章。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Remember, I beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你记念所吩咐你仆人摩西的话，说：『你们若犯罪，我就把你们分散在万民中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你記念所吩咐你僕人摩西的話，說：『你們若犯罪，我就把你們分散在萬民中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "but if you return to me, and keep my commandments and do them, though your outcasts were in the uttermost part of the heavens, yet I will gather them from there, and will bring them to the place that I have chosen, to cause my name to dwell there.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你们若归向我，谨守遵行我的诫命，你们被赶散的人虽在天涯，我也必从那里将他们招聚回来，带到我所选择立为我名的居所。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你們若歸向我，謹守遵行我的誡命，你們被趕散的人雖在天涯，我也必從那裏將他們招聚回來，帶到我所選擇立為我名的居所。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Now these are your servants and your people, whom you have redeemed by your great power and by your strong hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是你的仆人、你的百姓，就是你用大力和大能的手所救赎的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是你的僕人、你的百姓，就是你用大力和大能的手所救贖的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.” Now I was cup bearer to the king.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:11 The word translated “Lord” is “Adonai.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，求你侧耳听你仆人的祈祷，和喜爱敬畏你名众仆人的祈祷，使你仆人现今亨通，在王面前蒙恩。」 我是作王酒政的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，求你側耳聽你僕人的祈禱，和喜愛敬畏你名眾僕人的祈禱，使你僕人現今亨通，在王面前蒙恩。」 我是作王酒政的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

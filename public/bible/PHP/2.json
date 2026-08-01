@@ -1,0 +1,549 @@
+{
+  "bookId": "PHP",
+  "chapter": 2,
+  "bookEnglish": "Philippians",
+  "bookChineseSimplified": "腓立比书",
+  "bookChineseTraditional": "腓立比書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，在基督里若有什么劝勉，爱心有什么安慰，圣灵有什么交通，心中有什么慈悲怜悯，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，在基督裏若有甚麼勸勉，愛心有甚麼安慰，聖靈有甚麼交通，心中有甚麼慈悲憐憫，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "make my joy full by being like-minded, having the same love, being of one accord, of one mind;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们就要意念相同，爱心相同，有一样的心思，有一样的意念，使我的喜乐可以满足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們就要意念相同，愛心相同，有一樣的心思，有一樣的意念，使我的喜樂可以滿足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事不可结党，不可贪图虚浮的荣耀；只要存心谦卑，各人看别人比自己强。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事不可結黨，不可貪圖虛浮的榮耀；只要存心謙卑，各人看別人比自己強。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "each of you not just looking to his own things, but each of you also to the things of others.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各人不要单顾自己的事，也要顾别人的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各人不要單顧自己的事，也要顧別人的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Have this in your mind, which was also in Christ Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当以基督耶稣的心为心：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當以基督耶穌的心為心：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "who, existing in the form of God, didn’t consider equality with God a thing to be grasped,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他本有 神的形象， 不以自己与 神同等为强夺的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他本有上帝的形像， 不以自己與上帝同等為強奪的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but emptied himself, taking the form of a servant, being made in the likeness of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "反倒虚己， 取了奴仆的形象， 成为人的样式；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "反倒虛己， 取了奴僕的形像， 成為人的樣式；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "And being found in human form, he humbled himself, becoming obedient to the point of death, yes, the death of the cross.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既有人的样子，就自己卑微， 存心顺服，以至于死， 且死在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既有人的樣子，就自己卑微， 存心順服，以至於死， 且死在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Therefore God also highly exalted him, and gave to him the name which is above every name,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以， 神将他升为至高， 又赐给他那超乎万名之上的名，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，上帝將他升為至高， 又賜給他那超乎萬名之上的名，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫一切在天上的、地上的，和地底下的， 因耶稣的名无不屈膝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫一切在天上的、地上的，和地底下的， 因耶穌的名無不屈膝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无不口称「耶稣基督为主」， 使荣耀归与父 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無不口稱「耶穌基督為主」， 使榮耀歸與父上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So then, my beloved, even as you have always obeyed, not only in my presence, but now much more in my absence, work out your own salvation with fear and trembling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，我亲爱的弟兄，你们既是常顺服的，不但我在你们那里，就是我如今不在你们那里，更是顺服的，就当恐惧战兢做成你们得救的工夫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，我親愛的弟兄，你們既是常順服的，不但我在你們那裏，就是我如今不在你們那裏，更是順服的，就當恐懼戰兢做成你們得救的工夫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For it is God who works in you both to will and to work for his good pleasure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你们立志行事都是 神在你们心里运行，为要成就他的美意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你們立志行事都是上帝在你們心裏運行，為要成就他的美意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Do all things without complaining and arguing,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡所行的，都不要发怨言，起争论，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡所行的，都不要發怨言，起爭論，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "that you may become blameless and harmless, children of God without defect in the middle of a crooked and perverse generation, among whom you are seen as lights in the world,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使你们无可指摘，诚实无伪，在这弯曲悖谬的世代作 神无瑕疵的儿女。你们显在这世代中，好像明光照耀，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使你們無可指摘，誠實無偽，在這彎曲悖謬的世代作上帝無瑕疵的兒女。你們顯在這世代中，好像明光照耀，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "holding up the word of life, that I may have something to boast in the day of Christ that I didn’t run in vain nor labor in vain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将生命的道表明出来，叫我在基督的日子好夸我没有空跑，也没有徒劳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將生命的道表明出來，叫我在基督的日子好誇我沒有空跑，也沒有徒勞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Yes, and if I am poured out on the sacrifice and service of your faith, I am glad and rejoice with you all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我以你们的信心为供献的祭物，我若被浇奠在其上，也是喜乐，并且与你们众人一同喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我以你們的信心為供獻的祭物，我若被澆奠在其上，也是喜樂，並且與你們眾人一同喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "In the same way, you also should be glad and rejoice with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们也要照样喜乐，并且与我一同喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們也要照樣喜樂，並且與我一同喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered up when I know how you are doing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我靠主耶稣指望快打发提摩太去见你们，叫我知道你们的事，心里就得着安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我靠主耶穌指望快打發提摩太去見你們，叫我知道你們的事，心裏就得着安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For I have no one else like-minded, who will truly care about you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我没有别人与我同心，实在挂念你们的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我沒有別人與我同心，實在掛念你們的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For they all seek their own, not the things of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "别人都求自己的事，并不求耶稣基督的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "別人都求自己的事，並不求耶穌基督的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But you know that he has proved himself. As a child serves a father, so he served with me in furtherance of the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你们知道提摩太的明证；他兴旺福音，与我同劳，待我像儿子待父亲一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你們知道提摩太的明證；他興旺福音，與我同勞，待我像兒子待父親一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Therefore I hope to send him at once, as soon as I see how it will go with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我一看出我的事要怎样了结，就盼望立刻打发他去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我一看出我的事要怎樣了結，就盼望立刻打發他去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But I trust in the Lord that I myself also will come shortly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我靠着主自信我也必快去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我靠着主自信我也必快去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "But I thought it necessary to send to you Epaphroditus, my brother, fellow worker, fellow soldier, and your apostle and servant of my need,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，我想必须打发以巴弗提到你们那里去。他是我的兄弟，与我一同做工，一同当兵，是你们所差遣的，也是供给我需用的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，我想必須打發以巴弗提到你們那裏去。他是我的兄弟，與我一同做工，一同當兵，是你們所差遣的，也是供給我需用的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "since he longed for you all, and was very troubled because you had heard that he was sick.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他很想念你们众人，并且极其难过，因为你们听见他病了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他很想念你們眾人，並且極其難過，因為你們聽見他病了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For indeed he was sick nearly to death, but God had mercy on him, and not on him only, but on me also, that I might not have sorrow on sorrow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他实在是病了，几乎要死；然而 神怜恤他，不但怜恤他，也怜恤我，免得我忧上加忧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他實在是病了，幾乎要死；然而上帝憐恤他，不但憐恤他，也憐恤我，免得我憂上加憂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "I have sent him therefore the more diligently, that when you see him again, you may rejoice, and that I may be the less sorrowful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我越发急速打发他去，叫你们再见他，就可以喜乐，我也可以少些忧愁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我越發急速打發他去，叫你們再見他，就可以喜樂，我也可以少些憂愁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Receive him therefore in the Lord with all joy, and hold such people in honor,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，你们要在主里欢欢乐乐地接待他，而且要尊重这样的人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，你們要在主裏歡歡樂樂地接待他，而且要尊重這樣的人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他为做基督的工夫，几乎至死，不顾性命，要补足你们供给我的不及之处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他為做基督的工夫，幾乎至死，不顧性命，要補足你們供給我的不及之處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

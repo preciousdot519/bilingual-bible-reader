@@ -1,0 +1,425 @@
+{
+  "bookId": "ECC",
+  "chapter": 3,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "For everything there is a season, and a time for every purpose under heaven:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事都有定期， 天下万务都有定时。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事都有定期， 天下萬務都有定時。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "生有时，死有时； 栽种有时，拔出所栽种的也有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生有時，死有時； 栽種有時，拔出所栽種的也有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "a time to kill, and a time to heal; a time to break down, and a time to build up;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "杀戮有时，医治有时； 拆毁有时，建造有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殺戮有時，醫治有時； 拆毀有時，建造有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哭有时，笑有时； 哀恸有时，跳舞有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哭有時，笑有時； 哀慟有時，跳舞有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "抛掷石头有时，堆聚石头有时； 怀抱有时，不怀抱有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拋擲石頭有時，堆聚石頭有時； 懷抱有時，不懷抱有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "a time to seek, and a time to lose; a time to keep, and a time to cast away;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "寻找有时，失落有时； 保守有时，舍弃有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尋找有時，失落有時； 保守有時，捨棄有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撕裂有时，缝补有时； 静默有时，言语有时；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撕裂有時，縫補有時； 靜默有時，言語有時；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "a time to love, and a time to hate; a time for war, and a time for peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "喜爱有时，恨恶有时； 争战有时，和好有时。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "喜愛有時，恨惡有時； 爭戰有時，和好有時。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "What profit has he who works in that in which he labors?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，做事的人在他的劳碌上有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，做事的人在他的勞碌上有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I have seen the burden which God has given to the sons of men to be afflicted with.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见 神叫世人劳苦，使他们在其中受经练。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見上帝叫世人勞苦，使他們在其中受經練。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神造万物，各按其时成为美好，又将永生安置在世人心里。然而 神从始至终的作为，人不能参透。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 原文是永远"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝造萬物，各按其時成為美好，又將永生安置在世人心裏。然而上帝從始至終的作為，人不能參透。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 原文是永遠"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I know that there is nothing better for them than to rejoice, and to do good as long as they live.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道世人，莫强如终身喜乐行善；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道世人，莫強如終身喜樂行善；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且人人吃喝，在他一切劳碌中享福，这也是 神的恩赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且人人吃喝，在他一切勞碌中享福，這也是上帝的恩賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道 神一切所做的都必永存；无所增添，无所减少。 神这样行，是要人在他面前存敬畏的心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道上帝一切所做的都必永存；無所增添，無所減少。上帝這樣行，是要人在他面前存敬畏的心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现今的事早先就有了，将来的事早已也有了，并且 神使已过的事重新再来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或译：并且 神再寻回已过的事"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現今的事早先就有了，將來的事早已也有了，並且上帝使已過的事重新再來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或譯：並且上帝再尋回已過的事"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又见日光之下，在审判之处有奸恶，在公义之处也有奸恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又見日光之下，在審判之處有奸惡，在公義之處也有奸惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里说， 神必审判义人和恶人；因为在那里，各样事务，一切工作，都有定时。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏說，上帝必審判義人和惡人；因為在那裏，各樣事務，一切工作，都有定時。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心里说，这乃为世人的缘故，是 神要试验他们，使他们觉得自己不过像兽一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心裏說，這乃為世人的緣故，是上帝要試驗他們，使他們覺得自己不過像獸一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals, for all is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为世人遭遇的，兽也遭遇，所遭遇的都是一样：这个怎样死，那个也怎样死，气息都是一样。人不能强于兽，都是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為世人遭遇的，獸也遭遇，所遭遇的都是一樣：這個怎樣死，那個也怎樣死，氣息都是一樣。人不能強於獸，都是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "All go to one place. All are from the dust, and all turn to dust again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都归一处，都是出于尘土，也都归于尘土。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都歸一處，都是出於塵土，也都歸於塵土。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁知道人的灵是往上升，兽的魂是下入地呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰知道人的靈是往上升，獸的魂是下入地呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，我见人莫强如在他经营的事上喜乐，因为这是他的分。他身后的事谁能使他回来得见呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，我見人莫強如在他經營的事上喜樂，因為這是他的分。他身後的事誰能使他回來得見呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

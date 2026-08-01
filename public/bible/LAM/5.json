@@ -1,0 +1,415 @@
+{
+  "bookId": "LAM",
+  "chapter": 5,
+  "bookEnglish": "Lamentations",
+  "bookChineseSimplified": "耶利米哀歌",
+  "bookChineseTraditional": "耶利米哀歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Remember, LORD, what has come on us. Look, and see our reproach.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你记念我们所遭遇的事， 观看我们所受的凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你記念我們所遭遇的事， 觀看我們所受的凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Our inheritance has been turned over to strangers, our houses to aliens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的产业归与外邦人； 我们的房屋归与外路人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的產業歸與外邦人； 我們的房屋歸與外路人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "We are orphans and fatherless. Our mothers are as widows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们是无父的孤儿； 我们的母亲好像寡妇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們是無父的孤兒； 我們的母親好像寡婦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "We must pay for water to drink. Our wood is sold to us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们出钱才得水喝； 我们的柴是人卖给我们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們出錢才得水喝； 我們的柴是人賣給我們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Our pursuers are on our necks. We are weary, and have no rest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "追赶我们的，到了我们的颈项上； 我们疲乏不得歇息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "追趕我們的，到了我們的頸項上； 我們疲乏不得歇息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We have given our hands to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们投降埃及人和亚述人， 为要得粮吃饱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們投降埃及人和亞述人， 為要得糧吃飽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Our fathers sinned, and are no more. We have borne their iniquities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们列祖犯罪，而今不在了； 我们担当他们的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們列祖犯罪，而今不在了； 我們擔當他們的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Servants rule over us. There is no one to deliver us out of their hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奴仆辖制我们， 无人救我们脱离他们的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奴僕轄制我們， 無人救我們脫離他們的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "We get our bread at the peril of our lives, because of the sword in the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为旷野的刀剑， 我们冒着险才得粮食。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為曠野的刀劍， 我們冒着險才得糧食。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Our skin is black like an oven, because of the burning heat of famine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因饥饿燥热， 我们的皮肤就黑如炉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因飢餓燥熱， 我們的皮膚就黑如爐。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They ravished the women in Zion, the virgins in the cities of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敌人在锡安玷污妇人， 在犹大的城邑玷污处女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敵人在錫安玷污婦人， 在猶大的城邑玷污處女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Princes were hanged up by their hands. The faces of elders were not honored.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们吊起首领的手， 也不尊敬老人的面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們吊起首領的手， 也不尊敬老人的面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The young men carry millstones. The children stumbled under loads of wood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "少年人扛磨石， 孩童背木柴，都绊跌了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "少年人扛磨石， 孩童背木柴，都絆跌了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The elders have ceased from the gate, and the young men from their music.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "老年人在城门口断绝； 少年人不再作乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "老年人在城門口斷絕； 少年人不再作樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The joy of our heart has ceased. Our dance is turned into mourning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们心中的快乐止息， 跳舞变为悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們心中的快樂止息， 跳舞變為悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The crown has fallen from our head. Woe to us, for we have sinned!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "冠冕从我们的头上落下； 我们犯罪了，我们有祸了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "冠冕從我們的頭上落下； 我們犯罪了，我們有禍了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For this our heart is faint. For these things our eyes are dim:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事我们心里发昏， 我们的眼睛昏花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事我們心裏發昏， 我們的眼睛昏花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "for the mountain of Zion, which is desolate. The foxes walk on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安山荒凉， 野狗行在其上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:18 或译：狐狸"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安山荒涼， 野狗行在其上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:18 或譯：狐狸"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You, LORD, remain forever. Your throne is from generation to generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你存到永远； 你的宝座存到万代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你存到永遠； 你的寶座存到萬代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Why do you forget us forever, and forsake us for so long a time?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你为何永远忘记我们？ 为何许久离弃我们？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你為何永遠忘記我們？ 為何許久離棄我們？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Turn us to yourself, LORD, and we will be turned. Renew our days as of old.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，求你使我们向你回转， 我们便得回转。 求你复新我们的日子，像古时一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，求你使我們向你回轉， 我們便得回轉。 求你復新我們的日子，像古時一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But you have utterly rejected us. You are very angry against us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你竟全然弃绝我们， 向我们大发烈怒？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你竟全然棄絕我們， 向我們大發烈怒？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

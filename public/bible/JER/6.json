@@ -1,0 +1,609 @@
+{
+  "bookId": "JER",
+  "chapter": 6,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Flee for safety, you children of Benjamin, out of the middle of Jerusalem! Blow the trumpet in Tekoa and raise up a signal on Beth Haccherem, for evil looks out from the north with a great destruction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人哪，你们要逃出耶路撒冷， 在提哥亚吹角， 在伯·哈基琳立号旗； 因为有灾祸与大毁灭从北方张望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人哪，你們要逃出耶路撒冷， 在提哥亞吹角， 在伯‧哈基琳立號旗； 因為有災禍與大毀滅從北方張望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will cut off the beautiful and delicate one, the daughter of Zion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那秀美娇嫩的锡安女子， 我必剪除。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:2 就是指民的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那秀美嬌嫩的錫安女子， 我必剪除。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:2 就是指民的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Shepherds with their flocks will come to her. They will pitch their tents against her all around. They will feed everyone in his place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "牧人必引他们的羊群到她那里， 在她周围支搭帐棚， 各在自己所占之地使羊吃草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牧人必引他們的羊群到她那裏， 在她周圍支搭帳棚， 各在自己所佔之地使羊吃草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“Prepare war against her! Arise! Let’s go up at noon. Woe to us! For the day declines, for the shadows of the evening are stretched out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要准备攻击她。 起来吧，我们可以趁午时上去。 哀哉！日已渐斜， 晚影拖长了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要準備攻擊她。 起來吧，我們可以趁午時上去。 哀哉！日已漸斜， 晚影拖長了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Arise! Let’s go up by night, and let’s destroy her palaces.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起来吧，我们夜间上去， 毁坏她的宫殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起來吧，我們夜間上去， 毀壞她的宮殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For the LORD of Armies said, “Cut down trees, and cast up a mound against Jerusalem. This is the city to be visited. She is filled with oppression within herself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为万军之耶和华如此说： 你们要砍伐树木， 筑垒攻打耶路撒冷。 这就是那该罚的城， 其中尽是欺压。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為萬軍之耶和華如此說： 你們要砍伐樹木， 築壘攻打耶路撒冷。 這就是那該罰的城， 其中盡是欺壓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "As a well produces its waters, so she produces her wickedness. Violence and destruction is heard in her. Sickness and wounds are continually before me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "井怎样涌出水来， 这城也照样涌出恶来； 在其间常听见有强暴毁灭的事， 病患损伤也常在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "井怎樣湧出水來， 這城也照樣湧出惡來； 在其間常聽見有強暴毀滅的事， 病患損傷也常在我面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Be instructed, Jerusalem, lest my soul be alienated from you, lest I make you a desolation, an uninhabited land.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷啊，你当受教， 免得我心与你生疏， 免得我使你荒凉， 成为无人居住之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷啊，你當受教， 免得我心與你生疏， 免得我使你荒涼， 成為無人居住之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD of Armies says, “They will thoroughly glean the remnant of Israel like a vine. Turn again your hand as a grape gatherer into the baskets.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华曾如此说： 敌人必掳尽以色列剩下的民， 如同摘净葡萄一样。 你要像摘葡萄的人摘了又摘，回手放在筐子里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華曾如此說： 敵人必擄盡以色列剩下的民， 如同摘淨葡萄一樣。 你要像摘葡萄的人摘了又摘，回手放在筐子裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "To whom should I speak and testify, that they may hear? Behold, their ear is uncircumcised, and they can’t listen. Behold, the LORD’s word has become a reproach to them. They have no delight in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我可以向谁说话作见证，使他们听呢？ 他们的耳朵未受割礼，不能听见。 看哪，耶和华的话他们以为羞辱， 不以为喜悦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我可以向誰說話作見證，使他們聽呢？ 他們的耳朵未受割禮，不能聽見。 看哪，耶和華的話他們以為羞辱， 不以為喜悅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therefore I am full of the LORD’s wrath. I am weary with holding it in. “Pour it out on the children in the street, and on the assembly of young men together; for even the husband with the wife will be taken, the aged with him who is full of days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此我被耶和华的忿怒充满，难以含忍。 我要倾在街中的孩童和聚会的少年人身上， 连夫带妻， 并年老的与日子满足的都必被擒拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此我被耶和華的忿怒充滿，難以含忍。 我要傾在街中的孩童和聚會的少年人身上， 連夫帶妻， 並年老的與日子滿足的都必被擒拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Their houses will be turned to others, their fields and their wives together; for I will stretch out my hand on the inhabitants of the land, says the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的房屋、田地， 和妻子都必转归别人； 我要伸手攻击这地的居民。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的房屋、田地， 和妻子都必轉歸別人； 我要伸手攻擊這地的居民。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“For from their least even to their greatest, everyone is given to covetousness. From the prophet even to the priest, everyone deals falsely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们从最小的到至大的都一味地贪婪， 从先知到祭司都行事虚谎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們從最小的到至大的都一味地貪婪， 從先知到祭司都行事虛謊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They have healed also the hurt of my people superficially, saying, ‘Peace, peace!’ when there is no peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们轻轻忽忽地医治我百姓的损伤， 说：平安了！平安了！ 其实没有平安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們輕輕忽忽地醫治我百姓的損傷， 說：平安了！平安了！ 其實沒有平安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Were they ashamed when they had committed abomination? No, they were not at all ashamed, neither could they blush. Therefore they will fall among those who fall. When I visit them, they will be cast down,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们行可憎的事知道惭愧吗？ 不然，他们毫不惭愧， 也不知羞耻。 因此，他们必在仆倒的人中仆倒； 我向他们讨罪的时候， 他们必致跌倒。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們行可憎的事知道慚愧嗎？ 不然，他們毫不慚愧， 也不知羞恥。 因此，他們必在仆倒的人中仆倒； 我向他們討罪的時候， 他們必致跌倒。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD says, “Stand in the ways and see, and ask for the old paths, ‘Where is the good way?’ and walk in it, and you will find rest for your souls. But they said, ‘We will not walk in it.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 你们当站在路上察看， 访问古道， 哪是善道，便行在其间； 这样，你们心里必得安息。 他们却说：我们不行在其间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 你們當站在路上察看， 訪問古道， 哪是善道，便行在其間； 這樣，你們心裏必得安息。 他們卻說：我們不行在其間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I set watchmen over you, saying, ‘Listen to the sound of the trumpet!’ But they said, ‘We will not listen!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我设立守望的人照管你们， 说：要听角声。 他们却说：我们不听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我設立守望的人照管你們， 說：要聽角聲。 他們卻說：我們不聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Therefore hear, you nations, and know, congregation, what is among them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "列国啊，因此你们当听！ 会众啊，要知道他们必遭遇的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "列國啊，因此你們當聽！ 會眾啊，要知道他們必遭遇的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Hear, earth! Behold, I will bring evil on this people, even the fruit of their thoughts, because they have not listened to my words; and as for my law, they have rejected it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地啊，当听！ 我必使灾祸临到这百姓， 就是他们意念所结的果子； 因为他们不听从我的言语， 至于我的训诲，他们也厌弃了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:19 或译：律法"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地啊，當聽！ 我必使災禍臨到這百姓， 就是他們意念所結的果子； 因為他們不聽從我的言語， 至於我的訓誨，他們也厭棄了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:19 或譯：律法"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "To what purpose does frankincense from Sheba come to me, and the sweet cane from a far country? Your burnt offerings are not acceptable, and your sacrifices are not pleasing to me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从示巴出的乳香， 从远方出的菖蒲 奉来给我有何益呢？ 你们的燔祭不蒙悦纳； 你们的平安祭，我也不喜悦。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:20 或译：甘蔗"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從示巴出的乳香， 從遠方出的菖蒲 奉來給我有何益呢？ 你們的燔祭不蒙悅納； 你們的平安祭，我也不喜悅。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:20 或譯：甘蔗"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Therefore the LORD says, “Behold, I will lay stumbling blocks before this people. The fathers and the sons together will stumble against them. The neighbor and his friend will perish.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华如此说： 我要将绊脚石放在这百姓前面。 父亲和儿子要一同跌在其上； 邻舍与朋友也都灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華如此說： 我要將絆腳石放在這百姓前面。 父親和兒子要一同跌在其上； 鄰舍與朋友也都滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The LORD says, “Behold, a people comes from the north country. A great nation will be stirred up from the uttermost parts of the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 看哪，有一种民从北方而来， 并有一大国被激动，从地极来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 看哪，有一種民從北方而來， 並有一大國被激動，從地極來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They take hold of bow and spear. They are cruel, and have no mercy. Their voice roars like the sea, and they ride on horses, everyone set in array, as a man to the battle, against you, daughter of Zion.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们拿弓和枪， 性情残忍，不施怜悯； 他们的声音像海浪匉訇。 锡安城啊， 他们骑马都摆队伍， 如上战场的人要攻击你。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:23 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們拿弓和槍， 性情殘忍，不施憐憫； 他們的聲音像海浪匉訇。 錫安城啊， 他們騎馬都擺隊伍， 如上戰場的人要攻擊你。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:23 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "We have heard its report. Our hands become feeble. Anguish has taken hold of us, and pains as of a woman in labor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们听见他们的风声，手就发软； 痛苦将我们抓住， 疼痛仿佛产难的妇人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們聽見他們的風聲，手就發軟； 痛苦將我們抓住， 疼痛彷彿產難的婦人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Don’t go out into the field or walk by the way; for the sword of the enemy and terror are on every side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不要往田野去， 也不要行在路上， 因四围有仇敌的刀剑和惊吓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不要往田野去， 也不要行在路上， 因四圍有仇敵的刀劍和驚嚇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Daughter of my people, clothe yourself with sackcloth, and wallow in ashes! Mourn, as for an only son, most bitter lamentation, for the destroyer will suddenly come on us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我民哪，应当腰束麻布，滚在灰中。 你要悲伤，如丧独生子痛痛哭号， 因为灭命的要忽然临到我们。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:26 原文是民女"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我民哪，應當腰束麻布，滾在灰中。 你要悲傷，如喪獨生子痛痛哭號， 因為滅命的要忽然臨到我們。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:26 原文是民女"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“I have made you a tester of metals and a fortress among my people, that you may know and try their way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我使你在我民中为高台，为保障， 使你知道试验他们的行动。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:27 或译：试验人的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我使你在我民中為高臺，為保障， 使你知道試驗他們的行動。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:27 或譯：試驗人的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They are all grievous rebels, going around to slander. They are bronze and iron. All of them deal corruptly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们都是极悖逆的， 往来谗谤人。 他们是铜是铁， 都行坏事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們都是極悖逆的， 往來讒謗人。 他們是銅是鐵， 都行壞事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The bellows blow fiercely. The lead is consumed in the fire. In vain they go on refining, for the wicked are not plucked away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "风箱吹火，铅被烧毁； 他们炼而又炼，终是徒然； 因为恶劣的还未除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "風箱吹火，鉛被燒毀； 他們煉而又煉，終是徒然； 因為惡劣的還未除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Men will call them rejected silver, because the LORD has rejected them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人必称他们为被弃的银渣， 因为耶和华已经弃掉他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人必稱他們為被棄的銀渣， 因為耶和華已經棄掉他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

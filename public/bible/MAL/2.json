@@ -1,0 +1,350 @@
+{
+  "bookId": "MAL",
+  "chapter": 2,
+  "bookEnglish": "Malachi",
+  "bookChineseSimplified": "玛拉基书",
+  "bookChineseTraditional": "瑪拉基書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Now, you priests, this commandment is for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「众祭司啊，这诫命是传给你们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「眾祭司啊，這誡命是傳給你們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "If you will not listen, and if you will not take it to heart, to give glory to my name,” says the LORD of Armies, “then I will send the curse on you, and I will curse your blessings. Indeed, I have cursed them already, because you do not take it to heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华说：你们若不听从，也不放在心上，将荣耀归与我的名，我就使咒诅临到你们，使你们的福分变为咒诅；因你们不把诫命放在心上，我已经咒诅你们了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華說：你們若不聽從，也不放在心上，將榮耀歸與我的名，我就使咒詛臨到你們，使你們的福分變為咒詛；因你們不把誡命放在心上，我已經咒詛你們了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Behold, I will rebuke your offspring, and will spread dung on your faces, even the dung of your feasts; and you will be taken away with it.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:3 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必斥责你们的种子，又把你们牺牲的粪抹在你们的脸上；你们要与粪一同除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必斥責你們的種子，又把你們犧牲的糞抹在你們的臉上；你們要與糞一同除掉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You will know that I have sent this commandment to you, that my covenant may be with Levi,” says the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们就知道我传这诫命给你们，使我与利未所立的约可以常存。这是万军之耶和华说的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:4 或译：利未人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們就知道我傳這誡命給你們，使我與利未所立的約可以常存。這是萬軍之耶和華說的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:4 或譯：\\+pn 利未\\+pn*人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“My covenant was with him of life and peace; and I gave them to him that he might be reverent toward me; and he was reverent toward me, and stood in awe of my name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾与他立生命和平安的约。我将这两样赐给他，使他存敬畏的心，他就敬畏我，惧怕我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾與他立生命和平安的約。我將這兩樣賜給他，使他存敬畏的心，他就敬畏我，懼怕我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "真实的律法在他口中，他嘴里没有不义的话。他以平安和正直与我同行，使多人回头离开罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "真實的律法在他口中，他嘴裏沒有不義的話。他以平安和正直與我同行，使多人回頭離開罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For the priest’s lips should keep knowledge, and they should seek the law at his mouth; for he is the messenger of the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司的嘴里当存知识，人也当由他口中寻求律法，因为他是万军之耶和华的使者。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司的嘴裏當存知識，人也當由他口中尋求律法，因為他是萬軍之耶和華的使者。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But you have turned away from the path. You have caused many to stumble in the law. You have corrupted the covenant of Levi,” says the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们却偏离正道，使许多人在律法上跌倒。你们废弃我与利未所立的约。这是万军之耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們卻偏離正道，使許多人在律法上跌倒。你們廢棄我與利未所立的約。這是萬軍之耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“Therefore I have also made you contemptible and wicked before all the people, according to the way you have not kept my ways, but have had respect for persons in the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我使你们被众人藐视，看为下贱；因你们不守我的道，竟在律法上瞻徇情面。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我使你們被眾人藐視，看為下賤；因你們不守我的道，竟在律法上瞻徇情面。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Don’t we all have one father? Hasn’t one God created us? Why do we deal treacherously every man against his brother, profaning the covenant of our fathers?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们岂不都是一位父吗？岂不是一位 神所造的吗？我们各人怎么以诡诈待弟兄，背弃了 神与我们列祖所立的约呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們豈不都是一位父嗎？豈不是一位上帝所造的嗎？我們各人怎麼以詭詐待弟兄，背棄了上帝與我們列祖所立的約呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has profaned the holiness of the LORD which he loves, and has married the daughter of a foreign god.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大人行事诡诈，并且在以色列和耶路撒冷中行一件可憎的事；因为犹大人亵渎耶和华所喜爱的圣洁，娶事奉外邦神的女子为妻。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:11 或译：圣地"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大人行事詭詐，並且在以色列和耶路撒冷中行一件可憎的事；因為猶大人褻瀆耶和華所喜愛的聖潔，娶事奉外邦神的女子為妻。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:11 或譯：聖地"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD will cut off the man who does this, him who wakes and him who answers, out of the tents of Jacob and him who offers an offering to the LORD of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡行这事的，无论何人，就是献供物给万军之耶和华，耶和华也必从雅各的帐棚中剪除他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 何人：原文是叫醒的，答应的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡行這事的，無論何人，就是獻供物給萬軍之耶和華，耶和華也必從雅各的帳棚中剪除他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 何人：原文是叫醒的，答應的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“This again you do: you cover the LORD’s altar with tears, with weeping, and with sighing, because he doesn’t regard the offering any more, neither receives it with good will at your hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们又行了一件这样的事，使前妻叹息哭泣的眼泪遮盖耶和华的坛，以致耶和华不再看顾那供物，也不乐意从你们手中收纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們又行了一件這樣的事，使前妻歎息哭泣的眼淚遮蓋耶和華的壇，以致耶和華不再看顧那供物，也不樂意從你們手中收納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Yet you say, ‘Why?’ Because the LORD has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion and the wife of your covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们还说：「这是为什么呢？」因耶和华在你和你幼年所娶的妻中间作见证。她虽是你的配偶，又是你盟约的妻，你却以诡诈待她。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們還說：「這是為甚麼呢？」因耶和華在你和你幼年所娶的妻中間作見證。她雖是你的配偶，又是你盟約的妻，你卻以詭詐待她。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Did he not make you one, although he had the residue of the Spirit? Why one? He sought godly offspring. Therefore take heed to your spirit, and let no one deal treacherously against the wife of his youth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "虽然 神有灵的余力能造多人，他不是单造一人吗？为何只造一人呢？乃是他愿人得虔诚的后裔。所以当谨守你们的心，谁也不可以诡诈待幼年所娶的妻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雖然上帝有靈的餘力能造多人，他不是單造一人嗎？為何只造一人呢？乃是他願人得虔誠的後裔。所以當謹守你們的心，誰也不可以詭詐待幼年所娶的妻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "One who hates and divorces”, says the LORD, the God of Israel, “covers his garment with violence!” says the LORD of Armies. “Therefore pay attention to your spirit, that you don’t be unfaithful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—以色列的 神说：「休妻的事和以强暴待妻的人都是我所恨恶的！所以当谨守你们的心，不可行诡诈。」这是万军之耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－以色列的上帝說：「休妻的事和以強暴待妻的人都是我所恨惡的！所以當謹守你們的心，不可行詭詐。」這是萬軍之耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You have wearied the LORD with your words. Yet you say, ‘How have we wearied him?’ In that you say, ‘Everyone who does evil is good in the LORD’s sight, and he delights in them;’ or ‘Where is the God of justice?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们用言语烦琐耶和华，你们还说：「我们在何事上烦琐他呢？」因为你们说：「凡行恶的，耶和华眼看为善，并且他喜悦他们」；或说：「公义的 神在哪里呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們用言語煩瑣耶和華，你們還說：「我們在何事上煩瑣他呢？」因為你們說：「凡行惡的，耶和華眼看為善，並且他喜悅他們」；或說：「公義的上帝在哪裏呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

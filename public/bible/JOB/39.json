@@ -1,0 +1,549 @@
+{
+  "bookId": "JOB",
+  "chapter": 39,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Do you know the time when the mountain goats give birth? Do you watch when the doe bears fawns?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "山岩间的野山羊几时生产，你知道吗？ 母鹿下犊之期，你能察定吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "山巖間的野山羊幾時生產，你知道嗎？ 母鹿下犢之期，你能察定嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Can you count the months that they fulfill? Or do you know the time when they give birth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它们怀胎的月数，你能数算吗？ 它们几时生产，你能晓得吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠們懷胎的月數，你能數算嗎？ 牠們幾時生產，你能曉得嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They bow themselves. They bear their young. They end their labor pains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它们屈身，将子生下， 就除掉疼痛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠們屈身，將子生下， 就除掉疼痛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Their young ones become strong. They grow up in the open field. They go out, and don’t return again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这子渐渐肥壮，在荒野长大， 去而不回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這子漸漸肥壯，在荒野長大， 去而不回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Who has set the wild donkey free? Or who has loosened the bonds of the swift donkey,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁放野驴出去自由？ 谁解开快驴的绳索？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰放野驢出去自由？ 誰解開快驢的繩索？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "whose home I have made the wilderness, and the salt land his dwelling place?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我使旷野作它的住处， 使咸地当它的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我使曠野作牠的住處， 使鹹地當牠的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He scorns the tumult of the city, neither does he hear the shouting of the driver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它嗤笑城内的喧嚷， 不听赶牲口的喝声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠嗤笑城內的喧嚷， 不聽趕牲口的喝聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The range of the mountains is his pasture. He searches after every green thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遍山是它的草场； 它寻找各样青绿之物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遍山是牠的草場； 牠尋找各樣青綠之物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“Will the wild ox be content to serve you? Or will he stay by your feeding trough?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "野牛岂肯服事你？ 岂肯住在你的槽旁？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "野牛豈肯服事你？ 豈肯住在你的槽旁？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Can you hold the wild ox in the furrow with his harness? Or will he till the valleys after you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你岂能用套绳将野牛笼在犁沟之间？ 它岂肯随你耙山谷之地？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你豈能用套繩將野牛籠在犂溝之間？ 牠豈肯隨你耙山谷之地？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Will you trust him, because his strength is great? Or will you leave to him your labor?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂可因它的力大就倚靠它？ 岂可把你的工交给它做吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈可因牠的力大就倚靠牠？ 豈可把你的工交給牠做嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Will you confide in him, that he will bring home your seed, and gather the grain of your threshing floor?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂可信靠它把你的粮食运到家， 又收聚你禾场上的谷吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈可信靠牠把你的糧食運到家， 又收聚你禾場上的穀嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“The wings of the ostrich wave proudly, but are they the feathers and plumage of love?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鸵鸟的翅膀欢然搧展， 岂是显慈爱的翎毛和羽毛吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鴕鳥的翅膀歡然搧展， 豈是顯慈愛的翎毛和羽毛嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For she leaves her eggs on the earth, warms them in the dust,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因它把蛋留在地上， 在尘土中使得温暖；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因牠把蛋留在地上， 在塵土中使得溫暖；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and forgets that the foot may crush them, or that the wild animal may trample them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却想不到被脚踹碎， 或被野兽践踏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻想不到被腳踹碎， 或被野獸踐踏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "She deals harshly with her young ones, as if they were not hers. Though her labor is in vain, she is without fear,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它忍心待雏，似乎不是自己的； 虽然徒受劳苦，也不为雏惧怕；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠忍心待雛，似乎不是自己的； 雖然徒受勞苦，也不為雛懼怕；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "because God has deprived her of wisdom, neither has he imparted to her understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神使它没有智慧， 也未将悟性赐给它。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝使牠沒有智慧， 也未將悟性賜給牠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When she lifts up herself on high, she scorns the horse and his rider.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它几时挺身展开翅膀， 就嗤笑马和骑马的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠幾時挺身展開翅膀， 就嗤笑馬和騎馬的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Have you given the horse might? Have you clothed his neck with a quivering mane?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马的大力是你所赐的吗？ 它颈项上挓挲的鬃是你给它披上的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬的大力是你所賜的嗎？ 牠頸項上挓挲的誃是你給牠披上的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Have you made him to leap as a locust? The glory of his snorting is awesome.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是你叫它跳跃像蝗虫吗？ 它喷气之威使人惊惶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是你叫牠跳躍像蝗蟲嗎？ 牠噴氣之威使人驚惶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He paws in the valley, and rejoices in his strength. He goes out to meet the armed men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它在谷中刨地，自喜其力； 它出去迎接佩带兵器的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠在谷中刨地，自喜其力； 牠出去迎接佩帶兵器的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He mocks at fear, and is not dismayed, neither does he turn back from the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它嗤笑可怕的事并不惊惶， 也不因刀剑退回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠嗤笑可怕的事並不驚惶， 也不因刀劍退回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The quiver rattles against him, the flashing spear and the javelin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "箭袋和发亮的枪， 并短枪在它身上铮铮有声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "箭袋和發亮的槍， 並短槍在牠身上錚錚有聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He eats up the ground with fierceness and rage, neither does he stand still at the sound of the trumpet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它发猛烈的怒气将地吞下； 一听角声就不耐站立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠發猛烈的怒氣將地吞下； 一聽角聲就不耐站立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "As often as the trumpet sounds he snorts, ‘Aha!’ He smells the battle afar off, the thunder of the captains, and the shouting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "角每发声，它说呵哈； 它从远处闻着战气， 又听见军长大发雷声和兵丁呐喊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "角每發聲，牠說呵哈； 牠從遠處聞着戰氣， 又聽見軍長大發雷聲和兵丁吶喊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Is it by your wisdom that the hawk soars, and stretches her wings toward the south?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鹰雀飞翔，展开翅膀一直向南， 岂是借你的智慧吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鷹雀飛翔，展開翅膀一直向南， 豈是藉你的智慧嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Is it at your command that the eagle mounts up, and makes his nest on high?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大鹰上腾在高处搭窝， 岂是听你的吩咐吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大鷹上騰在高處搭窩， 豈是聽你的吩咐嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "On the cliff he dwells and makes his home, on the point of the cliff and the stronghold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它住在山岩， 以山峰和坚固之所为家，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠住在山巖， 以山峰和堅固之所為家，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "From there he spies out the prey. His eyes see it afar off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从那里窥看食物， 眼睛远远观望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從那裏窺看食物， 眼睛遠遠觀望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "His young ones also suck up blood. Where the slain are, there he is.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它的雏也咂血； 被杀的人在哪里，它也在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠的雛也咂血； 被殺的人在哪裏，牠也在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "bookId": "MAT",
+  "chapter": 1,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 Messiah (Hebrew) and Christ (Greek) both mean “Anointed One”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕的后裔，大卫的子孙，耶稣基督的家谱：",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:1 后裔，子孙：原文是儿子；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕的後裔，大衛的子孫，耶穌基督的家譜：",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:1 後裔，子孫：原文是兒子；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕生以撒；以撒生雅各；雅各生犹大和他的弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕生以撒；以撒生雅各；雅各生猶大和他的弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大从她玛氏生法勒斯和谢拉；法勒斯生希斯 ；希斯 生亚兰；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大從她瑪氏生法勒斯和謝拉；法勒斯生希斯崙；希斯崙生亞蘭；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚兰生亚米拿达；亚米拿达生拿顺；拿顺生撒门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞蘭生亞米拿達；亞米拿達生拿順；拿順生撒門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒门从喇合氏生波阿斯；波阿斯从路得氏生俄备得；俄备得生耶西；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒門從喇合氏生波阿斯；波阿斯從路得氏生俄備得；俄備得生耶西；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Jesse became the father of King David. David the king became the father of Solomon by her who had been Uriah’s wife.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:6 NU omits “the king”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶西生大卫王。 大卫从乌利亚的妻子生所罗门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶西生大衛王。 大衛從烏利亞的妻子生所羅門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门生罗波安；罗波安生亚比雅；亚比雅生亚撒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門生羅波安；羅波安生亞比雅；亞比雅生亞撒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒生约沙法；约沙法生约兰； 约兰生乌西雅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒生約沙法；約沙法生約蘭；約蘭生烏西雅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乌西雅生约坦；约坦生亚哈斯；亚哈斯生希西家；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "烏西雅生約坦；約坦生亞哈斯；亞哈斯生希西家；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希西家生玛拿西；玛拿西生亚们；亚们生约西亚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希西家生瑪拿西；瑪拿西生亞們；亞們生約西亞；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Josiah became the father of Jechoniah and his brothers at the time of the exile to Babylon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓被迁到巴比伦的时候，约西亚生耶哥尼雅和他的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓被遷到巴比倫的時候，約西亞生耶哥尼雅和他的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迁到巴比伦之后，耶哥尼雅生撒拉铁；撒拉铁生所罗巴伯；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遷到巴比倫之後，耶哥尼雅生撒拉鐵；撒拉鐵生所羅巴伯；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗巴伯生亚比玉；亚比玉生以利亚敬；以利亚敬生亚所；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅巴伯生亞比玉；亞比玉生以利亞敬；以利亞敬生亞所；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚所生撒督；撒督生亚金；亚金生以律；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞所生撒督；撒督生亞金；亞金生以律；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以律生以利亚撒；以利亚撒生马但；马但生雅各；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以律生以利亞撒；以利亞撒生馬但；馬但生雅各；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:16 “Jesus” means “Salvation”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各生约瑟，就是马利亚的丈夫。那称为基督的耶稣是从马利亚生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各生約瑟，就是馬利亞的丈夫。那稱為基督的耶穌是從馬利亞生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，从亚伯拉罕到大卫共有十四代；从大卫到迁至巴比伦的时候也有十四代；从迁至巴比伦的时候到基督又有十四代。 （路2·1—7）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，從亞伯拉罕到大衛共有十四代；從大衛到遷至巴比倫的時候也有十四代；從遷至巴比倫的時候到基督又有十四代。 （路2‧1－7）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣基督降生的事记在下面：他母亲马利亚已经许配了约瑟，还没有迎娶，马利亚就从圣灵怀了孕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌基督降生的事記在下面：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她丈夫约瑟是个义人，不愿意明明地羞辱她，想要暗暗地把她休了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她丈夫約瑟是個義人，不願意明明地羞辱她，想要暗暗地把她休了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:20 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正思念这事的时候，有主的使者向他梦中显现，说：「大卫的子孙约瑟，不要怕！只管娶过你的妻子马利亚来，因她所怀的孕是从圣灵来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正思念這事的時候，有主的使者向他夢中顯現，說：「大衛的子孫約瑟，不要怕！只管娶過你的妻子馬利亞來，因她所懷的孕是從聖靈來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:21 “Jesus” means “Salvation”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她将要生一个儿子，你要给他起名叫耶稣，因他要将自己的百姓从罪恶里救出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她將要生一個兒子，你要給他起名叫耶穌，因他要將自己的百姓從罪惡裏救出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一切的事成就是要应验主借先知所说的话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一切的事成就是要應驗主藉先知所說的話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel,” which is, being interpreted, “God with us.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:23 Isaiah 7:14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "说： 必有童女怀孕生子； 人要称他的名为以马内利。 以马内利翻出来就是「 神与我们同在」。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說： 必有童女懷孕生子； 人要稱他的名為以馬內利。 以馬內利翻出來就是「上帝與我們同在」。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约瑟醒了，起来，就遵着主使者的吩咐把妻子娶过来；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約瑟醒了，起來，就遵着主使者的吩咐把妻子娶過來；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是没有和她同房，等她生了儿子，就给他起名叫耶稣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:25 有古卷：等她生了头胎的儿子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是沒有和她同房，等她生了兒子，就給他起名叫耶穌。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:25 有古卷：等她生了頭胎的兒子"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

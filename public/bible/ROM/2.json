@@ -1,0 +1,553 @@
+{
+  "bookId": "ROM",
+  "chapter": 2,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这论断人的，无论你是谁，也无可推诿。你在什么事上论断人，就在什么事上定自己的罪；因你这论断人的，自己所行却和别人一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這論斷人的，無論你是誰，也無可推諉。你在甚麼事上論斷人，就在甚麼事上定自己的罪；因你這論斷人的，自己所行卻和別人一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "We know that the judgment of God is according to truth against those who practice such things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们知道这样行的人， 神必照真理审判他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們知道這樣行的人，上帝必照真理審判他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这人哪，你论断行这样事的人，自己所行的却和别人一样，你以为能逃脱 神的审判吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這人哪，你論斷行這樣事的人，自己所行的卻和別人一樣，你以為能逃脫上帝的審判嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还是你藐视他丰富的恩慈、宽容、忍耐，不晓得他的恩慈是领你悔改呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還是你藐視他豐富的恩慈、寬容、忍耐，不曉得他的恩慈是領你悔改呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你竟任着你刚硬不悔改的心，为自己积蓄忿怒，以致 神震怒，显他公义审判的日子来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你竟任着你剛硬不悔改的心，為自己積蓄忿怒，以致上帝震怒，顯他公義審判的日子來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "who “will pay back to everyone according to their works:”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:6 Psalms 62:12; Proverbs 24:12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他必照各人的行为报应各人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必照各人的行為報應各人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "to those who by perseverance in well-doing seek for glory, honor, and incorruptibility, eternal life;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡恒心行善、寻求荣耀、尊贵和不能朽坏之福的，就以永生报应他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡恆心行善、尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "but to those who are self-seeking and don’t obey the truth, but obey unrighteousness, will be wrath, indignation,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有结党、不顺从真理、反顺从不义的，就以忿怒、恼恨报应他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有結黨、不順從真理、反順從不義的，就以忿怒、惱恨報應他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "oppression, and anguish on every soul of man who does evil, to the Jew first, and also to the Greek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将患难、困苦加给一切作恶的人，先是犹太人，后是希腊人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "But glory, honor, and peace go to every man who does good, to the Jew first, and also to the Greek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却将荣耀、尊贵、平安加给一切行善的人，先是犹太人，后是希腊人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For there is no partiality with God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神不偏待人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝不偏待人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For as many as have sinned without the law will also perish without the law. As many as have sinned under the law will be judged by the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡没有律法犯了罪的，也必不按律法灭亡；凡在律法以下犯了罪的，也必按律法受审判。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡沒有律法犯了罪的，也必不按律法滅亡；凡在律法以下犯了罪的，也必按律法受審判。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For it isn’t the hearers of the law who are righteous before God, but the doers of the law will be justified",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来在 神面前，不是听律法的为义，乃是行律法的称义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來在上帝面前，不是聽律法的為義，乃是行律法的稱義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有律法的外邦人若顺着本性行律法上的事，他们虽然没有律法，自己就是自己的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有律法的外邦人若順着本性行律法上的事，他們雖然沒有律法，自己就是自己的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "in that they show the work of the law written in their hearts, their conscience testifying with them, and their thoughts among themselves accusing or else excusing them)",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是显出律法的功用刻在他们心里，他们是非之心同作见证，并且他们的思念互相较量，或以为是，或以为非。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是顯出律法的功用刻在他們心裏，他們是非之心同作見證，並且他們的思念互相較量，或以為是，或以為非。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "in the day when God will judge the secrets of men, according to my Good News, by Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就在 神借耶稣基督审判人隐秘事的日子，照着我的福音所言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就在上帝藉耶穌基督審判人隱祕事的日子，照着我的福音所言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Indeed you bear the name of a Jew, rest on the law, glory in God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你称为犹太人，又倚靠律法，且指着 神夸口；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你稱為猶太人，又倚靠律法，且指着上帝誇口；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "know his will, and approve the things that are excellent, being instructed out of the law,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既从律法中受了教训，就晓得 神的旨意，也能分别是非；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:18 或译：也喜爱那美好的事"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既從律法中受了教訓，就曉得上帝的旨意，也能分別是非；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:18 或譯：也喜愛那美好的事"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and are confident that you yourself are a guide of the blind, a light to those who are in darkness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又深信自己是给瞎子领路的，是黑暗中人的光，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又深信自己是給瞎子領路的，是黑暗中人的光，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是蠢笨人的师傅，是小孩子的先生，在律法上有知识和真理的模范。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是蠢笨人的師傅，是小孩子的先生，在律法上有知識和真理的模範。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You therefore who teach another, don’t you teach yourself? You who preach that a man shouldn’t steal, do you steal?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你既是教导别人，还不教导自己吗？你讲说人不可偷窃，自己还偷窃吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你既是教導別人，還不教導自己嗎？你講說人不可偷竊，自己還偷竊嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You who say a man shouldn’t commit adultery, do you commit adultery? You who abhor idols, do you rob temples?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你说人不可奸淫，自己还奸淫吗？你厌恶偶像，自己还偷窃庙中之物吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你說人不可姦淫，自己還姦淫嗎？你厭惡偶像，自己還偷竊廟中之物嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "You who glory in the law, do you dishonor God by disobeying the law?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你指着律法夸口，自己倒犯律法、玷辱 神吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你指着律法誇口，自己倒犯律法、玷辱上帝嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For “the name of God is blasphemed among the Gentiles because of you,” just as it is written.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:24 Isaiah 52:5; Ezekiel 36:22",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "神的名在外邦人中，因你们受了亵渎，正如经上所记的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的名在外邦人中，因你們受了褻瀆，正如經上所記的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For circumcision indeed profits, if you are a doer of the law, but if you are a transgressor of the law, your circumcision has become uncircumcision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若是行律法的，割礼固然于你有益；若是犯律法的，你的割礼就算不得割礼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "If therefore the uncircumcised keep the ordinances of the law, won’t his uncircumcision be accounted as circumcision?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以那未受割礼的，若遵守律法的条例，他虽然未受割礼，岂不算是有割礼吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Won’t those who are physically uncircumcised, but fulfill the law, judge you, who with the letter and circumcision are a transgressor of the law?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "而且那本来未受割礼的，若能全守律法，岂不是要审判你这有仪文和割礼竟犯律法的人吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "For he is not a Jew who is one outwardly, neither is that circumcision which is outward in the flesh;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为外面作犹太人的，不是真犹太人；外面肉身的割礼，也不是真割礼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為外面作猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit, not in the letter; whose praise is not from men, but from God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有里面作的，才是真犹太人；真割礼也是心里的，在乎灵，不在乎仪文。这人的称赞不是从人来的，乃是从 神来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。這人的稱讚不是從人來的，乃是從上帝來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

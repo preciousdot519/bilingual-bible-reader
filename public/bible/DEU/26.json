@@ -1,0 +1,356 @@
+{
+  "bookId": "DEU",
+  "chapter": 26,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "It shall be, when you have come in to the land which the LORD your God gives you for an inheritance, possess it, and dwell in it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你进去得了耶和华—你 神所赐你为业之地居住，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你進去得了耶和華－你上帝所賜你為業之地居住，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that the LORD your God gives you. You shall put it in a basket, and shall go to the place which the LORD your God shall choose to cause his name to dwell there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就要从耶和华—你 神赐你的地上将所收的各种初熟的土产取些来，盛在筐子里，往耶和华—你 神所选择要立为他名的居所去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就要從耶和華－你上帝賜你的地上將所收的各種初熟的土產取些來，盛在筐子裏，往耶和華－你上帝所選擇要立為他名的居所去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall come to the priest who shall be in those days, and tell him, “I profess today to the LORD your God, that I have come to the land which the LORD swore to our fathers to give us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见当时作祭司的，对他说：『我今日向耶和华—你 神明认，我已来到耶和华向我们列祖起誓应许赐给我们的地。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見當時作祭司的，對他說：『我今日向耶和華－你上帝明認，我已來到耶和華向我們列祖起誓應許賜給我們的地。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The priest shall take the basket out of your hand, and set it down before the LORD your God’s altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司就从你手里取过筐子来，放在耶和华—你 神的坛前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司就從你手裏取過筐子來，放在耶和華－你上帝的壇前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You shall answer and say before the LORD your God, “My father was a Syrian ready to perish. He went down into Egypt, and lived there, few in number. There he became a great, mighty, and populous nation.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:5 or, forefather"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要在耶和华—你 神面前说：『我祖原是一个将亡的亚兰人，下到埃及寄居。他人口稀少，在那里却成了又大又强、人数很多的国民。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要在耶和華－你上帝面前說：『我祖原是一個將亡的亞蘭人，下到埃及寄居。他人口稀少，在那裏卻成了又大又強、人數很多的國民。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The Egyptians mistreated us, afflicted us, and imposed hard labor on us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "埃及人恶待我们，苦害我们，将苦工加在我们身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "埃及人惡待我們，苦害我們，將苦工加在我們身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then we cried to the LORD, the God of our fathers. The LORD heard our voice, and saw our affliction, our toil, and our oppression.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是我们哀求耶和华—我们列祖的 神，耶和华听见我们的声音，看见我们所受的困苦、劳碌、欺压，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是我們哀求耶和華－我們列祖的上帝，耶和華聽見我們的聲音，看見我們所受的困苦、勞碌、欺壓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The LORD brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with signs, and with wonders;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就用大能的手和伸出来的膀臂，并大可畏的事与神迹奇事，领我们出了埃及，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就用大能的手和伸出來的膀臂，並大可畏的事與神蹟奇事，領我們出了埃及，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and he has brought us into this place, and has given us this land, a land flowing with milk and honey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将我们领进这地方，把这流奶与蜜之地赐给我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將我們領進這地方，把這流奶與蜜之地賜給我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now, behold, I have brought the first of the fruit of the ground, which you, the LORD, have given me.” You shall set it down before the LORD your God, and worship before the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，现在我把你所赐给我地上初熟的土产奉了来。』随后你要把筐子放在耶和华—你 神面前，向耶和华—你的 神下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，現在我把你所賜給我地上初熟的土產奉了來。』隨後你要把筐子放在耶和華－你上帝面前，向耶和華－你的上帝下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall rejoice in all the good which the LORD your God has given to you, and to your house, you, and the Levite, and the foreigner who is among you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你和利未人，并在你们中间寄居的，要因耶和华—你 神所赐你和你家的一切福分欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你和利未人，並在你們中間寄居的，要因耶和華－你上帝所賜你和你家的一切福分歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "When you have finished tithing all the tithe of your increase in the third year, which is the year of tithing, then you shall give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat within your gates and be filled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「每逢三年，就是十分取一之年，你取完了一切土产的十分之一，要分给利未人和寄居的，与孤儿寡妇，使他们在你城中可以吃得饱足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「每逢三年，就是十分取一之年，你取完了一切土產的十分之一，要分給利未人和寄居的，與孤兒寡婦，使他們在你城中可以吃得飽足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall say before the LORD your God, “I have put away the holy things out of my house, and also have given them to the Levite, to the foreigner, to the fatherless, and to the widow, according to all your commandment which you have commanded me. I have not transgressed any of your commandments, neither have I forgotten them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你又要在耶和华—你 神面前说：『我已将圣物从我家里拿出来，给了利未人和寄居的，与孤儿寡妇，是照你所吩咐我的一切命令。你的命令我都没有违背，也没有忘记。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你又要在耶和華－你上帝面前說：『我已將聖物從我家裏拿出來，給了利未人和寄居的，與孤兒寡婦，是照你所吩咐我的一切命令。你的命令我都沒有違背，也沒有忘記。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor given of it for the dead. I have listened to the LORD my God’s voice. I have done according to all that you have commanded me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我守丧的时候，没有吃这圣物；不洁净的时候，也没有拿出来，又没有为死人送去。我听从了耶和华—我 神的话，都照你所吩咐的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我守喪的時候，沒有吃這聖物；不潔淨的時候，也沒有拿出來，又沒有為死人送去。我聽從了耶和華－我上帝的話，都照你所吩咐的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Look down from your holy habitation, from heaven, and bless your people Israel, and the ground which you have given us, as you swore to our fathers, a land flowing with milk and honey.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你从天上、你的圣所垂看，赐福给你的百姓以色列与你所赐给我们的地，就是你向我们列祖起誓赐我们流奶与蜜之地。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你從天上、你的聖所垂看，賜福給你的百姓以色列與你所賜給我們的地，就是你向我們列祖起誓賜我們流奶與蜜之地。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Today the LORD your God commands you to do these statutes and ordinances. You shall therefore keep and do them with all your heart and with all your soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「耶和华—你的 神今日吩咐你行这些律例典章，所以你要尽心尽性谨守遵行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「耶和華－你的上帝今日吩咐你行這些律例典章，所以你要盡心盡性謹守遵行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You have declared today that the LORD is your God, and that you would walk in his ways, keep his statutes, his commandments, and his ordinances, and listen to his voice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你今日认耶和华为你的 神，应许遵行他的道，谨守他的律例、诫命、典章，听从他的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你今日認耶和華為你的上帝，應許遵行他的道，謹守他的律例、誡命、典章，聽從他的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The LORD has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华今日照他所应许你的，也认你为他的子民，使你谨守他的一切诫命，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華今日照他所應許你的，也認你為他的子民，使你謹守他的一切誡命，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He will make you high above all nations that he has made, in praise, in name, and in honor, and that you may be a holy people to the LORD your God, as he has spoken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又使你得称赞、美名、尊荣，超乎他所造的万民之上，并照他所应许的使你归耶和华—你 神为圣洁的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又使你得稱讚、美名、尊榮，超乎他所造的萬民之上，並照他所應許的使你歸耶和華－你上帝為聖潔的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

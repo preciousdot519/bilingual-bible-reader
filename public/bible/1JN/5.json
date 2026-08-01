@@ -1,0 +1,412 @@
+{
+  "bookId": "1JN",
+  "chapter": 5,
+  "bookEnglish": "1 John",
+  "bookChineseSimplified": "约翰一书",
+  "bookChineseTraditional": "約翰一書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡信耶稣是基督的，都是从 神而生，凡爱生他之 神的，也必爱从 神生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡信耶穌是基督的，都是從上帝而生，凡愛生他之上帝的，也必愛從上帝生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "By this we know that we love the children of God, when we love God and keep his commandments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若爱 神，又遵守他的诫命，从此就知道我们爱 神的儿女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若愛上帝，又遵守他的誡命，從此就知道我們愛上帝的兒女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For this is loving God, that we keep his commandments. His commandments are not grievous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们遵守 神的诫命，这就是爱他了，并且他的诫命不是难守的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們遵守上帝的誡命，這就是愛他了，並且他的誡命不是難守的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为凡从 神生的，就胜过世界；使我们胜了世界的，就是我们的信心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為凡從上帝生的，就勝過世界；使我們勝了世界的，就是我們的信心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "胜过世界的是谁呢？不是那信耶稣是 神儿子的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "勝過世界的是誰呢？不是那信耶穌是上帝兒子的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "This is he who came by water and blood, Jesus Christ; not with the water only, but with the water and the blood. It is the Spirit who testifies, because the Spirit is the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这借着水和血而来的，就是耶稣基督；不是单用水，乃是用水又用血，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這藉着水和血而來的，就是耶穌基督；不是單用水，乃是用水又用血，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For there are three who testify:",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:7 Only a few recent manuscripts add “in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that testify on earth:”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且有圣灵作见证，因为圣灵就是真理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且有聖靈作見證，因為聖靈就是真理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "the Spirit, the water, and the blood; and the three agree as one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作见证的原来有三：就是圣灵、水，与血，这三样也都归于一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作見證的原來有三：就是聖靈、水，與血，這三樣也都歸於一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "If we receive the witness of men, the witness of God is greater; for this is God’s testimony which he has testified concerning his Son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们既领受人的见证， 神的见证更该领受了，因 神的见证是为他儿子作的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:9 该领受：原文是大"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們既領受人的見證，上帝的見證更該領受了，因上帝的見證是為他兒子作的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:9 該領受：原文是大"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He who believes in the Son of God has the testimony in himself. He who doesn’t believe God has made him a liar, because he has not believed in the testimony that God has given concerning his Son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信 神儿子的，就有这见证在他心里；不信 神的，就是将 神当作说谎的，因不信 神为他儿子作的见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信上帝兒子的，就有這見證在他心裏；不信上帝的，就是將上帝當作說謊的，因不信上帝為他兒子作的見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The testimony is this: that God gave to us eternal life, and this life is in his Son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这见证就是 神赐给我们永生；这永生也是在他儿子里面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這見證就是上帝賜給我們永生；這永生也是在他兒子裏面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人有了 神的儿子就有生命，没有 神的儿子就没有生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人有了上帝的兒子就有生命，沒有上帝的兒子就沒有生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将这些话写给你们信奉 神儿子之名的人，要叫你们知道自己有永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將這些話寫給你們信奉上帝兒子之名的人，要叫你們知道自己有永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若照他的旨意求什么，他就听我们，这是我们向他所存坦然无惧的心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若照他的旨意求甚麼，他就聽我們，這是我們向他所存坦然無懼的心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既然知道他听我们一切所求的，就知道我们所求于他的，无不得着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既然知道他聽我們一切所求的，就知道我們所求於他的，無不得着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is sin leading to death. I don’t say that he should make a request concerning this.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若看见弟兄犯了不至于死的罪，就当为他祈求， 神必将生命赐给他；有至于死的罪，我不说当为这罪祈求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若看見弟兄犯了不至於死的罪，就當為他祈求，上帝必將生命賜給他；有至於死的罪，我不說當為這罪祈求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "All unrighteousness is sin, and there is sin not leading to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡不义的事都是罪，也有不至于死的罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡不義的事都是罪，也有不至於死的罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "We know that whoever is born of God doesn’t sin, but he who was born of God keeps himself, and the evil one doesn’t touch him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们知道凡从 神生的，必不犯罪，从 神生的，必保守自己，那恶者也就无法害他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:18 有古卷：那从 神生的必保护他"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們知道凡從上帝生的，必不犯罪，從上帝生的，必保守自己，那惡者也就無法害他。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:18 有古卷：那從上帝生的必保護他"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "We know that we are of God, and the whole world lies in the power of the evil one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们知道，我们是属 神的，全世界都卧在那恶者手下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們知道，我們是屬上帝的，全世界都臥在那惡者手下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "We know that the Son of God has come and has given us an understanding, that we know him who is true; and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们也知道， 神的儿子已经来到，且将智慧赐给我们，使我们认识那位真实的，我们也在那位真实的里面，就是在他儿子耶稣基督里面。这是真神，也是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們也知道，上帝的兒子已經來到，且將智慧賜給我們，使我們認識那位真實的，我們也在那位真實的裏面，就是在他兒子耶穌基督裏面。這是真神，也是永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Little children, keep yourselves from idols.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "小子们哪，你们要自守，远避偶像！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "小子們哪，你們要自守，遠避偶像！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

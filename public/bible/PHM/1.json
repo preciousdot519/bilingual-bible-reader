@@ -1,0 +1,499 @@
+{
+  "bookId": "PHM",
+  "chapter": 1,
+  "bookEnglish": "Philemon",
+  "bookChineseSimplified": "腓利门书",
+  "bookChineseTraditional": "腓利門書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 “Christ” means “Anointed One”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为基督耶稣被囚的保罗，同兄弟提摩太写信给我们所亲爱的同工腓利门，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為基督耶穌被囚的保羅，同兄弟提摩太寫信給我們所親愛的同工腓利門，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和妹子亚腓亚并与我们同当兵的亚基布，以及在你家的教会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和妹子亞腓亞並與我們同當兵的亞基布，以及在你家的教會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿恩惠、平安从 神我们的父和主耶稣基督归与你们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願恩惠、平安從上帝我們的父和主耶穌基督歸與你們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I thank my God always, making mention of you in my prayers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我祷告的时候提到你，常为你感谢我的 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我禱告的時候提到你，常為你感謝我的上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因听说你的爱心并你向主耶稣和众圣徒的信心。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:5 或译：因听说你向主耶稣和众圣徒有爱心有信心"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因聽說你的愛心並你向主耶穌和眾聖徒的信心。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:5 或譯：因聽說你向主耶穌和眾聖徒有愛心有信心"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你与人所同有的信心显出功效，使人知道你们各样善事都是为基督做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你與人所同有的信心顯出功效，使人知道你們各樣善事都是為基督做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兄弟啊，我为你的爱心，大有快乐，大得安慰，因众圣徒的心从你得了畅快。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兄弟啊，我為你的愛心，大有快樂，大得安慰，因眾聖徒的心從你得了暢快。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Therefore though I have all boldness in Christ to command you that which is appropriate,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽然靠着基督能放胆吩咐你合宜的事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖然靠着基督能放膽吩咐你合宜的事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而像我这有年纪的保罗，现在又是为基督耶稣被囚的，宁可凭着爱心求你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而像我這有年紀的保羅，現在又是為基督耶穌被囚的，寧可憑着愛心求你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I appeal to you for my child Onesimus, whom I have become the father of in my chains,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:10 Onesimus means “useful”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是为我在捆锁中所生的儿子阿尼西谋求你。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:10 就是有益处的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是為我在捆鎖中所生的兒子阿尼西謀求你。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:10 就是有益處的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "who once was useless to you, but now is useful to you and to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他从前与你没有益处，但如今与你我都有益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他從前與你沒有益處，但如今與你我都有益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I am sending him back. Therefore receive him, that is, my own heart,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现在打发他亲自回你那里去；他是我心上的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現在打發他親自回你那裏去；他是我心上的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我本来有意将他留下，在我为福音所受的捆锁中替你伺候我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我本來有意將他留下，在我為福音所受的捆鎖中替你伺候我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但不知道你的意思，我就不愿意这样行，叫你的善行不是出于勉强，乃是出于甘心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但不知道你的意思，我就不願意這樣行，叫你的善行不是出於勉強，乃是出於甘心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For perhaps he was therefore separated from you for a while that you would have him forever,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他暂时离开你，或者是叫你永远得着他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他暫時離開你，或者是叫你永遠得着他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "no longer as a slave, but more than a slave, a beloved brother—especially to me, but how much rather to you, both in the flesh and in the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不再是奴仆，乃是高过奴仆，是亲爱的兄弟。在我实在是如此，何况在你呢！这也不拘是按肉体说，是按主说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不再是奴僕，乃是高過奴僕，是親愛的兄弟。在我實在是如此，何況在你呢！這也不拘是按肉體說，是按主說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "If then you count me a partner, receive him as you would receive me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若以我为同伴，就收纳他，如同收纳我一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若以我為同伴，就收納他，如同收納我一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But if he has wronged you at all or owes you anything, put that to my account.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若亏负你，或欠你什么，都归在我的帐上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若虧負你，或欠你甚麼，都歸在我的帳上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides).",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必偿还，这是我—保罗亲笔写的。我并不用对你说，连你自己也是亏欠于我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必償還，這是我－保羅親筆寫的。我並不用對你說，連你自己也是虧欠於我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兄弟啊，望你使我在主里因你得快乐，并望你使我的心在基督里得畅快。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:20 或译：益处"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兄弟啊，望你使我在主裏因你得快樂，並望你使我的心在基督裏得暢快。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:20 或譯：益處"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我写信给你，深信你必顺服，知道你所要行的必过于我所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我寫信給你，深信你必順服，知道你所要行的必過於我所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此外你还要给我预备住处；因为我盼望借着你们的祷告，必蒙恩到你们那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此外你還要給我預備住處；因為我盼望藉着你們的禱告，必蒙恩到你們那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为基督耶稣与我同坐监的以巴弗问你安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為基督耶穌與我同坐監的以巴弗問你安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与我同工的马可、亚里达古、底马、路加也都问你安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與我同工的馬可、亞里達古、底馬、路加也都問你安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿我们主耶稣基督的恩常在你的心里。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願我們主耶穌基督的恩常在你的心裏。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

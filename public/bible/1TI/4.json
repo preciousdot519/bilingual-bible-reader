@@ -1,0 +1,307 @@
+{
+  "bookId": "1TI",
+  "chapter": 4,
+  "bookEnglish": "1 Timothy",
+  "bookChineseSimplified": "提摩太前书",
+  "bookChineseTraditional": "提摩太前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵明说，在后来的时候，必有人离弃真道，听从那引诱人的邪灵和鬼魔的道理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈明說，在後來的時候，必有人離棄真道，聽從那引誘人的邪靈和鬼魔的道理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是因为说谎之人的假冒；这等人的良心如同被热铁烙惯了一般。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是因為說謊之人的假冒；這等人的良心如同被熱鐵烙慣了一般。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们禁止嫁娶，又禁戒食物，就是 神所造、叫那信而明白真道的人感谢着领受的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:3 或译：又叫人戒荤"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們禁止嫁娶，又禁戒食物，就是上帝所造、叫那信而明白真道的人感謝着領受的。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:3 或譯：又叫人戒葷"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡 神所造的物都是好的，若感谢着领受，就没有一样可弃的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡上帝所造的物都是好的，若感謝着領受，就沒有一樣可棄的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For it is sanctified through the word of God and prayer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都因 神的道和人的祈求成为圣洁了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都因上帝的道和人的祈求成為聖潔了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若将这些事提醒弟兄们，便是基督耶稣的好执事，在真道的话语和你向来所服从的善道上得了教育。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若將這些事提醒弟兄們，便是基督耶穌的好執事，在真道的話語和你向來所服從的善道上得了教育。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But refuse profane and old wives’ fables. Exercise yourself toward godliness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是要弃绝那世俗的言语和老妇荒谬的话，在敬虔上操练自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是要棄絕那世俗的言語和老婦荒渺的話，在敬虔上操練自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「操练身体，益处还少；惟独敬虔，凡事都有益处，因有今生和来生的应许。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「操練身體，益處還少；惟獨敬虔，凡事都有益處，因有今生和來生的應許。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "This saying is faithful and worthy of all acceptance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这话是可信的，是十分可佩服的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這話是可信的，是十分可佩服的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们劳苦努力，正是为此，因我们的指望在乎永生的 神；他是万人的救主，更是信徒的救主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們勞苦努力，正是為此，因我們的指望在乎永生的上帝；他是萬人的救主，更是信徒的救主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Command and teach these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事，你要吩咐人，也要教导人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事，你要吩咐人，也要教導人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可叫人小看你年轻，总要在言语、行为、爱心、信心、清洁上，都作信徒的榜样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可叫人小看你年輕，總要在言語、行為、愛心、信心、清潔上，都作信徒的榜樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Until I come, pay attention to reading, to exhortation, and to teaching.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要以宣读、劝勉、教导为念，直等到我来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要以宣讀、勸勉、教導為念，直等到我來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不要轻忽所得的恩赐，就是从前借着预言、在众长老按手的时候赐给你的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不要輕忽所得的恩賜，就是從前藉着預言、在眾長老按手的時候賜給你的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事你要殷勤去做，并要在此专心，使众人看出你的长进来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事你要殷勤去做，並要在此專心，使眾人看出你的長進來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要谨慎自己和自己的教训，要在这些事上恒心；因为这样行，又能救自己，又能救听你的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要謹慎自己和自己的教訓，要在這些事上恆心；因為這樣行，又能救自己，又能救聽你的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

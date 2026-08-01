@@ -1,0 +1,667 @@
+{
+  "bookId": "EZR",
+  "chapter": 8,
+  "bookEnglish": "Ezra",
+  "bookChineseSimplified": "以斯拉记",
+  "bookChineseTraditional": "以斯拉記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当亚达薛西王年间，同我从巴比伦上来的人，他们的族长和他们的家谱记在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當亞達薛西王年間，同我從巴比倫上來的人，他們的族長和他們的家譜記在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属非尼哈的子孙有革顺；属以他玛的子孙有但以理；属大卫的子孙有哈突；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬非尼哈的子孫有革順；屬以他瑪的子孫有但以理；屬大衛的子孫有哈突；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属巴录的后裔，就是示迦尼的子孙有撒迦利亚，同着他，按家谱计算，男丁一百五十人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬巴錄的後裔，就是示迦尼的子孫有撒迦利亞，同着他，按家譜計算，男丁一百五十人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah; and with him two hundred males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属巴哈·摩押的子孙有西拉希雅的儿子以利约乃，同着他有男丁二百；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬巴哈‧摩押的子孫有西拉希雅的兒子以利約乃，同着他有男丁二百；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属示迦尼的子孙有雅哈悉的儿子，同着他有男丁三百；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬示迦尼的子孫有雅哈悉的兒子，同着他有男丁三百；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Of the sons of Adin, Ebed the son of Jonathan; and with him fifty males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属亚丁的子孙有约拿单的儿子以别，同着他有男丁五十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬亞丁的子孫有約拿單的兒子以別，同着他有男丁五十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属以拦的子孙有亚他利雅的儿子耶筛亚，同着他有男丁七十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬以攔的子孫有亞他利雅的兒子耶篩亞，同着他有男丁七十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Of the sons of Shephatiah, Zebadiah the son of Michael; and with him eighty males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属示法提雅的子孙有米迦勒的儿子西巴第雅，同着他有男丁八十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬示法提雅的子孫有米迦勒的兒子西巴第雅，同着他有男丁八十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred eighteen males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属约押的子孙有耶歇的儿子俄巴底亚，同着他有男丁二百一十八；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬約押的子孫有耶歇的兒子俄巴底亞，同着他有男丁二百一十八；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Of the sons of Shelomith, the son of Josiphiah; and with him one hundred sixty males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属示罗密的子孙有约细斐的儿子，同着他有男丁一百六十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬示羅密的子孫有約細斐的兒子，同着他有男丁一百六十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属比拜的子孙有比拜的儿子撒迦利亚，同着他有男丁二十八；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬比拜的子孫有比拜的兒子撒迦利亞，同着他有男丁二十八；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属押甲的子孙有哈加坦的儿子约哈难，同着他有男丁一百一十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬押甲的子孫有哈加坦的兒子約哈難，同着他有男丁一百一十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Of the sons of Adonikam, who were the last, their names are: Eliphelet, Jeuel, and Shemaiah; and with them sixty males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属亚多尼干的子孙，就是末尾的，他们的名字是以利法列、耶利、示玛雅，同着他们有男丁六十；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬亞多尼干的子孫，就是末尾的，他們的名字是以利法列、耶利、示瑪雅，同着他們有男丁六十；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属比革瓦伊的子孙有乌太和撒布，同着他们有男丁七十。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬比革瓦伊的子孫有烏太和撒布，同着他們有男丁七十。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I gathered them together to the river that runs to Ahava; and there we encamped three days. Then I looked around at the people and the priests, and found there were none of the sons of Levi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我招聚这些人在流入亚哈瓦的河边，我们在那里住了三日。我查看百姓和祭司，见没有利未人在那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我招聚這些人在流入亞哈瓦的河邊，我們在那裏住了三日。我查看百姓和祭司，見沒有利未人在那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam, chief men; also for Joiarib and for Elnathan, who were teachers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就召首领以利以谢、亚列、示玛雅、以利拿单、雅立、以利拿单、拿单、撒迦利亚、米书兰，又召教习约雅立和以利拿单。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就召首領以利以謝、亞列、示瑪雅、以利拿單、雅立、以利拿單、拿單、撒迦利亞、米書蘭，又召教習約雅立和以利拿單。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I sent them out to Iddo the chief at the place Casiphia; and I told them what they should tell Iddo and his brothers the temple servants at the place Casiphia, that they should bring to us ministers for the house of our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我打发他们往迦西斐雅地方去见那里的首领易多，又告诉他们当向易多和他的弟兄尼提宁说什么话，叫他们为我们 神的殿带使用的人来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我打發他們往迦西斐雅地方去見那裏的首領易多，又告訴他們當向易多和他的弟兄尼提寧說甚麼話，叫他們為我們上帝的殿帶使用的人來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "According to the good hand of our God on us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, with his sons and his brothers, eighteen;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蒙我们 神施恩的手帮助我们，他们在以色列的曾孙、利未的孙子、抹利的后裔中带一个通达人来；还有示利比和他的众子与弟兄共一十八人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "蒙我們上帝施恩的手幫助我們，他們在以色列的曾孫、利未的孫子、抹利的後裔中帶一個通達人來；還有示利比和他的眾子與弟兄共一十八人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有哈沙比雅，同着他有米拉利的子孙耶筛亚，并他的众子和弟兄共二十人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有哈沙比雅，同着他有米拉利的子孫耶篩亞，並他的眾子和弟兄共二十人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前大卫和众首领派尼提宁服事利未人，现在从这尼提宁中也带了二百二十人来，都是按名指定的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前大衛和眾首領派尼提寧服事利未人，現在從這尼提寧中也帶了二百二十人來，都是按名指定的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from him a straight way for us, for our little ones, and for all our possessions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，我在亚哈瓦河边宣告禁食，为要在我们 神面前克苦己心，求他使我们和妇人孩子，并一切所有的，都得平坦的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，我在亞哈瓦河邊宣告禁食，為要在我們上帝面前克苦己心，求他使我們和婦人孩子，並一切所有的，都得平坦的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy on the way, because we had spoken to the king, saying, “The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我求王拨步兵马兵帮助我们抵挡路上的仇敌，本以为羞耻；因我曾对王说：「我们 神施恩的手必帮助一切寻求他的；但他的能力和忿怒必攻击一切离弃他的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我求王撥步兵馬兵幫助我們抵擋路上的仇敵，本以為羞恥；因我曾對王說：「我們上帝施恩的手必幫助一切尋求他的；但他的能力和忿怒必攻擊一切離棄他的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "So we fasted and begged our God for this, and he granted our request.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我们禁食祈求我们的 神，他就应允了我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我們禁食祈求我們的上帝，他就應允了我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then I set apart twelve of the chiefs of the priests, even Sherebiah, Hashabiah, and ten of their brothers with them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我分派祭司长十二人，就是示利比、哈沙比雅，和他们的弟兄十人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我分派祭司長十二人，就是示利比、哈沙比雅，和他們的弟兄十人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "and weighed to them the silver, the gold, and the vessels, even the offering for the house of our God, which the king, his counselors, his princes, and all Israel there present, had offered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将王和谋士、军长，并在那里的以色列众人为我们 神殿所献的金银和器皿，都秤了交给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將王和謀士、軍長，並在那裏的以色列眾人為我們上帝殿所獻的金銀和器皿，都秤了交給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I weighed into their hand six hundred fifty talents of silver, one hundred talents of silver vessels, one hundred talents of gold,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:26 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我秤了交在他们手中的银子有六百五十他连得；银器重一百他连得；金子一百他连得；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我秤了交在他們手中的銀子有六百五十他連得；銀器重一百他連得；金子一百他連得；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "twenty bowls of gold weighing one thousand darics, and two vessels of fine bright bronze, precious as gold.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "8:27 a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "金碗二十个，重一千达利克；上等光铜的器皿两个，宝贵如金。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "金碗二十個，重一千達利克；上等光銅的器皿兩個，寶貴如金。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "I said to them, “You are holy to the LORD, and the vessels are holy. The silver and the gold are a free will offering to the LORD, the God of your fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对他们说：「你们归耶和华为圣，器皿也为圣；金银是甘心献给耶和华—你们列祖之 神的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對他們說：「你們歸耶和華為聖，器皿也為聖；金銀是甘心獻給耶和華－你們列祖之上帝的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of the LORD’s house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当警醒看守，直到你们在耶路撒冷耶和华殿的库内，在祭司长和利未族长，并以色列的各族长面前过了秤。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當警醒看守，直到你們在耶路撒冷耶和華殿的庫內，在祭司長和利未族長，並以色列的各族長面前過了秤。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，祭司、利未人按着分量接受金银和器皿，要带到耶路撒冷我们 神的殿里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，祭司、利未人按着分量接受金銀和器皿，要帶到耶路撒冷我們上帝的殿裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Then we departed from the river Ahava on the twelfth day of the first month, to go to Jerusalem. The hand of our God was on us, and he delivered us from the hand of the enemy and the bandits by the way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正月十二日，我们从亚哈瓦河边起行，要往耶路撒冷去。我们 神的手保佑我们，救我们脱离仇敌和路上埋伏之人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正月十二日，我們從亞哈瓦河邊起行，要往耶路撒冷去。我們上帝的手保佑我們，救我們脫離仇敵和路上埋伏之人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "We came to Jerusalem, and stayed there three days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们到了耶路撒冷，在那里住了三日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們到了耶路撒冷，在那裏住了三日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them were Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第四日，在我们 神的殿里把金银和器皿都秤了，交在祭司乌利亚的儿子米利末的手中。同着他有非尼哈的儿子以利亚撒，还有利未人耶书亚的儿子约撒拔和宾内的儿子挪亚底。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第四日，在我們上帝的殿裏把金銀和器皿都秤了，交在祭司烏利亞的兒子米利末的手中。同着他有非尼哈的兒子以利亞撒，還有利未人耶書亞的兒子約撒拔和賓內的兒子挪亞底。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Everything was counted and weighed; and all the weight was written at that time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当时都点了数目，按着分量写在册上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當時都點了數目，按着分量寫在冊上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从掳到之地归回的人向以色列的 神献燔祭，就是为以色列众人献公牛十二只，公绵羊九十六只，绵羊羔七十七只，又献公山羊十二只作赎罪祭，这都是向耶和华焚献的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從擄到之地歸回的人向以色列的上帝獻燔祭，就是為以色列眾人獻公牛十二隻，公綿羊九十六隻，綿羊羔七十七隻，又獻公山羊十二隻作贖罪祭，這都是向耶和華焚獻的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将王的谕旨交给王所派的总督与河西的省长，他们就帮助百姓，又供给 神殿里所需用的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將王的諭旨交給王所派的總督與河西的省長，他們就幫助百姓，又供給上帝殿裏所需用的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

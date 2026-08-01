@@ -1,0 +1,423 @@
+{
+  "bookId": "NUM",
+  "chapter": 9,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人出埃及地以后，第二年正月，耶和华在西奈的旷野吩咐摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人出埃及地以後，第二年正月，耶和華在西奈的曠野吩咐摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Let the children of Israel keep the Passover in its appointed season.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「以色列人应当在所定的日期守逾越节，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「以色列人應當在所定的日期守逾越節，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "On the fourteenth day of this month, at evening, you shall keep it in its appointed season. You shall keep it according to all its statutes and according to all its ordinances.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是本月十四日黄昏的时候，你们要在所定的日期守这节，要按这节的律例典章而守。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是本月十四日黃昏的時候，你們要在所定的日期守這節，要按這節的律例典章而守。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Moses told the children of Israel that they should keep the Passover.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是摩西吩咐以色列人守逾越节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是摩西吩咐以色列人守逾越節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They kept the Passover in the first month, on the fourteenth day of the month at evening, in the wilderness of Sinai. According to all that the LORD commanded Moses, so the children of Israel did.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就在西奈的旷野，正月十四日黄昏的时候，守逾越节。凡耶和华所吩咐摩西的，以色列人都照样行了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就在西奈的曠野，正月十四日黃昏的時候，守逾越節。凡耶和華所吩咐摩西的，以色列人都照樣行了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "There were certain men who were unclean because of the dead body of a man, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有几个人因死尸而不洁净，不能在那日守逾越节。当日他们到摩西、亚伦面前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有幾個人因死屍而不潔淨，不能在那日守逾越節。當日他們到摩西、亞倫面前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Those men said to him, “We are unclean because of the dead body of a man. Why are we kept back, that we may not offer the offering of the LORD in its appointed season among the children of Israel?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「我们虽因死尸而不洁净，为何被阻止、不得同以色列人在所定的日期献耶和华的供物呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「我們雖因死屍而不潔淨，為何被阻止、不得同以色列人在所定的日期獻耶和華的供物呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Moses answered them, “Wait, that I may hear what the LORD will command concerning you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对他们说：「你们暂且等候，我可以去听耶和华指着你们是怎样吩咐的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對他們說：「你們暫且等候，我可以去聽耶和華指着你們是怎樣吩咐的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Say to the children of Israel, ‘If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he shall still keep the Passover to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你晓谕以色列人说：你们和你们后代中，若有人因死尸而不洁净，或在远方行路，还要向耶和华守逾越节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曉諭以色列人說：你們和你們後代中，若有人因死屍而不潔淨，或在遠方行路，還要向耶和華守逾越節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "In the second month, on the fourteenth day at evening they shall keep it; they shall eat it with unleavened bread and bitter herbs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要在二月十四日黄昏的时候，守逾越节。要用无酵饼与苦菜，和逾越节的羊羔同吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要在二月十四日黃昏的時候，守逾越節。要用無酵餅與苦菜，和逾越節的羊羔同吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They shall leave none of it until the morning, nor break a bone of it. According to all the statute of the Passover they shall keep it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一点不可留到早晨；羊羔的骨头一根也不可折断。他们要照逾越节的一切律例而守。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一點不可留到早晨；羊羔的骨頭一根也不可折斷。他們要照逾越節的一切律例而守。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn’t offer the offering of the LORD in its appointed season, that man shall bear his sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那洁净而不行路的人若推辞不守逾越节，那人要从民中剪除；因为他在所定的日期不献耶和华的供物，应该担当他的罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那潔淨而不行路的人若推辭不守逾越節，那人要從民中剪除；因為他在所定的日期不獻耶和華的供物，應該擔當他的罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘If a foreigner lives among you and desires to keep the Passover to the LORD, then he shall do so according to the statute of the Passover, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有外人寄居在你们中间，愿意向耶和华守逾越节，他要照逾越节的律例典章行，不管是寄居的是本地人，同归一例。」 （出40·34—38）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有外人寄居在你們中間，願意向耶和華守逾越節，他要照逾越節的律例典章行，不管是寄居的是本地人，同歸一例。」 （出40‧34－38）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "On the day that the tabernacle was raised up, the cloud covered the tabernacle, even the Tent of the Testimony. At evening it was over the tabernacle, as it were the appearance of fire, until morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "立起帐幕的那日，有云彩遮盖帐幕，就是法柜的帐幕；从晚上到早晨，云彩在其上，形状如火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "立起帳幕的那日，有雲彩遮蓋帳幕，就是法櫃的帳幕；從晚上到早晨，雲彩在其上，形狀如火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "So it was continually. The cloud covered it, and the appearance of fire by night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "常是这样，云彩遮盖帐幕，夜间形状如火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "常是這樣，雲彩遮蓋帳幕，夜間形狀如火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Whenever the cloud was taken up from over the Tent, then after that the children of Israel traveled; and in the place where the cloud remained, there the children of Israel encamped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩几时从帐幕收上去，以色列人就几时起行；云彩在哪里停住，以色列人就在那里安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩幾時從帳幕收上去，以色列人就幾時起行；雲彩在哪裏停住，以色列人就在那裏安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "At the commandment of the LORD, the children of Israel traveled, and at the commandment of the LORD they encamped. As long as the cloud remained on the tabernacle they remained encamped.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人遵耶和华的吩咐起行，也遵耶和华的吩咐安营。云彩在帐幕上停住几时，他们就住营几时。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人遵耶和華的吩咐起行，也遵耶和華的吩咐安營。雲彩在帳幕上停住幾時，他們就住營幾時。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "When the cloud stayed on the tabernacle many days, then the children of Israel kept the LORD’s command, and didn’t travel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩在帐幕上停留许多日子，以色列人就守耶和华所吩咐的不起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩在帳幕上停留許多日子，以色列人就守耶和華所吩咐的不起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Sometimes the cloud was a few days on the tabernacle; then according to the commandment of the LORD they remained encamped, and according to the commandment of the LORD they traveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有时云彩在帐幕上几天，他们就照耶和华的吩咐住营，也照耶和华的吩咐起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有時雲彩在帳幕上幾天，他們就照耶和華的吩咐住營，也照耶和華的吩咐起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Sometimes the cloud was from evening until morning; and when the cloud was taken up in the morning, they traveled; or by day and by night, when the cloud was taken up, they traveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有时从晚上到早晨，有这云彩在帐幕上；早晨云彩收上去，他们就起行。有时昼夜云彩停在帐幕上，收上去的时候，他们就起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有時從晚上到早晨，有這雲彩在帳幕上；早晨雲彩收上去，他們就起行。有時晝夜雲彩停在帳幕上，收上去的時候，他們就起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Whether it was two days, or a month, or a year that the cloud stayed on the tabernacle, remaining on it, the children of Israel remained encamped, and didn’t travel; but when it was taken up, they traveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩停留在帐幕上，无论是两天，是一月，是一年，以色列人就住营不起行；但云彩收上去，他们就起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩停留在帳幕上，無論是兩天，是一月，是一年，以色列人就住營不起行；但雲彩收上去，他們就起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "At the commandment of the LORD they encamped, and at the commandment of the LORD they traveled. They kept the LORD’s command, at the commandment of the LORD by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们遵耶和华的吩咐安营，也遵耶和华的吩咐起行。他们守耶和华所吩咐的，都是凭耶和华吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們遵耶和華的吩咐安營，也遵耶和華的吩咐起行。他們守耶和華所吩咐的，都是憑耶和華吩咐摩西的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

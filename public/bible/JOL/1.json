@@ -1,0 +1,389 @@
+{
+  "bookId": "JOL",
+  "chapter": 1,
+  "bookEnglish": "Joel",
+  "bookChineseSimplified": "约珥书",
+  "bookChineseTraditional": "約珥書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD’s word that came to Joel, the son of Pethuel.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到毗土珥的儿子约珥。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到毗土珥的兒子約珥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Hear this, you elders, and listen, all you inhabitants of the land! Has this ever happened in your days, or in the days of your fathers?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "老年人哪，当听我的话； 国中的居民哪，都要侧耳而听。 在你们的日子， 或你们列祖的日子， 曾有这样的事吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "老年人哪，當聽我的話； 國中的居民哪，都要側耳而聽。 在你們的日子， 或你們列祖的日子， 曾有這樣的事嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Tell your children about it, and have your children tell their children, and their children, another generation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要将这事传与子， 子传与孙， 孙传与后代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要將這事傳與子， 子傳與孫， 孫傳與後代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "What the swarming locust has left, the great locust has eaten. What the great locust has left, the grasshopper has eaten. What the grasshopper has left, the caterpillar has eaten.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "剪虫剩下的，蝗虫来吃； 蝗虫剩下的，蝻子来吃； 蝻子剩下的，蚂蚱来吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "剪蟲剩下的，蝗蟲來吃； 蝗蟲剩下的，蝻子來吃； 蝻子剩下的，螞蚱來吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Wake up, you drunkards, and weep! Wail, all you drinkers of wine, because of the sweet wine, for it is cut off from your mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "酒醉的人哪，要清醒哭泣； 好酒的人哪，都要为甜酒哀号， 因为从你们的口中断绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "酒醉的人哪，要清醒哭泣； 好酒的人哪，都要為甜酒哀號， 因為從你們的口中斷絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For a nation has come up on my land, strong, and without number. His teeth are the teeth of a lion, and he has the fangs of a lioness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一队蝗虫又强盛又无数， 侵犯我的地； 它的牙齿如狮子的牙齿， 大牙如母狮的大牙。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 原文是民"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一隊蝗蟲又強盛又無數， 侵犯我的地； 牠的牙齒如獅子的牙齒， 大牙如母獅的大牙。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:6 原文是民"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He has laid my vine waste, and stripped my fig tree. He has stripped its bark, and thrown it away. Its branches are made white.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它毁坏我的葡萄树， 剥了我无花果树的皮， 剥尽而丢弃，使枝条露白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠毀壞我的葡萄樹， 剝了我無花果樹的皮， 剝盡而丟棄，使枝條露白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Mourn like a virgin dressed in sackcloth for the husband of her youth!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的民哪，你当哀号，像处女腰束麻布， 为幼年的丈夫哀号。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的民哪，你當哀號，像處女腰束麻布， 為幼年的丈夫哀號。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The meal offering and the drink offering are cut off from the LORD’s house. The priests, the LORD’s ministers, mourn.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "素祭和奠祭从耶和华的殿中断绝； 事奉耶和华的祭司都悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "素祭和奠祭從耶和華的殿中斷絕； 事奉耶和華的祭司都悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The field is laid waste. The land mourns, for the grain is destroyed, The new wine has dried up, and the oil languishes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "田荒凉，地悲哀； 因为五谷毁坏， 新酒干竭，油也缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "田荒涼，地悲哀； 因為五穀毀壞， 新酒乾竭，油也缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Be confounded, you farmers! Wail, you vineyard keepers, for the wheat and for the barley; for the harvest of the field has perished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "农夫啊，你们要惭愧； 修理葡萄园的啊，你们要哀号； 因为大麦小麦与田间的庄稼都灭绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "農夫啊，你們要慚愧； 修理葡萄園的啊，你們要哀號； 因為大麥小麥與田間的莊稼都滅絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "葡萄树枯干； 无花果树衰残。 石榴树、棕树、苹果树， 连田野一切的树木也都枯干； 众人的喜乐尽都消灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "葡萄樹枯乾； 無花果樹衰殘。 石榴樹、棕樹、蘋果樹， 連田野一切的樹木也都枯乾； 眾人的喜樂盡都消滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Put on sackcloth and mourn, you priests! Wail, you ministers of the altar. Come, lie all night in sackcloth, you ministers of my God, for the meal offering and the drink offering are withheld from your God’s house.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:13 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司啊，你们当腰束麻布痛哭； 伺候祭坛的啊，你们要哀号； 事奉我 神的啊，你们要来披上麻布过夜， 因为素祭和奠祭从你们 神的殿中断绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司啊，你們當腰束麻布痛哭； 伺候祭壇的啊，你們要哀號； 事奉我上帝的啊，你們要來披上麻布過夜， 因為素祭和奠祭從你們上帝的殿中斷絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Sanctify a fast. Call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of the LORD, your God, and cry to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要分定禁食的日子， 宣告严肃会， 招聚长老和国中的一切居民 到耶和华—你们 神的殿， 向耶和华哀求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要分定禁食的日子， 宣告嚴肅會， 招聚長老和國中的一切居民 到耶和華－你們上帝的殿， 向耶和華哀求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Alas for the day! For the day of the LORD is at hand, and it will come as destruction from the Almighty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哀哉！耶和华的日子临近了。 这日来到，好像毁灭从全能者来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哀哉！耶和華的日子臨近了。 這日來到，好像毀滅從全能者來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Isn’t the food cut off before our eyes, joy and gladness from the house of our God?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "粮食不是在我们眼前断绝了吗？ 欢喜快乐不是从我们 神的殿中止息了吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "糧食不是在我們眼前斷絕了嗎？ 歡喜快樂不是從我們上帝的殿中止息了嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The seeds rot under their clods. The granaries are laid desolate. The barns are broken down, for the grain has withered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谷种在土块下朽烂； 仓也荒凉，廪也破坏； 因为五谷枯干了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "穀種在土塊下朽爛； 倉也荒涼，廩也破壞； 因為五穀枯乾了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "How the animals groan! The herds of livestock are perplexed, because they have no pasture. Yes, the flocks of sheep are made desolate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "牲畜哀鸣； 牛群混乱，因为无草； 羊群也受了困苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牲畜哀鳴； 牛群混亂，因為無草； 羊群也受了困苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "LORD, I cry to you, for the fire has devoured the pastures of the wilderness, and the flame has burned all the trees of the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，我向你求告， 因为火烧灭旷野的草场； 火焰烧尽田野的树木。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，我向你求告， 因為火燒滅曠野的草場； 火焰燒盡田野的樹木。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Yes, the animals of the field pant to you, for the water brooks have dried up, and the fire has devoured the pastures of the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "田野的走兽向你发喘； 因为溪水干涸， 火也烧灭旷野的草场。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "田野的走獸向你發喘； 因為溪水乾涸， 火也燒滅曠野的草場。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

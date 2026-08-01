@@ -1,0 +1,389 @@
+{
+  "bookId": "ECC",
+  "chapter": 5,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Guard your steps when you go to God’s house; for to draw near to listen is better than to give the sacrifice of fools, for they don’t know that they do evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你到 神的殿要谨慎脚步；因为近前听，胜过愚昧人献祭，他们本不知道所做的是恶。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:1 或译：胜过献愚昧人的祭"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你到上帝的殿要謹慎腳步；因為近前聽，勝過愚昧人獻祭，他們本不知道所做的是惡。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:1 或譯：勝過獻愚昧人的祭"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Don’t be rash with your mouth, and don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在 神面前不可冒失开口，也不可心急发言；因为 神在天上，你在地下，所以你的言语要寡少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在上帝面前不可冒失開口，也不可心急發言；因為上帝在天上，你在地下，所以你的言語要寡少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For as a dream comes with a multitude of cares, so a fool’s speech with a multitude of words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "事务多，就令人做梦；言语多，就显出愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "事務多，就令人做夢；言語多，就顯出愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When you vow a vow to God, don’t defer to pay it; for he has no pleasure in fools. Pay that which you vow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你向 神许愿，偿还不可迟延，因他不喜悦愚昧人，所以你许的愿应当偿还。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你向上帝許願，償還不可遲延，因他不喜悅愚昧人，所以你許的願應當償還。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "It is better that you should not vow, than that you should vow and not pay.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你许愿不还，不如不许。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你許願不還，不如不許。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Don’t allow your mouth to lead you into sin. Don’t protest before the messenger that this was a mistake. Why should God be angry at your voice, and destroy the work of your hands?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可任你的口使肉体犯罪，也不可在祭司面前说是错许了。为何使 神因你的声音发怒，败坏你手所做的呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:6 原文是使者"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可任你的口使肉體犯罪，也不可在祭司面前說是錯許了。為何使上帝因你的聲音發怒，敗壞你手所做的呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:6 原文是使者"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For in the multitude of dreams there are vanities, as well as in many words; but you must fear God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "多梦和多言，其中多有虚幻，你只要敬畏 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "多夢和多言，其中多有虛幻，你只要敬畏上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "If you see the oppression of the poor, and the violent taking away of justice and righteousness in a district, don’t marvel at the matter, for one official is eyed by a higher one, and there are officials over them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若在一省之中见穷人受欺压，并夺去公义公平的事，不要因此诧异；因有一位高过居高位的鉴察，在他们以上还有更高的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若在一省之中見窮人受欺壓，並奪去公義公平的事，不要因此詫異；因有一位高過居高位的鑒察，在他們以上還有更高的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Moreover the profit of the earth is for all. The king profits from the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "况且地的益处归众人，就是君王也受田地的供应。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "況且地的益處歸眾人，就是君王也受田地的供應。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He who loves silver shall not be satisfied with silver, nor he who loves abundance, with increase. This also is vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "贪爱银子的，不因得银子知足；贪爱丰富的，也不因得利益知足。这也是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "貪愛銀子的，不因得銀子知足；貪愛豐富的，也不因得利益知足。這也是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "货物增添，吃的人也增添，物主得什么益处呢？不过眼看而已！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "貨物增添，吃的人也增添，物主得甚麼益處呢？不過眼看而已！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The sleep of a laboring man is sweet, whether he eats little or much; but the abundance of the rich will not allow him to sleep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "劳碌的人不拘吃多吃少，睡得香甜；富足人的丰满却不容他睡觉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "勞碌的人不拘吃多吃少，睡得香甜；富足人的豐滿卻不容他睡覺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "There is a grievous evil which I have seen under the sun: wealth kept by its owner to his harm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见日光之下有一宗大祸患，就是财主积存资财，反害自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見日光之下有一宗大禍患，就是財主積存資財，反害自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Those riches perish by misfortune, and if he has fathered a son, there is nothing in his hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因遭遇祸患，这些资财就消灭；那人若生了儿子，手里也一无所有。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因遭遇禍患，這些資財就消滅；那人若生了兒子，手裏也一無所有。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "As he came out of his mother’s womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他怎样从母胎赤身而来，也必照样赤身而去；他所劳碌得来的，手中分毫不能带去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他怎樣從母胎赤身而來，也必照樣赤身而去；他所勞碌得來的，手中分毫不能帶去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "This also is a grievous evil, that in all points as he came, so shall he go. And what profit does he have who labors for the wind?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他来的情形怎样，他去的情形也怎样。这也是一宗大祸患。他为风劳碌有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他來的情形怎樣，他去的情形也怎樣。這也是一宗大禍患。他為風勞碌有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "All his days he also eats in darkness, he is frustrated, and has sickness and wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且他终身在黑暗中吃喝，多有烦恼，又有病患呕气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且他終身在黑暗中吃喝，多有煩惱，又有病患嘔氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所见为善为美的，就是人在 神赐他一生的日子吃喝，享受日光之下劳碌得来的好处，因为这是他的分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所見為善為美的，就是人在上帝賜他一生的日子吃喝，享受日光之下勞碌得來的好處，因為這是他的分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神赐人资财丰富，使他能以吃用，能取自己的分，在他劳碌中喜乐，这乃是 神的恩赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝賜人資財豐富，使他能以吃用，能取自己的分，在他勞碌中喜樂，這乃是上帝的恩賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For he shall not often reflect on the days of his life, because God occupies him with the joy of his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不多思念自己一生的年日，因为 神应他的心使他喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不多思念自己一生的年日，因為上帝應他的心使他喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

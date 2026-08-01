@@ -1,0 +1,669 @@
+{
+  "bookId": "PRO",
+  "chapter": 3,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My son, don’t forget my teaching, but let your heart keep my commandments,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，不要忘记我的法则； 你心要谨守我的诫命；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:1 或译：指教"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，不要忘記我的法則； 你心要謹守我的誡命；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:1 或譯：指教"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "for they will add to you length of days, years of life, and peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为它必将长久的日子， 生命的年数与平安，加给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為它必將長久的日子， 生命的年數與平安，加給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Don’t let kindness and truth forsake you. Bind them around your neck. Write them on the tablet of your heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可使慈爱、诚实离开你， 要系在你颈项上，刻在你心版上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可使慈愛、誠實離開你， 要繫在你頸項上，刻在你心版上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "So you will find favor, and good understanding in the sight of God and man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你必在 神和世人眼前 蒙恩宠，有聪明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你必在上帝和世人眼前 蒙恩寵，有聰明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Trust in the LORD with all your heart, and don’t lean on your own understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要专心仰赖耶和华， 不可倚靠自己的聪明，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要專心仰賴耶和華， 不可倚靠自己的聰明，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "In all your ways acknowledge him, and he will make your paths straight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你一切所行的事上都要认定他， 他必指引你的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你一切所行的事上都要認定他， 他必指引你的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Don’t be wise in your own eyes. Fear the LORD, and depart from evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要自以为有智慧； 要敬畏耶和华，远离恶事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要自以為有智慧； 要敬畏耶和華，遠離惡事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "It will be health to your body, and nourishment to your bones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这便医治你的肚脐， 滋润你的百骨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這便醫治你的肚臍， 滋潤你的百骨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Honor the LORD with your substance, with the first fruits of all your increase;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要以财物 和一切初熟的土产尊荣耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要以財物 和一切初熟的土產尊榮耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "so your barns will be filled with plenty, and your vats will overflow with new wine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，你的仓房必充满有余； 你的酒榨有新酒盈溢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，你的倉房必充滿有餘； 你的酒醡有新酒盈溢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "My son, don’t despise the LORD’s discipline, neither be weary of his correction;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你不可轻看耶和华的管教， 也不可厌烦他的责备；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 或译：惩治"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你不可輕看耶和華的管教， 也不可厭煩他的責備；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:11 或譯：懲治"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "for whom the LORD loves, he corrects, even as a father reproves the son in whom he delights.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华所爱的，他必责备， 正如父亲责备所喜爱的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華所愛的，他必責備， 正如父親責備所喜愛的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Happy is the man who finds wisdom, the man who gets understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得智慧，得聪明的， 这人便为有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得智慧，得聰明的， 這人便為有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For her good profit is better than getting silver, and her return is better than fine gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为得智慧胜过得银子， 其利益强如精金，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為得智慧勝過得銀子， 其利益強如精金，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "She is more precious than rubies. None of the things you can desire are to be compared to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比珍珠宝贵； 你一切所喜爱的，都不足与比较。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或译：红宝石"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比珍珠寶貴； 你一切所喜愛的，都不足與比較。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:15 或譯：紅寶石"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Length of days is in her right hand. In her left hand are riches and honor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她右手有长寿， 左手有富贵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她右手有長壽， 左手有富貴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Her ways are ways of pleasantness. All her paths are peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她的道是安乐； 她的路全是平安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她的道是安樂； 她的路全是平安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "She is a tree of life to those who lay hold of her. Happy is everyone who retains her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她与持守她的作生命树； 持定她的，俱各有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她與持守她的作生命樹； 持定她的，俱各有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "By wisdom the LORD founded the earth. By understanding, he established the heavens.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华以智慧立地， 以聪明定天，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華以智慧立地， 以聰明定天，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "By his knowledge, the depths were broken up, and the skies drop down the dew.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以知识使深渊裂开， 使天空滴下甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以知識使深淵裂開， 使天空滴下甘露。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "My son, let them not depart from your eyes. Keep sound wisdom and discretion,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，要谨守真智慧和谋略， 不可使她离开你的眼目。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，要謹守真智慧和謀略， 不可使她離開你的眼目。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "so they will be life to your soul, and grace for your neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，她必作你的生命， 颈项的美饰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，她必作你的生命， 頸項的美飾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then you shall walk in your way securely. Your foot won’t stumble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就坦然行路， 不致碰脚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就坦然行路， 不致碰腳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When you lie down, you will not be afraid. Yes, you will lie down, and your sleep will be sweet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你躺下，必不惧怕； 你躺卧，睡得香甜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你躺下，必不懼怕； 你躺臥，睡得香甜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Don’t be afraid of sudden fear, neither of the desolation of the wicked, when it comes;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忽然来的惊恐，不要害怕； 恶人遭毁灭，也不要恐惧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "忽然來的驚恐，不要害怕； 惡人遭毀滅，也不要恐懼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "for the LORD will be your confidence, and will keep your foot from being taken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华是你所倚靠的； 他必保守你的脚不陷入网罗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華是你所倚靠的； 他必保守你的腳不陷入網羅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Don’t withhold good from those to whom it is due, when it is in the power of your hand to do it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你手若有行善的力量，不可推辞， 就当向那应得的人施行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你手若有行善的力量，不可推辭， 就當向那應得的人施行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Don’t say to your neighbor, “Go, and come again; tomorrow I will give it to you,” when you have it by you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你那里若有现成的，不可对邻舍说： 去吧，明天再来，我必给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你那裏若有現成的，不可對鄰舍說： 去吧，明天再來，我必給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Don’t devise evil against your neighbor, since he dwells securely by you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的邻舍既在你附近安居， 你不可设计害他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的鄰舍既在你附近安居， 你不可設計害他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Don’t strive with a man without cause, if he has done you no harm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人未曾加害与你， 不可无故与他相争。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人未曾加害與你， 不可無故與他相爭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Don’t envy the man of violence. Choose none of his ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可嫉妒强暴的人， 也不可选择他所行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可嫉妒強暴的人， 也不可選擇他所行的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "For the perverse is an abomination to the LORD, but his friendship is with the upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，乖僻人为耶和华所憎恶； 正直人为他所亲密。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，乖僻人為耶和華所憎惡； 正直人為他所親密。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The LORD’s curse is in the house of the wicked, but he blesses the habitation of the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华咒诅恶人的家庭， 赐福与义人的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華咒詛惡人的家庭， 賜福與義人的居所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Surely he mocks the mockers, but he gives grace to the humble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他讥诮那好讥诮的人， 赐恩给谦卑的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他譏誚那好譏誚的人， 賜恩給謙卑的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The wise will inherit glory, but shame will be the promotion of fools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人必承受尊荣； 愚昧人高升也成为羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人必承受尊榮； 愚昧人高升也成為羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

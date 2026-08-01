@@ -1,0 +1,240 @@
+{
+  "bookId": "ZEC",
+  "chapter": 10,
+  "bookEnglish": "Zechariah",
+  "bookChineseSimplified": "撒迦利亚书",
+  "bookChineseTraditional": "撒迦利亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Ask of the LORD rain in the spring time, the LORD who makes storm clouds, and he gives rain showers to everyone for the plants in the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当春雨的时候， 你们要向发闪电的耶和华求雨。 他必为众人降下甘霖， 使田园生长菜蔬。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當春雨的時候， 你們要向發閃電的耶和華求雨。 他必為眾人降下甘霖， 使田園生長菜蔬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For the teraphim have spoken vanity, and the diviners have seen a lie; and they have told false dreams. They comfort in vain. Therefore they go their way like sheep. They are oppressed, because there is no shepherd.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:2 teraphim were household idols that may have been associated with inheritance rights to the household property."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，家神所言的是虚空； 卜士所见的是虚假； 做梦者所说的是假梦。 他们白白地安慰人， 所以众人如羊流离， 因无牧人就受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，家神所言的是虛空； 卜士所見的是虛假； 做夢者所說的是假夢。 他們白白地安慰人， 所以眾人如羊流離， 因無牧人就受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "My anger is kindled against the shepherds, and I will punish the male goats, for the LORD of Armies has visited his flock, the house of Judah, and will make them as his majestic horse in the battle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的怒气向牧人发作； 我必惩罚公山羊； 因我—万军之耶和华 眷顾自己的羊群，就是犹大家， 必使他们如骏马在阵上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的怒氣向牧人發作； 我必懲罰公山羊； 因我－萬軍之耶和華 眷顧自己的羊群，就是猶大家， 必使他們如駿馬在陣上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "From him will come the cornerstone, from him the tent peg, from him the battle bow, from him every ruler together.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "房角石、钉子、争战的弓， 和一切掌权的都从他而出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "房角石、釘子、爭戰的弓， 和一切掌權的都從他而出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They will be as mighty men, treading down muddy streets in the battle. They will fight, because the LORD is with them. The riders on horses will be confounded.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必如勇士在阵上 将仇敌践踏在街上的泥土中。 他们必争战，因为耶和华与他们同在； 骑马的也必羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必如勇士在陣上 將仇敵踐踏在街上的泥土中。 他們必爭戰，因為耶和華與他們同在； 騎馬的也必羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“I will strengthen the house of Judah, and I will save the house of Joseph. I will bring them back, for I have mercy on them. They will be as though I had not cast them off, for I am the LORD their God, and I will hear them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要坚固犹大家，拯救约瑟家， 要领他们归回。 我要怜恤他们； 他们必像未曾弃绝的一样， 都因我是耶和华—他们的 神， 我必应允他们的祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要堅固猶大家，拯救約瑟家， 要領他們歸回。 我要憐恤他們； 他們必像未曾棄絕的一樣， 都因我是耶和華－他們的上帝， 我必應允他們的禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Ephraim will be like a mighty man, and their heart will rejoice as through wine. Yes, their children will see it and rejoice. Their heart will be glad in the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以法莲人必如勇士； 他们心中畅快如同喝酒； 他们的儿女必看见而快活； 他们的心必因耶和华喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以法蓮人必如勇士； 他們心中暢快如同喝酒； 他們的兒女必看見而快活； 他們的心必因耶和華喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I will signal for them and gather them, for I have redeemed them. They will increase as they were before.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要发嘶声，聚集他们， 因我已经救赎他们。 他们的人数必加增， 如从前加增一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要發嘶聲，聚集他們， 因我已經救贖他們。 他們的人數必加增， 如從前加增一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I will sow them among the peoples. They will remember me in far countries. They will live with their children and will return.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽然播散他们在列国中， 他们必在远方记念我。 他们与儿女都必存活，且得归回。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:9 或译：必"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖然播散他們在列國中， 他們必在遠方記念我。 他們與兒女都必存活，且得歸回。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:9 或譯：必"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I will bring them again also out of the land of Egypt, and gather them out of Assyria. I will bring them into the land of Gilead and Lebanon; and there won’t be room enough for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必再领他们出埃及地， 招聚他们出亚述， 领他们到基列和黎巴嫩； 这地尚且不够他们居住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必再領他們出埃及地， 招聚他們出亞述， 領他們到基列和黎巴嫩； 這地尚且不夠他們居住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He will pass through the sea of affliction, and will strike the waves in the sea, and all the depths of the Nile will dry up; and the pride of Assyria will be brought down, and the scepter of Egypt will depart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必经过苦海，击打海浪， 使尼罗河的深处都枯干。 亚述的骄傲必致卑微； 埃及的权柄必然灭没。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必經過苦海，擊打海浪， 使尼羅河的深處都枯乾。 亞述的驕傲必致卑微； 埃及的權柄必然滅沒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I will strengthen them in the LORD. They will walk up and down in his name,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必使他们倚靠我，得以坚固； 一举一动必奉我的名。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必使他們倚靠我，得以堅固； 一舉一動必奉我的名。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

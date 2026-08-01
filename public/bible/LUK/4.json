@@ -1,0 +1,846 @@
+{
+  "bookId": "LUK",
+  "chapter": 4,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣被圣灵充满，从约旦河回来，圣灵将他引到旷野，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌被聖靈充滿，從約旦河回來，聖靈將他引到曠野，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "for forty days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四十天受魔鬼的试探。那些日子没有吃什么；日子满了，他就饿了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四十天受魔鬼的試探。那些日子沒有吃甚麼；日子滿了，他就餓了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The devil said to him, “If you are the Son of God, command this stone to become bread.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼对他说：「你若是 神的儿子，可以吩咐这块石头变成食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼對他說：「你若是上帝的兒子，可以吩咐這塊石頭變成食物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Jesus answered him, saying, “Itis written, ‘Man shall not live by bread alone, but by every word of God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:4 Deuteronomy 8:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「经上记着说：『人活着不是单靠食物，乃是靠 神口里所出的一切话。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「經上記着說：『人活着不是單靠食物，乃是靠上帝口裏所出的一切話。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The devil, leading him up on a high mountain, showed him all the kingdoms of the world in a moment of time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼又领他上了高山，霎时间把天下的万国都指给他看，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼又領他上了高山，霎時間把天下的萬國都指給他看，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The devil said to him, “I will give you all this authority and their glory, for it has been delivered to me, and I give it to whomever I want.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他说：「这一切权柄、荣华，我都要给你，因为这原是交付我的，我愿意给谁就给谁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「這一切權柄、榮華，我都要給你，因為這原是交付我的，我願意給誰就給誰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "If you therefore will worship before me, it will all be yours.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若在我面前下拜，这都要归你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若在我面前下拜，這都要歸你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Jesus answered him, “Getbehind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:8 Deuteronomy 6:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「经上记着说： 当拜主—你的 神， 单要事奉他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「經上記着說： 當拜主－你的上帝， 單要事奉他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He led him to Jerusalem and set him on the pinnacle of the temple, and said to him, “If you are the Son of God, cast yourself down from here,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼又领他到耶路撒冷去，叫他站在殿顶上，对他说：「你若是 神的儿子，可以从这里跳下去；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:9 顶：原文是翅"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼又領他到耶路撒冷去，叫他站在殿頂上，對他說：「你若是上帝的兒子，可以從這裏跳下去；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:9 頂：原文是翅"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "for it is written, ‘He will put his angels in charge of you, to guard you;’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为经上记着说： 主要为你吩咐他的使者保护你；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為經上記着說： 主要為你吩咐他的使者保護你；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "and, ‘On their hands they will bear you up, lest perhaps you dash your foot against a stone.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:11 Psalms 91:11-12",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他们要用手托着你， 免得你的脚碰在石头上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要用手托着你， 免得你的腳碰在石頭上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jesus answering, said to him, “Ithas been said, ‘You shall not tempt the Lord your God.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:12 Deuteronomy 6:16",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「经上说：『不可试探主—你的 神。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「經上說：『不可試探主－你的上帝。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When the devil had completed every temptation, he departed from him until another time.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "魔鬼用完了各样的试探，就暂时离开耶稣。 （太4·12—17；可1·14—15）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "魔鬼用完了各樣的試探，就暫時離開耶穌。 （太4‧12－17；可1‧14－15）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Jesus returned in the power of the Spirit into Galilee, and news about him spread through all the surrounding area.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣满有圣灵的能力，回到加利利；他的名声就传遍了四方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌滿有聖靈的能力，回到加利利；他的名聲就傳遍了四方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He taught in their synagogues, being glorified by all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在各会堂里教训人，众人都称赞他。 （太13·53—58；可6·1—6）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在各會堂裏教訓人，眾人都稱讚他。 （太13‧53－58；可6‧1－6）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He came to Nazareth, where he had been brought up. He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣来到拿撒勒，就是他长大的地方。在安息日，照他平常的规矩进了会堂，站起来要念圣经。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌來到拿撒勒，就是他長大的地方。在安息日，照他平常的規矩進了會堂，站起來要念聖經。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The book of the prophet Isaiah was handed to him. He opened the book, and found the place where it was written,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人把先知以赛亚的书交给他，他就打开，找到一处写着说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人把先知以賽亞的書交給他，他就打開，找到一處寫着說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“TheSpirit of the Lord is on me, becausehe has anointed me to preach good news to the poor. Hehas sent me to heal the broken hearted, toproclaim release to the captives, recovering ofsight to the blind, todeliver those who are crushed,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:18 NU omits “to heal the broken hearted”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主的灵在我身上， 因为他用膏膏我， 叫我传福音给贫穷的人； 差遣我报告： 被掳的得释放， 瞎眼的得看见， 叫那受压制的得自由，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主的靈在我身上， 因為他用膏膏我， 叫我傳福音給貧窮的人； 差遣我報告： 被擄的得釋放， 瞎眼的得看見， 叫那受壓制的得自由，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "andto proclaim the acceptable year of the Lord.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:19 Isaiah 61:1-2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "报告 神悦纳人的禧年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "報告上帝悅納人的禧年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He closed the book, gave it back to the attendant, and sat down. The eyes of all in the synagogue were fastened on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是把书卷起来，交还执事，就坐下。会堂里的人都定睛看他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是把書捲起來，交還執事，就坐下。會堂裏的人都定睛看他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He began to tell them, “Today, this Scripture has been fulfilled in your hearing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「今天这经应验在你们耳中了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「今天這經應驗在你們耳中了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "All testified about him and wondered at the gracious words which proceeded out of his mouth; and they said, “Isn’t this Joseph’s son?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人都称赞他，并希奇他口中所出的恩言；又说：「这不是约瑟的儿子吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人都稱讚他，並希奇他口中所出的恩言；又說：「這不是約瑟的兒子嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said to them, “Doubtless youwill tell me this proverb, ‘Physician, heal yourself! Whatever we have heard done at Capernaum, do also here in your hometown.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们必引这俗语向我说：『医生，你医治自己吧！我们听见你在迦百农所行的事，也当行在你自己家乡里』」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們必引這俗語向我說：『醫生，你醫治自己吧！我們聽見你在迦百農所行的事，也當行在你自己家鄉裏』」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He said, “Most certainly Itell you, no prophet is acceptable in his hometown.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我实在告诉你们，没有先知在自己家乡被人悦纳的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我實在告訴你們，沒有先知在自己家鄉被人悅納的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Buttruly I tell you, there were many widows in Israel in the days of Elijah, when the sky was shut up three years and six months, when a great famine came over all the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们说实话，当以利亚的时候，天闭塞了三年零六个月，遍地有大饥荒，那时，以色列中有许多寡妇，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們說實話，當以利亞的時候，天閉塞了三年零六個月，遍地有大饑荒，那時，以色列中有許多寡婦，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Elijahwas sent to none of them, except to Zarephath, in the land of Sidon, to a woman who was a widow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚并没有奉差往她们一个人那里去，只奉差往西顿的撒勒法一个寡妇那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞並沒有奉差往她們一個人那裏去，只奉差往西頓的撒勒法一個寡婦那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Therewere many lepers in Israel in the time of Elisha the prophet, yet not one of them was cleansed, except Naaman, the Syrian.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先知以利沙的时候，以色列中有许多长大麻风的，但内中除了叙利亚国的乃缦，没有一个得洁净的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先知以利沙的時候，以色列中有許多長大痲瘋的，但內中除了敘利亞國的乃縵，沒有一個得潔淨的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They were all filled with wrath in the synagogue as they heard these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "会堂里的人听见这话，都怒气满胸，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "會堂裏的人聽見這話，都怒氣滿胸，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They rose up, threw him out of the city, and led him to the brow of the hill that their city was built on, that they might throw him off the cliff.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就起来撵他出城（他们的城造在山上）；他们带他到山崖，要把他推下去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就起來攆他出城（他們的城造在山上）；他們帶他到山崖，要把他推下去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "But he, passing through the middle of them, went his way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他却从他们中间直行，过去了。 （可1·21—28）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他卻從他們中間直行，過去了。 （可1‧21－28）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "He came down to Capernaum, a city of Galilee. He was teaching them on the Sabbath day,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣下到迦百农，就是加利利的一座城，在安息日教训众人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌下到迦百農，就是加利利的一座城，在安息日教訓眾人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "and they were astonished at his teaching, for his word was with authority.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们很希奇他的教训，因为他的话里有权柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們很希奇他的教訓，因為他的話裏有權柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "In the synagogue there was a man who had a spirit of an unclean demon; and he cried out with a loud voice,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在会堂里有一个人，被污鬼的精气附着，大声喊叫说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在會堂裏有一個人，被污鬼的精氣附着，大聲喊叫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "saying, “Ah! what have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「唉！拿撒勒的耶稣，我们与你有什么相干？你来灭我们吗？我知道你是谁，乃是 神的圣者。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「唉！拿撒勒的耶穌，我們與你有甚麼相干？你來滅我們嗎？我知道你是誰，乃是上帝的聖者。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Jesus rebuked him, saying, “Besilent and come out of him!” When the demon had thrown him down in the middle of them, he came out of him, having done him no harm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣责备他说：「不要作声，从这人身上出来吧！」鬼把那人摔倒在众人中间，就出来了，却也没有害他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌責備他說：「不要作聲，從這人身上出來吧！」鬼把那人摔倒在眾人中間，就出來了，卻也沒有害他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Amazement came on all and they spoke together, one with another, saying, “What is this word? For with authority and power he commands the unclean spirits, and they come out!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人都惊讶，彼此对问说：「这是什么道理呢？因为他用权柄能力吩咐污鬼，污鬼就出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人都驚訝，彼此對問說：「這是甚麼道理呢？因為他用權柄能力吩咐污鬼，污鬼就出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "News about him went out into every place of the surrounding region.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶稣的名声传遍了周围地方。 （太8·14—17；可1·29—34）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶穌的名聲傳遍了周圍地方。 （太8‧14－17；可1‧29－34）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He rose up from the synagogue and entered into Simon’s house. Simon’s mother-in-law was afflicted with a great fever, and they begged him to help her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣出了会堂，进了西门的家。西门的岳母害热病甚重，有人为她求耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌出了會堂，進了西門的家。西門的岳母害熱病甚重，有人為她求耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "He stood over her and rebuked the fever, and it left her. Immediately she rose up and served them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣站在她旁边，斥责那热病，热就退了。她立刻起来服事他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌站在她旁邊，斥責那熱病，熱就退了。她立刻起來服事他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "When the sun was setting, all those who had any sick with various diseases brought them to him; and he laid his hands on every one of them, and healed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日落的时候，凡有病人的，不论害什么病，都带到耶稣那里。耶稣按手在他们各人身上，医好他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日落的時候，凡有病人的，不論害甚麼病，都帶到耶穌那裏。耶穌按手在他們各人身上，醫好他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Demons also came out of many, crying out and saying, “You are the Christ, the Son of God!” Rebuking them, he didn’t allow them to speak, because they knew that he was the Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有鬼从好些人身上出来，喊着说：「你是 神的儿子。」耶稣斥责他们，不许他们说话，因为他们知道他是基督。 （可1·35—39）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有鬼從好些人身上出來，喊着說：「你是上帝的兒子。」耶穌斥責他們，不許他們說話，因為他們知道他是基督。 （可1‧35－39）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "When it was day, he departed and went into an uninhabited place and the multitudes looked for him, and came to him, and held on to him, so that he wouldn’t go away from them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天亮的时候，耶稣出来，走到旷野地方。众人去找他，到了他那里，要留住他，不要他离开他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天亮的時候，耶穌出來，走到曠野地方。眾人去找他，到了他那裏，要留住他，不要他離開他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "But he said to them, “Imust preach the good news of God’s Kingdom to the other cities also. For this reason I have been sent.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但耶稣对他们说：「我也必须在别城传 神国的福音，因我奉差原是为此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但耶穌對他們說：「我也必須在別城傳上帝國的福音，因我奉差原是為此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "He was preaching in the synagogues of Galilee.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶稣在加利利的各会堂传道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶穌在加利利的各會堂傳道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

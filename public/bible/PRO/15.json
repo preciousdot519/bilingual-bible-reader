@@ -1,0 +1,613 @@
+{
+  "bookId": "PRO",
+  "chapter": 15,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "回答柔和，使怒消退； 言语暴戾，触动怒气。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "回答柔和，使怒消退； 言語暴戾，觸動怒氣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The tongue of the wise commends knowledge, but the mouths of fools gush out folly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的舌善发知识； 愚昧人的口吐出愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的舌善發知識； 愚昧人的口吐出愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD’s eyes are everywhere, keeping watch on the evil and the good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的眼目无处不在； 恶人善人，他都鉴察。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的眼目無處不在； 惡人善人，他都鑒察。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "A gentle tongue is a tree of life, but deceit in it crushes the spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "温良的舌是生命树； 乖谬的嘴使人心碎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "溫良的舌是生命樹； 乖謬的嘴使人心碎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A fool despises his father’s correction, but he who heeds reproof shows prudence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚妄人藐视父亲的管教； 领受责备的，得着见识。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚妄人藐視父親的管教； 領受責備的，得着見識。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "In the house of the righteous is much treasure, but the income of the wicked brings trouble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人家中多有财宝； 恶人得利反受扰害。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人家中多有財寶； 惡人得利反受擾害。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The lips of the wise spread knowledge; not so with the heart of fools.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的嘴播扬知识； 愚昧人的心并不如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的嘴播揚知識； 愚昧人的心並不如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The sacrifice made by the wicked is an abomination to the LORD, but the prayer of the upright is his delight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人献祭，为耶和华所憎恶； 正直人祈祷，为他所喜悦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人獻祭，為耶和華所憎惡； 正直人祈禱，為他所喜悅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The way of the wicked is an abomination to the LORD, but he loves him who follows after righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人的道路，为耶和华所憎恶； 追求公义的，为他所喜爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人的道路，為耶和華所憎惡； 追求公義的，為他所喜愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "There is stern discipline for one who forsakes the way. Whoever hates reproof shall die.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "舍弃正路的，必受严刑； 恨恶责备的，必致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "捨棄正路的，必受嚴刑； 恨惡責備的，必致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Sheol and Abaddon are before the LORD— how much more then the hearts of the children of men!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:11 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "阴间和灭亡尚在耶和华眼前， 何况世人的心呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "陰間和滅亡尚在耶和華眼前， 何況世人的心呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "A scoffer doesn’t love to be reproved; he will not go to the wise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亵慢人不爱受责备； 他也不就近智慧人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "褻慢人不愛受責備； 他也不就近智慧人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "A glad heart makes a cheerful face, but an aching heart breaks the spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心中喜乐，面带笑容； 心里忧愁，灵被损伤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心中喜樂，面帶笑容； 心裏憂愁，靈被損傷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The heart of one who has understanding seeks knowledge, but the mouths of fools feed on folly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "聪明人心求知识； 愚昧人口吃愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聰明人心求知識； 愚昧人口吃愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "All the days of the afflicted are wretched, but one who has a cheerful heart enjoys a continual feast.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "困苦人的日子都是愁苦； 心中欢畅的，常享丰筵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "困苦人的日子都是愁苦； 心中歡暢的，常享豐筵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Better is little, with the fear of the LORD, than great treasure with trouble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "少有财宝，敬畏耶和华， 强如多有财宝，烦乱不安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "少有財寶，敬畏耶和華， 強如多有財寶，煩亂不安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Better is a dinner of herbs, where love is, than a fattened calf with hatred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吃素菜，彼此相爱， 强如吃肥牛，彼此相恨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吃素菜，彼此相愛， 強如吃肥牛，彼此相恨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "A wrathful man stirs up contention, but one who is slow to anger appeases strife.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "暴怒的人挑启争端； 忍怒的人止息纷争。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "暴怒的人挑啟爭端； 忍怒的人止息紛爭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The way of the sluggard is like a thorn patch, but the path of the upright is a highway.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人的道像荆棘的篱笆； 正直人的路是平坦的大道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人的道像荊棘的籬笆； 正直人的路是平坦的大道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "A wise son makes a father glad, but a foolish man despises his mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧子使父亲喜乐； 愚昧人藐视母亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧子使父親喜樂； 愚昧人藐視母親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Folly is joy to one who is void of wisdom, but a man of understanding keeps his way straight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无知的人以愚妄为乐； 聪明的人按正直而行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無知的人以愚妄為樂； 聰明的人按正直而行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不先商议，所谋无效； 谋士众多，所谋乃成。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不先商議，所謀無效； 謀士眾多，所謀乃成。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Joy comes to a man with the reply of his mouth. How good is a word at the right time!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "口善应对，自觉喜乐； 话合其时，何等美好。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "口善應對，自覺喜樂； 話合其時，何等美好。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The path of life leads upward for the wise, to keep him from going downward to Sheol.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "15:24 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人从生命的道上升， 使他远离在下的阴间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人從生命的道上升， 使他遠離在下的陰間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The LORD will uproot the house of the proud, but he will keep the widow’s borders intact.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华必拆毁骄傲人的家， 却要立定寡妇的地界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華必拆毀驕傲人的家， 卻要立定寡婦的地界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The LORD detests the thoughts of the wicked, but the thoughts of the pure are pleasing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶谋为耶和华所憎恶； 良言乃为纯净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡謀為耶和華所憎惡； 良言乃為純淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He who is greedy for gain troubles his own house, but he who hates bribes will live.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "贪恋财利的，扰害己家； 恨恶贿赂的，必得存活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "貪戀財利的，擾害己家； 恨惡賄賂的，必得存活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The heart of the righteous weighs answers, but the mouth of the wicked gushes out evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的心，思量如何回答； 恶人的口吐出恶言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的心，思量如何回答； 惡人的口吐出惡言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The LORD is far from the wicked, but he hears the prayer of the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华远离恶人， 却听义人的祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華遠離惡人， 卻聽義人的禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The light of the eyes rejoices the heart. Good news gives health to the bones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "眼有光，使心喜乐； 好信息，使骨滋润。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眼有光，使心喜樂； 好信息，使骨滋潤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The ear that listens to reproof lives, and will be at home among the wise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听从生命责备的， 必常在智慧人中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽從生命責備的， 必常在智慧人中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He who refuses correction despises his own soul, but he who listens to reproof gets understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弃绝管教的，轻看自己的生命； 听从责备的，却得智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "棄絕管教的，輕看自己的生命； 聽從責備的，卻得智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The fear of the LORD teaches wisdom. Before honor is humility.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敬畏耶和华是智慧的训诲； 尊荣以前，必有谦卑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敬畏耶和華是智慧的訓誨； 尊榮以前，必有謙卑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

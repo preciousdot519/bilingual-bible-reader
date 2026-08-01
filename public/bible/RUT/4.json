@@ -1,0 +1,420 @@
+{
+  "bookId": "RUT",
+  "chapter": 4,
+  "bookEnglish": "Ruth",
+  "bookChineseSimplified": "路得记",
+  "bookChineseTraditional": "路得記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Boaz went up to the gate and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, “Come over here, friend, and sit down!” He came over, and sat down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯到了城门，坐在那里，恰巧波阿斯所说的那至近的亲属经过。波阿斯说：「某人哪，你来坐在这里。」他就来坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯到了城門，坐在那裏，恰巧波阿斯所說的那至近的親屬經過。波阿斯說：「某人哪，你來坐在這裏。」他就來坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Boaz took ten men of the elders of the city, and said, “Sit down here,” and they sat down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯又从本城的长老中拣选了十人，对他们说：「请你们坐在这里。」他们就都坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯又從本城的長老中揀選了十人，對他們說：「請你們坐在這裏。」他們就都坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said to the near kinsman, “Naomi, who has come back out of the country of Moab, is selling the parcel of land, which was our brother Elimelech’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯对那至近的亲属说：「从摩押地回来的拿俄米，现在要卖我们族兄以利米勒的那块地；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯對那至近的親屬說：「從摩押地回來的拿俄米，現在要賣我們族兄以利米勒的那塊地；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I thought I should tell you, saying, ‘Buy it before those who sit here, and before the elders of my people.’ If you will redeem it, redeem it; but if you will not redeem it, then tell me, that I may know. For there is no one to redeem it besides you; and I am after you.” He said, “I will redeem it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我想当赎那块地的是你，其次是我，以外再没有别人了。你可以在这里的人面前和我本国的长老面前说明，你若肯赎就赎，若不肯赎就告诉我。」那人回答说：「我肯赎。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我想當贖那塊地的是你，其次是我，以外再沒有別人了。你可以在這裏的人面前和我本國的長老面前說明，你若肯贖就贖，若不肯贖就告訴我。」那人回答說：「我肯贖。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then Boaz said, “On the day you buy the field from the hand of Naomi, you must buy it also from Ruth the Moabitess, the wife of the dead, to raise up the name of the dead on his inheritance.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯说：「你从拿俄米手中买这地的时候，也当娶死人的妻摩押女子路得，使死人在产业上存留他的名。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:5 原文是买；十节同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯說：「你從拿俄米手中買這地的時候，也當娶死人的妻摩押女子路得，使死人在產業上存留他的名。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:5 原文是買；十節同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The near kinsman said, “I can’t redeem it for myself, lest I endanger my own inheritance. Take my right of redemption for yourself; for I can’t redeem it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人说：「这样我就不能赎了，恐怕于我的产业有碍。你可以赎我所当赎的，我不能赎了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人說：「這樣我就不能贖了，恐怕於我的產業有礙。你可以贖我所當贖的，我不能贖了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Now this was the custom in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man took off his sandal, and gave it to his neighbor; and this was the way of formalizing transactions in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前，在以色列中要定夺什么事，或赎回，或交易，这人就脱鞋给那人。以色列人都以此为证据。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前，在以色列中要定奪甚麼事，或贖回，或交易，這人就脫鞋給那人。以色列人都以此為證據。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "So the near kinsman said to Boaz, “Buy it for yourself,” then he took off his sandal.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人对波阿斯说：「你自己买吧！」于是将鞋脱下来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人對波阿斯說：「你自己買吧！」於是將鞋脫下來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Boaz said to the elders and to all the people, “You are witnesses today, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, from the hand of Naomi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯对长老和众民说：「你们今日作见证，凡属以利米勒和基连、玛伦的，我都从拿俄米手中置买了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯對長老和眾民說：「你們今日作見證，凡屬以利米勒和基連、瑪倫的，我都從拿俄米手中置買了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Moreover, Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife, to raise up the name of the dead on his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his place. You are witnesses today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又娶了玛伦的妻摩押女子路得为妻，好在死人的产业上存留他的名，免得他的名在本族本乡灭没。你们今日可以作见证。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又娶了瑪倫的妻摩押女子路得為妻，好在死人的產業上存留他的名，免得他的名在本族本鄉滅沒。你們今日可以作見證。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "All the people who were in the gate, and the elders, said, “We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在城门坐着的众民和长老都说：「我们作见证。愿耶和华使进你家的这女子，像建立以色列家的拉结、利亚二人一样。又愿你在以法他得亨通，在伯利恒得名声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在城門坐着的眾民和長老都說：「我們作見證。願耶和華使進你家的這女子，像建立以色列家的拉結、利亞二人一樣。又願你在以法他得亨通，在伯利恆得名聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring which the LORD will give you by this young woman.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:12 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿耶和华从这少年女子赐你后裔，使你的家像她玛从犹大所生法勒斯的家一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願耶和華從這少年女子賜你後裔，使你的家像她瑪從猶大所生法勒斯的家一般。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "So Boaz took Ruth and she became his wife; and he went in to her, and the LORD enabled her to conceive, and she bore a son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，波阿斯娶了路得为妻，与她同房。耶和华使她怀孕生了一个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，波阿斯娶了路得為妻，與她同房。耶和華使她懷孕生了一個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The women said to Naomi, “Blessed be the LORD, who has not left you today without a near kinsman. Let his name be famous in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人们对拿俄米说：「耶和华是应当称颂的！因为今日没有撇下你，使你无至近的亲属。愿这孩子在以色列中得名声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人們對拿俄米說：「耶和華是應當稱頌的！因為今日沒有撇下你，使你無至近的親屬。願這孩子在以色列中得名聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He shall be to you a restorer of life and sustain you in your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必提起你的精神，奉养你的老，因为是爱慕你的那儿妇所生的。有这儿妇比有七个儿子还好！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必提起你的精神，奉養你的老，因為是愛慕你的那兒婦所生的。有這兒婦比有七個兒子還好！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Naomi took the child, laid him in her bosom, and became nurse to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿俄米就把孩子抱在怀中，作他的养母。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿俄米就把孩子抱在懷中，作他的養母。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The women, her neighbors, gave him a name, saying, “A son is born to Naomi”. They named him Obed. He is the father of Jesse, the father of David.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邻舍的妇人说：「拿俄米得孩子了！」就给孩子起名叫俄备得。这俄备得是耶西的父，耶西是大卫的父。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鄰舍的婦人說：「拿俄米得孩子了！」就給孩子起名叫俄備得。這俄備得是耶西的父，耶西是大衛的父。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now this is the history of the generations of Perez: Perez became the father of Hezron,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法勒斯的后代记在下面：法勒斯生希斯 ；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法勒斯的後代記在下面：法勒斯生希斯崙；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and Hezron became the father of Ram, and Ram became the father of Amminadab,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 生兰；兰生亚米拿达；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙生蘭；蘭生亞米拿達；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "and Amminadab became the father of Nahshon, and Nahshon became the father of Salmon,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚米拿达生拿顺；拿顺生撒门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞米拿達生拿順；拿順生撒門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and Salmon became the father of Boaz, and Boaz became the father of Obed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒门生波阿斯；波阿斯生俄备得；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒門生波阿斯；波阿斯生俄備得；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "and Obed became the father of Jesse, and Jesse became the father of David.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "俄备得生耶西；耶西生大卫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "俄備得生耶西；耶西生大衛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

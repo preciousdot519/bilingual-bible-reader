@@ -1,0 +1,350 @@
+{
+  "bookId": "2CO",
+  "chapter": 4,
+  "bookEnglish": "2 Corinthians",
+  "bookChineseSimplified": "哥林多后书",
+  "bookChineseTraditional": "哥林多後書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们既然蒙怜悯，受了这职分，就不丧胆，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們既然蒙憐憫，受了這職分，就不喪膽，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乃将那些暗昧可耻的事弃绝了；不行诡诈，不谬讲 神的道理，只将真理表明出来，好在 神面前把自己荐与各人的良心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "乃將那些暗昧可恥的事棄絕了；不行詭詐，不謬講上帝的道理，只將真理表明出來，好在上帝面前把自己薦與各人的良心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Even if our Good News is veiled, it is veiled in those who are dying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如果我们的福音蒙蔽，就是蒙蔽在灭亡的人身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如果我們的福音蒙蔽，就是蒙蔽在滅亡的人身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "in whom the god of this world has blinded the minds of the unbelieving, that the light of the Good News of the glory of Christ, who is the image of God, should not dawn on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此等不信之人被这世界的神弄瞎了心眼，不叫基督荣耀福音的光照着他们。基督本是 神的像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此等不信之人被這世界的神弄瞎了心眼，不叫基督榮耀福音的光照着他們。基督本是上帝的像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For we don’t preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们原不是传自己，乃是传基督耶稣为主，并且自己因耶稣作你们的仆人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們原不是傳自己，乃是傳基督耶穌為主，並且自己因耶穌作你們的僕人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "seeing it is God who said, “Light will shine out of darkness,” who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:6 Genesis 1:3",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "那吩咐光从黑暗里照出来的 神，已经照在我们心里，叫我们得知 神荣耀的光显在耶稣基督的面上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那吩咐光從黑暗裏照出來的上帝，已經照在我們心裏，叫我們得知上帝榮耀的光顯在耶穌基督的面上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God and not from ourselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们有这宝贝放在瓦器里，要显明这莫大的能力是出于 神，不是出于我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們有這寶貝放在瓦器裏，要顯明這莫大的能力是出於上帝，不是出於我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "We are pressed on every side, yet not crushed; perplexed, yet not to despair;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们四面受敌，却不被困住；心里作难，却不至失望；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們四面受敵，卻不被困住；心裏作難，卻不致失望；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "pursued, yet not forsaken; struck down, yet not destroyed;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遭逼迫，却不被丢弃；打倒了，却不至死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遭逼迫，卻不被丟棄；打倒了，卻不致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "always carrying in the body the putting to death of the Lord Jesus, that the life of Jesus may also be revealed in our body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "身上常带着耶稣的死，使耶稣的生也显明在我们身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "身上常帶着耶穌的死，使耶穌的生也顯明在我們身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For we who live are always delivered to death for Jesus’ sake, that the life also of Jesus may be revealed in our mortal flesh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我们这活着的人是常为耶稣被交于死地，使耶稣的生在我们这必死的身上显明出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們這活着的人是常為耶穌被交於死地，使耶穌的生在我們這必死的身上顯明出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "So then death works in us, but life in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样看来，死是在我们身上发动，生却在你们身上发动。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣看來，死是在我們身上發動，生卻在你們身上發動。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But having the same spirit of faith, according to that which is written, “I believed, and therefore I spoke.” We also believe, and therefore we also speak,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:13 Psalms 116:10",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "但我们既有信心，正如经上记着说：「我因信，所以如此说话。」我们也信，所以也说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我們既有信心，正如經上記着說：「我因信，所以如此說話。」我們也信，所以也說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "knowing that he who raised the Lord Jesus will raise us also through Jesus, and will present us with you.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:14 NU reads a with instead of a through ."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自己知道那叫主耶稣复活的，也必叫我们与耶稣一同复活，并且叫我们与你们一同站在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自己知道那叫主耶穌復活的，也必叫我們與耶穌一同復活，並且叫我們與你們一同站在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound to the glory of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事都是为你们，好叫恩惠因人多越发加增，感谢格外显多，以致荣耀归与 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事都是為你們，好叫恩惠因人多越發加增，感謝格外顯多，以致榮耀歸與上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Therefore we don’t faint, but though our outward person is decaying, yet our inward person is renewed day by day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我们不丧胆。外体虽然毁坏，内心却一天新似一天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我們不喪膽。外體雖然毀壞，內心卻一天新似一天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们这至暂至轻的苦楚，要为我们成就极重无比、永远的荣耀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来我们不是顾念所见的，乃是顾念所不见的；因为所见的是暂时的，所不见的是永远的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "bookId": "DEU",
+  "chapter": 34,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. The LORD showed him all the land of Gilead to Dan,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西从摩押平原登尼波山，上了那与耶利哥相对的毗斯迦山顶。耶和华把基列全地直到但，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西從摩押平原登尼波山，上了那與耶利哥相對的毗斯迦山頂。耶和華把基列全地直到但，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, to the Western Sea,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿弗他利全地，以法莲、玛拿西的地，犹大全地直到西海，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿弗他利全地，以法蓮、瑪拿西的地，猶大全地直到西海，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and the south, and the Plain of the valley of Jericho the city of palm trees, to Zoar.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "34:3 or, Negev"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "南地和棕树城耶利哥的平原，直到琐珥，都指给他看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "南地和棕樹城耶利哥的平原，直到瑣珥，都指給他看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD said to him, “This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have caused you to see it with your eyes, but you shall not go over there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对他说：「这就是我向亚伯拉罕、以撒、雅各起誓应许之地，说：『我必将这地赐给你的后裔。』现在我使你眼睛看见了，你却不得过到那里去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對他說：「這就是我向亞伯拉罕、以撒、雅各起誓應許之地，說：『我必將這地賜給你的後裔。』現在我使你眼睛看見了，你卻不得過到那裏去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "So Moses the servant of the LORD died there in the land of Moab, according to the LORD’s word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，耶和华的仆人摩西死在摩押地，正如耶和华所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，耶和華的僕人摩西死在摩押地，正如耶和華所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He buried him in the valley in the land of Moab opposite Beth Peor, but no man knows where his tomb is to this day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华将他埋葬在摩押地、伯·毗珥对面的谷中，只是到今日没有人知道他的坟墓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華將他埋葬在摩押地、伯‧毗珥對面的谷中，只是到今日沒有人知道他的墳墓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Moses was one hundred twenty years old when he died. His eye was not dim, nor his strength gone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西死的时候年一百二十岁；眼目没有昏花，精神没有衰败。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西死的時候年一百二十歲；眼目沒有昏花，精神沒有衰敗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The children of Israel wept for Moses in the plains of Moab thirty days, until the days of weeping in the mourning for Moses were ended.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人在摩押平原为摩西哀哭了三十日，为摩西居丧哀哭的日子就满了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人在摩押平原為摩西哀哭了三十日，為摩西居喪哀哭的日子就滿了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. The children of Israel listened to him, and did as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "嫩的儿子约书亚；因为摩西曾按手在他头上，就被智慧的灵充满，以色列人便听从他，照着耶和华吩咐摩西的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "嫩的兒子約書亞；因為摩西曾按手在他頭上，就被智慧的靈充滿，以色列人便聽從他，照着耶和華吩咐摩西的行了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Since then, there has not arisen a prophet in Israel like Moses, whom the LORD knew face to face,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以后以色列中再没有兴起先知像摩西的。他是耶和华面对面所认识的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以後以色列中再沒有興起先知像摩西的。他是耶和華面對面所認識的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "in all the signs and the wonders which the LORD sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华打发他在埃及地向法老和他的一切臣仆，并他的全地，行各样神迹奇事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華打發他在埃及地向法老和他的一切臣僕，並他的全地，行各樣神蹟奇事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又在以色列众人眼前显大能的手，行一切大而可畏的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又在以色列眾人眼前顯大能的手，行一切大而可畏的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

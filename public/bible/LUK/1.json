@@ -1,0 +1,1498 @@
+{
+  "bookId": "LUK",
+  "chapter": 1,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "1-2",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "提阿非罗大人哪，有好些人提笔作书，述说在我们中间所成就的事，是照传道的人从起初亲眼看见又传给我们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "提阿非羅大人哪，有好些人提筆作書，述說在我們中間所成就的事，是照傳道的人從起初親眼看見又傳給我們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事我既从起头都详细考察了，就定意要按着次序写给你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事我既從起頭都詳細考察了，就定意要按着次序寫給你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "that you might know the certainty concerning the things in which you were instructed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使你知道所学之道都是确实的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使你知道所學之道都是確實的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当犹太王希律的时候，亚比雅班里有一个祭司，名叫撒迦利亚；他妻子是亚伦的后人，名叫伊利莎白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當猶太王希律的時候，亞比雅班裏有一個祭司，名叫撒迦利亞；他妻子是亞倫的後人，名叫伊利莎白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们二人在 神面前都是义人，遵行主的一切诫命礼仪，没有可指摘的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們二人在上帝面前都是義人，遵行主的一切誡命禮儀，沒有可指摘的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But they had no child, because Elizabeth was barren, and they both were well advanced in years.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是没有孩子；因为伊利莎白不生育，两个人又年纪老迈了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是沒有孩子；因為伊利莎白不生育，兩個人又年紀老邁了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Now while he executed the priest’s office before God in the order of his division",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒迦利亚按班次在 神面前供祭司的职分，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒迦利亞按班次在上帝面前供祭司的職分，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "according to the custom of the priest’s office, his lot was to enter into the temple of the Lord and burn incense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "照祭司的规矩掣签，得进主殿烧香。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "照祭司的規矩掣籤，得進主殿燒香。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The whole multitude of the people were praying outside at the hour of incense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "烧香的时候，众百姓在外面祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "燒香的時候，眾百姓在外面禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "An angel of the Lord appeared to him, standing on the right side of the altar of incense.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有主的使者站在香坛的右边，向他显现。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有主的使者站在香壇的右邊，向他顯現。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Zacharias was troubled when he saw him, and fear fell upon him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒迦利亚看见，就惊慌害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒迦利亞看見，就驚慌害怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But the angel said to him, “Don’t be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使对他说：「撒迦利亚，不要害怕，因为你的祈祷已经被听见了。你的妻子伊利莎白要给你生一个儿子，你要给他起名叫约翰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使對他說：「撒迦利亞，不要害怕，因為你的祈禱已經被聽見了。你的妻子伊利莎白要給你生一個兒子，你要給他起名叫約翰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You will have joy and gladness, and many will rejoice at his birth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你必欢喜快乐；有许多人因他出世，也必喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你必歡喜快樂；有許多人因他出世，也必喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For he will be great in the sight of the Lord, and he will drink no wine nor strong drink. He will be filled with the Holy Spirit, even from his mother’s womb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在主面前将要为大，淡酒浓酒都不喝，从母腹里就被圣灵充满了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在主面前將要為大，淡酒濃酒都不喝，從母腹裏就被聖靈充滿了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He will turn many of the children of Israel to the Lord their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要使许多以色列人回转，归于主—他们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要使許多以色列人回轉，歸於主－他們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He will go before him in the spirit and power of Elijah, ‘to turn the hearts of the fathers to the children,’ and the disobedient to the wisdom of the just; to prepare a people prepared for the Lord.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "1:17 Malachi 4:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他必有以利亚的心志能力，行在主的前面，叫为父的心转向儿女，叫悖逆的人转从义人的智慧，又为主预备合用的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必有以利亞的心志能力，行在主的前面，叫為父的心轉向兒女，叫悖逆的人轉從義人的智慧，又為主預備合用的百姓。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Zacharias said to the angel, “How can I be sure of this? For I am an old man, and my wife is well advanced in years.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒迦利亚对天使说：「我凭着什么可知道这事呢？我已经老了，我的妻子也年纪老迈了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒迦利亞對天使說：「我憑着甚麼可知道這事呢？我已經老了，我的妻子也年紀老邁了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The angel answered him, “I am Gabriel, who stands in the presence of God. I was sent to speak to you and to bring you this good news.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使回答说：「我是站在 神面前的加百列，奉差而来对你说话，将这好信息报给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使回答說：「我是站在上帝面前的加百列，奉差而來對你說話，將這好信息報給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Behold, you will be silent and not able to speak until the day that these things will happen, because you didn’t believe my words, which will be fulfilled in their proper time.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:20 “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了时候，这话必然应验；只因你不信，你必哑巴，不能说话，直到这事成就的日子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了時候，這話必然應驗；只因你不信，你必啞巴，不能說話，直到這事成就的日子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The people were waiting for Zacharias, and they marveled that he delayed in the temple.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓等候撒迦利亚，诧异他许久在殿里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓等候撒迦利亞，詫異他許久在殿裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "When he came out, he could not speak to them. They perceived that he had seen a vision in the temple. He continued making signs to them, and remained mute.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "及至他出来，不能和他们说话，他们就知道他在殿里见了异象；因为他直向他们打手式，竟成了哑巴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "及至他出來，不能和他們說話，他們就知道他在殿裏見了異象；因為他直向他們打手式，竟成了啞巴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When the days of his service were fulfilled, he departed to his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他供职的日子已满，就回家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他供職的日子已滿，就回家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "After these days Elizabeth his wife conceived, and she hid herself five months, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些日子以后，他的妻子伊利莎白怀了孕，就隐藏了五个月，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些日子以後，他的妻子伊利莎白懷了孕，就隱藏了五個月，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“Thus has the Lord done to me in the days in which he looked at me, to take away my reproach among men.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「主在眷顾我的日子，这样看待我，要把我在人间的羞耻除掉。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「主在眷顧我的日子，這樣看待我，要把我在人間的羞恥除掉。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee named Nazareth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了第六个月，天使加百列奉 神的差遣往加利利的一座城去（这城名叫拿撒勒），",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了第六個月，天使加百列奉上帝的差遣往加利利的一座城去（這城名叫拿撒勒），",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "to a virgin pledged to be married to a man whose name was Joseph, of David’s house. The virgin’s name was Mary.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到一个童女那里，是已经许配大卫家的一个人，名叫约瑟。童女的名字叫马利亚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到一個童女那裏，是已經許配大衛家的一個人，名叫約瑟。童女的名字叫馬利亞；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使进去，对她说：「蒙大恩的女子，我问你安，主和你同在了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使進去，對她說：「蒙大恩的女子，我問你安，主和你同在了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马利亚因这话就很惊慌，又反复思想这样问安是什么意思。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬利亞因這話就很驚慌，又反覆思想這樣問安是甚麼意思。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The angel said to her, “Don’t be afraid, Mary, for you have found favor with God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使对她说：「马利亚，不要怕！你在 神面前已经蒙恩了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使對她說：「馬利亞，不要怕！你在上帝面前已經蒙恩了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Behold, you will conceive in your womb and give birth to a son, and shall name him ‘Jesus.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要怀孕生子，可以给他起名叫耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要懷孕生子，可以給他起名叫耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要为大，称为至高者的儿子；主 神要把他祖大卫的位给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要為大，稱為至高者的兒子；主上帝要把他祖大衛的位給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "and he will reign over the house of Jacob forever. There will be no end to his Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要作雅各家的王，直到永远；他的国也没有穷尽。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要作雅各家的王，直到永遠；他的國也沒有窮盡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Mary said to the angel, “How can this be, seeing I am a virgin?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马利亚对天使说：「我没有出嫁，怎么有这事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬利亞對天使說：「我沒有出嫁，怎麼有這事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The angel answered her, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. Therefore also the holy one who is born from you will be called the Son of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使回答说：「圣灵要临到你身上，至高者的能力要荫庇你，因此所要生的圣者必称为 神的儿子。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:35 或译：所要生的，必称为圣，称为 神的儿子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使回答說：「聖靈要臨到你身上，至高者的能力要蔭庇你，因此所要生的聖者必稱為上帝的兒子 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:35 或譯：所要生的，必稱為聖，稱為上帝的兒子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Behold, Elizabeth your relative also has conceived a son in her old age; and this is the sixth month with her who was called barren.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "况且你的亲戚伊利莎白，在年老的时候也怀了男胎，就是那素来称为不生育的，现在有孕六个月了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "況且你的親戚伊利莎白，在年老的時候也懷了男胎，就是那素來稱為不生育的，現在有孕六個月了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "For nothing spoken by God is impossible.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:37 or, “For everything spoken by God is possible.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，出于 神的话，没有一句不带能力的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，出於上帝的話，沒有一句不帶能力的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Mary said, “Behold, the servant of the Lord; let it be done to me according to your word.” Then the angel departed from her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马利亚说：「我是主的使女，情愿照你的话成就在我身上。」天使就离开她去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬利亞說：「我是主的使女，情願照你的話成就在我身上。」天使就離開她去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Mary arose in those days and went into the hill country with haste, into a city of Judah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时候，马利亚起身，急忙往山地里去，来到犹大的一座城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時候，馬利亞起身，急忙往山地裏去，來到猶大的一座城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "and entered into the house of Zacharias and greeted Elizabeth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "进了撒迦利亚的家，问伊利莎白安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "進了撒迦利亞的家，問伊利莎白安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊利莎白一听马利亚问安，所怀的胎就在腹里跳动。伊利莎白且被圣灵充满，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊利莎白一聽馬利亞問安，所懷的胎就在腹裏跳動。伊利莎白且被聖靈充滿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "She called out with a loud voice and said, “Blessed are you among women, and blessed is the fruit of your womb!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "高声喊着说：「你在妇女中是有福的！你所怀的胎也是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "高聲喊着說：「你在婦女中是有福的！你所懷的胎也是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Why am I so favored, that the mother of my Lord should come to me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我主的母到我这里来，这是从哪里得的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我主的母到我這裏來，這是從哪裏得的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "For behold, when the voice of your greeting came into my ears, the baby leaped in my womb for joy!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为你问安的声音一入我耳，我腹里的胎就欢喜跳动。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為你問安的聲音一入我耳，我腹裏的胎就歡喜跳動。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Blessed is she who believed, for there will be a fulfillment of the things which have been spoken to her from the Lord!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这相信的女子是有福的！因为主对她所说的话都要应验。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這相信的女子是有福的！因為主對她所說的話都要應驗。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Mary said, “My soul magnifies the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马利亚说： 我心尊主为大；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬利亞說： 我心尊主為大；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "My spirit has rejoiced in God my Savior,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我灵以 神我的救主为乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我靈以上帝我的救主為樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "for he has looked at the humble state of his servant. For behold, from now on, all generations will call me blessed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他顾念他使女的卑微； 从今以后， 万代要称我有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他顧念他使女的卑微； 從今以後， 萬代要稱我有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "For he who is mighty has done great things for me. Holy is his name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那有权能的，为我成就了大事； 他的名为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那有權能的，為我成就了大事； 他的名為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "His mercy is for generations and generations on those who fear him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他怜悯敬畏他的人， 直到世世代代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他憐憫敬畏他的人， 直到世世代代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "He has shown strength with his arm. He has scattered the proud in the imagination of their hearts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用膀臂施展大能； 那狂傲的人正心里妄想就被他赶散了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用膀臂施展大能； 那狂傲的人正心裏妄想就被他趕散了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "He has put down princes from their thrones, and has exalted the lowly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他叫有权柄的失位， 叫卑贱的升高；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他叫有權柄的失位， 叫卑賤的升高；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "He has filled the hungry with good things. He has sent the rich away empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫饥饿的得饱美食， 叫富足的空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫飢餓的得飽美食， 叫富足的空手回去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "He has given help to Israel, his servant, that he might remember mercy,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他扶助了他的仆人以色列，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他扶助了他的僕人以色列，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "as he spoke to our fathers, to Abraham and his offspring forever.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:55 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要记念亚伯拉罕和他的后裔， 施怜悯直到永远， 正如从前对我们列祖所说的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要記念亞伯拉罕和他的後裔， 施憐憫直到永遠， 正如從前對我們列祖所說的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "Mary stayed with her about three months, and then returned to her house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马利亚和伊利莎白同住，约有三个月，就回家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬利亞和伊利莎白同住，約有三個月，就回家去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "Now the time that Elizabeth should give birth was fulfilled, and she gave birth to a son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊利莎白的产期到了，就生了一个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊利莎白的產期到了，就生了一個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "Her neighbors and her relatives heard that the Lord had magnified his mercy toward her, and they rejoiced with her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "邻里亲族听见主向她大施怜悯，就和她一同欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鄰里親族聽見主向她大施憐憫，就和她一同歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了第八日，他们来要给孩子行割礼，并要照他父亲的名字叫他撒迦利亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了第八日，他們來要給孩子行割禮，並要照他父親的名字叫他撒迦利亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "60",
+      "en": {
+        "text": "His mother answered, “Not so; but he will be called John.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他母亲说：「不可！要叫他约翰。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他母親說：「不可！要叫他約翰。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "61",
+      "en": {
+        "text": "They said to her, “There is no one among your relatives who is called by this name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「你亲族中没有叫这名字的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「你親族中沒有叫這名字的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "62",
+      "en": {
+        "text": "They made signs to his father, what he would have him called.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就向他父亲打手式，问他要叫这孩子什么名字。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就向他父親打手式，問他要叫這孩子甚麼名字。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "63",
+      "en": {
+        "text": "He asked for a writing tablet, and wrote, “His name is John.” They all marveled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要了一块写字的板，就写上，说：「他的名字是约翰。」他们便都希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要了一塊寫字的板，就寫上，說：「他的名字是約翰。」他們便都希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "64",
+      "en": {
+        "text": "His mouth was opened immediately and his tongue freed, and he spoke, blessing God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒迦利亚的口立时开了，舌头也舒展了，就说出话来，称颂 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒迦利亞的口立時開了，舌頭也舒展了，就說出話來，稱頌上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "65",
+      "en": {
+        "text": "Fear came on all who lived around them, and all these sayings were talked about throughout all the hill country of Judea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "周围居住的人都惧怕；这一切的事就传遍了犹太的山地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "周圍居住的人都懼怕；這一切的事就傳遍了猶太的山地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "66",
+      "en": {
+        "text": "All who heard them laid them up in their heart, saying, “What then will this child be?” The hand of the Lord was with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡听见的人都将这事放在心里，说：「这个孩子将来怎么样呢？因为有主与他同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡聽見的人都將這事放在心裏，說：「這個孩子將來怎麼樣呢？因為有主與他同在。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "67",
+      "en": {
+        "text": "His father Zacharias was filled with the Holy Spirit, and prophesied, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲撒迦利亚被圣灵充满了，就预言说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親撒迦利亞被聖靈充滿了，就預言說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "68",
+      "en": {
+        "text": "“Blessed be the Lord, the God of Israel, for he has visited and redeemed his people;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主—以色列的 神是应当称颂的！ 因他眷顾他的百姓，为他们施行救赎，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主－以色列的上帝是應當稱頌的！ 因他眷顧他的百姓，為他們施行救贖，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "69",
+      "en": {
+        "text": "and has raised up a horn of salvation for us in the house of his servant David",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他仆人大卫家中， 为我们兴起了拯救的角，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他僕人大衛家中， 為我們興起了拯救的角，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "70",
+      "en": {
+        "text": "(as he spoke by the mouth of his holy prophets who have been from of old),",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正如主借着从创世以来圣先知的口所说的话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正如主藉着從創世以來聖先知的口所說的話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "71",
+      "en": {
+        "text": "salvation from our enemies and from the hand of all who hate us;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拯救我们脱离仇敌 和一切恨我们之人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拯救我們脫離仇敵 和一切恨我們之人的手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "72",
+      "en": {
+        "text": "to show mercy toward our fathers, to remember his holy covenant,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向我们列祖施怜悯， 记念他的圣约—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向我們列祖施憐憫， 記念他的聖約－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "73",
+      "en": {
+        "text": "the oath which he swore to Abraham our father,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是他对我们祖宗亚伯拉罕所起的誓—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是他對我們祖宗亞伯拉罕所起的誓－",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "74",
+      "en": {
+        "text": "to grant to us that we, being delivered out of the hand of our enemies, should serve him without fear,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫我们既从仇敌手中被救出来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫我們既從仇敵手中被救出來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "75",
+      "en": {
+        "text": "in holiness and righteousness before him all the days of our life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就可以终身在他面前， 坦然无惧地用圣洁、公义事奉他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就可以終身在他面前， 坦然無懼地用聖潔、公義事奉他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "76",
+      "en": {
+        "text": "And you, child, will be called a prophet of the Most High; for you will go before the face of the Lord to prepare his ways,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子啊！你要称为至高者的先知； 因为你要行在主的前面， 预备他的道路，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子啊！你要稱為至高者的先知； 因為你要行在主的前面， 預備他的道路，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "77",
+      "en": {
+        "text": "to give knowledge of salvation to his people by the remission of their sins,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫他的百姓因罪得赦， 就知道救恩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫他的百姓因罪得赦， 就知道救恩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "78",
+      "en": {
+        "text": "because of the tender mercy of our God, by which the dawn from on high will visit us,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我们 神怜悯的心肠， 叫清晨的日光从高天临到我们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我們上帝憐憫的心腸， 叫清晨的日光從高天臨到我們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "79",
+      "en": {
+        "text": "to shine on those who sit in darkness and the shadow of death; to guide our feet into the way of peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要照亮坐在黑暗中死荫里的人， 把我们的脚引到平安的路上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要照亮坐在黑暗中死蔭裏的人， 把我們的腳引到平安的路上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "80",
+      "en": {
+        "text": "The child was growing and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那孩子渐渐长大，心灵强健，住在旷野，直到他显明在以色列人面前的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那孩子漸漸長大，心靈強健，住在曠野，直到他顯明在以色列人面前的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "bookId": "1KI",
+  "chapter": 1,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now King David was old and advanced in years; and they covered him with clothes, but he couldn’t keep warm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王年纪老迈，虽用被遮盖，仍不觉暖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王年紀老邁，雖用被遮蓋，仍不覺暖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Therefore his servants said to him, “Let a young virgin be sought for my lord the king. Let her stand before the king, and cherish him; and let her lie in your bosom, that my lord the king may keep warm.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以臣仆对他说：「不如为我主我王寻找一个处女，使她伺候王，奉养王，睡在王的怀中，好叫我主我王得暖。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以臣僕對他說：「不如為我主我王尋找一個處女，使她伺候王，奉養王，睡在王的懷中，好叫我主我王得暖。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "So they sought for a beautiful young lady throughout all the borders of Israel, and found Abishag the Shunammite, and brought her to the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是在以色列全境寻找美貌的童女，寻得书念的一个童女亚比煞，就带到王那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是在以色列全境尋找美貌的童女，尋得書念的一個童女亞比煞，就帶到王那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The young lady was very beautiful; and she cherished the king, and served him; but the king didn’t know her intimately.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这童女极其美貌，她奉养王，伺候王，王却没有与她亲近。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這童女極其美貌，她奉養王，伺候王，王卻沒有與她親近。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then Adonijah the son of Haggith exalted himself, saying, “I will be king.” Then he prepared him chariots and horsemen, and fifty men to run before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，哈及的儿子亚多尼雅自尊，说：「我必作王」，就为自己预备车辆、马兵，又派五十人在他前头奔走。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，哈及的兒子亞多尼雅自尊，說：「我必作王」，就為自己預備車輛、馬兵，又派五十人在他前頭奔走。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "His father had not displeased him at any time in saying, “Why have you done so?” and he was also a very handsome man; and he was born after Absalom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他父亲素来没有使他忧闷，说：「你是做什么呢？」他甚俊美，生在押沙龙之后。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他父親素來沒有使他憂悶，說：「你是做甚麼呢？」他甚俊美，生在押沙龍之後。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He conferred with Joab the son of Zeruiah and with Abiathar the priest; and they followed Adonijah and helped him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅与洗鲁雅的儿子约押，和祭司亚比亚他商议；二人就顺从他，帮助他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅與洗魯雅的兒子約押，和祭司亞比亞他商議；二人就順從他，幫助他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But Zadok the priest, Benaiah the son of Jehoiada, Nathan the prophet, Shimei, Rei, and the mighty men who belonged to David, were not with Adonijah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但祭司撒督、耶何耶大的儿子比拿雅、先知拿单、示每、利以，并大卫的勇士都不顺从亚多尼雅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但祭司撒督、耶何耶大的兒子比拿雅、先知拿單、示每、利以，並大衛的勇士都不順從亞多尼雅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Adonijah killed sheep, cattle, and fatlings by the stone of Zoheleth, which is beside En Rogel; and he called all his brothers, the king’s sons, and all the men of Judah, the king’s servants;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一日，亚多尼雅在隐·罗结旁、琐希列磐石那里宰了牛羊、肥犊，请他的诸弟兄，就是王的众子，并所有作王臣仆的犹大人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一日，亞多尼雅在隱‧羅結旁、瑣希列磐石那裏宰了牛羊、肥犢，請他的諸弟兄，就是王的眾子，並所有作王臣僕的猶大人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "but he didn’t call Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟独先知拿单和比拿雅并勇士，与他的兄弟所罗门，他都没有请。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟獨先知拿單和比拿雅並勇士，與他的兄弟所羅門，他都沒有請。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then Nathan spoke to Bathsheba the mother of Solomon, saying, “Haven’t you heard that Adonijah the son of Haggith reigns, and David our lord doesn’t know it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿单对所罗门的母亲拔示巴说：「哈及的儿子亚多尼雅作王了，你没有听见吗？我们的主大卫却不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿單對所羅門的母親拔示巴說：「哈及的兒子亞多尼雅作王了，你沒有聽見嗎？我們的主大衛卻不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now therefore come, please let me give you counsel, that you may save your own life and your son Solomon’s life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在我可以给你出个主意，好保全你和你儿子所罗门的性命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在我可以給你出個主意，好保全你和你兒子所羅門的性命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Go in to King David, and tell him, ‘Didn’t you, my lord the king, swear to your servant, saying, “Assuredly Solomon your son shall reign after me, and he shall sit on my throne”? Why then does Adonijah reign?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你进去见大卫王，对他说：『我主我王啊，你不曾向婢女起誓说：你儿子所罗门必接续我作王，坐在我的位上吗？现在亚多尼雅怎么作了王呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你進去見大衛王，對他說：『我主我王啊，你不曾向婢女起誓說：你兒子所羅門必接續我作王，坐在我的位上嗎？現在亞多尼雅怎麼作了王呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Behold, while you are still talking there with the king, I will also come in after you and confirm your words.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:14 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你还与王说话的时候，我也随后进去，证实你的话。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你還與王說話的時候，我也隨後進去，證實你的話。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Bathsheba went in to the king in his room. The king was very old; and Abishag the Shunammite was serving the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴进入内室见王，王甚老迈，书念的童女亚比煞正伺候王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴進入內室見王，王甚老邁，書念的童女亞比煞正伺候王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Bathsheba bowed and showed respect to the king. The king said, “What would you like?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴向王屈身下拜；王说：「你要什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴向王屈身下拜；王說：「你要甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "She said to him, “My lord, you swore by the LORD your God to your servant, ‘Assuredly Solomon your son shall reign after me, and he shall sit on my throne.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:17 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          },
+          {
+            "id": "f2",
+            "text": "1:17 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她说：「我主啊，你曾向婢女指着耶和华—你的 神起誓说：『你儿子所罗门必接续我作王，坐在我的位上。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她說：「我主啊，你曾向婢女指着耶和華－你的上帝起誓說：『你兒子所羅門必接續我作王，坐在我的位上。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now, behold, Adonijah reigns; and you, my lord the king, don’t know it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在亚多尼雅作王了，我主我王却不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在亞多尼雅作王了，我主我王卻不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He has slain cattle and fatlings and sheep in abundance, and has called all the sons of the king, Abiathar the priest, and Joab the captain of the army; but he hasn’t called Solomon your servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他宰了许多牛羊、肥犊，请了王的众子和祭司亚比亚他，并元帅约押；惟独王的仆人所罗门，他没有请。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他宰了許多牛羊、肥犢，請了王的眾子和祭司亞比亞他，並元帥約押；惟獨王的僕人所羅門，他沒有請。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You, my lord the king, the eyes of all Israel are on you, that you should tell them who will sit on the throne of my lord the king after him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我主我王啊，以色列众人的眼目都仰望你，等你晓谕他们，在我主我王之后谁坐你的位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我主我王啊，以色列眾人的眼目都仰望你，等你曉諭他們，在我主我王之後誰坐你的位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Otherwise it will happen, when my lord the king sleeps with his fathers, that I and my son Solomon will be considered criminals.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不然，到我主我王与列祖同睡以后，我和我儿子所罗门必算为罪人了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不然，到我主我王與列祖同睡以後，我和我兒子所羅門必算為罪人了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Behold, while she was still talking with the king, Nathan the prophet came in.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拔示巴还与王说话的时候，先知拿单也进来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拔示巴還與王說話的時候，先知拿單也進來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They told the king, saying, “Behold, Nathan the prophet!” When he had come in before the king, he bowed himself before the king with his face to the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人奏告王说：「先知拿单来了。」拿单进到王前，脸伏于地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人奏告王說：「先知拿單來了。」拿單進到王前，臉伏於地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Nathan said, “My lord, King, have you said, ‘Adonijah shall reign after me, and he shall sit on my throne’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿单说：「我主我王果然应许亚多尼雅说『你必接续我作王，坐在我的位上』吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿單說：「我主我王果然應許亞多尼雅說『你必接續我作王，坐在我的位上』嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "For he has gone down today, and has slain cattle, fatlings, and sheep in abundance, and has called all the king’s sons, the captains of the army, and Abiathar the priest. Behold, they are eating and drinking before him, and saying, ‘Long live King Adonijah!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他今日下去，宰了许多牛羊、肥犊，请了王的众子和军长，并祭司亚比亚他；他们正在亚多尼雅面前吃喝，说：『愿亚多尼雅王万岁！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他今日下去，宰了許多牛羊、肥犢，請了王的眾子和軍長，並祭司亞比亞他；他們正在亞多尼雅面前吃喝，說：『願亞多尼雅王萬歲！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "But he hasn’t called me, even me your servant, Zadok the priest, Benaiah the son of Jehoiada, and your servant Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟独我，就是你的仆人和祭司撒督，耶何耶大的儿子比拿雅，并王的仆人所罗门，他都没有请。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟獨我，就是你的僕人和祭司撒督，耶何耶大的兒子比拿雅，並王的僕人所羅門，他都沒有請。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Was this thing done by my lord the king, and you haven’t shown to your servants who should sit on the throne of my lord the king after him?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事果然出乎我主我王吗？王却没有告诉仆人们，在我主我王之后谁坐你的位。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事果然出乎我主我王嗎？王卻沒有告訴僕人們，在我主我王之後誰坐你的位。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Then King David answered, “Call Bathsheba in to me.” She came into the king’s presence and stood before the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王吩咐说：「叫拔示巴来。」拔示巴就进来，站在王面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王吩咐說：「叫拔示巴來。」拔示巴就進來，站在王面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The king vowed and said, “As the LORD lives, who has redeemed my soul out of all adversity,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王起誓说：「我指着救我性命脱离一切苦难、永生的耶和华起誓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王起誓說：「我指着救我性命脫離一切苦難、永生的耶和華起誓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "most certainly as I swore to you by the LORD, the God of Israel, saying, ‘Assuredly Solomon your son shall reign after me, and he shall sit on my throne in my place;’ I will most certainly do this today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我既然指着耶和华—以色列的 神向你起誓说：你儿子所罗门必接续我作王，坐在我的位上。我今日就必照这话而行。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我既然指着耶和華－以色列的上帝向你起誓說：你兒子所羅門必接續我作王，坐在我的位上。我今日就必照這話而行。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Then Bathsheba bowed with her face to the earth and showed respect to the king, and said, “Let my lord King David live forever!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，拔示巴脸伏于地，向王下拜，说：「愿我主大卫王万岁！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，拔示巴臉伏於地，向王下拜，說：「願我主大衛王萬歲！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "King David said, “Call to me Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada.” They came before the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王又吩咐说：「将祭司撒督、先知拿单、耶何耶大的儿子比拿雅召来！」他们就都来到王面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王又吩咐說：「將祭司撒督、先知拿單、耶何耶大的兒子比拿雅召來！」他們就都來到王面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The king said to them, “Take with you the servants of your lord, and cause Solomon my son to ride on my own mule, and bring him down to Gihon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王对他们说：「要带领你们主的仆人，使我儿子所罗门骑我的骡子，送他下到基训；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王對他們說：「要帶領你們主的僕人，使我兒子所羅門騎我的騾子，送他下到基訓；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Let Zadok the priest and Nathan the prophet anoint him there king over Israel. Blow the trumpet, and say, ‘Long live King Solomon!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里，祭司撒督和先知拿单要膏他作以色列的王；你们也要吹角，说：『愿所罗门王万岁！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏，祭司撒督和先知拿單要膏他作以色列的王；你們也要吹角，說：『願所羅門王萬歲！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Then come up after him, and he shall come and sit on my throne; for he shall be king in my place. I have appointed him to be prince over Israel and over Judah.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然后要跟随他上来，使他坐在我的位上，接续我作王。我已立他作以色列和犹大的君。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然後要跟隨他上來，使他坐在我的位上，接續我作王。我已立他作以色列和猶大的君。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Benaiah the son of Jehoiada answered the king, and said, “Amen. May the LORD, the God of my lord the king, say so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶何耶大的儿子比拿雅对王说：「阿们！愿耶和华—我主我王的 神也这样命定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶何耶大的兒子比拿雅對王說：「阿們！願耶和華－我主我王的上帝也這樣命定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "As the LORD has been with my lord the king, even so may he be with Solomon, and make his throne greater than the throne of my lord King David.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华怎样与我主我王同在，愿他照样与所罗门同在，使他的国位比我主大卫王的国位更大。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華怎樣與我主我王同在，願他照樣與所羅門同在，使他的國位比我主大衛王的國位更大。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "So Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, and the Cherethites and the Pelethites went down and had Solomon ride on King David’s mule, and brought him to Gihon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，祭司撒督、先知拿单、耶何耶大的儿子比拿雅，和基利提人、比利提人都下去使所罗门骑大卫王的骡子，将他送到基训。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，祭司撒督、先知拿單、耶何耶大的兒子比拿雅，和基利提人、比利提人都下去使所羅門騎大衛王的騾子，將他送到基訓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Zadok the priest took the horn of oil from the Tent, and anointed Solomon. They blew the trumpet; and all the people said, “Long live King Solomon!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司撒督就从帐幕中取了盛膏油的角来，用膏膏所罗门。人就吹角，众民都说：「愿所罗门王万岁！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司撒督就從帳幕中取了盛膏油的角來，用膏膏所羅門。人就吹角，眾民都說：「願所羅門王萬歲！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "All the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth shook with their sound.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众民跟随他上来，且吹笛，大大欢呼，声音震地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾民跟隨他上來，且吹笛，大大歡呼，聲音震地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Adonijah and all the guests who were with him heard it as they had finished eating. When Joab heard the sound of the trumpet, he said, “Why is this noise of the city being in an uproar?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅和所请的众客筵宴方毕，听见这声音；约押听见角声就说：「城中为何有这响声呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅和所請的眾客筵宴方畢，聽見這聲音；約押聽見角聲就說：「城中為何有這響聲呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "While he yet spoke, behold, Jonathan the son of Abiathar the priest came; and Adonijah said, “Come in; for you are a worthy man, and bring good news.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他正说话的时候，祭司亚比亚他的儿子约拿单来了。亚多尼雅对他说：「进来吧！你是个忠义的人，必是报好信息。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他正說話的時候，祭司亞比亞他的兒子約拿單來了。亞多尼雅對他說：「進來吧！你是個忠義的人，必是報好信息。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Jonathan answered Adonijah, “Most certainly our lord King David has made Solomon king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿单对亚多尼雅说：「我们的主大卫王诚然立所罗门为王了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿單對亞多尼雅說：「我們的主大衛王誠然立所羅門為王了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The king has sent with him Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, and the Cherethites and the Pelethites; and they have caused him to ride on the king’s mule.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王差遣祭司撒督、先知拿单、耶何耶大的儿子比拿雅，和基利提人、比利提人都去使所罗门骑王的骡子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王差遣祭司撒督、先知拿單、耶何耶大的兒子比拿雅，和基利提人、比利提人都去使所羅門騎王的騾子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Zadok the priest and Nathan the prophet have anointed him king in Gihon. They have come up from there rejoicing, so that the city rang again. This is the noise that you have heard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司撒督和先知拿单在基训已经膏他作王。众人都从那里欢呼着上来，声音使城震动，这就是你们所听见的声音；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司撒督和先知拿單在基訓已經膏他作王。眾人都從那裏歡呼着上來，聲音使城震動，這就是你們所聽見的聲音；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Also, Solomon sits on the throne of the kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且所罗门登了国位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且所羅門登了國位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Moreover the king’s servants came to bless our lord King David, saying, ‘May your God make the name of Solomon better than your name, and make his throne greater than your throne;’ and the king bowed himself on the bed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王的臣仆也来为我们的主大卫王祝福，说：『愿王的 神使所罗门的名比王的名更尊荣；使他的国位比王的国位更大。』王就在床上屈身下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王的臣僕也來為我們的主大衛王祝福，說：『願王的上帝使所羅門的名比王的名更尊榮；使他的國位比王的國位更大。』王就在床上屈身下拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Also thus said the king, ‘Blessed be the LORD, the God of Israel, who has given one to sit on my throne today, my eyes even seeing it.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王又说：『耶和华—以色列的 神是应当称颂的；因他赐我一人今日坐在我的位上，我也亲眼看见了。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王又說：『耶和華－以色列的上帝是應當稱頌的；因他賜我一人今日坐在我的位上，我也親眼看見了。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "All the guests of Adonijah were afraid, and rose up, and each man went his way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅的众客听见这话就都惊惧，起来四散。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅的眾客聽見這話就都驚懼，起來四散。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Adonijah was afraid because of Solomon; and he arose, and went, and hung onto the horns of the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚多尼雅惧怕所罗门，就起来，去抓住祭坛的角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞多尼雅懼怕所羅門，就起來，去抓住祭壇的角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Solomon was told, “Behold, Adonijah fears King Solomon; for, behold, he is hanging onto the horns of the altar, saying, ‘Let King Solomon swear to me first that he will not kill his servant with the sword.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人告诉所罗门说：「亚多尼雅惧怕所罗门王，现在抓住祭坛的角，说：『愿所罗门王今日向我起誓，必不用刀杀仆人。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人告訴所羅門說：「亞多尼雅懼怕所羅門王，現在抓住祭壇的角，說：『願所羅門王今日向我起誓，必不用刀殺僕人。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "Solomon said, “If he shows himself a worthy man, not a hair of his shall fall to the earth; but if wickedness is found in him, he shall die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门说：「他若作忠义的人，连一根头发也不致落在地上；他若行恶，必要死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門說：「他若作忠義的人，連一根頭髮也不致落在地上；他若行惡，必要死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "So King Solomon sent, and they brought him down from the altar. He came and bowed down to King Solomon; and Solomon said to him, “Go to your house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是所罗门王差遣人，使亚多尼雅从坛上下来，他就来，向所罗门王下拜；所罗门对他说：「你回家去吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是所羅門王差遣人，使亞多尼雅從壇上下來，他就來，向所羅門王下拜；所羅門對他說：「你回家去吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

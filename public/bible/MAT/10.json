@@ -1,0 +1,806 @@
+{
+  "bookId": "MAT",
+  "chapter": 10,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣叫了十二个门徒来，给他们权柄，能赶逐污鬼，并医治各样的病症。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌叫了十二個門徒來，給他們權柄，能趕逐污鬼，並醫治各樣的病症。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这十二使徒的名：头一个叫西门（又称彼得），还有他兄弟安得烈，西庇太的儿子雅各和雅各的兄弟约翰，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這十二使徒的名：頭一個叫西門（又稱彼得），還有他兄弟安得烈，西庇太的兒子雅各和雅各的兄弟約翰，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called Thaddaeus;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:3 NU omits “Lebbaeus, who was also called”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "腓力和巴多罗买，多马和税吏马太，亚勒腓的儿子雅各，和达太，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "腓力和巴多羅買，多馬和稅吏馬太，亞勒腓的兒子雅各，和達太，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Simon the Zealot; and Judas Iscariot, who also betrayed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奋锐党的西门，还有卖耶稣的加略人犹大。 （可6·7—13；路9·1—6）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奮銳黨的西門，還有賣耶穌的加略人猶大。 （可6‧7－13；路9‧1－6）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jesus sent these twelve out and commanded them, saying, “Don’tgo among the Gentiles, and don’ t enter into any city of the Samaritans.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣差这十二个人去，吩咐他们说：「外邦人的路，你们不要走；撒马利亚人的城，你们不要进；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌差這十二個人去，吩咐他們說：「外邦人的路，你們不要走；撒馬利亞人的城，你們不要進；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Rather, go to the lost sheep of the house of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "宁可往以色列家迷失的羊那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "寧可往以色列家迷失的羊那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Asyou go, preach, saying, ‘The Kingdom of Heaven is at hand!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "随走随传，说『天国近了！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "隨走隨傳，說『天國近了！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Healthe sick, cleanse the lepers, andcast out demons. Freely you received, so freely give.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:8 TR adds “raise the dead,”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "医治病人，叫死人复活，叫长大麻风的洁净，把鬼赶出去。你们白白地得来，也要白白地舍去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "醫治病人，叫死人復活，叫長大痲瘋的潔淨，把鬼趕出去。你們白白地得來，也要白白地捨去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’ttake any gold, silver, or brass in your money belts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "腰袋里不要带金银铜钱；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "腰袋裏不要帶金銀銅錢；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Take nobag for your journey, neither two coats, nor sandals, nor staff: for the laborer is worthy of his food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行路不要带口袋；不要带两件褂子，也不要带鞋和拐杖。因为工人得饮食是应当的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行路不要帶口袋；不要帶兩件褂子，也不要帶鞋和柺杖。因為工人得飲食是應當的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Intowhatever city or village you enter, find out who in it is worthy, and stay there until you go on.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们无论进哪一城，哪一村，要打听那里谁是好人，就住在他家，直住到走的时候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們無論進哪一城，哪一村，要打聽那裏誰是好人，就住在他家，直住到走的時候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Asyou enter into the household, greet it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "进他家里去，要请他的安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "進他家裏去，要請他的安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Ifthe household is worthy, let your peace come on it, but if it isn’ t worthy, let your peace return to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那家若配得平安，你们所求的平安就必临到那家；若不配得，你们所求的平安仍归你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那家若配得平安，你們所求的平安就必臨到那家；若不配得，你們所求的平安仍歸你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Whoeverdoesn’ t receive you or hear your words, as you go out of that house or that city, shake the dust off your feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡不接待你们、不听你们话的人，你们离开那家，或是那城的时候，就把脚上的尘土跺下去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡不接待你們、不聽你們話的人，你們離開那家，或是那城的時候，就把腳上的塵土跺下去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Most certainlyI tell you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，当审判的日子，所多玛和蛾摩拉所受的，比那城还容易受呢！」 （可13·9—13；路21·12—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，當審判的日子，所多瑪和蛾摩拉所受的，比那城還容易受呢！」 （可13‧9－13；路21‧12－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Behold, I send you out as sheep among wolves. Therefore be wise as serpents and harmless as doves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我差你们去，如同羊进入狼群；所以你们要灵巧像蛇，驯良像鸽子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我差你們去，如同羊進入狼群；所以你們要靈巧像蛇，馴良像鴿子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Butbeware of men, for they will deliver you up to councils, and in their synagogues they will scourge you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要防备人；因为他们要把你们交给公会，也要在会堂里鞭打你们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要防備人；因為他們要把你們交給公會 ，也要在會堂裏鞭打你們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你们要为我的缘故被送到诸侯君王面前，对他们和外邦人作见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你們要為我的緣故被送到諸侯君王面前，對他們和外邦人作見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Butwhen they deliver you up, don’t be anxious how or what you will say, for it will be given you in that hour what you will say.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们被交的时候，不要思虑怎样说话，或说什么话。到那时候，必赐给你们当说的话；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們被交的時候，不要思慮怎樣說話，或說甚麼話。到那時候，必賜給你們當說的話；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Forit is not you who speak, but the Spirit of your Father who speaks in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为不是你们自己说的，乃是你们父的灵在你们里头说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為不是你們自己說的，乃是你們父的靈在你們裏頭說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Brother willdeliver up brother to death, and the father his child. Children will rise up against parents and cause them to be put to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄要把弟兄，父亲要把儿子，送到死地；儿女要与父母为敌，害死他们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄要把弟兄，父親要把兒子，送到死地；兒女要與父母為敵，害死他們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Youwill be hated by all men for my name’s sake, but he who endures to the end will be saved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你们要为我的名被众人恨恶。惟有忍耐到底的必然得救。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你們要為我的名被眾人恨惡。惟有忍耐到底的必然得救。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Butwhen they persecute you in this city, flee into the next, for most certainly I tell you, you will not have gone through the cities of Israel until the Son of Man has come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人在这城里逼迫你们，就逃到那城里去。我实在告诉你们，以色列的城邑，你们还没有走遍，人子就到了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人在這城裏逼迫你們，就逃到那城裏去。我實在告訴你們，以色列的城邑，你們還沒有走遍，人子就到了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Adisciple is not above his teacher, nor a servant above his lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "学生不能高过先生；仆人不能高过主人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "學生不能高過先生；僕人不能高過主人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Itis enough for the disciple that he be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebul, howmuch more those of his household!",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:25 Literally, Lord of the Flies, or the devil"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "学生和先生一样，仆人和主人一样，也就罢了。人既骂家主是别西卜，何况他的家人呢？」 （路12·2—7）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:25 别西卜：是鬼王的名"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "學生和先生一樣，僕人和主人一樣，也就罷了。人既罵家主是別西卜，何況他的家人呢？」 （路12‧2－7）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:25 別西卜：是鬼王的名"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Thereforedon’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「所以，不要怕他们；因为掩盖的事没有不露出来的，隐藏的事没有不被人知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「所以，不要怕他們；因為掩蓋的事沒有不露出來的，隱藏的事沒有不被人知道的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "WhatI tell you in the darkness, speak in the light; and what you hear whispered in the ear, proclaim on the housetops.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在暗中告诉你们的，你们要在明处说出来；你们耳中所听的，要在房上宣扬出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在暗中告訴你們的，你們要在明處說出來；你們耳中所聽的，要在房上宣揚出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Don’tbe afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:28 or, Hell."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那杀身体、不能杀灵魂的，不要怕他们；惟有能把身体和灵魂都灭在地狱里的，正要怕他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那殺身體、不能殺靈魂的，不要怕他們；惟有能把身體和靈魂都滅在地獄裏的，正要怕他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“Aren’ttwo sparrows sold for an assarion coin? Notone of them falls to the ground apart from your Father’s will.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:29 An assarion is a small coin worth one tenth of a drachma or a sixteenth of a denarius. An assarion is approximately the wages of one half hour of agricultural labor."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个麻雀不是卖一分银子吗？若是你们的父不许，一个也不能掉在地上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個麻雀不是賣一分銀子嗎？若是你們的父不許，一個也不能掉在地上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Butthe very hairs of your head are all numbered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是你们的头发也都被数过了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是你們的頭髮也都被數過了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Thereforedon’t be afraid. You are of more value than many sparrows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，不要惧怕，你们比许多麻雀还贵重！」 （路12·8—9）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，不要懼怕，你們比許多麻雀還貴重！」 （路12‧8－9）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Everyonetherefore who confesses me before men, I will also confess him before my Father who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡在人面前认我的，我在我天上的父面前也必认他；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡在人面前認我的，我在我天上的父面前也必認他；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Butwhoever denies me before men, I will also deny him before my Father who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡在人面前不认我的，我在我天上的父面前也必不认他。」 （路12·51—53；14·26—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡在人面前不認我的，我在我天上的父面前也必不認他。」 （路12‧51－53；14‧26－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“Don’tthink that I came to send peace on the earth. I didn’ t come to send peace, but a sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不要想我来是叫地上太平；我来并不是叫地上太平，乃是叫地上动刀兵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不要想我來是叫地上太平；我來並不是叫地上太平，乃是叫地上動刀兵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "ForI came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我来是叫 人与父亲生疏， 女儿与母亲生疏， 媳妇与婆婆生疏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我來是叫 人與父親生疏， 女兒與母親生疏， 媳婦與婆婆生疏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Aman’s foes will be those of his own household.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:36 Micah 7:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "人的仇敌就是自己家里的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的仇敵就是自己家裏的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Hewho loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’ t worthy of me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「爱父母过于爱我的，不配作我的门徒；爱儿女过于爱我的，不配作我的门徒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「愛父母過於愛我的，不配作我的門徒；愛兒女過於愛我的，不配作我的門徒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Hewho doesn’ t take his cross and follow after me isn’ t worthy of me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不背着他的十字架跟从我的，也不配作我的门徒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不背着他的十字架跟從我的，也不配作我的門徒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Hewho seeks his life will lose it; and he who loses his life for my sake will find it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得着生命的，将要失丧生命；为我失丧生命的，将要得着生命。」 （可9·41）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得着生命的，將要失喪生命；為我失喪生命的，將要得着生命。」 （可9‧41）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "“Hewho receives you receives me, and he who receives me receives him who sent me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人接待你们就是接待我；接待我就是接待那差我来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人接待你們就是接待我；接待我就是接待那差我來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Hewho receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人因为先知的名接待先知，必得先知所得的赏赐；人因为义人的名接待义人，必得义人所得的赏赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人因為先知的名接待先知，必得先知所得的賞賜；人因為義人的名接待義人，必得義人所得的賞賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Whoevergives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you, he will in no way lose his reward.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论何人，因为门徒的名，只把一杯凉水给这小子里的一个喝，我实在告诉你们，这人不能不得赏赐。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論何人，因為門徒的名，只把一杯涼水給這小子裏的一個喝，我實在告訴你們，這人不能不得賞賜。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

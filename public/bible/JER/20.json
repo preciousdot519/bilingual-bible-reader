@@ -1,0 +1,348 @@
+{
+  "bookId": "JER",
+  "chapter": 20,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Pashhur, the son of Immer the priest, who was chief officer in the LORD’s house, heard Jeremiah prophesying these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司音麦的儿子巴施户珥作耶和华殿的总管，听见耶利米预言这些事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司音麥的兒子巴施戶珥作耶和華殿的總管，聽見耶利米預言這些事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Then Pashhur struck Jeremiah the prophet and put him in the stocks that were in the upper gate of Benjamin, which was in the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就打先知耶利米，用耶和华殿里便雅悯高门内的枷，将他枷在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就打先知耶利米，用耶和華殿裏便雅憫高門內的枷，將他枷在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "On the next day, Pashhur released Jeremiah out of the stocks. Then Jeremiah said to him, “The LORD has not called your name Pashhur, but Magormissabib.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "20:3 “Magormissabib” means “surrounded by terror”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "次日，巴施户珥将耶利米开枷释放。于是耶利米对他说：「耶和华不是叫你的名为巴施户珥，乃是叫你玛歌珥·米撒毕，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:3 就是四面惊吓的意思"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "次日，巴施戶珥將耶利米開枷釋放。於是耶利米對他說：「耶和華不是叫你的名為巴施戶珥，乃是叫你瑪歌珥‧米撒畢，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:3 就是四面驚嚇的意思"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For the LORD says, ‘Behold, I will make you a terror to yourself and to all your friends. They will fall by the sword of their enemies, and your eyes will see it. I will give all Judah into the hand of the king of Babylon, and he will carry them captive to Babylon, and will kill them with the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因耶和华如此说：『我必使你自觉惊吓，你也必使众朋友惊吓；他们必倒在仇敌的刀下，你也必亲眼看见；我必将犹大人全交在巴比伦王的手中，他要将他们掳到巴比伦去，也要用刀将他们杀戮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因耶和華如此說：『我必使你自覺驚嚇，你也必使眾朋友驚嚇；他們必倒在仇敵的刀下，你也必親眼看見；我必將猶大人全交在巴比倫王的手中，他要將他們擄到巴比倫去，也要用刀將他們殺戮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Moreover I will give all the riches of this city, and all its gains, and all its precious things, yes, I will give all the treasures of the kings of Judah into the hand of their enemies. They will make them captives, take them, and carry them to Babylon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我要将这城中的一切货财和劳碌得来的，并一切珍宝，以及犹大君王所有的宝物，都交在他们仇敌的手中；仇敌要当作掠物带到巴比伦去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我要將這城中的一切貨財和勞碌得來的，並一切珍寶，以及猶大君王所有的寶物，都交在他們仇敵的手中；仇敵要當作掠物帶到巴比倫去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You, Pashhur, and all who dwell in your house will go into captivity. You will come to Babylon, and there you will die, and there you will be buried, you, and all your friends, to whom you have prophesied falsely.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这巴施户珥和一切住在你家中的人都必被掳去；你和你的众朋友，就是你向他们说假预言的，都必到巴比伦去，要死在那里，葬在那里。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這巴施戶珥和一切住在你家中的人都必被擄去；你和你的眾朋友，就是你向他們說假預言的，都必到巴比倫去，要死在那裏，葬在那裏。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "LORD, you have persuaded me, and I was persuaded. You are stronger than I, and have prevailed. I have become a laughingstock all day. Everyone mocks me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，你曾劝导我， 我也听了你的劝导。 你比我有力量，且胜了我。 我终日成为笑话， 人人都戏弄我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，你曾勸導我， 我也聽了你的勸導。 你比我有力量，且勝了我。 我終日成為笑話， 人人都戲弄我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For as often as I speak, I cry out; I cry, “Violence and destruction!” because the LORD’s word has been made a reproach to me, and a derision, all day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我每逢讲论的时候，就发出哀声， 我喊叫说：有强暴和毁灭！ 因为耶和华的话终日成了我的凌辱、讥刺。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我每逢講論的時候，就發出哀聲， 我喊叫說：有強暴和毀滅！ 因為耶和華的話終日成了我的凌辱、譏刺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "If I say that I will not make mention of him, or speak any more in his name, then there is in my heart as it were a burning fire shut up in my bones. I am weary with holding it in. I can’t.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若说：我不再提耶和华， 也不再奉他的名讲论， 我便心里觉得 似乎有烧着的火闭塞在我骨中， 我就含忍不住，不能自禁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若說：我不再提耶和華， 也不再奉他的名講論， 我便心裏覺得 似乎有燒着的火閉塞在我骨中， 我就含忍不住，不能自禁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For I have heard the defaming of many: “Terror on every side! Denounce, and we will denounce him!” say all my familiar friends, those who watch for my fall. “Perhaps he will be persuaded, and we will prevail against him, and we will take our revenge on him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见了许多人的谗谤， 四围都是惊吓； 就是我知己的朋友也都窥探我， 愿我跌倒，说： 告他吧，我们也要告他！ 或者他被引诱， 我们就能胜他， 在他身上报仇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見了許多人的讒謗， 四圍都是驚嚇； 就是我知己的朋友也都窺探我， 願我跌倒，說： 告他吧，我們也要告他！ 或者他被引誘， 我們就能勝他， 在他身上報仇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But the LORD is with me as an awesome mighty one. Therefore my persecutors will stumble, and they won’t prevail. They will be utterly disappointed because they have not dealt wisely, even with an everlasting dishonor which will never be forgotten.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，耶和华与我同在， 好像甚可怕的勇士。 因此，逼迫我的必都绊跌， 不能得胜； 他们必大大蒙羞， 就是受永不忘记的羞辱， 因为他们行事没有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，耶和華與我同在， 好像甚可怕的勇士。 因此，逼迫我的必都絆跌， 不能得勝； 他們必大大蒙羞， 就是受永不忘記的羞辱， 因為他們行事沒有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But the LORD of Armies, who tests the righteous, who sees the heart and the mind, let me see your vengeance on them, for I have revealed my cause to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "试验义人、察看人肺腑心肠的万军之耶和华啊， 求你容我见你在他们身上报仇， 因我将我的案件向你禀明了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "試驗義人、察看人肺腑心腸的萬軍之耶和華啊， 求你容我見你在他們身上報仇， 因我將我的案件向你稟明了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Sing to the LORD! Praise the LORD, for he has delivered the soul of the needy from the hand of evildoers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要向耶和华唱歌； 赞美耶和华！ 因他救了穷人的性命脱离恶人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要向耶和華唱歌； 讚美耶和華！ 因他救了窮人的性命脫離惡人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Cursed is the day in which I was born. Don’t let the day in which my mother bore me be blessed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿我生的那日受咒诅； 愿我母亲产我的那日不蒙福！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願我生的那日受咒詛； 願我母親產我的那日不蒙福！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Cursed is the man who brought news to my father, saying, “A boy is born to you,” making him very glad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给我父亲报信说「你得了儿子」， 使我父亲甚欢喜的， 愿那人受咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給我父親報信說「你得了兒子」， 使我父親甚歡喜的， 願那人受咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Let that man be as the cities which the LORD overthrew, and didn’t repent. Let him hear a cry in the morning, and shouting at noontime,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿那人像耶和华所倾覆而不后悔的城邑； 愿他早晨听见哀声， 晌午听见呐喊；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願那人像耶和華所傾覆而不後悔的城邑； 願他早晨聽見哀聲， 晌午聽見吶喊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "because he didn’t kill me from the womb. So my mother would have been my grave, and her womb always great.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因他在我未出胎的时候不杀我， 使我母亲成了我的坟墓， 胎就时常重大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因他在我未出胎的時候不殺我， 使我母親成了我的墳墓， 胎就時常重大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Why did I come out of the womb to see labor and sorrow, that my days should be consumed with shame?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为何出胎见劳碌愁苦， 使我的年日因羞愧消灭呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為何出胎見勞碌愁苦， 使我的年日因羞愧消滅呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

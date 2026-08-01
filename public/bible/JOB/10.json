@@ -1,0 +1,423 @@
+{
+  "bookId": "JOB",
+  "chapter": 10,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“My soul is weary of my life. I will give free course to my complaint. I will speak in the bitterness of my soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我厌烦我的性命， 必由着自己述说我的哀情； 因心里苦恼，我要说话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我厭煩我的性命， 必由着自己述說我的哀情； 因心裏苦惱，我要說話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will tell God, ‘Do not condemn me. Show me why you contend with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对 神说：不要定我有罪， 要指示我，你为何与我争辩？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對上帝說：不要定我有罪， 要指示我，你為何與我爭辯？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Is it good to you that you should oppress, that you should despise the work of your hands, and smile on the counsel of the wicked?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你手所造的， 你又欺压，又藐视， 却光照恶人的计谋。 这事你以为美吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你手所造的， 你又欺壓，又藐視， 卻光照惡人的計謀。 這事你以為美嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Do you have eyes of flesh? Or do you see as man sees?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的眼岂是肉眼？ 你查看岂像人查看吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的眼豈是肉眼？ 你查看豈像人查看嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Are your days as the days of mortals, or your years as man’s years,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的日子岂像人的日子， 你的年岁岂像人的年岁，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的日子豈像人的日子， 你的年歲豈像人的年歲，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "that you inquire after my iniquity, and search after my sin?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就追问我的罪孽， 寻察我的罪过吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就追問我的罪孽， 尋察我的罪過嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Although you know that I am not wicked, there is no one who can deliver out of your hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其实，你知道我没有罪恶， 并没有能救我脱离你手的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其實，你知道我沒有罪惡， 並沒有能救我脫離你手的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“‘Your hands have framed me and fashioned me altogether, yet you destroy me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的手创造我，造就我的四肢百体， 你还要毁灭我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的手創造我，造就我的四肢百體， 你還要毀滅我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Remember, I beg you, that you have fashioned me as clay. Will you bring me into dust again?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你记念—制造我如抟泥一般， 你还要使我归于尘土吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你記念－製造我如摶泥一般， 你還要使我歸於塵土嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Haven’t you poured me out like milk, and curdled me like cheese?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不是倒出我来好像奶， 使我凝结如同奶饼吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不是倒出我來好像奶， 使我凝結如同奶餅嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You have clothed me with skin and flesh, and knit me together with bones and sinews.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你以皮和肉为衣给我穿上， 用骨与筋把我全体联络。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你以皮和肉為衣給我穿上， 用骨與筋把我全體聯絡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You have granted me life and loving kindness. Your visitation has preserved my spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你将生命和慈爱赐给我； 你也眷顾保全我的心灵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你將生命和慈愛賜給我； 你也眷顧保全我的心靈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Yet you hid these things in your heart. I know that this is with you:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，你待我的这些事早已藏在你心里； 我知道你久有此意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，你待我的這些事早已藏在你心裏； 我知道你久有此意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "if I sin, then you mark me. You will not acquit me from my iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若犯罪，你就察看我， 并不赦免我的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若犯罪，你就察看我， 並不赦免我的罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "If I am wicked, woe to me. If I am righteous, I still will not lift up my head, being filled with disgrace, and conscious of my affliction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若行恶，便有了祸； 我若为义，也不敢抬头， 正是满心羞愧， 眼见我的苦情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若行惡，便有了禍； 我若為義，也不敢抬頭， 正是滿心羞愧， 眼見我的苦情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If my head is held high, you hunt me like a lion. Again you show yourself powerful to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若昂首自得，你就追捕我如狮子， 又在我身上显出奇能。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若昂首自得，你就追捕我如獅子， 又在我身上顯出奇能。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You renew your witnesses against me, and increase your indignation on me. Changes and warfare are with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你重立见证攻击我， 向我加增恼怒， 如军兵更换着攻击我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你重立見證攻擊我， 向我加增惱怒， 如軍兵更換着攻擊我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“‘Why, then, have you brought me out of the womb? I wish I had given up the spirit, and no eye had seen me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你为何使我出母胎呢？ 不如我当时气绝，无人得见我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你為何使我出母胎呢？ 不如我當時氣絕，無人得見我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I should have been as though I had not been. I should have been carried from the womb to the grave.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，就如没有我一般， 一出母胎就被送入坟墓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，就如沒有我一般， 一出母胎就被送入墳墓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Aren’t my days few? Stop! Leave me alone, that I may find a little comfort,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20-21",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的日子不是甚少吗？ 求你停手宽容我， 叫我在往而不返之先— 就是往黑暗和死荫之地以先— 可以稍得畅快。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的日子不是甚少嗎？ 求你停手寬容我， 叫我在往而不返之先－ 就是往黑暗和死蔭之地以先－ 可以稍得暢快。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "before I go where I will not return from, to the land of darkness and of the shadow of death;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "the land dark as midnight, of the shadow of death, without any order, where the light is as midnight.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那地甚是幽暗，是死荫混沌之地； 那里的光好像幽暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那地甚是幽暗，是死蔭混沌之地； 那裏的光好像幽暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

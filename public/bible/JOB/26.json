@@ -1,0 +1,280 @@
+{
+  "bookId": "JOB",
+  "chapter": 26,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Job answered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯回答说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯回答說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“How have you helped him who is without power! How have you saved the arm that has no strength!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无能的人蒙你何等的帮助！ 膀臂无力的人蒙你何等的拯救！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無能的人蒙你何等的幫助！ 膀臂無力的人蒙你何等的拯救！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "How have you counseled him who has no wisdom, and plentifully declared sound knowledge!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无智慧的人蒙你何等的指教！ 你向他多显大知识！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無智慧的人蒙你何等的指教！ 你向他多顯大知識！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "To whom have you uttered words? Whose spirit came out of you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你向谁发出言语来？ 谁的灵从你而出？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你向誰發出言語來？ 誰的靈從你而出？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“The departed spirits tremble, those beneath the waters and all that live in them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在大水和水族以下的阴魂战兢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在大水和水族以下的陰魂戰兢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Sheol is naked before God, and Abaddon has no covering.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:6 Sheol is the place of the dead."
+          },
+          {
+            "id": "f2",
+            "text": "26:6 Abaddon means Destroyer."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在 神面前，阴间显露； 灭亡也不得遮掩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在上帝面前，陰間顯露； 滅亡也不得遮掩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He stretches out the north over empty space, and hangs the earth on nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神将北极铺在空中， 将大地悬在虚空；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝將北極鋪在空中， 將大地懸在虛空；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He binds up the waters in his thick clouds, and the cloud is not burst under them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将水包在密云中， 云却不破裂；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將水包在密雲中， 雲卻不破裂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He encloses the face of his throne, and spreads his cloud on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遮蔽他的宝座， 将云铺在其上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遮蔽他的寶座， 將雲鋪在其上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He has described a boundary on the surface of the waters, and to the confines of light and darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在水面的周围划出界限， 直到光明黑暗的交界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在水面的周圍劃出界限， 直到光明黑暗的交界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The pillars of heaven tremble and are astonished at his rebuke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天的柱子因他的斥责震动惊奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天的柱子因他的斥責震動驚奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He stirs up the sea with his power, and by his understanding he strikes through Rahab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他以能力搅动大海； 他借知识打伤拉哈伯，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:12 或译：平静"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他以能力攪動大海； 他藉知識打傷拉哈伯，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 26:12 或譯：平靜"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "By his Spirit the heavens are garnished. His hand has pierced the swift serpent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "借他的灵使天有妆饰； 他的手刺杀快蛇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "藉他的靈使天有妝飾； 他的手刺殺快蛇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Behold, these are but the outskirts of his ways. How small a whisper do we hear of him! But the thunder of his power who can understand?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，这不过是 神工作的些微； 我们所听于他的是何等细微的声音！ 他大能的雷声谁能明透呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，這不過是上帝工作的些微； 我們所聽於他的是何等細微的聲音！ 他大能的雷聲誰能明透呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

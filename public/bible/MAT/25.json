@@ -1,0 +1,852 @@
+{
+  "bookId": "MAT",
+  "chapter": 25,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Thenthe Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那时，天国好比十个童女拿着灯出去迎接新郎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那時，天國好比十個童女拿着燈出去迎接新郎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Fiveof them were foolish, and five were wise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中有五个是愚拙的，五个是聪明的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中有五個是愚拙的，五個是聰明的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Thosewho were foolish, when they took their lamps, took no oil with them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚拙的拿着灯，却不预备油；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚拙的拿着燈，卻不預備油；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "butthe wise took oil in their vessels with their lamps.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "聪明的拿着灯，又预备油在器皿里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聰明的拿着燈，又預備油在器皿裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Nowwhile the bridegroom delayed, they all slumbered and slept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "新郎迟延的时候，她们都打盹，睡着了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "新郎遲延的時候，她們都打盹，睡着了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Butat midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "半夜有人喊着说：『新郎来了，你们出来迎接他！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "半夜有人喊着說：『新郎來了，你們出來迎接他！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Thenall those virgins arose, and trimmed their lamps.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:7 The end of the wick of an oil lamp needs to be cut off periodically to avoid having it become clogged with carbon deposits. The wick height is also adjusted so that the flame burns evenly and gives good light without producing a lot of smoke."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些童女就都起来收拾灯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些童女就都起來收拾燈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Thefoolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚拙的对聪明的说：『请分点油给我们，因为我们的灯要灭了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚拙的對聰明的說：『請分點油給我們， 因為我們的燈要滅了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Butthe wise answered, saying, ‘What if there isn’ t enough for us and you? You go rather to those who sell, and buy for yourselves.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "聪明的回答说：『恐怕不够你我用的；不如你们自己到卖油的那里去买吧。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聰明的回答說：『恐怕不夠你我用的；不如你們自己到賣油的那裏去買吧。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Whilethey went away to buy, the bridegroom came, and those who were ready went in with him to the wedding feast, and the door was shut.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们去买的时候，新郎到了。那预备好了的，同他进去坐席，门就关了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們去買的時候，新郎到了。那預備好了的，同他進去坐席，門就關了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Afterwardthe other virgins also came, saying, ‘Lord, Lord, open to us.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的童女随后也来了，说：『主啊，主啊，给我们开门！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的童女隨後也來了，說：『主啊，主啊，給我們開門！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Buthe answered, ‘Most certainly I tell you, I don’ t know you.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他却回答说：『我实在告诉你们，我不认识你们。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他卻回答說：『我實在告訴你們，我不認識你們。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Watchtherefore, for you don’ t know the day nor the hour in which the Son of Man is coming.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们要警醒；因为那日子，那时辰，你们不知道。」 （路19·11—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們要警醒；因為那日子，那時辰，你們不知道。」 （路19‧11－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Forit is like a man going into another country, who called his own servants and entrusted his goods to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「天国又好比一个人要往外国去，就叫了仆人来，把他的家业交给他们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「天國又好比一個人要往外國去，就叫了僕人來，把他的家業交給他們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Toone he gave five talents, toanother two, to another one, to each according to his own ability. Then he went on his journey.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:15 A talent is about 30 kilograms or 66 pounds (usually used to weigh silver unless otherwise specified)"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按着各人的才干给他们银子：一个给了五千，一个给了二千，一个给了一千，就往外国去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按着各人的才幹給他們銀子：一個給了五千，一個給了二千，一個給了一千，就往外國去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Immediately hewho received the five talents went and traded with them, and made another five talents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领五千的随即拿去做买卖，另外赚了五千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領五千的隨即拿去做買賣，另外賺了五千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Inthe same way, he also who got the two gained another two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领二千的也照样另赚了二千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領二千的也照樣另賺了二千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Buthe who received the one talent went away and dug in the earth and hid his lord’s money.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那领一千的去掘开地，把主人的银子埋藏了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那領一千的去掘開地，把主人的銀子埋藏了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Nowafter a long time the lord of those servants came, and settled accounts with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了许久，那些仆人的主人来了，和他们算帐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了許久，那些僕人的主人來了，和他們算帳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Hewho received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领五千银子的又带着那另外的五千来，说：『主啊，你交给我五千银子。请看，我又赚了五千。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領五千銀子的又帶着那另外的五千來，說：『主啊，你交給我五千銀子。請看，我又賺了五千。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Hislord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人說：『好，你這又良善又忠心的僕人，你在不多的事上有忠心，我要把許多事派你管理；可以進來享受你主人的快樂。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Healso who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领二千的也来，说：『主啊，你交给我二千银子。请看，我又赚了二千。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領二千的也來，說：『主啊，你交給我二千銀子。請看，我又賺了二千。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Hislord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things. I will set you over many things. Enter into the joy of your lord.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人说：『好，你这又良善又忠心的仆人，你在不多的事上有忠心，我要把许多事派你管理；可以进来享受你主人的快乐。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人說：『好，你這又良善又忠心的僕人，你在不多的事上有忠心，我要把許多事派你管理；可以進來享受你主人的快樂。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Healso who had received the one talent came and said, ‘Lord, I knew you that you are a hard man, reaping where you didn’ t sow, and gathering where you didn’ t scatter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那领一千的也来，说：『主啊，我知道你是忍心的人，没有种的地方要收割，没有散的地方要聚敛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那領一千的也來，說：『主啊，我知道你是忍心的人，沒有種的地方要收割，沒有散的地方要聚斂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Iwas afraid, and went away and hid your talent in the earth. Behold, you have what is yours.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就害怕，去把你的一千银子埋藏在地里。请看，你的原银子在这里。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就害怕，去把你的一千銀子埋藏在地裏。請看，你的原銀子在這裏。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Buthis lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’ t sow, and gather where I didn’ t scatter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人回答说：『你这又恶又懒的仆人，你既知道我没有种的地方要收割，没有散的地方要聚敛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人回答說：『你這又惡又懶的僕人，你既知道我沒有種的地方要收割，沒有散的地方要聚斂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Youought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就当把我的银子放给兑换银钱的人，到我来的时候，可以连本带利收回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就當把我的銀子放給兌換銀錢的人，到我來的時候，可以連本帶利收回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Takeaway therefore the talent from him and give it to him who has the ten talents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夺过他这一千来，给那有一万的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奪過他這一千來，給那有一萬的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Forto everyone who has will be given, and he will have abundance, but from him who doesn’ t have, even that which he has will be taken away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为凡有的，还要加给他，叫他有余；没有的，连他所有的也要夺过来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為凡有的，還要加給他，叫他有餘；沒有的，連他所有的也要奪過來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Throwout the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把这无用的仆人丢在外面黑暗里；在那里必要哀哭切齿了。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把這無用的僕人丟在外面黑暗裏；在那裏必要哀哭切齒了。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Butwhen the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「当人子在他荣耀里、同着众天使降临的时候，要坐在他荣耀的宝座上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「當人子在他榮耀裏、同着眾天使降臨的時候，要坐在他榮耀的寶座上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Beforehim all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万民都要聚集在他面前。他要把他们分别出来，好像牧羊的分别绵羊山羊一般，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬民都要聚集在他面前。他要把他們分別出來，好像牧羊的分別綿羊山羊一般，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Hewill set the sheep on his right hand, but the goats on the left.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把绵羊安置在右边，山羊在左边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把綿羊安置在右邊，山羊在左邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Thenthe King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是王要向那右边的说：『你们这蒙我父赐福的，可来承受那创世以来为你们所预备的国；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是王要向那右邊的說：『你們這蒙我父賜福的，可來承受那創世以來為你們所預備的國；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "forI was hungry and you gave me food to eat. I was thirsty and you gave me drink. I was a stranger and you took me in.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我饿了，你们给我吃，渴了，你们给我喝；我作客旅，你们留我住；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我餓了，你們給我吃，渴了，你們給我喝；我作客旅，你們留我住；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Iwas naked and you clothed me. I was sick and you visited me. I was in prison and you came to me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我赤身露体，你们给我穿；我病了，你们看顾我；我在监里，你们来看我。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我赤身露體，你們給我穿；我病了，你們看顧我；我在監裏，你們來看我。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "“Thenthe righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you a drink?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人就回答说：『主啊，我们什么时候见你饿了，给你吃，渴了，给你喝？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人就回答說：『主啊，我們甚麼時候見你餓了，給你吃，渴了，給你喝？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Whendid we see you as a stranger and take you in, or naked and clothe you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "什么时候见你作客旅，留你住，或是赤身露体，给你穿？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "甚麼時候見你作客旅，留你住，或是赤身露體，給你穿？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Whendid we see you sick or in prison and come to you?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又什么时候见你病了，或是在监里，来看你呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又甚麼時候見你病了，或是在監裏，來看你呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "“TheKing will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, youdid it to me.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "25:40 The word for “brothers” here may be also correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王要回答说：『我实在告诉你们，这些事你们既做在我这弟兄中一个最小的身上，就是做在我身上了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王要回答說：『我實在告訴你們，這些事你們既做在我這弟兄中一個最小的身上，就是做在我身上了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Thenhe will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王又要向那左边的说：『你们这被咒诅的人，离开我！进入那为魔鬼和他的使者所预备的永火里去！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王又要向那左邊的說：『你們這被咒詛的人，離開我！進入那為魔鬼和他的使者所預備的永火裏去！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "forI was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我饿了，你们不给我吃，渴了，你们不给我喝；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我餓了，你們不給我吃，渴了，你們不給我喝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Iwas a stranger, and you didn’t take me in; naked, and you didn’t clothe me; sick, and in prison, and you didn’t visit me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我作客旅，你们不留我住；我赤身露体，你们不给我穿；我病了，我在监里，你们不来看顾我。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我作客旅，你們不留我住；我赤身露體，你們不給我穿；我病了，我在監裏，你們不來看顧我。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "“Thenthey will also answer, saying, ‘Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn’t help you?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们也要回答说：『主啊，我们什么时候见你饿了，或渴了，或作客旅，或赤身露体，或病了，或在监里，不伺候你呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們也要回答說：『主啊，我們甚麼時候見你餓了，或渴了，或作客旅，或赤身露體，或病了，或在監裏，不伺候你呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "“Thenhe will answer them, saying, ‘Most certainly I tell you, because you didn’ t do it to one of the least of these, you didn’ t do it to me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王要回答说：『我实在告诉你们，这些事你们既不做在我这弟兄中一个最小的身上，就是不做在我身上了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王要回答說：『我實在告訴你們，這些事你們既不做在我這弟兄中一個最小的身上，就是不做在我身上了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Thesewill go away into eternal punishment, but the righteous into eternal life.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人要往永刑里去；那些义人要往永生里去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人要往永刑裏去；那些義人要往永生裏去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

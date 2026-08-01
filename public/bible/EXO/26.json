@@ -1,0 +1,680 @@
+{
+  "bookId": "EXO",
+  "chapter": 26,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Moreover you shall make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet, with cherubim. You shall make them with the work of a skillful workman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用十幅幔子做帐幕。这些幔子要用捻的细麻和蓝色、紫色、朱红色线制造，并用巧匠的手工绣上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用十幅幔子做帳幕。這些幔子要用撚的細麻和藍色、紫色、朱紅色線製造，並用巧匠的手工繡上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The length of each curtain shall be twenty-eight cubits, and the width of each curtain four cubits: all the curtains shall have one measure.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "26:2 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每幅幔子要长二十八肘，宽四肘，幔子都要一样的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每幅幔子要長二十八肘，寬四肘，幔子都要一樣的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Five curtains shall be coupled together to one another, and the other five curtains shall be coupled to one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这五幅幔子要幅幅相连；那五幅幔子也要幅幅相连。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這五幅幔子要幅幅相連；那五幅幔子也要幅幅相連。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You shall make loops of blue on the edge of the one curtain from the edge in the coupling, and you shall do likewise on the edge of the curtain that is outermost in the second coupling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这相连的幔子末幅边上要做蓝色的钮扣；在那相连的幔子末幅边上也要照样做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這相連的幔子末幅邊上要做藍色的鈕扣；在那相連的幔子末幅邊上也要照樣做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You shall make fifty loops in the one curtain, and you shall make fifty loops in the edge of the curtain that is in the second coupling. The loops shall be opposite one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要在这相连的幔子上做五十个钮扣；在那相连的幔子上也做五十个钮扣，都要两两相对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要在這相連的幔子上做五十個鈕扣；在那相連的幔子上也做五十個鈕扣，都要兩兩相對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You shall make fifty clasps of gold, and couple the curtains to one another with the clasps. The tabernacle shall be a unit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要做五十个金钩，用钩使幔子相连，这才成了一个帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要做五十個金鉤，用鉤使幔子相連，這才成了一個帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“You shall make curtains of goats’ hair for a covering over the tabernacle. You shall make eleven curtains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用山羊毛织十一幅幔子，作为帐幕以上的罩棚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用山羊毛織十一幅幔子，作為帳幕以上的罩棚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The length of each curtain shall be thirty cubits, and the width of each curtain four cubits: the eleven curtains shall have one measure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每幅幔子要长三十肘，宽四肘；十一幅幔子都要一样的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每幅幔子要長三十肘，寬四肘；十一幅幔子都要一樣的尺寸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You shall couple five curtains by themselves, and six curtains by themselves, and shall double over the sixth curtain in the forefront of the tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把五幅幔子连成一幅，又把六幅幔子连成一幅，这第六幅幔子要在罩棚的前面折上去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把五幅幔子連成一幅，又把六幅幔子連成一幅，這第六幅幔子要在罩棚的前面摺上去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall make fifty loops on the edge of the one curtain that is outermost in the coupling, and fifty loops on the edge of the curtain which is outermost in the second coupling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这相连的幔子末幅边上要做五十个钮扣；在那相连的幔子末幅边上也做五十个钮扣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這相連的幔子末幅邊上要做五十個鈕扣；在那相連的幔子末幅邊上也做五十個鈕扣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall make fifty clasps of bronze, and put the clasps into the loops, and couple the tent together, that it may be one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要做五十个铜钩，钩在钮扣中，使罩棚连成一个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要做五十個銅鉤，鉤在鈕扣中，使罩棚連成一個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The overhanging part that remains of the curtains of the tent—the half curtain that remains—shall hang over the back of the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罩棚的幔子所余那垂下来的半幅幔子，要垂在帐幕的后头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "罩棚的幔子所餘那垂下來的半幅幔子，要垂在帳幕的後頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The cubit on the one side and the cubit on the other side, of that which remains in the length of the curtains of the tent, shall hang over the sides of the tabernacle on this side and on that side, to cover it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罩棚的幔子所余长的，这边一肘，那边一肘，要垂在帐幕的两旁，遮盖帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "罩棚的幔子所餘長的，這邊一肘，那邊一肘，要垂在帳幕的兩旁，遮蓋帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall make a covering for the tent of rams’ skins dyed red, and a covering of sea cow hides above.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要用染红的公羊皮做罩棚的盖；再用海狗皮做一层罩棚上的顶盖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要用染紅的公羊皮做罩棚的蓋；再用海狗皮做一層罩棚上的頂蓋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“You shall make the boards for the tabernacle of acacia wood, standing upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用皂荚木做帐幕的竖板。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用皂莢木做帳幕的豎板。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Ten cubits shall be the length of a board, and one and a half cubits the width of each board.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每块要长十肘，宽一肘半；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每塊要長十肘，寬一肘半；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "There shall be two tenons in each board, joined to one another: thus you shall make for all the boards of the tabernacle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每块必有两榫相对。帐幕一切的板都要这样做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每塊必有兩榫相對。帳幕一切的板都要這樣做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You shall make twenty boards for the tabernacle, for the south side southward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的南面要做板二十块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的南面要做板二十塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You shall make forty sockets of silver under the twenty boards; two sockets under one board for its two tenons, and two sockets under another board for its two tenons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在这二十块板底下要做四十个带卯的银座，两卯接这块板上的两榫，两卯接那块板上的两榫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在這二十塊板底下要做四十個帶卯的銀座，兩卯接這塊板上的兩榫，兩卯接那塊板上的兩榫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "For the second side of the tabernacle, on the north side, twenty boards,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕第二面，就是北面，也要做板二十块",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕第二面，就是北面，也要做板二十塊",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and their forty sockets of silver; two sockets under one board, and two sockets under another board.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和带卯的银座四十个；这板底下有两卯，那板底下也有两卯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和帶卯的銀座四十個；這板底下有兩卯，那板底下也有兩卯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For the far side of the tabernacle westward you shall make six boards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕的后面，就是西面，要做板六块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕的後面，就是西面，要做板六塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "You shall make two boards for the corners of the tabernacle in the far side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帐幕后面的拐角要做板两块。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帳幕後面的拐角要做板兩塊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They shall be double beneath, and in the same way they shall be whole to its top to one ring: thus shall it be for them both; they shall be for the two corners.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "板的下半截要双的，上半截要整的，直顶到第一个环子；两块都要这样做两个拐角。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "板的下半截要雙的，上半截要整的，直頂到第一個環子；兩塊都要這樣做兩個拐角。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必有八块板和十六个带卯的银座；这板底下有两卯，那板底下也有两卯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必有八塊板和十六個帶卯的銀座；這板底下有兩卯，那板底下也有兩卯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“You shall make bars of acacia wood: five for the boards of the one side of the tabernacle,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用皂荚木作闩：为帐幕这面的板作五闩，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用皂莢木做閂：為帳幕這面的板做五閂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the far side westward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为帐幕那面的板做五闩，又为帐幕后面的板做五闩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為帳幕那面的板做五閂，又為帳幕後面的板做五閂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The middle bar in the middle of the boards shall pass through from end to end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "板腰间的中闩要从这一头通到那一头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "板腰間的中閂要從這一頭通到那一頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "You shall overlay the boards with gold, and make their rings of gold for places for the bars. You shall overlay the bars with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "板要用金子包裹，又要做板上的金环套闩；闩也要用金子包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "板要用金子包裹，又要做板上的金環套閂；閂也要用金子包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "You shall set up the tabernacle according to the way that it was shown to you on the mountain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要照着在山上指示你的样式立起帐幕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要照着在山上指示你的樣式立起帳幕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“You shall make a veil of blue, and purple, and scarlet, and fine twined linen, with cherubim. It shall be the work of a skillful workman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要用蓝色、紫色、朱红色线，和捻的细麻织幔子，以巧匠的手工绣上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要用藍色、紫色、朱紅色線，和撚的細麻織幔子，以巧匠的手工繡上基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "You shall hang it on four pillars of acacia overlaid with gold; their hooks shall be of gold, on four sockets of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把幔子挂在四根包金的皂荚木柱子上，柱子上当有金钩，柱子安在四个带卯的银座上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把幔子掛在四根包金的皂莢木柱子上，柱子上當有金鉤，柱子安在四個帶卯的銀座上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "You shall hang up the veil under the clasps, and shall bring the ark of the covenant in there within the veil. The veil shall separate the holy place from the most holy for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要使幔子垂在钩子下，把法柜抬进幔子内；这幔子要将圣所和至圣所隔开。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要使幔子垂在鉤子下，把法櫃抬進幔子內；這幔子要將聖所和至聖所隔開。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "You shall put the mercy seat on the ark of the covenant in the most holy place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把施恩座安在至圣所内的法柜上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把施恩座安在至聖所內的法櫃上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "You shall set the table outside the veil, and the lamp stand opposite the table on the side of the tabernacle toward the south. You shall put the table on the north side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把桌子安在幔子外帐幕的北面；把灯台安在帐幕的南面，彼此相对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把桌子安在幔子外帳幕的北面；把燈臺安在帳幕的南面，彼此相對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "“You shall make a screen for the door of the Tent, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要拿蓝色、紫色、朱红色线，和捻的细麻，用绣花的手工织帐幕的门帘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要拿藍色、紫色、朱紅色線，和撚的細麻，用繡花的手工織帳幕的門簾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "You shall make for the screen five pillars of acacia, and overlay them with gold. Their hooks shall be of gold. You shall cast five sockets of bronze for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用皂荚木为帘子做五根柱子，用金子包裹。柱子上当有金钩；又要为柱子用铜铸造五个带卯的座。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用皂莢木為簾子做五根柱子，用金子包裹。柱子上當有金鉤；又要為柱子用銅鑄造五個帶卯的座。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

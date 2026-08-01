@@ -1,0 +1,551 @@
+{
+  "bookId": "JOB",
+  "chapter": 20,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Zophar the Naamathite answered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿玛人琐法回答说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿瑪人瑣法回答說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Therefore my thoughts answer me, even by reason of my haste that is in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心中急躁， 所以我的思念叫我回答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心中急躁， 所以我的思念叫我回答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I have heard the reproof which puts me to shame. The spirit of my understanding answers me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我已听见那羞辱我，责备我的话； 我的悟性叫我回答。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我已聽見那羞辱我，責備我的話； 我的悟性叫我回答。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Don’t you know this from old time, since man was placed on earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你岂不知亘古以来， 自从人生在地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你豈不知亙古以來， 自從人生在地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "that the triumphing of the wicked is short, the joy of the godless but for a moment?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人夸胜是暂时的， 不敬虔人的喜乐不过转眼之间吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人誇勝是暫時的， 不敬虔人的喜樂不過轉眼之間嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Though his height mount up to the heavens, and his head reach to the clouds,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的尊荣虽达到天上， 头虽顶到云中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的尊榮雖達到天上， 頭雖頂到雲中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "yet he will perish forever like his own dung. Those who have seen him will say, ‘Where is he?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他终必灭亡，像自己的粪一样； 素来见他的人要说：他在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他終必滅亡，像自己的糞一樣； 素來見他的人要說：他在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He will fly away as a dream, and will not be found. Yes, he will be chased away like a vision of the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必飞去如梦，不再寻见， 速被赶去，如夜间的异象。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必飛去如夢，不再尋見， 速被趕去，如夜間的異象。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The eye which saw him will see him no more, neither will his place see him any more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亲眼见过他的，必不再见他； 他的本处也再见不着他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親眼見過他的，必不再見他； 他的本處也再見不着他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "His children will seek the favor of the poor. His hands will give back his wealth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的儿女要求穷人的恩； 他的手要赔还不义之财。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的兒女要求窮人的恩； 他的手要賠還不義之財。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "His bones are full of his youth, but youth will lie down with him in the dust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的骨头虽然有青年之力， 却要和他一同躺卧在尘土中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的骨頭雖然有青年之力， 卻要和他一同躺臥在塵土中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“Though wickedness is sweet in his mouth, though he hide it under his tongue,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他口内虽以恶为甘甜， 藏在舌头底下，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他口內雖以惡為甘甜， 藏在舌頭底下，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "though he spare it, and will not let it go, but keep it still within his mouth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱恋不舍，含在口中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛戀不捨，含在口中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "yet his food in his bowels is turned. It is cobra venom within him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的食物在肚里却要化为酸， 在他里面成为虺蛇的恶毒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的食物在肚裏卻要化為酸， 在他裏面成為虺蛇的惡毒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He has swallowed down riches, and he will vomit them up again. God will cast them out of his belly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他吞了财宝，还要吐出； 神要从他腹中掏出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他吞了財寶，還要吐出； 上帝要從他腹中掏出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He will suck cobra venom. The viper’s tongue will kill him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必吸饮虺蛇的毒气； 蝮蛇的舌头也必杀他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必吸飲虺蛇的毒氣； 蝮蛇的舌頭也必殺他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He will not look at the rivers, the flowing streams of honey and butter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "流奶与蜜之河， 他不得再见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "流奶與蜜之河， 他不得再見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He will restore that for which he labored, and will not swallow it down. He will not rejoice according to the substance that he has gotten.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他劳碌得来的要赔还，不得享用； 不能照所得的财货欢乐。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:18 原文是吞下"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他勞碌得來的要賠還，不得享用； 不能照所得的財貨歡樂。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:18 原文是吞下"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For he has oppressed and forsaken the poor. He has violently taken away a house, and he will not build it up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他欺压穷人，且又离弃； 强取非自己所盖的房屋 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:19 或译：强取房屋不得再建造"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他欺壓窮人，且又離棄； 強取非自己所蓋的房屋。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:19 或譯：強取房屋不得再建造"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Because he knew no quietness within him, he will not save anything of that in which he delights.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他因贪而无厌， 所喜悦的连一样也不能保守。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他因貪而無厭， 所喜悅的連一樣也不能保守。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "There was nothing left that he didn’t devour, therefore his prosperity will not endure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的没有一样他不吞灭， 所以他的福乐不能长久。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的沒有一樣他不吞滅， 所以他的福樂不能長久。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "In the fullness of his sufficiency, distress will overtake him. The hand of everyone who is in misery will come on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在满足有余的时候，必到狭窄的地步； 凡受苦楚的人都必加手在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在滿足有餘的時候，必到狹窄的地步； 凡受苦楚的人都必加手在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When he is about to fill his belly, God will cast the fierceness of his wrath on him. It will rain on him while he is eating.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他正要充满肚腹的时候， 神必将猛烈的忿怒降在他身上； 正在他吃饭的时候， 要将这忿怒像雨降在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他正要充滿肚腹的時候， 上帝必將猛烈的忿怒降在他身上； 正在他吃飯的時候， 要將這忿怒像雨降在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He will flee from the iron weapon. The bronze arrow will strike him through.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他要躲避铁器； 铜弓的箭要将他射透。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他要躲避鐵器； 銅弓的箭要將他射透。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He draws it out, and it comes out of his body. Yes, the glittering point comes out of his liver. Terrors are on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他把箭一抽，就从他身上出来； 发光的箭头从他胆中出来， 有惊惶临在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他把箭一抽，就從他身上出來； 發光的箭頭從他膽中出來， 有驚惶臨在他身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "All darkness is laid up for his treasures. An unfanned fire will devour him. It will consume that which is left in his tent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的财宝归于黑暗； 人所不吹的火要把他烧灭， 要把他帐棚中所剩下的烧毁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的財寶歸於黑暗； 人所不吹的火要把他燒滅， 要把他帳棚中所剩下的燒毀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The heavens will reveal his iniquity. The earth will rise up against him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天要显明他的罪孽； 地要兴起攻击他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天要顯明他的罪孽； 地要興起攻擊他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The increase of his house will depart. They will rush away in the day of his wrath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的家产必然过去； 神发怒的日子，他的货物都要消灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的家產必然過去； 上帝發怒的日子，他的貨物都要消滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "This is the portion of a wicked man from God, the heritage appointed to him by God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是恶人从 神所得的分， 是 神为他所定的产业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是惡人從上帝所得的分， 是上帝為他所定的產業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

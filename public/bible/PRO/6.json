@@ -1,0 +1,659 @@
+{
+  "bookId": "PRO",
+  "chapter": 6,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My son, if you have become collateral for your neighbor, if you have struck your hands in pledge for a stranger,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你若为朋友作保， 替外人击掌，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你若為朋友作保， 替外人擊掌，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "you are trapped by the words of your mouth; you are ensnared with the words of your mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就被口中的话语缠住， 被嘴里的言语捉住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就被口中的話語纏住， 被嘴裏的言語捉住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Do this now, my son, and deliver yourself, since you have come into the hand of your neighbor. Go, humble yourself. Press your plea with your neighbor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你既落在朋友手中， 就当这样行才可救自己： 你要自卑，去恳求你的朋友。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你既落在朋友手中， 就當這樣行才可救自己： 你要自卑，去懇求你的朋友。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Give no sleep to your eyes, nor slumber to your eyelids.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要容你的眼睛睡觉； 不要容你的眼皮打盹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要容你的眼睛睡覺； 不要容你的眼皮打盹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要救自己，如鹿脱离猎户的手， 如鸟脱离捕鸟人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要救自己，如鹿脫離獵戶的手， 如鳥脫離捕鳥人的手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Go to the ant, you sluggard. Consider her ways, and be wise;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人哪， 你去察看蚂蚁的动作就可得智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人哪， 你去察看螞蟻的動作就可得智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "which having no chief, overseer, or ruler,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蚂蚁没有元帅， 没有官长，没有君王，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "螞蟻沒有元帥， 沒有官長，沒有君王，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "provides her bread in the summer, and gathers her food in the harvest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尚且在夏天预备食物， 在收割时聚敛粮食。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尚且在夏天預備食物， 在收割時聚斂糧食。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "How long will you sleep, sluggard? When will you arise out of your sleep?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人哪，你要睡到几时呢？ 你何时睡醒呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人哪，你要睡到幾時呢？ 你何時睡醒呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "A little sleep, a little slumber, a little folding of the hands to sleep—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再睡片时，打盹片时， 抱着手躺卧片时，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再睡片時，打盹片時， 抱着手躺臥片時，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "so your poverty will come as a robber, and your scarcity as an armed man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的贫穷就必如强盗速来， 你的缺乏仿佛拿兵器的人来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的貧窮就必如強盜速來， 你的缺乏彷彿拿兵器的人來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "A worthless person, a man of iniquity, is he who walks with a perverse mouth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无赖的恶徒， 行动就用乖僻的口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無賴的惡徒， 行動就用乖僻的口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "who winks with his eyes, who signals with his feet, who motions with his fingers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用眼传神， 用脚示意， 用指点划，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用眼傳神， 用腳示意， 用指點劃，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "in whose heart is perverseness, who devises evil continually, who always sows discord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "心中乖僻， 常设恶谋， 布散纷争。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "心中乖僻， 常設惡謀， 布散紛爭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Therefore his calamity will come suddenly. He will be broken suddenly, and that without remedy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，灾难必忽然临到他身； 他必顷刻败坏，无法可治。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，災難必忽然臨到他身； 他必頃刻敗壞，無法可治。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "There are six things which the LORD hates; yes, seven which are an abomination to him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华所恨恶的有六样， 连他心所憎恶的共有七样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華所恨惡的有六樣， 連他心所憎惡的共有七樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "arrogant eyes, a lying tongue, hands that shed innocent blood,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是高傲的眼， 撒谎的舌， 流无辜人血的手，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是高傲的眼， 撒謊的舌， 流無辜人血的手，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "a heart that devises wicked schemes, feet that are swift in running to mischief,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "图谋恶计的心， 飞跑行恶的脚，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "圖謀惡計的心， 飛跑行惡的腳，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "a false witness who utters lies, and he who sows discord among brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吐谎言的假见证， 并弟兄中布散纷争的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "吐謊言的假見證， 並弟兄中布散紛爭的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "My son, keep your father’s commandment, and don’t forsake your mother’s teaching.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，要谨守你父亲的诫命； 不可离弃你母亲的法则，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:20 或译：指教"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，要謹守你父親的誡命； 不可離棄你母親的法則，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:20 或譯：指教"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Bind them continually on your heart. Tie them around your neck.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要常系在你心上， 挂在你项上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要常繫在你心上， 掛在你項上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "When you walk, it will lead you. When you sleep, it will watch over you. When you awake, it will talk with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你行走，它必引导你； 你躺卧，它必保守你； 你睡醒，它必与你谈论。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你行走，它必引導你； 你躺臥，它必保守你； 你睡醒，它必與你談論。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For the commandment is a lamp, and the law is light. Reproofs of instruction are the way of life,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为诫命是灯，法则是光， 训诲的责备是生命的道，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:23 或译：指教"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為誡命是燈，法則是光， 訓誨的責備是生命的道，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:23 或譯：指教"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "to keep you from the immoral woman, from the flattery of the wayward wife’s tongue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "能保你远离恶妇， 远离外女谄媚的舌头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "能保你遠離惡婦， 遠離外女諂媚的舌頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Don’t lust after her beauty in your heart, neither let her captivate you with her eyelids.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你心中不要恋慕她的美色， 也不要被她眼皮勾引。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你心中不要戀慕她的美色， 也不要被她眼皮勾引。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "For a prostitute reduces you to a piece of bread. The adulteress hunts for your precious life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，妓女能使人只剩一块饼； 淫妇猎取人宝贵的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，妓女能使人只剩一塊餅； 淫婦獵取人寶貴的生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Can a man scoop fire into his lap, and his clothes not be burned?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若怀里搋火， 衣服岂能不烧呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若懷裏搋火， 衣服豈能不燒呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Or can one walk on hot coals, and his feet not be scorched?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若在火炭上走， 脚岂能不烫呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若在火炭上走， 腳豈能不燙呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "So is he who goes in to his neighbor’s wife. Whoever touches her will not be unpunished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亲近邻舍之妻的，也是如此； 凡挨近她的，不免受罚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親近鄰舍之妻的，也是如此； 凡挨近她的，不免受罰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Men don’t despise a thief if he steals to satisfy himself when he is hungry,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "贼因饥饿偷窃充饥， 人不藐视他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "賊因飢餓偷竊充飢， 人不藐視他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "but if he is found, he shall restore seven times. He shall give all the wealth of his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若被找着，他必赔还七倍， 必将家中所有的尽都偿还。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若被找着，他必賠還七倍， 必將家中所有的盡都償還。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He who commits adultery with a woman is void of understanding. He who does it destroys his own soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与妇人行淫的，便是无知； 行这事的，必丧掉生命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與婦人行淫的，便是無知； 行這事的，必喪掉生命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He will get wounds and dishonor. His reproach will not be wiped away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必受伤损，必被凌辱； 他的羞耻不得涂抹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必受傷損，必被凌辱； 他的羞恥不得塗抹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "For jealousy arouses the fury of the husband. He won’t spare in the day of vengeance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人的嫉恨成了烈怒， 报仇的时候决不留情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人的嫉恨成了烈怒， 報仇的時候決不留情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He won’t regard any ransom, neither will he rest content, though you give many gifts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "什么赎价，他都不顾； 你虽送许多礼物，他也不肯干休。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "甚麼贖價，他都不顧； 你雖送許多禮物，他也不肯干休。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

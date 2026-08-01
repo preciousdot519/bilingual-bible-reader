@@ -1,0 +1,392 @@
+{
+  "bookId": "JOB",
+  "chapter": 7,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Isn’t a man forced to labor on earth? Aren’t his days like the days of a hired hand?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在世上岂无争战吗？ 他的日子不像雇工人的日子吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在世上豈無爭戰嗎？ 他的日子不像雇工人的日子嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "As a servant who earnestly desires the shadow, as a hireling who looks for his wages,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "像奴仆切慕黑影， 像雇工人盼望工价；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "像奴僕切慕黑影， 像雇工人盼望工價；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "so I am made to possess months of misery, wearisome nights are appointed to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也照样经过困苦的日月， 夜间的疲乏为我而定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也照樣經過困苦的日月， 夜間的疲乏為我而定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When I lie down, I say, ‘When will I arise, and the night be gone?’ I toss and turn until the dawning of the day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我躺卧的时候便说： 我何时起来，黑夜就过去呢？ 我尽是反来复去，直到天亮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我躺臥的時候便說： 我何時起來，黑夜就過去呢？ 我盡是反來覆去，直到天亮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "My flesh is clothed with worms and clods of dust. My skin closes up, and breaks out afresh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的肉体以虫子和尘土为衣； 我的皮肤才收了口又重新破裂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的肉體以蟲子和塵土為衣； 我的皮膚才收了口又重新破裂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的日子比梭更快， 都消耗在无指望之中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的日子比梭更快， 都消耗在無指望之中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Oh remember that my life is a breath. My eye will no more see good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你想念，我的生命不过是一口气； 我的眼睛必不再见福乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你想念，我的生命不過是一口氣； 我的眼睛必不再見福樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The eye of him who sees me will see me no more. Your eyes will be on me, but I will not be.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "观看我的人，他的眼必不再见我； 你的眼目要看我，我却不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "觀看我的人，他的眼必不再見我； 你的眼目要看我，我卻不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "As the cloud is consumed and vanishes away, so he who goes down to Sheol will come up no more.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:9 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩消散而过； 照样，人下阴间也不再上来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩消散而過； 照樣，人下陰間也不再上來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He will return no more to his house, neither will his place know him any more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不再回自己的家； 故土也不再认识他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不再回自己的家； 故土也不再認識他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“Therefore I will not keep silent. I will speak in the anguish of my spirit. I will complain in the bitterness of my soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不禁止我口； 我灵愁苦，要发出言语； 我心苦恼，要吐露哀情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不禁止我口； 我靈愁苦，要發出言語； 我心苦惱，要吐露哀情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Am I a sea, or a sea monster, that you put a guard over me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对 神说：我岂是洋海， 岂是大鱼，你竟防守我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對上帝說：我豈是洋海， 豈是大魚，你竟防守我呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When I say, ‘My bed will comfort me. My couch will ease my complaint,’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若说：我的床必安慰我， 我的榻必解释我的苦情，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若說：我的床必安慰我， 我的榻必解釋我的苦情，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "then you scare me with dreams and terrify me through visions,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就用梦惊骇我， 用异象恐吓我，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就用夢驚駭我， 用異象恐嚇我，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "so that my soul chooses strangling, death rather than my bones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "甚至我宁肯噎死，宁肯死亡， 胜似留我这一身的骨头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "甚至我寧肯噎死，寧肯死亡， 勝似留我這一身的骨頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I loathe my life. I don’t want to live forever. Leave me alone, for my days are but a breath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我厌弃性命，不愿永活。 你任凭我吧，因我的日子都是虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我厭棄性命，不願永活。 你任憑我吧，因我的日子都是虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "What is man, that you should magnify him, that you should set your mind on him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人算什么，你竟看他为大， 将他放在心上？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人算甚麼，你竟看他為大， 將他放在心上？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "that you should visit him every morning, and test him every moment?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每早鉴察他， 时刻试验他？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每早鑒察他， 時刻試驗他？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "How long will you not look away from me, nor leave me alone until I swallow down my spittle?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你到何时才转眼不看我， 才任凭我咽下唾沫呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你到何時才轉眼不看我， 才任憑我咽下唾沫呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "If I have sinned, what do I do to you, you watcher of men? Why have you set me as a mark for you, so that I am a burden to myself?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鉴察人的主啊，我若有罪，于你何妨？ 为何以我当你的箭靶子， 使我厌弃自己的性命？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鑒察人的主啊，我若有罪，於你何妨？ 為何以我當你的箭靶子， 使我厭棄自己的性命？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Why do you not pardon my disobedience, and take away my iniquity? For now will I lie down in the dust. You will seek me diligently, but I will not be.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为何不赦免我的过犯， 除掉我的罪孽？ 我现今要躺卧在尘土中； 你要殷勤地寻找我，我却不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為何不赦免我的過犯， 除掉我的罪孽？ 我現今要躺臥在塵土中； 你要殷勤地尋找我，我卻不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

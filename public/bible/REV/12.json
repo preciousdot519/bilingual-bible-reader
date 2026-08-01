@@ -1,0 +1,358 @@
+{
+  "bookId": "REV",
+  "chapter": 12,
+  "bookEnglish": "Revelation",
+  "bookChineseSimplified": "启示录",
+  "bookChineseTraditional": "啟示錄",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天上现出大异象来：有一个妇人身披日头，脚踏月亮，头戴十二星的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天上現出大異象來：有一個婦人身披日頭，腳踏月亮，頭戴十二星的冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "She was with child. She cried out in pain, laboring to give birth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她怀了孕，在生产的艰难中疼痛呼叫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她懷了孕，在生產的艱難中疼痛呼叫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Another sign was seen in heaven. Behold, a great red dragon, having seven heads and ten horns, and on his heads seven crowns.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天上又现出异象来：有一条大红龙，七头十角；七头上戴着七个冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天上又現出異象來：有一條大紅龍，七頭十角；七頭上戴着七個冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "His tail drew one third of the stars of the sky, and threw them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "它的尾巴拖拉着天上星辰的三分之一，摔在地上。龙就站在那将要生产的妇人面前，等她生产之后，要吞吃她的孩子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牠的尾巴拖拉着天上星辰的三分之一，摔在地上。龍就站在那將要生產的婦人面前，等她生產之後，要吞吃她的孩子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God and to his throne.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人生了一个男孩子，是将来要用铁杖辖管万国的；她的孩子被提到 神宝座那里去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:5 辖管：原文是牧"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人生了一個男孩子，是將來要用鐵杖轄管萬國的；她的孩子被提到上帝寶座那裏去了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:5 轄管：原文是牧"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人就逃到旷野，在那里有 神给她预备的地方，使她被养活一千二百六十天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人就逃到曠野，在那裏有上帝給她預備的地方，使她被養活一千二百六十天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "There was war in the sky. Michael and his angels made war on the dragon. The dragon and his angels made war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在天上就有了争战。米迦勒同他的使者与龙争战，龙也同它的使者去争战，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在天上就有了爭戰。米迦勒同他的使者與龍爭戰，龍也同牠的使者去爭戰，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They didn’t prevail. No place was found for them any more in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并没有得胜，天上再没有它们的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並沒有得勝，天上再沒有牠們的地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大龙就是那古蛇，名叫魔鬼，又叫撒但，是迷惑普天下的。它被摔在地上，它的使者也一同被摔下去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大龍就是那古蛇，名叫魔鬼，又叫撒但，是迷惑普天下的。牠被摔在地上，牠的使者也一同被摔下去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见在天上有大声音说：「我 神的救恩、能力、国度，并他基督的权柄，现在都来到了！因为那在我们 神面前昼夜控告我们弟兄的，已经被摔下去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見在天上有大聲音說：「我上帝的救恩、能力、國度，並他基督的權柄，現在都來到了！因為那在我們上帝面前晝夜控告我們弟兄的，已經被摔下去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They overcame him because of the Lamb’s blood, and because of the word of their testimony. They didn’t love their life, even to death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄胜过它，是因羔羊的血和自己所见证的道。他们虽至于死，也不爱惜性命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄勝過牠，是因羔羊的血和自己所見證的道。他們雖至於死，也不愛惜性命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore rejoice, heavens, and you who dwell in them. Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，诸天和住在其中的，你们都快乐吧！只是地与海有祸了！因为魔鬼知道自己的时候不多，就气忿忿地下到你们那里去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，諸天和住在其中的，你們都快樂吧！只是地與海有禍了！因為魔鬼知道自己的時候不多，就氣忿忿地下到你們那裏去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When the dragon saw that he was thrown down to the earth, he persecuted the woman who gave birth to the male child.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "龙见自己被摔在地上，就逼迫那生男孩子的妇人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "龍見自己被摔在地上，就逼迫那生男孩子的婦人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Two wings of the great eagle were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, times, and half a time, from the face of the serpent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是有大鹰的两个翅膀赐给妇人，叫她能飞到旷野，到自己的地方，躲避那蛇；她在那里被养活一载二载半载。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是有大鷹的兩個翅膀賜給婦人，叫她能飛到曠野，到自己的地方，躲避那蛇；她在那裏被養活一載二載半載。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The serpent spewed water out of his mouth after the woman like a river, that he might cause her to be carried away by the stream.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "蛇就在妇人身后，从口中吐出水来，像河一样，要将妇人冲去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "蛇就在婦人身後，從口中吐出水來，像河一樣，要將婦人沖去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The earth helped the woman, and the earth opened its mouth and swallowed up the river which the dragon spewed out of his mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地却帮助妇人，开口吞了从龙口吐出来的水。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:16 原文是河"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地卻幫助婦人，開口吞了從龍口吐出來的水。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:16 原文是河"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The dragon grew angry with the woman, and went away to make war with the rest of her offspring, who keep God’s commandments and hold Jesus’ testimony.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "12:17 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "龙向妇人发怒，去与她其余的儿女争战，这儿女就是那守 神诫命、为耶稣作见证的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "龍向婦人發怒，去與她其餘的兒女爭戰，這兒女就是那守上帝誡命、為耶穌作見證的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时龙就站在海边的沙上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時龍就站在海邊的沙上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

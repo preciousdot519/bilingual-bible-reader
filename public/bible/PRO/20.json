@@ -1,0 +1,559 @@
+{
+  "bookId": "PRO",
+  "chapter": 20,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Wine is a mocker and beer is a brawler. Whoever is led astray by them is not wise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "酒能使人亵慢，浓酒使人喧嚷； 凡因酒错误的，就无智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "酒能使人褻慢，濃酒使人喧嚷； 凡因酒錯誤的，就無智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The terror of a king is like the roaring of a lion. He who provokes him to anger forfeits his own life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王的威吓如同狮子吼叫； 惹动他怒的，是自害己命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王的威嚇如同獅子吼叫； 惹動他怒的，是自害己命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "It is an honor for a man to keep aloof from strife, but every fool will be quarreling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "远离纷争是人的尊荣； 愚妄人都爱争闹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遠離紛爭是人的尊榮； 愚妄人都愛爭鬧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The sluggard will not plow by reason of the winter; therefore he shall beg in harvest, and have nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人因冬寒不肯耕种， 到收割的时候，他必讨饭而无所得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人因冬寒不肯耕種， 到收割的時候，他必討飯而無所得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Counsel in the heart of man is like deep water, but a man of understanding will draw it out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人心怀藏谋略，好像深水， 惟明哲人才能汲引出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人心懷藏謀略，好像深水， 惟明哲人才能汲引出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Many men claim to be men of unfailing love, but who can find a faithful man?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人多述说自己的仁慈， 但忠信人谁能遇着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人多述說自己的仁慈， 但忠信人誰能遇着呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "A righteous man walks in integrity. Blessed are his children after him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行为纯正的义人， 他的子孙是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行為純正的義人， 他的子孫是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "A king who sits on the throne of judgment scatters away all evil with his eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王坐在审判的位上， 以眼目驱散诸恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王坐在審判的位上， 以眼目驅散諸惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Who can say, “I have made my heart pure. I am clean and without sin”?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁能说，我洁净了我的心， 我脱净了我的罪？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰能說，我潔淨了我的心， 我脫淨了我的罪？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Differing weights and differing measures, both of them alike are an abomination to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两样的法码，两样的升斗， 都为耶和华所憎恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩樣的法碼，兩樣的升斗， 都為耶和華所憎惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Even a child makes himself known by his doings, whether his work is pure, and whether it is right.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩童的动作是清洁，是正直， 都显明他的本性。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩童的動作是清潔，是正直， 都顯明他的本性。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The hearing ear, and the seeing eye, the LORD has made even both of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "能听的耳，能看的眼， 都是耶和华所造的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "能聽的耳，能看的眼， 都是耶和華所造的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Don’t love sleep, lest you come to poverty. Open your eyes, and you shall be satisfied with bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要贪睡，免致贫穷； 眼要睁开，你就吃饱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要貪睡，免致貧窮； 眼要睜開，你就吃飽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“It’s no good, it’s no good,” says the buyer; but when he is gone his way, then he boasts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "买物的说：不好，不好； 及至买去，他便自夸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "買物的說：不好，不好； 及至買去，他便自誇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "There is gold and abundance of rubies, but the lips of knowledge are a rare jewel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有金子和许多珍珠， 惟有知识的嘴乃为贵重的珍宝。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:15 或译：红宝石"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有金子和許多珍珠， 惟有知識的嘴乃為貴重的珍寶。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 20:15 或譯：紅寶石"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Take the garment of one who puts up collateral for a stranger; and hold him in pledge for a wayward woman.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁为生人作保，就拿谁的衣服； 谁为外人作保，谁就要承当。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰為生人作保，就拿誰的衣服； 誰為外人作保，誰就要承當。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Fraudulent food is sweet to a man, but afterwards his mouth is filled with gravel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以虚谎而得的食物，人觉甘甜； 但后来，他的口必充满尘沙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以虛謊而得的食物，人覺甘甜； 但後來，他的口必充滿塵沙。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Plans are established by advice; by wise guidance you wage war!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "计谋都凭筹算立定； 打仗要凭智谋。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "計謀都憑籌算立定； 打仗要憑智謀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He who goes about as a tale-bearer reveals secrets; therefore don’t keep company with him who opens wide his lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "往来传舌的，泄漏密事； 大张嘴的，不可与他结交。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "往來傳舌的，洩漏密事； 大張嘴的，不可與他結交。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Whoever curses his father or his mother, his lamp shall be put out in blackness of darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "咒骂父母的，他的灯必灭， 变为漆黑的黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "咒罵父母的，他的燈必滅， 變為漆黑的黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "An inheritance quickly gained at the beginning won’t be blessed in the end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起初速得的产业， 终久却不为福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起初速得的產業， 終久卻不為福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Don’t say, “I will pay back evil.” Wait for the LORD, and he will save you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不要说，我要以恶报恶； 要等候耶和华，他必拯救你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不要說，我要以惡報惡； 要等候耶和華，他必拯救你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The LORD detests differing weights, and dishonest scales are not pleasing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两样的法码为耶和华所憎恶； 诡诈的天平也为不善。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩樣的法碼為耶和華所憎惡； 詭詐的天平也為不善。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "A man’s steps are from the LORD; how then can man understand his way?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的脚步为耶和华所定； 人岂能明白自己的路呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的腳步為耶和華所定； 人豈能明白自己的路呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "It is a snare to a man to make a rash dedication, then later to consider his vows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人冒失说，这是圣物， 许愿之后才查问，就是自陷网罗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人冒失說，這是聖物， 許願之後才查問，就是自陷網羅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "A wise king winnows out the wicked, and drives the threshing wheel over them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧的王簸散恶人， 用碌碡滚轧他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧的王簸散惡人， 用碌碡滾軋他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The spirit of man is the LORD’s lamp, searching all his innermost parts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的灵是耶和华的灯， 鉴察人的心腹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的靈是耶和華的燈， 鑒察人的心腹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Love and faithfulness keep the king safe. His throne is sustained by love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王因仁慈和诚实得以保全他的国位， 也因仁慈立稳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王因仁慈和誠實得以保全他的國位， 也因仁慈立穩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The glory of young men is their strength. The splendor of old men is their gray hair.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "强壮乃少年人的荣耀； 白发为老年人的尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "強壯乃少年人的榮耀； 白髮為老年人的尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Wounding blows cleanse away evil, and beatings purge the innermost parts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鞭伤除净人的罪恶； 责打能入人的心腹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鞭傷除淨人的罪惡； 責打能入人的心腹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

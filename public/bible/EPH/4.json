@@ -1,0 +1,617 @@
+{
+  "bookId": "EPH",
+  "chapter": 4,
+  "bookEnglish": "Ephesians",
+  "bookChineseSimplified": "以弗所书",
+  "bookChineseTraditional": "以弗所書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为主被囚的劝你们：既然蒙召，行事为人就当与蒙召的恩相称。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為主被囚的勸你們：既然蒙召，行事為人就當與蒙召的恩相稱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "with all lowliness and humility, with patience, bearing with one another in love,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事谦虚、温柔、忍耐，用爱心互相宽容，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事謙虛、溫柔、忍耐，用愛心互相寬容，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "being eager to keep the unity of the Spirit in the bond of peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用和平彼此联络，竭力保守圣灵所赐合而为一的心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用和平彼此聯絡，竭力保守聖靈所賜合而為一的心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "There is one body and one Spirit, even as you also were called in one hope of your calling,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "身体只有一个，圣灵只有一个，正如你们蒙召同有一个指望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "身體只有一個，聖靈只有一個，正如你們蒙召同有一個指望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "one Lord, one faith, one baptism,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一主，一信，一洗，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一主，一信，一洗，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "one God and Father of all, who is over all and through all and in us all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一 神，就是众人的父，超乎众人之上，贯乎众人之中，也住在众人之内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一上帝，就是眾人的父，超乎眾人之上，貫乎眾人之中，也住在眾人之內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But to each one of us, the grace was given according to the measure of the gift of Christ.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们各人蒙恩，都是照基督所量给各人的恩赐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們各人蒙恩，都是照基督所量給各人的恩賜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Therefore he says, “When he ascended on high, he led captivity captive, and gave gifts to people.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:8 Psalms 68:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所以经上说： 他升上高天的时候，掳掠了仇敌， 将各样的恩赐赏给人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以經上說： 他升上高天的時候，擄掠了仇敵， 將各樣的恩賜賞給人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now this, “He ascended”, what is it but that he also first descended into the lower parts of the earth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既说升上，岂不是先降在地下吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既說升上，豈不是先降在地下嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He who descended is the one who also ascended far above all the heavens, that he might fill all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那降下的，就是远升诸天之上要充满万有的。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那降下的，就是遠升諸天之上要充滿萬有的。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He gave some to be apostles; and some, prophets; and some, evangelists; and some, shepherds and teachers;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:11 or, pastors"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他所赐的，有使徒，有先知，有传福音的，有牧师和教师，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他所賜的，有使徒，有先知，有傳福音的，有牧師和教師，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "for the perfecting of the saints, to the work of serving, to the building up of the body of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要成全圣徒，各尽其职，建立基督的身体，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要成全聖徒，各盡其職，建立基督的身體，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to a full grown man, to the measure of the stature of the fullness of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "直等到我们众人在真道上同归于一，认识 神的儿子，得以长大成人，满有基督长成的身量，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "直等到我們眾人在真道上同歸於一，認識上帝的兒子，得以長大成人，滿有基督長成的身量，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "that we may no longer be children, tossed back and forth and carried about with every wind of doctrine, by the trickery of men, in craftiness, after the wiles of error;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使我们不再作小孩子，中了人的诡计和欺骗的法术，被一切异教之风摇动，飘来飘去，就随从各样的异端；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使我們不再作小孩子，中了人的詭計和欺騙的法術，被一切異教之風搖動，飄來飄去，就隨從各樣的異端；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "but speaking truth in love, we may grow up in all things into him who is the head, Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟用爱心说诚实话，凡事长进，连于元首基督，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟用愛心說誠實話，凡事長進，連於元首基督，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "from whom all the body, being fitted and knit together through that which every joint supplies, according to the working in measure of each individual part, makes the body increase to the building up of itself in love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "全身都靠他联络得合式，百节各按各职，照着各体的功用彼此相助，便叫身体渐渐增长，在爱中建立自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "全身都靠他聯絡得合式，百節各按各職，照着各體的功用彼此相助，便叫身體漸漸增長，在愛中建立自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "This I say therefore, and testify in the Lord, that you no longer walk as the rest of the Gentiles also walk, in the futility of their mind,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我说，且在主里确实地说，你们行事不要再像外邦人存虚妄的心行事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我說，且在主裏確實地說，你們行事不要再像外邦人存虛妄的心行事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "being darkened in their understanding, alienated from the life of God because of the ignorance that is in them, because of the hardening of their hearts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们心地昏昧，与 神所赐的生命隔绝了，都因自己无知，心里刚硬；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們心地昏昧，與上帝所賜的生命隔絕了，都因自己無知，心裏剛硬；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They, having become callous, gave themselves up to lust, to work all uncleanness with greediness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "良心既然丧尽，就放纵私欲，贪行种种的污秽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "良心既然喪盡，就放縱私慾，貪行種種的污穢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But you didn’t learn Christ that way,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们学了基督，却不是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們學了基督，卻不是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "if indeed you heard him and were taught in him, even as truth is in Jesus:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如果你们听过他的道，领了他的教，学了他的真理，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如果你們聽過他的道，領了他的教，學了他的真理，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "that you put away, as concerning your former way of life, the old man that grows corrupt after the lusts of deceit,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就要脱去你们从前行为上的旧人，这旧人是因私欲的迷惑渐渐变坏的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就要脫去你們從前行為上的舊人，這舊人是因私慾的迷惑漸漸變壞的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and that you be renewed in the spirit of your mind,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要将你们的心志改换一新，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要將你們的心志改換一新，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "and put on the new man, who in the likeness of God has been created in righteousness and holiness of truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且穿上新人；这新人是照着 神的形象造的，有真理的仁义和圣洁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且穿上新人；這新人是照着上帝的形像造的，有真理的仁義和聖潔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Therefore, putting away falsehood, speak truth each one with his neighbor, for we are members of one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们要弃绝谎言，各人与邻舍说实话，因为我们是互相为肢体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們要棄絕謊言，各人與鄰舍說實話，因為我們是互相為肢體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“Be angry, and don’t sin.” Don’t let the sun go down on your wrath,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:26 Psalms 4:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "生气却不要犯罪；不可含怒到日落，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "生氣卻不要犯罪；不可含怒到日落，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "and don’t give place to the devil.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "4:27 or, opportunity"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不可给魔鬼留地步。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不可給魔鬼留地步。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前偷窃的，不要再偷；总要劳力，亲手做正经事，就可有余分给那缺少的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前偷竊的，不要再偷；總要勞力，親手做正經事，就可有餘分給那缺少的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Let no corrupt speech proceed out of your mouth, but only what is good for building others up as the need may be, that it may give grace to those who hear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "污秽的言语一句不可出口，只要随事说造就人的好话，叫听见的人得益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "污穢的言語一句不可出口，只要隨事說造就人的好話，叫聽見的人得益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Don’t grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要叫 神的圣灵担忧；你们原是受了他的印记，等候得赎的日子来到。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要叫上帝的聖靈擔憂；你們原是受了他的印記，等候得贖的日子來到。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Let all bitterness, wrath, anger, outcry, and slander be put away from you, with all malice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一切苦毒、恼恨、忿怒、嚷闹、毁谤，并一切的恶毒，都当从你们中间除掉；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:31 或译：阴毒"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一切苦毒、惱恨、忿怒、嚷鬧、毀謗，並一切的惡毒，都當從你們中間除掉；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:31 或譯：陰毒"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并要以恩慈相待，存怜悯的心，彼此饶恕，正如 神在基督里饶恕了你们一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並要以恩慈相待，存憐憫的心，彼此饒恕，正如上帝在基督裏饒恕了你們一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

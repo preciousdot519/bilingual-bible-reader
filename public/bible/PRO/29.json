@@ -1,0 +1,505 @@
+{
+  "bookId": "PRO",
+  "chapter": 29,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He who is often rebuked and stiffens his neck will be destroyed suddenly, with no remedy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人屡次受责罚，仍然硬着颈项； 他必顷刻败坏，无法可治。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人屢次受責罰，仍然硬着頸項； 他必頃刻敗壞，無法可治。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When the righteous thrive, the people rejoice; but when the wicked rule, the people groan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人增多，民就喜乐； 恶人掌权，民就叹息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人增多，民就喜樂； 惡人掌權，民就歎息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Whoever loves wisdom brings joy to his father; but a companion of prostitutes squanders his wealth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱慕智慧的，使父亲喜乐； 与妓女结交的，却浪费钱财。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛慕智慧的，使父親喜樂； 與妓女結交的，卻浪費錢財。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The king by justice makes the land stable, but he who takes bribes tears it down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王借公平，使国坚定； 索要贿赂，使国倾败。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王藉公平，使國堅定； 索要賄賂，使國傾敗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A man who flatters his neighbor spreads a net for his feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谄媚邻舍的， 就是设网罗绊他的脚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "諂媚鄰舍的， 就是設網羅絆他的腳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "An evil man is snared by his sin, but the righteous can sing and be glad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人犯罪，自陷网罗； 惟独义人欢呼喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人犯罪，自陷網羅； 惟獨義人歡呼喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The righteous care about justice for the poor. The wicked aren’t concerned about knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人知道查明穷人的案； 恶人没有聪明，就不得而知。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人知道查明窮人的案； 惡人沒有聰明，就不得而知。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Mockers stir up a city, but wise men turn away anger.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亵慢人煽惑通城； 智慧人止息众怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "褻慢人煽惑通城； 智慧人止息眾怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "If a wise man goes to court with a foolish man, the fool rages or scoffs, and there is no peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人与愚妄人相争， 或怒或笑，总不能使他止息。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人與愚妄人相爭， 或怒或笑，總不能使他止息。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The bloodthirsty hate a man of integrity; and they seek the life of the upright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好流人血的，恨恶完全人， 索取正直人的性命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好流人血的，恨惡完全人， 索取正直人的性命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "A fool vents all of his anger, but a wise man brings himself under control.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愚妄人怒气全发； 智慧人忍气含怒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愚妄人怒氣全發； 智慧人忍氣含怒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "If a ruler listens to lies, all of his officials are wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "君王若听谎言， 他一切臣仆都是奸恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "君王若聽謊言， 他一切臣僕都是奸惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The poor man and the oppressor have this in common: The LORD gives sight to the eyes of both.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "贫穷人、强暴人在世相遇； 他们的眼目都蒙耶和华光照。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "貧窮人、強暴人在世相遇； 他們的眼目都蒙耶和華光照。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The king who fairly judges the poor, his throne shall be established forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "君王凭诚实判断穷人； 他的国位必永远坚立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "君王憑誠實判斷窮人； 他的國位必永遠堅立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The rod of correction gives wisdom, but a child left to himself causes shame to his mother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "杖打和责备能加增智慧； 放纵的儿子使母亲羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "杖打和責備能加增智慧； 放縱的兒子使母親羞愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "When the wicked increase, sin increases; but the righteous will see their downfall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人加多，过犯也加多， 义人必看见他们跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人加多，過犯也加多， 義人必看見他們跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Correct your son, and he will give you peace; yes, he will bring delight to your soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管教你的儿子，他就使你得安息， 也必使你心里喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管教你的兒子，他就使你得安息， 也必使你心裏喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Where there is no revelation, the people cast off restraint; but one who keeps the law is blessed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有异象，民就放肆； 惟遵守律法的，便为有福。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:18 或译：默示"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有異象，民就放肆； 惟遵守律法的，便為有福。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:18 或譯：默示"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "A servant can’t be corrected by words. Though he understands, yet he will not respond.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只用言语，仆人不肯受管教； 他虽然明白，也不留意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只用言語，僕人不肯受管教； 他雖然明白，也不留意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Do you see a man who is hasty in his words? There is more hope for a fool than for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你见言语急躁的人吗？ 愚昧人比他更有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你見言語急躁的人嗎？ 愚昧人比他更有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He who pampers his servant from youth will have him become a son in the end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人将仆人从小娇养， 这仆人终久必成了他的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人將僕人從小嬌養， 這僕人終久必成了他的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "An angry man stirs up strife, and a wrathful man abounds in sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好气的人挑启争端； 暴怒的人多多犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好氣的人挑啟爭端； 暴怒的人多多犯罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "A man’s pride brings him low, but one of lowly spirit gains honor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的高傲必使他卑下； 心里谦逊的，必得尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的高傲必使他卑下； 心裏謙遜的，必得尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Whoever is an accomplice of a thief is an enemy of his own soul. He takes an oath, but dares not testify.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人与盗贼分赃，是恨恶自己的性命； 他听见叫人发誓的声音，却不言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人與盜賊分贓，是恨惡自己的性命； 他聽見叫人發誓的聲音，卻不言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The fear of man proves to be a snare, but whoever puts his trust in the LORD is kept safe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惧怕人的，陷入网罗； 惟有倚靠耶和华的，必得安稳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懼怕人的，陷入網羅； 惟有倚靠耶和華的，必得安穩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Many seek the ruler’s favor, but a man’s justice comes from the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求王恩的人多； 定人事乃在耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求王恩的人多； 定人事乃在耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "A dishonest man detests the righteous, and the upright in their ways detest the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为非作歹的，被义人憎嫌； 行事正直的，被恶人憎恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為非作歹的，被義人憎嫌； 行事正直的，被惡人憎惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

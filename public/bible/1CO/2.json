@@ -1,0 +1,319 @@
+{
+  "bookId": "1CO",
+  "chapter": 2,
+  "bookEnglish": "1 Corinthians",
+  "bookChineseSimplified": "哥林多前书",
+  "bookChineseTraditional": "哥林多前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，从前我到你们那里去，并没有用高言大智对你们宣传 神的奥秘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，從前我到你們那裏去，並沒有用高言大智對你們宣傳上帝的奧祕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For I determined not to know anything among you except Jesus Christ and him crucified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我曾定了主意，在你们中间不知道别的，只知道耶稣基督并他钉十字架。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我曾定了主意，在你們中間不知道別的，只知道耶穌基督並他釘十字架。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I was with you in weakness, in fear, and in much trembling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在你们那里，又软弱，又惧怕又甚战兢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在你們那裏，又軟弱，又懼怕又甚戰兢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说的话、讲的道，不是用智慧委婉的言语，乃是用圣灵和大能的明证，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說的話、講的道，不是用智慧委婉的言語，乃是用聖靈和大能的明證，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "that your faith wouldn’t stand in the wisdom of men, but in the power of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "叫你们的信不在乎人的智慧，只在乎 神的大能。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "叫你們的信不在乎人的智慧，只在乎上帝的大能。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We speak wisdom, however, among those who are full grown, yet a wisdom not of this world nor of the rulers of this world who are coming to nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，在完全的人中，我们也讲智慧。但不是这世上的智慧，也不是这世上有权有位、将要败亡之人的智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，在完全的人中，我們也講智慧。但不是這世上的智慧，也不是這世上有權有位、將要敗亡之人的智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But we speak God’s wisdom in a mystery, the wisdom that has been hidden, which God foreordained before the worlds for our glory,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们讲的，乃是从前所隐藏、 神奥秘的智慧，就是 神在万世以前预定使我们得荣耀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們講的，乃是從前所隱藏、上帝奧祕的智慧，就是上帝在萬世以前預定使我們得榮耀的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "which none of the rulers of this world has known. For had they known it, they wouldn’t have crucified the Lord of glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这智慧世上有权有位的人没有一个知道的，他们若知道，就不把荣耀的主钉在十字架上了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這智慧世上有權有位的人沒有一個知道的，他們若知道，就不把榮耀的主釘在十字架上了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But as it is written, “Things which an eye didn’t see, and an ear didn’t hear, which didn’t enter into the heart of man, these God has prepared for those who love him.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:9 Isaiah 64:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "如经上所记： 神为爱他的人所预备的 是眼睛未曾看见， 耳朵未曾听见， 人心也未曾想到的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如經上所記： 上帝為愛他的人所預備的 是眼睛未曾看見， 耳朵未曾聽見， 人心也未曾想到的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只有 神借着圣灵向我们显明了，因为圣灵参透万事，就是 神深奥的事也参透了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只有上帝藉着聖靈向我們顯明了，因為聖靈參透萬事，就是上帝深奧的事也參透了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For who among men knows the things of a man except the spirit of the man which is in him? Even so, no one knows the things of God except God’s Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "除了在人里头的灵，谁知道人的事？像这样，除了 神的灵，也没有人知道 神的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "除了在人裏頭的靈，誰知道人的事？像這樣，除了上帝的靈，也沒有人知道上帝的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But we received not the spirit of the world, but the Spirit which is from God, that we might know the things that were freely given to us by God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们所领受的，并不是世上的灵，乃是从 神来的灵，叫我们能知道 神开恩赐给我们的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們所領受的，並不是世上的靈，乃是從上帝來的靈，叫我們能知道上帝開恩賜給我們的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "We also speak these things, not in words which man’s wisdom teaches but which the Holy Spirit teaches, comparing spiritual things with spiritual things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我们讲说这些事，不是用人智慧所指教的言语，乃是用圣灵所指教的言语，将属灵的话解释属灵的事。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:13 或译：将属灵的事讲与属灵的人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我們講說這些事，不是用人智慧所指教的言語，乃是用聖靈所指教的言語，將屬靈的話解釋屬靈的事 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:13 或譯：將屬靈的事講與屬靈的人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，属血气的人不领会 神圣灵的事，反倒以为愚拙，并且不能知道，因为这些事惟有属灵的人才能看透。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，屬血氣的人不領會上帝聖靈的事，反倒以為愚拙，並且不能知道，因為這些事惟有屬靈的人才能看透。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But he who is spiritual discerns all things, and he himself is to be judged by no one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "属灵的人能看透万事，却没有一人能看透了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "屬靈的人能看透萬事，卻沒有一人能看透了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“For who has known the mind of the Lord that he should instruct him?” But we have Christ’s mind.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:16 Isaiah 40:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "谁曾知道主的心去教导他呢？但我们是有基督的心了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰曾知道主的心去教導他呢？但我們是有基督的心了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

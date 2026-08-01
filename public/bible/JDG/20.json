@@ -1,0 +1,891 @@
+{
+  "bookId": "JDG",
+  "chapter": 20,
+  "bookEnglish": "Judges",
+  "bookChineseSimplified": "士师记",
+  "bookChineseTraditional": "士師記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to the LORD at Mizpah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列从但到别是巴，以及住基列地的众人都出来，如同一人，聚集在米斯巴耶和华面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列從但到別是巴，以及住基列地的眾人都出來，如同一人，聚集在米斯巴耶和華面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The chiefs of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen who drew sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列民的首领，就是各支派的军长，都站在 神百姓的会中；拿刀的步兵共有四十万。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列民的首領，就是各支派的軍長，都站在上帝百姓的會中；拿刀的步兵共有四十萬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "(Now the children of Benjamin heard that the children of Israel had gone up to Mizpah.) The children of Israel said, “Tell us, how did this wickedness happen?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人上到米斯巴，便雅悯人都听见了。以色列人说：「请你将这件恶事的情由对我们说明。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人上到米斯巴，便雅憫人都聽見了。以色列人說：「請你將這件惡事的情由對我們說明。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The Levite, the husband of the woman who was murdered, answered, “I came into Gibeah that belongs to Benjamin, I and my concubine, to spend the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那利未人，就是被害之妇人的丈夫，回答说：「我和我的妾到了便雅悯的基比亚住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那利未人，就是被害之婦人的丈夫，回答說：「我和我的妾到了便雅憫的基比亞住宿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The men of Gibeah rose against me, and surrounded the house by night. They intended to kill me and they raped my concubine, and she is dead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基比亚人夜间起来，围了我住的房子，想要杀我，又将我的妾强奸致死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基比亞人夜間起來，圍了我住的房子，想要殺我，又將我的妾強姦致死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I took my concubine and cut her in pieces, and sent her throughout all the country of the inheritance of Israel; for they have committed lewdness and folly in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就把我妾的尸身切成块子，使人拿着传送以色列得为业的全地，因为基比亚人在以色列中行了凶淫丑恶的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就把我妾的屍身切成塊子，使人拿着傳送以色列得為業的全地，因為基比亞人在以色列中行了兇淫醜惡的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Behold, you children of Israel, all of you, give here your advice and counsel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们以色列人都当筹划商议。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們以色列人都當籌劃商議。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "All the people arose as one man, saying, “None of us will go to his tent, neither will any of us turn to his house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众民都起来如同一人，说：「我们连一人都不回自己帐棚、自己房屋去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾民都起來如同一人，說：「我們連一人都不回自己帳棚、自己房屋去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But now this is the thing which we will do to Gibeah: we will go up against it by lot;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们向基比亚人必这样行，照所掣的签去攻击他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們向基比亞人必這樣行，照所掣的籤去攻擊他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "and we will take ten men of one hundred throughout all the tribes of Israel, and one hundred of one thousand, and a thousand out of ten thousand to get food for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that the men of Gibeah have done in Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们要在以色列各支派中，一百人挑取十人，一千人挑取百人，一万人挑取千人，为民运粮，等大众到了便雅悯的基比亚，就照基比亚人在以色列中所行的丑事征伐他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們要在以色列各支派中，一百人挑取十人，一千人挑取百人，一萬人挑取千人，為民運糧，等大眾到了便雅憫的基比亞，就照基比亞人在以色列中所行的醜事征伐他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "So all the men of Israel were gathered against the city, knit together as one man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是以色列众人彼此连合如同一人，聚集攻击那城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是以色列眾人彼此連合如同一人，聚集攻擊那城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The tribes of Israel sent men through all the tribe of Benjamin, saying, “What wickedness is this that has happened among you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众支派打发人去，问便雅悯支派的各家说：「你们中间怎么做了这样的恶事呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾支派打發人去，問便雅憫支派的各家說：「你們中間怎麼做了這樣的惡事呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now therefore deliver up the men, the wicked fellows who are in Gibeah, that we may put them to death and put away evil from Israel.” But Benjamin would not listen to the voice of their brothers, the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们要将基比亚的那些匪徒交出来，我们好治死他们，从以色列中除掉这恶。」便雅悯人却不肯听从他们弟兄以色列人的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們要將基比亞的那些匪徒交出來，我們好治死他們，從以色列中除掉這惡。」便雅憫人卻不肯聽從他們弟兄以色列人的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The children of Benjamin gathered themselves together out of the cities to Gibeah, to go out to battle against the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人从他们的各城里出来，聚集到了基比亚，要与以色列人打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人從他們的各城裏出來，聚集到了基比亞，要與以色列人打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The children of Benjamin were counted on that day out of the cities twenty-six thousand men who drew the sword, in addition to the inhabitants of Gibeah, who were counted seven hundred chosen men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时便雅悯人从各城里点出拿刀的，共有二万六千；另外还有基比亚人点出七百精兵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時便雅憫人從各城裏點出拿刀的，共有二萬六千；另外還有基比亞人點出七百精兵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Among all these soldiers there were seven hundred chosen men who were left-handed. Every one of them could sling a stone at a hair and not miss.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在众军之中有拣选的七百精兵，都是左手便利的，能用机弦甩石打人，毫发不差。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在眾軍之中有揀選的七百精兵，都是左手便利的，能用機弦甩石打人，毫髮不差。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The men of Israel, besides Benjamin, were counted four hundred thousand men who drew sword. All these were men of war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人之外，点出以色列人拿刀的，共有四十万，都是战士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人之外，點出以色列人拿刀的，共有四十萬，都是戰士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The children of Israel arose, went up to Bethel, and asked counsel of God. They asked, “Who shall go up for us first to battle against the children of Benjamin?” The LORD said, “Judah first.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人就起来，到伯特利去求问 神说：「我们中间谁当首先上去与便雅悯人争战呢？」耶和华说：「犹大当先上去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人就起來，到伯特利去求問上帝說：「我們中間誰當首先上去與便雅憫人爭戰呢？」耶和華說：「猶大當先上去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The children of Israel rose up in the morning and encamped against Gibeah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人早晨起来，对着基比亚安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人早晨起來，對着基比亞安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The men of Israel went out to battle against Benjamin; and the men of Israel set the battle in array against them at Gibeah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人出来，要与便雅悯人打仗，就在基比亚前摆阵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人出來，要與便雅憫人打仗，就在基比亞前擺陣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The children of Benjamin came out of Gibeah, and on that day destroyed twenty-two thousand of the Israelite men down to the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人就从基比亚出来，当日杀死以色列人二万二千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人就從基比亞出來，當日殺死以色列人二萬二千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The people, the men of Israel, encouraged themselves, and set the battle again in array in the place where they set themselves in array the first day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人彼此奋勇，仍在头一日摆阵的地方又摆阵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人彼此奮勇，仍在頭一日擺陣的地方又擺陣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The children of Israel went up and wept before the LORD until evening; and they asked of the LORD, saying, “Shall I again draw near to battle against the children of Benjamin my brother?” The LORD said, “Go up against him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "未摆阵之先，以色列人上去，在耶和华面前哭号，直到晚上，求问耶和华说：「我们再去与我们弟兄便雅悯人打仗可以不可以？」耶和华说：「可以上去攻击他们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "未擺陣之先，以色列人上去，在耶和華面前哭號，直到晚上，求問耶和華說：「我們再去與我們弟兄便雅憫人打仗可以不可以？」耶和華說：「可以上去攻擊他們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The children of Israel came near against the children of Benjamin the second day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二日，以色列人就上前攻击便雅悯人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二日，以色列人就上前攻擊便雅憫人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Benjamin went out against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men. All these drew the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人也在这日从基比亚出来，与以色列人接战，又杀死他们一万八千，都是拿刀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人也在這日從基比亞出來，與以色列人接戰，又殺死他們一萬八千，都是拿刀的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Then all the children of Israel and all the people went up, and came to Bethel, and wept, and sat there before the LORD, and fasted that day until evening; then they offered burnt offerings and peace offerings before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众人就上到伯特利，坐在耶和华面前哭号，当日禁食直到晚上；又在耶和华面前献燔祭和平安祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾人就上到伯特利，坐在耶和華面前哭號，當日禁食直到晚上；又在耶和華面前獻燔祭和平安祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The children of Israel asked the LORD (for the ark of the covenant of God was there in those days,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27-28",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时， 神的约柜在那里；亚伦的孙子、以利亚撒的儿子非尼哈侍立在约柜前。以色列人问耶和华说：「我们当再出去与我们弟兄便雅悯人打仗呢？还是罢兵呢？」耶和华说：「你们当上去，因为明日我必将他们交在你们手中。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，上帝的約櫃在那裏；亞倫的孫子、以利亞撒的兒子非尼哈侍立在約櫃前。以色列人問耶和華說：「我們當再出去與我們弟兄便雅憫人打仗呢？還是罷兵呢？」耶和華說：「你們當上去，因為明日我必將他們交在你們手中。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days), saying, “Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease?” The LORD said, “Go up; for tomorrow I will deliver him into your hand.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Israel set ambushes all around Gibeah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人在基比亚的四围设下伏兵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人在基比亞的四圍設下伏兵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The children of Israel went up against the children of Benjamin on the third day, and set themselves in array against Gibeah, as at other times.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第三日，以色列人又上去攻击便雅悯人，在基比亚前摆阵，与前两次一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第三日，以色列人又上去攻擊便雅憫人，在基比亞前擺陣，與前兩次一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The children of Benjamin went out against the people, and were drawn away from the city; and they began to strike and kill of the people as at other times, in the highways, of which one goes up to Bethel and the other to Gibeah, in the field, about thirty men of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人也出来迎敌，就被引诱离城；在田间两条路上，一通伯特利，一通基比亚，像前两次，动手杀死以色列人约有三十个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人也出來迎敵，就被引誘離城；在田間兩條路上，一通伯特利，一通基比亞，像前兩次，動手殺死以色列人約有三十個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The children of Benjamin said, “They are struck down before us, as at the first.” But the children of Israel said, “Let’s flee, and draw them away from the city to the highways.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人说：「他们仍旧败在我们面前。」但以色列人说：「我们不如逃跑，引诱他们离开城到路上来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人說：「他們仍舊敗在我們面前。」但以色列人說：「我們不如逃跑，引誘他們離開城到路上來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "All the men of Israel rose up out of their place and set themselves in array at Baal Tamar. Then the ambushers of Israel broke out of their place, even out of Maareh Geba.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众人都起来，在巴力·他玛摆阵，以色列的伏兵从马利·迦巴埋伏的地方冲上前去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾人都起來，在巴力‧他瑪擺陣，以色列的伏兵從馬利‧迦巴埋伏的地方衝上前去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Ten thousand chosen men out of all Israel came over against Gibeah, and the battle was severe; but they didn’t know that disaster was close to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有以色列人中的一万精兵，来到基比亚前接战，势派甚是凶猛；便雅悯人却不知道灾祸临近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有以色列人中的一萬精兵，來到基比亞前接戰，勢派甚是凶猛；便雅憫人卻不知道災禍臨近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "The LORD struck Benjamin before Israel; and the children of Israel destroyed of Benjamin that day twenty-five thousand one hundred men. All these drew the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使以色列人杀败便雅悯人。那日，以色列人杀死便雅悯人二万五千一百，都是拿刀的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使以色列人殺敗便雅憫人。那日，以色列人殺死便雅憫人二萬五千一百，都是拿刀的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "So the children of Benjamin saw that they were struck, for the men of Israel yielded to Benjamin because they trusted the ambushers whom they had set against Gibeah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是便雅悯人知道自己败了。先是以色列人；因为靠着在基比亚前所设的伏兵，就在便雅悯人面前诈败。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是便雅憫人知道自己敗了。先是以色列人；因為靠着在基比亞前所設的伏兵，就在便雅憫人面前詐敗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "The ambushers hurried, and rushed on Gibeah; then the ambushers spread out, and struck all the city with the edge of the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伏兵急忙闯进基比亚，用刀杀死全城的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伏兵急忙闖進基比亞，用刀殺死全城的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Now the appointed sign between the men of Israel and the ambushers was that they should make a great cloud of smoke rise up out of the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人预先同伏兵约定在城内放火，以烟气上腾为号。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人預先同伏兵約定在城內放火，以煙氣上騰為號。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The men of Israel turned in the battle, and Benjamin began to strike and kill of the men of Israel about thirty persons; for they said, “Surely they are struck down before us, as in the first battle.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人临退阵的时候，便雅悯人动手杀死以色列人，约有三十个，就说：「他们仍像前次被我们杀败了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人臨退陣的時候，便雅憫人動手殺死以色列人，約有三十個，就說：「他們仍像前次被我們殺敗了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "But when the cloud began to arise up out of the city in a pillar of smoke, the Benjamites looked behind them; and behold, the whole city went up in smoke to the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当烟气如柱从城中上腾的时候，便雅悯人回头观看，见全城的烟气冲天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當煙氣如柱從城中上騰的時候，便雅憫人回頭觀看，見全城的煙氣沖天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "The men of Israel turned, and the men of Benjamin were dismayed; for they saw that disaster had come on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人又转身回来，便雅悯人就甚惊惶，因为看见灾祸临到自己了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人又轉身回來，便雅憫人就甚驚惶，因為看見災禍臨到自己了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Therefore they turned their backs before the men of Israel to the way of the wilderness, but the battle followed hard after them; and those who came out of the cities destroyed them in the middle of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在以色列人面前转身往旷野逃跑；以色列人在后面追杀。那从各城里出来的，也都夹攻杀灭他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在以色列人面前轉身往曠野逃跑；以色列人在後面追殺。那從各城裏出來的，也都夾攻殺滅他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "They surrounded the Benjamites, chased them, and trod them down at their resting place, as far as near Gibeah toward the sunrise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人围绕便雅悯人，追赶他们，在他们歇脚之处、对着日出之地的基比亚践踏他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人圍繞便雅憫人，追趕他們，在他們歇腳之處、對着日出之地的基比亞踐踏他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Eighteen thousand men of Benjamin fell; all these were men of valor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人死了的有一万八千，都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人死了的有一萬八千，都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "They turned and fled toward the wilderness to the rock of Rimmon. They gleaned five thousand men of them in the highways, and followed hard after them to Gidom, and struck two thousand men of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的人转身向旷野逃跑，往临门磐去。以色列人在道路上杀了他们五千人，如拾取遗穗一样，追到基顿又杀了他们二千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的人轉身向曠野逃跑，往臨門磐去。以色列人在道路上殺了他們五千人，如拾取遺穗一樣，追到基頓又殺了他們二千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "So that all who fell that day of Benjamin were twenty-five thousand men who drew the sword. All these were men of valor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日便雅悯死了的共有二万五千人，都是拿刀的勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日便雅憫死了的共有二萬五千人，都是拿刀的勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "But six hundred men turned and fled toward the wilderness to the rock of Rimmon, and stayed in the rock of Rimmon four months.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只剩下六百人，转身向旷野逃跑，到了临门磐，就在那里住了四个月。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只剩下六百人，轉身向曠野逃跑，到了臨門磐，就在那裏住了四個月。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "The men of Israel turned again on the children of Benjamin, and struck them with the edge of the sword—including the entire city, the livestock, and all that they found. Moreover they set all the cities which they found on fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人又转到便雅悯地，将各城的人和牲畜，并一切所遇见的，都用刀杀尽，又放火烧了一切城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人又轉到便雅憫地，將各城的人和牲畜，並一切所遇見的，都用刀殺盡，又放火燒了一切城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

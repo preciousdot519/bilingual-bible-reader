@@ -1,0 +1,978 @@
+{
+  "bookId": "MRK",
+  "chapter": 10,
+  "bookEnglish": "Mark",
+  "bookChineseSimplified": "马可福音",
+  "bookChineseTraditional": "馬可福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣从那里起身，来到犹太的境界并约旦河外。众人又聚集到他那里，他又照常教训他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌從那裏起身，來到猶太的境界並約旦河外。眾人又聚集到他那裏，他又照常教訓他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Pharisees came to him testing him, and asked him, “Is it lawful for a man to divorce his wife?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有法利赛人来问他说：「人休妻可以不可以？」意思要试探他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有法利賽人來問他說：「人休妻可以不可以？」意思要試探他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He answered, “Whatdid Moses command you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「摩西吩咐你们的是什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「摩西吩咐你們的是甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They said, “Moses allowed a certificate of divorce to be written, and to divorce her.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「摩西许人写了休书便可以休妻。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「摩西許人寫了休書便可以休妻。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But Jesus said to them, “Foryour hardness of heart, he wrote you this commandment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「摩西因为你们的心硬，所以写这条例给你们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「摩西因為你們的心硬，所以寫這條例給你們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Butfrom the beginning of the creation, God made them male and female.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:6 Genesis 1:27",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "但从起初创造的时候， 神造人是造男造女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但從起初創造的時候，上帝造人是造男造女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Forthis cause a man will leave his father and mother, and will join to his wife,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，人要离开父母，与妻子连合，二人成为一体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，人要離開父母，與妻子連合，二人成為一體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "andthe two will become one flesh, sothat they are no longer two, but one flesh.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:8 Genesis 2:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "既然如此，夫妻不再是两个人，乃是一体的了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既然如此，夫妻不再是兩個人，乃是一體的了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Whattherefore God has joined together, let no man separate.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以， 神配合的，人不可分开。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，上帝配合的，人不可分開。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "In the house, his disciples asked him again about the same matter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了屋里，门徒就问他这事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了屋裏，門徒就問他這事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He said to them, “Whoeverdivorces his wife and marries another commits adultery against her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「凡休妻另娶的，就是犯奸淫，辜负他的妻子；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「凡休妻另娶的，就是犯姦淫，辜負他的妻子；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Ifa woman herself divorces her husband and marries another, she commits adultery.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妻子若离弃丈夫另嫁，也是犯奸淫了。」 （太19·13—15；路18·15—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "妻子若離棄丈夫另嫁，也是犯姦淫了。」 （太19‧13－15；路18‧15－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They were bringing to him little children, that he should touch them, but the disciples rebuked those who were bringing them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人带着小孩子来见耶稣，要耶稣摸他们，门徒便责备那些人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人帶着小孩子來見耶穌，要耶穌摸他們，門徒便責備那些人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But when Jesus saw it, he was moved with indignation and said to them, “Allow thelittle children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见就恼怒，对门徒说：「让小孩子到我这里来，不要禁止他们；因为在 神国的，正是这样的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見就惱怒，對門徒說：「讓小孩子到我這裏來，不要禁止他們；因為在上帝國的，正是這樣的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Mostcertainly I tell you, whoever will not receive God’s Kingdom like a little child, he will in no way enter into it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，凡要承受 神国的，若不像小孩子，断不能进去。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，凡要承受上帝國的，若不像小孩子，斷不能進去。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He took them in his arms and blessed them, laying his hands on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是抱着小孩子，给他们按手，为他们祝福。 （太19·16—30；路18·18—30）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是抱着小孩子，給他們按手，為他們祝福。 （太19‧16－30；路18‧18－30）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "As he was going out into the way, one ran to him, knelt before him, and asked him, “Good Teacher, what shall I do that I may inherit eternal life?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣出来行路的时候，有一个人跑来，跪在他面前，问他说：「良善的夫子，我当做什么事才可以承受永生？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌出來行路的時候，有一個人跑來，跪在他面前，問他說：「良善的夫子，我當做甚麼事才可以承受永生？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Jesus said to him, “Whydo you call me good? No one is good except one —God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「你为什么称我是良善的？除了 神一位之外，再没有良善的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「你為甚麼稱我是良善的？除了上帝一位之外，再沒有良善的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Youknow the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:19 Exodus 20:12-16; Deuteronomy 5:16-20",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "诫命你是晓得的：不可杀人；不可奸淫；不可偷盗；不可作假见证；不可亏负人；当孝敬父母。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誡命你是曉得的：不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said to him, “Teacher, I have observed all these things from my youth.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对耶稣说：「夫子，这一切我从小都遵守了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對耶穌說：「夫子，這一切我從小都遵守了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jesus looking at him loved him, and said to him, “Onething you lack. Go, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看着他，就爱他，对他说：「你还缺少一件：去变卖你所有的，分给穷人，就必有财宝在天上；你还要来跟从我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看着他，就愛他，對他說：「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他听见这话，脸上就变了色，忧忧愁愁地走了，因为他的产业很多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他聽見這話，臉上就變了色，憂憂愁愁地走了，因為他的產業很多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Jesus looked around and said to his disciples, “Howdifficult it is for those who have riches to enter into God’s Kingdom!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣周围一看，对门徒说：「有钱财的人进 神的国是何等地难哪！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌周圍一看，對門徒說：「有錢財的人進上帝的國是何等地難哪！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The disciples were amazed at his words. But Jesus answered again, “Children, how hard it is for those who trust in riches to enter into God’s Kingdom!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒希奇他的话。耶稣又对他们说：「小子，倚靠钱财的人进 神的国是何等地难哪！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒希奇他的話。耶穌又對他們說：「小子，倚靠錢財的人進上帝的國是何等地難哪！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Itis easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "骆驼穿过针的眼，比财主进 神的国还容易呢。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "駱駝穿過針的眼，比財主進上帝的國還容易呢。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They were exceedingly astonished, saying to him, “Then who can be saved?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒就分外希奇，对他说：「这样谁能得救呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒就分外希奇，對他說：「這樣誰能得救呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Jesus, looking at them, said, “Withmen it is impossible, but not with God, for all things are possible with God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看着他们，说：「在人是不能，在 神却不然，因为 神凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看着他們，說：「在人是不能，在上帝卻不然，因為上帝凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Peter began to tell him, “Behold, we have left all and have followed you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得就对他说：「看哪，我们已经撇下所有的跟从你了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得就對他說：「看哪，我們已經撇下所有的跟從你了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Jesus said, “Most certainlyI tell you, there is no one who has left house, or brothers, or sisters, or father, or mother, or wife, or children, or land, for my sake, and for the sake of the Good News,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我实在告诉你们，人为我和福音撇下房屋，或是弟兄、姊妹、父母、儿女、田地，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我實在告訴你們，人為我和福音撇下房屋，或是弟兄、姊妹、父母、兒女、田地，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "buthe will receive one hundred times more now in this time: houses, brothers, sisters, mothers, children, and land, with persecutions; and in the age to come eternal life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有不在今世得百倍的，就是房屋、弟兄、姊妹、母亲、儿女、田地，并且要受逼迫，在来世必得永生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有不在今世得百倍的，就是房屋、弟兄、姊妹、母親、兒女、田地，並且要受逼迫，在來世必得永生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Butmany who are first will be last, and the last first.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，有许多在前的，将要在后，在后的，将要在前。」 （太20·17—19；路18·31—34）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，有許多在前的，將要在後，在後的，將要在前。」 （太20‧17－19；路18‧31－34）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They were on the way, going up to Jerusalem; and Jesus was going in front of them, and they were amazed; and those who followed were afraid. He again took the twelve, and began to tell them the things that were going to happen to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们行路上耶路撒冷去。耶稣在前头走，门徒就希奇，跟从的人也害怕。耶稣又叫过十二个门徒来，把自己将要遭遇的事告诉他们说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們行路上耶路撒冷去。耶穌在前頭走，門徒就希奇，跟從的人也害怕。耶穌又叫過十二個門徒來，把自己將要遭遇的事告訴他們說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“Behold, we are going up to Jerusalem. The Son of Man will be delivered to the chief priests and the scribes. They will condemn him to death, and will deliver him to the Gentiles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「看哪，我们上耶路撒冷去，人子将要被交给祭司长和文士，他们要定他死罪，交给外邦人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「看哪，我們上耶路撒冷去，人子將要被交給祭司長和文士，他們要定他死罪，交給外邦人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Theywill mock him, spit on him, scourge him, and kill him. On the third day he will rise again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要戏弄他，吐唾沫在他脸上，鞭打他，杀害他。过了三天，他要复活。」 （太20·20—28）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要戲弄他，吐唾沫在他臉上，鞭打他，殺害他。過了三天，他要復活。」 （太20‧20－28）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "James and John, the sons of Zebedee, came near to him, saying, “Teacher, we want you to do for us whatever we will ask.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西庇太的儿子雅各、约翰进前来，对耶稣说：「夫子，我们无论求你什么，愿你给我们做。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西庇太的兒子雅各、約翰進前來，對耶穌說：「夫子，我們無論求你甚麼，願你給我們做。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He said to them, “Whatdo you want me to do for you?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「要我给你们做什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「要我給你們做甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "They said to him, “Grant to us that we may sit, one at your right hand and one at your left hand, in your glory.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「赐我们在你的荣耀里，一个坐在你右边，一个坐在你左边。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「賜我們在你的榮耀裏，一個坐在你右邊，一個坐在你左邊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "But Jesus said to them, “Youdon’ t know what you are asking. Are you able to drink the cup that I drink, and to be baptized with the baptism that I am baptized with?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们不知道所求的是什么。我所喝的杯，你们能喝吗？我所受的洗，你们能受吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們不知道所求的是甚麼。我所喝的杯，你們能喝嗎？我所受的洗，你們能受嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "They said to him, “We are able.” Jesus said to them, “Youshall indeed drink the cup that I drink, and you shall be baptized with the baptism that I am baptized with;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「我们能。」耶稣说：「我所喝的杯，你们也要喝；我所受的洗，你们也要受；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「我們能。」耶穌說：「我所喝的杯，你們也要喝；我所受的洗，你們也要受；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "butto sit at my right hand and at my left hand is not mine to give, but for whom it has been prepared.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是坐在我的左右，不是我可以赐的，乃是为谁预备的，就赐给谁。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是坐在我的左右，不是我可以賜的，乃是為誰預備的，就賜給誰。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "When the ten heard it, they began to be indignant toward James and John.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那十个门徒听见，就恼怒雅各、约翰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那十個門徒聽見，就惱怒雅各、約翰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Jesus summoned them and said to them, “Youknow that they who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣叫他们来，对他们说：「你们知道，外邦人有尊为君王的，治理他们，有大臣操权管束他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌叫他們來，對他們說：「你們知道，外邦人有尊為君王的，治理他們，有大臣操權管束他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "Butit shall not be so among you, but whoever wants to become great among you shall be your servant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是在你们中间，不是这样。你们中间，谁愿为大，就必作你们的用人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是在你們中間，不是這樣。你們中間，誰願為大，就必作你們的用人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Whoeverof you wants to become first among you shall be bondservant of all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你们中间，谁愿为首，就必作众人的仆人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你們中間，誰願為首，就必作眾人的僕人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Forthe Son of Man also came not to be served but to serve, and to give his life as a ransom for many.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人子来，并不是要受人的服事，乃是要服事人，并且要舍命作多人的赎价。」 （太20·29—34；路18·35—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」 （太20‧29－34；路18‧35－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "They came to Jericho. As he went out from Jericho with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the road.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了耶利哥；耶稣同门徒并许多人出耶利哥的时候，有一个讨饭的瞎子，是底买的儿子巴底买，坐在路旁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了耶利哥；耶穌同門徒並許多人出耶利哥的時候，有一個討飯的瞎子，是底買的兒子巴底買，坐在路旁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "When he heard that it was Jesus the Nazarene, he began to cry out and say, “Jesus, you son of David, have mercy on me!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他听见是拿撒勒的耶稣，就喊着说：「大卫的子孙耶稣啊！可怜我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他聽見是拿撒勒的耶穌，就喊着說：「大衛的子孫耶穌啊！可憐我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Many rebuked him, that he should be quiet, but he cried out much more, “You son of David, have mercy on me!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多人责备他，不许他作声。他却越发大声喊着说：「大卫的子孙哪，可怜我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多人責備他，不許他作聲。他卻越發大聲喊着說：「大衛的子孫哪，可憐我吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Jesus stood still and said, “Callhim.” They called the blind man, saying to him, “Cheer up! Get up. He is calling you!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就站住，说：「叫过他来。」他们就叫那瞎子，对他说：「放心，起来！他叫你啦。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就站住，說：「叫過他來。」他們就叫那瞎子，對他說：「放心，起來！他叫你啦。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "He, casting away his cloak, sprang up, and came to Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "瞎子就丢下衣服，跳起来，走到耶稣那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瞎子就丟下衣服，跳起來，走到耶穌那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Jesus asked him, “Whatdo you want me to do for you?” The blind man said to him, “Rabboni, that I may see again.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:51 Rabboni is a transliteration of the Hebrew word for “great teacher.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「要我为你做什么？」瞎子说：「拉波尼，我要能看见。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:51 就是夫子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「要我為你做甚麼？」瞎子說：「拉波尼，我要能看見。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:51 就是夫子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "Jesus said to him, “Goyour way. Your faith has made you well.” Immediately he received his sight and followed Jesus on the way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你去吧！你的信救了你了。」瞎子立刻看见了，就在路上跟随耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你去吧！你的信救了你了。」瞎子立刻看見了，就在路上跟隨耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

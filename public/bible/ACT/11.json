@@ -1,0 +1,579 @@
+{
+  "bookId": "ACT",
+  "chapter": 11,
+  "bookEnglish": "Acts",
+  "bookChineseSimplified": "使徒行传",
+  "bookChineseTraditional": "使徒行傳",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "11:1 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒和在犹太的众弟兄听说外邦人也领受了 神的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒和在猶太的眾弟兄聽說外邦人也領受了上帝的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "When Peter had come up to Jerusalem, those who were of the circumcision contended with him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "及至彼得上了耶路撒冷，那些奉割礼的门徒和他争辩说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "及至彼得上了耶路撒冷，那些奉割禮的門徒和他爭辯說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "saying, “You went in to uncircumcised men and ate with them!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你进入未受割礼之人的家和他们一同吃饭了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你進入未受割禮之人的家和他們一同吃飯了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But Peter began, and explained to them in order, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得就开口把这事挨次给他们讲解说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得就開口把這事挨次給他們講解說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“I was in the city of Joppa praying, and in a trance I saw a vision: a certain container descending, like it was a great sheet let down from heaven by four corners. It came as far as me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我在约帕城里祷告的时候，魂游象外，看见异象，有一物降下，好像一块大布，系着四角，从天缒下，直来到我跟前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我在約帕城裏禱告的時候，魂遊象外，看見異象，有一物降下，好像一塊大布，繫着四角，從天縋下，直來到我跟前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When I had looked intently at it, I considered, and saw the four-footed animals of the earth, wild animals, creeping things, and birds of the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我定睛观看，见内中有地上四足的牲畜和野兽、昆虫，并天上的飞鸟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我定睛觀看，見內中有地上四足的牲畜和野獸、昆蟲，並天上的飛鳥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I also heard a voice saying to me, ‘Rise, Peter, kill and eat!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我且听见有声音向我说：『彼得，起来，宰了吃！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我且聽見有聲音向我說：『彼得，起來，宰了吃！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But I said, ‘Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：『主啊，这是不可的！凡俗而不洁净的物从来没有入过我的口。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：『主啊，這是不可的！凡俗而不潔淨的物從來沒有入過我的口。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "But a voice answered me the second time out of heaven, ‘WhatGod has cleansed, don’t you call unclean.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二次，有声音从天上说：『 神所洁净的，你不可当作俗物。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二次，有聲音從天上說：『上帝所潔淨的，你不可當作俗物。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "This was done three times, and all were drawn up again into heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样一连三次，就都收回天上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣一連三次，就都收回天上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Behold, immediately three men stood before the house where I was, having been sent from Caesarea to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正当那时，有三个人站在我们所住的房门前，是从凯撒利亚差来见我的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正當那時，有三個人站在我們所住的房門前，是從凱撒利亞差來見我的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The Spirit told me to go with them without discriminating. These six brothers also accompanied me, and we entered into the man’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵吩咐我和他们同去，不要疑惑。同着我去的，还有这六位弟兄，我们都进了那人的家。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:12 或译：不要分别等类"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈吩咐我和他們同去，不要疑惑。同着我去的，還有這六位弟兄，我們都進了那人的家。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:12 或譯：不要分別等類"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He told us how he had seen the angel standing in his house and saying to him, ‘Send to Joppa and get Simon, who is called Peter,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那人就告诉我们，他如何看见一位天使站在他屋里，说：『你打发人往约帕去，请那称呼彼得的西门来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那人就告訴我們，他如何看見一位天使站在他屋裏，說：『你打發人往約帕去，請那稱呼彼得的西門來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "who will speak to you words by which you will be saved, you and all your house.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他有话告诉你，可以叫你和你的全家得救。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他有話告訴你，可以叫你和你的全家得救。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "As I began to speak, the Holy Spirit fell on them, even as on us at the beginning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我一开讲，圣灵便降在他们身上，正像当初降在我们身上一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我一開講，聖靈便降在他們身上，正像當初降在我們身上一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I remembered the word of the Lord, how he said, ‘Johnindeed baptized in water, but you will be baptized in the Holy Spirit.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就想起主的话说：『约翰是用水施洗，但你们要受圣灵的洗。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就想起主的話說：『約翰是用水施洗，但你們要受聖靈的洗。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "If then God gave to them the same gift as us when we believed in the Lord Jesus Christ, who was I, that I could withstand God?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神既然给他们恩赐，像在我们信主耶稣基督的时候给了我们一样；我是谁，能拦阻 神呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝既然給他們恩賜，像在我們信主耶穌基督的時候給了我們一樣；我是誰，能攔阻上帝呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When they heard these things, they held their peace and glorified God, saying, “Then God has also granted to the Gentiles repentance to life!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人听见这话，就不言语了，只归荣耀与 神，说：「这样看来， 神也赐恩给外邦人，叫他们悔改得生命了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人聽見這話，就不言語了，只歸榮耀與上帝，說：「這樣看來，上帝也賜恩給外邦人，叫他們悔改得生命了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They therefore who were scattered abroad by the oppression that arose about Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except to Jews only.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些因司提反的事遭患难四散的门徒直走到腓尼基和塞浦路斯，并安提阿；他们不向别人讲道，只向犹太人讲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些因司提反的事遭患難四散的門徒直走到腓尼基和塞浦路斯，並安提阿；他們不向別人講道，只向猶太人講。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But there were some of them, men of Cyprus and Cyrene, who, when they had come to Antioch, spoke to the Hellenists, preaching the Lord Jesus.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "11:20 A Hellenist is someone who keeps Greek customs and culture."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但内中有塞浦路斯和古利奈人，他们到了安提阿也向希腊人传讲主耶稣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:20 有古卷：也向说希腊话的犹太人传讲主耶稣"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但內中有塞浦路斯和古利奈人，他們到了安提阿也向希臘人傳講主耶穌。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 11:20 有古卷：也向說希臘話的猶太人傳講主耶穌"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The hand of the Lord was with them, and a great number believed and turned to the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主与他们同在，信而归主的人就很多了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主與他們同在，信而歸主的人就很多了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The report concerning them came to the ears of the assembly which was in Jerusalem. They sent out Barnabas to go as far as Antioch,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这风声传到耶路撒冷教会人的耳中，他们就打发巴拿巴出去，走到安提阿为止。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這風聲傳到耶路撒冷教會人的耳中，他們就打發巴拿巴出去，走到安提阿為止。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "who, when he had come, and had seen the grace of God, was glad. He exhorted them all, that with purpose of heart they should remain near to the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他到了那里，看见 神所赐的恩就欢喜，劝勉众人，立定心志，恒久靠主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他到了那裏，看見上帝所賜的恩就歡喜，勸勉眾人，立定心志，恆久靠主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "For he was a good man, and full of the Holy Spirit and of faith, and many people were added to the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这巴拿巴原是个好人，被圣灵充满，大有信心。于是有许多人归服了主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這巴拿巴原是個好人，被聖靈充滿，大有信心。於是有許多人歸服了主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Barnabas went out to Tarsus to look for Saul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又往大数去找扫罗，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又往大數去找掃羅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When he had found him, he brought him to Antioch. For a whole year they were gathered together with the assembly, and taught many people. The disciples were first called Christians in Antioch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "找着了，就带他到安提阿去。他们足有一年的工夫和教会一同聚集，教训了许多人。门徒称为「基督徒」是从安提阿起首。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "找着了，就帶他到安提阿去。他們足有一年的工夫和教會一同聚集，教訓了許多人。門徒稱為「基督徒」是從安提阿起首。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Now in these days, prophets came down from Jerusalem to Antioch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那些日子，有几位先知从耶路撒冷下到安提阿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那些日子，有幾位先知從耶路撒冷下到安提阿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "One of them named Agabus stood up and indicated by the Spirit that there should be a great famine all over the world, which also happened in the days of Claudius.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内中有一位，名叫亚迦布，站起来，借着圣灵指明天下将有大饥荒。（这事到克劳第年间果然有了。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內中有一位，名叫亞迦布，站起來，藉着聖靈指明天下將有大饑荒。（這事到克勞第年間果然有了。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是门徒定意照各人的力量捐钱，送去供给住在犹太的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是門徒定意照各人的力量捐錢，送去供給住在猶太的弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "which they also did, sending it to the elders by the hands of Barnabas and Saul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就这样行，把捐项托巴拿巴和扫罗送到众长老那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就這樣行，把捐項託巴拿巴和掃羅送到眾長老那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

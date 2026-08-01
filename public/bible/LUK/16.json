@@ -1,0 +1,597 @@
+{
+  "bookId": "LUK",
+  "chapter": 16,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He also said to his disciples, “Therewas a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对门徒说：「有一个财主的管家，别人向他主人告他浪费主人的财物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對門徒說：「有一個財主的管家，別人向他主人告他浪費主人的財物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Hecalled him, and said to him, ‘What is this that I hear about you? Give an accounting of your management, for you can no longer be manager.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人叫他来，对他说：『我听见你这事怎么样呢？把你所经管的交代明白，因你不能再作我的管家。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人叫他來，對他說：『我聽見你這事怎麼樣呢？把你所經管的交代明白，因你不能再作我的管家。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Themanager said within himself, ‘What will I do, seeing that my lord is taking away the management position from me? I don’ t have strength to dig. I am ashamed to beg.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那管家心里说：『主人辞我，不用我再作管家，我将来做什么？锄地呢？无力；讨饭呢？怕羞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那管家心裏說：『主人辭我，不用我再作管家，我將來做甚麼？鋤地呢？無力；討飯呢？怕羞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Iknow what I will do, so that when I am removed from management, they may receive me into their houses.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道怎么行，好叫人在我不作管家之后，接我到他们家里去。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道怎麼行，好叫人在我不作管家之後，接我到他們家裏去。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Callingeach one of his lord’s debtors to him, he said to the first, ‘How much do you owe to my lord?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是把欠他主人债的，一个一个地叫了来，问头一个说：『你欠我主人多少？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是把欠他主人債的，一個一個地叫了來，問頭一個說：『你欠我主人多少？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Hesaid, ‘A hundred batos ofoil.’ He said to him, ‘Take your bill, and sit down quickly and write fifty.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:6 100 batos is about 395 liters or 104 U. S. gallons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：『一百篓油。』管家说：『拿你的帐，快坐下，写五十。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:6 每篓约五十斤"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：『一百簍油。』管家說：『拿你的帳，快坐下，寫五十。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:6 每簍約五十斤"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Thenhe said to another, ‘How much do you owe?’ He said, ‘A hundred cors ofwheat.’ He said to him, ‘Take your bill, and write eighty.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:7 100 cors = about 2,110 liters or 600 bushels."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又问一个说：『你欠多少？』他说：『一百石麦子。』管家说：『拿你的帐，写八十。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又問一個說：『你欠多少？』他說：『一百石麥子。』管家說：『拿你的帳，寫八十。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Hislord commended the dishonest manager because he had done wisely, for the children of this world are, in their own generation, wiser than the children of the light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人就夸奖这不义的管家做事聪明；因为今世之子，在世事之上，较比光明之子更加聪明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人就誇獎這不義的管家做事聰明；因為今世之子，在世事之上，較比光明之子更加聰明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Itell you, make for yourselves friends by means of unrighteous mammon, so that when you fail, they may receive you into the eternal tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又告诉你们，要借着那不义的钱财结交朋友，到了钱财无用的时候，他们可以接你们到永存的帐幕里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又告訴你們，要藉着那不義的錢財結交朋友，到了錢財無用的時候，他們可以接你們到永存的帳幕裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Hewho is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在最小的事上忠心，在大事上也忠心；在最小的事上不義，在大事上也不義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Iftherefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你们在不义的钱财上不忠心，谁还把那真实的钱财托付你们呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你們在不義的錢財上不忠心，誰還把那真實的錢財託付你們呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Ifyou have not been faithful in that which is another’s, who will give you that which is your own?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你们在别人的东西上不忠心，谁还把你们自己的东西给你们呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你們在別人的東西上不忠心，誰還把你們自己的東西給你們呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Noservant can serve two masters, for either he will hate the one and love the other; or else he will hold to one and despise the other. You aren’ t able to serve God and Mammon.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:13 “Mammon” refers to riches or a false god of wealth."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一个仆人不能事奉两个主；不是恶这个爱那个，就是重这个轻那个。你们不能又事奉 神，又事奉玛门。」 （太5·31—32；11·12—13；可10·11—12）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一個僕人不能事奉兩個主；不是惡這個愛那個，就是重這個輕那個。你們不能又事奉上帝，又事奉瑪門。」 （太5‧31－32；11‧12－13；可10‧11－12）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The Pharisees, who were lovers of money, also heard all these things, and they scoffed at him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人是贪爱钱财的；他们听见这一切话，就嗤笑耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人是貪愛錢財的；他們聽見這一切話，就嗤笑耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He said to them, “Youare those who justify yourselves in the sight of men, but God knows your hearts. For that which is exalted among men is an abomination in the sight of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们是在人面前自称为义的，你们的心， 神却知道；因为人所尊贵的，是 神看为可憎恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們是在人面前自稱為義的，你們的心，上帝卻知道；因為人所尊貴的，是上帝看為可憎惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“Thelaw and the prophets were until John. From that time the Good News of God’s Kingdom is preached, and everyone is forcing his way into it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "律法和先知到约翰为止，从此 神国的福音传开了，人人努力要进去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "律法和先知到約翰為止，從此上帝國的福音傳開了，人人努力要進去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Butit is easier for heaven and earth to pass away than for one tiny stroke of a pen in the law to fall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天地废去较比律法的一点一画落空还容易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天地廢去較比律法的一點一畫落空還容易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“Everyonewho divorces his wife and marries another commits adultery. He who marries one who is divorced from a husband commits adultery.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡休妻另娶的就是犯奸淫；娶被休之妻的也是犯奸淫。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡休妻另娶的就是犯姦淫；娶被休之妻的也是犯姦淫。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Nowthere was a certain rich man, and he was clothed in purple and fine linen, living in luxury every day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「有一个财主穿着紫色袍和细麻布衣服，天天奢华宴乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「有一個財主穿着紫色袍和細麻布衣服，天天奢華宴樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Acertain beggar, named Lazarus, was taken to his gate, full of sores,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一个讨饭的，名叫拉撒路，浑身生疮，被人放在财主门口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一個討飯的，名叫拉撒路，渾身生瘡，被人放在財主門口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "anddesiring to be fed with the crumbs that fell from the rich man’s table. Yes, even the dogs came and licked his sores.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要得财主桌子上掉下来的零碎充饥，并且狗来舔他的疮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要得財主桌子上掉下來的零碎充飢，並且狗來舔他的瘡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Thebeggar died, and he was carried away by the angels to Abraham’s bosom. The rich man also died and was buried.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来那讨饭的死了，被天使带去放在亚伯拉罕的怀里。财主也死了，并且埋葬了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來那討飯的死了，被天使帶去放在亞伯拉罕的懷裏。財主也死了，並且埋葬了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "InHades, helifted up his eyes, being in torment, and saw Abraham far off, and Lazarus at his bosom.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "16:23 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在阴间受痛苦，举目远远地望见亚伯拉罕，又望见拉撒路在他怀里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在陰間受痛苦，舉目遠遠地望見亞伯拉罕，又望見拉撒路在他懷裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Hecried and said, ‘Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water and cool my tongue! For I am in anguish in this flame.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就喊着说：『我祖亚伯拉罕哪，可怜我吧！打发拉撒路来，用指头尖蘸点水，凉凉我的舌头；因为我在这火焰里，极其痛苦。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就喊着說：『我祖亞伯拉罕哪，可憐我吧！打發拉撒路來，用指頭尖蘸點水，涼涼我的舌頭；因為我在這火焰裏，極其痛苦。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“ButAbraham said, ‘Son, remember that you, in your lifetime, received your good things, and Lazarus, in the same way, bad things. But here he is now comforted and you are in anguish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕说：『儿啊，你该回想你生前享过福，拉撒路也受过苦；如今他在这里得安慰，你倒受痛苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕說：『兒啊，你該回想你生前享過福，拉撒路也受過苦；如今他在這裏得安慰，你倒受痛苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Besidesall this, between us and you there is a great gulf fixed, that those who want to pass from here to you are not able, and that no one may cross over from there to us.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不但这样，并且在你我之间，有深渊限定，以致人要从这边过到你们那边是不能的；要从那边过到我们这边也是不能的。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不但這樣，並且在你我之間，有深淵限定，以致人要從這邊過到你們那邊是不能的；要從那邊過到我們這邊也是不能的。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Hesaid, ‘I ask you therefore, father, that you would send him to my father’s house —",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "财主说：『我祖啊！既是这样，求你打发拉撒路到我父家去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "財主說：『我祖啊！既是這樣，求你打發拉撒路到我父家去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "forI have five brothers— that he may testify to them, so they won’ t also come into this place of torment.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我还有五个弟兄，他可以对他们作见证，免得他们也来到这痛苦的地方。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我還有五個弟兄，他可以對他們作見證，免得他們也來到這痛苦的地方。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“ButAbraham said to him, ‘They have Moses and the prophets. Let them listen to them.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕说：『他们有摩西和先知的话可以听从。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕說：『他們有摩西和先知的話可以聽從。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“Hesaid, ‘No, father Abraham, but if one goes to them from the dead, they will repent.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：『我祖亚伯拉罕哪，不是的，若有一个从死里复活的，到他们那里去的，他们必要悔改。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：『我祖亞伯拉罕哪，不是的，若有一個從死裏復活的，到他們那裏去的，他們必要悔改。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Hesaid to him, ‘If they don’ t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕说：『若不听从摩西和先知的话，就是有一个从死里复活的，他们也是不听劝。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕說：『若不聽從摩西和先知的話，就是有一個從死裏復活的，他們也是不聽勸。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

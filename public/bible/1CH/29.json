@@ -1,0 +1,577 @@
+{
+  "bookId": "1CH",
+  "chapter": 29,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for the LORD God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王对会众说：「我儿子所罗门是 神特选的，还年幼娇嫩；这工程甚大，因这殿不是为人，乃是为耶和华 神建造的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王對會眾說：「我兒子所羅門是上帝特選的，還年幼嬌嫩；這工程甚大，因這殿不是為人，乃是為耶和華上帝建造的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Now I have prepared with all my might for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, iron for the things of iron, and wood for the things of wood, also onyx stones, stones to be set, stones for inlaid work of various colors, all kinds of precious stones, and marble stones in abundance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为我 神的殿已经尽力，预备金子做金器，银子做银器，铜做铜器，铁做铁器，木做木器，还有红玛瑙可镶嵌的宝石，彩石和一切的宝石，并许多汉白玉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為我上帝的殿已經盡力，預備金子做金器，銀子做銀器，銅做銅器，鐵做鐵器，木做木器，還有紅瑪瑙可鑲嵌的寶石，彩石和一切的寶石，並許多漢白玉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "In addition, because I have set my affection on the house of my God, since I have a treasure of my own of gold and silver, I give it to the house of my God, over and above all that I have prepared for the holy house:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "且因我心中爱慕我 神的殿，就在预备建造圣殿的材料之外，又将我自己积蓄的金银献上，建造我 神的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "且因我心中愛慕我上帝的殿，就在預備建造聖殿的材料之外，又將我自己積蓄的金銀獻上，建造我上帝的殿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, with which to overlay the walls of the houses;",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "29:4 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 3000 talents is about 90 metric tons"
+          },
+          {
+            "id": "f2",
+            "text": "29:4 about 210 metric tons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是俄斐金三千他连得、精炼的银子七千他连得，以贴殿墙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是俄斐金三千他連得、精鍊的銀子七千他連得，以貼殿牆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "of gold for the things of gold, and of silver for the things of silver, and for all kinds of work to be made by the hands of artisans. Who then offers willingly to consecrate himself today to the LORD?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "金子做金器，银子做银器，并借匠人的手制造一切。今日有谁乐意将自己献给耶和华呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "金子做金器，銀子做銀器，並藉匠人的手製造一切。今日有誰樂意將自己獻給耶和華呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Then the princes of the fathers’ households, and the princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers over the king’s work, offered willingly;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，众族长和以色列各支派的首领、千夫长、百夫长，并监管王工的官长，都乐意献上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，眾族長和以色列各支派的首領、千夫長、百夫長，並監管王工的官長，都樂意獻上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and they gave for the service of God’s house of gold five thousand talents and ten thousand darics, of silver ten thousand talents, of bronze eighteen thousand talents, and of iron one hundred thousand talents.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "29:7 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 5000 talents is about 150 metric tons"
+          },
+          {
+            "id": "f2",
+            "text": "29:7 a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们为 神殿的使用献上金子五千他连得零一万达利克，银子一万他连得，铜一万八千他连得，铁十万他连得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們為上帝殿的使用獻上金子五千他連得零一萬達利克，銀子一萬他連得，銅一萬八千他連得，鐵十萬他連得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "People with whom precious stones were found gave them to the treasure of the LORD’s house, under the hand of Jehiel the Gershonite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有宝石的都交给革顺人耶歇，送入耶和华殿的府库。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有寶石的都交給革順人耶歇，送入耶和華殿的府庫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then the people rejoiced, because they offered willingly, because with a perfect heart they offered willingly to the LORD; and David the king also rejoiced with great joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因这些人诚心乐意献给耶和华，百姓就欢喜，大卫王也大大欢喜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因這些人誠心樂意獻給耶和華，百姓就歡喜，大衛王也大大歡喜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Therefore David blessed the LORD before all the assembly; and David said, “You are blessed, LORD, the God of Israel our father, forever and ever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，大卫在会众面前称颂耶和华说：「耶和华—我们的父，以色列的 神是应当称颂，直到永永远远的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，大衛在會眾面前稱頌耶和華說：「耶和華－我們的父，以色列的上帝是應當稱頌，直到永永遠遠的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Yours, LORD, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and on the earth is yours. Yours is the kingdom, LORD, and you are exalted as head above all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华啊，尊大、能力、荣耀、强胜、威严都是你的；凡天上地下的都是你的；国度也是你的，并且你为至高，为万有之首。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華啊，尊大、能力、榮耀、強勝、威嚴都是你的；凡天上地下的都是你的；國度也是你的，並且你為至高，為萬有之首。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Both riches and honor come from you, and you rule over all! In your hand is power and might! It is in your hand to make great, and to give strength to all!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "丰富尊荣都从你而来，你也治理万物。在你手里有大能大力，使人尊大强盛都出于你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豐富尊榮都從你而來，你也治理萬物。在你手裏有大能大力，使人尊大強盛都出於你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now therefore, our God, we thank you and praise your glorious name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的 神啊，现在我们称谢你，赞美你荣耀之名！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的上帝啊，現在我們稱謝你，讚美你榮耀之名！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But who am I, and what is my people, that we should be able to offer so willingly as this? For all things come from you, and we have given you of your own.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我算什么，我的民算什么，竟能如此乐意奉献？因为万物都从你而来，我们把从你而得的献给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我算甚麼，我的民算甚麼，竟能如此樂意奉獻？因為萬物都從你而來，我們把從你而得的獻給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For we are strangers before you and foreigners, as all our fathers were. Our days on the earth are as a shadow, and there is no remaining.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们在你面前是客旅，是寄居的，与我们列祖一样。我们在世的日子如影儿，不能长存。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:15 或译：没有长存的指望"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們在你面前是客旅，是寄居的，與我們列祖一樣。我們在世的日子如影兒，不能長存。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:15 或譯：沒有長存的指望"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "LORD our God, all this store that we have prepared to build you a house for your holy name comes from your hand, and is all your own.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们的 神啊，我们预备这许多材料，要为你的圣名建造殿宇，都是从你而来，都是属你的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們的上帝啊，我們預備這許多材料，要為你的聖名建造殿宇，都是從你而來，都是屬你的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I know also, my God, that you try the heart and have pleasure in uprightness. As for me, in the uprightness of my heart I have willingly offered all these things. Now I have seen with joy your people, who are present here, offer willingly to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神啊，我知道你察验人心，喜悦正直；我以正直的心乐意献上这一切物。现在我喜欢见你的民在这里都乐意奉献与你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝啊，我知道你察驗人心，喜悅正直；我以正直的心樂意獻上這一切物。現在我喜歡見你的民在這裏都樂意奉獻與你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "LORD, the God of Abraham, of Isaac, and of Israel, our fathers, keep this desire forever in the thoughts of the heart of your people, and prepare their heart for you;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—我们列祖亚伯拉罕、以撒、以色列的 神啊，求你使你的民常存这样的心思意念，坚定他们的心归向你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－我們列祖亞伯拉罕、以撒、以色列的上帝啊，求你使你的民常存這樣的心思意念，堅定他們的心歸向你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "and give to Solomon my son a perfect heart, to keep your commandments, your testimonies, and your statutes, and to do all these things, and to build the palace, for which I have made provision.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又求你赐我儿子所罗门诚实的心，遵守你的命令、法度、律例，成就这一切的事，用我所预备的建造殿宇。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又求你賜我兒子所羅門誠實的心，遵守你的命令、法度、律例，成就這一切的事，用我所預備的建造殿宇。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then David said to all the assembly, “Now bless the LORD your God!” All the assembly blessed the LORD, the God of their fathers, and bowed down their heads and prostrated themselves before the LORD and the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫对全会众说：「你们应当称颂耶和华—你们的 神。」于是会众称颂耶和华—他们列祖的 神，低头拜耶和华与王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛對全會眾說：「你們應當稱頌耶和華－你們的上帝。」於是會眾稱頌耶和華－他們列祖的上帝，低頭拜耶和華與王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They sacrificed sacrifices to the LORD and offered burnt offerings to the LORD on the next day after that day, even one thousand bulls, one thousand rams, and one thousand lambs, with their drink offerings and sacrifices in abundance for all Israel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "次日，他们向耶和华献平安祭和燔祭，就是献公牛一千只，公绵羊一千只，羊羔一千只，并同献的奠祭；又为以色列众人献许多的祭。那日，他们在耶和华面前吃喝，大大欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "次日，他們向耶和華獻平安祭和燔祭，就是獻公牛一千隻，公綿羊一千隻，羊羔一千隻，並同獻的奠祭；又為以色列眾人獻許多的祭。那日，他們在耶和華面前吃喝，大大歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "and ate and drank before the LORD on that day with great gladness. They made Solomon the son of David king the second time, and anointed him before the LORD to be prince, and Zadok to be priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们奉耶和华的命再膏大卫的儿子所罗门作王，又膏撒督作祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們奉耶和華的命再膏大衛的兒子所羅門作王，又膏撒督作祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是所罗门坐在耶和华所赐的位上，接续他父亲大卫作王，万事亨通；以色列众人也都听从他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是所羅門坐在耶和華所賜的位上，接續他父親大衛作王，萬事亨通；以色列眾人也都聽從他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "All the princes, the mighty men, and also all of the sons of King David submitted themselves to Solomon the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众首领和勇士，并大卫王的众子，都顺服所罗门王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾首領和勇士，並大衛王的眾子，都順服所羅門王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The LORD magnified Solomon exceedingly in the sight of all Israel, and gave to him such royal majesty as had not been on any king before him in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使所罗门在以色列众人眼前甚为尊大，极其威严，胜过在他以前的以色列王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使所羅門在以色列眾人眼前甚為尊大，極其威嚴，勝過在他以前的以色列王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Now David the son of Jesse reigned over all Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶西的儿子大卫作以色列众人的王，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶西的兒子大衛作以色列眾人的王，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The time that he reigned over Israel was forty years; he reigned seven years in Hebron, and he reigned thirty-three years in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作王共四十年：在希伯 作王七年，在耶路撒冷作王三十三年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作王共四十年：在希伯崙作王七年，在耶路撒冷作王三十三年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He died at a good old age, full of days, riches, and honor; and Solomon his son reigned in his place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他年纪老迈，日子满足，享受丰富、尊荣，就死了。他儿子所罗门接续他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他年紀老邁，日子滿足，享受豐富、尊榮，就死了。他兒子所羅門接續他作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Now the acts of David the king, first and last, behold, they are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王始终的事都写在先见撒母耳的书上和先知拿单并先见迦得的书上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王始終的事都寫在先見撒母耳的書上和先知拿單並先見迦得的書上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "with all his reign and his might, and the events that involved him, Israel, and all the kingdoms of the lands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的国事和他的勇力，以及他和以色列并列国所经过的事都写在这书上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的國事和他的勇力，以及他和以色列並列國所經過的事都寫在這書上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

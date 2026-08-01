@@ -1,0 +1,945 @@
+{
+  "bookId": "NUM",
+  "chapter": 4,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses and to Aaron, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西、亚伦说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西、亞倫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers’ houses,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你从利未人中，将哥辖子孙的总数，照他们的家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你從利未人中，將哥轄子孫的總數，照他們的家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，全都计算。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，全都計算。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“This is the service of the sons of Kohath in the Tent of Meeting, regarding the most holy things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哥辖子孙在会幕搬运至圣之物，所办的事乃是这样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哥轄子孫在會幕搬運至聖之物，所辦的事乃是這樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When the camp moves forward, Aaron shall go in with his sons; and they shall take down the veil of the screen, cover the ark of the Testimony with it,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "起营的时候，亚伦和他儿子要进去摘下遮掩柜的幔子，用以蒙盖法柜，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "起營的時候，亞倫和他兒子要進去摘下遮掩櫃的幔子，用以蒙蓋法櫃，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "put a covering of sealskin on it, spread a blue cloth over it, and put in its poles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用海狗皮盖在上头，再蒙上纯蓝色的毯子，把杠穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用海狗皮蓋在上頭，再蒙上純藍色的毯子，把槓穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“On the table of show bread they shall spread a blue cloth, and put on it the dishes, the spoons, the bowls, and the cups with which to pour out; and the continual bread shall be on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用蓝色毯子铺在陈设饼的桌子上，将盘子、调羹、奠酒的爵，和杯摆在上头。桌子上也必有常设的饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用藍色毯子鋪在陳設餅的桌子上，將盤子、調羹、奠酒的爵，和杯擺在上頭。桌子上也必有常設的餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They shall spread on them a scarlet cloth, and cover it with a covering of sealskin, and shall put in its poles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在其上又要蒙朱红色的毯子，再蒙上海狗皮，把杠穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在其上又要蒙朱紅色的毯子，再蒙上海狗皮，把槓穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“They shall take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil vessels, with which they minister to it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要拿蓝色毯子，把灯台和灯台上所用的灯盏、剪子、蜡花盘，并一切盛油的器皿，全都遮盖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要拿藍色毯子，把燈臺和燈臺上所用的燈盞、剪子、蠟花盤，並一切盛油的器皿，全都遮蓋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They shall put it and all its vessels within a covering of sealskin, and shall put it on the frame.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把灯台和灯台的一切器具包在海狗皮里，放在抬架上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把燈臺和燈臺的一切器具包在海狗皮裏，放在抬架上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“On the golden altar they shall spread a blue cloth, and cover it with a covering of sealskin, and shall put in its poles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在金坛上要铺蓝色毯子，蒙上海狗皮，把杠穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在金壇上要鋪藍色毯子，蒙上海狗皮，把槓穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“They shall take all the vessels of ministry with which they minister in the sanctuary, and put them in a blue cloth, cover them with a covering of sealskin, and shall put them on the frame.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把圣所用的一切器具包在蓝色毯子里，用海狗皮蒙上，放在抬架上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把聖所用的一切器具包在藍色毯子裏，用海狗皮蒙上，放在抬架上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“They shall take away the ashes from the altar, and spread a purple cloth on it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要收去坛上的灰，把紫色毯子铺在坛上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要收去壇上的灰，把紫色毯子鋪在壇上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They shall put on it all its vessels with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins—all the vessels of the altar; and they shall spread on it a covering of sealskin, and put in its poles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要把所用的一切器具，就是火鼎、肉锸子、铲子、盘子，一切属坛的器具都摆在坛上，又蒙上海狗皮，把杠穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要把所用的一切器具，就是火鼎、肉鍤子、鏟子、盤子，一切屬壇的器具都擺在壇上，又蒙上海狗皮，把槓穿上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“When Aaron and his sons have finished covering the sanctuary and all the furniture of the sanctuary, as the camp moves forward; after that, the sons of Kohath shall come to carry it; but they shall not touch the sanctuary, lest they die. The sons of Kohath shall carry these things belonging to the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将要起营的时候，亚伦和他儿子把圣所和圣所的一切器具遮盖完了，哥辖的子孙就要来抬，只是不可摸圣物，免得他们死亡。会幕里这些物件是哥辖子孙所当抬的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將要起營的時候，亞倫和他兒子把聖所和聖所的一切器具遮蓋完了，哥轄的子孫就要來抬，只是不可摸聖物，免得他們死亡。會幕裏這些物件是哥轄子孫所當抬的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“The duty of Eleazar the son of Aaron the priest shall be the oil for the light, the sweet incense, the continual meal offering, and the anointing oil, the requirements of all the tabernacle, and of all that is in it, the sanctuary, and its furnishings.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「祭司亚伦的儿子以利亚撒所要看守的是点灯的油与香料，并当献的素祭和膏油，也要看守全帐幕与其中所有的，并圣所和圣所的器具。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「祭司亞倫的兒子以利亞撒所要看守的是點燈的油與香料，並當獻的素祭和膏油，也要看守全帳幕與其中所有的，並聖所和聖所的器具。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The LORD spoke to Moses and to Aaron, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西、亚伦说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西、亞倫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“Don’t cut off the tribe of the families of the Kohathites from among the Levites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不可将哥辖人的支派从利未人中剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不可將哥轄人的支派從利未人中剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "but do this to them, that they may live, and not die, when they approach the most holy things: Aaron and his sons shall go in and appoint everyone to his service and to his burden;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们挨近至圣物的时候，亚伦和他儿子要进去派他们各人所当办的，所当抬的。这样待他们，好使他们活着，不致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們挨近至聖物的時候，亞倫和他兒子要進去派他們各人所當辦的，所當抬的。這樣待他們，好使他們活着，不致死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "but they shall not go in to see the sanctuary even for a moment, lest they die.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是他们连片时不可进去观看圣所，免得他们死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是他們連片時不可進去觀看聖所，免得他們死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“Take a census of the sons of Gershon also, by their fathers’ houses, by their families;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要将革顺子孙的总数，照着宗族、家室，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要將革順子孫的總數，照着宗族、家室，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "you shall count them from thirty years old and upward until fifty years old: all who enter in to wait on the service, to do the work in the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，全都数点。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，全都數點。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“This is the service of the families of the Gershonites, in serving and in bearing burdens:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "革顺人各族所办的事、所抬的物乃是这样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "革順人各族所辦的事、所抬的物乃是這樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "they shall carry the curtains of the tabernacle and the Tent of Meeting, its covering, the covering of sealskin that is on it, the screen for the door of the Tent of Meeting,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要抬帐幕的幔子和会幕，并会幕的盖与其上的海狗皮，和会幕的门帘，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要抬帳幕的幔子和會幕，並會幕的蓋與其上的海狗皮，和會幕的門簾，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "the hangings of the court, the screen for the door of the gate of the court which is by the tabernacle and around the altar, their cords, and all the instruments of their service, and whatever shall be done with them. They shall serve in there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子的帷子和门帘（院子是围帐幕和坛的）、绳子，并所用的器具，不论是做什么用的，他们都要经理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子的帷子和門簾（院子是圍帳幕和壇的）、繩子，並所用的器具，不論是做甚麼用的，他們都要經理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "At the commandment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burden and in all their service; and you shall appoint their duty to them in all their responsibilities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "革顺的子孙在一切抬物办事之上都要凭亚伦和他儿子的吩咐；他们所当抬的，要派他们看守。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "革順的子孫在一切抬物辦事之上都要憑亞倫和他兒子的吩咐；他們所當抬的，要派他們看守。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "This is the service of the families of the sons of the Gershonites in the Tent of Meeting. Their duty shall be under the hand of Ithamar the son of Aaron the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是革顺子孙的各族在会幕里所办的事；他们所看守的，必在祭司亚伦儿子以他玛的手下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是革順子孫的各族在會幕裏所辦的事；他們所看守的，必在祭司亞倫兒子以他瑪的手下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“As for the sons of Merari, you shall count them by their families, by their fathers’ houses;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「至于米拉利的子孙，你要照着家室、宗族把他们数点。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「至於米拉利的子孫，你要照着家室、宗族把他們數點。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "you shall count them from thirty years old and upward even to fifty years old—everyone who enters on the service, to do the work of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，你都要数点。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，你都要數點。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "This is the duty of their burden, according to all their service in the Tent of Meeting: the tabernacle’s boards, its bars, its pillars, its sockets,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们办理会幕的事，就是抬帐幕的板、闩、柱子，和带卯的座，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們辦理會幕的事，就是抬帳幕的板、閂、柱子，和帶卯的座，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "the pillars of the court around it, their sockets, their pins, their cords, with all their instruments, and with all their service. You shall appoint the instruments of the duty of their burden to them by name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "院子四围的柱子和其上带卯的座、橛子、绳子，并一切使用的器具。他们所抬的器具，你们要按名指定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "院子四圍的柱子和其上帶卯的座、橛子、繩子，並一切使用的器具。他們所抬的器具，你們要按名指定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是米拉利子孙各族在会幕里所办的事，都在祭司亚伦儿子以他玛的手下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是米拉利子孫各族在會幕裏所辦的事，都在祭司亞倫兒子以他瑪的手下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Moses and Aaron and the princes of the congregation counted the sons of the Kohathites by their families, and by their fathers’ houses,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西、亚伦与会众的诸首领将哥辖的子孙，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西、亞倫與會眾的諸首領將哥轄的子孫，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "from thirty years old and upward even to fifty years old, everyone who entered into the service for work in the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，都数点了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，都數點了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Those who were counted of them by their families were two thousand seven hundred fifty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "被数的共有二千七百五十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "被數的共有二千七百五十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "These are those who were counted of the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of the LORD by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是哥辖各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是哥轄各族中被數的，是在會幕裏辦事的，就是摩西、亞倫照耶和華藉摩西所吩咐數點的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Those who were counted of the sons of Gershon, by their families, and by their fathers’ houses,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "革顺子孙被数的，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "革順子孫被數的，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39-40",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，共有二千六百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，共有二千六百三十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "even those who were counted of them, by their families, by their fathers’ houses, were two thousand six hundred thirty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "These are those who were counted of the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是革顺子孙各族中被数的，是在会幕里办事的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是革順子孫各族中被數的，是在會幕裏辦事的，就是摩西、亞倫照耶和華藉摩西所吩咐數點的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Those who were counted of the families of the sons of Merari, by their families, by their fathers’ houses,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米拉利子孙中各族被数的，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米拉利子孫中各族被數的，照着家室、宗族，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43-44",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里办事的，共有三千二百名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏辦事的，共有三千二百名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "even those who were counted of them by their families, were three thousand two hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "These are those who were counted of the families of the sons of Merari, whom Moses and Aaron counted according to the commandment of the LORD by Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是米拉利子孙各族中被数的，就是摩西、亚伦照耶和华借摩西所吩咐数点的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是米拉利子孫各族中被數的，就是摩西、亞倫照耶和華藉摩西所吩咐數點的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "All those who were counted of the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their fathers’ houses,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡被数的利未人，就是摩西、亚伦并以色列众首领，照着家室、宗族所数点的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡被數的利未人，就是摩西、亞倫並以色列眾首領，照着家室、宗族所數點的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "from thirty years old and upward even to fifty years old, everyone who entered in to do the work of service and the work of bearing burdens in the Tent of Meeting,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47-48",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从三十岁直到五十岁，凡前来任职、在会幕里做抬物之工的，共有八千五百八十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從三十歲直到五十歲，凡前來任職、在會幕裏做抬物之工的，共有八千五百八十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "even those who were counted of them, were eight thousand five hundred eighty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "According to the commandment of the LORD they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as the LORD commanded Moses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西按他们所办的事、所抬的物，凭耶和华的吩咐数点他们；他们这样被摩西数点，正如耶和华所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西按他們所辦的事、所抬的物，憑耶和華的吩咐數點他們；他們這樣被摩西數點，正如耶和華所吩咐他的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

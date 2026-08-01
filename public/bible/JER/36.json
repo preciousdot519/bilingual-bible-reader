@@ -1,0 +1,605 @@
+{
+  "bookId": "JER",
+  "chapter": 36,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the fourth year of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from the LORD, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王约西亚的儿子约雅敬第四年，耶和华的话临到耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王約西亞的兒子約雅敬第四年，耶和華的話臨到耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Take a scroll of a book, and write in it all the words that I have spoken to you against Israel, against Judah, and against all the nations, from the day I spoke to you, from the days of Josiah even to this day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你取一书卷，将我对你说攻击以色列和犹大，并各国的一切话，从我对你说话的那日，就是从约西亚的日子起直到今日，都写在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你取一書卷，將我對你說攻擊以色列和猶大，並各國的一切話，從我對你說話的那日，就是從約西亞的日子起直到今日，都寫在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "It may be that the house of Judah will hear all the evil which I intend to do to them, that they may each return from his evil way; that I may forgive their iniquity and their sin.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或者犹大家听见我想要降与他们的一切灾祸，各人就回头，离开恶道，我好赦免他们的罪孽和罪恶。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或者猶大家聽見我想要降與他們的一切災禍，各人就回頭，離開惡道，我好赦免他們的罪孽和罪惡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Then Jeremiah called Baruch the son of Neriah; and Baruch wrote from the mouth of Jeremiah all the LORD’s words, which he had spoken to him, on a scroll of a book.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，耶利米召了尼利亚的儿子巴录来；巴录就从耶利米口中，将耶和华对耶利米所说的一切话写在书卷上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，耶利米召了尼利亞的兒子巴錄來；巴錄就從耶利米口中，將耶和華對耶利米所說的一切話寫在書卷上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Jeremiah commanded Baruch, saying, “I am restricted. I can’t go into the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶利米吩咐巴录说：「我被拘管，不能进耶和华的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶利米吩咐巴錄說：「我被拘管，不能進耶和華的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Therefore you go, and read from the scroll which you have written from my mouth, the LORD’s words, in the ears of the people in the LORD’s house on the fast day. Also you shall read them in the ears of all Judah who come out of their cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你要去趁禁食的日子，在耶和华殿中将耶和华的话，就是你从我口中所写在书卷上的话，念给百姓和一切从犹大城邑出来的人听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你要去趁禁食的日子，在耶和華殿中將耶和華的話，就是你從我口中所寫在書卷上的話，念給百姓和一切從猶大城邑出來的人聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "It may be they will present their supplication before the LORD, and will each return from his evil way; for the LORD has pronounced great anger and wrath against this people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或者他们在耶和华面前恳求各人回头，离开恶道，因为耶和华向这百姓所说要发的怒气和忿怒是大的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或者他們在耶和華面前懇求各人回頭，離開惡道，因為耶和華向這百姓所說要發的怒氣和忿怒是大的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the LORD’s words in the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼利亚的儿子巴录就照先知耶利米一切所吩咐的去行，在耶和华的殿中从书上念耶和华的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼利亞的兒子巴錄就照先知耶利米一切所吩咐的去行，在耶和華的殿中從書上念耶和華的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now in the fifth year of Jehoiakim the son of Josiah, king of Judah, in the ninth month, all the people in Jerusalem and all the people who came from the cities of Judah to Jerusalem, proclaimed a fast before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王约西亚的儿子约雅敬第五年九月，耶路撒冷的众民和那从犹大城邑来到耶路撒冷的众民，在耶和华面前宣告禁食的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王約西亞的兒子約雅敬第五年九月，耶路撒冷的眾民和那從猶大城邑來到耶路撒冷的眾民，在耶和華面前宣告禁食的日子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then Baruch read the words of Jeremiah from the book in the LORD’s house, in the room of Gemariah the son of Shaphan the scribe, in the upper court, at the entry of the new gate of the LORD’s house, in the ears of all the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴录就在耶和华殿的上院，耶和华殿的新门口，沙番的儿子文士基玛利雅的屋内，念书上耶利米的话给众民听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴錄就在耶和華殿的上院，耶和華殿的新門口，沙番的兒子文士基瑪利雅的屋內，念書上耶利米的話給眾民聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "When Micaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the LORD’s words,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙番的孙子、基玛利雅的儿子米该亚听见书上耶和华的一切话，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙番的孫子、基瑪利雅的兒子米該亞聽見書上耶和華的一切話，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "he went down into the king’s house, into the scribe’s room; and behold, all the princes were sitting there, Elishama the scribe, Delaiah the son of Shemaiah, Elnathan the son of Achbor, Gemariah the son of Shaphan, Zedekiah the son of Hananiah, and all the princes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就下到王宫，进入文士的屋子。众首领，就是文士以利沙玛、示玛雅的儿子第莱雅、亚革波的儿子以利拿单、沙番的儿子基玛利雅、哈拿尼雅的儿子西底家，和其余的首领都坐在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就下到王宮，進入文士的屋子。眾首領，就是文士以利沙瑪、示瑪雅的兒子第萊雅、亞革波的兒子以利拿單、沙番的兒子基瑪利雅、哈拿尼雅的兒子西底家，和其餘的首領都坐在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then Micaiah declared to them all the words that he had heard, when Baruch read the book in the ears of the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是米该亚对他们述说他所听见的一切话，就是巴录向百姓念那书的时候所听见的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是米該亞對他們述說他所聽見的一切話，就是巴錄向百姓念那書的時候所聽見的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, “Take in your hand the scroll in which you have read in the ears of the people, and come.” So Baruch the son of Neriah took the scroll in his hand, and came to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众首领就打发古示的曾孙、示利米雅的孙子、尼探雅的儿子犹底到巴录那里，对他说：「你将所念给百姓听的书卷拿在手中到我们这里来。」尼利亚的儿子巴录就手拿书卷来到他们那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾首領就打發古示的曾孫、示利米雅的孫子、尼探雅的兒子猶底到巴錄那裏，對他說：「你將所念給百姓聽的書卷拿在手中到我們這裏來。」尼利亞的兒子巴錄就手拿書卷來到他們那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "They said to him, “Sit down now, and read it in our hearing.” So Baruch read it in their hearing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们对他说：「请你坐下，念给我们听。」巴录就念给他们听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們對他說：「請你坐下，念給我們聽。」巴錄就念給他們聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Now when they had heard all the words, they turned in fear one toward another, and said to Baruch, “We will surely tell the king of all these words.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们听见这一切话就害怕，面面相观，对巴录说：「我们必须将这一切话告诉王。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們聽見這一切話就害怕，面面相觀，對巴錄說：「我們必須將這一切話告訴王。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They asked Baruch, saying, “Tell us now, how did you write all these words at his mouth?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们问巴录说：「请你告诉我们，你怎样从他口中写这一切话呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們問巴錄說：「請你告訴我們，你怎樣從他口中寫這一切話呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Then Baruch answered them, “He dictated all these words to me with his mouth, and I wrote them with ink in the book.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴录回答说：「他用口向我说这一切话，我就用笔墨写在书上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴錄回答說：「他用口向我說這一切話，我就用筆墨寫在書上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Then the princes said to Baruch, “You and Jeremiah go hide. Don’t let anyone know where you are.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众首领对巴录说：「你和耶利米要去藏起来，不可叫人知道你们在哪里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾首領對巴錄說：「你和耶利米要去藏起來，不可叫人知道你們在哪裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They went in to the king into the court, but they had laid up the scroll in the room of Elishama the scribe. Then they told all the words in the hearing of the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众首领进院见王，却先把书卷存在文士以利沙玛的屋内，以后将这一切话说给王听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾首領進院見王，卻先把書卷存在文士以利沙瑪的屋內，以後將這一切話說給王聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "So the king sent Jehudi to get the scroll, and he took it out of the room of Elishama the scribe. Jehudi read it in the hearing of the king, and in the hearing of all the princes who stood beside the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王就打发犹底去拿这书卷来，他便从文士以利沙玛的屋内取来，念给王和王左右侍立的众首领听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王就打發猶底去拿這書卷來，他便從文士以利沙瑪的屋內取來，念給王和王左右侍立的眾首領聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Now the king was sitting in the winter house in the ninth month, and there was a fire in the brazier burning before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时正是九月，王坐在过冬的房屋里，王的前面火盆中有烧着的火。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時正是九月，王坐在過冬的房屋裏，王的前面火盆中有燒着的火。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When Jehudi had read three or four columns, the king cut it with the penknife, and cast it into the fire that was in the brazier, until all the scroll was consumed in the fire that was in the brazier.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹底念了三四篇，王就用文士的刀将书卷割破，扔在火盆中，直到全卷在火中烧尽了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:23 或译：行"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶底念了三四篇，王就用文士的刀將書卷割破，扔在火盆中，直到全卷在火中燒盡了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:23 或譯：行"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The king and his servants who heard all these words were not afraid, and didn’t tear their garments.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王和听见这一切话的臣仆都不惧怕，也不撕裂衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王和聽見這一切話的臣僕都不懼怕，也不撕裂衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Moreover Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the scroll; but he would not listen to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利拿单和第莱雅，并基玛利雅恳求王不要烧这书卷，他却不听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利拿單和第萊雅，並基瑪利雅懇求王不要燒這書卷，他卻不聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The king commanded Jerahmeel the king’s son, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to arrest Baruch the scribe and Jeremiah the prophet; but the LORD hid them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王就吩咐哈米勒的儿子耶拉篾和亚斯列的儿子西莱雅，并亚伯叠的儿子示利米雅，去捉拿文士巴录和先知耶利米。耶和华却将他们隐藏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:26 或译：王的儿子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王就吩咐哈米勒的兒子耶拉篾和亞斯列的兒子西萊雅，並亞伯疊的兒子示利米雅，去捉拿文士巴錄和先知耶利米。耶和華卻將他們隱藏。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:26 或譯：王的兒子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Then the LORD’s word came to Jeremiah, after the king had burned the scroll, and the words which Baruch wrote at the mouth of Jeremiah, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王烧了书卷（其上有巴录从耶利米口中所写的话）以后，耶和华的话临到耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王燒了書卷（其上有巴錄從耶利米口中所寫的話）以後，耶和華的話臨到耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "“Take again another scroll, and write in it all the former words that were in the first scroll, which Jehoiakim the king of Judah has burned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你再取一卷，将犹大王约雅敬所烧第一卷上的一切话写在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你再取一卷，將猶大王約雅敬所燒第一卷上的一切話寫在其上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Concerning Jehoiakim king of Judah you shall say, ‘The LORD says: “You have burned this scroll, saying, ‘Why have you written therein, saying, “The king of Babylon will certainly come and destroy this land, and will cause to cease from there man and animal”?’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到犹大王约雅敬你要说，耶和华如此说：你烧了书卷，说：『你为什么在其上写着，说巴比伦王必要来毁灭这地，使这地上绝了人民牲畜呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到猶大王約雅敬你要說，耶和華如此說：你燒了書卷，說：『你為甚麼在其上寫着，說巴比倫王必要來毀滅這地，使這地上絕了人民牲畜呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Therefore the LORD says concerning Jehoiakim king of Judah: “He will have no one to sit on David’s throne. His dead body will be cast out in the day to the heat, and in the night to the frost.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华论到犹大王约雅敬说：他后裔中必没有人坐在大卫的宝座上；他的尸首必被抛弃，白日受炎热，黑夜受寒霜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華論到猶大王約雅敬說：他後裔中必沒有人坐在大衛的寶座上；他的屍首必被拋棄，白日受炎熱，黑夜受寒霜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "I will punish him, his offspring, and his servants for their iniquity. I will bring on them, on the inhabitants of Jerusalem, and on the men of Judah, all the evil that I have pronounced against them, but they didn’t listen.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必因他和他后裔，并他臣仆的罪孽刑罚他们。我要使我所说的一切灾祸临到他们和耶路撒冷的居民，并犹大人；只是他们不听。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必因他和他後裔，並他臣僕的罪孽刑罰他們。我要使我所說的一切災禍臨到他們和耶路撒冷的居民，並猶大人；只是他們不聽。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Then Jeremiah took another scroll, and gave it to Baruch the scribe, the son of Neriah, who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire; and many similar words were added to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，耶利米又取一书卷交给尼利亚的儿子文士巴录，他就从耶利米的口中写了犹大王约雅敬所烧前卷上的一切话，另外又添了许多相仿的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，耶利米又取一書卷交給尼利亞的兒子文士巴錄，他就從耶利米的口中寫了猶大王約雅敬所燒前卷上的一切話，另外又添了許多相彷的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+  "bookId": "DEU",
+  "chapter": 1,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suf, between Paran, Tophel, Laban, Hazeroth, and Dizahab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以下所记的是摩西在约旦河东的旷野、疏弗对面的亚拉巴—就是巴兰、陀弗、拉班、哈洗录、底撒哈中间—向以色列众人所说的话。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以下所記的是摩西在約旦河東的曠野、疏弗對面的亞拉巴－就是巴蘭、陀弗、拉班、哈洗錄、底撒哈中間－向以色列眾人所說的話。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It is eleven days’ journey from Horeb by the way of Mount Seir to Kadesh Barnea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从何烈山经过西珥山到加低斯·巴尼亚有十一天的路程。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從何烈山經過西珥山到加低斯‧巴尼亞有十一天的路程。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that the LORD had given him in commandment to them,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:3 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "出埃及第四十年十一月初一日，摩西照耶和华借着他所吩咐以色列人的话都晓谕他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "出埃及第四十年十一月初一日，摩西照耶和華藉着他所吩咐以色列人的話都曉諭他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "after he had struck Sihon the king of the Amorites who lived in Heshbon, and Og the king of Bashan who lived in Ashtaroth, at Edrei.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，他已经击杀了住希实本的亚摩利王西宏和住以得来、亚斯他录的巴珊王噩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，他已經擊殺了住希實本的亞摩利王西宏和住以得來、亞斯他錄的巴珊王噩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Beyond the Jordan, in the land of Moab, Moses began to declare this law, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西在约旦河东的摩押地讲律法说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西在約旦河東的摩押地講律法說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“The LORD our God spoke to us in Horeb, saying, ‘You have lived long enough at this mountain.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:6 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「耶和华—我们的 神在何烈山晓谕我们说：你们在这山上住的日子够了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「耶和華－我們的上帝在何烈山曉諭我們說：你們在這山上住的日子夠了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Turn, and take your journey, and go to the hill country of the Amorites and to all the places near there: in the Arabah, in the hill country, in the lowland, in the South, by the seashore, in the land of the Canaanites, and in Lebanon as far as the great river, the river Euphrates.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要起行转到亚摩利人的山地和靠近这山地的各处，就是亚拉巴、山地、高原、南地，沿海一带迦南人的地，并黎巴嫩山又到幼发拉底大河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要起行轉到亞摩利人的山地和靠近這山地的各處，就是亞拉巴、山地、高原、南地，沿海一帶迦南人的地，並黎巴嫩山又到幼發拉底大河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Behold, I have set the land before you. Go in and possess the land which the LORD swore to your fathers—to Abraham, to Isaac, and to Jacob—to give to them and to their offspring after them.’”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:8 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          },
+          {
+            "id": "f2",
+            "text": "1:8 or, seed"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今我将这地摆在你们面前；你们要进去得这地，就是耶和华向你们列祖亚伯拉罕、以撒、雅各起誓应许赐给他们和他们后裔为业之地。」 （出18·13—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今我將這地擺在你們面前；你們要進去得這地，就是耶和華向你們列祖亞伯拉罕、以撒、雅各起誓應許賜給他們和他們後裔為業之地。」 （出18‧13－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I spoke to you at that time, saying, “I am not able to bear you myself alone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那时，我对你们说：『管理你们的重任，我独自担当不起。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那時，我對你們說：『管理你們的重任，我獨自擔當不起。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The LORD your God has multiplied you, and behold, you are today as the stars of the sky for multitude.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—你们的 神使你们多起来。看哪，你们今日像天上的星那样多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－你們的上帝使你們多起來。看哪，你們今日像天上的星那樣多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "May the LORD, the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿耶和华—你们列祖的 神使你们比如今更多千倍，照他所应许你们的话赐福与你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願耶和華－你們列祖的上帝使你們比如今更多千倍，照他所應許你們的話賜福與你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "How can I myself alone bear your problems, your burdens, and your strife?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你们的麻烦，和管理你们的重任，并你们的争讼，我独自一人怎能担当得起呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你們的麻煩，和管理你們的重任，並你們的爭訟，我獨自一人怎能擔當得起呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Take wise men of understanding who are respected among your tribes, and I will make them heads over you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要按着各支派选举有智慧、有见识、为众人所认识的，我立他们为你们的首领。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要按着各支派選舉有智慧、有見識、為眾人所認識的，我立他們為你們的首領。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You answered me, and said, “The thing which you have spoken is good to do.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们回答我说：『照你所说的行了为妙。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們回答我說：『照你所說的行了為妙。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "So I took the heads of your tribes, wise and respected men, and made them heads over you, captains of thousands, captains of hundreds, captains of fifties, captains of tens, and officers, according to your tribes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便将你们各支派的首领，有智慧、为众人所认识的，照你们的支派，立他们为官长、千夫长、百夫长、五十夫长、十夫长，管理你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便將你們各支派的首領，有智慧、為眾人所認識的，照你們的支派，立他們為官長、千夫長、百夫長、五十夫長、十夫長，管理你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I commanded your judges at that time, saying, “Hear cases between your brothers and judge righteously between a man and his brother, and the foreigner who is living with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「当时，我嘱咐你们的审判官说：『你们听讼，无论是弟兄彼此争讼，是与同居的外人争讼，都要按公义判断。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「當時，我囑咐你們的審判官說：『你們聽訟，無論是弟兄彼此爭訟，是與同居的外人爭訟，都要按公義判斷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God’s. The case that is too hard for you, you shall bring to me, and I will hear it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "审判的时候，不可看人的外貌；听讼不可分贵贱，不可惧怕人，因为审判是属乎 神的。若有难断的案件，可以呈到我这里，我就判断。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "審判的時候，不可看人的外貌；聽訟不可分貴賤，不可懼怕人，因為審判是屬乎上帝的。若有難斷的案件，可以呈到我這裏，我就判斷。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I commanded you at that time all the things which you should do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，我将你们所当行的事都吩咐你们了。」 （民13·1—33）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，我將你們所當行的事都吩咐你們了。」 （民13‧1－33）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "We traveled from Horeb and went through all that great and terrible wilderness which you saw, by the way to the hill country of the Amorites, as the LORD our God commanded us; and we came to Kadesh Barnea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我们照着耶和华—我们 神所吩咐的从何烈山起行，经过你们所看见那大而可怕的旷野，往亚摩利人的山地去，到了加低斯·巴尼亚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我們照着耶和華－我們上帝所吩咐的從何烈山起行，經過你們所看見那大而可怕的曠野，往亞摩利人的山地去，到了加低斯‧巴尼亞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "I said to you, “You have come to the hill country of the Amorites, which the LORD our God gives to us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我对你们说：『你们已经到了耶和华—我们 神所赐给我们的亚摩利人之山地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我對你們說：『你們已經到了耶和華－我們上帝所賜給我們的亞摩利人之山地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Behold, the LORD your God has set the land before you. Go up, take possession, as the LORD the God of your fathers has spoken to you. Don’t be afraid, neither be dismayed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，耶和华—你的 神已将那地摆在你面前，你要照耶和华—你列祖的 神所说的上去得那地为业；不要惧怕，也不要惊惶。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，耶和華－你的上帝已將那地擺在你面前，你要照耶和華－你列祖的上帝所說的上去得那地為業；不要懼怕，也不要驚惶。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You came near to me, everyone of you, and said, “Let’s send men before us, that they may search the land for us, and bring back to us word of the way by which we must go up, and the cities to which we shall come.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们都就近我来说：『我们要先打发人去，为我们窥探那地，将我们上去该走何道，必进何城，都回报我们。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們都就近我來說：『我們要先打發人去，為我們窺探那地，將我們上去該走何道，必進何城，都回報我們。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The thing pleased me well. I took twelve of your men, one man for every tribe.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这话我以为美，就从你们中间选了十二个人，每支派一人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這話我以為美，就從你們中間選了十二個人，每支派一人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They turned and went up into the hill country, and came to the valley of Eshcol, and spied it out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是他们起身上山地去，到以实各谷，窥探那地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是他們起身上山地去，到以實各谷，窺探那地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They took some of the fruit of the land in their hands and brought it down to us, and brought us word again, and said, “It is a good land which the LORD our God gives to us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们手里拿着那地的果子下来，到我们那里，回报说：『耶和华—我们的 神所赐给我们的是美地。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們手裏拿着那地的果子下來，到我們那裏，回報說：『耶和華－我們的上帝所賜給我們的是美地。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Yet you wouldn’t go up, but rebelled against the commandment of the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们却不肯上去，竟违背了耶和华—你们 神的命令，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們卻不肯上去，竟違背了耶和華－你們上帝的命令，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "You murmured in your tents, and said, “Because the LORD hated us, he has brought us out of the land of Egypt, to deliver us into the hand of the Amorites to destroy us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在帐棚内发怨言说：『耶和华因为恨我们，所以将我们从埃及地领出来，要交在亚摩利人手中，除灭我们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在帳棚內發怨言說：『耶和華因為恨我們，所以將我們從埃及地領出來，要交在亞摩利人手中，除滅我們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Where are we going up? Our brothers have made our heart melt, saying, ‘The people are greater and taller than we. The cities are great and fortified up to the sky. Moreover we have seen the sons of the Anakim there!’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们上哪里去呢？我们的弟兄使我们的心消化，说那地的民比我们又大又高，城邑又广大又坚固，高得顶天，并且我们在那里看见亚衲族的人。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們上哪裏去呢？我們的弟兄使我們的心消化，說那地的民比我們又大又高，城邑又廣大又堅固，高得頂天，並且我們在那裏看見亞衲族的人。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Then I said to you, “Don’t be terrified. Don’t be afraid of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就对你们说：『不要惊恐，也不要怕他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就對你們說：『不要驚恐，也不要怕他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The LORD your God, who goes before you, he will fight for you, according to all that he did for you in Egypt before your eyes,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你们前面行的耶和华—你们的 神必为你们争战，正如他在埃及和旷野，在你们眼前所行的一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你們前面行的耶和華－你們的上帝必為你們爭戰，正如他在埃及和曠野，在你們眼前所行的一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "and in the wilderness where you have seen how that the LORD your God carried you, as a man carries his son, in all the way that you went, until you came to this place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在旷野所行的路上，也曾见耶和华—你们的 神抚养你们，如同人抚养儿子一般，直等你们来到这地方。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在曠野所行的路上，也曾見耶和華－你們的上帝撫養你們，如同人撫養兒子一般，直等你們來到這地方。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Yet in this thing you didn’t believe the LORD your God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在这事上却不信耶和华—你们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在這事上卻不信耶和華－你們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "who went before you on the way, to seek out a place for you to pitch your tents in: in fire by night, to show you by what way you should go, and in the cloud by day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在路上，在你们前面行，为你们找安营的地方；夜间在火柱里，日间在云柱里，指示你们所当行的路。」 （民14·20—45）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在路上，在你們前面行，為你們找安營的地方；夜間在火柱裏，日間在雲柱裏，指示你們所當行的路。」 （民14‧20－45）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "The LORD heard the voice of your words and was angry, and swore, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「耶和华听见你们这话，就发怒，起誓说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「耶和華聽見你們這話，就發怒，起誓說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“Surely not one of these men of this evil generation shall see the good land which I swore to give to your fathers,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『这恶世代的人，连一个也不得见我起誓应许赐给你们列祖的美地；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『這惡世代的人，連一個也不得見我起誓應許賜給你們列祖的美地；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "except Caleb the son of Jephunneh. He shall see it. I will give the land that he has trodden on to him and to his children, because he has wholly followed the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有耶孚尼的儿子迦勒必得看见，并且我要将他所踏过的地赐给他和他的子孙，因为他专心跟从我。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有耶孚尼的兒子迦勒必得看見，並且我要將他所踏過的地賜給他和他的子孫，因為他專心跟從我。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Also the LORD was angry with me for your sakes, saying, “You also shall not go in there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华为你的缘故也向我发怒，说：『你必不得进入那地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華為你的緣故也向我發怒，說：『你必不得進入那地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Joshua the son of Nun, who stands before you, shall go in there. Encourage him, for he shall cause Israel to inherit it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伺候你、嫩的儿子约书亚，他必得进入那地；你要勉励他，因为他要使以色列人承受那地为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伺候你、嫩的兒子約書亞，他必得進入那地；你要勉勵他，因為他要使以色列人承受那地為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Moreover your little ones, whom you said would be captured or killed, your children, who today have no knowledge of good or evil, shall go in there. I will give it to them, and they shall possess it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且你们的妇人孩子，就是你们所说、必被掳掠的，和今日不知善恶的儿女，必进入那地。我要将那地赐给他们，他们必得为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且你們的婦人孩子，就是你們所說、必被擄掠的，和今日不知善惡的兒女，必進入那地。我要將那地賜給他們，他們必得為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "But as for you, turn, and take your journey into the wilderness by the way to the Red Sea.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于你们，要转回，从红海的路往旷野去。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於你們，要轉回，從紅海的路往曠野去。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Then you answered and said to me, “We have sinned against the LORD. We will go up and fight, according to all that the LORD our God commanded us.” Every man of you put on his weapons of war, and presumed to go up into the hill country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那时，你们回答我说：『我们得罪了耶和华，情愿照耶和华—我们 神一切所吩咐的上去争战。』于是你们各人带着兵器，争先上山地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那時，你們回答我說：『我們得罪了耶和華，情願照耶和華－我們上帝一切所吩咐的上去爭戰。』於是你們各人帶着兵器，爭先上山地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The LORD said to me, “Tell them, ‘Don’t go up and don’t fight; for I am not among you, lest you be struck before your enemies.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华吩咐我说：『你对他们说：不要上去，也不要争战；因我不在你们中间，恐怕你们被仇敌杀败了。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華吩咐我說：『你對他們說：不要上去，也不要爭戰；因我不在你們中間，恐怕你們被仇敵殺敗了。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "So I spoke to you, and you didn’t listen; but you rebelled against the commandment of the LORD, and were presumptuous, and went up into the hill country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就告诉了你们，你们却不听从，竟违背耶和华的命令，擅自上山地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就告訴了你們，你們卻不聽從，竟違背耶和華的命令，擅自上山地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "The Amorites, who lived in that hill country, came out against you and chased you as bees do, and beat you down in Seir, even to Hormah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住那山地的亚摩利人就出来攻击你们，追赶你们，如蜂拥一般，在西珥杀退你们，直到何珥玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住那山地的亞摩利人就出來攻擊你們，追趕你們，如蜂擁一般，在西珥殺退你們，直到何珥瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "You returned and wept before the LORD, but the LORD didn’t listen to your voice, nor turn his ear to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们便回来，在耶和华面前哭号；耶和华却不听你们的声音，也不向你们侧耳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們便回來，在耶和華面前哭號；耶和華卻不聽你們的聲音，也不向你們側耳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "So you stayed in Kadesh many days, according to the days that you remained.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是你们在加低斯住了许多日子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是你們在加低斯住了許多日子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

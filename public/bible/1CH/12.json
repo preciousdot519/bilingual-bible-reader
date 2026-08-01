@@ -1,0 +1,729 @@
+{
+  "bookId": "1CH",
+  "chapter": 12,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫因怕基士的儿子扫罗，躲在洗革拉的时候，有勇士到他那里帮助他打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛因怕基士的兒子掃羅，躲在洗革拉的時候，有勇士到他那裏幫助他打仗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They were armed with bows, and could use both the right hand and the left in slinging stones and in shooting arrows from the bow. They were of Saul’s relatives of the tribe of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们善于拉弓，能用左右两手甩石射箭，都是便雅悯人扫罗的族弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們善於拉弓，能用左右兩手甩石射箭，都是便雅憫人掃羅的族弟兄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为首的是亚希以谢，其次是约阿施，都是基比亚人示玛的儿子。还有亚斯玛威的儿子耶薛和毗力，又有比拉迦，并亚拿突人耶户，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為首的是亞希以謝，其次是約阿施，都是基比亞人示瑪的兒子。還有亞斯瑪威的兒子耶薛和毗力，又有比拉迦，並亞拿突人耶戶，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Ishmaiah the Gibeonite, a mighty man among the thirty and a leader of the thirty; Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基遍人以实买雅（他在三十人中是勇士，管理他们），且有耶利米、雅哈悉、约哈难，和基得拉人约撒拔、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基遍人以實買雅（他在三十人中是勇士，管理他們），且有耶利米、雅哈悉、約哈難，和基得拉人約撒拔、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Eluzai; Jerimoth; Bealiah; Shemariah; Shephatiah the Haruphite;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊利乌赛、耶利摩、比亚利雅、示玛利雅，哈律弗人示法提雅，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊利烏賽、耶利摩、比亞利雅、示瑪利雅，哈律弗人示法提雅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "可拉人以利加拿、耶西亚、亚萨列、约以谢、雅朔班，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "可拉人以利加拿、耶西亞、亞薩列、約以謝、雅朔班，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and Joelah and Zebadiah, the sons of Jeroham of Gedor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基多人耶罗罕的儿子犹拉和西巴第雅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基多人耶羅罕的兒子猶拉和西巴第雅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Some Gadites joined David in the stronghold in the wilderness, mighty men of valor, men trained for war, who could handle shield and spear; whose faces were like the faces of lions, and they were as swift as the gazelles on the mountains:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦得支派中有人到旷野的山寨投奔大卫，都是大能的勇士，能拿盾牌和枪的战士。他们的面貌好像狮子，快跑如同山上的鹿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦得支派中有人到曠野的山寨投奔大衛，都是大能的勇士，能拿盾牌和槍的戰士。他們的面貌好像獅子，快跑如同山上的鹿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Ezer the chief, Obadiah the second, Eliab the third,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第一以薛，第二俄巴底雅，第三以利押，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第一以薛，第二俄巴底雅，第三以利押，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Mishmannah the fourth, Jeremiah the fifth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第四弥施玛拿，第五耶利米，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第四彌施瑪拿，第五耶利米，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Attai the sixth, Eliel the seventh,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第六亚太，第七以利业，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第六亞太，第七以利業，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Johanan the eighth, Elzabad the ninth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第八约哈难，第九以利萨巴，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第八約哈難，第九以利薩巴，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Jeremiah the tenth, and Machbannai the eleventh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第十耶利米，第十一末巴奈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第十耶利米，第十一末巴奈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "These of the sons of Gad were captains of the army. He who was least was equal to one hundred, and the greatest to one thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是迦得人中的军长，至小的能抵一百人，至大的能抵一千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是迦得人中的軍長，至小的能抵一百人，至大的能抵一千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "These are those who went over the Jordan in the first month, when it had overflowed all its banks; and they put to flight all who lived in the valleys, both toward the east and toward the west.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正月，约旦河水涨过两岸的时候，他们过河，使一切住平原的人东奔西逃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正月，約旦河水漲過兩岸的時候，他們過河，使一切住平原的人東奔西逃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Some of the children of Benjamin and Judah came to the stronghold to David.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有便雅悯和犹大人到山寨大卫那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有便雅憫和猶大人到山寨大衛那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "David went out to meet them, and answered them, “If you have come peaceably to me to help me, my heart will be united with you; but if you have come to betray me to my adversaries, since there is no wrong in my hands, may the God of our fathers see this and rebuke it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫出去迎接他们，对他们说：「你们若是和和平平地来帮助我，我心就与你们相契；你们若是将我这无罪的人卖在敌人手里，愿我们列祖的 神察看责罚。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛出去迎接他們，對他們說：「你們若是和和平平地來幫助我，我心就與你們相契；你們若是將我這無罪的人賣在敵人手裏，願我們列祖的上帝察看責罰。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Then the Spirit came on Amasai, who was chief of the thirty, and he said, “We are yours, David, and on your side, you son of Jesse. Peace, peace be to you, and peace be to your helpers; for your God helps you.” Then David received them and made them captains of the band.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时 神的灵感动那三十个勇士的首领亚玛撒，他就说： 大卫啊，我们是归于你的！ 耶西的儿子啊，我们是帮助你的！ 愿你平平安安， 愿帮助你的也都平安！ 因为你的 神帮助你。 大卫就收留他们，立他们作军长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時上帝的靈感動那三十個勇士的首領亞瑪撒，他就說： 大衛啊，我們是歸於你的！ 耶西的兒子啊，我們是幫助你的！ 願你平平安安， 願幫助你的也都平安！ 因為你的上帝幫助你。 大衛就收留他們，立他們作軍長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Some of Manasseh also joined David when he came with the Philistines against Saul to battle, but they didn’t help them, for the lords of the Philistines sent him away after consultation, saying, “He will desert to his master Saul to the jeopardy of our heads.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫从前与非利士人同去，要与扫罗争战，有些玛拿西人来投奔大卫，他们却没有帮助非利士人；因为非利士人的首领商议，打发他们回去，说：「恐怕大卫拿我们的首级，归降他的主人扫罗。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛從前與非利士人同去，要與掃羅爭戰，有些瑪拿西人來投奔大衛，他們卻沒有幫助非利士人；因為非利士人的首領商議，打發他們回去，說：「恐怕大衛拿我們的首級，歸降他的主人掃羅。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "As he went to Ziklag, some from Manasseh joined him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, captains of thousands who were of Manasseh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫往洗革拉去的时候，有玛拿西人的千夫长押拿、约撒拔、耶叠、米迦勒、约撒拔、以利户、洗勒太都来投奔他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛往洗革拉去的時候，有瑪拿西人的千夫長押拿、約撒拔、耶疊、米迦勒、約撒拔、以利戶、洗勒太都來投奔他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They helped David against the band of raiders, for they were all mighty men of valor and were captains in the army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人帮助大卫攻击群贼；他们都是大能的勇士，且作军长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人幫助大衛攻擊群賊；他們都是大能的勇士，且作軍長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For from day to day men came to David to help him, until there was a great army, like God’s army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时天天有人来帮助大卫，以致成了大军，如 神的军一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時天天有人來幫助大衛，以致成了大軍，如上帝的軍一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "These are the numbers of the heads of those who were armed for war, who came to David to Hebron to turn the kingdom of Saul to him, according to the LORD’s word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "预备打仗的兵来到希伯 见大卫，要照着耶和华的话将扫罗的国位归与大卫。他们的数目如下：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "預備打仗的兵來到希伯崙見大衛，要照着耶和華的話將掃羅的國位歸與大衛。他們的數目如下：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "The children of Judah who bore shield and spear were six thousand eight hundred, armed for war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大支派，拿盾牌和枪预备打仗的有六千八百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大支派，拿盾牌和槍預備打仗的有六千八百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Of the children of Simeon, mighty men of valor for the war: seven thousand one hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西缅支派，能上阵大能的勇士有七千一百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西緬支派，能上陣大能的勇士有七千一百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Of the children of Levi: four thousand six hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未支派有四千六百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未支派有四千六百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Jehoiada was the leader of the household of Aaron; and with him were three thousand seven hundred,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶何耶大是亚伦家的首领，跟从他的有三千七百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶何耶大是亞倫家的首領，跟從他的有三千七百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "and Zadok, a young man mighty of valor, and of his father’s house twenty-two captains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有少年大能的勇士撒督，同着他的有族长二十二人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有少年大能的勇士撒督，同着他的有族長二十二人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Of the children of Benjamin, Saul’s relatives: three thousand, for until then, the greatest part of them had kept their allegiance to Saul’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯支派，扫罗的族弟兄也有三千人，他们向来大半归顺扫罗家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫支派，掃羅的族弟兄也有三千人，他們向來大半歸順掃羅家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Of the children of Ephraim: twenty thousand eight hundred, mighty men of valor, famous men in their fathers’ houses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以法莲支派大能的勇士，在本族著名的有二万零八百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以法蓮支派大能的勇士，在本族著名的有二萬零八百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Of the half-tribe of Manasseh: eighteen thousand, who were mentioned by name, to come and make David king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛拿西半支派，册上有名的共一万八千人，都来立大卫作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪拿西半支派，冊上有名的共一萬八千人，都來立大衛作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Of the children of Issachar, men who had understanding of the times, to know what Israel ought to do, their heads were two hundred; and all their brothers were at their command.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以萨迦支派，有二百族长都通达时务，知道以色列人所当行的；他们族弟兄都听从他们的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以薩迦支派，有二百族長都通達時務，知道以色列人所當行的；他們族弟兄都聽從他們的命令。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Of Zebulun, such as were able to go out in the army, who could set the battle in array with all kinds of instruments of war: fifty thousand who could command and were not of double heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西布伦支派，能上阵用各样兵器打仗、行伍整齐、不生二心的有五万人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西布倫支派，能上陣用各樣兵器打仗、行伍整齊、不生二心的有五萬人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Of Naphtali: one thousand captains, and with them with shield and spear thirty-seven thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿弗他利支派，有一千军长；跟从他们、拿盾牌和枪的有三万七千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿弗他利支派，有一千軍長；跟從他們、拿盾牌和槍的有三萬七千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Of the Danites who could set the battle in array: twenty-eight thousand six hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但支派，能摆阵的有二万八千六百人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但支派，能擺陣的有二萬八千六百人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Of Asher, such as were able to go out in the army, who could set the battle in array: forty thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚设支派，能上阵打仗的有四万人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞設支派，能上陣打仗的有四萬人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "On the other side of the Jordan, of the Reubenites, the Gadites, and of the half-tribe of Manasseh, with all kinds of instruments of war for the battle: one hundred twenty thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约旦河东的吕便支派、迦得支派、玛拿西半支派，拿着各样兵器打仗的有十二万人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約旦河東的呂便支派、迦得支派、瑪拿西半支派，拿着各樣兵器打仗的有十二萬人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "All these were men of war who could order the battle array, and came with a perfect heart to Hebron to make David king over all Israel; and all the rest also of Israel were of one heart to make David king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以上都是能守行伍的战士，他们都诚心来到希伯 ，要立大卫作以色列的王。以色列其余的人也都一心要立大卫作王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以上都是能守行伍的戰士，他們都誠心來到希伯崙，要立大衛作以色列的王。以色列其餘的人也都一心要立大衛作王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "They were there with David three days, eating and drinking; for their brothers had supplied provisions for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在那里三日，与大卫一同吃喝，因为他们的族弟兄给他们预备了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在那裏三日，與大衛一同吃喝，因為他們的族弟兄給他們預備了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Moreover those who were near to them, as far as Issachar, Zebulun, and Naphtali, brought bread on donkeys, on camels, on mules, and on oxen: supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in abundance; for there was joy in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "靠近他们的人以及以萨迦、西布伦、拿弗他利人将许多面饼、无花果饼、干葡萄、酒、油，用驴、骆驼、骡子、牛驮来，又带了许多的牛和羊来，因为以色列人甚是欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靠近他們的人以及以薩迦、西布倫、拿弗他利人將許多麵餅、無花果餅、乾葡萄、酒、油，用驢、駱駝、騾子、牛馱來，又帶了許多的牛和羊來，因為以色列人甚是歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

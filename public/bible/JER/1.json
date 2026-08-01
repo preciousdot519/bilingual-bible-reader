@@ -1,0 +1,365 @@
+{
+  "bookId": "JER",
+  "chapter": 1,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The words of Jeremiah the son of Hilkiah, one of the priests who were in Anathoth in the land of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯地亚拿突城的祭司中，希勒家的儿子耶利米的话记在下面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫地亞拿突城的祭司中，希勒家的兒子耶利米的話記在下面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD’s word came to him in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:2 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王亚们的儿子约西亚在位十三年，耶和华的话临到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王亞們的兒子約西亞在位十三年，耶和華的話臨到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "It came also in the days of Jehoiakim the son of Josiah, king of Judah, to the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, to the carrying away of Jerusalem captive in the fifth month.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从犹大王约西亚的儿子约雅敬在位的时候，直到犹大王约西亚的儿子西底家在位的末年，就是十一年五月间耶路撒冷人被掳的时候，耶和华的话也常临到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從猶大王約西亞的兒子約雅敬在位的時候，直到猶大王約西亞的兒子西底家在位的末年，就是十一年五月間耶路撒冷人被擄的時候，耶和華的話也常臨到耶利米。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now the LORD’s word came to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶利米说，耶和华的话临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶利米說，耶和華的話臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Before I formed you in the womb, I knew you. Before you were born, I sanctified you. I have appointed you a prophet to the nations.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我未将你造在腹中，我已晓得你； 你未出母胎，我已分别你为圣； 我已派你作列国的先知。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我未將你造在腹中，我已曉得你； 你未出母胎，我已分別你為聖； 我已派你作列國的先知。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Then I said, “Ah, Lord GOD! Behold, I don’t know how to speak; for I am a child.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:6 The word translated “Lord” is “Adonai.”"
+          },
+          {
+            "id": "f2",
+            "text": "1:6 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就说：主耶和华啊，我不知怎样说，因为我是年幼的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就說：主耶和華啊，我不知怎樣說，因為我是年幼的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "But the LORD said to me, “Don’t say, ‘I am a child;’ for you must go to whomever I send you, and you must say whatever I command you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对我说： 你不要说我是年幼的， 因为我差遣你到谁那里去，你都要去； 我吩咐你说什么话，你都要说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對我說： 你不要說我是年幼的， 因為我差遣你到誰那裏去，你都要去； 我吩咐你說甚麼話，你都要說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Don’t be afraid because of them, for I am with you to rescue you,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不要惧怕他们， 因为我与你同在， 要拯救你。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不要懼怕他們， 因為我與你同在， 要拯救你。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then the LORD stretched out his hand and touched my mouth. Then the LORD said to me, “Behold, I have put my words in your mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶和华伸手按我的口，对我说： 我已将当说的话传给你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶和華伸手按我的口，對我說： 我已將當說的話傳給你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Behold, I have today set you over the nations and over the kingdoms, to uproot and to tear down, to destroy and to overthrow, to build and to plant.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我今日立你在列邦列国之上， 为要施行拔出、拆毁、毁坏、倾覆， 又要建立、栽植。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我今日立你在列邦列國之上， 為要施行拔出、拆毀、毀壞、傾覆， 又要建立、栽植。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Moreover the LORD’s word came to me, saying, “Jeremiah, what do you see?” I said, “I see a branch of an almond tree.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话又临到我说：「耶利米，你看见什么？」我说：「我看见一根杏树枝。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話又臨到我說：「耶利米，你看見甚麼？」我說：「我看見一根杏樹枝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Then the LORD said to me, “You have seen well; for I watch over my word to perform it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对我说：「你看得不错；因为我留意保守我的话，使得成就。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對我說：「你看得不錯；因為我留意保守我的話，使得成就。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The LORD’s word came to me the second time, saying, “What do you see?” I said, “I see a boiling cauldron; and it is tipping away from the north.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话第二次临到我说：「你看见什么？」我说：「我看见一个烧开的锅，从北而倾。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話第二次臨到我說：「你看見甚麼？」我說：「我看見一個燒開的鍋，從北而傾。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Then the LORD said to me, “Out of the north, evil will break out on all the inhabitants of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对我说：「必有灾祸从北方发出，临到这地的一切居民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對我說：「必有災禍從北方發出，臨到這地的一切居民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For behold, I will call all the families of the kingdoms of the north,” says the LORD. “They will come, and they will each set his throne at the entrance of the gates of Jerusalem, and against all its walls all around, and against all the cities of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「看哪，我要召北方列国的众族；他们要来，各安座位在耶路撒冷的城门口，周围攻击城墙，又要攻击犹大的一切城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「看哪，我要召北方列國的眾族；他們要來，各安座位在耶路撒冷的城門口，周圍攻擊城牆，又要攻擊猶大的一切城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I will utter my judgments against them concerning all their wickedness, in that they have forsaken me, and have burned incense to other gods, and worshiped the works of their own hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于这民的一切恶，就是离弃我、向别神烧香、跪拜自己手所造的，我要发出我的判语，攻击他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於這民的一切惡，就是離棄我、向別神燒香、跪拜自己手所造的，我要發出我的判語，攻擊他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“You therefore put your belt on your waist, arise, and say to them all that I command you. Don’t be dismayed at them, lest I dismay you before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你当束腰，起来将我所吩咐你的一切话告诉他们；不要因他们惊惶，免得我使你在他们面前惊惶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你當束腰，起來將我所吩咐你的一切話告訴他們；不要因他們驚惶，免得我使你在他們面前驚惶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For behold, I have made you today a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, against its princes, against its priests, and against the people of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，我今日使你成为坚城、铁柱、铜墙，与全地和犹大的君王、首领、祭司，并地上的众民反对。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，我今日使你成為堅城、鐵柱、銅牆，與全地和猶大的君王、首領、祭司，並地上的眾民反對。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They will fight against you, but they will not prevail against you; for I am with you”, says the LORD, “to rescue you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们要攻击你，却不能胜你；因为我与你同在，要拯救你。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們要攻擊你，卻不能勝你；因為我與你同在，要拯救你。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

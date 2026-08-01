@@ -1,0 +1,978 @@
+{
+  "bookId": "LUK",
+  "chapter": 24,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "But on the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七日的头一日，黎明的时候，那些妇女带着所预备的香料来到坟墓前，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七日的頭一日，黎明的時候，那些婦女帶着所預備的香料來到墳墓前，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "They found the stone rolled away from the tomb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见石头已经从坟墓滚开了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見石頭已經從墳墓滾開了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They entered in, and didn’t find the Lord Jesus’ body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们就进去，只是不见主耶稣的身体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們就進去，只是不見主耶穌的身體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "While they were greatly perplexed about this, behold, two men stood by them in dazzling clothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正在猜疑之间，忽然有两个人站在旁边，衣服放光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正在猜疑之間，忽然有兩個人站在旁邊，衣服放光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Becoming terrified, they bowed their faces down to the earth. The men said to them, “Why do you seek the living among the dead?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇女们惊怕，将脸伏地。那两个人就对她们说：「为什么在死人中找活人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦女們驚怕，將臉伏地。那兩個人就對她們說：「為甚麼在死人中找活人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He isn’t here, but is risen. Remember what he told you when he was still in Galilee,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不在这里，已经复活了。当记念他还在加利利的时候怎样告诉你们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不在這裏，已經復活了。當記念他還在加利利的時候怎樣告訴你們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and the third day rise again?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：『人子必须被交在罪人手里，钉在十字架上，第三日复活。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：『人子必須被交在罪人手裏，釘在十字架上，第三日復活。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They remembered his words,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们就想起耶稣的话来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們就想起耶穌的話來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "returned from the tomb, and told all these things to the eleven and to all the rest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便从坟墓那里回去，把这一切的事告诉十一个使徒和其余的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便從墳墓那裏回去，把這一切的事告訴十一個使徒和其餘的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Now they were Mary Magdalene, Joanna, and Mary the mother of James. The other women with them told these things to the apostles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那告诉使徒的就是抹大拉的马利亚和约亚拿，并雅各的母亲马利亚，还有与她们在一处的妇女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那告訴使徒的就是抹大拉的馬利亞和約亞拿，並雅各的母親馬利亞，還有與她們在一處的婦女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "These words seemed to them to be nonsense, and they didn’t believe them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们这些话，使徒以为是胡言，就不相信。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們這些話，使徒以為是胡言，就不相信。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But Peter got up and ran to the tomb. Stooping and looking in, he saw the strips of linen lying by themselves, and he departed to his home, wondering what had happened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得起来，跑到坟墓前，低头往里看，见细麻布独在一处，就回去了，心里希奇所成的事。 （可16·12—13）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得起來，跑到墳墓前，低頭往裏看，見細麻布獨在一處，就回去了，心裏希奇所成的事。 （可16‧12－13）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "24:13 60 stadia = about 11 kilometers or about 7 miles."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正当那日，门徒中有两个人往一个村子去；这村子名叫以马忤斯，离耶路撒冷约有二十五里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正當那日，門徒中有兩個人往一個村子去；這村子名叫以馬忤斯，離耶路撒冷約有二十五里。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They talked with each other about all of these things which had happened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们彼此谈论所遇见的这一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們彼此談論所遇見的這一切事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "While they talked and questioned together, Jesus himself came near, and went with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正谈论相问的时候，耶稣亲自就近他们，和他们同行；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正談論相問的時候，耶穌親自就近他們，和他們同行；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But their eyes were kept from recognizing him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是他们的眼睛迷糊了，不认识他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是他們的眼睛迷糊了，不認識他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He said to them, “Whatare you talking about as you walk, and are sad?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「你们走路彼此谈论的是什么事呢？」他们就站住，脸上带着愁容。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「你們走路彼此談論的是甚麼事呢？」他們就站住，臉上帶着愁容。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "One of them, named Cleopas, answered him, “Are you the only stranger in Jerusalem who doesn’t know the things which have happened there in these days?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人中有一个名叫革流巴的回答说：「你在耶路撒冷作客，还不知道这几天在那里所出的事吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人中有一個名叫革流巴的回答說：「你在耶路撒冷作客，還不知道這幾天在那裏所出的事嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He said to them, “Whatthings?” They said to him, “The things concerning Jesus the Nazarene, who was a prophet mighty in deed and word before God and all the people;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「什么事呢？」他们说：「就是拿撒勒人耶稣的事。他是个先知，在 神和众百姓面前，说话行事都有大能。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「甚麼事呢？」他們說：「就是拿撒勒人耶穌的事。他是個先知，在上帝和眾百姓面前，說話行事都有大能。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "and how the chief priests and our rulers delivered him up to be condemned to death, and crucified him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司长和我们的官府竟把他解去，定了死罪，钉在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司長和我們的官府竟把他解去，定了死罪，釘在十字架上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But we were hoping that it was he who would redeem Israel. Yes, and besides all this, it is now the third day since these things happened.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我们素来所盼望、要赎以色列民的就是他！不但如此，而且这事成就，现在已经三天了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我們素來所盼望、要贖以色列民的就是他！不但如此，而且這事成就，現在已經三天了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Also, certain women of our company amazed us, having arrived early at the tomb;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再者，我们中间有几个妇女使我们惊奇；她们清早到了坟墓那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，我們中間有幾個婦女使我們驚奇；她們清早到了墳墓那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and when they didn’t find his body, they came saying that they had also seen a vision of angels, who said that he was alive.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不见他的身体，就回来告诉我们，说看见了天使显现，说他活了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不見他的身體，就回來告訴我們，說看見了天使顯現，說他活了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Some of us went to the tomb and found it just like the women had said, but they didn’t see him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有我们的几个人往坟墓那里去，所遇见的正如妇女们所说的，只是没有看见他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有我們的幾個人往墳墓那裏去，所遇見的正如婦女們所說的，只是沒有看見他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "He said to them, “Foolishpeople, and slow of heart to believe in all that the prophets have spoken!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「无知的人哪，先知所说的一切话，你们的心信得太迟钝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「無知的人哪，先知所說的一切話，你們的心信得太遲鈍了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Didn’tthe Christ have to suffer these things and to enter into his glory?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基督这样受害，又进入他的荣耀，岂不是应当的吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督這樣受害，又進入他的榮耀，豈不是應當的嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Beginning from Moses and from all the prophets, he explained to them in all the Scriptures the things concerning himself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是从摩西和众先知起，凡经上所指着自己的话都给他们讲解明白了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是從摩西和眾先知起，凡經上所指着自己的話都給他們講解明白了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They came near to the village where they were going, and he acted like he would go further.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将近他们所去的村子，耶稣好像还要往前行，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將近他們所去的村子，耶穌好像還要往前行，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They urged him, saying, “Stay with us, for it is almost evening, and the day is almost over.” He went in to stay with them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们却强留他，说：「时候晚了，日头已经平西了，请你同我们住下吧！」耶稣就进去，要同他们住下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們卻強留他，說：「時候晚了，日頭已經平西了，請你同我們住下吧！」耶穌就進去，要同他們住下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "When he had sat down at the table with them, he took the bread and gave thanks. Breaking it, he gave it to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了坐席的时候，耶稣拿起饼来，祝谢了，擘开，递给他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了坐席的時候，耶穌拿起餅來，祝謝了，擘開，遞給他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Their eyes were opened and they recognized him; then he vanished out of their sight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的眼睛明亮了，这才认出他来。忽然耶稣不见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的眼睛明亮了，這才認出他來。忽然耶穌不見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They said to one another, “Weren’t our hearts burning within us while he spoke to us along the way, and while he opened the Scriptures to us?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们彼此说：「在路上，他和我们说话，给我们讲解圣经的时候，我们的心岂不是火热的吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們彼此說：「在路上，他和我們說話，給我們講解聖經的時候，我們的心豈不是火熱的嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They rose up that very hour, returned to Jerusalem, and found the eleven gathered together, and those who were with them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就立时起身，回耶路撒冷去，正遇见十一个使徒和他们的同人聚集在一处，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就立時起身，回耶路撒冷去，正遇見十一個使徒和他們的同人聚集在一處，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "saying, “The Lord is risen indeed, and has appeared to Simon!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：「主果然复活，已经现给西门看了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：「主果然復活，已經現給西門看了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "They related the things that happened along the way, and how he was recognized by them in the breaking of the bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "两个人就把路上所遇见，和擘饼的时候怎么被他们认出来的事，都述说了一遍。 （太28·16—20；可16·14—18；约20·19—23；徒1·6—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "兩個人就把路上所遇見，和擘餅的時候怎麼被他們認出來的事，都述說了一遍。 （太28‧16－20；可16‧14－18；約20‧19－23；徒1‧6－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "As they said these things, Jesus himself stood among them, and said to them, “Peace beto you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正说这话的时候，耶稣亲自站在他们当中，说：「愿你们平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正說這話的時候，耶穌親自站在他們當中，說：「願你們平安！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "But they were terrified and filled with fear, and supposed that they had seen a spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们却惊慌害怕，以为所看见的是魂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們卻驚慌害怕，以為所看見的是魂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "He said to them, “Whyare you troubled? Why do doubts arise in your hearts?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们为什么愁烦？为什么心里起疑念呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們為甚麼愁煩？為甚麼心裏起疑念呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Seemy hands and my feet, that it is truly me. Touch me and see, for a spirit doesn’ t have flesh and bones, as you see that I have.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们看我的手，我的脚，就知道实在是我了。摸我看看！魂无骨无肉，你们看，我是有的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們看我的手，我的腳，就知道實在是我了。摸我看看！魂無骨無肉，你們看，我是有的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "When he had said this, he showed them his hands and his feet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说了这话，就把手和脚给他们看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說了這話，就把手和腳給他們看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "While they still didn’t believe for joy, and wondered, he said to them, “Doyou have anything here to eat?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们正喜得不敢信，并且希奇；耶稣就说：「你们这里有什么吃的没有？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們正喜得不敢信，並且希奇；耶穌就說：「你們這裏有甚麼吃的沒有？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "They gave him a piece of a broiled fish and some honeycomb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们便给他一片烧鱼。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:42 有古卷加：和一块蜜房。"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們便給他一片燒魚。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:42 有古卷加：和一塊蜜房。"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "He took them, and ate in front of them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他接过来，在他们面前吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他接過來，在他們面前吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "He said to them, “Thisis what I told you while I was still with you, that all things which are written in the law of Moses, the prophets, and the psalms concerning me must be fulfilled.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「这就是我从前与你们同在之时所告诉你们的话说：摩西的律法、先知的书，和诗篇上所记的，凡指着我的话都必须应验。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「這就是我從前與你們同在之時所告訴你們的話說：摩西的律法、先知的書，和詩篇上所記的，凡指着我的話都必須應驗。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Then he opened their minds, that they might understand the Scriptures.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶稣开他们的心窍，使他们能明白圣经，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶穌開他們的心竅，使他們能明白聖經，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "He said to them, “Thusit is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对他们说：「照经上所写的，基督必受害，第三日从死里复活，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對他們說：「照經上所寫的，基督必受害，第三日從死裏復活，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "andthat repentance and remission of sins should be preached in his name to all the nations, beginning at Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且人要奉他的名传悔改、赦罪的道，从耶路撒冷起直传到万邦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且人要奉他的名傳悔改、赦罪的道，從耶路撒冷起直傳到萬邦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Youare witnesses of these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们就是这些事的见证。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們就是這些事的見證。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Behold, I send out the promise of my Father on you. But wait in the city of Jerusalem until you are clothed with power from on high.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将我父所应许的降在你们身上，你们要在城里等候，直到你们领受从上头来的能力。」 （可16·19—20；徒1·9—11）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將我父所應許的降在你們身上，你們要在城裏等候，直到你們領受從上頭來的能力。」 （可16‧19－20；徒1‧9－11）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "He led them out as far as Bethany, and he lifted up his hands and blessed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣领他们到伯大尼的对面，就举手给他们祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌領他們到伯大尼的對面，就舉手給他們祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "While he blessed them, he withdrew from them and was carried up into heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正祝福的时候，他就离开他们，被带到天上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正祝福的時候，他就離開他們，被帶到天上去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "They worshiped him and returned to Jerusalem with great joy,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就拜他，大大地欢喜，回耶路撒冷去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就拜他，大大地歡喜，回耶路撒冷去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "and were continually in the temple, praising and blessing God. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "常在殿里称颂 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "常在殿裏稱頌上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

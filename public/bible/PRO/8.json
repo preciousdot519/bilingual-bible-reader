@@ -1,0 +1,667 @@
+{
+  "bookId": "PRO",
+  "chapter": 8,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Doesn’t wisdom cry out? Doesn’t understanding raise her voice?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧岂不呼叫？ 聪明岂不发声？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧豈不呼叫？ 聰明豈不發聲？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "On the top of high places by the way, where the paths meet, she stands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她在道旁高处的顶上， 在十字路口站立，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她在道旁高處的頂上， 在十字路口站立，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Beside the gates, at the entry of the city, at the entry doors, she cries aloud:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在城门旁，在城门口， 在城门洞，大声说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在城門旁，在城門口， 在城門洞，大聲說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“I call to you men! I send my voice to the sons of mankind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人哪，我呼叫你们， 我向世人发声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人哪，我呼叫你們， 我向世人發聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You simple, understand prudence! You fools, be of an understanding heart!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：愚蒙人哪，你们要会悟灵明； 愚昧人哪，你们当心里明白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：愚蒙人哪，你們要會悟靈明； 愚昧人哪，你們當心裏明白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Hear, for I will speak excellent things. The opening of my lips is for right things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当听，因我要说极美的话； 我张嘴要论正直的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當聽，因我要說極美的話； 我張嘴要論正直的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "For my mouth speaks truth. Wickedness is an abomination to my lips.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的口要发出真理； 我的嘴憎恶邪恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的口要發出真理； 我的嘴憎惡邪惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "All the words of my mouth are in righteousness. There is nothing crooked or perverse in them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我口中的言语都是公义， 并无弯曲乖僻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我口中的言語都是公義， 並無彎曲乖僻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They are all plain to him who understands, right to those who find knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有聪明的，以为明显， 得知识的，以为正直。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有聰明的，以為明顯， 得知識的，以為正直。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Receive my instruction rather than silver, knowledge rather than choice gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当受我的教训，不受白银； 宁得知识，胜过黄金。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當受我的教訓，不受白銀； 寧得知識，勝過黃金。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For wisdom is better than rubies. All the things that may be desired can’t be compared to it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为智慧比珍珠更美； 一切可喜爱的都不足与比较。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:11 或译：红宝石"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為智慧比珍珠更美； 一切可喜愛的都不足與比較。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 8:11 或譯：紅寶石"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“I, wisdom, have made prudence my dwelling. Find out knowledge and discretion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—智慧以灵明为居所， 又寻得知识和谋略。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－智慧以靈明為居所， 又尋得知識和謀略。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The fear of the LORD is to hate evil. I hate pride, arrogance, the evil way, and the perverse mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敬畏耶和华在乎恨恶邪恶； 那骄傲、狂妄，并恶道， 以及乖谬的口，都为我所恨恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敬畏耶和華在乎恨惡邪惡； 那驕傲、狂妄，並惡道， 以及乖謬的口，都為我所恨惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Counsel and sound knowledge are mine. I have understanding and power.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我有谋略和真知识； 我乃聪明，我有能力。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我有謀略和真知識； 我乃聰明，我有能力。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "By me kings reign, and princes decree justice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "帝王借我坐国位； 君王借我定公平。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "帝王藉我坐國位； 君王藉我定公平。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "By me princes rule, nobles, and all the righteous rulers of the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王子和首领， 世上一切的审判官，都是借我掌权。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王子和首領， 世上一切的審判官，都是藉我掌權。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I love those who love me. Those who seek me diligently will find me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱我的，我也爱他； 恳切寻求我的，必寻得见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛我的，我也愛他； 懇切尋求我的，必尋得見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "With me are riches, honor, enduring wealth, and prosperity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "丰富尊荣在我； 恒久的财并公义也在我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豐富尊榮在我； 恆久的財並公義也在我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "My fruit is better than gold, yes, than fine gold, my yield than choice silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的果实胜过黄金，强如精金； 我的出产超乎高银。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的果實勝過黃金，強如精金； 我的出產超乎高銀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "I walk in the way of righteousness, in the middle of the paths of justice,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在公义的道上走， 在公平的路中行，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在公義的道上走， 在公平的路中行，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "that I may give wealth to those who love me. I fill their treasuries.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使爱我的，承受货财， 并充满他们的府库。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使愛我的，承受貨財， 並充滿他們的府庫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“The LORD possessed me in the beginning of his work, before his deeds of old.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶和华造化的起头， 在太初创造万物之先，就有了我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶和華造化的起頭， 在太初創造萬物之先，就有了我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "I was set up from everlasting, from the beginning, before the earth existed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从亘古，从太初， 未有世界以前，我已被立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從亙古，從太初， 未有世界以前，我已被立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When there were no depths, I was born, when there were no springs abounding with water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有深渊， 没有大水的泉源，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有深淵， 沒有大水的泉源，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Before the mountains were settled in place, before the hills, I was born;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大山未曾奠定， 小山未有之先，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大山未曾奠定， 小山未有之先，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华还没有创造大地和田野， 并世上的土质，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華還沒有創造大地和田野， 並世上的土質，我已生出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "When he established the heavens, I was there. When he set a circle on the surface of the deep,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他立高天，我在那里； 他在渊面的周围，划出圆圈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他立高天，我在那裏； 他在淵面的周圍，劃出圓圈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "when he established the clouds above, when the springs of the deep became strong,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "上使穹苍坚硬， 下使渊源稳固，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上使穹蒼堅硬， 下使淵源穩固，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为沧海定出界限，使水不越过他的命令， 立定大地的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為滄海定出界限，使水不越過他的命令， 立定大地的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，我在他那里为工师， 日日为他所喜爱， 常常在他面前踊跃，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，我在他那裏為工師， 日日為他所喜愛， 常常在他面前踴躍，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "rejoicing in his whole world. My delight was with the sons of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "踊跃在他为人预备可住之地， 也喜悦住在世人之间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "踴躍在他為人預備可住之地， 也喜悅住在世人之間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“Now therefore, my sons, listen to me, for blessed are those who keep my ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众子啊，现在要听从我， 因为谨守我道的，便为有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾子啊，現在要聽從我， 因為謹守我道的，便為有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Hear instruction, and be wise. Don’t refuse it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要听教训就得智慧， 不可弃绝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要聽教訓就得智慧， 不可棄絕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Blessed is the man who hears me, watching daily at my gates, waiting at my door posts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听从我、日日在我门口仰望、 在我门框旁边等候的，那人便为有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽從我、日日在我門口仰望、 在我門框旁邊等候的，那人便為有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "For whoever finds me finds life, and will obtain favor from the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为寻得我的，就寻得生命， 也必蒙耶和华的恩惠。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為尋得我的，就尋得生命， 也必蒙耶和華的恩惠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "But he who sins against me wrongs his own soul. All those who hate me love death.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得罪我的，却害了自己的性命； 恨恶我的，都喜爱死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得罪我的，卻害了自己的性命； 恨惡我的，都喜愛死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

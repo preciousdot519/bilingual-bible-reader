@@ -1,0 +1,266 @@
+{
+  "bookId": "EST",
+  "chapter": 6,
+  "bookEnglish": "Esther",
+  "bookChineseSimplified": "以斯帖记",
+  "bookChineseTraditional": "以斯帖記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那夜王睡不着觉，就吩咐人取历史来，念给他听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那夜王睡不着覺，就吩咐人取歷史來，念給他聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正遇见书上写着说：王的太监中有两个守门的，辟探和提列，想要下手害亚哈随鲁王，末底改将这事告诉王后。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正遇見書上寫着說：王的太監中有兩個守門的，辟探和提列，想要下手害亞哈隨魯王，末底改將這事告訴王后。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The king said, “What honor and dignity has been given to Mordecai for this?” Then the king’s servants who attended him said, “Nothing has been done for him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王说：「末底改行了这事，赐他什么尊荣爵位没有？」伺候王的臣仆回答说：「没有赐他什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王說：「末底改行了這事，賜他甚麼尊榮爵位沒有？」伺候王的臣僕回答說：「沒有賜他甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The king said, “Who is in the court?” Now Haman had come into the outer court of the king’s house, to speak to the king about hanging Mordecai on the gallows that he had prepared for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王说：「谁在院子里？」（那时哈曼正进王宫的外院，要求王将末底改挂在他所预备的木架上。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王說：「誰在院子裏？」（那時哈曼正進王宮的外院，要求王將末底改掛在他所預備的木架上。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The king’s servants said to him, “Behold, Haman stands in the court.” The king said, “Let him come in.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:5 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "臣仆说：「哈曼站在院内。」王说：「叫他进来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "臣僕說：「哈曼站在院內。」王說：「叫他進來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honor?” Now Haman said in his heart, “Who would the king delight to honor more than myself?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈曼就进去。王问他说：「王所喜悦尊荣的人，当如何待他呢？」哈曼心里说：「王所喜悦尊荣的，不是我是谁呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈曼就進去。王問他說：「王所喜悅尊榮的人，當如何待他呢？」哈曼心裏說：「王所喜悅尊榮的，不是我是誰呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Haman said to the king, “For the man whom the king delights to honor,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈曼就回答说：「王所喜悦尊荣的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈曼就回答說：「王所喜悅尊榮的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a royal crown is set.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当将王常穿的朝服和戴冠的御马，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當將王常穿的朝服和戴冠的御馬，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honor with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honor!’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都交给王极尊贵的一个大臣，命他将衣服给王所喜悦尊荣的人穿上，使他骑上马，走遍城里的街市，在他面前宣告说：王所喜悦尊荣的人，就如此待他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都交給王極尊貴的一個大臣，命他將衣服給王所喜悅尊榮的人穿上，使他騎上馬，走遍城裏的街市，在他面前宣告說：王所喜悅尊榮的人，就如此待他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then the king said to Haman, “Hurry and take the clothing and the horse, as you have said, and do this for Mordecai the Jew, who sits at the king’s gate. Let nothing fail of all that you have spoken.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王对哈曼说：「你速速将这衣服和马，照你所说的，向坐在朝门的犹大人末底改去行。凡你所说的，一样不可缺。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王對哈曼說：「你速速將這衣服和馬，照你所說的，向坐在朝門的猶大人末底改去行。凡你所說的，一樣不可缺。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus it shall be done to the man whom the king delights to honor!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是哈曼将朝服给末底改穿上，使他骑上马，走遍城里的街市，在他面前宣告说：「王所喜悦尊荣的人，就如此待他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是哈曼將朝服給末底改穿上，使他騎上馬，走遍城裏的街市，在他面前宣告說：「王所喜悅尊榮的人，就如此待他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Mordecai came back to the king’s gate, but Haman hurried to his house, mourning and having his head covered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "末底改仍回到朝门，哈曼却忧忧闷闷地蒙着头，急忙回家去了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "末底改仍回到朝門，哈曼卻憂憂悶悶地蒙着頭，急忙回家去了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Haman recounted to Zeresh his wife and all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but you will surely fall before him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将所遇的一切事详细说给他的妻细利斯和他的众朋友听。他的智慧人和他的妻细利斯对他说：「你在末底改面前始而败落，他如果是犹大人，你必不能胜他，终必在他面前败落。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將所遇的一切事詳細說給他的妻細利斯和他的眾朋友聽。他的智慧人和他的妻細利斯對他說：「你在末底改面前始而敗落，他如果是猶大人，你必不能勝他，終必在他面前敗落。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们还与哈曼说话的时候，王的太监来催哈曼快去赴以斯帖所预备的筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們還與哈曼說話的時候，王的太監來催哈曼快去赴以斯帖所預備的筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

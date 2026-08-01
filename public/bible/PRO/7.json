@@ -1,0 +1,510 @@
+{
+  "bookId": "PRO",
+  "chapter": 7,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My son, keep my words. Lay up my commandments within you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你要遵守我的言语， 将我的命令存记在心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你要遵守我的言語， 將我的命令存記在心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Keep my commandments and live! Guard my teaching as the apple of your eye.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "遵守我的命令就得存活； 保守我的法则， 好像保守眼中的瞳人，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:2 或译：指教"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "遵守我的命令就得存活； 保守我的法則， 好像保守眼中的瞳人，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 7:2 或譯：指教"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Bind them on your fingers. Write them on the tablet of your heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "系在你指头上， 刻在你心版上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "繫在你指頭上， 刻在你心版上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Tell wisdom, “You are my sister.” Call understanding your relative,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对智慧说：你是我的姊妹， 称呼聪明为你的亲人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對智慧說：你是我的姊妹， 稱呼聰明為你的親人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "that they may keep you from the strange woman, from the foreigner who flatters with her words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她就保你远离淫妇， 远离说谄媚话的外女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她就保你遠離淫婦， 遠離說諂媚話的外女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For at the window of my house, I looked out through my lattice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我曾在我房屋的窗户内， 从我窗棂之间往外观看：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我曾在我房屋的窗戶內， 從我窗欞之間往外觀看：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I saw among the simple ones. I discerned among the youths a young man void of understanding,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "见愚蒙人内，少年人中， 分明有一个无知的少年人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "見愚蒙人內，少年人中， 分明有一個無知的少年人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "passing through the street near her corner, he went the way to her house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从街上经过，走近淫妇的巷口， 直往通她家的路去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從街上經過，走近淫婦的巷口， 直往通她家的路去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "in the twilight, in the evening of the day, in the middle of the night and in the darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在黄昏，或晚上， 或半夜，或黑暗之中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在黃昏，或晚上， 或半夜，或黑暗之中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Behold, there a woman met him with the attire of a prostitute, and with crafty intent.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，有一个妇人来迎接他， 是妓女的打扮，有诡诈的心思。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，有一個婦人來迎接他， 是妓女的打扮，有詭詐的心思。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "She is loud and defiant. Her feet don’t stay in her house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这妇人喧嚷，不守约束， 在家里停不住脚，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這婦人喧嚷，不守約束， 在家裏停不住腳，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Now she is in the streets, now in the squares, and lurking at every corner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有时在街市上，有时在宽阔处， 或在各巷口蹲伏，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有時在街市上，有時在寬闊處， 或在各巷口蹲伏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "So she caught him, and kissed him. With an impudent face she said to him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拉住那少年人，与他亲嘴， 脸无羞耻对他说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拉住那少年人，與他親嘴， 臉無羞恥對他說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Sacrifices of peace offerings are with me. Today I have paid my vows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "平安祭在我这里， 今日才还了我所许的愿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "平安祭在我這裏， 今日才還了我所許的願。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Therefore I came out to meet you, to diligently seek your face, and I have found you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，我出来迎接你， 恳切求见你的面，恰巧遇见了你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，我出來迎接你， 懇切求見你的面，恰巧遇見了你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I have spread my couch with carpets of tapestry, with striped cloths of the yarn of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我已经用绣花毯子 和埃及线织的花纹布铺了我的床。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我已經用繡花毯子 和埃及線織的花紋布鋪了我的床。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又用没药、沉香、桂皮 薰了我的榻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又用沒藥、沉香、桂皮 薰了我的榻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Come, let’s take our fill of loving until the morning. Let’s solace ourselves with loving.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你来，我们可以饱享爱情，直到早晨； 我们可以彼此亲爱欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你來，我們可以飽享愛情，直到早晨； 我們可以彼此親愛歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For my husband isn’t at home. He has gone on a long journey.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我丈夫不在家，出门行远路；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我丈夫不在家，出門行遠路；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He has taken a bag of money with him. He will come home at the full moon.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他手拿银囊，必到月望才回家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他手拿銀囊，必到月望才回家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "With persuasive words, she led him astray. With the flattering of her lips, she seduced him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "淫妇用许多巧言诱他随从， 用谄媚的嘴逼他同行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "淫婦用許多巧言誘他隨從， 用諂媚的嘴逼他同行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He followed her immediately, as an ox goes to the slaughter, as a fool stepping into a noose.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "少年人立刻跟随她，好像牛往宰杀之地； 又像愚昧人带锁链去受刑罚，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "少年人立刻跟隨她，好像牛往宰殺之地； 又像愚昧人帶鎖鍊去受刑罰，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Until an arrow strikes through his liver, as a bird hurries to the snare, and doesn’t know that it will cost his life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "直等箭穿他的肝； 如同雀鸟急入网罗，却不知是自丧己命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "直等箭穿他的肝； 如同雀鳥急入網羅，卻不知是自喪己命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Now therefore, sons, listen to me. Pay attention to the words of my mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众子啊，现在要听从我， 留心听我口中的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾子啊，現在要聽從我， 留心聽我口中的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Don’t let your heart turn to her ways. Don’t go astray in her paths,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的心不可偏向淫妇的道， 不要入她的迷途。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的心不可偏向淫婦的道， 不要入她的迷途。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "for she has thrown down many wounded. Yes, all her slain are a mighty army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，被她伤害仆倒的不少； 被她杀戮的而且甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，被她傷害仆倒的不少； 被她殺戮的而且甚多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Her house is the way to Sheol, going down to the rooms of death.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "7:27 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她的家是在阴间之路， 下到死亡之宫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她的家是在陰間之路， 下到死亡之宮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

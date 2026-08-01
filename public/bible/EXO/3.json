@@ -1,0 +1,415 @@
+{
+  "bookId": "EXO",
+  "chapter": 3,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西牧养他岳父米甸祭司叶忒罗的羊群；一日领羊群往野外去，到了 神的山，就是何烈山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西牧養他岳父米甸祭司葉忒羅的羊群；一日領羊群往野外去，到了上帝的山，就是何烈山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The LORD’s angel appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:2 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的使者从荆棘里火焰中向摩西显现。摩西观看，不料，荆棘被火烧着，却没有烧毁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的使者從荊棘裏火焰中向摩西顯現。摩西觀看，不料，荊棘被火燒着，卻沒有燒毀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Moses said, “I will go now, and see this great sight, why the bush is not burned.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西说：「我要过去看这大异象，这荆棘为何没有烧坏呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西說：「我要過去看這大異象，這荊棘為何沒有燒壞呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When the LORD saw that he came over to see, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华 神见他过去要看，就从荆棘里呼叫说：「摩西！摩西！」他说：「我在这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華上帝見他過去要看，就從荊棘裏呼叫說：「摩西！摩西！」他說：「我在這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said, “Don’t come close. Take off your sandals, for the place you are standing on is holy ground.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「不要近前来。当把你脚上的鞋脱下来，因为你所站之地是圣地」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「不要近前來。當把你腳上的鞋脫下來，因為你所站之地是聖地」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Moreover he said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Moses hid his face because he was afraid to look at God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「我是你父亲的 神，是亚伯拉罕的 神，以撒的 神，雅各的 神。」摩西蒙上脸，因为怕看 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「我是你父親的上帝，是亞伯拉罕的上帝，以撒的上帝，雅各的上帝。」摩西蒙上臉，因為怕看上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The LORD said, “I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我的百姓在埃及所受的困苦，我实在看见了；他们因受督工的辖制所发的哀声，我也听见了。我原知道他们的痛苦，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我的百姓在埃及所受的困苦，我實在看見了；他們因受督工的轄制所發的哀聲，我也聽見了。我原知道他們的痛苦，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我下来是要救他们脱离埃及人的手，领他们出了那地，到美好、宽阔、流奶与蜜之地，就是到迦南人、赫人、亚摩利人、比利洗人、希未人、耶布斯人之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我下來是要救他們脫離埃及人的手，領他們出了那地，到美好、寬闊、流奶與蜜之地，就是到迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Now, behold, the cry of the children of Israel has come to me. Moreover I have seen the oppression with which the Egyptians oppress them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在以色列人的哀声达到我耳中，我也看见埃及人怎样欺压他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在以色列人的哀聲達到我耳中，我也看見埃及人怎樣欺壓他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Come now therefore, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，我要打发你去见法老，使你可以将我的百姓以色列人从埃及领出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，我要打發你去見法老，使你可以將我的百姓以色列人從埃及領出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对 神说：「我是什么人，竟能去见法老，将以色列人从埃及领出来呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對上帝說：「我是甚麼人，竟能去見法老，將以色列人從埃及領出來呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He said, “Certainly I will be with you. This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说：「我必与你同在。你将百姓从埃及领出来之后，你们必在这山上事奉我；这就是我打发你去的证据。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說：「我必與你同在。你將百姓從埃及領出來之後，你們必在這山上事奉我；這就是我打發你去的證據。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Moses said to God, “Behold, when I come to the children of Israel, and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what should I tell them?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西对 神说：「我到以色列人那里，对他们说：『你们祖宗的 神打发我到你们这里来。』他们若问我说：『他叫什么名字？』我要对他们说什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西對上帝說：「我到以色列人那裏，對他們說：『你們祖宗的上帝打發我到你們這裏來。』他們若問我說：『他叫甚麼名字？』我要對他們說甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神对摩西说：「我是自有永有的」；又说：「你要对以色列人这样说：『那自有的打发我到你们这里来。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝對摩西說：「我是自有永有的」；又說：「你要對以色列人這樣說：『那自有的打發我到你們這裏來。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "God said moreover to Moses, “You shall tell the children of Israel this, ‘The LORD, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "3:15 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神又对摩西说：「你要对以色列人这样说：『耶和华—你们祖宗的 神，就是亚伯拉罕的 神，以撒的 神，雅各的 神，打发我到你们这里来。』耶和华是我的名，直到永远；这也是我的纪念，直到万代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝又對摩西說：「你要對以色列人這樣說：『耶和華－你們祖宗的上帝，就是亞伯拉罕的上帝，以撒的上帝，雅各的上帝，打發我到你們這裏來。』耶和華是我的名，直到永遠；這也是我的紀念，直到萬代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Go and gather the elders of Israel together, and tell them, ‘The LORD, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你去招聚以色列的长老，对他们说：『耶和华—你们祖宗的 神，就是亚伯拉罕的 神，以撒的 神，雅各的 神，向我显现，说：我实在眷顾了你们，我也看见埃及人怎样待你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你去招聚以色列的長老，對他們說：『耶和華－你們祖宗的上帝，就是亞伯拉罕的上帝，以撒的上帝，雅各的上帝，向我顯現，說：我實在眷顧了你們，我也看見埃及人怎樣待你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也说：要将你们从埃及的困苦中领出来，往迦南人、赫人、亚摩利人、比利洗人、希未人、耶布斯人的地去，就是到流奶与蜜之地。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也說：要將你們從埃及的困苦中領出來，往迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人的地去，就是到流奶與蜜之地。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They will listen to your voice. You shall come, you and the elders of Israel, to the king of Egypt, and you shall tell him, ‘The LORD, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, that we may sacrifice to the LORD, our God.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必听你的话。你和以色列的长老要去见埃及王，对他说：『耶和华—希伯来人的 神遇见了我们，现在求你容我们往旷野去，走三天的路程，为要祭祀耶和华—我们的 神。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必聽你的話。你和以色列的長老要去見埃及王，對他說：『耶和華－希伯來人的上帝遇見了我們，現在求你容我們往曠野去，走三天的路程，為要祭祀耶和華－我們的上帝。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道虽用大能的手，埃及王也不容你们去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道雖用大能的手，埃及王也不容你們去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必伸手在埃及中间施行我一切的奇事，攻击那地，然后他才容你们去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必伸手在埃及中間施行我一切的奇事，攻擊那地，然後他才容你們去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必叫你们在埃及人眼前蒙恩，你们去的时候就不至于空手而去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必叫你們在埃及人眼前蒙恩，你們去的時候就不至於空手而去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但各妇女必向她的邻舍，并居住在她家里的女人，要金器银器和衣裳，好给你们的儿女穿戴。这样你们就把埃及人的财物夺去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但各婦女必向她的鄰舍，並居住在她家裏的女人，要金器銀器和衣裳，好給你們的兒女穿戴。這樣你們就把埃及人的財物奪去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

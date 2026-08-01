@@ -1,0 +1,586 @@
+{
+  "bookId": "1KI",
+  "chapter": 10,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When the queen of Sheba heard of the fame of Solomon concerning the LORD’s name, she came to test him with hard questions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示巴女王听见所罗门因耶和华之名所得的名声，就来要用难解的话试问所罗门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示巴女王聽見所羅門因耶和華之名所得的名聲，就來要用難解的話試問所羅門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "She came to Jerusalem with a very great caravan, with camels that bore spices, very much gold, and precious stones; and when she had come to Solomon, she talked with him about all that was in her heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "跟随她到耶路撒冷的人甚多，又有骆驼驮着香料、宝石，和许多金子。她来见了所罗门王，就把心里所有的对所罗门都说出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "跟隨她到耶路撒冷的人甚多，又有駱駝馱着香料、寶石，和許多金子。她來見了所羅門王，就把心裏所有的對所羅門都說出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Solomon answered all her questions. There wasn’t anything hidden from the king which he didn’t tell her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王将她所问的都答上了，没有一句不明白、不能答的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王將她所問的都答上了，沒有一句不明白、不能答的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "When the queen of Sheba had seen all the wisdom of Solomon, the house that he had built,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示巴女王见所罗门大有智慧，和他所建造的宫室，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示巴女王見所羅門大有智慧，和他所建造的宮室，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "the food of his table, the sitting of his servants, the attendance of his officials, their clothing, his cup bearers, and his ascent by which he went up to the LORD’s house, there was no more spirit in her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "席上的珍馐美味，群臣分列而坐，仆人两旁侍立，以及他们的衣服装饰和酒政的衣服装饰，又见他上耶和华殿的台阶，就诧异得神不守舍；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:5 或译：他在耶和华殿里所献的燔祭"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "席上的珍饈美味，群臣分列而坐，僕人兩旁侍立，以及他們的衣服裝飾和酒政的衣服裝飾，又見他上耶和華殿的臺階，就詫異得神不守舍；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:5 或譯：他在耶和華殿裏所獻的燔祭"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "She said to the king, “It was a true report that I heard in my own land of your acts and of your wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对王说：「我在本国里所听见论到你的事和你的智慧实在是真的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對王說：「我在本國裏所聽見論到你的事和你的智慧實在是真的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "However, I didn’t believe the words until I came and my eyes had seen it. Behold, not even half was told me! Your wisdom and prosperity exceed the fame which I heard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我先不信那些话，及至我来亲眼见了才知道人所告诉我的还不到一半。你的智慧和你的福分越过我所听见的风声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我先不信那些話，及至我來親眼見了才知道人所告訴我的還不到一半。你的智慧和你的福分越過我所聽見的風聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Happy are your men, happy are these your servants who stand continually before you, who hear your wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的臣子、你的仆人常侍立在你面前听你智慧的话是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的臣子、你的僕人常侍立在你面前聽你智慧的話是有福的！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Blessed is the LORD your God, who delighted in you, to set you on the throne of Israel. Because the LORD loved Israel forever, therefore he made you king, to do justice and righteousness.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—你的 神是应当称颂的！他喜悦你，使你坐以色列的国位；因为他永远爱以色列，所以立你作王，使你秉公行义。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－你的上帝是應當稱頌的！他喜悅你，使你坐以色列的國位；因為他永遠愛以色列，所以立你作王，使你秉公行義。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "She gave the king one hundred twenty talents of gold, and a very great quantity of spices, and precious stones. Never again was there such an abundance of spices as these which the queen of Sheba gave to King Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，示巴女王将一百二十他连得金子和宝石，与极多的香料，送给所罗门王。她送给王的香料，以后奉来的不再有这样多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，示巴女王將一百二十他連得金子和寶石，與極多的香料，送給所羅門王。她送給王的香料，以後奉來的不再有這樣多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The fleet of Hiram that brought gold from Ophir also brought in from Ophir great quantities of almug trees and precious stones.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:11 possibly an Indian sandalwood, with nice grain and a pleasant scent, and good for woodworking"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希兰的船只从俄斐运了金子来，又从俄斐运了许多檀香木和宝石来。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:11 或译：乌木；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希蘭的船隻從俄斐運了金子來，又從俄斐運了許多檀香木和寶石來。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:11 或譯：烏木；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The king made of the almug trees pillars for the LORD’s house and for the king’s house, harps also and stringed instruments for the singers; no such almug trees came or were seen to this day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王用檀香木为耶和华殿和王宫做栏杆，又为歌唱的人做琴瑟。以后再没有这样的檀香木进国来，也没有人看见过，直到如今。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王用檀香木為耶和華殿和王宮做欄杆，又為歌唱的人做琴瑟。以後再沒有這樣的檀香木進國來，也沒有人看見過，直到如今。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "King Solomon gave to the queen of Sheba all her desire, whatever she asked, in addition to that which Solomon gave her of his royal bounty. So she turned and went to her own land, she and her servants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示巴女王一切所要所求的，所罗门王都送给她，另外照自己的厚意馈送她。于是女王和她臣仆转回本国去了。 （代下9·13—28）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示巴女王一切所要所求的，所羅門王都送給她，另外照自己的厚意餽送她。於是女王和她臣僕轉回本國去了。 （代下9‧13－28）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Now the weight of gold that came to Solomon in one year was six hundred sixty-six talents of gold,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:14 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces, so 666 talents is about 20 metric tons"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门每年所得的金子共有六百六十六他连得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門每年所得的金子共有六百六十六他連得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "in addition to that which the traders brought, and the traffic of the merchants, and of all the kings of the mixed people, and of the governors of the country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "另外还有商人和杂族的诸王，与国中的省长所进的金子。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:15 杂族在历代下九章十四节是阿拉伯"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "另外還有商人和雜族的諸王，與國中的省長所進的金子。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 10:15 雜族在歷代下九章十四節是阿拉伯"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "King Solomon made two hundred bucklers of beaten gold; six hundred shekels of gold went to one buckler.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:16 A shekel is about 10 grams or about 0.32 Troy ounces, so 600 shekels is about 6 kilograms or 13.2 pounds or 192 Troy ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王用锤出来的金子打成挡牌二百面，每面用金子六百舍客勒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王用錘出來的金子打成擋牌二百面，每面用金子六百舍客勒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He made three hundred shields of beaten gold; three minas of gold went to one shield; and the king put them in the House of the Forest of Lebanon.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:17 A mina is about 600 grams or 1.3 U. S. pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用锤出来的金子打成盾牌三百面，每面用金子三弥那，都放在黎巴嫩林宫里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用錘出來的金子打成盾牌三百面，每面用金子三彌那，都放在黎巴嫩林宮裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Moreover the king made a great throne of ivory, and overlaid it with the finest gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王用象牙制造一个宝座，用精金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王用象牙製造一個寶座，用精金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "There were six steps to the throne, and the top of the throne was round behind; and there were armrests on either side by the place of the seat, and two lions standing beside the armrests.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "宝座有六层台阶，座的后背是圆的，两旁有扶手，靠近扶手有两个狮子站立。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "寶座有六層臺階，座的後背是圓的，兩旁有扶手，靠近扶手有兩個獅子站立。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Twelve lions stood there on the one side and on the other on the six steps. Nothing like it was made in any kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六层台阶上有十二个狮子站立，每层有两个：左边一个，右边一个；在列国中没有这样做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六層臺階上有十二個獅子站立，每層有兩個：左邊一個，右邊一個；在列國中沒有這樣做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "All King Solomon’s drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold. None were of silver, because it was considered of little value in the days of Solomon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王一切的饮器都是金子的。黎巴嫩林宫里的一切器皿都是精金的。所罗门年间，银子算不了什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王一切的飲器都是金子的。黎巴嫩林宮裏的一切器皿都是精金的。所羅門年間，銀子算不了甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For the king had a fleet of ships of Tarshish at sea with Hiram’s fleet. Once every three years the fleet of Tarshish came bringing gold, silver, ivory, apes, and peacocks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为王有他施船只与希兰的船只一同航海，三年一次，装载金银、象牙、猿猴、孔雀回来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為王有他施船隻與希蘭的船隻一同航海，三年一次，裝載金銀、象牙、猿猴、孔雀回來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "So King Solomon exceeded all the kings of the earth in riches and in wisdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王的财宝与智慧胜过天下的列王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王的財寶與智慧勝過天下的列王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "All the earth sought the presence of Solomon to hear his wisdom which God had put in his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "普天下的王都求见所罗门，要听 神赐给他智慧的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "普天下的王都求見所羅門，要聽上帝賜給他智慧的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Year after year, every man brought his tribute, vessels of silver, vessels of gold, clothing, armor, spices, horses, and mules.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们各带贡物，就是金器、银器、衣服、军械、香料、骡马，每年有一定之例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們各帶貢物，就是金器、銀器、衣服、軍械、香料、騾馬，每年有一定之例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Solomon gathered together chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen. He kept them in the chariot cities and with the king at Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门聚集战车马兵，有战车一千四百辆，马兵一万二千名，安置在屯车的城邑和耶路撒冷，就是王那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門聚集戰車馬兵，有戰車一千四百輛，馬兵一萬二千名，安置在屯車的城邑和耶路撒冷，就是王那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The king made silver as common as stones in Jerusalem, and cedars as common as the sycamore trees that are in the lowland.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王在耶路撒冷使银子多如石头，香柏木多如高原的桑树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王在耶路撒冷使銀子多如石頭，香柏木多如高原的桑樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The horses which Solomon had were brought out of Egypt. The king’s merchants received them in droves, each drove at a price.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门的马是从埃及带来的，是王的商人一群一群按着定价买来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門的馬是從埃及帶來的，是王的商人一群一群按着定價買來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "A chariot was imported from Egypt for six hundred shekels of silver, and a horse for one hundred fifty shekels; and so they exported them to all the kings of the Hittites and to the kings of Syria.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "10:29 A shekel is about 10 grams or about 0.35 ounces."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从埃及买来的车，每辆价银六百舍客勒，马每匹一百五十舍客勒。赫人诸王和亚兰诸王所买的车马，也是按这价值经他们手买来的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從埃及買來的車，每輛價銀六百舍客勒，馬每匹一百五十舍客勒。赫人諸王和亞蘭諸王所買的車馬，也是按這價值經他們手買來的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1004 @@
+{
+  "bookId": "MAT",
+  "chapter": 5,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看见这许多的人，就上了山，既已坐下，门徒到他跟前来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看見這許多的人，就上了山，既已坐下，門徒到他跟前來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He opened his mouth and taught them, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就开口教训他们，说： （路6·20—23）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就開口教訓他們，說： （路6‧20－23）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Blessedare the poor in spirit, fortheirs is the Kingdom of Heaven.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:3 Isaiah 57:15; 66:2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "虚心的人有福了！ 因为天国是他们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "虛心的人有福了！ 因為天國是他們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Blessedare those who mourn, forthey shall be comforted.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:4 Isaiah 61:2; 66:10,13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "哀恸的人有福了！ 因为他们必得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哀慟的人有福了！ 因為他們必得安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Blessedare the gentle, forthey shall inherit the earth.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:5 or, land."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:5 Psalms 37:11",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "温柔的人有福了！ 因为他们必承受地土。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "溫柔的人有福了！ 因為他們必承受地土。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Blessedare those who hunger and thirst for righteousness, forthey shall be filled.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "饥渴慕义的人有福了！ 因为他们必得饱足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "飢渴慕義的人有福了！ 因為他們必得飽足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Blessedare the merciful, forthey shall obtain mercy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怜恤人的人有福了！ 因为他们必蒙怜恤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "憐恤人的人有福了！ 因為他們必蒙憐恤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Blessedare the pure in heart, forthey shall see God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "清心的人有福了！ 因为他们必得见 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "清心的人有福了！ 因為他們必得見上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Blessedare the peacemakers, forthey shall be called children of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使人和睦的人有福了！ 因为他们必称为 神的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使人和睦的人有福了！ 因為他們必稱為上帝的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Blessedare those who have been persecuted for righteousness’ sake, fortheirs is the Kingdom of Heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为义受逼迫的人有福了！ 因为天国是他们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為義受逼迫的人有福了！ 因為天國是他們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“Blessedare you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若因我辱罵你們，逼迫你們，捏造各樣壞話毀謗你們，你們就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "应当欢喜快乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。」 （可9·50；路14·34—35）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "應當歡喜快樂，因為你們在天上的賞賜是大的。在你們以前的先知，人也是這樣逼迫他們。」 （可9‧50；路14‧34－35）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Youare the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們是世上的鹽。鹽若失了味，怎能叫它再鹹呢？以後無用，不過丟在外面，被人踐踏了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“Youare the light of the world. A city located on a hill can’t be hidden.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们是世上的光。城造在山上是不能隐藏的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們是世上的光。城造在山上是不能隱藏的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Neitherdo you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人點燈，不放在斗底下，是放在燈臺上，就照亮一家的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Evenso, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的光也當這樣照在人前，叫他們看見你們的好行為，便將榮耀歸給你們在天上的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Don’tthink that I came to destroy the law or the prophets. I didn’ t come to destroy, but to fulfill.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「莫想我来要废掉律法和先知。我来不是要废掉，乃是要成全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「莫想我來要廢掉律法和先知。我來不是要廢掉，乃是要成全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Formost certainly, I tell you, until heaven and earth pass away, not even one smallest letter orone tiny pen stroke shallin any way pass away from the law, until all things are accomplished.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:18 literally, iota"
+          },
+          {
+            "id": "f2",
+            "text": "5:18 or, serif"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，就是到天地都废去了，律法的一点一画也不能废去，都要成全。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，就是到天地都廢去了，律法的一點一畫也不能廢去，都要成全。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Therefore, whoever shall break one of these least commandments and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，无论何人废掉这诫命中最小的一条，又教训人这样做，他在天国要称为最小的。但无论何人遵行这诫命，又教训人遵行，他在天国要称为大的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，無論何人廢掉這誡命中最小的一條，又教訓人這樣做，他在天國要稱為最小的。但無論何人遵行這誡命，又教訓人遵行，他在天國要稱為大的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "ForI tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我告诉你们，你们的义若不胜于文士和法利赛人的义，断不能进天国。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我告訴你們，你們的義若不勝於文士和法利賽人的義，斷不能進天國。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Youhave heard that it was said to the ancient ones, ‘You shall not murder;’ and‘Whoever murders will be in danger of the judgment.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:21 Exodus 20:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「你们听见有吩咐古人的话，说：『不可杀人』；又说：『凡杀人的难免受审判。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們聽見有吩咐古人的話，說：『不可殺人』；又說：『凡殺人的難免受審判。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "ButI tell you that everyone who is angry with his brother without a cause willbe in danger of the judgment. Whoever says to his brother, ‘Raca!’ willbe in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:22 NU omits “without a cause”."
+          },
+          {
+            "id": "f2",
+            "text": "5:22 “Raca” is an Aramaic insult, related to the word for “empty” and conveying the idea of empty-headedness."
+          },
+          {
+            "id": "f3",
+            "text": "5:22 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，凡向弟兄动怒的，难免受审断；凡骂弟兄是拉加的，难免公会的审断；凡骂弟兄是魔利的，难免地狱的火。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:22 有古卷在凡字下加：无缘无故地"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，凡向弟兄動怒的，難免受審判；凡罵弟兄是拉加的，難免公會的審判；凡罵弟兄是魔利的，難免地獄的火。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:22 有古卷在凡字下加：無緣無故地"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Iftherefore you are offering your gift at the altar, and there remember that your brother has anything against you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你在祭坛上献礼物的时候，若想起弟兄向你怀怨，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你在祭壇上獻禮物的時候，若想起弟兄向你懷怨，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "leave yourgift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就把礼物留在坛前，先去同弟兄和好，然后来献礼物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就把禮物留在壇前，先去同弟兄和好，然後來獻禮物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Agreewith your adversary quickly while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你同告你的对头还在路上，就赶紧与他和息，恐怕他把你送给审判官，审判官交付衙役，你就下在监里了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你同告你的對頭還在路上，就趕緊與他和息，恐怕他把你送給審判官，審判官交付衙役，你就下在監裏了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Most certainlyI tell you, you shall by no means get out of there until you have paid the last penny.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:26 literally, kodrantes. A kodrantes was a small copper coin worth about 2 lepta (widow’s mites)—not enough to buy very much of anything."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你，若有一文钱没有还清，你断不能从那里出来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你，若有一文錢沒有還清，你斷不能從那裏出來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“Youhave heard that it was said, ‘Youshall not commit adultery;’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:27 TR adds “to the ancients”."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:27 Exodus 20:14",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「你们听见有话说：『不可奸淫。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們聽見有話說：『不可姦淫。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "butI tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，凡看见妇女就动淫念的，这人心里已经与她犯奸淫了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，凡看見婦女就動淫念的，這人心裏已經與她犯姦淫了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Ifyour right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:29 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是你的右眼叫你跌倒，就剜出来丢掉，宁可失去百体中的一体，不叫全身丢在地狱里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是你的右眼叫你跌倒，就剜出來丟掉，寧可失去百體中的一體，不叫全身丟在地獄裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Ifyour right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:30 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是右手叫你跌倒，就砍下来丢掉，宁可失去百体中的一体，不叫全身下入地狱。」 （太19·9；可10·11—12；路16·18）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是右手叫你跌倒，就砍下來丟掉，寧可失去百體中的一體，不叫全身下入地獄。」 （太19‧9；可10‧11－12；路16‧18）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Itwas also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:31 Deuteronomy 24:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「又有话说：『人若休妻，就当给她休书。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「又有話說：『人若休妻，就當給她休書。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "butI tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，凡休妻的，若不是为淫乱的缘故，就是叫她作淫妇了；人若娶这被休的妇人，也是犯奸淫了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，凡休妻的，若不是為淫亂的緣故，就是叫她作淫婦了；人若娶這被休的婦人，也是犯姦淫了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“Againyou have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:33 Numbers 30:2; Deuteronomy 23:21; Ecclesiastes 5:4",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「你们又听见有吩咐古人的话，说：『不可背誓，所起的誓总要向主谨守。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們又聽見有吩咐古人的話，說：『不可背誓，所起的誓總要向主謹守。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "butI tell you, don’t swear at all: neither by heaven, for it is the throne of God;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，什么誓都不可起。不可指着天起誓，因为天是 神的座位；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，甚麼誓都不可起。不可指着天起誓，因為天是上帝的座位；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "norby the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可指着地起誓，因为地是他的脚凳；也不可指着耶路撒冷起誓，因为耶路撒冷是大君的京城；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可指着地起誓，因為地是他的腳凳；也不可指着耶路撒冷起誓，因為耶路撒冷是大君的京城；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Neithershall you swear by your head, for you can’t make one hair white or black.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又不可指着你的头起誓，因为你不能使一根头发变黑变白了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又不可指着你的頭起誓，因為你不能使一根頭髮變黑變白了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Butlet your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们的话，是，就说是；不是，就说不是；若再多说就是出于那恶者。」 （路6·29—30）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:37 或译：就是从恶里出来的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的話，是，就說是；不是，就說不是；若再多說就是出於那惡者 。」 （路6‧29－30）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:37 或譯：就是從惡裏出來的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "“Youhave heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:38 Exodus 21:24; Leviticus 24:20; Deuteronomy 19:21",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「你们听见有话说：『以眼还眼，以牙还牙。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們聽見有話說：『以眼還眼，以牙還牙。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "ButI tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，不要与恶人作对。有人打你的右脸，连左脸也转过来由他打；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，不要與惡人作對。有人打你的右臉，連左臉也轉過來由他打；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Ifanyone sues you to take away your coat, let him have your cloak also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人想要告你，要拿你的里衣，连外衣也由他拿去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人想要告你，要拿你的裏衣，連外衣也由他拿去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Whoevercompels you to go one mile, go with him two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人强逼你走一里路，你就同他走二里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人強逼你走一里路，你就同他走二里；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Giveto him who asks you, and don’ t turn away him who desires to borrow from you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有求你的，就给他；有向你借贷的，不可推辞。」 （路6·27—28；32—36）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有求你的，就給他；有向你借貸的，不可推辭。」 （路6‧27－28；32－36）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "“Youhave heard that it was said, ‘You shall love your neighbor andhate your enemy.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:43 not in the Bible, but see Qumran Manual of Discipline Ix, 21-26"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:43 Leviticus 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "「你们听见有话说：『当爱你的邻舍，恨你的仇敌。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們聽見有話說：『當愛你的鄰舍，恨你的仇敵。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "ButI tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是我告诉你们，要爱你们的仇敌，为那逼迫你们的祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是我告訴你們，要愛你們的仇敵，為那逼迫你們的禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "thatyou may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样就可以作你们天父的儿子；因为他叫日头照好人，也照歹人；降雨给义人，也给不义的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣就可以作你們天父的兒子；因為他叫日頭照好人，也照歹人；降雨給義人，也給不義的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Forif you love those who love you, what reward do you have? Don’t even the tax collectors do the same?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若单爱那爱你们的人，有什么赏赐呢？就是税吏不也是这样行吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若單愛那愛你們的人，有甚麼賞賜呢？就是稅吏不也是這樣行嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Ifyou only greet your friends, what more do you do than others? Don’t even the tax collectors dothe same?",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:47 NU reads “Gentiles” instead of “tax collectors”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若单请你弟兄的安，比人有什么长处呢？就是外邦人不也是这样行吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若單請你弟兄的安，比人有甚麼長處呢？就是外邦人不也是這樣行嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Thereforeyou shall be perfect, just as your Father in heaven is perfect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们要完全，像你们的天父完全一样。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們要完全，像你們的天父完全一樣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

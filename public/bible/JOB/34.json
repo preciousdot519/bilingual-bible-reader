@@ -1,0 +1,685 @@
+{
+  "bookId": "JOB",
+  "chapter": 34,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moreover Elihu answered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利户又说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利戶又說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Hear my words, you wise men. Give ear to me, you who have knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们智慧人要听我的话； 有知识的人要留心听我说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們智慧人要聽我的話； 有知識的人要留心聽我說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For the ear tries words, as the palate tastes food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耳朵试验话语， 好像上膛尝食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耳朵試驗話語， 好像上膛嘗食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Let us choose for us that which is right. Let us know among ourselves what is good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们当选择何为是， 彼此知道何为善。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們當選擇何為是， 彼此知道何為善。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For Job has said, ‘I am righteous, God has taken away my right.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯曾说：我是公义， 神夺去我的理；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯曾說：我是公義， 上帝奪去我的理；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Notwithstanding my right I am considered a liar. My wound is incurable, though I am without disobedience.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽有理，还算为说谎言的； 我虽无过，受的伤还不能医治。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖有理，還算為說謊言的； 我雖無過，受的傷還不能醫治。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "What man is like Job, who drinks scorn like water,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁像约伯， 喝讥诮如同喝水呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰像約伯， 喝譏誚如同喝水呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "who goes in company with the workers of iniquity, and walks with wicked men?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他与作孽的结伴， 和恶人同行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他與作孽的結伴， 和惡人同行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For he has said, ‘It profits a man nothing that he should delight himself with God.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：人以 神为乐， 总是无益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：人以上帝為樂， 總是無益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Therefore listen to me, you men of understanding: far be it from God, that he should do wickedness, from the Almighty, that he should commit iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们明理的人要听我的话。 神断不致行恶； 全能者断不致作孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們明理的人要聽我的話。 上帝斷不致行惡； 全能者斷不致作孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For the work of a man he will give to him, and cause every man to find according to his ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必按人所做的报应人， 使各人照所行的得报。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必按人所做的報應人， 使各人照所行的得報。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Yes surely, God will not do wickedly, neither will the Almighty pervert justice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神必不作恶； 全能者也不偏离公平。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝必不作惡； 全能者也不偏離公平。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Who put him in charge of the earth? Or who has appointed him over the whole world?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁派他治理地， 安定全世界呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰派他治理地， 安定全世界呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "If he set his heart on himself, if he gathered to himself his spirit and his breath,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他若专心为己， 将灵和气收归自己，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他若專心為己， 將靈和氣收歸自己，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "all flesh would perish together, and man would turn again to dust.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有血气的就必一同死亡； 世人必仍归尘土。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有血氣的就必一同死亡； 世人必仍歸塵土。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“If now you have understanding, hear this. Listen to the voice of my words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若明理，就当听我的话， 留心听我言语的声音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若明理，就當聽我的話， 留心聽我言語的聲音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Should even one who hates justice govern? Will you condemn him who is righteous and mighty,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "难道恨恶公平的可以掌权吗？ 那有公义的、有大能的，岂可定他有罪吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "難道恨惡公平的可以掌權嗎？ 那有公義的、有大能的，豈可定他有罪嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "who says to a king, ‘Vile!’ or to nobles, ‘Wicked!’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对君王说：你是鄙陋的； 对贵臣说：你是邪恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對君王說：你是鄙陋的； 對貴臣說：你是邪惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He doesn’t respect the persons of princes, nor respect the rich more than the poor, for they all are the work of his hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他待王子不徇情面， 也不看重富足的过于贫穷的， 因为都是他手所造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他待王子不徇情面， 也不看重富足的過於貧窮的， 因為都是他手所造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "In a moment they die, even at midnight. The people are shaken and pass away. The mighty are taken away without a hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在转眼之间，半夜之中， 他们就死亡。 百姓被震动而去世； 有权力的被夺去非借人手。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在轉眼之間，半夜之中， 他們就死亡。 百姓被震動而去世； 有權力的被奪去非借人手。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“For his eyes are on the ways of a man. He sees all his goings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神注目观看人的道路， 看明人的脚步。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝注目觀看人的道路， 看明人的腳步。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "There is no darkness, nor thick gloom, where the workers of iniquity may hide themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有黑暗、阴翳能给作孽的藏身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有黑暗、陰翳能給作孽的藏身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For he doesn’t need to consider a man further, that he should go before God in judgment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神审判人，不必使人到他面前再三鉴察。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝審判人，不必使人到他面前再三鑒察。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He breaks mighty men in pieces in ways past finding out, and sets others in their place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用难测之法打破有能力的人， 设立别人代替他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用難測之法打破有能力的人， 設立別人代替他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Therefore he takes knowledge of their works. He overturns them in the night, so that they are destroyed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他原知道他们的行为， 使他们在夜间倾倒灭亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他原知道他們的行為， 使他們在夜間傾倒滅亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He strikes them as wicked men in the open sight of others;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在众人眼前击打他们， 如同击打恶人一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在眾人眼前擊打他們， 如同擊打惡人一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "because they turned away from following him, and wouldn’t pay attention to any of his ways,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们偏行不跟从他， 也不留心他的道，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們偏行不跟從他， 也不留心他的道，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "so that they caused the cry of the poor to come to him. He heard the cry of the afflicted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "甚至使贫穷人的哀声达到他那里； 他也听了困苦人的哀声。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "甚至使貧窮人的哀聲達到他那裏； 他也聽了困苦人的哀聲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "When he gives quietness, who then can condemn? When he hides his face, who then can see him? He is over a nation or a man alike,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使人安静，谁能扰乱呢？ 他掩面，谁能见他呢？ 无论待一国或一人都是如此—",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 34:29 或译：定罪"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使人安靜，誰能擾亂呢？ 他掩面，誰能見他呢？ 無論待一國或一人都是如此－",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 34:29 或譯：定罪"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "that the godless man may not reign, that there be no one to ensnare the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使不虔敬的人不得作王， 免得有人牢笼百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使不虔敬的人不得作王， 免得有人牢籠百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“For has any said to God, ‘I am guilty, but I will not offend any more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有谁对 神说： 我受了责罚，不再犯罪；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有誰對上帝說： 我受了責罰，不再犯罪；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Teach me that which I don’t see. If I have done iniquity, I will do it no more’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所看不明的，求你指教我； 我若作了孽，必不再作？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所看不明的，求你指教我； 我若作了孽，必不再作？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Shall his recompense be as you desire, that you refuse it? For you must choose, and not I. Therefore speak what you know.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他施行报应， 岂要随你的心愿、叫你推辞不受吗？ 选定的是你，不是我。 你所知道的只管说吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他施行報應， 豈要隨你的心願、叫你推辭不受嗎？ 選定的是你，不是我。 你所知道的只管說吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Men of understanding will tell me, yes, every wise man who hears me:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "明理的人和听我话的智慧人必对我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "明理的人和聽我話的智慧人必對我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "‘Job speaks without knowledge. His words are without wisdom.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯说话没有知识， 言语中毫无智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯說話沒有知識， 言語中毫無智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "I wish that Job were tried to the end, because of his answering like wicked men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿约伯被试验到底， 因他回答像恶人一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願約伯被試驗到底， 因他回答像惡人一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在罪上又加悖逆； 在我们中间拍手， 用许多言语轻慢 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在罪上又加悖逆； 在我們中間拍手， 用許多言語輕慢上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

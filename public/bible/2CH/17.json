@@ -1,0 +1,351 @@
+{
+  "bookId": "2CH",
+  "chapter": 17,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Jehoshaphat his son reigned in his place, and strengthened himself against Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒的儿子约沙法接续他作王，奋勇自强，防备以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒的兒子約沙法接續他作王，奮勇自強，防備以色列人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim, which Asa his father had taken.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "安置军兵在犹大一切坚固城里，又安置防兵在犹大地和他父亚撒所得以法莲的城邑中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "安置軍兵在猶大一切堅固城裏，又安置防兵在猶大地和他父亞撒所得以法蓮的城邑中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The LORD was with Jehoshaphat, because he walked in the first ways of his father David, and didn’t seek the Baals,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华与约沙法同在；因为他行他祖大卫初行的道，不寻求巴力，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華與約沙法同在；因為他行他祖大衛初行的道，不尋求巴力，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "but sought the God of his father, and walked in his commandments, and not in the ways of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只寻求他父亲的 神，遵行他的诫命，不效法以色列人的行为。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只尋求他父親的上帝，遵行他的誡命，不效法以色列人的行為。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Therefore the LORD established the kingdom in his hand. All Judah brought tribute to Jehoshaphat, and he had riches and honor in abundance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华坚定他的国，犹大众人给他进贡；约沙法大有尊荣资财。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華堅定他的國，猶大眾人給他進貢；約沙法大有尊榮資財。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "His heart was lifted up in the ways of the LORD. Furthermore, he took away the high places and the Asherah poles out of Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他高兴遵行耶和华的道，并且从犹大除掉一切邱坛和木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他高興遵行耶和華的道，並且從猶大除掉一切邱壇和木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Also in the third year of his reign he sent his princes, even Ben Hail, Obadiah, Zechariah, Nethanel, and Micaiah, to teach in the cities of Judah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他作王第三年，就差遣臣子便·亥伊勒、俄巴底、撒迦利雅、拿坦业、米该亚往犹大各城去教训百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他作王第三年，就差遣臣子便‧亥伊勒、俄巴底、撒迦利雅、拿坦業、米該亞往猶大各城去教訓百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "and with them Levites, even Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tobadonijah, the Levites; and with them Elishama and Jehoram, the priests.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "同着他们有利未人示玛雅、尼探雅、西巴第雅、亚撒黑、示米拉末、约拿单、亚多尼雅、多比雅、驼·巴多尼雅，又有祭司以利沙玛、约兰同着他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "同着他們有利未人示瑪雅、尼探雅、西巴第雅、亞撒黑、示米拉末、約拿單、亞多尼雅、多比雅、駝‧巴多尼雅，又有祭司以利沙瑪、約蘭同着他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They taught in Judah, having the book of the LORD’s law with them. They went about throughout all the cities of Judah and taught among the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们带着耶和华的律法书，走遍犹大各城教训百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們帶着耶和華的律法書，走遍猶大各城教訓百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The fear of the LORD fell on all the kingdoms of the lands that were around Judah, so that they made no war against Jehoshaphat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华使犹大四围的列国都甚恐惧，不敢与约沙法争战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華使猶大四圍的列國都甚恐懼，不敢與約沙法爭戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Some of the Philistines brought Jehoshaphat presents and silver for tribute. The Arabians also brought him flocks: seven thousand seven hundred rams and seven thousand seven hundred male goats.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有些非利士人与约沙法送礼物，纳贡银。阿 拉伯人也送他公绵羊七千七百只，公山羊七千七百只。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有些非利士人與約沙法送禮物，納貢銀。阿拉伯人也送他公綿羊七千七百隻，公山羊七千七百隻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jehoshaphat grew great exceedingly; and he built fortresses and store cities in Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约沙法日渐强大，在犹大建造营寨和积货城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約沙法日漸強大，在猶大建造營寨和積貨城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He had many works in the cities of Judah; and men of war, mighty men of valor, in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在犹大城邑中有许多工程，又在耶路撒冷有战士，就是大能的勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在猶大城邑中有許多工程，又在耶路撒冷有戰士，就是大能的勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "This was the numbering of them according to their fathers’ houses: From Judah, the captains of thousands: Adnah the captain, and with him three hundred thousand mighty men of valor;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的数目，按着宗族，记在下面：犹大族的，千夫长押拿为首率领大能的勇士—三十万；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的數目，按着宗族，記在下面：猶大族的千夫長押拿為首率領大能的勇士－三十萬；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and next to him Jehohanan the captain, and with him two hundred eighty thousand;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是，千夫长约哈难率领大能的勇士—二十八万；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是，千夫長約哈難率領大能的勇士－二十八萬；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and next to him Amasiah the son of Zichri, who willingly offered himself to the LORD, and with him two hundred thousand mighty men of valor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是，细基利的儿子亚玛斯雅（他为耶和华牺牲自己）率领大能的勇士—二十万。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是，細基利的兒子亞瑪斯雅（他為耶和華犧牲自己）率領大能的勇士－二十萬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "From Benjamin: Eliada, a mighty man of valor, and with him two hundred thousand armed with bow and shield;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯族，是大能的勇士以利雅大率领拿弓箭和盾牌的—二十万；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫族，是大能的勇士以利雅大率領拿弓箭和盾牌的－二十萬；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "and next to him Jehozabad, and with him one hundred eighty thousand ready and prepared for war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次是，约萨拔率领预备打仗的—十八万。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次是，約薩拔率領預備打仗的－十八萬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "These were those who waited on the king, in addition to those whom the king put in the fortified cities throughout all Judah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是伺候王的，还有王在犹大全地坚固城所安置的不在其内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是伺候王的，還有王在猶大全地堅固城所安置的不在其內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

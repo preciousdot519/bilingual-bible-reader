@@ -1,0 +1,549 @@
+{
+  "bookId": "JOB",
+  "chapter": 6,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then Job answered,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯回答说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯回答說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Oh that my anguish were weighed, and all my calamity laid in the balances!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿我的烦恼称一称， 我一切的灾害放在天平里；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願我的煩惱稱一稱， 我一切的災害放在天平裏；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For now it would be heavier than the sand of the seas, therefore my words have been rash.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现今都比海沙更重， 所以我的言语急躁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現今都比海沙更重， 所以我的言語急躁。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For the arrows of the Almighty are within me. My spirit drinks up their poison. The terrors of God set themselves in array against me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因全能者的箭射入我身； 其毒，我的灵喝尽了； 神的惊吓摆阵攻击我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因全能者的箭射入我身； 其毒，我的靈喝盡了； 上帝的驚嚇擺陣攻擊我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Does the wild donkey bray when he has grass? Or does the ox low over his fodder?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "野驴有草岂能叫唤？ 牛有料岂能吼叫？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "野驢有草豈能叫喚？ 牛有料豈能吼叫？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Can that which has no flavor be eaten without salt? Or is there any taste in the white of an egg?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "物淡而无盐岂可吃吗？ 蛋青有什么滋味呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "物淡而無鹽豈可吃嗎？ 蛋青有甚麼滋味呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "My soul refuses to touch them. They are as loathsome food to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看为可厌的食物， 我心不肯挨近。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看為可厭的食物， 我心不肯挨近。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Oh that I might have my request, that God would grant the thing that I long for,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿我得着所求的， 愿 神赐我所切望的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願我得着所求的， 願上帝賜我所切望的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "even that it would please God to crush me; that he would let loose his hand, and cut me off!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是愿 神把我压碎， 伸手将我剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是願上帝把我壓碎， 伸手將我剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Let it still be my consolation, yes, let me exult in pain that doesn’t spare, that I have not denied the words of the Holy One.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我因没有违弃那圣者的言语， 就仍以此为安慰， 在不止息的痛苦中还可踊跃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我因沒有違棄那聖者的言語， 就仍以此為安慰， 在不止息的痛苦中還可踴躍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "What is my strength, that I should wait? What is my end, that I should be patient?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我有什么气力使我等候？ 我有什么结局使我忍耐？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我有甚麼氣力使我等候？ 我有甚麼結局使我忍耐？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Is my strength the strength of stones? Or is my flesh of bronze?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的气力岂是石头的气力？ 我的肉身岂是铜的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的氣力豈是石頭的氣力？ 我的肉身豈是銅的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Isn’t it that I have no help in me, that wisdom is driven away from me?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在我岂不是毫无帮助吗？ 智慧岂不是从我心中赶出净尽吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在我豈不是毫無幫助嗎？ 智慧豈不是從我心中趕出淨盡嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“To him who is ready to faint, kindness should be shown from his friend; even to him who forsakes the fear of the Almighty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那将要灰心、离弃全能者、 不敬畏 神的人， 他的朋友当以慈爱待他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那將要灰心、離棄全能者、 不敬畏上帝的人， 他的朋友當以慈愛待他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "My brothers have dealt deceitfully as a brook, as the channel of brooks that pass away;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的弟兄诡诈，好像溪水， 又像溪水流干的河道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的弟兄詭詐，好像溪水， 又像溪水流乾的河道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "which are black by reason of the ice, in which the snow hides itself.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这河因结冰发黑， 有雪藏在其中；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這河因結冰發黑， 有雪藏在其中；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In the dry season, they vanish. When it is hot, they are consumed out of their place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天气渐暖就随时消化， 日头炎热便从原处干涸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天氣漸暖就隨時消化， 日頭炎熱便從原處乾涸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The caravans that travel beside them turn away. They go up into the waste, and perish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "结伴的客旅离弃大道， 顺河偏行，到荒野之地死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "結伴的客旅離棄大道， 順河偏行，到荒野之地死亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The caravans of Tema looked. The companies of Sheba waited for them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "提玛结伴的客旅瞻望； 示巴同伙的人等候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "提瑪結伴的客旅瞻望； 示巴同夥的人等候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They were distressed because they were confident. They came there, and were confounded.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们因失了盼望就抱愧， 来到那里便蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們因失了盼望就抱愧， 來到那裏便蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For now you are nothing. You see a terror, and are afraid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们正是这样， 看见惊吓的事便惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們正是這樣， 看見驚嚇的事便懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Did I ever say, ‘Give to me’? or, ‘Offer a present for me from your substance’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我岂说：请你们供给我， 从你们的财物中送礼物给我？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我豈說：請你們供給我， 從你們的財物中送禮物給我？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "or, ‘Deliver me from the adversary’s hand’? or, ‘Redeem me from the hand of the oppressors’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "岂说：拯救我脱离敌人的手吗？ 救赎我脱离强暴人的手吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豈說：拯救我脫離敵人的手嗎？ 救贖我脫離強暴人的手嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Teach me, and I will hold my peace. Cause me to understand my error.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请你们教导我，我便不作声； 使我明白在何事上有错。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請你們教導我，我便不作聲； 使我明白在何事上有錯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "How forcible are words of uprightness! But your reproof, what does it reprove?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正直的言语力量何其大！ 但你们责备是责备什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正直的言語力量何其大！ 但你們責備是責備甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Do you intend to reprove words, since the speeches of one who is desperate are as wind?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "绝望人的讲论既然如风， 你们还想要驳正言语吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "絕望人的講論既然如風， 你們還想要駁正言語嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Yes, you would even cast lots for the fatherless, and make merchandise of your friend.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们想为孤儿拈阄， 以朋友当货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們想為孤兒拈鬮， 以朋友當貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Now therefore be pleased to look at me, for surely I will not lie to your face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在请你们看看我， 我决不当面说谎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在請你們看看我， 我決不當面說謊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Please return. Let there be no injustice. Yes, return again. My cause is righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请你们转意，不要不公； 请再转意，我的事有理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請你們轉意，不要不公； 請再轉意，我的事有理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Is there injustice on my tongue? Can’t my taste discern mischievous things?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的舌上岂有不义吗？ 我的口里岂不辨奸恶吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的舌上豈有不義嗎？ 我的口裏豈不辨奸惡嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

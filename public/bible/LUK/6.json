@@ -1,0 +1,935 @@
+{
+  "bookId": "LUK",
+  "chapter": 6,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now on the second Sabbath after the first, he was going through the grain fields. His disciples plucked the heads of grain and ate, rubbing them in their hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个安息日，耶稣从麦地经过。他的门徒掐了麦穗，用手搓着吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個安息日，耶穌從麥地經過。他的門徒掐了麥穗，用手搓着吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "But some of the Pharisees said to them, “Why do you do that which is not lawful to do on the Sabbath day?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有几个法利赛人说：「你们为什么做安息日不可做的事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有幾個法利賽人說：「你們為甚麼做安息日不可做的事呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Jesus, answering them, said, “Haven’tyou read what David did when he was hungry, he and those who were with him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「经上记着大卫和跟从他的人饥饿之时所做的事，连这个你们也没有念过吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「經上記着大衛和跟從他的人飢餓之時所做的事，連這個你們也沒有念過嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "howhe entered into God’s house, and took and ate the show bread, and gave also to those who were with him, which is not lawful to eat except for the priests alone?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他怎么进了 神的殿，拿陈设饼吃，又给跟从的人吃？这饼除了祭司以外，别人都不可吃。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他怎麼進了上帝的殿，拿陳設餅吃，又給跟從的人吃？這餅除了祭司以外，別人都不可吃。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He said to them, “TheSon of Man is lord of the Sabbath.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对他们说：「人子是安息日的主。」 （太12·9—14；可3·1—6）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對他們說：「人子是安息日的主。」 （太12‧9－14；可3‧1－6）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "It also happened on another Sabbath that he entered into the synagogue and taught. There was a man there, and his right hand was withered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一个安息日，耶稣进了会堂教训人，在那里有一个人右手枯干了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一個安息日，耶穌進了會堂教訓人，在那裏有一個人右手枯乾了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, that they might find an accusation against him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "文士和法利赛人窥探耶稣，在安息日治病不治病，要得把柄去告他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "文士和法利賽人窺探耶穌，在安息日治病不治病，要得把柄去告他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But he knew their thoughts; and he said to the man who had the withered hand, “Riseup and stand in the middle.”He arose and stood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣却知道他们的意念，就对那枯干一只手的人说：「起来！站在当中。」那人就起来，站着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌卻知道他們的意念，就對那枯乾一隻手的人說：「起來！站在當中。」那人就起來，站着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then Jesus said to them, “Iwill ask you something: Is it lawful on the Sabbath to do good, or to do harm? To save a life, or to kill?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他们说：「我问你们，在安息日行善行恶，救命害命，哪样是可以的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他們說：「我問你們，在安息日行善行惡，救命害命，哪樣是可以的呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He looked around at them all, and said to the man, “Stretchout your hand.”He did, and his hand was restored as sound as the other.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就周围看着他们众人，对那人说：「伸出手来！」他把手一伸，手就复了原。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就周圍看着他們眾人，對那人說：「伸出手來！」他把手一伸，手就復了原。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But they were filled with rage, and talked with one another about what they might do to Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就满心大怒，彼此商议怎样处治耶稣。 （太10·1—4；可3·13—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就滿心大怒，彼此商議怎樣處治耶穌。 （太10‧1－4；可3‧13－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "In these days, he went out to the mountain to pray, and he continued all night in prayer to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，耶稣出去，上山祷告，整夜祷告 神；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，耶穌出去，上山禱告，整夜禱告上帝；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "When it was day, he called his disciples, and from them he chose twelve, whom he also named apostles:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了天亮，叫他的门徒来，就从他们中间挑选十二个人，称他们为使徒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了天亮，叫他的門徒來，就從他們中間挑選十二個人，稱他們為使徒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Simon, whom he also named Peter; Andrew, his brother; James; John; Philip; Bartholomew;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这十二个人有西门（耶稣又给他起名叫彼得），还有他兄弟安得烈，又有雅各和约翰，腓力和巴多罗买，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這十二個人有西門（耶穌又給他起名叫彼得），還有他兄弟安得烈，又有雅各和約翰，腓力和巴多羅買，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Matthew; Thomas; James the son of Alphaeus; Simon who was called the Zealot;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "马太和多马，亚勒腓的儿子雅各和奋锐党的西门，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "馬太和多馬，亞勒腓的兒子雅各和奮銳黨的西門，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Judas the son of James; and Judas Iscariot, who also became a traitor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各的儿子犹大，和卖主的加略人犹大。 （太4·23—25）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:16 或译：兄弟"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各的兒子猶大，和賣主的加略人猶大。 （太4‧23－25）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:16 或譯：兄弟"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He came down with them and stood on a level place, with a crowd of his disciples and a great number of the people from all Judea and Jerusalem and the sea coast of Tyre and Sidon, who came to hear him and to be healed of their diseases,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣和他们下了山，站在一块平地上；同站的有许多门徒，又有许多百姓，从犹太全地和耶路撒冷，并泰尔、西顿的海边来，都要听他讲道，又指望医治他们的病；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌和他們下了山，站在一塊平地上；同站的有許多門徒，又有許多百姓，從猶太全地和耶路撒冷，並泰爾、西頓的海邊來，都要聽他講道，又指望醫治他們的病；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "as well as those who were troubled by unclean spirits; and they were being healed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有被污鬼缠磨的，也得了医治。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有被污鬼纏磨的，也得了醫治。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "All the multitude sought to touch him, for power came out of him and healed them all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人都想要摸他；因为有能力从他身上发出来，医好了他们。 （太5·1—12）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人都想要摸他；因為有能力從他身上發出來，醫好了他們。 （太5‧1－12）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He lifted up his eyes to his disciples, and said: “Blessedare you who are poor, forGod’s Kingdom is yours.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣举目看着门徒，说： 你们贫穷的人有福了！ 因为 神的国是你们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌舉目看着門徒，說： 你們貧窮的人有福了！ 因為上帝的國是你們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Blessedare you who hunger now, foryou will be filled. Blessedare you who weep now, foryou will laugh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们饥饿的人有福了！ 因为你们将要饱足。 你们哀哭的人有福了！ 因为你们将要喜笑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們飢餓的人有福了！ 因為你們將要飽足。 你們哀哭的人有福了！ 因為你們將要喜笑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Blessedare you when men hate you, and when they exclude and mock you, and throw out your name as evil, for the Son of Man’s sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人为人子恨恶你们，拒绝你们，辱骂你们，弃掉你们的名，以为是恶，你们就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人為人子恨惡你們，拒絕你們，辱罵你們，棄掉你們的名，以為是惡，你們就有福了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Rejoicein that day and leap for joy, for behold, your reward is great in heaven, for their fathers did the same thing to the prophets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当那日，你们要欢喜跳跃，因为你们在天上的赏赐是大的。他们的祖宗待先知也是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當那日，你們要歡喜跳躍，因為你們在天上的賞賜是大的。他們的祖宗待先知也是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Butwoe to you who are rich! Foryou have received your consolation.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你们富足的人有祸了！ 因为你们受过你们的安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你們富足的人有禍了！ 因為你們受過你們的安慰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Woeto you, you who are full now, foryou will be hungry. Woeto you who laugh now, foryou will mourn and weep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们饱足的人有祸了！ 因为你们将要饥饿。 你们喜笑的人有祸了！ 因为你们将要哀恸哭泣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們飽足的人有禍了！ 因為你們將要飢餓。 你們喜笑的人有禍了！ 因為你們將要哀慟哭泣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Woe, when menspeak well of you, fortheir fathers did the same thing to the false prophets.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:26 TR adds “to you”"
+          },
+          {
+            "id": "f2",
+            "text": "6:26 TR adds “all”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人都说你们好的时候，你们就有祸了！因为他们的祖宗待假先知也是这样。」 （太5·38—48；7·12）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人都說你們好的時候，你們就有禍了！因為他們的祖宗待假先知也是這樣。」 （太5‧38－48；7‧12）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“ButI tell you who hear: love your enemies, do good to those who hate you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「只是我告诉你们这听道的人，你们的仇敌，要爱他！恨你们的，要待他好！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「只是我告訴你們這聽道的人，你們的仇敵，要愛他！恨你們的，要待他好！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "blessthose who curse you, and pray for those who mistreat you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "咒诅你们的，要为他祝福！凌辱你们的，要为他祷告！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "咒詛你們的，要為他祝福！凌辱你們的，要為他禱告！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Tohim who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人打你这边的脸，连那边的脸也由他打。有人夺你的外衣，连里衣也由他拿去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人打你這邊的臉，連那邊的臉也由他打。有人奪你的外衣，連裏衣也由他拿去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Giveto everyone who asks you, and don’ t ask him who takes away your goods to give them back again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡求你的，就给他。有人夺你的东西去，不用再要回来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡求你的，就給他。有人奪你的東西去，不用再要回來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Asyou would like people to do to you, do exactly so to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们愿意人怎样待你们，你们也要怎样待人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們願意人怎樣待你們，你們也要怎樣待人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“Ifyou love those who love you, what credit is that to you? For even sinners love those who love them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若单爱那爱你们的人，有什么可酬谢的呢？就是罪人也爱那爱他们的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若單愛那愛你們的人，有甚麼可酬謝的呢？就是罪人也愛那愛他們的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Ifyou do good to those who do good to you, what credit is that to you? For even sinners do the same.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若善待那善待你们的人，有什么可酬谢的呢？就是罪人也是这样行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若善待那善待你們的人，有甚麼可酬謝的呢？就是罪人也是這樣行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Ifyou lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若借给人，指望从他收回，有什么可酬谢的呢？就是罪人也借给罪人，要如数收回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若借給人，指望從他收回，有甚麼可酬謝的呢？就是罪人也借給罪人，要如數收回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Butlove your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们倒要爱仇敌，也要善待他们，并要借给人不指望偿还，你们的赏赐就必大了，你们也必作至高者的儿子，因为他恩待那忘恩的和作恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們倒要愛仇敵，也要善待他們，並要借給人不指望償還，你們的賞賜就必大了，你們也必作至高者的兒子，因為他恩待那忘恩的和作惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "“Therefore bemerciful, evenas your Father is also merciful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要慈悲，像你们的父慈悲一样。」 （太7·1—5）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要慈悲，像你們的父慈悲一樣。」 （太7‧1－5）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Don’t judge, andyou won’t be judged. Don’t condemn, andyou won’t be condemned. Setfree, andyou will be set free.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们不要论断人，就不被论断；你们不要定人的罪，就不被定罪；你们要饶恕人，就必蒙饶恕；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:37 饶恕：原文是释放"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們不要論斷人，就不被論斷；你們不要定人的罪，就不被定罪；你們要饒恕人，就必蒙饒恕 ；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:37 饒恕：原文是釋放"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. Forwith the same measure you measure it will be measured back to you.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:38 literally, into your bosom."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要给人，就必有给你们的，并且用十足的升斗，连摇带按，上尖下流地倒在你们怀里；因为你们用什么量器量给人，也必用什么量器量给你们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要給人，就必有給你們的，並且用十足的升斗，連搖帶按，上尖下流地倒在你們懷裏；因為你們用甚麼量器量給人，也必用甚麼量器量給你們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "He spoke a parable to them. “Canthe blind guide the blind? Won’t they both fall into a pit?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又用比喻对他们说：「瞎子岂能领瞎子，两个人不是都要掉在坑里吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又用比喻對他們說：「瞎子豈能領瞎子，兩個人不是都要掉在坑裏嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Adisciple is not above his teacher, but everyone when he is fully trained will be like his teacher.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "学生不能高过先生；凡学成了的不过和先生一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "學生不能高過先生；凡學成了的不過和先生一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Whydo you see the speck of chaff that is in your brother’s eye, but don’ t consider the beam that is in your own eye?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为什么看见你弟兄眼中有刺，却不想自己眼中有梁木呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為甚麼看見你弟兄眼中有刺，卻不想自己眼中有樑木呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Orhow can you tell your brother, ‘Brother, let me remove the speck of chaff that is in your eye,’ when you yourself don’ t see the beam that is in your own eye? You hypocrite! First remove the beam from your own eye, and then you can see clearly to remove the speck of chaff that is in your brother’s eye.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不见自己眼中有梁木，怎能对你弟兄说：『容我去掉你眼中的刺』呢？你这假冒为善的人！先去掉自己眼中的梁木，然后才能看得清楚，去掉你弟兄眼中的刺。」 （太7·16—20；12·33—35）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不見自己眼中有樑木，怎能對你弟兄說：『容我去掉你眼中的刺』呢？你這假冒為善的人！先去掉自己眼中的樑木，然後才能看得清楚，去掉你弟兄眼中的刺。」 （太7‧16－20；12‧33－35）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "“Forthere is no good tree that produces rotten fruit, nor again a rotten tree that produces good fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「因为，没有好树结坏果子，也没有坏树结好果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「因為，沒有好樹結壞果子，也沒有壞樹結好果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Foreach tree is known by its own fruit. For people don’ t gather figs from thorns, nor do they gather grapes from a bramble bush.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡树木看果子，就可以认出它来。人不是从荆棘上摘无花果，也不是从蒺藜里摘葡萄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡樹木看果子，就可以認出它來。人不是從荊棘上摘無花果，也不是從蒺藜裏摘葡萄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "Thegood man out of the good treasure of his heart brings out that which is good, and the evil man out of the evil treasure of his heart brings out that which is evil, for out of the abundance of the heart, his mouth speaks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "善人从他心里所存的善就发出善来；恶人从他心里所存的恶就发出恶来；因为心里所充满的，口里就说出来。」 （太7·24—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "善人從他心裏所存的善就發出善來；惡人從他心裏所存的惡就發出惡來；因為心裏所充滿的，口裏就說出來。」 （太7‧24－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "“Whydo you call me, ‘Lord, Lord,’ and don’t do the things which I say?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们为什么称呼我『主啊，主啊』却不遵我的话行呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們為甚麼稱呼我『主啊，主啊』卻不遵我的話行呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Everyonewho comes to me, and hears my words and does them, I will show you who he is like.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡到我这里来，听见我的话就去行的，我要告诉你们他像什么人：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡到我這裏來，聽見我的話就去行的，我要告訴你們他像甚麼人：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Heis like a man building a house, who dug and went deep and laid a foundation on the rock. When a flood arose, the stream broke against that house, and could not shake it, because it was founded on the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他像一个人盖房子，深深地挖地，把根基安在磐石上；到发大水的时候，水冲那房子，房子总不能摇动，因为根基立在磐石上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:48 有古卷：因为盖造得好"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他像一個人蓋房子，深深地挖地，把根基安在磐石上；到發大水的時候，水沖那房子，房子總不能搖動，因為根基立在磐石上 。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:48 有古卷：因為蓋造得好"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "Buthe who hears and doesn’ t do, is like a man who built a house on the earth without a foundation, against which the stream broke, and immediately it fell; and the ruin of that house was great.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有听见不去行的，就像一个人在土地上盖房子，没有根基；水一冲，随即倒塌了，并且那房子坏的很大。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有聽見不去行的，就像一個人在土地上蓋房子，沒有根基；水一沖，隨即倒塌了，並且那房子壞的很大。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

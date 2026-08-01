@@ -1,0 +1,420 @@
+{
+  "bookId": "PRO",
+  "chapter": 2,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "My son, if you will receive my words, and store up my commandments within you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，你若领受我的言语， 存记我的命令，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，你若領受我的言語， 存記我的命令，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "so as to turn your ear to wisdom, and apply your heart to understanding;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "侧耳听智慧， 专心求聪明，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "側耳聽智慧， 專心求聰明，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "yes, if you call out for discernment, and lift up your voice for understanding;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "呼求明哲， 扬声求聪明，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "呼求明哲， 揚聲求聰明，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "if you seek her as silver, and search for her as for hidden treasures;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "寻找它，如寻找银子， 搜求它，如搜求隐藏的珍宝，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尋找它，如尋找銀子， 搜求它，如搜求隱藏的珍寶，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "then you will understand the fear of the LORD, and find the knowledge of God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:5 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你就明白敬畏耶和华， 得以认识 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你就明白敬畏耶和華， 得以認識上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For the LORD gives wisdom. Out of his mouth comes knowledge and understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，耶和华赐人智慧； 知识和聪明都由他口而出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，耶和華賜人智慧； 知識和聰明都由他口而出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He lays up sound wisdom for the upright. He is a shield to those who walk in integrity,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他给正直人存留真智慧， 给行为纯正的人作盾牌，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他給正直人存留真智慧， 給行為純正的人作盾牌，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "that he may guard the paths of justice, and preserve the way of his saints.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要保守公平人的路， 护庇虔敬人的道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要保守公平人的路， 護庇虔敬人的道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then you will understand righteousness and justice, equity and every good path.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也必明白仁义、公平、 正直、一切的善道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也必明白仁義、公平、 正直、一切的善道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For wisdom will enter into your heart. Knowledge will be pleasant to your soul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧必入你心； 你的灵要以知识为美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧必入你心； 你的靈要以知識為美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Discretion will watch over you. Understanding will keep you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谋略必护卫你； 聪明必保守你，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謀略必護衛你； 聰明必保守你，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "to deliver you from the way of evil, from the men who speak perverse things,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要救你脱离恶道， 脱离说乖谬话的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 或译：恶人的道"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要救你脫離惡道， 脫離說乖謬話的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 或譯：惡人的道"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "who forsake the paths of uprightness, to walk in the ways of darkness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那等人舍弃正直的路， 行走黑暗的道，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那等人捨棄正直的路， 行走黑暗的道，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "who rejoice to do evil, and delight in the perverseness of evil,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "欢喜作恶， 喜爱恶人的乖僻，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "歡喜作惡， 喜愛惡人的乖僻，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "who are crooked in their ways, and wayward in their paths,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们的道中弯曲， 在他们的路上偏僻。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們的道中彎曲， 在他們的路上偏僻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "to deliver you from the strange woman, even from the foreigner who flatters with her words,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧要救你脱离淫妇， 就是那油嘴滑舌的外女。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧要救你脫離淫婦， 就是那油嘴滑舌的外女。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "who forsakes the friend of her youth, and forgets the covenant of her God;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她离弃幼年的配偶， 忘了 神的盟约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她離棄幼年的配偶， 忘了上帝的盟約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "for her house leads down to death, her paths to the departed spirits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她的家陷入死地； 她的路偏向阴间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她的家陷入死地； 她的路偏向陰間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "None who go to her return again, neither do they attain to the paths of life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡到她那里去的，不得转回， 也得不着生命的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡到她那裏去的，不得轉回， 也得不着生命的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore walk in the way of good men, and keep the paths of the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧必使你行善人的道， 守义人的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧必使你行善人的道， 守義人的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "For the upright will dwell in the land. The perfect will remain in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正直人必在世上居住； 完全人必在地上存留。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正直人必在世上居住； 完全人必在地上存留。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But the wicked will be cut off from the land. The treacherous will be rooted out of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有恶人必然剪除； 奸诈的，必然拔出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有惡人必然剪除； 奸詐的，必然拔出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

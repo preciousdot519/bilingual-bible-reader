@@ -1,0 +1,1034 @@
+{
+  "bookId": "1CH",
+  "chapter": 2,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的儿子是吕便、西缅、利未、犹大、以萨迦、西布伦、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的兒子是呂便、西緬、利未、猶大、以薩迦、西布倫、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但、约瑟、便雅悯、拿弗他利、迦得、亚设。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但、約瑟、便雅憫、拿弗他利、迦得、亞設。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The sons of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in the LORD’s sight; and he killed him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:3 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大的儿子是珥、俄南、示拉，这三人是迦南人书亚女儿所生的。犹大的长子珥在耶和华眼中看为恶，耶和华就使他死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大的兒子是珥、俄南、示拉，這三人是迦南人書亞女兒所生的。猶大的長子珥在耶和華眼中看為惡，耶和華就使他死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Tamar his daughter-in-law bore him Perez and Zerah. All the sons of Judah were five.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大的儿妇她玛给犹大生法勒斯和谢拉。犹大共有五个儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大的兒婦她瑪給猶大生法勒斯和謝拉。猶大共有五個兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The sons of Perez: Hezron and Hamul.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法勒斯的儿子是希斯 、哈母勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法勒斯的兒子是希斯崙、哈母勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara—five of them in all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谢拉的儿子是心利、以探、希幔、甲各、大拉，共五人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:6 就是达大"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謝拉的兒子是心利、以探、希幔、甲各、大拉，共五人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:6 就是達大"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The son of Carmi: Achar, the troubler of Israel, who committed a trespass in the devoted thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦米的儿子是亚干，这亚干在当灭的物上犯了罪，连累了以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦米的兒子是亞干，這亞干在當滅的物上犯了罪，連累了以色列人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The son of Ethan: Azariah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以探的儿子是亚撒利雅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以探的兒子是亞撒利雅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The sons also of Hezron, who were born to him: Jerahmeel, Ram, and Chelubai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 所生的儿子是耶拉篾、兰、基路拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙所生的兒子是耶拉篾、蘭、基路拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Ram became the father of Amminadab, and Amminadab became the father of Nahshon, prince of the children of Judah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兰生亚米拿达；亚米拿达生拿顺。拿顺作犹大人的首领。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "蘭生亞米拿達；亞米拿達生拿順。拿順作猶大人的首領。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "and Nahshon became the father of Salma, and Salma became the father of Boaz,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿顺生撒门；撒门生波阿斯；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿順生撒門；撒門生波阿斯；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and Boaz became the father of Obed, and Obed became the father of Jesse;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "波阿斯生俄备得；俄备得生耶西；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "波阿斯生俄備得；俄備得生耶西；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "and Jesse became the father of his firstborn Eliab, Abinadab the second, Shimea the third,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶西生长子以利押，次子亚比拿达，三子示米亚，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:13 示米亚就是沙玛，见撒母耳上十六章九节"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶西生長子以利押，次子亞比拿達，三子示米亞，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:13 示米亞就是沙瑪，見撒母耳上十六章九節"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Nethanel the fourth, Raddai the fifth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四子拿坦业，五子拉代，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四子拿坦業，五子拉代，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Ozem the sixth, and David the seventh;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六子阿鲜，七子大卫。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六子阿鮮，七子大衛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的姊妹是洗鲁雅和亚比该。洗鲁雅的儿子是亚比筛、约押、亚撒黑，共三人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的姊妹是洗魯雅和亞比該。洗魯雅的兒子是亞比篩、約押、亞撒黑，共三人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚比该生亚玛撒；亚玛撒的父亲是以实玛利人益帖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞比該生亞瑪撒；亞瑪撒的父親是以實瑪利人益帖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Caleb the son of Hezron became the father of children by Azubah his wife, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 的儿子迦勒娶阿苏巴和耶略为妻，阿苏巴的儿子是耶设、朔罢、押墩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙的兒子迦勒娶阿蘇巴和耶略為妻，阿蘇巴的兒子是耶設、朔罷、押墩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Azubah died, and Caleb married Ephrath, who bore him Hur.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "阿苏巴死了，迦勒又娶以法她，生了户珥。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "阿蘇巴死了，迦勒又娶以法她，生了戶珥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Hur became the father of Uri, and Uri became the father of Bezalel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "户珥生乌利；乌利生比撒列。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "戶珥生烏利；烏利生比撒列。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he took as wife when he was sixty years old; and she bore him Segub.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 正六十岁娶了基列父亲玛吉的女儿，与她同房；玛吉的女儿生了西割；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙正六十歲娶了基列父親瑪吉的女兒，與她同房；瑪吉的女兒生了西割；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Segub became the father of Jair, who had twenty-three cities in the land of Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西割生睚珥。睚珥在基列地有二十三个城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西割生睚珥。睚珥在基列地有二十三個城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Geshur and Aram took the towns of Jair from them, with Kenath, and its villages, even sixty cities. All these were the sons of Machir the father of Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来基述人和亚兰人夺了睚珥的城邑，并基纳和其乡村，共六十个。这都是基列父亲玛吉之子的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來基述人和亞蘭人奪了睚珥的城邑，並基納和其鄉村，共六十個。這都是基列父親瑪吉之子的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "After Hezron died in Caleb Ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 在迦勒·以法他死后，他的妻亚比雅给他生了亚施户；亚施户是提哥亚的父亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙在迦勒‧以法他死後，他的妻亞比雅給他生了亞施戶；亞施戶是提哥亞的父親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The sons of Jerahmeel the firstborn of Hezron were Ram the firstborn, Bunah, Oren, Ozem, and Ahijah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希斯 的长子耶拉篾生长子兰，又生布拿、阿连、阿鲜、亚希雅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希斯崙的長子耶拉篾生長子蘭，又生布拿、阿連、阿鮮、亞希雅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Jerahmeel had another wife, whose name was Atarah. She was the mother of Onam.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶拉篾又娶一妻名叫亚她拉，是阿南的母亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶拉篾又娶一妻名叫亞她拉，是阿南的母親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The sons of Ram the firstborn of Jerahmeel were Maaz, Jamin, and Eker.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶拉篾长子兰的儿子是玛斯、雅悯、以结。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶拉篾長子蘭的兒子是瑪斯、雅憫、以結。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The sons of Onam were Shammai and Jada. The sons of Shammai: Nadab and Abishur.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "阿南的儿子是沙买、雅大。沙买的儿子是拿答、亚比述。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "阿南的兒子是沙買、雅大。沙買的兒子是拿答、亞比述。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "The name of the wife of Abishur was Abihail; and she bore him Ahban and Molid.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚比述的妻名叫亚比孩，亚比孩给他生了亚办和摩利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞比述的妻名叫亞比孩，亞比孩給他生了亞辦和摩利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The sons of Nadab: Seled and Appaim; but Seled died without children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿答的儿子是西列、亚遍；西列死了没有儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿答的兒子是西列、亞遍；西列死了沒有兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚遍的儿子是以示；以示的儿子是示珊；示珊的儿子是亚来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞遍的兒子是以示；以示的兒子是示珊；示珊的兒子是亞來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "The sons of Jada the brother of Shammai: Jether and Jonathan; and Jether died without children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙买兄弟雅大的儿子是益帖、约拿单；益帖死了没有儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙買兄弟雅大的兒子是益帖、約拿單；益帖死了沒有兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The sons of Jonathan: Peleth and Zaza. These were the sons of Jerahmeel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿单的儿子是比勒、撒萨。这都是耶拉篾的子孙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿單的兒子是比勒、撒薩。這都是耶拉篾的子孫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Now Sheshan had no sons, but only daughters. Sheshan had a servant, an Egyptian, whose name was Jarha.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示珊没有儿子，只有女儿。示珊有一个仆人名叫耶哈，是埃及人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示珊沒有兒子，只有女兒。示珊有一個僕人名叫耶哈，是埃及人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Sheshan gave his daughter to Jarha his servant as wife; and she bore him Attai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示珊将女儿给了仆人耶哈为妻，给他生了亚太。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示珊將女兒給了僕人耶哈為妻，給他生了亞太。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Attai became the father of Nathan, and Nathan became the father of Zabad,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚太生拿单；拿单生撒拔；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞太生拿單；拿單生撒拔；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "and Zabad became the father of Ephlal, and Ephlal became the father of Obed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒拔生以弗拉；以弗拉生俄备得；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒拔生以弗拉；以弗拉生俄備得；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "and Obed became the father of Jehu, and Jehu became the father of Azariah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "俄备得生耶户；耶户生亚撒利雅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "俄備得生耶戶；耶戶生亞撒利雅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "and Azariah became the father of Helez, and Helez became the father of Eleasah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚撒利雅生希利斯；希利斯生以利亚萨；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞撒利雅生希利斯；希利斯生以利亞薩；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "and Eleasah became the father of Sismai, and Sismai became the father of Shallum,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利亚萨生西斯买；西斯买生沙龙；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利亞薩生西斯買；西斯買生沙龍；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "and Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙龙生耶加米雅；耶加米雅生以利沙玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙龍生耶加米雅；耶加米雅生以利沙瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "The sons of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶拉篾兄弟迦勒的长子米沙，是西弗之祖玛利沙的儿子，是希伯 之祖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶拉篾兄弟迦勒的長子米沙，是西弗之祖瑪利沙的兒子，是希伯崙之祖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希伯 的儿子是可拉、他普亚、利肯、示玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希伯崙的兒子是可拉、他普亞、利肯、示瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Shema became the father of Raham, the father of Jorkeam; and Rekem became the father of Shammai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示玛生拉含，是约干之祖。利肯生沙买。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示瑪生拉含，是約干之祖。利肯生沙買。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "The son of Shammai was Maon; and Maon was the father of Beth Zur.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙买的儿子是玛云；玛云是伯·夙之祖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙買的兒子是瑪雲；瑪雲是伯‧夙之祖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran became the father of Gazez.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦勒的妾以法生哈兰、摩撒、迦谢；哈兰生迦卸。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦勒的妾以法生哈蘭、摩撒、迦謝；哈蘭生迦卸。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "The sons of Jahdai: Regem, Jothan, Geshan, Pelet, Ephah, and Shaaph.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅代的儿子是利健、约坦、基珊、毗力、以法、沙亚弗。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅代的兒子是利健、約坦、基珊、毗力、以法、沙亞弗。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "Maacah, Caleb’s concubine, bore Sheber and Tirhanah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦勒的妾玛迦生示别、特哈拿，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦勒的妾瑪迦生示別、特哈拿，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "She bore also Shaaph the father of Madmannah, Sheva the father of Machbena and the father of Gibea; and the daughter of Caleb was Achsah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又生麦玛拿之祖沙亚弗、抹比拿和基比亚之祖示法。迦勒的女儿是押撒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又生麥瑪拿之祖沙亞弗、抹比拿和基比亞之祖示法。迦勒的女兒是押撒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦勒的子孙就是以法她的长子、户珥的儿子，记在下面：基列·耶琳之祖朔巴，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦勒的子孫就是以法她的長子、戶珥的兒子，記在下面：基列‧耶琳之祖朔巴，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Salma the father of Bethlehem, and Hareph the father of Beth Gader.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伯利恒之祖萨玛，伯迦得之祖哈勒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伯利恆之祖薩瑪，伯迦得之祖哈勒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "Shobal the father of Kiriath Jearim had sons: Haroeh, half of the Menuhoth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基列·耶琳之祖朔巴的子孙是哈罗以和一半米努·哈人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:52 米努·哈人就是玛拿哈人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基列‧耶琳之祖朔巴的子孫是哈羅以和一半米努‧哈人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:52 米努‧哈人就是瑪拿哈人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "The families of Kiriath Jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from them came the Zorathites and the Eshtaolites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基列·耶琳的诸族是以帖人、布特人、舒玛人、密来人，又从这些族中生出琐拉人和以实陶人来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基列‧耶琳的諸族是以帖人、布特人、舒瑪人、密來人，又從這些族中生出瑣拉人和以實陶人來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "萨玛的子孙是伯利恒人、尼陀法人、亚他绿·伯·约押人、一半玛拿哈人、琐利人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "薩瑪的子孫是伯利恆人、尼陀法人、亞他綠‧伯‧約押人、一半瑪拿哈人、瑣利人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和住雅比斯众文士家的特拉人、示米押人、苏甲人。这都是基尼人利甲家之祖哈末所生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和住雅比斯眾文士家的特拉人、示米押人、蘇甲人。這都是基尼人利甲家之祖哈末所生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

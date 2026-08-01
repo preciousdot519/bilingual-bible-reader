@@ -1,0 +1,387 @@
+{
+  "bookId": "GAL",
+  "chapter": 2,
+  "bookEnglish": "Galatians",
+  "bookChineseSimplified": "加拉太书",
+  "bookChineseTraditional": "加拉太書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了十四年，我同巴拿巴又上耶路撒冷去，并带着提多同去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了十四年，我同巴拿巴又上耶路撒冷去，並帶着提多同去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是奉启示上去的，把我在外邦人中所传的福音对弟兄们陈说；却是背地里对那有名望之人说的，惟恐我现在，或是从前，徒然奔跑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是奉啟示上去的，把我在外邦人中所傳的福音對弟兄們陳說；卻是背地裏對那有名望之人說的，惟恐我現在，或是從前，徒然奔跑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "But not even Titus, who was with me, being a Greek, was compelled to be circumcised.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但与我同去的提多，虽是希腊人，也没有勉强他受割礼；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但與我同去的提多，雖是希臘人，也沒有勉強他受割禮；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "This was because of the false brothers secretly brought in, who stole in to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有偷着引进来的假弟兄，私下窥探我们在基督耶稣里的自由，要叫我们作奴仆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有偷着引進來的假弟兄，私下窺探我們在基督耶穌裏的自由，要叫我們作奴僕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "to whom we gave no place in the way of subjection, not for an hour, that the truth of the Good News might continue with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们就是一刻的工夫也没有容让顺服他们，为要叫福音的真理仍存在你们中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們就是一刻的工夫也沒有容讓順服他們，為要叫福音的真理仍存在你們中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But from those who were reputed to be important—whatever they were, it makes no difference to me; God doesn’t show partiality to man—they, I say, who were respected imparted nothing to me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于那些有名望的，不论他是何等人，都与我无干。 神不以外貌取人。那些有名望的，并没有加增我什么，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於那些有名望的，不論他是何等人，都與我無干。上帝不以外貌取人。那些有名望的，並沒有加增我甚麼，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "but to the contrary, when they saw that I had been entrusted with the Good News for the uncircumcised, even as Peter with the Good News for the circumcised—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "反倒看见了主托我传福音给那未受割礼的人，正如托彼得传福音给那受割礼的人。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "反倒看見了主託我傳福音給那未受割禮的人，正如託彼得傳福音給那受割禮的人。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "for he who worked through Peter in the apostleship with the circumcised also worked through me with the Gentiles—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那感动彼得、叫他为受割礼之人作使徒的，也感动我，叫我为外邦人作使徒；）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那感動彼得、叫他為受割禮之人作使徒的，也感動我，叫我為外邦人作使徒；）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and when they perceived the grace that was given to me, James and Cephas and John, those who were reputed to be pillars, gave to Barnabas and me the right hand of fellowship, that we should go to the Gentiles, and they to the circumcision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又知道所赐给我的恩典，那称为教会柱石的雅各、矶法、约翰，就向我和巴拿巴用右手行相交之礼，叫我们往外邦人那里去，他们往受割礼的人那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又知道所賜給我的恩典，那稱為教會柱石的雅各、磯法、約翰，就向我和巴拿巴用右手行相交之禮，叫我們往外邦人那裏去，他們往受割禮的人那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They only asked us to remember the poor—which very thing I was also zealous to do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是愿意我们记念穷人；这也是我本来热心去行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是願意我們記念窮人；這也是我本來熱心去行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But when Peter came to Antioch, I resisted him to his face, because he stood condemned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来，矶法到了安提阿；因他有可责之处，我就当面抵挡他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來，磯法到了安提阿；因他有可責之處，我就當面抵擋他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing those who were of the circumcision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从雅各那里来的人未到以先，他和外邦人一同吃饭，及至他们来到，他因怕奉割礼的人，就退去与外邦人隔开了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從雅各那裏來的人未到以先，他和外邦人一同吃飯，及至他們來到，他因怕奉割禮的人，就退去與外邦人隔開了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "And the rest of the Jews joined him in his hypocrisy, so that even Barnabas was carried away with their hypocrisy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的犹太人也都随着他装假，甚至连巴拿巴也随伙装假。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的猶太人也都隨着他裝假，甚至連巴拿巴也隨夥裝假。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But when I saw that they didn’t walk uprightly according to the truth of the Good News, I said to Peter before them all, “If you, being a Jew, live as the Gentiles do, and not as the Jews do, why do you compel the Gentiles to live as the Jews do?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我一看见他们行的不正，与福音的真理不合，就在众人面前对矶法说：「你既是犹太人，若随外邦人行事，不随犹太人行事，怎么还勉强外邦人随犹太人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我一看見他們行的不正，與福音的真理不合，就在眾人面前對磯法說：「你既是猶太人，若隨外邦人行事，不隨猶太人行事，怎麼還勉強外邦人隨猶太人呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“We, being Jews by nature and not Gentile sinners,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们这生来的犹太人，不是外邦的罪人；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們這生來的猶太人，不是外邦的罪人；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "yet knowing that a man is not justified by the works of the law but through faith in Jesus Christ, even we believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law, because no flesh will be justified by the works of the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既知道人称义不是因行律法，乃是因信耶稣基督，连我们也信了基督耶稣，使我们因信基督称义，不因行律法称义；因为凡有血气的，没有一人因行律法称义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既知道人稱義不是因行律法，乃是因信耶穌基督，連我們也信了基督耶穌，使我們因信基督稱義，不因行律法稱義；因為凡有血氣的，沒有一人因行律法稱義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But if while we sought to be justified in Christ, we ourselves also were found sinners, is Christ a servant of sin? Certainly not!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若求在基督里称义，却仍旧是罪人，难道基督是叫人犯罪的吗？断乎不是！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若求在基督裏稱義，卻仍舊是罪人，難道基督是叫人犯罪的嗎？斷乎不是！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For if I build up again those things which I destroyed, I prove myself a law-breaker.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我素来所拆毁的，若重新建造，这就证明自己是犯罪的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我素來所拆毀的，若重新建造，這就證明自己是犯罪的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "For I through the law died to the law, that I might live to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我因律法，就向律法死了，叫我可以向 神活着。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我因律法，就向律法死了，叫我可以向上帝活着。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我已经与基督同钉十字架，现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信 神的儿子而活；他是爱我，为我舍己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我已經與基督同釘十字架，現在活着的不再是我，乃是基督在我裏面活着；並且我如今在肉身活着，是因信上帝的兒子而活；他是愛我，為我捨己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不废掉 神的恩；义若是借着律法得的，基督就是徒然死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不廢掉上帝的恩；義若是藉着律法得的，基督就是徒然死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

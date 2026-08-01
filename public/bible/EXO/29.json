@@ -1,0 +1,846 @@
+{
+  "bookId": "EXO",
+  "chapter": 29,
+  "bookEnglish": "Exodus",
+  "bookChineseSimplified": "出埃及记",
+  "bookChineseTraditional": "出埃及記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“This is the thing that you shall do to them to make them holy, to minister to me in the priest’s office: take one young bull and two rams without defect,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你使亚伦和他儿子成圣，给我供祭司的职分，要如此行：取一只公牛犊，两只无残疾的公绵羊，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你使亞倫和他兒子成聖，給我供祭司的職分，要如此行：取一隻公牛犢，兩隻無殘疾的公綿羊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. You shall make them of fine wheat flour.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无酵饼和调油的无酵饼，与抹油的无酵薄饼；这都要用细麦面做成。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無酵餅和調油的無酵餅，與抹油的無酵薄餅；這都要用細麥麵做成。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall put them into one basket, and bring them in the basket, with the bull and the two rams.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这饼要装在一个筐子里，连筐子带来，又把公牛和两只公绵羊牵来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這餅要裝在一個筐子裏，連筐子帶來，又把公牛和兩隻公綿羊牽來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You shall bring Aaron and his sons to the door of the Tent of Meeting, and shall wash them with water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要使亚伦和他儿子到会幕门口来，用水洗身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要使亞倫和他兒子到會幕門口來，用水洗身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You shall take the garments, and put on Aaron the tunic, the robe of the ephod, the ephod, and the breastplate, and clothe him with the skillfully woven band of the ephod.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要给亚伦穿上内袍和以弗得的外袍，并以弗得，又带上胸牌，束上以弗得巧工织的带子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要給亞倫穿上內袍和以弗得的外袍，並以弗得，又帶上胸牌，束上以弗得巧工織的帶子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You shall set the turban on his head, and put the holy crown on the turban.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把冠冕戴在他头上，将圣冠加在冠冕上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把冠冕戴在他頭上，將聖冠加在冠冕上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then you shall take the anointing oil, and pour it on his head, and anoint him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就把膏油倒在他头上膏他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就把膏油倒在他頭上膏他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall bring his sons, and put tunics on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要叫他的儿子来，给他们穿上内袍。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要叫他的兒子來，給他們穿上內袍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You shall clothe them with belts, Aaron and his sons, and bind headbands on them. They shall have the priesthood by a perpetual statute. You shall consecrate Aaron and his sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给亚伦和他儿子束上腰带，包上裹头巾，他们就凭永远的定例得了祭司的职任。又要将亚伦和他儿子分别为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給亞倫和他兒子束上腰帶，包上裹頭巾，他們就憑永遠的定例得了祭司的職任。又要將亞倫和他兒子分別為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“You shall bring the bull before the Tent of Meeting; and Aaron and his sons shall lay their hands on the head of the bull.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要把公牛牵到会幕前，亚伦和他儿子要按手在公牛的头上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要把公牛牽到會幕前，亞倫和他兒子要按手在公牛的頭上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall kill the bull before the LORD at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要在耶和华面前，在会幕门口，宰这公牛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要在耶和華面前，在會幕門口，宰這公牛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You shall take of the blood of the bull, and put it on the horns of the altar with your finger; and you shall pour out all the blood at the base of the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要取些公牛的血，用指头抹在坛的四角上，把血都倒在坛脚那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要取些公牛的血，用指頭抹在壇的四角上，把血都倒在壇腳那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall take all the fat that covers the innards, the cover of the liver, the two kidneys, and the fat that is on them, and burn them on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把一切盖脏的脂油与肝上的网子，并两个腰子和腰子上的脂油，都烧在坛上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把一切蓋臟的脂油與肝上的網子，並兩個腰子和腰子上的脂油，都燒在壇上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But the meat of the bull, and its skin, and its dung, you shall burn with fire outside of the camp. It is a sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是公牛的皮、肉、粪都要用火烧在营外。这牛是赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是公牛的皮、肉、糞都要用火燒在營外。這牛是贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“You shall also take the one ram, and Aaron and his sons shall lay their hands on the head of the ram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要牵一只公绵羊来，亚伦和他儿子要按手在这羊的头上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要牽一隻公綿羊來，亞倫和他兒子要按手在這羊的頭上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "You shall kill the ram, and you shall take its blood, and sprinkle it around on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要宰这羊，把血洒在坛的周围。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要宰這羊，把血灑在壇的周圍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "You shall cut the ram into its pieces, and wash its innards, and its legs, and put them with its pieces, and with its head.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把羊切成块子，洗净五脏和腿，连块子带头，都放在一处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把羊切成塊子，洗淨五臟和腿，連塊子帶頭，都放在一處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You shall burn the whole ram on the altar: it is a burnt offering to the LORD; it is a pleasant aroma, an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把全羊烧在坛上，是给耶和华献的燔祭，是献给耶和华为馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把全羊燒在壇上，是給耶和華獻的燔祭，是獻給耶和華為馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“You shall take the other ram, and Aaron and his sons shall lay their hands on the head of the ram.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要将那一只公绵羊牵来，亚伦和他儿子要按手在羊的头上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要將那一隻公綿羊牽來，亞倫和他兒子要按手在羊的頭上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Then you shall kill the ram, and take some of its blood, and put it on the tip of the right ear of Aaron, and on the tip of the right ear of his sons, and on the thumb of their right hand, and on the big toe of their right foot; and sprinkle the blood around on the altar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要宰这羊，取点血抹在亚伦的右耳垂上和他儿子的右耳垂上，又抹在他们右手的大拇指上和右脚的大拇指上；并要把血洒在坛的四围。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要宰這羊，取點血抹在亞倫的右耳垂上和他兒子的右耳垂上，又抹在他們右手的大拇指上和右腳的大拇指上；並要把血灑在壇的四圍。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You shall take of the blood that is on the altar, and of the anointing oil, and sprinkle it on Aaron, and on his garments, and on his sons, and on the garments of his sons with him: and he shall be made holy, and his garments, and his sons, and his sons’ garments with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要取点膏油和坛上的血，弹在亚伦和他的衣服上，并他儿子和他儿子的衣服上，他们和他们的衣服就一同成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要取點膏油和壇上的血，彈在亞倫和他的衣服上，並他兒子和他兒子的衣服上，他們和他們的衣服就一同成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Also you shall take some of the ram’s fat, the fat tail, the fat that covers the innards, the cover of the liver, the two kidneys, the fat that is on them, and the right thigh (for it is a ram of consecration),",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要取这羊的脂油和肥尾巴，并盖脏的脂油与肝上的网子，两个腰子和腰子上的脂油并右腿（这是承接圣职所献的羊）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要取這羊的脂油和肥尾巴，並蓋臟的脂油與肝上的網子，兩個腰子和腰子上的脂油並右腿（這是承接聖職所獻的羊）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and one loaf of bread, one cake of oiled bread, and one wafer out of the basket of unleavened bread that is before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再从耶和华面前装无酵饼的筐子中取一个饼，一个调油的饼和一个薄饼，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再從耶和華面前裝無酵餅的筐子中取一個餅，一個調油的餅和一個薄餅，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You shall put all of this in Aaron’s hands, and in his sons’ hands, and shall wave them for a wave offering before the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "都放在亚伦的手上和他儿子的手上，作为摇祭，在耶和华面前摇一摇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "都放在亞倫的手上和他兒子的手上，作為搖祭，在耶和華面前搖一搖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You shall take them from their hands, and burn them on the altar on the burnt offering, for a pleasant aroma before the LORD: it is an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要从他们手中接过来，烧在耶和华面前坛上的燔祭上，是献给耶和华为馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要從他們手中接過來，燒在耶和華面前壇上的燔祭上，是獻給耶和華為馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“You shall take the breast of Aaron’s ram of consecration, and wave it for a wave offering before the LORD. It shall be your portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要取亚伦承接圣职所献公羊的胸，作为摇祭，在耶和华面前摇一摇，这就可以作你的分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要取亞倫承接聖職所獻公羊的胸，作為搖祭，在耶和華面前搖一搖，這就可以作你的分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "You shall sanctify the breast of the wave offering and the thigh of the wave offering, which is waved, and which is raised up, of the ram of consecration, even of that which is for Aaron, and of that which is for his sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那摇祭的胸和举祭的腿，就是承接圣职所摇的、所举的，是归亚伦和他儿子的。这些你都要成为圣，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那搖祭的胸和舉祭的腿，就是承接聖職所搖的、所舉的，是歸亞倫和他兒子的。這些你都要成為聖，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "It shall be for Aaron and his sons as their portion forever from the children of Israel; for it is a wave offering. It shall be a wave offering from the children of Israel of the sacrifices of their peace offerings, even their wave offering to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作亚伦和他子孙从以色列人中永远所得的分，因为是举祭。这要从以色列人的平安祭中，作为献给耶和华的举祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作亞倫和他子孫從以色列人中永遠所得的分，因為是舉祭。這要從以色列人的平安祭中，作為獻給耶和華的舉祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“The holy garments of Aaron shall be for his sons after him, to be anointed in them, and to be consecrated in them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「亚伦的圣衣要留给他的子孙，可以穿着受膏，又穿着承接圣职。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「亞倫的聖衣要留給他的子孫，可以穿着受膏，又穿着承接聖職。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Seven days shall the son who is priest in his place put them on, when he comes into the Tent of Meeting to minister in the holy place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的子孙接续他当祭司的，每逢进会幕在圣所供职的时候，要穿七天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的子孫接續他當祭司的，每逢進會幕在聖所供職的時候，要穿七天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“You shall take the ram of consecration and boil its meat in a holy place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要将承接圣职所献公羊的肉煮在圣处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要將承接聖職所獻公羊的肉煮在聖處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Aaron and his sons shall eat the meat of the ram, and the bread that is in the basket, at the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦和他儿子要在会幕门口吃这羊的肉和筐内的饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫和他兒子要在會幕門口吃這羊的肉和筐內的餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They shall eat those things with which atonement was made, to consecrate and sanctify them; but a stranger shall not eat of it, because they are holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们吃那些赎罪之物，好承接圣职，使他们成圣；只是外人不可吃，因为这是圣物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們吃那些贖罪之物，好承接聖職，使他們成聖；只是外人不可吃，因為這是聖物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "If anything of the meat of the consecration, or of the bread, remains to the morning, then you shall burn the remainder with fire. It shall not be eaten, because it is holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那承接圣职所献的肉或饼，若有一点留到早晨，就要用火烧了，不可吃这物，因为是圣物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那承接聖職所獻的肉或餅，若有一點留到早晨，就要用火燒了，不可吃這物，因為是聖物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“You shall do so to Aaron and to his sons, according to all that I have commanded you. You shall consecrate them seven days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要这样照我一切所吩咐的，向亚伦和他儿子行承接圣职的礼七天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要這樣照我一切所吩咐的，向亞倫和他兒子行承接聖職的禮七天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Every day you shall offer the bull of sin offering for atonement. You shall cleanse the altar when you make atonement for it. You shall anoint it, to sanctify it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每天要献公牛一只为赎罪祭。你洁净坛的时候，坛就洁净了；且要用膏抹坛，使坛成圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每天要獻公牛一隻為贖罪祭。你潔淨壇的時候，壇就潔淨了；且要用膏抹壇，使壇成聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Seven days you shall make atonement for the altar, and sanctify it; and the altar shall be most holy. Whatever touches the altar shall be holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要洁净坛七天，使坛成圣，坛就成为至圣。凡挨着坛的都成为圣。」 （民28·1—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要潔淨壇七天，使壇成聖，壇就成為至聖。凡挨着壇的都成為聖。」 （民28‧1－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "“Now this is that which you shall offer on the altar: two lambs a year old day by day continually.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你每天所要献在坛上的就是两只一岁的羊羔；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你每天所要獻在壇上的就是兩隻一歲的羊羔；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "The one lamb you shall offer in the morning; and the other lamb you shall offer at evening;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "早晨要献这一只，黄昏的时候要献那一只。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "早晨要獻這一隻，黃昏的時候要獻那一隻。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "and with the one lamb a tenth part of an ephah of fine flour mixed with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink offering.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "29:40 1 ephah is about 22 liters or about 2/3 of a bushel"
+          },
+          {
+            "id": "f2",
+            "text": "29:40 A hin is about 6.5 liters or 1.7 gallons, so a fourth of a hin is about 1.6 liters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "和这一只羊羔同献的，要用细面伊法十分之一与捣成的油一欣四分之一调和，又用酒一欣四分之一作为奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "和這一隻羊羔同獻的，要用細麵伊法十分之一與搗成的油一欣四分之一調和，又用酒一欣四分之一作為奠祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "The other lamb you shall offer at evening, and shall do to it according to the meal offering of the morning and according to its drink offering, for a pleasant aroma, an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那一只羊羔要在黄昏的时候献上，照着早晨的素祭和奠祭的礼办理，作为献给耶和华馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那一隻羊羔要在黃昏的時候獻上，照着早晨的素祭和奠祭的禮辦理，作為獻給耶和華馨香的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "It shall be a continual burnt offering throughout your generations at the door of the Tent of Meeting before the LORD, where I will meet with you, to speak there to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这要在耶和华面前、会幕门口，作你们世世代代常献的燔祭。我要在那里与你们相会，和你们说话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這要在耶和華面前、會幕門口，作你們世世代代常獻的燔祭。我要在那裏與你們相會，和你們說話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "There I will meet with the children of Israel; and the place shall be sanctified by my glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要在那里与以色列人相会，会幕就要因我的荣耀成为圣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要在那裏與以色列人相會，會幕就要因我的榮耀成為聖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "I will sanctify the Tent of Meeting and the altar. I will also sanctify Aaron and his sons to minister to me in the priest’s office.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要使会幕和坛成圣，也要使亚伦和他的儿子成圣，给我供祭司的职分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要使會幕和壇成聖，也要使亞倫和他的兒子成聖，給我供祭司的職分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "I will dwell among the children of Israel, and will be their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要住在以色列人中间，作他们的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要住在以色列人中間，作他們的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "They shall know that I am the LORD their God, who brought them out of the land of Egypt, that I might dwell among them: I am the LORD their God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必知道我是耶和华—他们的 神，是将他们从埃及地领出来的，为要住在他们中间。我是耶和华—他们的 神。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必知道我是耶和華－他們的上帝，是將他們從埃及地領出來的，為要住在他們中間。我是耶和華－他們的上帝。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

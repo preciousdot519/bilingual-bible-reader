@@ -1,0 +1,491 @@
+{
+  "bookId": "ISA",
+  "chapter": 66,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD says: “Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 天是我的座位； 地是我的脚凳。 你们要为我造何等的殿宇？ 哪里是我安息的地方呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 天是我的座位； 地是我的腳凳。 你們要為我造何等的殿宇？ 哪裏是我安息的地方呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For my hand has made all these things, and so all these things came to be,” says the LORD: “but I will look to this man, even to he who is poor and of a contrite spirit, and who trembles at my word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：这一切都是我手所造的， 所以就都有了。 但我所看顾的， 就是虚心痛悔、 因我话而战兢的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:2 原文是贫穷"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：這一切都是我手所造的， 所以就都有了。 但我所看顧的， 就是虛心痛悔、 因我話而戰兢的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:2 原文是貧窮"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He who kills an ox is as he who kills a man; he who sacrifices a lamb, as he who breaks a dog’s neck; he who offers an offering, as he who offers pig’s blood; he who burns frankincense, as he who blesses an idol. Yes, they have chosen their own ways, and their soul delights in their abominations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假冒为善的宰牛，好像杀人， 献羊羔，好像打折狗项， 献供物，好像献猪血， 烧乳香，好像称颂偶像。 这等人拣选自己的道路， 心里喜悦行可憎恶的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假冒為善的宰牛，好像殺人， 獻羊羔，好像打折狗項， 獻供物，好像獻豬血， 燒乳香，好像稱頌偶像。 這等人揀選自己的道路， 心裏喜悅行可憎惡的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I also will choose their delusions, and will bring their fears on them, because when I called, no one answered; when I spoke, they didn’t listen, but they did that which was evil in my eyes, and chose that in which I didn’t delight.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也必拣选迷惑他们的事， 使他们所惧怕的临到他们； 因为我呼唤，无人答应； 我说话，他们不听从； 反倒行我眼中看为恶的， 拣选我所不喜悦的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也必揀選迷惑他們的事， 使他們所懼怕的臨到他們； 因為我呼喚，無人答應； 我說話，他們不聽從； 反倒行我眼中看為惡的， 揀選我所不喜悅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Hear the LORD’s word, you who tremble at his word: “Your brothers who hate you, who cast you out for my name’s sake, have said, ‘Let the LORD be glorified, that we may see your joy;’ but it is those who shall be disappointed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们因耶和华言语战兢的人当听他的话： 你们的弟兄—就是恨恶你们， 因我名赶出你们的，曾说： 愿耶和华得荣耀， 使我们得见你们的喜乐； 但蒙羞的究竟是他们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們因耶和華言語戰兢的人當聽他的話： 你們的弟兄－就是恨惡你們， 因我名趕出你們的，曾說： 願耶和華得榮耀， 使我們得見你們的喜樂； 但蒙羞的究竟是他們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "A voice of tumult from the city, a voice from the temple, a voice of the LORD that repays his enemies what they deserve.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有喧哗的声音出自城中！ 有声音出于殿中！ 是耶和华向仇敌施行报应的声音！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有喧嘩的聲音出自城中！ 有聲音出於殿中！ 是耶和華向仇敵施行報應的聲音！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Before she travailed, she gave birth. Before her pain came, she delivered a son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安未曾劬劳就生产， 未觉疼痛就生出男孩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安未曾劬勞就生產， 未覺疼痛就生出男孩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Who has heard of such a thing? Who has seen such things? Shall a land be born in one day? Shall a nation be born at once? For as soon as Zion travailed, she gave birth to her children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "国岂能一日而生？ 民岂能一时而产？ 因为锡安一劬劳便生下儿女， 这样的事谁曾听见？ 谁曾看见呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "國豈能一日而生？ 民豈能一時而產？ 因為錫安一劬勞便生下兒女， 這樣的事誰曾聽見？ 誰曾看見呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Shall I bring to the birth, and not cause to be delivered?” says the LORD. “Shall I who cause to give birth shut the womb?” says your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我既使她临产， 岂不使她生产呢？ 你的 神说：我既使她生产， 岂能使她闭胎不生呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我既使她臨產， 豈不使她生產呢？ 你的上帝說：我既使她生產， 豈能使她閉胎不生呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Rejoice with Jerusalem, and be glad for her, all you who love her. Rejoice for joy with her, all you who mourn over her;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们爱慕耶路撒冷的 都要与她一同欢喜快乐； 你们为她悲哀的 都要与她一同乐上加乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們愛慕耶路撒冷的 都要與她一同歡喜快樂； 你們為她悲哀的 都要與她一同樂上加樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "that you may nurse and be satisfied at the comforting breasts; that you may drink deeply, and be delighted with the abundance of her glory.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使你们在她安慰的怀中吃奶得饱， 使他们得她丰盛的荣耀， 犹如挤奶，满心喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使你們在她安慰的懷中吃奶得飽， 使他們得她豐盛的榮耀， 猶如擠奶，滿心喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For the LORD says, “Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream, and you will nurse. You will be carried on her side, and will be dandled on her knees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说： 我要使平安延及她，好像江河， 使列国的荣耀延及她，如同涨溢的河。 你们要从中享受； 你们必蒙抱在肋旁，摇弄在膝上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:12 原文是咂"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說： 我要使平安延及她，好像江河， 使列國的榮耀延及她，如同漲溢的河。 你們要從中享受； 你們必蒙抱在肋旁，搖弄在膝上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:12 原文是咂"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "As one whom his mother comforts, so I will comfort you. You will be comforted in Jerusalem.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "母亲怎样安慰儿子，我就照样安慰你们； 你们也必因耶路撒冷得安慰。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:13 或译：在"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "母親怎樣安慰兒子，我就照樣安慰你們； 你們也必因耶路撒冷得安慰。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:13 或譯：在"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You will see it, and your heart shall rejoice, and your bones will flourish like the tender grass. The LORD’s hand will be known among his servants; and he will have indignation against his enemies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们看见，就心中快乐； 你们的骨头必得滋润像嫩草一样； 而且耶和华的手向他仆人所行的必被人知道； 他也要向仇敌发恼恨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們看見，就心中快樂； 你們的骨頭必得滋潤像嫩草一樣； 而且耶和華的手向他僕人所行的必被人知道； 他也要向仇敵發惱恨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For, behold, the LORD will come with fire, and his chariots will be like the whirlwind; to give his anger with fierceness, and his rebuke with flames of fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，耶和华必在火中降临； 他的车辇像旋风， 以烈怒施行报应， 以火焰施行责罚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，耶和華必在火中降臨； 他的車輦像旋風， 以烈怒施行報應， 以火焰施行責罰；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For the LORD will execute judgment by fire and by his sword on all flesh; and those slain by the LORD will be many.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为耶和华在一切有血气的人身上， 必以火与刀施行审判； 被耶和华所杀的必多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為耶和華在一切有血氣的人身上， 必以火與刀施行審判； 被耶和華所殺的必多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Those who sanctify themselves and purify themselves to go to the gardens, following one in the middle, eating pig’s meat, abominable things, and the mouse, they shall come to an end together,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那些分别为圣、洁净自己的，进入园内跟在其中一个人的后头，吃猪肉和仓鼠并可憎之物，他们必一同灭绝；这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那些分別為聖、潔淨自己的，進入園內跟在其中一個人的後頭，吃豬肉和倉鼠並可憎之物，他們必一同滅絕；這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“For I know their works and their thoughts. The time comes that I will gather all nations and languages, and they will come, and will see my glory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「我知道他们的行为和他们的意念。时候将到，我必将万民万族聚来，看见我的荣耀，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:18 族：原文是舌"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「我知道他們的行為和他們的意念。時候將到，我必將萬民萬族聚來，看見我的榮耀，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:18 族：原文是舌"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“I will set a sign among them, and I will send those who escape of them to the nations, to Tarshish, Pul, and Lud, who draw the bow, to Tubal and Javan, to far-away islands, who have not heard my fame, nor have seen my glory; and they shall declare my glory among the nations.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要显神迹在他们中间。逃脱的，我要差到列国去，就是到他施、普勒、拉弓的路德和土巴、雅完，并素来没有听见我名声、没有看见我荣耀辽远的海岛；他们必将我的荣耀传扬在列国中。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:19 或译：记号"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要顯神蹟在他們中間。逃脫的，我要差到列國去，就是到他施、普勒、拉弓的路德和土巴、雅完，並素來沒有聽見我名聲、沒有看見我榮耀遼遠的海島；他們必將我的榮耀傳揚在列國中。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 66:19 或譯：記號"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They shall bring all your brothers out of all the nations for an offering to the LORD, on horses, in chariots, in litters, on mules, and on camels, to my holy mountain Jerusalem, says the LORD, as the children of Israel bring their offering in a clean vessel into the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必将你们的弟兄从列国中送回，使他们或骑马，或坐车，坐轿，骑骡子，骑独峰驼，到我的圣山耶路撒冷，作为供物献给耶和华，好像以色列人用洁净的器皿盛供物奉到耶和华的殿中；这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必將你們的弟兄從列國中送回，使他們或騎馬，或坐車，坐轎，騎騾子，騎獨峰駝，到我的聖山耶路撒冷，作為供物獻給耶和華，好像以色列人用潔淨的器皿盛供物奉到耶和華的殿中；這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Of them I will also select priests and Levites,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我也必从他们中间取人为祭司，为利未人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我也必從他們中間取人為祭司，為利未人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“For as the new heavens and the new earth, which I will make, shall remain before me,” says the LORD, “so your offspring and your name shall remain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我所要造的新天新地， 怎样在我面前长存； 你们的后裔和你们的名字也必照样长存。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我所要造的新天新地， 怎樣在我面前長存； 你們的後裔和你們的名字也必照樣長存。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "It shall happen that from one new moon to another, and from one Sabbath to another, all flesh will come to worship before me,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "每逢月朔、安息日， 凡有血气的必来在我面前下拜。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "每逢月朔、安息日， 凡有血氣的必來在我面前下拜。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必出去观看那些违背我人的尸首； 因为他们的虫是不死的； 他们的火是不灭的； 凡有血气的都必憎恶他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必出去觀看那些違背我人的屍首； 因為他們的蟲是不死的； 他們的火是不滅的； 凡有血氣的都必憎惡他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

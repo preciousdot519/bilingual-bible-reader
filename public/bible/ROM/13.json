@@ -1,0 +1,277 @@
+{
+  "bookId": "ROM",
+  "chapter": 13,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在上有权柄的，人人当顺服他，因为没有权柄不是出于 神的。凡掌权的都是 神所命的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在上有權柄的，人人當順服他，因為沒有權柄不是出於上帝的。凡掌權的都是上帝所命的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，抗拒掌权的就是抗拒 神的命；抗拒的必自取刑罚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，抗拒掌權的就是抗拒上帝的命；抗拒的必自取刑罰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "作官的原不是叫行善的惧怕，乃是叫作恶的惧怕。你愿意不惧怕掌权的吗？你只要行善，就可得他的称赞；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "作官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他是 神的用人，是与你有益的。你若作恶，却当惧怕，因为他不是空空地佩剑；他是 神的用人，是伸冤的，刑罚那作恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他是上帝的用人，是與你有益的。你若作惡，卻當懼怕，因為他不是空空地佩劍；他是上帝的用人，是伸冤的，刑罰那作惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，你们必须顺服，不但是因为刑罚，也是因为良心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，你們必須順服，不但是因為刑罰，也是因為良心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For this reason you also pay taxes, for they are servants of God’s service, continually doing this very thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们纳粮，也为这个缘故；因他们是 神的差役，常常特管这事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們納糧，也為這個緣故；因他們是上帝的差役，常常特管這事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honor, then honor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡人所当得的，就给他。当得粮的，给他纳粮；当得税的，给他上税；当惧怕的，惧怕他；当恭敬的，恭敬他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡人所當得的，就給他。當得糧的，給他納糧；當得稅的，給他上稅；當懼怕的，懼怕他；當恭敬的，恭敬他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡事都不可亏欠人，惟有彼此相爱要常以为亏欠，因为爱人的就完全了律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡事都不可虧欠人，惟有彼此相愛要常以為虧欠，因為愛人的就完全了律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "13:9 TR adds “You shall not give false testimony,”"
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:9 Exodus 20:13-15,17; Deuteronomy 5:17-19,21",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "13:9 Leviticus 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "像那不可奸淫，不可杀人，不可偷盗，不可贪婪，或有别的诫命，都包在爱人如己这一句话之内了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "像那不可姦淫，不可殺人，不可偷盜，不可貪婪，或有別的誡命，都包在愛人如己這一句話之內了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱是不加害与人的，所以爱就完全了律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛是不加害與人的，所以愛就完全了律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Do this, knowing the time, that it is already time for you to awaken out of sleep, for salvation is now nearer to us than when we first believed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再者，你们晓得，现今就是该趁早睡醒的时候；因为我们得救，现今比初信的时候更近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，你們曉得，現今就是該趁早睡醒的時候；因為我們得救，現今比初信的時候更近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The night is far gone, and the day is near. Let’s therefore throw off the deeds of darkness, and let’s put on the armor of light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黑夜已深，白昼将近。我们就当脱去暗昧的行为，带上光明的兵器。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黑夜已深，白晝將近。我們就當脫去暗昧的行為，帶上光明的兵器。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Let’s walk properly, as in the day; not in reveling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行事为人要端正，好像行在白昼。不可荒宴醉酒；不可好色邪荡；不可争竞嫉妒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行事為人要端正，好像行在白晝。不可荒宴醉酒；不可好色邪蕩；不可爭競嫉妒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "总要披戴主耶稣基督，不要为肉体安排，去放纵私欲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

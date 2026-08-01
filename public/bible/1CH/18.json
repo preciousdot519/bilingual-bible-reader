@@ -1,0 +1,335 @@
+{
+  "bookId": "1CH",
+  "chapter": 18,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After this, David defeated the Philistines and subdued them, and took Gath and its towns out of the hand of the Philistines.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此后，大卫攻打非利士人，把他们治服，从他们手下夺取了迦特和属迦特的村庄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此後，大衛攻打非利士人，把他們治服，從他們手下奪取了迦特和屬迦特的村莊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He defeated Moab; and the Moabites became servants to David and brought tribute.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又攻打摩押，摩押人就归服大卫，给他进贡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又攻打摩押，摩押人就歸服大衛，給他進貢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "David defeated Hadadezer king of Zobah, toward Hamath, as he went to establish his dominion by the river Euphrates.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "琐巴王哈大利谢往 幼发拉底河去，要坚定自己的国权，大卫就攻打他，直到哈马，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:3 在撒母耳下八章三节是哈大底谢"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑣巴王哈大利謝往幼發拉底河去，要堅定自己的國權，大衛就攻打他，直到哈馬，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:3 在撒母耳下八章三節是哈大底謝"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "David took from him one thousand chariots, seven thousand horsemen, and twenty thousand footmen; and David hamstrung all the chariot horses, but reserved of them enough for one hundred chariots.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夺了他的战车一千，马兵七千，步兵二万，将拉战车的马砍断蹄筋，但留下一百辆车的马。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奪了他的戰車一千，馬兵七千，步兵二萬，將拉戰車的馬砍斷蹄筋，但留下一百輛車的馬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When the Syrians of Damascus came to help Hadadezer king of Zobah, David struck twenty-two thousand men of the Syrians.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大马士革的亚兰人来帮助琐巴王哈大利谢，大卫就杀了亚兰人二万二千。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大馬士革的亞蘭人來幫助瑣巴王哈大利謝，大衛就殺了亞蘭人二萬二千。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David and brought tribute. The LORD gave victory to David wherever he went.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是大卫在大马士革的亚兰地设立防营，亚兰人就归服他，给他进贡。大卫无论往哪里去，耶和华都使他得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是大衛在大馬士革的亞蘭地設立防營，亞蘭人就歸服他，給他進貢。大衛無論往哪裏去，耶和華都使他得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他夺了哈大利谢臣仆所拿的金盾牌带到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他奪了哈大利謝臣僕所拿的金盾牌帶到耶路撒冷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "From Tibhath and from Cun, cities of Hadadezer, David took very much bronze, with which Solomon made the bronze sea, the pillars, and the vessels of bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫又从属哈大利谢的提巴和均二城中夺取了许多的铜。后来所罗门用此制造铜海、铜柱，和一切的铜器。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:8 或译：比他"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛又從屬哈大利謝的提巴和均二城中奪取了許多的銅。後來所羅門用此製造銅海、銅柱，和一切的銅器。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 18:8 或譯：比他"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When Tou king of Hamath heard that David had struck all the army of Hadadezer king of Zobah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈马王陀乌听见大卫杀败琐巴王哈大利谢的全军，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈馬王陀烏聽見大衛殺敗瑣巴王哈大利謝的全軍，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "he sent Hadoram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him (for Hadadezer had wars with Tou); and he had with him all kinds of vessels of gold and silver and bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就打发他儿子哈多兰去见大卫王，问他的安，为他祝福，因为他杀败了哈大利谢（原来陀乌与哈大利谢常常争战）。哈多兰带了金银铜的各样器皿来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就打發他兒子哈多蘭去見大衛王，問他的安，為他祝福，因為他殺敗了哈大利謝（原來陀烏與哈大利謝常常爭戰）。哈多蘭帶了金銀銅的各樣器皿來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "King David also dedicated these to the LORD, with the silver and the gold that he carried away from all the nations: from Edom, from Moab, from the children of Ammon, from the Philistines, and from Amalek.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫王将这些器皿，并从各国夺来的金银，就是从以东、摩押、亚扪、非利士、亚玛力人所夺来的，都分别为圣献给耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛王將這些器皿，並從各國奪來的金銀，就是從以東、摩押、亞捫、非利士、亞瑪力人所奪來的，都分別為聖獻給耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Moreover Abishai the son of Zeruiah struck eighteen thousand of the Edomites in the Valley of Salt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洗鲁雅的儿子亚比筛在盐谷击杀了以东一万八千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洗魯雅的兒子亞比篩在鹽谷擊殺了以東一萬八千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He put garrisons in Edom; and all the Edomites became servants to David. The LORD gave victory to David wherever he went.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫在以东地设立防营，以东人就都归服他。大卫无论往哪里去，耶和华都使他得胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛在以東地設立防營，以東人就都歸服他。大衛無論往哪裏去，耶和華都使他得勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "David reigned over all Israel; and he executed justice and righteousness for all his people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫作以色列众人的王，又向众民秉公行义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛作以色列眾人的王，又向眾民秉公行義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洗鲁雅的儿子约押作元帅；亚希律的儿子约沙法作史官；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洗魯雅的兒子約押作元帥；亞希律的兒子約沙法作史官；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Zadok the son of Ahitub and Abimelech the son of Abiathar were priests; Shavsha was scribe;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希突的儿子撒督和亚比亚他的儿子亚希米勒作祭司长；沙威沙作书记；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希突的兒子撒督和亞比亞他的兒子亞希米勒作祭司長；沙威沙作書記；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief officials serving the king.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶何耶大的儿子比拿雅统辖基利提人和比利提人。大卫的众子都在王的左右作领袖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶何耶大的兒子比拿雅統轄基利提人和比利提人。大衛的眾子都在王的左右作領袖。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

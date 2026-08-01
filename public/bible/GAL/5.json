@@ -1,0 +1,498 @@
+{
+  "bookId": "GAL",
+  "chapter": 5,
+  "bookEnglish": "Galatians",
+  "bookChineseSimplified": "加拉太书",
+  "bookChineseTraditional": "加拉太書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基督释放了我们，叫我们得以自由。所以要站立得稳，不要再被奴仆的轭挟制。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基督釋放了我們，叫我們得以自由。所以要站立得穩，不要再被奴僕的軛挾制。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—保罗告诉你们，若受割礼，基督就与你们无益了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－保羅告訴你們，若受割禮，基督就與你們無益了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Yes, I testify again to every man who receives circumcision that he is a debtor to do the whole law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我再指着凡受割礼的人确实地说，他是欠着行全律法的债。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我再指着凡受割禮的人確實地說，他是欠着行全律法的債。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You are alienated from Christ, you who desire to be justified by the law. You have fallen away from grace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这要靠律法称义的，是与基督隔绝，从恩典中坠落了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這要靠律法稱義的，是與基督隔絕，從恩典中墜落了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "For we through the Spirit, by faith wait for the hope of righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们靠着圣灵，凭着信心，等候所盼望的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們靠着聖靈，憑着信心，等候所盼望的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "For in Christ Jesus neither circumcision nor uncircumcision amounts to anything, but faith working through love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "原来在基督耶稣里，受割礼不受割礼全无功效，惟独使人生发仁爱的信心才有功效。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來在基督耶穌裏，受割禮不受割禮全無功效，惟獨使人生發仁愛的信心才有功效。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You were running well! Who interfered with you that you should not obey the truth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们向来跑得好，有谁拦阻你们，叫你们不顺从真理呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們向來跑得好，有誰攔阻你們，叫你們不順從真理呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "This persuasion is not from him who calls you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样的劝导不是出于那召你们的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣的勸導不是出於那召你們的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "A little yeast grows through the whole lump.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一点面酵能使全团都发起来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一點麵酵能使全團都發起來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "I have confidence toward you in the Lord that you will think no other way. But he who troubles you will bear his judgment, whoever he is.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在主里很信你们必不怀别样的心；但搅扰你们的，无论是谁，必担当他的罪名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在主裏很信你們必不懷別樣的心；但攪擾你們的，無論是誰，必擔當他的罪名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But I, brothers, if I still preach circumcision, why am I still persecuted? Then the stumbling block of the cross has been removed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我若仍旧传割礼，为什么还受逼迫呢？若是这样，那十字架讨厌的地方就没有了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我若仍舊傳割禮，為甚麼還受逼迫呢？若是這樣，那十字架討厭的地方就沒有了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I wish that those who disturb you would cut themselves off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恨不得那搅乱你们的人把自己割绝了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "恨不得那攪亂你們的人把自己割絕了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For you, brothers, were called for freedom. Only don’t use your freedom as an opportunity for the flesh, but through love be servants to one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，你们蒙召是要得自由，只是不可将你们的自由当作放纵情欲的机会，总要用爱心互相服事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，你們蒙召是要得自由，只是不可將你們的自由當作放縱情慾的機會，總要用愛心互相服事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:14 Leviticus 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为全律法都包在「爱人如己」这一句话之内了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為全律法都包在「愛人如己」這一句話之內了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But if you bite and devour one another, be careful that you don’t consume one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要谨慎，若相咬相吞，只怕要彼此消灭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要謹慎，若相咬相吞，只怕要彼此消滅了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But I say, walk by the Spirit, and you won’t fulfill the lust of the flesh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说，你们当顺着圣灵而行，就不放纵肉体的情欲了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說，你們當順着聖靈而行，就不放縱肉體的情慾了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为情欲和圣灵相争，圣灵和情欲相争，这两个是彼此相敌，使你们不能做所愿意做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為情慾和聖靈相爭，聖靈和情慾相爭，這兩個是彼此相敵，使你們不能做所願意做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But if you are led by the Spirit, you are not under the law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你们若被圣灵引导，就不在律法以下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你們若被聖靈引導，就不在律法以下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Now the deeds of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "情欲的事都是显而易见的，就如奸淫、污秽、邪荡、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "情慾的事都是顯而易見的，就如姦淫、污穢、邪蕩、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拜偶像、邪术、仇恨、争竞、忌恨、恼怒、结党、纷争、异端、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拜偶像、邪術、仇恨、爭競、忌恨、惱怒、結黨、紛爭、異端、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God’s Kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "嫉妒、醉酒、荒宴等类。我从前告诉你们，现在又告诉你们，行这样事的人必不能承受 神的国。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:21 有古卷加：凶杀二字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "嫉妒、醉酒、荒宴等類。我從前告訴你們，現在又告訴你們，行這樣事的人必不能承受上帝的國。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 5:21 有古卷加：凶殺二字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:22 or, faithfulness"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣灵所结的果子，就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖靈所結的果子，就是仁愛、喜樂、和平、忍耐、恩慈、良善、信實、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "gentleness, and self-control. Against such things there is no law.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "温柔、节制。这样的事没有律法禁止。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "溫柔、節制。這樣的事沒有律法禁止。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Those who belong to Christ have crucified the flesh with its passions and lusts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡属基督耶稣的人，是已经把肉体连肉体的邪情私欲同钉在十字架上了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡屬基督耶穌的人，是已經把肉體連肉體的邪情私慾同釘在十字架上了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "If we live by the Spirit, let’s also walk by the Spirit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们若是靠圣灵得生，就当靠圣灵行事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們若是靠聖靈得生，就當靠聖靈行事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Let’s not become conceited, provoking one another, and envying one another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要贪图虚名，彼此惹气，互相嫉妒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要貪圖虛名，彼此惹氣，互相嫉妒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

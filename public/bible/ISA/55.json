@@ -1,0 +1,263 @@
+{
+  "bookId": "ISA",
+  "chapter": 55,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Hey! Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat! Yes, come, buy wine and milk without money and without price.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们一切干渴的都当就近水来； 没有银钱的也可以来。 你们都来，买了吃； 不用银钱，不用价值， 也来买酒和奶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們一切乾渴的都當就近水來； 沒有銀錢的也可以來。 你們都來，買了吃； 不用銀錢，不用價值， 也來買酒和奶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Why do you spend money for that which is not bread, and your labor for that which doesn’t satisfy? Listen diligently to me, and eat that which is good, and let your soul delight itself in richness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们为何花钱买那不足为食物的？ 用劳碌得来的买那不使人饱足的呢？ 你们要留意听我的话就能吃那美物， 得享肥甘，心中喜乐。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 55:2 原文是平银"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們為何花錢買那不足為食物的？ 用勞碌得來的買那不使人飽足的呢？ 你們要留意聽我的話就能吃那美物， 得享肥甘，心中喜樂。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 55:2 原文是平銀"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Turn your ear, and come to me. Hear, and your soul will live. I will make an everlasting covenant with you, even the sure mercies of David.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们当就近我来； 侧耳而听，就必得活。 我必与你们立永约， 就是应许大卫那可靠的恩典。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們當就近我來； 側耳而聽，就必得活。 我必與你們立永約， 就是應許大衛那可靠的恩典。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Behold, I have given him for a witness to the peoples, a leader and commander to the peoples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我已立他作万民的见证， 为万民的君王和司令。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我已立他作萬民的見證， 為萬民的君王和司令。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Behold, you shall call a nation that you don’t know; and a nation that didn’t know you shall run to you, because of the LORD your God, and for the Holy One of Israel; for he has glorified you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你素不认识的国民，你也必召来； 素不认识你的国民也必向你奔跑， 都因耶和华—你的 神以色列的圣者， 因为他已经荣耀你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你素不認識的國民，你也必召來； 素不認識你的國民也必向你奔跑， 都因耶和華－你的上帝以色列的聖者， 因為他已經榮耀你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Seek the LORD while he may be found. Call on him while he is near.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当趁耶和华可寻找的时候寻找他， 相近的时候求告他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當趁耶和華可尋找的時候尋找他， 相近的時候求告他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Let the wicked forsake his way, and the unrighteous man his thoughts. Let him return to the LORD, and he will have mercy on him, to our God, for he will freely pardon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "恶人当离弃自己的道路； 不义的人当除掉自己的意念。 归向耶和华，耶和华就必怜恤他； 当归向我们的 神，因为 神必广行赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惡人當離棄自己的道路； 不義的人當除掉自己的意念。 歸向耶和華，耶和華就必憐恤他； 當歸向我們的上帝，因為上帝必廣行赦免。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“For my thoughts are not your thoughts, and your ways are not my ways,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我的意念非同你们的意念； 我的道路非同你们的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我的意念非同你們的意念； 我的道路非同你們的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天怎样高过地， 照样，我的道路高过你们的道路； 我的意念高过你们的意念。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天怎樣高過地， 照樣，我的道路高過你們的道路； 我的意念高過你們的意念。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For as the rain comes down and the snow from the sky, and doesn’t return there, but waters the earth, and makes it grow and bud, and gives seed to the sower and bread to the eater;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雨雪从天而降，并不返回， 却滋润地土，使地上发芽结实， 使撒种的有种，使要吃的有粮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雨雪從天而降，並不返回， 卻滋潤地土，使地上發芽結實， 使撒種的有種，使要吃的有糧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "so is my word that goes out of my mouth: it will not return to me void, but it will accomplish that which I please, and it will prosper in the thing I sent it to do.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我口所出的话也必如此， 决不徒然返回， 却要成就我所喜悦的， 在我发他去成就的事上必然亨通。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 55:11 发他去成就：或译所命定"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我口所出的話也必如此， 決不徒然返回， 卻要成就我所喜悅的， 在我發他去成就的事上必然亨通。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 55:11 發他去成就：或譯所命定"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For you shall go out with joy, and be led out with peace. The mountains and the hills will break out before you into singing; and all the trees of the fields will clap their hands.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们必欢欢喜喜而出来， 平平安安蒙引导。 大山小山必在你们面前发声歌唱； 田野的树木也都拍掌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們必歡歡喜喜而出來， 平平安安蒙引導。 大山小山必在你們面前發聲歌唱； 田野的樹木也都拍掌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Instead of the thorn the cypress tree will come up; and instead of the brier the myrtle tree will come up. It will make a name for the LORD, for an everlasting sign that will not be cut off.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "松树长出，代替荆棘； 番石榴长出，代替蒺藜。 这要为耶和华留名， 作为永远的证据，不能剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "松樹長出，代替荊棘； 番石榴長出，代替蒺藜。 這要為耶和華留名， 作為永遠的證據，不能剪除。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

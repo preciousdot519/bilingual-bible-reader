@@ -1,0 +1,331 @@
+{
+  "bookId": "JAS",
+  "chapter": 4,
+  "bookEnglish": "James",
+  "bookChineseSimplified": "雅各书",
+  "bookChineseTraditional": "雅各書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们中间的争战斗殴是从哪里来的呢？不是从你们百体中战斗之私欲来的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們中間的爭戰鬥毆是從哪裏來的呢？不是從你們百體中戰鬥之私慾來的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们贪恋，还是得不着；你们杀害嫉妒，又斗殴争战，也不能得。你们得不着，是因为你们不求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們貪戀，還是得不着；你們殺害嫉妒，又鬥毆爭戰，也不能得。你們得不着，是因為你們不求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们求也得不着，是因为你们妄求，要浪费在你们的宴乐中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們求也得不着，是因為你們妄求，要浪費在你們的宴樂中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这些淫乱的人哪，岂不知与世俗为友就是与 神为敌吗？所以凡想要与世俗为友的，就是与 神为敌了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:4 原文是淫妇"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這些淫亂的人哪，豈不知與世俗為友就是與上帝為敵嗎？所以凡想要與世俗為友的，就是與上帝為敵了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:4 原文是淫婦"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们想经上所说是徒然的吗？ 神所赐、住在我们里面的灵，是恋爱至于嫉妒吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們想經上所說是徒然的嗎？上帝所賜、住在我們裏面的靈，是戀愛至於嫉妒嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:6 Proverbs 3:34",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "但他赐更多的恩典，所以经上说： 神阻挡骄傲的人， 赐恩给谦卑的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但他賜更多的恩典，所以經上說： 上帝阻擋驕傲的人， 賜恩給謙卑的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Be subject therefore to God. Resist the devil, and he will flee from you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，你们要顺服 神。务要抵挡魔鬼，魔鬼就必离开你们逃跑了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，你們要順服上帝。務要抵擋魔鬼，魔鬼就必離開你們逃跑了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们亲近 神， 神就必亲近你们。有罪的人哪，要洁净你们的手！心怀二意的人哪，要清洁你们的心！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們親近上帝，上帝就必親近你們。有罪的人哪，要潔淨你們的手！心懷二意的人哪，要清潔你們的心！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Lament, mourn, and weep. Let your laughter be turned to mourning and your joy to gloom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要愁苦、悲哀、哭泣，将喜笑变作悲哀，欢乐变作愁闷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要愁苦、悲哀、哭泣，將喜笑變作悲哀，歡樂變作愁悶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Humble yourselves in the sight of the Lord, and he will exalt you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "务要在主面前自卑，主就必叫你们升高。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "務要在主面前自卑，主就必叫你們升高。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，你们不可彼此批评。人若批评弟兄，论断弟兄，就是批评律法，论断律法。你若论断律法，就不是遵行律法，乃是判断人的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，你們不可彼此批評。人若批評弟兄，論斷弟兄，就是批評律法，論斷律法。你若論斷律法，就不是遵行律法，乃是判斷人的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "设立律法和判断人的，只有一位，就是那能救人也能灭人的。你是谁，竟敢论断别人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "設立律法和判斷人的，只有一位，就是那能救人也能滅人的。你是誰，竟敢論斷別人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Come now, you who say, “Today or tomorrow let’s go into this city and spend a year there, trade, and make a profit.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "嗐！你们有话说：「今天明天我们要往某城里去，在那里住一年，做买卖得利。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "嗐！你們有話說：「今天明天我們要往某城裏去，在那裏住一年，做買賣得利。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Yet you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor that appears for a little time and then vanishes away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其实明天如何，你们还不知道。你们的生命是什么呢？你们原来是一片云雾，出现少时就不见了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For you ought to say, “If the Lord wills, we will both live, and do this or that.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们只当说：「主若愿意，我们就可以活着，也可以做这事，或做那事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們只當說：「主若願意，我們就可以活着，也可以做這事，或做那事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But now you glory in your boasting. All such boasting is evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现今你们竟以张狂夸口；凡这样夸口都是恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現今你們竟以張狂誇口；凡這樣誇口都是惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "To him therefore who knows to do good and doesn’t do it, to him it is sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若知道行善，却不去行，这就是他的罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若知道行善，卻不去行，這就是他的罪了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

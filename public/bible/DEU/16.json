@@ -1,0 +1,415 @@
+{
+  "bookId": "DEU",
+  "chapter": 16,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Observe the month of Abib, and keep the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要注意亚笔月，向耶和华—你的 神守逾越节，因为耶和华—你的 神在亚笔月夜间领你出埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要注意亞筆月，向耶和華－你的上帝守逾越節，因為耶和華－你的上帝在亞筆月夜間領你出埃及。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "You shall sacrifice the Passover to the LORD your God, of the flock and the herd, in the place which the LORD shall choose to cause his name to dwell there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当在耶和华所选择要立为他名的居所，从牛群羊群中，将逾越节的祭牲献给耶和华—你的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當在耶和華所選擇要立為他名的居所，從牛群羊群中，將逾越節的祭牲獻給耶和華－你的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你吃这祭牲，不可吃有酵的饼；七日之内要吃无酵饼，就是困苦饼—你本是急忙出了埃及地—要叫你一生一世记念你从埃及地出来的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你吃這祭牲，不可吃有酵的餅；七日之內要吃無酵餅，就是困苦餅－你本是急忙出了埃及地－要叫你一生一世記念你從埃及地出來的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在你四境之内，七日不可见面酵，头一日晚上所献的肉，一点不可留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在你四境之內，七日不可見麵酵，頭一日晚上所獻的肉，一點不可留到早晨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "You may not sacrifice the Passover within any of your gates which the LORD your God gives you;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶和华—你 神所赐的各城中，你不可献逾越节的祭；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶和華－你上帝所賜的各城中，你不可獻逾越節的祭；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "but at the place which the LORD your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只当在耶和华—你 神所选择要立为他名的居所，晚上日落的时候，乃是你出埃及的时候，献逾越节的祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只當在耶和華－你上帝所選擇要立為他名的居所，晚上日落的時候，乃是你出埃及的時候，獻逾越節的祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You shall roast and eat it in the place which the LORD your God chooses. In the morning you shall return to your tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当在耶和华—你 神所选择的地方把肉烤了吃，次日早晨就回到你的帐棚去。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:7 烤：或译煮"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當在耶和華－你上帝所選擇的地方把肉烤了吃，次日早晨就回到你的帳棚去。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 16:7 烤：或譯煮"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to the LORD your God. You shall do no work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要吃无酵饼六日，第七日要向耶和华—你的 神守严肃会，不可做工。」 （出34·22；利23·15—21）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要吃無酵餅六日，第七日要向耶和華－你的上帝守嚴肅會，不可做工。」 （出34‧22；利23‧15－21）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要计算七七日：从你开镰收割禾稼时算起，共计七七日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要計算七七日：從你開鐮收割禾稼時算起，共計七七日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall keep the feast of weeks to the LORD your God with a tribute of a free will offering of your hand, which you shall give according to how the LORD your God blesses you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要照耶和华—你 神所赐你的福，手里拿着甘心祭，献在耶和华—你的 神面前，守七七节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要照耶和華－你上帝所賜你的福，手裏拿着甘心祭，獻在耶和華－你的上帝面前，守七七節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "You shall rejoice before the LORD your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which the LORD your God shall choose to cause his name to dwell there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你和你儿女、仆婢，并住在你城里的利未人，以及在你们中间寄居的与孤儿寡妇，都要在耶和华—你 神所选择立为他名的居所，在耶和华—你的 神面前欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你和你兒女、僕婢，並住在你城裏的利未人，以及在你們中間寄居的與孤兒寡婦，都要在耶和華－你上帝所選擇立為他名的居所，在耶和華－你的上帝面前歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You shall remember that you were a slave in Egypt. You shall observe and do these statutes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你也要记念你在埃及作过奴仆。你要谨守遵行这些律例。」 （利23·33—43）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你也要記念你在埃及作過奴僕。你要謹守遵行這些律例。」 （利23‧33－43）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你把禾场的谷、酒榨的酒收藏以后，就要守住棚节七日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你把禾場的穀、酒醡的酒收藏以後，就要守住棚節七日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow who are within your gates.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "守节的时候，你和你儿女、仆婢，并住在你城里的利未人，以及寄居的与孤儿寡妇，都要欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "守節的時候，你和你兒女、僕婢，並住在你城裏的利未人，以及寄居的與孤兒寡婦，都要歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You shall keep a feast to the LORD your God seven days in the place which the LORD chooses, because the LORD your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶和华所选择的地方，你当向耶和华—你的 神守节七日；因为耶和华—你 神在你一切的土产上和你手里所办的事上要赐福与你，你就非常地欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶和華所選擇的地方，你當向耶和華－你的上帝守節七日；因為耶和華－你上帝在你一切的土產上和你手裏所辦的事上要賜福與你，你就非常地歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Three times in a year all of your males shall appear before the LORD your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They shall not appear before the LORD empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你一切的男丁要在除酵节、七七节、住棚节，一年三次，在耶和华—你 神所选择的地方朝见他，却不可空手朝见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你一切的男丁要在除酵節、七七節、住棚節，一年三次，在耶和華－你上帝所選擇的地方朝見他，卻不可空手朝見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Every man shall give as he is able, according to the LORD your God’s blessing which he has given you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各人要按自己的力量，照耶和华—你 神所赐的福分，奉献礼物。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各人要按自己的力量，照耶和華－你上帝所賜的福分，奉獻禮物。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "You shall make judges and officers in all your gates, which the LORD your God gives you, according to your tribes; and they shall judge the people with righteous judgment.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你要在耶和华—你 神所赐的各城里，按着各支派设立审判官和官长。他们必按公义的审判判断百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你要在耶和華－你上帝所賜的各城裏，按着各支派設立審判官和官長。他們必按公義的審判判斷百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可屈枉正直；不可看人的外貌。也不可受贿赂；因为贿赂能叫智慧人的眼变瞎了，又能颠倒义人的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可屈枉正直；不可看人的外貌。也不可受賄賂；因為賄賂能叫智慧人的眼變瞎了，又能顛倒義人的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "You shall follow that which is altogether just, that you may live and inherit the land which the LORD your God gives you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要追求至公至义，好叫你存活，承受耶和华—你 神所赐你的地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要追求至公至義，好叫你存活，承受耶和華－你上帝所賜你的地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You shall not plant for yourselves an Asherah of any kind of tree beside the LORD your God’s altar, which you shall make for yourselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你为耶和华—你的 神筑坛，不可在坛旁栽什么树木作为木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你為耶和華－你的上帝築壇，不可在壇旁栽甚麼樹木作為木偶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Neither shall you set yourself up a sacred stone which the LORD your God hates.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也不可为自己设立柱像；这是耶和华—你 神所恨恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也不可為自己設立柱像；這是耶和華－你上帝所恨惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

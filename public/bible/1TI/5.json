@@ -1,0 +1,475 @@
+{
+  "bookId": "1TI",
+  "chapter": 5,
+  "bookEnglish": "1 Timothy",
+  "bookChineseSimplified": "提摩太前书",
+  "bookChineseTraditional": "提摩太前書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可严责老年人，只要劝他如同父亲；劝少年人如同弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可嚴責老年人，只要勸他如同父親；勸少年人如同弟兄；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "the elder women as mothers; the younger as sisters, in all purity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "劝老年妇女如同母亲；劝少年妇女如同姊妹；总要清清洁洁的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "勸老年婦女如同母親；勸少年婦女如同姊妹；總要清清潔潔的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Honor widows who are widows indeed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要尊敬那真为寡妇的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要尊敬那真為寡婦的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But if any widow has children or grandchildren, let them learn first to show piety toward their own family and to repay their parents, for this is acceptable in the sight of God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:4 TR adds “good and”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若寡妇有儿女，或有孙子孙女，便叫他们先在自己家中学着行孝，报答亲恩，因为这在 神面前是可悦纳的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若寡婦有兒女，或有孫子孫女，便叫他們先在自己家中學着行孝，報答親恩，因為這在上帝面前是可悅納的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Now she who is a widow indeed and desolate, has her hope set on God and continues in petitions and prayers night and day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那独居无靠、真为寡妇的，是仰赖 神，昼夜不住地祈求祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那獨居無靠、真為寡婦的，是仰賴上帝，晝夜不住地祈求禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But she who gives herself to pleasure is dead while she lives.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那好宴乐的寡妇正活着的时候也是死的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那好宴樂的寡婦正活着的時候也是死的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Also command these things, that they may be without reproach.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事你要嘱咐她们，叫她们无可指责。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事你要囑咐她們，叫她們無可指責。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若不看顾亲属，就是背了真道，比不信的人还不好，不看顾自己家里的人，更是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若不看顧親屬，就是背了真道，比不信的人還不好，不看顧自己家裏的人，更是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Let no one be enrolled as a widow under sixty years old, having been the wife of one man,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "寡妇记在册子上，必须年纪到六十岁，从来只作一个丈夫的妻子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "寡婦記在冊子上，必須年紀到六十歲，從來只作一個丈夫的妻子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有行善的名声，就如养育儿女，接待远人，洗圣徒的脚，救济遭难的人，竭力行各样善事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有行善的名聲，就如養育兒女，接待遠人，洗聖徒的腳，救濟遭難的人，竭力行各樣善事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But refuse younger widows, for when they have grown wanton against Christ, they desire to marry,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于年轻的寡妇，就可以辞她；因为她们的情欲发动，违背基督的时候就想要嫁人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於年輕的寡婦，就可以辭她；因為她們的情慾發動，違背基督的時候就想要嫁人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "having condemnation, because they have rejected their first pledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她们被定罪，是因废弃了当初所许的愿；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她們被定罪，是因廢棄了當初所許的願；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且她们又习惯懒惰，挨家闲游；不但是懒惰，又说长道短，好管闲事，说些不当说的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且她們又習慣懶惰，挨家閒遊；不但是懶惰，又說長道短，好管閒事，說些不當說的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我愿意年轻的寡妇嫁人，生养儿女，治理家务，不给敌人辱骂的把柄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我願意年輕的寡婦嫁人，生養兒女，治理家務，不給敵人辱罵的把柄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For already some have turned away after Satan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为已经有转去随从撒但的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為已經有轉去隨從撒但的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened, that it might relieve those who are widows indeed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信主的妇女，若家中有寡妇，自己就当救济她们，不可累着教会，好使教会能救济那真无倚靠的寡妇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信主的婦女，若家中有寡婦，自己就當救濟她們，不可累着教會，好使教會能救濟那真無倚靠的寡婦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那善于管理教会的长老，当以为配受加倍的敬奉；那劳苦传道教导人的，更当如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那善於管理教會的長老，當以為配受加倍的敬奉；那勞苦傳道教導人的，更當如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “Thelaborer is worthy of his wages.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "5:18 Deuteronomy 25:4",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "5:18 Luke 10:7; Leviticus 19:13",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "因为经上说：「牛在场上踹谷的时候，不可笼住它的嘴」；又说：「工人得工价是应当的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為經上說：「牛在場上踹穀的時候，不可籠住牠的嘴」；又說：「工人得工價是應當的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Don’t receive an accusation against an elder except at the word of two or three witnesses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "控告长老的呈子，非有两三个见证就不要收。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "控告長老的呈子，非有兩三個見證就不要收。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Those who sin, reprove in the sight of all, that the rest also may be in fear.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犯罪的人，当在众人面前责备他，叫其余的人也可以惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "犯罪的人，當在眾人面前責備他，叫其餘的人也可以懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在 神和基督耶稣并蒙拣选的天使面前嘱咐你：要遵守这些话，不可存成见，行事也不可有偏心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在上帝和基督耶穌並蒙揀選的天使面前囑咐你：要遵守這些話，不可存成見，行事也不可有偏心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Lay hands hastily on no one. Don’t be a participant in other people’s sins. Keep yourself pure.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "给人行按手的礼，不可急促；不要在别人的罪上有分，要保守自己清洁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "給人行按手的禮，不可急促；不要在別人的罪上有分，要保守自己清潔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因你胃口不清，屡次患病，再不要照常喝水，可以稍微用点酒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因你胃口不清，屢次患病，再不要照常喝水，可以稍微用點酒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Some men’s sins are evident, preceding them to judgment, and some also follow later.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有些人的罪是明显的，如同先到审判案前；有些人的罪是随后跟了去的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有些人的罪是明顯的，如同先到審判案前；有些人的罪是隨後跟了去的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，善行也有明显的，那不明显的也不能隐藏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，善行也有明顯的，那不明顯的也不能隱藏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

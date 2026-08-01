@@ -1,0 +1,419 @@
+{
+  "bookId": "ROM",
+  "chapter": 12,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，弟兄们，我以 神的慈悲劝你们，将身体献上，当作活祭，是圣洁的，是 神所喜悦的；你们如此事奉乃是理所当然的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，弟兄們，我以上帝的慈悲勸你們，將身體獻上，當作活祭，是聖潔的，是上帝所喜悅的；你們如此事奉乃是理所當然的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Don’t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要效法这个世界，只要心意更新而变化，叫你们察验何为 神的善良、纯全、可喜悦的旨意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要效法這個世界，只要心意更新而變化，叫你們察驗何為上帝的善良、純全、可喜悅的旨意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For I say through the grace that was given me, to everyone who is among you, not to think of yourself more highly than you ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我凭着所赐我的恩对你们各人说：不要看自己过于所当看的；要照着 神所分给各人信心的大小，看得合乎中道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我憑着所賜我的恩對你們各人說：不要看自己過於所當看的；要照着上帝所分給各人信心的大小，看得合乎中道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For even as we have many members in one body, and all the members don’t have the same function,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正如我们一个身子上有好些肢体，肢体也不都是一样的用处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正如我們一個身子上有好些肢體，肢體也不都是一樣的用處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "so we, who are many, are one body in Christ, and individually members of one another,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们这许多人，在基督里成为一身，互相联络作肢体，也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們這許多人，在基督裏成為一身，互相聯絡作肢體，也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "having gifts differing according to the grace that was given to us: if prophecy, let’s prophesy according to the proportion of our faith;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "按我们所得的恩赐，各有不同。或说预言，就当照着信心的程度说预言；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "按我們所得的恩賜，各有不同。或說預言，就當照着信心的程度說預言；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "or service, let’s give ourselves to service; or he who teaches, to his teaching;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或作执事，就当专一执事；或作教导的，就当专一教导；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或作執事，就當專一執事；或作教導的，就當專一教導；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "or he who exhorts, to his exhorting; he who gives, let him do it with generosity; he who rules, with diligence; he who shows mercy, with cheerfulness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或作劝化的，就当专一劝化；施舍的，就当诚实；治理的，就当殷勤；怜悯人的，就当甘心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或作勸化的，就當專一勸化；施捨的，就當誠實；治理的，就當殷勤；憐憫人的，就當甘心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱人不可虚假。恶，要厌恶；善，要亲近。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛人不可虛假。惡，要厭惡；善，要親近。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "In love of the brothers be tenderly affectionate to one another; in honor prefer one another,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "爱弟兄，要彼此亲热；恭敬人，要彼此推让。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "愛弟兄，要彼此親熱；恭敬人，要彼此推讓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "not lagging in diligence, fervent in spirit, serving the Lord,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殷勤，不可懒惰；要心里火热，常常服事主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殷勤，不可懶惰；要心裏火熱，常常服事主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "rejoicing in hope, enduring in troubles, continuing steadfastly in prayer,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在指望中要喜乐；在患难中要忍耐；祷告要恒切。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在指望中要喜樂；在患難中要忍耐；禱告要恆切。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "contributing to the needs of the saints, and given to hospitality.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣徒缺乏，要帮补；客，要一味地款待。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖徒缺乏，要幫補；客，要一味地款待。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Bless those who persecute you; bless, and don’t curse.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "逼迫你们的，要给他们祝福；只要祝福，不可咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "逼迫你們的，要給他們祝福；只要祝福，不可咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Rejoice with those who rejoice. Weep with those who weep.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与喜乐的人要同乐；与哀哭的人要同哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與喜樂的人要同樂；與哀哭的人要同哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Be of the same mind one toward another. Don’t set your mind on high things, but associate with the humble. Don’t be wise in your own conceits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要彼此同心；不要志气高大，倒要俯就卑微的人。不要自以为聪明。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:16 人：或译事"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要彼此同心；不要志氣高大，倒要俯就卑微的人。不要自以為聰明。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:16 人：或譯事"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Repay no one evil for evil. Respect what is honorable in the sight of all men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要以恶报恶；众人以为美的事要留心去做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要以惡報惡；眾人以為美的事要留心去做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "If it is possible, as much as it is up to you, be at peace with all men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是能行，总要尽力与众人和睦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是能行，總要盡力與眾人和睦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:19 Deuteronomy 32:35",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "亲爱的弟兄，不要自己伸冤，宁可让步，听凭主怒；因为经上记着：「主说：『伸冤在我，我必报应。』」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:19 或译：让人发怒"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "親愛的弟兄，不要自己伸冤，寧可讓步，聽憑主怒；因為經上記着：「主說：『伸冤在我，我必報應。』」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:19 或譯：讓人發怒"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a drink; for in doing so, you will heap coals of fire on his head.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "12:20 Proverbs 25:21-22",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所以，「你的仇敌若饿了，就给他吃，若渴了，就给他喝；因为你这样行就是把炭火堆在他的头上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，「你的仇敵若餓了，就給他吃，若渴了，就給他喝；因為你這樣行就是把炭火堆在他的頭上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Don’t be overcome by evil, but overcome evil with good.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可为恶所胜，反要以善胜恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可為惡所勝，反要以善勝惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

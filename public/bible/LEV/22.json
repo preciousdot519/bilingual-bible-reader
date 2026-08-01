@@ -1,0 +1,623 @@
+{
+  "bookId": "LEV",
+  "chapter": 22,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Tell Aaron and his sons to separate themselves from the holy things of the children of Israel, which they make holy to me, and that they not profane my holy name. I am the LORD.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:2 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你吩咐亚伦和他子孙说：要远离以色列人所分别为圣、归给我的圣物，免得亵渎我的圣名。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你吩咐亞倫和他子孫說：要遠離以色列人所分別為聖、歸給我的聖物，免得褻瀆我的聖名。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“Tell them, ‘If anyone of all your offspring throughout your generations approaches the holy things which the children of Israel make holy to the LORD, having his uncleanness on him, that soul shall be cut off from before me. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要对他们说：你们世世代代的后裔，凡身上有污秽、亲近以色列人所分别为圣、归耶和华圣物的，那人必在我面前剪除。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要對他們說：你們世世代代的後裔，凡身上有污穢、親近以色列人所分別為聖、歸耶和華聖物的，那人必在我面前剪除。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“‘Whoever of the offspring of Aaron is a leper or has a discharge shall not eat of the holy things until he is clean. Whoever touches anything that is unclean by the dead, or a man who has a seminal emission,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦的后裔，凡长大麻风的，或是有漏症的，不可吃圣物，直等他洁净了。无论谁摸那因死尸不洁净的物，或是遗精的人，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:4 或译：人"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫的後裔，凡長大痲瘋的，或是有漏症的，不可吃聖物，直等他潔淨了。無論誰摸那因死屍不潔淨的物，或是遺精的人，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 22:4 或譯：人"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "or whoever touches any creeping thing by which he may be made unclean, or a man from whom he may become unclean, whatever uncleanness he has—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "或是摸什么使他不洁净的爬物，或是摸那使他不洁净的人（不拘那人有什么不洁净），",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "或是摸甚麼使他不潔淨的爬物，或是摸那使他不潔淨的人（不拘那人有甚麼不潔淨），",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "the person that touches any such shall be unclean until the evening, and shall not eat of the holy things unless he bathes his body in water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摸了这些人、物的，必不洁净到晚上；若不用水洗身，就不可吃圣物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摸了這些人、物的，必不潔淨到晚上；若不用水洗身，就不可吃聖物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "When the sun is down, he shall be clean; and afterward he shall eat of the holy things, because it is his bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日落的时候，他就洁净了，然后可以吃圣物，因为这是他的食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日落的時候，他就潔淨了，然後可以吃聖物，因為這是他的食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He shall not eat that which dies of itself or is torn by animals, defiling himself by it. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自死的或是被野兽撕裂的，他不可吃，因此污秽自己。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自死的或是被野獸撕裂的，他不可吃，因此污穢自己。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘They shall therefore follow my commandment, lest they bear sin for it and die in it, if they profane it. I am the LORD who sanctifies them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以他们要守我所吩咐的，免得轻忽了，因此担罪而死。我是叫他们成圣的耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以他們要守我所吩咐的，免得輕忽了，因此擔罪而死。我是叫他們成聖的耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“‘No stranger shall eat of the holy thing: a foreigner living with the priests, or a hired servant, shall not eat of the holy thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡外人不可吃圣物；寄居在祭司家的，或是雇工人，都不可吃圣物；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡外人不可吃聖物；寄居在祭司家的，或是雇工人，都不可吃聖物；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But if a priest buys a slave, purchased by his money, he shall eat of it; and those who are born in his house shall eat of his bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若祭司买人，是他的钱买的，那人就可以吃圣物；生在他家的人也可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若祭司買人，是他的錢買的，那人就可以吃聖物；生在他家的人也可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "If a priest’s daughter is married to an outsider, she shall not eat of the heave offering of the holy things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司的女儿若嫁外人，就不可吃举祭的圣物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司的女兒若嫁外人，就不可吃舉祭的聖物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But if a priest’s daughter is a widow, or divorced, and has no child, and has returned to her father’s house as in her youth, she may eat of her father’s bread; but no stranger shall eat any of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但祭司的女儿若是寡妇，或是被休的，没有孩子，又归回父家，与她青年一样，就可以吃她父亲的食物；只是外人不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但祭司的女兒若是寡婦，或是被休的，沒有孩子，又歸回父家，與她青年一樣，就可以吃她父親的食物；只是外人不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘If a man eats something holy unwittingly, then he shall add the fifth part of its value to it, and shall give the holy thing to the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人误吃了圣物，要照圣物的原数加上五分之一交给祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人誤吃了聖物，要照聖物的原數加上五分之一交給祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The priests shall not profane the holy things of the children of Israel, which they offer to the LORD,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司不可亵渎以色列人所献给耶和华的圣物，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司不可褻瀆以色列人所獻給耶和華的聖物，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and so cause them to bear the iniquity that brings guilt when they eat their holy things; for I am the LORD who sanctifies them.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "免得他们在吃圣物上自取罪孽，因为我是叫他们成圣的耶和华。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "免得他們在吃聖物上自取罪孽，因為我是叫他們成聖的耶和華。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, ‘Whoever is of the house of Israel, or of the foreigners in Israel, who offers his offering, whether it is any of their vows or any of their free will offerings, which they offer to the LORD for a burnt offering:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你晓谕亚伦和他子孙，并以色列众人说：以色列家中的人，或在以色列中寄居的，凡献供物，无论是所许的愿，是甘心献的，就是献给耶和华作燔祭的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你曉諭亞倫和他子孫，並以色列眾人說：以色列家中的人，或在以色列中寄居的，凡獻供物，無論是所許的願，是甘心獻的，就是獻給耶和華作燔祭的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "that you may be accepted, you shall offer a male without defect, of the bulls, of the sheep, or of the goats.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要将没有残疾的公牛，或是绵羊，或是山羊献上，如此方蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要將沒有殘疾的公牛，或是綿羊，或是山羊獻上，如此方蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "But you shall not offer whatever has a defect, for it shall not be acceptable for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡有残疾的，你们不可献上，因为这不蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡有殘疾的，你們不可獻上，因為這不蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Whoever offers a sacrifice of peace offerings to the LORD to accomplish a vow, or for a free will offering of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡从牛群或是羊群中，将平安祭献给耶和华，为要还特许的愿，或是作甘心献的，所献的必纯全无残疾的才蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡從牛群或是羊群中，將平安祭獻給耶和華，為要還特許的願，或是作甘心獻的，所獻的必純全無殘疾的才蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "You shall not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to the LORD, nor make an offering by fire of them on the altar to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "瞎眼的、折伤的、残废的、有瘤子的、长癣的、长疥的都不可献给耶和华，也不可在坛上作为火祭献给耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瞎眼的、折傷的、殘廢的、有瘤子的、長癬的、長疥的都不可獻給耶和華，也不可在壇上作為火祭獻給耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Either a bull or a lamb that has any deformity or lacking in his parts, that you may offer for a free will offering; but for a vow it shall not be accepted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是公牛是绵羊羔，若肢体有余的，或是缺少的，只可作甘心祭献上；用以还愿，却不蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是公牛是綿羊羔，若肢體有餘的，或是缺少的，只可作甘心祭獻上；用以還願，卻不蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You must not offer to the LORD that which has its testicles bruised, crushed, broken, or cut. You must not do this in your land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "肾子损伤的，或是压碎的，或是破裂的，或是骟了的，不可献给耶和华，在你们的地上也不可这样行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "腎子損傷的，或是壓碎的，或是破裂的，或是騸了的，不可獻給耶和華，在你們的地上也不可這樣行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You must not offer any of these as the bread of your God from the hand of a foreigner, because their corruption is in them. There is a defect in them. They shall not be accepted for you.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这类的物，你们从外人的手，一样也不可接受作你们 神的食物献上；因为这些都有损坏，有残疾，不蒙悦纳。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這類的物，你們從外人的手，一樣也不可接受作你們上帝的食物獻上；因為這些都有損壞，有殘疾，不蒙悅納。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "The LORD spoke to Moses, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“When a bull, a sheep, or a goat is born, it shall remain seven days with its mother. From the eighth day on it shall be accepted for the offering of an offering made by fire to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「才生的公牛，或是绵羊或是山羊，七天当跟着母；从第八天以后，可以当供物蒙悦纳，作为耶和华的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「才生的公牛，或是綿羊或是山羊，七天當跟着母；從第八天以後，可以當供物蒙悅納，作為耶和華的火祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Whether it is a cow or ewe, you shall not kill it and its young both in one day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是母牛是母羊，不可同日宰母和子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是母牛是母羊，不可同日宰母和子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“When you sacrifice a sacrifice of thanksgiving to the LORD, you shall sacrifice it so that you may be accepted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们献感谢祭给耶和华，要献得可蒙悦纳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們獻感謝祭給耶和華，要獻得可蒙悅納。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "It shall be eaten on the same day; you shall leave none of it until the morning. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要当天吃，一点不可留到早晨。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要當天吃，一點不可留到早晨。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Therefore you shall keep my commandments, and do them. I am the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要谨守遵行我的诫命。我是耶和华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要謹守遵行我的誡命。我是耶和華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "You shall not profane my holy name, but I will be made holy among the children of Israel. I am the LORD who makes you holy,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "22:32 LORD or GOD in all caps is from the Hebrew יהוה Yahweh except when otherwise noted as being from the short form יה Yah."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不可亵渎我的圣名；我在以色列人中，却要被尊为圣。我是叫你们成圣的耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不可褻瀆我的聖名；我在以色列人中，卻要被尊為聖。我是叫你們成聖的耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "who brought you out of the land of Egypt, to be your God. I am the LORD.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把你们从埃及地领出来，作你们的 神。我是耶和华。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把你們從埃及地領出來，作你們的上帝。我是耶和華。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -44,7 +44,7 @@
     {
       "verse": "3",
       "en": {
-        "text": "Jesus answered, Thisman didn’ t sin, nor did his parents, but that the works of God might be revealed in him.",
+        "text": "Jesus answered, “Thisman didn’ t sin, nor did his parents, but that the works of God might be revealed in him.",
         "footnotes": [],
         "crossReferences": []
       },
@@ -116,17 +116,17 @@
     {
       "verse": "7",
       "en": {
-        "text": "and said to him, Go, wash in the pool of Siloam”(which means “Sent”). So he went away, washed, and came back seeing.",
+        "text": "and said to him, “Go, wash in the pool of Siloam”(which means “Sent”). So he went away, washed, and came back seeing.",
         "footnotes": [],
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "对他说：「你往池子里去洗。」（翻出来就是「奉差遣」。）他去一洗，回头就看见了。",
+        "text": "对他说：「你往西罗亚池子里去洗。」（西罗亚翻出来就是「奉差遣」。）他去一洗，回头就看见了。",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "對他說：「你往池子裏去洗。」（翻出來就是「奉差遣」。） 他去一洗，回頭就看見了。",
+        "text": "對他說：「你往西羅亞池子裏去洗。」（西羅亞翻出來就是「奉差遣」。） 他去一洗，回頭就看見了。",
         "footnotes": [],
         "crossReferences": []
       }
@@ -188,17 +188,17 @@
     {
       "verse": "11",
       "en": {
-        "text": "He answered, “A man called Jesus made mud, anointed my eyes, and said to me, Goto the pool of Siloam and wash.’So I went away and washed, and I received sight.”",
+        "text": "He answered, “A man called Jesus made mud, anointed my eyes, and said to me, ‘Goto the pool of Siloam and wash.’So I went away and washed, and I received sight.”",
         "footnotes": [],
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "他回答说：「有一个人，名叫耶稣，他和泥抹我的眼睛，对我说：『你往去洗。』我去一洗，就看见了。」",
+        "text": "他回答说：「有一个人，名叫耶稣，他和泥抹我的眼睛，对我说：『你往西罗亚池子去洗。』我去一洗，就看见了。」",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "他回答說：「有一個人，名叫耶穌，他和泥抹我的眼睛，對我說：『你往去洗。』我去一洗，就看見了。」",
+        "text": "他回答說：「有一個人，名叫耶穌，他和泥抹我的眼睛，對我說：『你往西羅亞池子去洗。』我去一洗，就看見了。」",
         "footnotes": [],
         "crossReferences": []
       }
@@ -319,12 +319,12 @@
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "人不信他从前是瞎眼，后来能看见的，等到叫了他的父母来，",
+        "text": "犹太人不信他从前是瞎眼，后来能看见的，等到叫了他的父母来，",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "人不信他從前是瞎眼，後來能看見的，等到叫了他的父母來，",
+        "text": "猶太人不信他從前是瞎眼，後來能看見的，等到叫了他的父母來，",
         "footnotes": [],
         "crossReferences": []
       }
@@ -391,12 +391,12 @@
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "他父母说这话，是怕人；因为人已经商议定了，若有认耶稣是基督的，要把他赶出会堂。",
+        "text": "他父母说这话，是怕犹太人；因为犹太人已经商议定了，若有认耶稣是基督的，要把他赶出会堂。",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "他父母說這話，是怕人；因為人已經商議定了，若有認耶穌是基督的，要把他趕出會堂。",
+        "text": "他父母說這話，是怕猶太人；因為猶太人已經商議定了，若有認耶穌是基督的，要把他趕出會堂。",
         "footnotes": [],
         "crossReferences": []
       }
@@ -499,12 +499,12 @@
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "他们就骂他说：「你是他的门徒；我们是的门徒。",
+        "text": "他们就骂他说：「你是他的门徒；我们是摩西的门徒。",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "他們就罵他說：「你是他的門徒；我們是的門徒。",
+        "text": "他們就罵他說：「你是他的門徒；我們是摩西的門徒。",
         "footnotes": [],
         "crossReferences": []
       }
@@ -517,12 +517,12 @@
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "神对说话是我们知道的；只是这个人，我们不知道他从哪里来！」",
+        "text": "神对摩西说话是我们知道的；只是这个人，我们不知道他从哪里来！」",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "上帝對說話是我們知道的；只是這個人，我們不知道他從哪裏來！」",
+        "text": "上帝對摩西說話是我們知道的；只是這個人，我們不知道他從哪裏來！」",
         "footnotes": [],
         "crossReferences": []
       }
@@ -626,7 +626,7 @@
     {
       "verse": "35",
       "en": {
-        "text": "Jesus heard that they had thrown him out, and finding him, he said, Doyou believe in the Son of God?”",
+        "text": "Jesus heard that they had thrown him out, and finding him, he said, “Doyou believe in the Son of God?”",
         "footnotes": [],
         "crossReferences": []
       },
@@ -662,7 +662,7 @@
     {
       "verse": "37",
       "en": {
-        "text": "Jesus said to him, Youhave both seen him, and it is he who speaks with you.”",
+        "text": "Jesus said to him, “Youhave both seen him, and it is he who speaks with you.”",
         "footnotes": [],
         "crossReferences": []
       },
@@ -698,7 +698,7 @@
     {
       "verse": "39",
       "en": {
-        "text": "Jesus said, Icame into this world for judgment, that those who don’ t see may see; and that those who see may become blind.”",
+        "text": "Jesus said, “Icame into this world for judgment, that those who don’ t see may see; and that those who see may become blind.”",
         "footnotes": [],
         "crossReferences": []
       },
@@ -734,17 +734,17 @@
     {
       "verse": "41",
       "en": {
-        "text": "Jesus said to them, Ifyou were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.",
+        "text": "Jesus said to them, “Ifyou were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.",
         "footnotes": [],
         "crossReferences": []
       },
       "zhSimplified": {
-        "text": "耶稣对他们说：「你们若瞎了眼，就没有罪了；但如今你们说『我们能看见』，你们的罪还在。」",
+        "text": "耶稣对他们说：「你们若瞎了眼，就没有罪了；但如今你们说『我们能看见』，所以你们的罪还在。」",
         "footnotes": [],
         "crossReferences": []
       },
       "zhTraditional": {
-        "text": "耶穌對他們說：「你們若瞎了眼，就沒有罪了；但如今你們說『我們能看見』，你們的罪還在。」",
+        "text": "耶穌對他們說：「你們若瞎了眼，就沒有罪了；但如今你們說『我們能看見』，所以你們的罪還在。」",
         "footnotes": [],
         "crossReferences": []
       }

@@ -1,0 +1,433 @@
+{
+  "bookId": "ISA",
+  "chapter": 51,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Listen to me, you who follow after righteousness, you who seek the LORD. Look to the rock you were cut from, and to the quarry you were dug from.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们这追求公义、 寻求耶和华的，当听我言！ 你们要追想被凿而出的磐石， 被挖而出的岩穴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們這追求公義、 尋求耶和華的，當聽我言！ 你們要追想被鑿而出的磐石， 被挖而出的巖穴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Look to Abraham your father, and to Sarah who bore you; for when he was but one I called him, I blessed him, and made him many.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要追想你们的祖宗亚伯拉罕 和生养你们的撒拉； 因为亚伯拉罕独自一人的时候， 我选召他，赐福与他， 使他人数增多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要追想你們的祖宗亞伯拉罕 和生養你們的撒拉； 因為亞伯拉罕獨自一人的時候， 我選召他，賜福與他， 使他人數增多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For the LORD has comforted Zion. He has comforted all her waste places, and has made her wilderness like Eden, and her desert like the garden of the LORD. Joy and gladness will be found in them, thanksgiving, and the voice of melody.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华已经安慰锡安 和锡安一切的荒场， 使旷野像伊甸， 使沙漠像耶和华的园囿； 在其中必有欢喜、快乐、感谢， 和歌唱的声音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華已經安慰錫安 和錫安一切的荒場， 使曠野像伊甸， 使沙漠像耶和華的園囿； 在其中必有歡喜、快樂、感謝， 和歌唱的聲音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“Listen to me, my people; and hear me, my nation, for a law will go out from me, and I will establish my justice for a light to the peoples.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的百姓啊，要向我留心； 我的国民哪，要向我侧耳； 因为训诲必从我而出； 我必坚定我的公理为万民之光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的百姓啊，要向我留心； 我的國民哪，要向我側耳； 因為訓誨必從我而出； 我必堅定我的公理為萬民之光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "My righteousness is near. My salvation has gone out, and my arms will judge the peoples. The islands will wait for me, and they will trust my arm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的公义临近； 我的救恩发出。 我的膀臂要审判万民； 海岛都要等候我，倚赖我的膀臂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的公義臨近； 我的救恩發出。 我的膀臂要審判萬民； 海島都要等候我，倚賴我的膀臂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Lift up your eyes to the heavens, and look at the earth beneath; for the heavens will vanish away like smoke, and the earth will wear out like a garment. Its inhabitants will die in the same way, but my salvation will be forever, and my righteousness will not be abolished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要向天举目， 观看下地； 因为天必像烟云消散， 地必如衣服渐渐旧了； 其上的居民也要如此死亡。 惟有我的救恩永远长存； 我的公义也不废掉。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 51:6 如此死亡：或译像蠓虫死亡"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要向天舉目， 觀看下地； 因為天必像煙雲消散， 地必如衣服漸漸舊了； 其上的居民也要如此死亡。 惟有我的救恩永遠長存； 我的公義也不廢掉。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 51:6 如此死亡：或譯像蠓蟲死亡"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Listen to me, you who know righteousness, the people in whose heart is my law. Don’t fear the reproach of men, and don’t be dismayed at their insults.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "知道公义、将我训诲存在心中的民， 要听我言！ 不要怕人的辱骂， 也不要因人的毁谤惊惶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "知道公義、將我訓誨存在心中的民， 要聽我言！ 不要怕人的辱罵， 也不要因人的毀謗驚惶。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For the moth will eat them up like a garment, and the worm will eat them like wool; but my righteousness will be forever, and my salvation to all generations.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为蛀虫必咬他们，好像咬衣服； 虫子必咬他们，如同咬羊绒。 惟有我的公义永远长存， 我的救恩直到万代。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為蛀蟲必咬他們，好像咬衣服； 蟲子必咬他們，如同咬羊絨。 惟有我的公義永遠長存， 我的救恩直到萬代。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Awake, awake, put on strength, arm of the LORD! Awake, as in the days of old, the generations of ancient times. Isn’t it you who cut Rahab in pieces, who pierced the monster?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的膀臂啊，兴起！兴起！ 以能力为衣穿上， 像古时的年日、上古的世代兴起一样。 从前砍碎拉哈伯、 刺透大鱼的，不是你吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的膀臂啊，興起！興起！ 以能力為衣穿上， 像古時的年日、上古的世代興起一樣。 從前砍碎拉哈伯、 刺透大魚的，不是你嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Isn’t it you who dried up the sea, the waters of the great deep; who made the depths of the sea a way for the redeemed to pass over?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使海与深渊的水干涸、 使海的深处变为赎民经过之路的， 不是你吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使海與深淵的水乾涸、 使海的深處變為贖民經過之路的， 不是你嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Those ransomed by the LORD will return, and come with singing to Zion. Everlasting joy shall be on their heads. They will obtain gladness and joy. Sorrow and sighing shall flee away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华救赎的民必归回， 歌唱来到锡安； 永乐必归到他们的头上。 他们必得着欢喜快乐； 忧愁叹息尽都逃避。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華救贖的民必歸回， 歌唱來到錫安； 永樂必歸到他們的頭上。 他們必得着歡喜快樂； 憂愁歎息盡都逃避。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“I, even I, am he who comforts you. Who are you, that you are afraid of man who shall die, and of the son of man who will be made as grass?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有我，是安慰你们的。 你是谁，竟怕那必死的人？ 怕那要变如草的世人？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有我，是安慰你們的。 你是誰，竟怕那必死的人？ 怕那要變如草的世人？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Have you forgotten the LORD your Maker, who stretched out the heavens, and laid the foundations of the earth? Do you live in fear continually all day because of the fury of the oppressor, when he prepares to destroy? Where is the fury of the oppressor?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却忘记铺张诸天、立定地基、 创造你的耶和华？ 又因欺压者图谋毁灭要发的暴怒， 整天害怕， 其实那欺压者的暴怒在哪里呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻忘記鋪張諸天、立定地基、 創造你的耶和華？ 又因欺壓者圖謀毀滅要發的暴怒， 整天害怕， 其實那欺壓者的暴怒在哪裏呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The captive exile will speedily be freed. He will not die and go down into the pit. His bread won’t fail.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "被掳去的快得释放， 必不死而下坑； 他的食物也不致缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "被擄去的快得釋放， 必不死而下坑； 他的食物也不致缺乏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For I am the LORD your God, who stirs up the sea so that its waves roar. the LORD of Armies is his name.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华—你的 神— 搅动大海，使海中的波浪匉訇— 万军之耶和华是我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華－你的上帝－ 攪動大海，使海中的波浪匉訇－ 萬軍之耶和華是我的名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I have put my words in your mouth and have covered you in the shadow of my hand, that I may plant the heavens, and lay the foundations of the earth, and tell Zion, ‘You are my people.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我将我的话传给你， 用我的手影遮蔽你， 为要栽定诸天，立定地基， 又对锡安说：你是我的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我將我的話傳給你， 用我的手影遮蔽你， 為要栽定諸天，立定地基， 又對錫安說：你是我的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Awake, awake! Stand up, Jerusalem, you who have drunk from the LORD’s hand the cup of his wrath. You have drunken the bowl of the cup of staggering, and drained it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷啊，兴起！ 兴起！站起来！ 你从耶和华手中喝了他忿怒之杯， 喝了那使人东倒西歪的爵，以致喝尽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷啊，興起！ 興起！站起來！ 你從耶和華手中喝了他忿怒之杯， 喝了那使人東倒西歪的爵，以致喝盡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "There is no one to guide her among all the sons to whom she has given birth; and there is no one who takes her by the hand among all the sons whom she has brought up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她所生育的诸子中，没有一个引导她的； 她所养大的诸子中，没有一个搀扶她的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她所生育的諸子中，沒有一個引導她的； 她所養大的諸子中，沒有一個攙扶她的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "These two things have happened to you— who will grieve with you?— desolation and destruction, and famine and the sword. How can I comfort you?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "荒凉、毁灭、饥荒、刀兵， 这几样临到你， 谁为你举哀？ 我如何能安慰你呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "荒涼、毀滅、饑荒、刀兵， 這幾樣臨到你， 誰為你舉哀？ 我如何能安慰你呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Your sons have fainted. They lie at the head of all the streets, like an antelope in a net. They are full of the LORD’s wrath, the rebuke of your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的众子发昏， 在各市口上躺卧， 好像黄羊在网罗之中， 都满了耶和华的忿怒 —你 神的斥责。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的眾子發昏， 在各市口上躺臥， 好像黃羊在網羅之中， 都滿了耶和華的忿怒 －你上帝的斥責。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Therefore now hear this, you afflicted, and drunken, but not with wine:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，你这困苦却非因酒而醉的， 要听我言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，你這困苦卻非因酒而醉的， 要聽我言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Your Lord GOD, your God who pleads the cause of his people, says, “Behold, I have taken out of your hand the cup of staggering, even the bowl of the cup of my wrath. You will not drink it any more.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的主耶和华— 就是为他百姓辨屈的 神如此说： 看哪，我已将那使人东倒西歪的杯， 就是我忿怒的爵， 从你手中接过来； 你必不致再喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的主耶和華－ 就是為他百姓辨屈的上帝如此說： 看哪，我已將那使人東倒西歪的杯， 就是我忿怒的爵， 從你手中接過來； 你必不致再喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "I will put it into the hand of those who afflict you, who have said to your soul, ‘Bow down, that we may walk over you;’ and you have laid your back as the ground, like a street to those who walk over.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必将这杯递在苦待你的人手中； 他们曾对你说：你屈身， 由我们践踏过去吧！ 你便以背为地， 好像街市，任人经过。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必將這杯遞在苦待你的人手中； 他們曾對你說：你屈身， 由我們踐踏過去吧！ 你便以背為地， 好像街市，任人經過。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "bookId": "EZK",
+  "chapter": 48,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar Enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众支派按名所得之地记在下面：从北头，由希特伦往哈马口，到大马士革地界上的哈萨·以难。北边靠着哈马地（各支派的地都有东西的边界），是但的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾支派按名所得之地記在下面：從北頭，由希特倫往哈馬口，到大馬士革地界上的哈薩‧以難。北邊靠着哈馬地（各支派的地都有東西的邊界），是但的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“By the border of Dan, from the east side to the west side, Asher, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着但的地界，从东到西，是亚设的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着但的地界，從東到西，是亞設的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“By the border of Asher, from the east side even to the west side, Naphtali, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着亚设的地界，从东到西，是拿弗他利的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着亞設的地界，從東到西，是拿弗他利的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“By the border of Naphtali, from the east side to the west side, Manasseh, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着拿弗他利的地界，从东到西，是玛拿西的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着拿弗他利的地界，從東到西，是瑪拿西的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“By the border of Manasseh, from the east side to the west side, Ephraim, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着玛拿西的地界，从东到西，是以法莲的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着瑪拿西的地界，從東到西，是以法蓮的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“By the border of Ephraim, from the east side even to the west side, Reuben, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着以法莲的地界，从东到西，是吕便的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着以法蓮的地界，從東到西，是呂便的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“By the border of Reuben, from the east side to the west side, Judah, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着吕便的地界，从东到西，是犹大的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着呂便的地界，從東到西，是猶大的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“By the border of Judah, from the east side to the west side, shall be the offering which you shall offer, twenty-five thousand reeds in width, and in length as one of the portions, from the east side to the west side; and the sanctuary shall be in the middle of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着犹大的地界，从东到西，必有你们所当献的供地，宽二万五千肘。从东界到西界，长短与各分之地相同，圣地当在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着猶大的地界，從東到西，必有你們所當獻的供地，寬二萬五千肘。從東界到西界，長短與各分之地相同，聖地當在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“The offering that you shall offer to the LORD shall be twenty-five thousand reeds in length, and ten thousand in width.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们献与耶和华的供地要长二万五千肘，宽一万肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們獻與耶和華的供地要長二萬五千肘，寬一萬肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For these, even for the priests, shall be the holy offering: toward the north twenty-five thousand in length, and toward the west ten thousand in width, and toward the east ten thousand in width, and toward the south twenty-five thousand in length; and the sanctuary of the LORD shall be in the middle of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这圣供地要归与祭司，北长二万五千肘，西宽一万肘，东宽一万肘，南长二万五千肘。耶和华的圣地当在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這聖供地要歸與祭司，北長二萬五千肘，西寬一萬肘，東寬一萬肘，南長二萬五千肘。耶和華的聖地當在其中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "It shall be for the priests who are sanctified of the sons of Zadok, who have kept my instruction, who didn’t go astray when the children of Israel went astray, as the Levites went astray.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地要归与撒督的子孙中成为圣的祭司，就是那守我所吩咐的。当以色列人走迷的时候，他们不像那些利未人走迷了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地要歸與撒督的子孫中成為聖的祭司，就是那守我所吩咐的。當以色列人走迷的時候，他們不像那些利未人走迷了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "It shall be to them an offering from the offering of the land, a most holy thing, by the border of the Levites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这要归与他们为供地，是全地中至圣的。供地挨着利未人的地界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這要歸與他們為供地，是全地中至聖的。供地挨着利未人的地界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Alongside the border of the priests, the Levites shall have twenty-five thousand cubits in length and ten thousand in width. All the length shall be twenty-five thousand, and the width ten thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人所得的地要长二万五千肘，宽一万肘，与祭司的地界相等，都长二万五千肘，宽一万肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人所得的地要長二萬五千肘，寬一萬肘，與祭司的地界相等，都長二萬五千肘，寬一萬肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They shall sell none of it, nor exchange it, nor shall the first fruits of the land be alienated, for it is holy to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地不可卖，不可换，初熟之物也不可归与别人，因为是归耶和华为圣的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地不可賣，不可換，初熟之物也不可歸與別人，因為是歸耶和華為聖的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“The five thousand cubits that are left in the width, in front of the twenty-five thousand, shall be for common use, for the city, for dwelling and for pasture lands; and the city shall be in the middle of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这二万五千肘前面所剩下五千肘宽之地要作俗用，作为造城盖房郊野之地。城要在当中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這二萬五千肘前面所剩下五千肘寬之地要作俗用，作為造城蓋房郊野之地。城要在當中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "These shall be its measurements: the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城的尺寸乃是如此：北面四千五百肘，南面四千五百肘，东面四千五百肘，西面四千五百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城的尺寸乃是如此：北面四千五百肘，南面四千五百肘，東面四千五百肘，西面四千五百肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The city shall have pasture lands: toward the north two hundred fifty, and toward the south two hundred fifty, and toward the east two hundred fifty, and toward the west two hundred fifty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城必有郊野，向北二百五十肘，向南二百五十肘，向东二百五十肘，向西二百五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城必有郊野，向北二百五十肘，向南二百五十肘，向東二百五十肘，向西二百五十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The remainder of the length, alongside the holy offering, shall be ten thousand eastward and ten thousand westward; and it shall be alongside the holy offering. Its increase shall be for food to those who labor in the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "靠着圣供地的余地，东长一万肘，西长一万肘，要与圣供地相等；其中的土产要作城内工人的食物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靠着聖供地的餘地，東長一萬肘，西長一萬肘，要與聖供地相等；其中的土產要作城內工人的食物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Those who labor in the city, out of all the tribes of Israel, shall cultivate it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所有以色列支派中，在城内做工的，都要耕种这地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所有以色列支派中，在城內做工的，都要耕種這地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "All the offering shall be a square of twenty-five thousand by twenty-five thousand. You shall offer it as a holy offering, with the possession of the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们所献的圣供地连归城之地，是四方的：长二万五千肘，宽二万五千肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們所獻的聖供地連歸城之地，是四方的：長二萬五千肘，寬二萬五千肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“The remainder shall be for the prince, on the one side and on the other of the holy offering and of the possession of the city; in front of the twenty-five thousand of the offering toward the east border, and westward in front of the twenty-five thousand toward the west border, alongside the portions, it shall be for the prince. The holy offering and the sanctuary of the house shall be in the middle of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "圣供地连归城之地，两边的余地要归与王。供地东边，南北二万五千肘，东至东界，西边南北二万五千肘，西至西界，与各分之地相同，都要归王。圣供地和殿的圣地要在其中，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聖供地連歸城之地，兩邊的餘地要歸與王。供地東邊，南北二萬五千肘，東至東界，西邊南北二萬五千肘，西至西界，與各分之地相同，都要歸王。聖供地和殿的聖地要在其中，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Moreover, from the possession of the Levites, and from the possession of the city, being in the middle of that which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且利未人之地，与归城之地的东西两边延长之地（这两地在王地中间），就是在犹大和便雅悯两界中间，要归与王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且利未人之地，與歸城之地的東西兩邊延長之地（這兩地在王地中間），就是在猶大和便雅憫兩界中間，要歸與王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“As for the rest of the tribes: from the east side to the west side, Benjamin, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到其余的支派，从东到西，是便雅悯的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到其餘的支派，從東到西，是便雅憫的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“By the border of Benjamin, from the east side to the west side, Simeon, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着便雅悯的地界，从东到西，是西缅的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着便雅憫的地界，從東到西，是西緬的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“By the border of Simeon, from the east side to the west side, Issachar, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着西缅的地界，从东到西，是以萨迦的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着西緬的地界，從東到西，是以薩迦的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“By the border of Issachar, from the east side to the west side, Zebulun, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着以萨迦的地界，从东到西，是西布伦的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着以薩迦的地界，從東到西，是西布倫的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "“By the border of Zebulun, from the east side to the west side, Gad, one portion.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "挨着西布伦的地界，从东到西，是迦得的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "挨着西布倫的地界，從東到西，是迦得的一分。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "“By the border of Gad, at the south side southward, the border shall be even from Tamar to the waters of Meribath Kadesh, to the brook, to the great sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦得地的南界是从他玛到米利巴·加低斯的水，延到埃及小河，直到大海。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦得地的南界是從他瑪到米利巴‧加低斯的水，延到埃及小河，直到大海。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord GOD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就是你们要拈阄分给以色列支派为业之地，乃是他们各支派所得之分。这是主耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就是你們要拈鬮分給以色列支派為業之地，乃是他們各支派所得之分。這是主耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“These are the exits of the city: On the north side four thousand five hundred reeds by measure;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城的北面四千五百肘。出城之处如下；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城的北面四千五百肘。出城之處如下；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "and the gates of the city shall be named after the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城的各门要按以色列支派的名字。北面有三门，一为吕便门，一为犹大门，一为利未门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城的各門要按以色列支派的名字。北面有三門，一為呂便門，一為猶大門，一為利未門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "“At the east side four thousand five hundred reeds, and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "东面四千五百肘，有三门，一为约瑟门，一为便雅悯门，一为但门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "東面四千五百肘，有三門，一為約瑟門，一為便雅憫門，一為但門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“At the south side four thousand five hundred reeds by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "南面四千五百肘，有三门，一为西缅门，一为以萨迦门，一为西布伦门；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "南面四千五百肘，有三門，一為西緬門，一為以薩迦門，一為西布倫門；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "“At the west side four thousand five hundred reeds, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西面四千五百肘，有三门，一为迦得门，一为亚设门，一为拿弗他利门。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西面四千五百肘，有三門，一為迦得門，一為亞設門，一為拿弗他利門。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "“It shall be eighteen thousand reeds in circumference; and the name of the city from that day shall be, ‘The LORD is there.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城四围共一万八千肘。从此以后，这城的名字必称为「耶和华的所在」。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城四圍共一萬八千肘。從此以後，這城的名字必稱為「耶和華的所在」。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "bookId": "JER",
+  "chapter": 29,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "先知耶利米从耶路撒冷寄信与被掳的祭司、先知，和众民，并生存的长老，就是尼布甲尼撒从耶路撒冷掳到巴比伦去的。（",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "先知耶利米從耶路撒冷寄信與被擄的祭司、先知，和眾民，並生存的長老，就是尼布甲尼撒從耶路撒冷擄到巴比倫去的。（",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "(after Jeconiah the king, the queen mother, the eunuchs, the princes of Judah and Jerusalem, the craftsmen, and the smiths had departed from Jerusalem),",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这在耶哥尼雅王和太后、太监，并犹大、耶路撒冷的首领，以及工匠、铁匠都离了耶路撒冷以后。）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這在耶哥尼雅王和太后、太監，並猶大、耶路撒冷的首領，以及工匠、鐵匠都離了耶路撒冷以後。）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "by the hand of Elasah the son of Shaphan and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent to Babylon to Nebuchadnezzar king of Babylon). It said:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他借沙番的儿子以利亚萨和希勒家的儿子基玛利的手寄去。他们二人是犹大王西底家打发往巴比伦去见尼布甲尼撒王的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他藉沙番的兒子以利亞薩和希勒家的兒子基瑪利的手寄去。他們二人是猶大王西底家打發往巴比倫去見尼布甲尼撒王的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The LORD of Armies, the God of Israel, says to all the captives whom I have caused to be carried away captive from Jerusalem to Babylon:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "信上说：「万军之耶和华—以色列的 神对一切被掳去的（就是我使他们从耶路撒冷被掳到巴比伦的人）如此说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "信上說：「萬軍之耶和華－以色列的上帝對一切被擄去的（就是我使他們從耶路撒冷被擄到巴比倫的人）如此說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Build houses and dwell in them. Plant gardens and eat their fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要盖造房屋，住在其中；栽种田园，吃其中所产的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要蓋造房屋，住在其中；栽種田園，吃其中所產的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Take wives and father sons and daughters. Take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters. Multiply there, and don’t be diminished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "娶妻生儿女，为你们的儿子娶妻，使你们的女儿嫁人，生儿养女。在那里生养众多，不致减少。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "娶妻生兒女，為你們的兒子娶妻，使你們的女兒嫁人，生兒養女。在那裏生養眾多，不致減少。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Seek the peace of the city where I have caused you to be carried away captive, and pray to the LORD for it; for in its peace you will have peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所使你们被掳到的那城，你们要为那城求平安，为那城祷告耶和华；因为那城得平安，你们也随着得平安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所使你們被擄到的那城，你們要為那城求平安，為那城禱告耶和華；因為那城得平安，你們也隨着得平安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For the LORD of Armies, the God of Israel says: “Don’t let your prophets who are among you and your diviners deceive you. Don’t listen to your dreams which you cause to be dreamed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神如此说：不要被你们中间的先知和占卜的诱惑，也不要听信自己所做的梦；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝如此說：不要被你們中間的先知和占卜的誘惑，也不要聽信自己所做的夢；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For they prophesy falsely to you in my name. I have not sent them,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们托我的名对你们说假预言，我并没有差遣他们。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們託我的名對你們說假預言，我並沒有差遣他們。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For the LORD says, “After seventy years are accomplished for Babylon, I will visit you and perform my good word toward you, in causing you to return to this place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「耶和华如此说：为巴比伦所定的七十年满了以后，我要眷顾你们，向你们成就我的恩言，使你们仍回此地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「耶和華如此說：為巴比倫所定的七十年滿了以後，我要眷顧你們，向你們成就我的恩言，使你們仍回此地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For I know the thoughts that I think toward you,” says the LORD, “thoughts of peace, and not of evil, to give you hope and a future.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我知道我向你们所怀的意念是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我知道我向你們所懷的意念是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "You shall call on me, and you shall go and pray to me, and I will listen to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要呼求我，祷告我，我就应允你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要呼求我，禱告我，我就應允你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "You shall seek me and find me, when you search for me with all your heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们寻求我，若专心寻求我，就必寻见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們尋求我，若專心尋求我，就必尋見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I will be found by you,” says the LORD, “and I will turn again your captivity, and I will gather you from all the nations, and from all the places where I have driven you,” says the LORD. “I will bring you again to the place from where I caused you to be carried away captive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：我必被你们寻见，我也必使你们被掳的人归回，将你们从各国中和我所赶你们到的各处招聚了来，又将你们带回我使你们被掳掠离开的地方。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：我必被你們尋見，我也必使你們被擄的人歸回，將你們從各國中和我所趕你們到的各處招聚了來，又將你們帶回我使你們被擄掠離開的地方。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Because you have said, “The LORD has raised us up prophets in Babylon,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们说：『耶和华在巴比伦为我们兴起先知』；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們說：『耶和華在巴比倫為我們興起先知』；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the LORD says concerning the king who sits on David’s throne, and concerning all the people who dwell in this city, your brothers who haven’t gone with you into captivity,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华论到坐大卫宝座的王和住在这城里的一切百姓，就是未曾与你们一同被掳的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華論到坐大衛寶座的王和住在這城裏的一切百姓，就是未曾與你們一同被擄的弟兄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "the LORD of Armies says: “Behold, I will send on them the sword, the famine, and the pestilence, and will make them like rotten figs that can’t be eaten, they are so bad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：『看哪，我必使刀剑、饥荒、瘟疫临到他们，使他们像极坏的无花果，坏得不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：『看哪，我必使刀劍、饑荒、瘟疫臨到他們，使他們像極壞的無花果，壞得不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "I will pursue after them with the sword, with the famine, and with the pestilence, and will deliver them to be tossed back and forth among all the kingdoms of the earth, to be an object of horror, an astonishment, a hissing, and a reproach among all the nations where I have driven them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必用刀剑、饥荒、瘟疫追赶他们，使他们在天下万国抛来抛去，在我所赶他们到的各国中，令人咒诅、惊骇、嗤笑、羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必用刀劍、饑荒、瘟疫追趕他們，使他們在天下萬國拋來拋去，在我所趕他們到的各國中，令人咒詛、驚駭、嗤笑、羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "because they have not listened to my words,” says the LORD, “with which I sent to them my servants the prophets, rising up early and sending them; but you would not hear,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：这是因为他们没有听从我的话，就是我从早起来差遣我仆人众先知去说的，无奈他们不听。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：這是因為他們沒有聽從我的話，就是我從早起來差遣我僕人眾先知去說的，無奈他們不聽。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Hear therefore the LORD’s word, all you captives whom I have sent away from Jerusalem to Babylon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以你们一切被掳去的，就是我从耶路撒冷打发到巴比伦去的，当听耶和华的话。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以你們一切被擄去的，就是我從耶路撒冷打發到巴比倫去的，當聽耶和華的話。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The LORD of Armies, the God of Israel, says concerning Ahab the son of Kolaiah, and concerning Zedekiah the son of Maaseiah, who prophesy a lie to you in my name: “Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon; and he will kill them before your eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神论到哥赖雅的儿子亚哈，并玛西雅的儿子西底家，如此说：「他们是托我名向你们说假预言的，我必将他们交在巴比伦王尼布甲尼撒的手中；他要在你们眼前杀害他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝論到哥賴雅的兒子亞哈，並瑪西雅的兒子西底家，如此說：「他們是託我名向你們說假預言的，我必將他們交在巴比倫王尼布甲尼撒的手中；他要在你們眼前殺害他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "A curse will be taken up about them by all the captives of Judah who are in Babylon, saying, ‘The LORD make you like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住巴比伦一切被掳的犹大人必借这二人赌咒说：『愿耶和华使你像巴比伦王在火中烧的西底家和亚哈一样。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住巴比倫一切被擄的猶大人必藉這二人賭咒說：『願耶和華使你像巴比倫王在火中燒的西底家和亞哈一樣。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "because they have done foolish things in Israel, and have committed adultery with their neighbors’ wives, and have spoken words in my name falsely, which I didn’t command them. I am he who knows, and am witness,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这二人是在以色列中行了丑事，与邻舍的妻行淫，又假托我名说我未曾吩咐他们的话。知道的是我，作见证的也是我。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這二人是在以色列中行了醜事，與鄰舍的妻行淫，又假託我名說我未曾吩咐他們的話。知道的是我，作見證的也是我。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Concerning Shemaiah the Nehelamite you shall speak, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「论到尼希兰人示玛雅，你当说，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「論到尼希蘭人示瑪雅，你當說，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“The LORD of Armies, the God of Israel, says, ‘Because you have sent letters in your own name to all the people who are at Jerusalem, and to Zephaniah the son of Maaseiah, the priest, and to all the priests, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华—以色列的 神如此说：你曾用自己的名寄信给耶路撒冷的众民和祭司玛西雅的儿子西番雅，并众祭司，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華－以色列的上帝如此說：你曾用自己的名寄信給耶路撒冷的眾民和祭司瑪西雅的兒子西番雅，並眾祭司，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“The LORD has made you priest in the place of Jehoiada the priest, that there may be officers in the LORD’s house, for every man who is crazy and makes himself a prophet, that you should put him in the stocks and in shackles.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『耶和华已经立你西番雅为祭司，代替祭司耶何耶大，使耶和华殿中有官长，好将一切狂妄自称为先知的人用枷枷住，用锁锁住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『耶和華已經立你西番雅為祭司，代替祭司耶何耶大，使耶和華殿中有官長，好將一切狂妄自稱為先知的人用枷枷住，用鎖鎖住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Now therefore, why have you not rebuked Jeremiah of Anathoth, who makes himself a prophet to you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在亚拿突人耶利米向你们自称为先知，你们为何没有责备他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在亞拿突人耶利米向你們自稱為先知，你們為何沒有責備他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "because he has sent to us in Babylon, saying, The captivity is long. Build houses, and dwell in them. Plant gardens, and eat their fruit?”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他寄信给我们在巴比伦的人说：被掳的事必长久。你们要盖造房屋，住在其中；栽种田园，吃其中所产的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他寄信給我們在巴比倫的人說：被擄的事必長久。你們要蓋造房屋，住在其中；栽種田園，吃其中所產的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Zephaniah the priest read this letter in the hearing of Jeremiah the prophet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司西番雅就把这信念给先知耶利米听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司西番雅就把這信念給先知耶利米聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Then the LORD’s word came to Jeremiah, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是耶和华的话临到耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是耶和華的話臨到耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“Send to all of the captives, saying, ‘The LORD says concerning Shemaiah the Nehelamite: “Because Shemaiah has prophesied to you, and I didn’t send him, and he has caused you to trust in a lie,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你当寄信给一切被掳的人说：『耶和华论到尼希兰人示玛雅说：因为示玛雅向你们说预言，我并没有差遣他，他使你们倚靠谎言；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你當寄信給一切被擄的人說：『耶和華論到尼希蘭人示瑪雅說：因為示瑪雅向你們說預言，我並沒有差遣他，他使你們倚靠謊言；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "therefore the LORD says, “Behold, I will punish Shemaiah the Nehelamite and his offspring. He will not have a man to dwell among this people. He won’t see the good that I will do to my people,” says the LORD, “because he has spoken rebellion against the LORD.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华如此说：我必刑罚尼希兰人示玛雅和他的后裔，他必无一人存留住在这民中，也不得见我所要赐与我百姓的福乐，因为他向耶和华说了叛逆的话。这是耶和华说的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華如此說：我必刑罰尼希蘭人示瑪雅和他的後裔，他必無一人存留住在這民中，也不得見我所要賜與我百姓的福樂，因為他向耶和華說了叛逆的話。這是耶和華說的。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

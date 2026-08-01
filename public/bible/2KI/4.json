@@ -1,0 +1,801 @@
+{
+  "bookId": "2KI",
+  "chapter": 4,
+  "bookEnglish": "2 Kings",
+  "bookChineseSimplified": "列王纪下",
+  "bookChineseTraditional": "列王紀下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now a certain woman of the wives of the sons of the prophets cried out to Elisha, saying, “Your servant my husband is dead. You know that your servant feared the LORD. Now the creditor has come to take for himself my two children to be slaves.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个先知门徒的妻哀求以利沙说：「你仆人—我丈夫死了，他敬畏耶和华是你所知道的。现在有债主来，要取我两个儿子作奴仆。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個先知門徒的妻哀求以利沙說：「你僕人－我丈夫死了，他敬畏耶和華是你所知道的。現在有債主來，要取我兩個兒子作奴僕。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Elisha said to her, “What should I do for you? Tell me, what do you have in the house?” She said, “Your servant has nothing in the house, except a pot of oil.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙问她说：「我可以为你做什么呢？你告诉我，你家里有什么？」她说：「婢女家中除了一瓶油之外，没有什么。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙問她說：「我可以為你做甚麼呢？你告訴我，你家裏有甚麼？」她說：「婢女家中除了一瓶油之外，沒有甚麼。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Then he said, “Go, borrow empty containers from all your neighbors. Don’t borrow just a few containers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙说：「你去，向你众邻舍借空器皿，不要少借；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙說：「你去，向你眾鄰舍借空器皿，不要少借；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Go in and shut the door on you and on your sons, and pour oil into all those containers; and set aside those which are full.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "回到家里，关上门，你和你儿子在里面将油倒在所有的器皿里，倒满了的放在一边。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "回到家裏，關上門，你和你兒子在裏面將油倒在所有的器皿裏，倒滿了的放在一邊。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "So she went from him, and shut the door on herself and on her sons. They brought the containers to her, and she poured oil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是，妇人离开以利沙去了，关上门，自己和儿子在里面；儿子把器皿拿来，她就倒油。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是，婦人離開以利沙去了，關上門，自己和兒子在裏面；兒子把器皿拿來，她就倒油。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "When the containers were full, she said to her son, “Bring me another container.” He said to her, “There isn’t another container.” Then the oil stopped flowing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "器皿都满了，她对儿子说：「再给我拿器皿来。」儿子说：「再没有器皿了。」油就止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "器皿都滿了，她對兒子說：「再給我拿器皿來。」兒子說：「再沒有器皿了。」油就止住了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then she came and told the man of God. He said, “Go, sell the oil, and pay your debt; and you and your sons live on the rest.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人去告诉神人，神人说：「你去卖油还债，所剩的你和你儿子可以靠着度日。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人去告訴神人，神人說：「你去賣油還債，所剩的你和你兒子可以靠着度日。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "One day Elisha went to Shunem, where there was a prominent woman; and she persuaded him to eat bread. So it was, that as often as he passed by, he turned in there to eat bread.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一日，以利沙走到书念，在那里有一个大户的妇人强留他吃饭。此后，以利沙每从那里经过就进去吃饭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一日，以利沙走到書念，在那裏有一個大戶的婦人強留他吃飯。此後，以利沙每從那裏經過就進去吃飯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "She said to her husband, “See now, I perceive that this is a holy man of God who passes by us continually.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人对丈夫说：「我看出那常从我们这里经过的是圣洁的神人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人對丈夫說：「我看出那常從我們這裏經過的是聖潔的神人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Please, let’s make a little room on the roof. Let’s set a bed, a table, a chair, and a lamp stand for him there. When he comes to us, he can stay there.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们可以为他在墙上盖一间小楼，在其中安放床榻、桌子、椅子、灯台，他来到我们这里，就可以住在其间。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們可以為他在牆上蓋一間小樓，在其中安放床榻、桌子、椅子、燈臺，他來到我們這裏，就可以住在其間。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "One day he came there, and he went to the room and lay there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一日，以利沙来到那里，就进了那楼躺卧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一日，以利沙來到那裏，就進了那樓躺臥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He said to Gehazi his servant, “Call this Shunammite.” When he had called her, she stood before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙吩咐仆人基哈西说：「你叫这书念妇人来。」他就把妇人叫了来，妇人站在以利沙面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙吩咐僕人基哈西說：「你叫這書念婦人來。」他就把婦人叫了來，婦人站在以利沙面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He said to him, “Say now to her, ‘Behold, you have cared for us with all this care. What is to be done for you? Would you like to be spoken for to the king, or to the captain of the army?’” She answered, “I dwell among my own people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙吩咐仆人说：「你对她说：你既为我们费了许多心思，可以为你做什么呢？你向王或元帅有所求的没有？」她回答说：「我在我本乡安居无事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙吩咐僕人說：「你對她說：你既為我們費了許多心思，可以為你做甚麼呢？你向王或元帥有所求的沒有？」她回答說：「我在我本鄉安居無事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He said, “What then is to be done for her?” Gehazi answered, “Most certainly she has no son, and her husband is old.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙对仆人说：「究竟当为她做什么呢？」基哈西说：「她没有儿子，她丈夫也老了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙對僕人說：「究竟當為她做甚麼呢？」基哈西說：「她沒有兒子，她丈夫也老了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He said, “Call her.” When he had called her, she stood in the door.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙说：「再叫她来。」于是叫了她来，她就站在门口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙說：「再叫她來。」於是叫了她來，她就站在門口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He said, “At this season next year, you will embrace a son.” She said, “No, my lord, you man of God, do not lie to your servant.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙说：「明年到这时候，你必抱一个儿子。」她说：「神人，我主啊，不要那样欺哄婢女。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙說：「明年到這時候，你必抱一個兒子。」她說：「神人，我主啊，不要那樣欺哄婢女。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The woman conceived, and bore a son at that season when the time came around, as Elisha had said to her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人果然怀孕，到了那时候，生了一个儿子，正如以利沙所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人果然懷孕，到了那時候，生了一個兒子，正如以利沙所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "When the child was grown, one day he went out to his father to the reapers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子渐渐长大，一日到他父亲和收割的人那里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子漸漸長大，一日到他父親和收割的人那裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He said to his father, “My head! My head!” to his servant, “Carry him to his mother.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对父亲说：「我的头啊，我的头啊！」他父亲对仆人说：「把他抱到他母亲那里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對父親說：「我的頭啊，我的頭啊！」他父親對僕人說：「把他抱到他母親那裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "When he had taken him and brought him to his mother, he sat on her knees until noon, and then died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人抱去，交给他母亲；孩子坐在母亲的膝上，到晌午就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人抱去，交給他母親；孩子坐在母親的膝上，到晌午就死了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "She went up and laid him on the man of God’s bed, and shut the door on him, and went out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他母亲抱他上了楼，将他放在神人的床上，关上门出来，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他母親抱他上了樓，將他放在神人的床上，關上門出來，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "She called to her husband and said, “Please send me one of the servants, and one of the donkeys, that I may run to the man of God and come again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "呼叫她丈夫说：「你叫一个仆人给我牵一匹驴来，我要快快地去见神人，就回来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "呼叫她丈夫說：「你叫一個僕人給我牽一匹驢來，我要快快地去見神人，就回來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said, “Why would you want to go to him today? It is not a new moon or a Sabbath.” She said, “It’s all right.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "丈夫说：「今日不是月朔，也不是安息日，你为何要去见他呢？」妇人说：「平安无事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "丈夫說：「今日不是月朔，也不是安息日，你為何要去見他呢？」婦人說：「平安無事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then she saddled a donkey, and said to her servant, “Drive, and go forward! Don’t slow down for me, unless I ask you to.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是备上驴，对仆人说：「你快快赶着走，我若不吩咐你，就不要迟慢。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是備上驢，對僕人說：「你快快趕着走，我若不吩咐你，就不要遲慢。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "So she went, and came to the man of God to Mount Carmel. When the man of God saw her afar off, he said to Gehazi his servant, “Behold, there is the Shunammite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人就往迦密山去见神人。 基哈西说：「看哪，书念的妇人来了！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人就往迦密山去見神人。 基哈西說：「看哪，書念的婦人來了！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Please run now to meet her, and ask her, ‘Is it well with you? Is it well with your husband? Is it well with your child?’” It is well.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你跑去迎接她，问她说：你平安吗？你丈夫平安吗？孩子平安吗？」她说：「平安。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你跑去迎接她，問她說：你平安嗎？你丈夫平安嗎？孩子平安嗎？」她說：「平安。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "When she came to the man of God to the hill, she caught hold of his feet. Gehazi came near to thrust her away; but the man of God said, “Leave her alone, for her soul is troubled within her; and the LORD has hidden it from me, and has not told me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人上了山，到神人那里，就抱住神人的脚。基哈西前来要推开她，神人说：「由她吧！因为她心里愁苦，耶和华向我隐瞒，没有指示我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人上了山，到神人那裏，就抱住神人的腳。基哈西前來要推開她，神人說：「由她吧！因為她心裏愁苦，耶和華向我隱瞞，沒有指示我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not deceive me’?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人说：「我何尝向我主求过儿子呢？我岂没有说过，不要欺哄我吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人說：「我何嘗向我主求過兒子呢？我豈沒有說過，不要欺哄我嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Then he said to Gehazi, “Tuck your cloak into your belt, take my staff in your hand, and go your way. If you meet any man, don’t greet him; and if anyone greets you, don’t answer him again. Then lay my staff on the child’s face.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙吩咐基哈西说：「你束上腰，手拿我的杖前去；若遇见人，不要向他问安；人若向你问安，也不要回答；要把我的杖放在孩子脸上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙吩咐基哈西說：「你束上腰，手拿我的杖前去；若遇見人，不要向他問安；人若向你問安，也不要回答；要把我的杖放在孩子臉上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The child’s mother said, “As the LORD lives, and as your soul lives, I will not leave you.” So he arose, and followed her.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "孩子的母亲说：「我指着永生的耶和华，又敢在你面前起誓，我必不离开你。」于是以利沙起身，随着她去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "孩子的母親說：「我指着永生的耶和華，又敢在你面前起誓，我必不離開你。」於是以利沙起身，隨着她去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Gehazi went ahead of them, and laid the staff on the child’s face; but there was no voice and no hearing. Therefore he returned to meet him, and told him, “The child has not awakened.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基哈西先去，把杖放在孩子脸上，却没有声音，也没有动静。基哈西就迎着以利沙回来，告诉他说：「孩子还没有醒过来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基哈西先去，把杖放在孩子臉上，卻沒有聲音，也沒有動靜。基哈西就迎着以利沙回來，告訴他說：「孩子還沒有醒過來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "When Elisha had come into the house, behold, the child was dead, and lying on his bed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙来到，进了屋子，看见孩子死了，放在自己的床上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙來到，進了屋子，看見孩子死了，放在自己的床上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He went in therefore, and shut the door on them both, and prayed to the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就关上门，只有自己和孩子在里面，他便祈祷耶和华，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就關上門，只有自己和孩子在裏面，他便祈禱耶和華，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "He went up and lay on the child, and put his mouth on his mouth, and his eyes on his eyes, and his hands on his hands. He stretched himself on him; and the child’s flesh grew warm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "上床伏在孩子身上，口对口，眼对眼，手对手；既伏在孩子身上，孩子的身体就渐渐温和了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上床伏在孩子身上，口對口，眼對眼，手對手；既伏在孩子身上，孩子的身體就漸漸溫和了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Then he returned, and walked in the house once back and forth, then went up and stretched himself out on him. Then the child sneezed seven times, and the child opened his eyes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然后他下来，在屋里来往走了一趟，又上去伏在孩子身上，孩子打了七个喷嚏，就睁开眼睛了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然後他下來，在屋裏來往走了一趟，又上去伏在孩子身上，孩子打了七個噴嚏，就睜開眼睛了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He called Gehazi, and said, “Call this Shunammite!” So he called her. When she had come in to him, he said, “Take up your son.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙叫基哈西说：「你叫这书念妇人来」；于是叫了她来。以利沙说：「将你儿子抱起来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙叫基哈西說：「你叫這書念婦人來」；於是叫了她來。以利沙說：「將你兒子抱起來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Then she went in, fell at his feet, and bowed herself to the ground; then she picked up her son, and went out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "妇人就进来，在以利沙脚前俯伏于地，抱起她儿子出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婦人就進來，在以利沙腳前俯伏於地，抱起她兒子出去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Elisha came again to Gilgal. There was a famine in the land; and the sons of the prophets were sitting before him; and he said to his servant, “Get the large pot, and boil stew for the sons of the prophets.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙又来到吉甲，那地正有饥荒。先知门徒坐在他面前，他吩咐仆人说：「你将大锅放在火上，给先知门徒熬汤。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙又來到吉甲，那地正有饑荒。先知門徒坐在他面前，他吩咐僕人說：「你將大鍋放在火上，給先知門徒熬湯。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "One went out into the field to gather herbs, and found a wild vine, and gathered a lap full of wild gourds from it, and came and cut them up into the pot of stew; for they didn’t recognize them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个人去到田野掐菜，遇见一棵野瓜藤，就摘了一兜野瓜回来，切了搁在熬汤的锅中，因为他们不知道是什么东西；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個人去到田野掐菜，遇見一棵野瓜籐，就摘了一兜野瓜回來，切了擱在熬湯的鍋中，因為他們不知道是甚麼東西；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "So they poured out for the men to eat. As they were eating some of the stew, they cried out and said, “Man of God, there is death in the pot!” And they could not eat it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倒出来给众人吃，吃的时候，都喊叫说：「神人哪，锅中有致死的毒物！」所以众人不能吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倒出來給眾人吃，吃的時候，都喊叫說：「神人哪，鍋中有致死的毒物！」所以眾人不能吃了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "But he said, “Then bring meal.” He threw it into the pot; and he said, “Serve it to the people, that they may eat.” And there was nothing harmful in the pot.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利沙说：「拿点面来」，就把面撒在锅中，说：「倒出来，给众人吃吧！」锅中就没有毒了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利沙說：「拿點麵來」，就把麵撒在鍋中，說：「倒出來，給眾人吃吧！」鍋中就沒有毒了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "A man from Baal Shalishah came, and brought the man of God some bread of the first fruits: twenty loaves of barley and fresh ears of grain in his sack. Elisha said, “Give to the people, that they may eat.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个人从巴力·沙利沙来，带着初熟大麦做的饼二十个，并新穗子，装在口袋里送给神人。神人说：「把这些给众人吃。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個人從巴力‧沙利沙來，帶着初熟大麥做的餅二十個，並新穗子，裝在口袋裏送給神人。神人說：「把這些給眾人吃。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "His servant said, “What, should I set this before a hundred men?” But he said, “Give it to the people, that they may eat; for the LORD says, ‘They will eat, and will have some left over.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人说：「这一点岂可摆给一百人吃呢？」以利沙说：「你只管给众人吃吧！因为耶和华如此说，众人必吃了，还剩下。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人說：「這一點豈可擺給一百人吃呢？」以利沙說：「你只管給眾人吃吧！因為耶和華如此說，眾人必吃了，還剩下。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "So he set it before them and they ate and had some left over, according to the LORD’s word.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "仆人就摆在众人面前，他们吃了，果然还剩下，正如耶和华所说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "僕人就擺在眾人面前，他們吃了，果然還剩下，正如耶和華所說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

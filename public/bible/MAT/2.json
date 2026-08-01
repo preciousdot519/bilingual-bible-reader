@@ -1,0 +1,446 @@
+{
+  "bookId": "MAT",
+  "chapter": 2,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men from the east came to Jerusalem, saying,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:1 The word for “wise men” (magoi) can also mean teachers, scientists, physicians, astrologers, seers, interpreters of dreams, or sorcerers."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当希律王的时候，耶稣生在犹太的伯利恒。有几个博士从东方来到耶路撒冷，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當希律王的時候，耶穌生在猶太的伯利恆。有幾個博士從東方來到耶路撒冷，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Where is he who is born King of the Jews? For we saw his star in the east, and have come to worship him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那生下来作犹太人之王的在哪里？我们在东方看见他的星，特来拜他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那生下來作猶太人之王的在哪裏？我們在東方看見他的星，特來拜他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When King Herod heard it, he was troubled, and all Jerusalem with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律王听见了，就心里不安；耶路撒冷合城的人也都不安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律王聽見了，就心裏不安；耶路撒冷合城的人也都不安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Gathering together all the chief priests and scribes of the people, he asked them where the Christ would be born.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就召齐了祭司长和民间的文士，问他们说：「基督当生在何处？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就召齊了祭司長和民間的文士，問他們說：「基督當生在何處？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They said to him, “In Bethlehem of Judea, for this is written through the prophet,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们回答说：「在犹太的伯利恒。因为有先知记着，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們回答說：「在猶太的伯利恆。因為有先知記着，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "‘You Bethlehem, land of Judah, are in no way least among the princes of Judah; for out of you shall come a governor who shall shepherd my people, Israel.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:6 Micah 5:2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "犹大地的伯利恒啊， 你在犹大诸城中并不是最小的； 因为将来有一位君王要从你那里出来， 牧养我以色列民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大地的伯利恆啊， 你在猶大諸城中並不是最小的； 因為將來有一位君王要從你那裏出來， 牧養我以色列民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Then Herod secretly called the wise men, and learned from them exactly what time the star appeared.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当下，希律暗暗地召了博士来，细问那星是什么时候出现的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當下，希律暗暗地召了博士來，細問那星是甚麼時候出現的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He sent them to Bethlehem, and said, “Go and search diligently for the young child. When you have found him, bring me word, so that I also may come and worship him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就差他们往伯利恒去，说：「你们去仔细寻访那小孩子，寻到了就来报信，我也好去拜他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就差他們往伯利恆去，說：「你們去仔細尋訪那小孩子，尋到了就來報信，我也好去拜他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They, having heard the king, went their way; and behold, the star, which they saw in the east, went before them until it came and stood over where the young child was.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们听见王的话就去了。在东方所看见的那星忽然在他们前头行，直行到小孩子的地方，就在上头停住了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們聽見王的話就去了。在東方所看見的那星忽然在他們前頭行，直行到小孩子的地方，就在上頭停住了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "When they saw the star, they rejoiced with exceedingly great joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们看见那星，就大大地欢喜；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們看見那星，就大大地歡喜；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They came into the house and saw the young child with Mary, his mother, and they fell down and worshiped him. Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "进了房子，看见小孩子和他母亲马利亚，就俯伏拜那小孩子，揭开宝盒，拿黄金、乳香、没药为礼物献给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿黃金、乳香、沒藥為禮物獻給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Being warned in a dream not to return to Herod, they went back to their own country another way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "博士因为在梦中被主指示不要回去见希律，就从别的路回本地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "博士因為在夢中被主指示不要回去見希律，就從別的路回本地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Arise and take the young child and his mother, and flee into Egypt, and stay there until I tell you, for Herod will seek the young child to destroy him.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们去后，有主的使者向约瑟梦中显现，说：「起来！带着小孩子同他母亲逃往埃及，住在那里，等我吩咐你；因为希律必寻找小孩子，要除灭他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們去後，有主的使者向約瑟夢中顯現，說：「起來！帶着小孩子同他母親逃往埃及，住在那裏，等我吩咐你；因為希律必尋找小孩子，要除滅他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He arose and took the young child and his mother by night and departed into Egypt,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约瑟就起来，夜间带着小孩子和他母亲往埃及去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約瑟就起來，夜間帶着小孩子和他母親往埃及去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called my son.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:15 Hosea 11:1",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "住在那里，直到希律死了。这是要应验主借先知所说的话，说：「我从埃及召出我的儿子来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住在那裏，直到希律死了。這是要應驗主藉先知所說的話，說：「我從埃及召出我的兒子來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and sent out and killed all the male children who were in Bethlehem and in all the surrounding countryside, from two years old and under, according to the exact time which he had learned from the wise men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律见自己被博士愚弄，就大大发怒，差人将伯利恒城里并四境所有的男孩，照着他向博士仔细查问的时候，凡两岁以里的，都杀尽了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律見自己被博士愚弄，就大大發怒，差人將伯利恆城裏並四境所有的男孩，照着他向博士仔細查問的時候，凡兩歲以裏的，都殺盡了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Then that which was spoken by Jeremiah the prophet was fulfilled, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这就应了先知耶利米的话，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這就應了先知耶利米的話，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“A voice was heard in Ramah, lamentation, weeping and great mourning, Rachel weeping for her children; she wouldn’t be comforted, because they are no more.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "2:18 Jeremiah 31:15",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "在拉玛听见号咷大哭的声音， 是拉结哭她儿女， 不肯受安慰， 因为他们都不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在拉瑪聽見號咷大哭的聲音， 是拉結哭她兒女， 不肯受安慰， 因為他們都不在了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律死了以后，有主的使者在埃及向约瑟梦中显现，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律死了以後，有主的使者在埃及向約瑟夢中顯現，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“Arise and take the young child and his mother, and go into the land of Israel, for those who sought the young child’s life are dead.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「起来！带着小孩子和他母亲往以色列地去，因为要害小孩子性命的人已经死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「起來！帶着小孩子和他母親往以色列地去，因為要害小孩子性命的人已經死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He arose and took the young child and his mother, and came into the land of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约瑟就起来，把小孩子和他母亲带到以色列地去；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約瑟就起來，把小孩子和他母親帶到以色列地去；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But when he heard that Archelaus was reigning over Judea in the place of his father, Herod, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galilee,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只因听见亚基老接着他父亲希律作了犹太王，就怕往那里去，又在梦中被主指示，便往加利利境内去了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只因聽見亞基老接着他父親希律作了猶太王，就怕往那裏去，又在夢中被主指示，便往加利利境內去了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets that he will be called a Nazarene.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到了一座城，名叫拿撒勒，就住在那里。这是要应验先知所说，他将称为拿撒勒人的话了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到了一座城，名叫拿撒勒，就住在那裏。這是要應驗先知所說，他將稱為拿撒勒人的話了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

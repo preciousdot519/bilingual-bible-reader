@@ -1,0 +1,677 @@
+{
+  "bookId": "EZK",
+  "chapter": 27,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD’s word came again to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话又临到我说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話又臨到我說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“You, son of man, take up a lamentation over Tyre;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人子啊，要为泰尔作起哀歌，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人子啊，要為泰爾作起哀歌，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord GOD says: “You, Tyre, have said, ‘I am perfect in beauty.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说：你居住海口，是众民的商埠；你的交易通到许多的海岛。主耶和华如此说： 泰尔啊，你曾说： 我是全然美丽的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說：你居住海口，是眾民的商埠；你的交易通到許多的海島。主耶和華如此說： 泰爾啊，你曾說： 我是全然美麗的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Your borders are in the heart of the seas. Your builders have perfected your beauty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的境界在海中， 造你的使你全然美丽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的境界在海中， 造你的使你全然美麗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "They have made all your planks of cypress trees from Senir. They have taken a cedar from Lebanon to make a mast for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们用示尼珥的松树做你的一切板， 用黎巴嫩的香柏树做桅杆，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們用示尼珥的松樹做你的一切板， 用黎巴嫩的香柏樹做桅杆，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They have made your oars of the oaks of Bashan. They have made your benches of ivory inlaid in cypress wood from the islands of Kittim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用巴珊的橡树做你的桨， 用象牙镶嵌基提海岛的黄杨木为坐板。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:6 或译：舱板"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用巴珊的橡樹做你的槳， 用象牙鑲嵌基提海島的黃楊木為坐板。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:6 或譯：艙板"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Your sail was of fine linen with embroidered work from Egypt, that it might be to you for a banner. Blue and purple from the islands of Elishah was your awning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的篷帆是用埃及绣花细麻布做的， 可以做你的大旗； 你的凉棚是用以利沙岛的蓝色、紫色布做的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的篷帆是用埃及繡花細麻布做的， 可以做你的大旗； 你的涼棚是用以利沙島的藍色、紫色布做的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The inhabitants of Sidon and Arvad were your rowers. Your wise men, Tyre, were in you. They were your pilots.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "西顿和亚发的居民作你荡桨的。 泰尔啊，你中间的智慧人作掌舵的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "西頓和亞發的居民作你盪槳的。 泰爾啊，你中間的智慧人作掌舵的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The old men of Gebal and its wise men were your repairers of ship seams in you. All the ships of the sea with their mariners were in you to deal in your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦巴勒的老者和聪明人 都在你中间作补缝的； 一切泛海的船只和水手 都在你中间经营交易的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦巴勒的老者和聰明人 都在你中間作補縫的； 一切泛海的船隻和水手 都在你中間經營交易的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“‘“Persia, Lud, and Put were in your army, your men of war. They hung the shield and helmet in you. They showed your beauty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「波斯人、路德人、弗人在你军营中作战士；他们在你中间悬挂盾牌和头盔，彰显你的尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「波斯人、路德人、弗人在你軍營中作戰士；他們在你中間懸掛盾牌和頭盔，彰顯你的尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The men of Arvad with your army were on your walls all around, and valiant men were in your towers. They hung their shields on your walls all around. They have perfected your beauty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚发人和你的军队都在你四围的墙上，你的望楼也有勇士；他们悬挂盾牌，成全你的美丽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞發人和你的軍隊都在你四圍的牆上，你的望樓也有勇士；他們懸掛盾牌，成全你的美麗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“‘“Tarshish was your merchant by reason of the multitude of all kinds of riches. They traded for your wares with silver, iron, tin, and lead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「他施人因你多有各类的财物，就作你的客商，拿银、铁、锡、铅兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「他施人因你多有各類的財物，就作你的客商，拿銀、鐵、錫、鉛兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘“Javan, Tubal, and Meshech were your traders. They traded the persons of men and vessels of bronze for your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅完人、土巴人、米设人都与你交易；他们用人口和铜器兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅完人、土巴人、米設人都與你交易；他們用人口和銅器兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘“They of the house of Togarmah traded for your wares with horses, war horses, and mules.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "陀迦玛族用马和战马并骡子兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "陀迦瑪族用馬和戰馬並騾子兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“‘“The men of Dedan traded with you. Many islands were the market of your hand. They brought you horns of ivory and ebony in exchange.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "底但人与你交易，许多海岛作你的码头；他们拿象牙、乌木与你兑换。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:15 或译：进贡"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "底但人與你交易，許多海島作你的碼頭；他們拿象牙、烏木與你兌換。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:15 或譯：進貢"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“‘“Syria was your merchant by reason of the multitude of your handiworks. They traded for your wares with emeralds, purple, embroidered work, fine linen, coral, and rubies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚兰人因你的工作很多，就作你的客商；他们用绿宝石、紫色布绣货、细麻布、珊瑚、红宝石兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞蘭人因你的工作很多，就作你的客商；他們用綠寶石、紫色布繡貨、細麻布、珊瑚、紅寶石兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“‘“Judah and the land of Israel were your traders. They traded wheat of Minnith, confections, honey, oil, and balm for your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大和以色列地的人都与你交易；他们用米匿的麦子、饼、蜜、油、乳香兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大和以色列地的人都與你交易；他們用米匿的麥子、餅、蜜、油、乳香兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“‘“Damascus was your merchant for the multitude of your handiworks by reason of the multitude of all kinds of riches, with the wine of Helbon, and white wool.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大马士革人因你的工作很多，又因你多有各类的财物，就拿黑本酒和白羊毛与你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大馬士革人因你的工作很多，又因你多有各類的財物，就拿黑本酒和白羊毛與你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“‘“Vedan and Javan traded with yarn for your wares; wrought iron, cassia, and calamus were among your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "威但人和雅完人拿纺成的线、亮铁、桂皮、菖蒲兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "威但人和雅完人拿紡成的線、亮鐵、桂皮、菖蒲兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“‘“Dedan was your merchant in precious saddle blankets for riding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "底但人用高贵的毯子、鞍、屉与你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "底但人用高貴的毯子、鞍、屜與你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“‘“Arabia and all the princes of Kedar were your favorite dealers in lambs, rams, and goats. In these, they were your merchants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "阿拉伯人和基达的一切首领都作你的客商，用羊羔、公绵羊、公山羊与你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "阿拉伯人和基達的一切首領都作你的客商，用羊羔、公綿羊、公山羊與你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "“‘“The traders of Sheba and Raamah were your traders. They traded for your wares with the best of all spices, all precious stones, and gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示巴和拉玛的商人与你交易，他们用各类上好的香料、各类的宝石，和黄金兑换你的货物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示巴和拉瑪的商人與你交易，他們用各類上好的香料、各類的寶石，和黃金兌換你的貨物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“‘“Haran, Canneh, Eden, the traders of Sheba, Asshur and Chilmad, were your traders.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈兰人、干尼人、伊甸人、示巴的商人，和亚述人、基抹人与你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈蘭人、干尼人、伊甸人、示巴的商人，和亞述人、基抹人與你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "These were your traders in choice wares, in wrappings of blue and embroidered work, and in cedar chests of rich clothing bound with cords, among your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些商人以美好的货物包在绣花蓝色包袱内，又有华丽的衣服装在香柏木的箱子里，用绳捆着与你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些商人以美好的貨物包在繡花藍色包袱內，又有華麗的衣服裝在香柏木的箱子裏，用繩捆着與你交易。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“‘“The ships of Tarshish were your caravans for your merchandise. You were replenished and made very glorious in the heart of the seas.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他施的船只接连成帮为你运货， 你便在海中丰富极其荣华。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他施的船隻接連成幫為你運貨， 你便在海中豐富極其榮華。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Your rowers have brought you into great waters. The east wind has broken you in the heart of the seas.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "荡桨的已经把你荡到大水之处， 东风在海中将你打破。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "盪槳的已經把你盪到大水之處， 東風在海中將你打破。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Your riches, your wares, your merchandise, your mariners, your pilots, your repairers of ship seams, the dealers in your merchandise, and all your men of war who are in you, with all your company which is among you, will fall into the heart of the seas in the day of your ruin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的资财、物件、货物、 水手、掌舵的、 补缝的、经营交易的， 并你中间的战士和人民， 在你破坏的日子必都沉在海中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的資財、物件、貨物、 水手、掌舵的、 補縫的、經營交易的， 並你中間的戰士和人民， 在你破壞的日子必都沉在海中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "At the sound of the cry of your pilots, the pasture lands will shake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你掌舵的呼号之声一发， 郊野都必震动。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你掌舵的呼號之聲一發， 郊野都必震動。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "All who handle the oars, the mariners and all the pilots of the sea, will come down from their ships. They will stand on the land,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡荡桨的和水手， 并一切泛海掌舵的， 都必下船登岸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡盪槳的和水手， 並一切泛海掌舵的， 都必下船登岸。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "and will cause their voice to be heard over you, and will cry bitterly. They will cast up dust on their heads. They will wallow in the ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们必为你放声痛哭， 把尘土撒在头上， 在灰中打滚；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們必為你放聲痛哭， 把塵土撒在頭上， 在灰中打滾；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "They will make themselves bald for you, and clothe themselves with sackcloth. They will weep for you in bitterness of soul, with bitter mourning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又为你使头上光秃， 用麻布束腰， 号咷痛哭， 苦苦悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又為你使頭上光禿， 用麻布束腰， 號咷痛哭， 苦苦悲哀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "In their wailing they will take up a lamentation for you, and lament over you, saying, ‘Who is there like Tyre, like her who is brought to silence in the middle of the sea?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们哀号的时候， 为你作起哀歌哀哭， 说：有何城如泰尔？ 有何城如她在海中成为寂寞的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們哀號的時候， 為你作起哀歌哀哭， 說：有何城如泰爾？ 有何城如她在海中成為寂寞的呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "When your wares came from the seas, you filled many peoples. You enriched the kings of the earth with the multitude of your riches and of your merchandise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你由海上运出货物， 就使许多国民充足； 你以许多资财、货物 使地上的君王丰富。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你由海上運出貨物， 就使許多國民充足； 你以許多資財、貨物 使地上的君王豐富。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "In the time that you were broken by the seas, in the depths of the waters, your merchandise and all your company fell within you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你在深水中被海浪打破的时候， 你的货物和你中间的一切人民， 就都沉下去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你在深水中被海浪打破的時候， 你的貨物和你中間的一切人民， 就都沉下去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "All the inhabitants of the islands are astonished at you, and their kings are horribly afraid. They are troubled in their face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "海岛的居民为你惊奇； 他们的君王都甚恐慌， 面带愁容。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "海島的居民為你驚奇； 他們的君王都甚恐慌， 面帶愁容。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "The merchants among the peoples hiss at you. You have come to a terrible end, and you will be no more.”’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各国民中的客商都向你发嘶声； 你令人惊恐， 不再存留于世，直到永远。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各國民中的客商都向你發嘶聲； 你令人驚恐， 不再存留於世，直到永遠。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

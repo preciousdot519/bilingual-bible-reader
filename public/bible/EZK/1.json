@@ -1,0 +1,563 @@
+{
+  "bookId": "EZK",
+  "chapter": 1,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:1 The Hebrew word rendered “God” is “אֱלֹהִ֑ים*” (Elohim)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当三十年四月初五日，以西结在迦巴鲁河边被掳的人中，天就开了，得见 神的异象。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:1 原文是我"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當三十年四月初五日，以西結在迦巴魯河邊被擄的人中，天就開了，得見上帝的異象。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:1 原文是我"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "In the fifth of the month, which was the fifth year of King Jehoiachin’s captivity,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正是约雅斤王被掳去第五年四月初五日，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正是約雅斤王被擄去第五年四月初五日，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "the LORD’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the LORD’s hand was there on him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:3 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在迦勒底人之地、迦巴鲁河边，耶和华的话特特临到布西的儿子祭司以西结；耶和华的灵降在他身上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:3 原文是手"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在迦勒底人之地、迦巴魯河邊，耶和華的話特特臨到布西的兒子祭司以西結；耶和華的靈降在他身上。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:3 原文是手"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I looked, and behold, a stormy wind came out of the north: a great cloud, with flashing lightning, and a brightness around it, and out of the middle of it as it were glowing metal, out of the middle of the fire.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:4 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我观看，见狂风从北方刮来，随着有一朵包括闪烁火的大云，周围有光辉；从其中的火内发出好像光耀的精金；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我觀看，見狂風從北方颳來，隨着有一朵包括閃爍火的大雲，周圍有光輝；從其中的火內發出好像光耀的精金；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Out of its center came the likeness of four living creatures. This was their appearance: They had the likeness of a man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从其中显出四个活物的形象来。他们的形状是这样：有人的形象，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從其中顯出四個活物的形像來。他們的形狀是這樣：有人的形像，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Everyone had four faces, and each one of them had four wings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各有四个脸面，四个翅膀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各有四個臉面，四個翅膀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Their feet were straight feet. The sole of their feet was like the sole of a calf’s foot; and they sparkled like burnished bronze.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的腿是直的，脚掌好像牛犊之蹄，都灿烂如光明的铜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的腿是直的，腳掌好像牛犢之蹄，都燦爛如光明的銅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They had the hands of a man under their wings on their four sides. The four of them had their faces and their wings like this:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在四面的翅膀以下有人的手。这四个活物的脸和翅膀乃是这样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在四面的翅膀以下有人的手。這四個活物的臉和翅膀乃是這樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Their wings were joined to one another. They didn’t turn when they went. Each one went straight forward.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "翅膀彼此相接，行走并不转身，俱各直往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "翅膀彼此相接，行走並不轉身，俱各直往前行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "As for the likeness of their faces, they had the face of a man. The four of them had the face of a lion on the right side. The four of them had the face of an ox on the left side. The four of them also had the face of an eagle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于脸的形象：前面各有人的脸，右面各有狮子的脸，左面各有牛的脸，后面各有鹰的脸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於臉的形像：前面各有人的臉，右面各有獅子的臉，左面各有牛的臉，後面各有鷹的臉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Such were their faces. Their wings were spread out above. Two wings of each one touched another, and two covered their bodies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "各展开上边的两个翅膀相接，各以下边的两个翅膀遮体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "各展開上邊的兩個翅膀相接，各以下邊的兩個翅膀遮體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Each one went straight forward. Where the spirit was to go, they went. They didn’t turn when they went.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们俱各直往前行。灵往哪里去，他们就往那里去，行走并不转身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們俱各直往前行。靈往哪裏去，他們就往那裏去，行走並不轉身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches. The fire went up and down among the living creatures. The fire was bright, and lightning went out of the fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于四活物的形象，就如烧着火炭的形状，又如火把的形状。火在四活物中间上去下来，这火有光辉，从火中发出闪电。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於四活物的形像，就如燒着火炭的形狀，又如火把的形狀。火在四活物中間上去下來，這火有光輝，從火中發出閃電。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The living creatures ran and returned as the appearance of a flash of lightning.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这活物往来奔走，好像电光一闪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這活物往來奔走，好像電光一閃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Now as I saw the living creatures, behold, there was one wheel on the earth beside the living creatures, for each of the four faces of it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我正观看活物的时候，见活物的脸旁各有一轮在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我正觀看活物的時候，見活物的臉旁各有一輪在地上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The appearance of the wheels and their work was like a beryl. The four of them had one likeness. Their appearance and their work was as it were a wheel within a wheel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "轮的形状和颜色好像水苍玉。四轮都是一个样式，形状和作法好像轮中套轮。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:16 原文是作法"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "輪的形狀和顏色好像水蒼玉。四輪都是一個樣式，形狀和作法好像輪中套輪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 1:16 原文是作法"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "When they went, they went in their four directions. They didn’t turn when they went.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "轮行走的时候，向四方都能直行，并不掉转。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "輪行走的時候，向四方都能直行，並不掉轉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "As for their rims, they were high and dreadful; and the four of them had their rims full of eyes all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于轮辋，高而可畏；四个轮辋周围满有眼睛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於輪輞，高而可畏；四個輪輞周圍滿有眼睛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "When the living creatures went, the wheels went beside them. When the living creatures were lifted up from the earth, the wheels were lifted up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "活物行走，轮也在旁边行走；活物从地上升，轮也都上升。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "活物行走，輪也在旁邊行走；活物從地上升，輪也都上升。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Wherever the spirit was to go, they went. The spirit was to go there. The wheels were lifted up beside them; for the spirit of the living creature was in the wheels.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "灵往哪里去，活物就往那里去；活物上升，轮也在活物旁边上升，因为活物的灵在轮中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靈往哪裏去，活物就往那裏去；活物上升，輪也在活物旁邊上升，因為活物的靈在輪中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "When those went, these went. When those stood, these stood. When those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些行走，这些也行走；那些站住，这些也站住；那些从地上升，轮也在旁边上升，因为活物的灵在轮中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些行走，這些也行走；那些站住，這些也站住；那些從地上升，輪也在旁邊上升，因為活物的靈在輪中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Over the head of the living creature there was the likeness of an expanse, like an awesome crystal to look at, stretched out over their heads above.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "活物的头以上有穹苍的形象，看着像可畏的水晶，铺张在活物的头以上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "活物的頭以上有穹蒼的形像，看着像可畏的水晶，鋪張在活物的頭以上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Under the expanse, their wings were straight, one toward the other. Each one had two which covered on this side, and each one had two which covered their bodies on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "穹苍以下，活物的翅膀直张，彼此相对；每活物有两个翅膀遮体。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "穹蒼以下，活物的翅膀直張，彼此相對；每活物有兩個翅膀遮體。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "When they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an army. When they stood, they let down their wings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "活物行走的时候，我听见翅膀的响声，像大水的声音，像全能者的声音，也像军队哄嚷的声音。活物站住的时候，便将翅膀垂下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "活物行走的時候，我聽見翅膀的響聲，像大水的聲音，像全能者的聲音，也像軍隊鬨嚷的聲音。活物站住的時候，便將翅膀垂下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There was a voice above the expanse that was over their heads. When they stood, they let down their wings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们头以上的穹苍之上有声音。他们站住的时候，便将翅膀垂下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們頭以上的穹蒼之上有聲音。他們站住的時候，便將翅膀垂下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire stone. On the likeness of the throne was a likeness as the appearance of a man on it above.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:26 or, lapis lazuli"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他们头以上的穹苍之上有宝座的形象，仿佛蓝宝石；在宝座形象以上有仿佛人的形状。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他們頭以上的穹蒼之上有寶座的形像，彷彿藍寶石；在寶座形像以上有彷彿人的形狀。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "I saw as it were glowing metal, as the appearance of fire within it all around, from the appearance of his waist and upward; and from the appearance of his waist and downward I saw as it were the appearance of fire, and there was brightness around him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我见从他腰以上有仿佛光耀的精金，周围都有火的形状，又见从他腰以下有仿佛火的形状，周围也有光辉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我見從他腰以上有彷彿光耀的精金，周圍都有火的形狀，又見從他腰以下有彷彿火的形狀，周圍也有光輝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of the LORD’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "下雨的日子，云中虹的形状怎样，周围光辉的形状也是怎样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "下雨的日子，雲中虹的形狀怎樣，周圍光輝的形狀也是怎樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

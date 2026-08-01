@@ -1,0 +1,1027 @@
+{
+  "bookId": "NUM",
+  "chapter": 33,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "These are the journeys of the children of Israel, when they went out of the land of Egypt by their armies under the hand of Moses and Aaron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人按着军队，在摩西、亚伦的手下出埃及地所行的路程记在下面。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:1 或译：站口；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人按着軍隊，在摩西、亞倫的手下出埃及地所行的路程記在下面。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:1 或譯：站口；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Moses wrote the starting points of their journeys by the commandment of the LORD. These are their journeys according to their starting points.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西遵着耶和华的吩咐记载他们所行的路程，其路程乃是这样：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西遵着耶和華的吩咐記載他們所行的路程，其路程乃是這樣：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They traveled from Rameses in the first month, on the fifteenth day of the first month; on the next day after the Passover, the children of Israel went out with a high hand in the sight of all the Egyptians,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正月十五日，就是逾越节的次日，以色列人从兰塞起行，在一切埃及人眼前昂然无惧地出去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正月十五日，就是逾越節的次日，以色列人從蘭塞起行，在一切埃及人眼前昂然無懼地出去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "while the Egyptians were burying all their firstborn, whom the LORD had struck among them. The LORD also executed judgments on their gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，埃及人正葬埋他们的长子，就是耶和华在他们中间所击杀的；耶和华也败坏他们的神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，埃及人正葬埋他們的長子，就是耶和華在他們中間所擊殺的；耶和華也敗壞他們的神。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The children of Israel traveled from Rameses, and encamped in Succoth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人从兰塞起行，安营在疏割。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人從蘭塞起行，安營在疏割。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They traveled from Succoth, and encamped in Etham, which is in the edge of the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从疏割起行，安营在旷野边的以倘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從疏割起行，安營在曠野邊的以倘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They traveled from Etham, and turned back to Pihahiroth, which is before Baal Zephon, and they encamped before Migdol.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从以倘起行，转到比哈·希录，是在巴力·洗分对面，就在密夺安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從以倘起行，轉到比‧哈希錄，是在巴力‧洗分對面，就在密奪安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They traveled from before Hahiroth, and crossed through the middle of the sea into the wilderness. They went three days’ journey in the wilderness of Etham, and encamped in Marah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从比哈·希录对面起行，经过海中到了书珥旷野，又在伊坦的旷野走了三天的路程，就安营在玛拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從比‧哈希錄對面起行，經過海中到了書珥曠野，又在伊坦的曠野走了三天的路程，就安營在瑪拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "They traveled from Marah, and came to Elim. In Elim, there were twelve springs of water and seventy palm trees, and they encamped there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从玛拉起行，来到以琳（以琳有十二股水泉，七十棵棕树），就在那里安营。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從瑪拉起行，來到以琳（以琳有十二股水泉，七十棵棕樹），就在那裏安營。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They traveled from Elim, and encamped by the Red Sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从以琳起行，安营在红海边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從以琳起行，安營在紅海邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They traveled from the Red Sea, and encamped in the wilderness of Sin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从红海边起行，安营在汛的旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從紅海邊起行，安營在汛的曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They traveled from the wilderness of Sin, and encamped in Dophkah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从汛的旷野起行，安营在脱加。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從汛的曠野起行，安營在脫加。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "They traveled from Dophkah, and encamped in Alush.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从脱加起行，安营在亚录。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從脫加起行，安營在亞錄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They traveled from Alush, and encamped in Rephidim, where there was no water for the people to drink.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从亚录起行，安营在利非订；在那里，百姓没有水喝。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從亞錄起行，安營在利非訂；在那裏，百姓沒有水喝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "They traveled from Rephidim, and encamped in the wilderness of Sinai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从利非订起行，安营在西奈的旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從利非訂起行，安營在西奈的曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They traveled from the wilderness of Sinai, and encamped in Kibroth Hattaavah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从西奈的旷野起行，安营在基博罗·哈他瓦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從西奈的曠野起行，安營在基博羅‧哈他瓦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They traveled from Kibroth Hattaavah, and encamped in Hazeroth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从基博罗·哈他瓦起行，安营在哈洗录。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從基博羅‧哈他瓦起行，安營在哈洗錄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "They traveled from Hazeroth, and encamped in Rithmah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从哈洗录起行，安营在利提玛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從哈洗錄起行，安營在利提瑪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They traveled from Rithmah, and encamped in Rimmon Perez.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从利提玛起行，安营在临门·帕烈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從利提瑪起行，安營在臨門‧帕烈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They traveled from Rimmon Perez, and encamped in Libnah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从临门·帕烈起行，安营在立拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從臨門‧帕烈起行，安營在立拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They traveled from Libnah, and encamped in Rissah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从立拿起行，安营在勒撒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從立拿起行，安營在勒撒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "They traveled from Rissah, and encamped in Kehelathah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从勒撒起行，安营在基希拉他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從勒撒起行，安營在基希拉他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They traveled from Kehelathah, and encamped in Mount Shepher.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从基希拉他起行，安营在沙斐山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從基希拉他起行，安營在沙斐山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They traveled from Mount Shepher, and encamped in Haradah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从沙斐山起行，安营在哈拉大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從沙斐山起行，安營在哈拉大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They traveled from Haradah, and encamped in Makheloth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从哈拉大起行，安营在玛吉希录。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從哈拉大起行，安營在瑪吉希錄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "They traveled from Makheloth, and encamped in Tahath.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从玛吉希录起行，安营在他哈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從瑪吉希錄起行，安營在他哈。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They traveled from Tahath, and encamped in Terah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从他哈起行，安营在他拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從他哈起行，安營在他拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "They traveled from Terah, and encamped in Mithkah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从他拉起行，安营在密加。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從他拉起行，安營在密加。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "They traveled from Mithkah, and encamped in Hashmonah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从密加起行，安营在哈摩拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從密加起行，安營在哈摩拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "They traveled from Hashmonah, and encamped in Moseroth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从哈摩拿起行，安营在摩西录。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從哈摩拿起行，安營在摩西錄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "They traveled from Moseroth, and encamped in Bene Jaakan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从摩西录起行，安营在比尼·亚干。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從摩西錄起行，安營在比尼‧亞干。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They traveled from Bene Jaakan, and encamped in Hor Haggidgad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从比尼·亚干起行，安营在曷·哈及甲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從比尼‧亞干起行，安營在曷‧哈及甲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "They traveled from Hor Haggidgad, and encamped in Jotbathah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从曷·哈及甲起行，安营在约巴他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從曷‧哈及甲起行，安營在約巴他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "They traveled from Jotbathah, and encamped in Abronah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从约巴他起行，安营在阿博拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從約巴他起行，安營在阿博拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "They traveled from Abronah, and encamped in Ezion Geber.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从阿博拿起行，安营在以旬·迦别。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從阿博拿起行，安營在以旬‧迦別。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "They traveled from Ezion Geber, and encamped at Kadesh in the wilderness of Zin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从以旬·迦别起行，安营在寻的旷野，就是加低斯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從以旬‧迦別起行，安營在尋的曠野，就是加低斯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "They traveled from Kadesh, and encamped in Mount Hor, in the edge of the land of Edom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从加低斯起行，安营在何珥山，以东地的边界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從加低斯起行，安營在何珥山，以東地的邊界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Aaron the priest went up into Mount Hor at the commandment of the LORD and died there, in the fortieth year after the children of Israel had come out of the land of Egypt, in the fifth month, on the first day of the month.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人出了埃及地后四十年，五月初一日，祭司亚伦遵着耶和华的吩咐上何珥山，就死在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人出了埃及地後四十年，五月初一日，祭司亞倫遵着耶和華的吩咐上何珥山，就死在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Aaron was one hundred twenty-three years old when he died in Mount Hor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚伦死在何珥山的时候年一百二十三岁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞倫死在何珥山的時候年一百二十三歲。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "The Canaanite king of Arad, who lived in the South in the land of Canaan, heard of the coming of the children of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住在迦南南地的迦南人亚拉得王听说以色列人来了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住在迦南南地的迦南人亞拉得王聽說以色列人來了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "They traveled from Mount Hor, and encamped in Zalmonah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人从何珥山起行，安营在撒摩拿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人從何珥山起行，安營在撒摩拿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "They traveled from Zalmonah, and encamped in Punon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从撒摩拿起行，安营在普嫩。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從撒摩拿起行，安營在普嫩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "They traveled from Punon, and encamped in Oboth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从普嫩起行，安营在阿伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從普嫩起行，安營在阿伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "They traveled from Oboth, and encamped in Iye Abarim, in the border of Moab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从阿伯起行，安营在以耶·亚巴琳，摩押的边界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從阿伯起行，安營在以耶‧亞巴琳，摩押的邊界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "They traveled from Iyim, and encamped in Dibon Gad.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从以耶·亚巴琳起行，安营在底本·迦得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從以耶‧亞巴琳起行，安營在底本‧迦得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "They traveled from Dibon Gad, and encamped in Almon Diblathaim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从底本·迦得起行，安营在亚门·低比拉太音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從底本‧迦得起行，安營在亞門‧低比拉太音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "They traveled from Almon Diblathaim, and encamped in the mountains of Abarim, before Nebo.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从亚门·低比拉太音起行，安营在尼波对面的亚巴琳山里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從亞門‧低比拉太音起行，安營在尼波對面的亞巴琳山裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "They traveled from the mountains of Abarim, and encamped in the plains of Moab by the Jordan at Jericho.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从亚巴琳山起行，安营在摩押平原—约旦河边、耶利哥对面。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從亞巴琳山起行，安營在摩押平原－約旦河邊、耶利哥對面。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "They encamped by the Jordan, from Beth Jeshimoth even to Abel Shittim in the plains of Moab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在摩押平原沿约旦河边安营，从伯·耶施末直到亚伯·什亭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在摩押平原沿約旦河邊安營，從伯‧耶施末直到亞伯‧什亭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "The LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华在摩押平原—约旦河边、耶利哥对面晓谕摩西说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華在摩押平原－約旦河邊、耶利哥對面曉諭摩西說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "Speak to the children of Israel, and tell them, “When you pass over the Jordan into the land of Canaan,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你吩咐以色列人说：你们过约旦河进迦南地的时候，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你吩咐以色列人說：你們過約旦河進迦南地的時候，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "then you shall drive out all the inhabitants of the land from before you, destroy all their stone idols, destroy all their molten images, and demolish all their high places.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就要从你们面前赶出那里所有的居民，毁灭他们一切錾成的石像和他们一切铸成的偶像，又拆毁他们一切的邱坛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就要從你們面前趕出那裏所有的居民，毀滅他們一切鏨成的石像和他們一切鑄成的偶像，又拆毀他們一切的邱壇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "You shall take possession of the land, and dwell therein; for I have given the land to you to possess it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要夺那地，住在其中，因我把那地赐给你们为业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要奪那地，住在其中，因我把那地賜給你們為業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "You shall inherit the land by lot according to your families; to the larger groups you shall give a larger inheritance, and to the smaller you shall give a smaller inheritance. Wherever the lot falls to any man, that shall be his. You shall inherit according to the tribes of your fathers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要按家室拈阄，承受那地；人多的，要把产业多分给他们；人少的，要把产业少分给他们。拈出何地给何人，就要归何人。你们要按宗族的支派承受。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要按家室拈鬮，承受那地；人多的，要把產業多分給他們；人少的，要把產業少分給他們。拈出何地給何人，就要歸何人。你們要按宗族的支派承受。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "“But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you dwell.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若你们不赶出那地的居民，所容留的居民就必作你们眼中的刺，肋下的荆棘，也必在你们所住的地上扰害你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若你們不趕出那地的居民，所容留的居民就必作你們眼中的刺，肋下的荊棘，也必在你們所住的地上擾害你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "It shall happen that as I thought to do to them, so I will do to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "而且我素常有意怎样待他们，也必照样待你们。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "而且我素常有意怎樣待他們，也必照樣待你們。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

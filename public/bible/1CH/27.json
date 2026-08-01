@@ -1,0 +1,631 @@
+{
+  "bookId": "1CH",
+  "chapter": 27,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人的族长、千夫长、百夫长，和官长都分定班次，每班是二万四千人，周年按月轮流，替换出入服事王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人的族長、千夫長、百夫長，和官長都分定班次，每班是二萬四千人，週年按月輪流，替換出入服事王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Over the first division for the first month was Jashobeam the son of Zabdiel. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正月第一班的班长是撒巴第业的儿子雅朔班；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正月第一班的班長是撒巴第業的兒子雅朔班；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He was of the children of Perez, the chief of all the captains of the army for the first month.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他是法勒斯的子孙，统管正月班的一切军长。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他是法勒斯的子孫，統管正月班的一切軍長。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Over the division of the second month was Dodai the Ahohite and his division, and Mikloth the ruler; and in his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二月的班长是亚哈希人朵代，还有副官密基罗；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二月的班長是亞哈希人朵代，還有副官密基羅；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The third captain of the army for the third month was Benaiah, the son of Jehoiada the chief priest. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "三月第三班的班长是祭司耶何耶大的儿子比拿雅；他班内有二万四千人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:5 原文是军长；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "三月第三班的班長是祭司耶何耶大的兒子比拿雅；他班內有二萬四千人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 27:5 原文是軍長；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "This is that Benaiah who was the mighty man of the thirty and over the thirty. Of his division was Ammizabad his son.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这比拿雅是那三十人中的勇士，管理那三十人；他班内又有他儿子暗米萨拔。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這比拿雅是那三十人中的勇士，管理那三十人；他班內又有他兒子暗米薩拔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四月第四班的班长是约押的兄弟亚撒黑。接续他的是他儿子西巴第雅；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四月第四班的班長是約押的兄弟亞撒黑。接續他的是他兒子西巴第雅；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The fifth captain for the fifth month was Shamhuth the Izrahite. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "五月第五班的班长是伊斯拉人珊合；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "五月第五班的班長是伊斯拉人珊合；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六月第六班的班长是提哥亚人益吉的儿子以拉；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六月第六班的班長是提哥亞人益吉的兒子以拉；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七月第七班的班长是以法莲族比伦人希利斯；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七月第七班的班長是以法蓮族比倫人希利斯；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The eighth captain for the eighth month was Sibbecai the Hushathite, of the Zerahites. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "八月第八班的班长是谢拉族户沙人西比该；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "八月第八班的班長是謝拉族戶沙人西比該；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The ninth captain for the ninth month was Abiezer the Anathothite, of the Benjamites. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "九月第九班的班长是便雅悯族亚拿突人亚比以谢；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "九月第九班的班長是便雅憫族亞拿突人亞比以謝；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The tenth captain for the tenth month was Maharai the Netophathite, of the Zerahites. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "十月第十班的班长是谢拉族尼陀法人玛哈莱；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "十月第十班的班長是謝拉族尼陀法人瑪哈萊；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "十一月第十一班的班长是以法莲族比拉顿人比拿雅；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "十一月第十一班的班長是以法蓮族比拉頓人比拿雅；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel. In his division were twenty-four thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "十二月第十二班的班长是俄陀聂族尼陀法人黑玳；他班内有二万四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "十二月第十二班的班長是俄陀聶族尼陀法人黑玳；他班內有二萬四千人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Furthermore over the tribes of Israel: of the Reubenites, Eliezer the son of Zichri was the ruler; of the Simeonites, Shephatiah the son of Maacah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管理以色列众支派的记在下面：管吕便人的是细基利的儿子以利以谢；管西缅人的是玛迦的儿子示法提雅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管理以色列眾支派的記在下面：管呂便人的是細基利的兒子以利以謝；管西緬人的是瑪迦的兒子示法提雅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "of Levi, Hashabiah the son of Kemuel; of Aaron, Zadok;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管利未人的是基母利的儿子哈沙比雅；管亚伦子孙的是撒督；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管利未人的是基母利的兒子哈沙比雅；管亞倫子孫的是撒督；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "of Judah, Elihu, one of the brothers of David; of Issachar, Omri the son of Michael;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管犹大人的是大卫的一个哥哥以利户；管以萨迦人的是米迦勒的儿子暗利；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管猶大人的是大衛的一個哥哥以利戶；管以薩迦人的是米迦勒的兒子暗利；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "of Zebulun, Ishmaiah the son of Obadiah; of Naphtali, Jeremoth the son of Azriel;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管西布伦人的是俄巴第雅的儿子伊施玛雅；管拿弗他利人的是亚斯列的儿子耶利摩；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管西布倫人的是俄巴第雅的兒子伊施瑪雅；管拿弗他利人的是亞斯列的兒子耶利摩；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "of the children of Ephraim, Hoshea the son of Azaziah; of the half-tribe of Manasseh, Joel the son of Pedaiah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管以法莲人的是阿撒细雅的儿子何细亚；管玛拿西半支派的是毗大雅的儿子约珥；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管以法蓮人的是阿撒細雅的兒子何細亞；管瑪拿西半支派的是毗大雅的兒子約珥；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "of the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; of Benjamin, Jaasiel the son of Abner;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管基列地玛拿西那半支派的是撒迦利亚的儿子易多；管便雅悯人的是押尼珥的儿子雅西业；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管基列地瑪拿西那半支派的是撒迦利亞的兒子易多；管便雅憫人的是押尼珥的兒子雅西業；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "of Dan, Azarel the son of Jeroham. These were the captains of the tribes of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "管但人的是耶罗罕的儿子亚萨列。以上是以色列众支派的首领。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "管但人的是耶羅罕的兒子亞薩列。以上是以色列眾支派的首領。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But David didn’t take the number of them from twenty years old and under, because the LORD had said he would increase Israel like the stars of the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人二十岁以内的，大卫没有记其数目；因耶和华曾应许说，必加增以色列人如天上的星那样多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人二十歲以內的，大衛沒有記其數目；因耶和華曾應許說，必加增以色列人如天上的星那樣多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Joab the son of Zeruiah began to take a census, but didn’t finish; and wrath came on Israel for this. The number wasn’t put into the account in the chronicles of King David.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洗鲁雅的儿子约押动手数点，当时耶和华的烈怒临到以色列人；因此，没有点完，数目也没有写在大卫王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洗魯雅的兒子約押動手數點，當時耶和華的烈怒臨到以色列人；因此，沒有點完，數目也沒有寫在大衛王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Over the king’s treasures was Azmaveth the son of Adiel. Over the treasures in the fields, in the cities, in the villages, and in the towers was Jonathan the son of Uzziah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管王府库的是亚叠的儿子押斯马威。掌管田野城邑村庄保障之仓库的是乌西雅的儿子约拿单。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管王府庫的是亞疊的兒子押斯馬威。掌管田野城邑村莊保障之倉庫的是烏西雅的兒子約拿單。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Over those who did the work of the field for tillage of the ground was Ezri the son of Chelub.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管耕田种地的是基绿的儿子以斯利。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管耕田種地的是基綠的兒子以斯利。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Over the vineyards was Shimei the Ramathite. Over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管葡萄园的是拉玛人示每。掌管葡萄园酒窖的是实弗米人撒巴底。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管葡萄園的是拉瑪人示每。掌管葡萄園酒窖的是實弗米人撒巴底。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Over the olive trees and the sycamore trees that were in the lowland was Baal Hanan the Gederite. Over the cellars of oil was Joash.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管高原橄榄树和桑树的是基第利人巴勒·哈南。掌管油库的是约阿施。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管高原橄欖樹和桑樹的是基第利人巴勒‧哈南。掌管油庫的是約阿施。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Over the herds that fed in Sharon was Shitrai the Sharonite. Over the herds that were in the valleys was Shaphat the son of Adlai.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管沙 牧放牛群的是沙 人施提赉。掌管山谷牧养牛群的是亚第赉的儿子沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管沙崙牧放牛群的是沙崙人施提賚。掌管山谷牧養牛群的是亞第賚的兒子沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Over the camels was Obil the Ishmaelite. Over the donkeys was Jehdeiah the Meronothite. Over the flocks was Jaziz the Hagrite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "掌管驼群的是以实玛利人阿比勒。掌管驴群的是米 人耶希底亚。掌管羊群的是夏甲人雅悉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掌管駝群的是以實瑪利人阿比勒。掌管驢群的是米崙人耶希底亞。掌管羊群的是夏甲人雅悉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "All these were the rulers of the property which was King David’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是给大卫王掌管产业的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是給大衛王掌管產業的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Also Jonathan, David’s uncle, was a counselor, a man of understanding, and a scribe. Jehiel the son of Hachmoni was with the king’s sons.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫的叔叔约拿单作谋士；这人有智慧，又作书记。哈摩尼的儿子耶歇作王众子的师傅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛的叔叔約拿單作謀士；這人有智慧，又作書記。哈摩尼的兒子耶歇作王眾子的師傅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Ahithophel was the king’s counselor. Hushai the Archite was the king’s friend.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希多弗也作王的谋士。亚基人户筛作王的陪伴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希多弗也作王的謀士。亞基人戶篩作王的陪伴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "After Ahithophel was Jehoiada the son of Benaiah, and Abiathar. Joab was the captain of the king’s army.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚希多弗之后，有比拿雅的儿子耶何耶大和亚比亚他接续他作谋士。约押作王的元帅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞希多弗之後，有比拿雅的兒子耶何耶大和亞比亞他接續他作謀士。約押作王的元帥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

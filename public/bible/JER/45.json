@@ -1,0 +1,109 @@
+{
+  "bookId": "JER",
+  "chapter": 45,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大王约西亚的儿子约雅敬第四年，尼利亚的儿子巴录将先知耶利米口中所说的话写在书上。耶利米说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大王約西亞的兒子約雅敬第四年，尼利亞的兒子巴錄將先知耶利米口中所說的話寫在書上。耶利米說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“The LORD, the God of Israel, says to you, Baruch:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「巴录啊，耶和华—以色列的 神说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「巴錄啊，耶和華－以色列的上帝說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "‘You said, “Woe is me now! For the LORD has added sorrow to my pain! I am weary with my groaning, and I find no rest.”’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴录曾说：『哀哉！耶和华将忧愁加在我的痛苦上，我因唉哼而困乏，不得安歇。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 45:3 原文是你"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴錄曾說：『哀哉！耶和華將憂愁加在我的痛苦上，我因唉哼而困乏，不得安歇。』",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 45:3 原文是你"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“You shall tell him, the LORD says: ‘Behold, that which I have built, I will break down, and that which I have planted I will pluck up; and this in the whole land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要这样告诉他，耶和华如此说：我所建立的，我必拆毁；我所栽植的，我必拔出；在全地我都如此行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要這樣告訴他，耶和華如此說：我所建立的，我必拆毀；我所栽植的，我必拔出；在全地我都如此行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh,’ says the LORD, ‘but I will let you escape with your life wherever you go.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你为自己图谋大事吗？不要图谋！我必使灾祸临到凡有血气的。但你无论往哪里去，我必使你以自己的命为掠物。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你為自己圖謀大事嗎？不要圖謀！我必使災禍臨到凡有血氣的。但你無論往哪裏去，我必使你以自己的命為掠物。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

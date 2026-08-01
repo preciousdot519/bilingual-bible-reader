@@ -1,0 +1,423 @@
+{
+  "bookId": "PHP",
+  "chapter": 4,
+  "bookEnglish": "Philippians",
+  "bookChineseSimplified": "腓立比书",
+  "bookChineseTraditional": "腓立比書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所亲爱、所想念的弟兄们，你们就是我的喜乐，我的冠冕。我亲爱的弟兄，你们应当靠主站立得稳。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所親愛、所想念的弟兄們，你們就是我的喜樂，我的冠冕。我親愛的弟兄，你們應當靠主站立得穩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我劝友阿蝶和循都基，要在主里同心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我勸友阿蝶和循都基，要在主裏同心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Yes, I beg you also, true partner, help these women, for they labored with me in the Good News with Clement also, and the rest of my fellow workers, whose names are in the book of life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我也求你这真实同负一轭的，帮助这两个女人，因为她们在福音上曾与我一同劳苦；还有革利免，并其余和我一同做工的，他们的名字都在生命册上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我也求你這真實同負一軛的，幫助這兩個女人，因為她們在福音上曾與我一同勞苦；還有革利免，並其餘和我一同做工的，他們的名字都在生命冊上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Rejoice in the Lord always! Again I will say, “Rejoice!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要靠主常常喜乐。我再说，你们要喜乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要靠主常常喜樂。我再說，你們要喜樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Let your gentleness be known to all men. The Lord is at hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当叫众人知道你们谦让的心。主已经近了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當叫眾人知道你們謙讓的心。主已經近了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "应当一无挂虑，只要凡事借着祷告、祈求，和感谢，将你们所要的告诉 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "應當一無掛慮，只要凡事藉着禱告、祈求，和感謝，將你們所要的告訴上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神所赐、出人意外的平安必在基督耶稣里保守你们的心怀意念。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝所賜、出人意外的平安必在基督耶穌裏保守你們的心懷意念。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report: if there is any virtue and if there is anything worthy of praise, think about these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我还有未尽的话：凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的，若有什么德行，若有什么称赞，这些事你们都要思念。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我還有未盡的話：凡是真實的、可敬的、公義的、清潔的、可愛的、有美名的，若有甚麼德行，若有甚麼稱讚，這些事你們都要思念。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Do the things which you learned, received, heard, and saw in me, and the God of peace will be with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们在我身上所学习的，所领受的，所听见的，所看见的，这些事你们都要去行，赐平安的 神就必与你们同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們在我身上所學習的，所領受的，所聽見的，所看見的，這些事你們都要去行，賜平安的上帝就必與你們同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "But I rejoice in the Lord greatly that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我靠主大大地喜乐，因为你们思念我的心如今又发生；你们向来就思念我，只是没得机会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我靠主大大地喜樂，因為你們思念我的心如今又發生；你們向來就思念我，只是沒得機會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Not that I speak because of lack, for I have learned in whatever state I am, to be content in it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我并不是因缺乏说这话；我无论在什么景况都可以知足，这是我已经学会了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我並不是因缺乏說這話；我無論在甚麼景況都可以知足，這是我已經學會了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I know how to be humbled, and I also know how to abound. In any and all circumstances I have learned the secret both to be filled and to be hungry, both to abound and to be in need.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我知道怎样处卑贱，也知道怎样处丰富；或饱足，或饥饿；或有余，或缺乏，随事随在，我都得了秘诀。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我知道怎樣處卑賤，也知道怎樣處豐富；或飽足，或飢餓；或有餘，或缺乏，隨事隨在，我都得了秘訣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "I can do all things through Christ who strengthens me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我靠着那加给我力量的，凡事都能做。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我靠着那加給我力量的，凡事都能做。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "However you did well that you shared in my affliction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，你们和我同受患难原是美事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，你們和我同受患難原是美事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "You yourselves also know, you Philippians, that in the beginning of the Good News, when I departed from Macedonia, no assembly shared with me in the matter of giving and receiving but you only.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "腓立比人哪，你们也知道我初传福音离了马其顿的时候，论到授受的事，除了你们以外，并没有别的教会供给我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "腓立比人哪，你們也知道我初傳福音離了馬其頓的時候，論到授受的事，除了你們以外，並沒有別的教會供給我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For even in Thessalonica you sent once and again to my need.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是我在帖撒罗尼迦，你们也一次两次地打发人供给我的需用。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是我在帖撒羅尼迦，你們也一次兩次地打發人供給我的需用。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Not that I seek for the gift, but I seek for the fruit that increases to your account.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我并不求什么馈送，所求的就是你们的果子渐渐增多，归在你们的帐上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我並不求甚麼餽送，所求的就是你們的果子漸漸增多，歸在你們的帳上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "But I have all things and abound. I am filled, having received from Epaphroditus the things that came from you, a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但我样样都有，并且有余。我已经充足，因我从以巴弗提受了你们的馈送，当作极美的香气，为 神所收纳、所喜悦的祭物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但我樣樣都有，並且有餘。我已經充足，因我從以巴弗提受了你們的餽送，當作極美的香氣，為上帝所收納、所喜悅的祭物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "My God will supply every need of yours according to his riches in glory in Christ Jesus.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神必照他荣耀的丰富，在基督耶稣里，使你们一切所需用的都充足。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝必照他榮耀的豐富，在基督耶穌裏，使你們一切所需用的都充足。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Now to our God and Father be the glory forever and ever! Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿荣耀归给我们的父 神，直到永永远远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願榮耀歸給我們的父上帝，直到永永遠遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Greet every saint in Christ Jesus. The brothers who are with me greet you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请问在基督耶稣里的各位圣徒安。在我这里的众弟兄都问你们安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請問在基督耶穌裏的各位聖徒安。在我這裏的眾弟兄都問你們安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "All the saints greet you, especially those who are of Caesar’s household.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众圣徒都问你们安。在凯撒家里的人特特地问你们安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾聖徒都問你們安。在凱撒家裏的人特特地問你們安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The grace of the Lord Jesus Christ be with you all. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿主耶稣基督的恩常在你们心里！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願主耶穌基督的恩常在你們心裏！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

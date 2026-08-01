@@ -1,0 +1,623 @@
+{
+  "bookId": "JOB",
+  "chapter": 36,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Elihu also continued, and said,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以利户又接着说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以利戶又接着說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Bear with me a little, and I will show you; for I still have something to say on God’s behalf.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你再容我片时，我就指示你， 因我还有话为 神说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你再容我片時，我就指示你， 因我還有話為上帝說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I will get my knowledge from afar, and will ascribe righteousness to my Maker.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将所知道的从远处引来， 将公义归给造我的主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將所知道的從遠處引來， 將公義歸給造我的主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For truly my words are not false. One who is perfect in knowledge is with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的言语真不虚谎； 有知识全备的与你同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的言語真不虛謊； 有知識全備的與你同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Behold, God is mighty, and doesn’t despise anyone. He is mighty in strength of understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神有大能，并不藐视人； 他的智慧甚广。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝有大能，並不藐視人； 他的智慧甚廣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He doesn’t preserve the life of the wicked, but gives justice to the afflicted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他不保护恶人的性命， 却为困苦人伸冤。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他不保護惡人的性命， 卻為困苦人伸冤。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He doesn’t withdraw his eyes from the righteous, but with kings on the throne, he sets them forever, and they are exalted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他时常看顾义人， 使他们和君王同坐宝座， 永远要被高举。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他時常看顧義人， 使他們和君王同坐寶座， 永遠要被高舉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "If they are bound in fetters, and are taken in the cords of afflictions,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们若被锁链捆住， 被苦难的绳索缠住，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們若被鎖鍊捆住， 被苦難的繩索纏住，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "then he shows them their work, and their transgressions, that they have behaved themselves proudly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就把他们的作为和过犯指示他们， 叫他们知道有骄傲的行动。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就把他們的作為和過犯指示他們， 叫他們知道有驕傲的行動。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He also opens their ears to instruction, and commands that they return from iniquity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也开通他们的耳朵得受教训， 吩咐他们离开罪孽转回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也開通他們的耳朵得受教訓， 吩咐他們離開罪孽轉回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "If they listen and serve him, they will spend their days in prosperity, and their years in pleasures.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们若听从事奉他， 就必度日亨通，历年福乐；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們若聽從事奉他， 就必度日亨通，歷年福樂；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "But if they don’t listen, they will perish by the sword; they will die without knowledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不听从， 就要被刀杀灭，无知无识而死。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不聽從， 就要被刀殺滅，無知無識而死。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“But those who are godless in heart lay up anger. They don’t cry for help when he binds them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那心中不敬虔的人积蓄怒气； 神捆绑他们，他们竟不求救；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那心中不敬虔的人積蓄怒氣； 上帝捆綁他們，他們竟不求救；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "They die in youth. Their life perishes among the unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必在青年时死亡， 与污秽人一样丧命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必在青年時死亡， 與污穢人一樣喪命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He delivers the afflicted by their affliction, and opens their ear in oppression.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神借着困苦救拔困苦人， 趁他们受欺压开通他们的耳朵。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝藉着困苦救拔困苦人， 趁他們受欺壓開通他們的耳朵。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Yes, he would have allured you out of distress, into a wide place, where there is no restriction. That which is set on your table would be full of fatness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神也必引你出离患难， 进入宽阔不狭窄之地； 摆在你席上的必满有肥甘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝也必引你出離患難， 進入寬闊不狹窄之地； 擺在你席上的必滿有肥甘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“But you are full of the judgment of the wicked. Judgment and justice take hold of you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但你满口有恶人批评的言语； 判断和刑罚抓住你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但你滿口有惡人批評的言語； 判斷和刑罰抓住你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Don’t let riches entice you to wrath, neither let the great size of a bribe turn you aside.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可容忿怒触动你，使你不服责罚； 也不可因赎价大就偏行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可容忿怒觸動你，使你不服責罰； 也不可因贖價大就偏行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Would your wealth sustain you in distress, or all the might of your strength?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的呼求，或是你一切的势力， 果有灵验，叫你不受患难吗？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:19 或译：资财"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的呼求，或是你一切的勢力， 果有靈驗，叫你不受患難嗎？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:19 或譯：資財"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Don’t desire the night, when people are cut off in their place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要切慕黑夜， 就是众民在本处被除灭的时候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要切慕黑夜， 就是眾民在本處被除滅的時候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Take heed, don’t regard iniquity; for you have chosen this rather than affliction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要谨慎，不可重看罪孽， 因你选择罪孽过于选择苦难。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要謹慎，不可重看罪孽， 因你選擇罪孽過於選擇苦難。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Behold, God is exalted in his power. Who is a teacher like him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神行事有高大的能力； 教训人的有谁像他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝行事有高大的能力； 教訓人的有誰像他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Who has prescribed his way for him? Or who can say, ‘You have committed unrighteousness’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁派定他的道路？ 谁能说：你所行的不义？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰派定他的道路？ 誰能說：你所行的不義？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Remember that you magnify his work, about which men have sung.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你不可忘记称赞他所行的为大， 就是人所歌颂的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你不可忘記稱讚他所行的為大， 就是人所歌頌的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "All men have looked on it. Man sees it afar off.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他所行的，万人都看见； 世人也从远处观看。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他所行的，萬人都看見； 世人也從遠處觀看。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Behold, God is great, and we don’t know him. The number of his years is unsearchable.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神为大，我们不能全知； 他的年数不能测度。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝為大，我們不能全知； 他的年數不能測度。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "For he draws up the drops of water, which distill in rain from his vapor,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他吸取水点， 这水点从云雾中就变成雨；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他吸取水點， 這水點從雲霧中就變成雨；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "which the skies pour down and which drop on man abundantly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "云彩将雨落下，沛然降与世人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雲彩將雨落下，沛然降與世人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Indeed, can anyone understand the spreading of the clouds and the thunderings of his pavilion?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁能明白云彩如何铺张， 和 神行宫的雷声呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰能明白雲彩如何鋪張， 和上帝行宮的雷聲呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Behold, he spreads his light around him. He covers the bottom of the sea.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将亮光普照在自己的四围； 他又遮覆海底。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將亮光普照在自己的四圍； 他又遮覆海底。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For by these he judges the people. He gives food in abundance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用这些审判众民， 且赐丰富的粮食。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用這些審判眾民， 且賜豐富的糧食。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He covers his hands with the lightning, and commands it to strike the mark.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他以电光遮手， 命闪电击中敌人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:32 或译：中了靶子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他以電光遮手， 命閃電擊中敵人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 36:32 或譯：中了靶子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Its noise tells about him, and the livestock also, concerning the storm that comes up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所发的雷声显明他的作为， 又向牲畜指明要起暴风。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所發的雷聲顯明他的作為， 又向牲畜指明要起暴風。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

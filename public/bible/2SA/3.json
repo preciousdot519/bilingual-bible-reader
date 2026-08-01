@@ -1,0 +1,739 @@
+{
+  "bookId": "2SA",
+  "chapter": 3,
+  "bookEnglish": "2 Samuel",
+  "bookChineseSimplified": "撒母耳记下",
+  "bookChineseTraditional": "撒母耳記下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now there was a long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗家和大卫家争战许久。大卫家日见强盛；扫罗家日见衰弱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅家和大衛家爭戰許久。大衛家日見強盛；掃羅家日見衰弱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Sons were born to David in Hebron. His firstborn was Amnon, of Ahinoam the Jezreelitess;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫在希伯 得了几个儿子：长子暗嫩是耶斯列人亚希暖所生的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛在希伯崙得了幾個兒子：長子暗嫩是耶斯列人亞希暖所生的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "and his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "次子基利押是作过迦密人拿八的妻亚比该所生的；三子押沙龙是基述王达买的女儿玛迦所生的；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:3 在历代上三章一节作但以利"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "次子基利押是作過迦密人拿八的妻亞比該所生的；三子押沙龍是基述王達買的女兒瑪迦所生的；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:3 在歷代上三章一節作但以利"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "四子亚多尼雅是哈及所生的；五子示法提雅是亚比她所生的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "四子亞多尼雅是哈及所生的；五子示法提雅是亞比她所生的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and the sixth, Ithream, of Eglah, David’s wife. These were born to David in Hebron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "六子以特念是大卫的妻以格拉所生的。大卫这六个儿子都是在希伯 生的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "六子以特念是大衛的妻以格拉所生的。大衛這六個兒子都是在希伯崙生的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "While there was war between Saul’s house and David’s house, Abner made himself strong in Saul’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗家和大卫家争战的时候，押尼珥在扫罗家大有权势。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅家和大衛家爭戰的時候，押尼珥在掃羅家大有權勢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Now Saul had a concubine, whose name was Rizpah, the daughter of Aiah; and Ishbosheth said to Abner, “Why have you gone in to my father’s concubine?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗有一妃嫔，名叫利斯巴，是爱亚的女儿。一日，伊施波设对押尼珥说：「你为什么与我父的妃嫔同房呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅有一妃嬪，名叫利斯巴，是愛亞的女兒。一日，伊施波設對押尼珥說：「你為甚麼與我父的妃嬪同房呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Then Abner was very angry about Ishbosheth’s words, and said, “Am I a dog’s head that belongs to Judah? Today I show kindness to your father Saul’s house, to his brothers, and to his friends, and have not delivered you into the hand of David; and yet you charge me today with a fault concerning this woman!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥因伊施波设的话就甚发怒，说：「我岂是犹大的狗头呢？我恩待你父扫罗的家和他的弟兄、朋友，不将你交在大卫手里，今日你竟为这妇人责备我吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥因伊施波設的話就甚發怒，說：「我豈是猶大的狗頭呢？我恩待你父掃羅的家和他的弟兄、朋友，不將你交在大衛手裏，今日你竟為這婦人責備我嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "God do so to Abner, and more also, if, as the LORD has sworn to David, I don’t do even so to him:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9-10",
+      "en": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我若不照着耶和华起誓应许大卫的话行，废去扫罗的位，建立大卫的位，使他治理以色列和犹大，从但直到别是巴，愿 神重重地降罚与我！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我若不照着耶和華起誓應許大衛的話行，廢去掃羅的位，建立大衛的位，使他治理以色列和猶大，從但直到別是巴，願上帝重重地降罰與我！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "to transfer the kingdom from Saul’s house, and to set up David’s throne over Israel and over Judah, from Dan even to Beersheba.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He could not answer Abner another word, because he was afraid of him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊施波设惧怕押尼珥，不敢回答一句。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊施波設懼怕押尼珥，不敢回答一句。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Abner sent messengers to David on his behalf, saying, “Whose is the land?” and saying, “Make your alliance with me, and behold, my hand will be with you to bring all Israel around to you.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥打发人去见大卫，替他说：「这国归谁呢？」又说：「你与我立约，我必帮助你，使以色列人都归服你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥打發人去見大衛，替他說：「這國歸誰呢？」又說：「你與我立約，我必幫助你，使以色列人都歸服你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "David said, “Good. I will make a treaty with you, but one thing I require of you. That is, you will not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫说：「好！我与你立约。但有一件，你来见我面的时候，若不将扫罗的女儿米甲带来，必不得见我的面。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛說：「好！我與你立約。但有一件，你來見我面的時候，若不將掃羅的女兒米甲帶來，必不得見我的面。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "David sent messengers to Ishbosheth, Saul’s son, saying, “Deliver me my wife Michal, whom I was given to marry for one hundred foreskins of the Philistines.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫就打发人去见扫罗的儿子伊施波设，说：「你要将我的妻米甲归还我；她是我从前用一百非利士人的阳皮所聘定的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛就打發人去見掃羅的兒子伊施波設，說：「你要將我的妻米甲歸還我；她是我從前用一百非利士人的陽皮所聘定的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Ishbosheth sent and took her from her husband, Paltiel the son of Laish.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊施波设就打发人去，将米甲从拉亿的儿子、她丈夫帕铁那里接回来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊施波設就打發人去，將米甲從拉億的兒子、她丈夫帕鐵那裏接回來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Her husband went with her, weeping as he went, and followed her to Bahurim. Then Abner said to him, “Go! Return!” and he returned.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米甲的丈夫跟着她，一面走一面哭，直跟到巴户琳。押尼珥说：「你回去吧！」帕铁就回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米甲的丈夫跟着她，一面走一面哭，直跟到巴戶琳。押尼珥說：「你回去吧！」帕鐵就回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Abner had communication with the elders of Israel, saying, “In times past, you sought for David to be king over you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥对以色列长老说：「从前你们愿意大卫作王治理你们，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥對以色列長老說：「從前你們願意大衛作王治理你們，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now then do it! For the LORD has spoken of David, saying, ‘By the hand of my servant David, I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在你们可以照心愿而行。因为耶和华曾论到大卫说：『我必借我仆人大卫的手，救我民以色列脱离非利士人和众仇敌的手。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在你們可以照心願而行。因為耶和華曾論到大衛說：『我必藉我僕人大衛的手，救我民以色列脫離非利士人和眾仇敵的手。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Abner also spoke in the ears of Benjamin; and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel and to the whole house of Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥也用这话说给便雅悯人听，又到希伯 ，将以色列人和便雅悯全家一切所喜悦的事说给大卫听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥也用這話說給便雅憫人聽，又到希伯崙，將以色列人和便雅憫全家一切所喜悅的事說給大衛聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "So Abner came to David to Hebron, and twenty men with him. David made Abner and the men who were with him a feast.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥带着二十个人来到希伯 见大卫，大卫就为押尼珥和他带来的人设摆筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥帶着二十個人來到希伯崙見大衛，大衛就為押尼珥和他帶來的人設擺筵席。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Abner said to David, “I will arise and go, and will gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your soul desires.” David sent Abner away; and he went in peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥对大卫说：「我要起身去招聚以色列众人来见我主我王，与你立约，你就可以照着心愿作王。」于是大卫送押尼珥去，押尼珥就平平安安地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥對大衛說：「我要起身去招聚以色列眾人來見我主我王，與你立約，你就可以照着心願作王。」於是大衛送押尼珥去，押尼珥就平平安安地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Behold, David’s servants and Joab came from a raid and brought in a great plunder with them; but Abner was not with David in Hebron, for he had sent him away, and he had gone in peace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押和大卫的仆人攻击敌军，带回许多的掠物。那时押尼珥不在希伯 大卫那里，因大卫已经送他去，他也平平安安地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押和大衛的僕人攻擊敵軍，帶回許多的掠物。那時押尼珥不在希伯崙大衛那裏，因大衛已經送他去，他也平平安安地去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When Joab and all the army who was with him had come, they told Joab, “Abner the son of Ner came to the king, and he has sent him away, and he has gone in peace.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押和跟随他的全军到了，就有人告诉约押说：「尼珥的儿子押尼珥来见王，王送他去，他也平平安安地去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押和跟隨他的全軍到了，就有人告訴約押說：「尼珥的兒子押尼珥來見王，王送他去，他也平平安安地去了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Then Joab came to the king and said, “What have you done? Behold, Abner came to you. Why is it that you have sent him away, and he is already gone?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押去见王说：「你这是做什么呢？押尼珥来见你，你为何送他去，他就踪影不见了呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押去見王說：「你這是做甚麼呢？押尼珥來見你，你為何送他去，他就蹤影不見了呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "You know Abner the son of Ner. He came to deceive you, and to know your going out and your coming in, and to know all that you do.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当晓得，尼珥的儿子押尼珥来是要诓哄你，要知道你的出入和你一切所行的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當曉得，尼珥的兒子押尼珥來是要誆哄你，要知道你的出入和你一切所行的事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "When Joab had come out from David, he sent messengers after Abner, and they brought him back from the well of Sirah; but David didn’t know it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押从大卫那里出来，就打发人去追赶押尼珥，在西拉井追上他，将他带回来，大卫却不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押從大衛那裏出來，就打發人去追趕押尼珥，在西拉井追上他，將他帶回來，大衛卻不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "When Abner had returned to Hebron, Joab took him aside into the middle of the gate to speak with him quietly, and struck him there in the body, so that he died for the blood of Asahel his brother.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "押尼珥回到希伯 ，约押领他到城门的瓮洞，假作要与他说机密话，就在那里刺透他的肚腹，他便死了。这是报杀他兄弟亚撒黑的仇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "押尼珥回到希伯崙，約押領他到城門的甕洞，假作要與他說機密話，就在那裏刺透他的肚腹，他便死了。這是報殺他兄弟亞撒黑的仇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Afterward, when David heard it, he said, “I and my kingdom are guiltless before the LORD forever of the blood of Abner the son of Ner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫听见了，就说：「流尼珥的儿子押尼珥的血，这罪在耶和华面前必永不归我和我的国。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛聽見了，就說：「流尼珥的兒子押尼珥的血，這罪在耶和華面前必永不歸我和我的國。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Let it fall on the head of Joab and on all his father’s house. Let there not fail from the house of Joab one who has a discharge, or who is a leper, or who leans on a staff, or who falls by the sword, or who lacks bread.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿流他血的罪归到约押头上和他父的全家；又愿约押家不断有患漏症的，长大麻风的，架拐而行的，被刀杀死的，缺乏饮食的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願流他血的罪歸到約押頭上和他父的全家；又願約押家不斷有患漏症的，長大痲瘋的，架柺而行的，被刀殺死的，缺乏飲食的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "So Joab and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约押和他兄弟亚比筛杀了押尼珥，是因押尼珥在基遍争战的时候杀了他们的兄弟亚撒黑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約押和他兄弟亞比篩殺了押尼珥，是因押尼珥在基遍爭戰的時候殺了他們的兄弟亞撒黑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "David said to Joab and to all the people who were with him, “Tear your clothes, and clothe yourselves with sackcloth, and mourn in front of Abner.” King David followed the bier.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫吩咐约押和跟随他的众人说：「你们当撕裂衣服，腰束麻布，在押尼珥棺前哀哭。」大卫王也跟在棺后。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛吩咐約押和跟隨他的眾人說：「你們當撕裂衣服，腰束麻布，在押尼珥棺前哀哭。」大衛王也跟在棺後。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "They buried Abner in Hebron; and the king lifted up his voice and wept at Abner’s grave; and all the people wept.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们将押尼珥葬在希伯 。王在押尼珥的墓旁放声而哭，众民也都哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們將押尼珥葬在希伯崙。王在押尼珥的墓旁放聲而哭，眾民也都哭了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "The king lamented for Abner, and said, “Should Abner die as a fool dies?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王为押尼珥举哀，说： 押尼珥何竟像愚顽人死呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王為押尼珥舉哀，說： 押尼珥何竟像愚頑人死呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Your hands weren’t bound, and your feet weren’t put into fetters. As a man falls before the children of iniquity, so you fell.” All the people wept again over him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你手未曾捆绑，脚未曾锁住。 你死，如人死在罪孽之辈手下一样。 押尼珥哀哭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你手未曾捆綁，腳未曾鎖住。 你死，如人死在罪孽之輩手下一樣。 押尼珥哀哭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "All the people came to urge David to eat bread while it was yet day; but David swore, saying, “God do so to me, and more also, if I taste bread or anything else, until the sun goes down.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头未落的时候，众民来劝大卫吃饭，但大卫起誓说：「我若在日头未落以前吃饭，或吃别物，愿 神重重地降罚与我！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭未落的時候，眾民來勸大衛吃飯，但大衛起誓說：「我若在日頭未落以前吃飯，或吃別物，願上帝重重地降罰與我！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "All the people took notice of it, and it pleased them, as whatever the king did pleased all the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众民知道了就都喜悦。凡王所行的，众民无不喜悦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾民知道了就都喜悅。凡王所行的，眾民無不喜悅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "So all the people and all Israel understood that day that it was not of the king to kill Abner the son of Ner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那日，以色列众民才知道杀尼珥的儿子押尼珥并非出于王意。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那日，以色列眾民才知道殺尼珥的兒子押尼珥並非出於王意。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "The king said to his servants, “Don’t you know that a prince and a great man has fallen today in Israel?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王对臣仆说：「你们岂不知今日以色列人中死了一个作元帅的大丈夫吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王對臣僕說：「你們豈不知今日以色列人中死了一個作元帥的大丈夫嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May the LORD reward the evildoer according to his wickedness.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我虽然受膏为王，今日还是软弱；这洗鲁雅的两个儿子比我刚强。愿耶和华照着恶人所行的恶报应他。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我雖然受膏為王，今日還是軟弱；這洗魯雅的兩個兒子比我剛強。願耶和華照着惡人所行的惡報應他。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

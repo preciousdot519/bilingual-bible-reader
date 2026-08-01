@@ -1,0 +1,613 @@
+{
+  "bookId": "JOB",
+  "chapter": 33,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“However, Job, please hear my speech, and listen to all my words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯啊，请听我的话， 留心听我一切的言语。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯啊，請聽我的話， 留心聽我一切的言語。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "See now, I have opened my mouth. My tongue has spoken in my mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我现在开口， 用舌发言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我現在開口， 用舌發言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "My words will utter the uprightness of my heart. That which my lips know they will speak sincerely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的言语要发明心中所存的正直； 我所知道的，我嘴唇要诚实地说出。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的言語要發明心中所存的正直； 我所知道的，我嘴唇要誠實地說出。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The Spirit of God has made me, and the breath of the Almighty gives me life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神的灵造我； 全能者的气使我得生。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝的靈造我； 全能者的氣使我得生。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "If you can, answer me. Set your words in order before me, and stand up.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若回答我， 就站起来，在我面前陈明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若回答我， 就站起來，在我面前陳明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Behold, I am toward God even as you are. I am also formed out of the clay.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在 神面前与你一样， 也是用土造成。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在上帝面前與你一樣， 也是用土造成。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Behold, my terror will not make you afraid, neither will my pressure be heavy on you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我不用威严惊吓你， 也不用势力重压你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我不用威嚴驚嚇你， 也不用勢力重壓你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Surely you have spoken in my hearing, I have heard the voice of your words, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你所说的，我听见了， 也听见你的言语，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你所說的，我聽見了， 也聽見你的言語，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "‘I am clean, without disobedience. I am innocent, neither is there iniquity in me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是清洁无过的，我是无辜的； 在我里面也没有罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是清潔無過的，我是無辜的； 在我裏面也沒有罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Behold, he finds occasions against me. He counts me for his enemy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神找机会攻击我， 以我为仇敌，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝找機會攻擊我， 以我為仇敵，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He puts my feet in the stocks. He marks all my paths.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把我的脚上了木狗， 窥察我一切的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把我的腳上了木狗， 窺察我一切的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“Behold, I will answer you. In this you are not just, for God is greater than man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要回答你说：你这话无理， 因 神比世人更大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要回答你說：你這話無理， 因上帝比世人更大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Why do you strive against him, because he doesn’t give account of any of his matters?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你为何与他争论呢？ 因他的事都不对人解说？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你為何與他爭論呢？ 因他的事都不對人解說？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For God speaks once, yes twice, though man pays no attention.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神说一次、两次， 世人却不理会。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝說一次、兩次， 世人卻不理會。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "In a dream, in a vision of the night, when deep sleep falls on men, in slumbering on the bed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人躺在床上沉睡的时候， 神就用梦和夜间的异象，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人躺在床上沉睡的時候， 上帝就用夢和夜間的異象，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "then he opens the ears of men, and seals their instruction,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "开通他们的耳朵， 将当受的教训印在他们心上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "開通他們的耳朵， 將當受的教訓印在他們心上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "that he may withdraw man from his purpose, and hide pride from man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "好叫人不从自己的谋算， 不行骄傲的事，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:17 原文是将骄傲向人隐藏"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "好叫人不從自己的謀算， 不行驕傲的事，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 33:17 原文是將驕傲向人隱藏"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He keeps back his soul from the pit, and his life from perishing by the sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拦阻人不陷于坑里， 不死在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "攔阻人不陷於坑裏， 不死在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“He is chastened also with pain on his bed, with continual strife in his bones,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人在床上被惩治， 骨头中不住地疼痛，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人在床上被懲治， 骨頭中不住地疼痛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "so that his life abhors bread, and his soul dainty food.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以致他的口厌弃食物， 心厌恶美味。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以致他的口厭棄食物， 心厭惡美味。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "His flesh is so consumed away that it can’t be seen. His bones that were not seen stick out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的肉消瘦，不得再见； 先前不见的骨头都凸出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的肉消瘦，不得再見； 先前不見的骨頭都凸出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Yes, his soul draws near to the pit, and his life to the destroyers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的灵魂临近深坑； 他的生命近于灭命的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的靈魂臨近深坑； 他的生命近於滅命的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一千天使中， 若有一个作传话的与 神同在， 指示人所当行的事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一千天使中， 若有一個作傳話的與上帝同在， 指示人所當行的事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "then God is gracious to him, and says, ‘Deliver him from going down to the pit, I have found a ransom.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神就给他开恩， 说：救赎他免得下坑； 我已经得了赎价。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝就給他開恩， 說：救贖他免得下坑； 我已經得了贖價。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "His flesh will be fresher than a child’s. He returns to the days of his youth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的肉要比孩童的肉更嫩； 他就返老还童。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的肉要比孩童的肉更嫩； 他就返老還童。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "He prays to God, and he is favorable to him, so that he sees his face with joy. He restores to man his righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他祷告 神， 神就喜悦他， 使他欢呼朝见 神的面； 神又看他为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他禱告上帝， 上帝就喜悅他， 使他歡呼朝見上帝的面； 上帝又看他為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He sings before men, and says, ‘I have sinned, and perverted that which was right, and it didn’t profit me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他在人前歌唱说： 我犯了罪，颠倒是非， 这竟与我无益。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在人前歌唱說： 我犯了罪，顛倒是非， 這竟與我無益。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He has redeemed my soul from going into the pit. My life will see the light.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神救赎我的灵魂免入深坑； 我的生命也必见光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝救贖我的靈魂免入深坑； 我的生命也必見光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“Behold, God does all these things, twice, yes three times, with a man,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神两次、三次向人行这一切的事，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝兩次、三次向人行這一切的事，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "to bring back his soul from the pit, that he may be enlightened with the light of the living.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "为要从深坑救回人的灵魂， 使他被光照耀，与活人一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "為要從深坑救回人的靈魂， 使他被光照耀，與活人一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Mark well, Job, and listen to me. Hold your peace, and I will speak.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯啊，你当侧耳听我的话， 不要作声，等我讲说。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯啊，你當側耳聽我的話， 不要作聲，等我講說。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "If you have anything to say, answer me. Speak, for I desire to justify you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你若有话说，就可以回答我； 你只管说，因我愿以你为是。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你若有話說，就可以回答我； 你只管說，因我願以你為是。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "If not, listen to me. Hold your peace, and I will teach you wisdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不然，你就听我说； 你不要作声，我便将智慧教训你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不然，你就聽我說； 你不要作聲，我便將智慧教訓你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

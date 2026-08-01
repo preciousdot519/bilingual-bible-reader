@@ -1,0 +1,267 @@
+{
+  "bookId": "2CO",
+  "chapter": 13,
+  "bookEnglish": "2 Corinthians",
+  "bookChineseSimplified": "哥林多后书",
+  "bookChineseTraditional": "哥林多後書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:1 Deuteronomy 19:15",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "这是我第三次要到你们那里去。「凭两三个人的口作见证，句句都要定准。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是我第三次要到你們那裏去。「憑兩三個人的口作見證，句句都要定準。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我从前说过，如今不在你们那里又说，正如我第二次见你们的时候所说的一样，就是对那犯了罪的和其余的人说：「我若再来，必不宽容。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我從前說過，如今不在你們那裏又說，正如我第二次見你們的時候所說的一樣，就是對那犯了罪的和其餘的人說：「我若再來，必不寬容。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们既然寻求基督在我里面说话的凭据，我必不宽容。因为，基督在你们身上不是软弱的，在你们里面是有大能的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們既然尋求基督在我裏面說話的憑據，我必不寬容。因為，基督在你們身上不是軟弱的，在你們裏面是有大能的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他因软弱被钉在十字架上，却因 神的大能仍然活着。我们也是这样同他软弱，但因 神向你们所显的大能，也必与他同活。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他因軟弱被釘在十字架上，卻因上帝的大能仍然活着。我們也是這樣同他軟弱，但因上帝向你們所顯的大能，也必與他同活。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know about your own selves, that Jesus Christ is in you?—unless indeed you are disqualified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们总要自己省察有信心没有，也要自己试验。岂不知你们若不是可弃绝的，就有耶稣基督在你们心里吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們總要自己省察有信心沒有，也要自己試驗。豈不知你們若不是可棄絕的，就有耶穌基督在你們心裏嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But I hope that you will know that we aren’t disqualified.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我却盼望你们晓得，我们不是可弃绝的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我卻盼望你們曉得，我們不是可棄絕的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we may seem to have failed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们求 神，叫你们一件恶事都不做；这不是要显明我们是蒙悦纳的，是要你们行事端正，任凭人看我们是被弃绝的吧！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們求上帝，叫你們一件惡事都不做；這不是要顯明我們是蒙悅納的，是要你們行事端正，任憑人看我們是被棄絕的吧！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For we can do nothing against the truth, but for the truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们凡事不能敌挡真理，只能扶助真理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們凡事不能敵擋真理，只能扶助真理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "For we rejoice when we are weak and you are strong. We also pray for this: your becoming perfect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "即便我们软弱，你们刚强，我们也欢喜；并且我们所求的，就是你们作完全人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "即便我們軟弱，你們剛強，我們也歡喜；並且我們所求的，就是你們作完全人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up and not for tearing down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，我不在你们那里的时候，把这话写给你们，好叫我见你们的时候，不用照主所给我的权柄严厉地待你们。这权柄原是为造就人，并不是为败坏人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，我不在你們那裏的時候，把這話寫給你們，好叫我見你們的時候，不用照主所給我的權柄嚴厲地待你們。這權柄原是為造就人，並不是為敗壞人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Finally, brothers, rejoice! Be perfected. Be comforted. Be of the same mind. Live in peace, and the God of love and peace will be with you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有末了的话：愿弟兄们都喜乐。要作完全人；要受安慰；要同心合意；要彼此和睦。如此，仁爱和平的 神必常与你们同在。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有末了的話：願弟兄們都喜樂。要作完全人；要受安慰；要同心合意；要彼此和睦。如此，仁愛和平的上帝必常與你們同在。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Greet one another with a holy kiss.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们亲嘴问安，彼此务要圣洁。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們親嘴問安，彼此務要聖潔。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "All the saints greet you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众圣徒都问你们安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾聖徒都問你們安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit be with you all. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿主耶稣基督的恩惠、 神的慈爱、圣灵的感动常与你们众人同在！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願主耶穌基督的恩惠、上帝的慈愛、聖靈的感動常與你們眾人同在！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

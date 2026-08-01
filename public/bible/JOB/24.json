@@ -1,0 +1,484 @@
+{
+  "bookId": "JOB",
+  "chapter": 24,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Why aren’t times laid up by the Almighty? Why don’t those who know him see his days?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "全能者既定期罚恶， 为何不使认识他的人看见那日子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "全能者既定期罰惡， 為何不使認識他的人看見那日子呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "There are people who remove the landmarks. They violently take away flocks, and feed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人挪移地界， 抢夺群畜而牧养。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人挪移地界， 搶奪群畜而牧養。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "They drive away the donkey of the fatherless, and they take the widow’s ox for a pledge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们拉去孤儿的驴， 强取寡妇的牛为当头。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們拉去孤兒的驢， 強取寡婦的牛為當頭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "They turn the needy out of the way. The poor of the earth all hide themselves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们使穷人离开正道； 世上的贫民尽都隐藏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們使窮人離開正道； 世上的貧民盡都隱藏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Behold, as wild donkeys in the desert, they go out to their work, seeking diligently for food. The wilderness yields them bread for their children.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些贫穷人如同野驴出到旷野，殷勤寻找食物； 他们靠着野地给儿女糊口，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些貧窮人如同野驢出到曠野，殷勤尋找食物； 他們靠着野地給兒女糊口，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They cut their food in the field. They glean the vineyard of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "收割别人田间的禾稼， 摘取恶人余剩的葡萄，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "收割別人田間的禾稼， 摘取惡人餘剩的葡萄，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They lie all night naked without clothing, and have no covering in the cold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "终夜赤身无衣， 天气寒冷毫无遮盖，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "終夜赤身無衣， 天氣寒冷毫無遮蓋，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They are wet with the showers of the mountains, and embrace the rock for lack of a shelter.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在山上被大雨淋湿， 因没有避身之处就挨近磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在山上被大雨淋濕， 因沒有避身之處就挨近磐石。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "There are those who pluck the fatherless from the breast, and take a pledge of the poor,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有人从母怀中抢夺孤儿， 强取穷人的衣服为当头，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有人從母懷中搶奪孤兒， 強取窮人的衣服為當頭，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "so that they go around naked without clothing. Being hungry, they carry the sheaves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使人赤身无衣，到处流行， 且因饥饿扛抬禾捆，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使人赤身無衣，到處流行， 且因飢餓扛抬禾捆，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "They make oil within the walls of these men. They tread wine presses, and suffer thirst.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那些人的围墙内造油，榨酒， 自己还口渴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那些人的圍牆內造油，醡酒， 自己還口渴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "From out of the populous city, men groan. The soul of the wounded cries out, yet God doesn’t regard the folly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在多民的城内有人唉哼， 受伤的人哀号； 神却不理会那恶人的愚妄。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在多民的城內有人唉哼， 受傷的人哀號； 上帝卻不理會那惡人的愚妄。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“These are of those who rebel against the light. They don’t know its ways, nor stay in its paths.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有人背弃光明， 不认识光明的道， 不住在光明的路上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有人背棄光明， 不認識光明的道， 不住在光明的路上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The murderer rises with the light. He kills the poor and needy. In the night he is like a thief.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "杀人的黎明起来， 杀害困苦穷乏人， 夜间又作盗贼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殺人的黎明起來， 殺害困苦窮乏人， 夜間又作盜賊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The eye also of the adulterer waits for the twilight, saying, ‘No eye will see me.’ He disguises his face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奸夫等候黄昏， 说：必无眼能见我， 就把脸蒙蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "姦夫等候黃昏， 說：必無眼能見我， 就把臉蒙蔽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "In the dark they dig through houses. They shut themselves up in the daytime. They don’t know the light.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "盗贼黑夜挖窟窿； 白日躲藏， 并不认识光明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "盜賊黑夜挖窟窿； 白日躲藏， 並不認識光明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "For the morning is to all of them like thick darkness, for they know the terrors of the thick darkness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们看早晨如幽暗， 因为他们晓得幽暗的惊骇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們看早晨如幽暗， 因為他們曉得幽暗的驚駭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“They are foam on the surface of the waters. Their portion is cursed on the earth. They don’t turn into the way of the vineyards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些恶人犹如浮萍快快飘去。 他们所得的分在世上被咒诅； 他们不得再走葡萄园的路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些惡人猶如浮萍快快飄去。 他們所得的分在世上被咒詛； 他們不得再走葡萄園的路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Drought and heat consume the snow waters, so does Sheol those who have sinned.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "24:19 Sheol is the place of the dead."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "干旱炎热消没雪水； 阴间也如此消没犯罪之辈。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "乾旱炎熱消沒雪水； 陰間也如此消沒犯罪之輩。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The womb will forget him. The worm will feed sweetly on him. He will be no more remembered. Unrighteousness will be broken as a tree.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "怀他的母要忘记他； 虫子要吃他，觉得甘甜； 他不再被人记念。 不义的人必如树折断。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:20 原文是胎"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懷他的母要忘記他； 蟲子要吃他，覺得甘甜； 他不再被人記念。 不義的人必如樹折斷。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:20 原文是胎"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He devours the barren who don’t bear. He shows no kindness to the widow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他恶待不怀孕不生养的妇人， 不善待寡妇。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:21 或译：他吞灭"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他惡待不懷孕不生養的婦人， 不善待寡婦。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:21 或譯：他吞滅"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Yet God preserves the mighty by his power. He rises up who has no assurance of life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而 神用能力保全有势力的人； 那性命难保的人仍然兴起。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而上帝用能力保全有勢力的人； 那性命難保的人仍然興起。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "God gives them security, and they rest in it. His eyes are on their ways.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神使他们安稳，他们就有所倚靠； 神的眼目也看顾他们的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝使他們安穩，他們就有所倚靠； 上帝的眼目也看顧他們的道路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They are exalted; yet a little while, and they are gone. Yes, they are brought low, they are taken out of the way as all others, and are cut off as the tops of the ears of grain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们被高举，不过片时就没有了； 他们降为卑，被除灭，与众人一样， 又如谷穗被割。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們被高舉，不過片時就沒有了； 他們降為卑，被除滅，與眾人一樣， 又如穀穗被割。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "If it isn’t so now, who will prove me a liar, and make my speech worth nothing?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若不是这样，谁能证实我是说谎的， 将我的言语驳为虚空呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若不是這樣，誰能證實我是說謊的， 將我的言語駁為虛空呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

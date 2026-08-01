@@ -1,0 +1,713 @@
+{
+  "bookId": "1KI",
+  "chapter": 6,
+  "bookEnglish": "1 Kings",
+  "bookChineseSimplified": "列王纪上",
+  "bookChineseTraditional": "列王紀上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the four hundred and eightieth year after the children of Israel had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, he began to build the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人出埃及地后四百八十年，所罗门作以色列王第四年西弗月，就是二月，开工建造耶和华的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人出埃及地後四百八十年，所羅門作以色列王第四年西弗月，就是二月，開工建造耶和華的殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The house which King Solomon built for the LORD had a length of sixty cubits, and its width twenty, and its height thirty cubits.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:2 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王为耶和华所建的殿，长六十肘，宽二十肘，高三十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王為耶和華所建的殿，長六十肘，寬二十肘，高三十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The porch in front of the temple of the house had a length of twenty cubits, which was along the width of the house. Ten cubits was its width in front of the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殿前的廊子长二十肘，与殿的宽窄一样，阔十肘；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殿前的廊子長二十肘，與殿的寬窄一樣，闊十肘；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He made windows of fixed lattice work for the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又为殿做了严紧的窗棂。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又為殿做了嚴緊的窗櫺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Against the wall of the house, he built floors all around, against the walls of the house all around, both of the temple and of the inner sanctuary; and he made side rooms all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "靠着殿墙，围着外殿内殿，造了三层旁屋；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靠着殿牆，圍着外殿內殿，造了三層旁屋；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The lowest floor was five cubits wide, and the middle was six cubits wide, and the third was seven cubits wide; for on the outside he made offsets in the wall of the house all around, that the beams should not be inserted into the walls of the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "下层宽五肘，中层宽六肘，上层宽七肘。殿外旁屋的梁木搁在殿墙坎上，免得插入殿墙。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "下層寬五肘，中層寬六肘，上層寬七肘。殿外旁屋的樑木擱在殿牆坎上，免得插入殿牆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The house, when it was under construction, was built of stone prepared at the quarry; and no hammer or ax or any tool of iron was heard in the house while it was under construction.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "建殿是用山中凿成的石头。建殿的时候，锤子、斧子，和别样铁器的响声都没有听见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "建殿是用山中鑿成的石頭。建殿的時候，鎚子、斧子，和別樣鐵器的響聲都沒有聽見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The door for the middle side rooms was in the right side of the house. They went up by winding stairs into the middle floor, and out of the middle into the third.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在殿右边当中的旁屋有门，门内有旋螺的楼梯，可以上到第二层，从第二层可以上到第三层。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在殿右邊當中的旁屋有門，門內有旋螺的樓梯，可以上到第二層，從第二層可以上到第三層。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "So he built the house and finished it; and he covered the house with beams and planks of cedar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门建殿，安置香柏木的栋梁，又用香柏木板遮盖。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門建殿，安置香柏木的棟樑，又用香柏木板遮蓋。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He built the floors all along the house, each five cubits high; and they rested on the house with timbers of cedar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "靠着殿所造的旁屋，每层高五肘，香柏木的栋梁搁在殿墙坎上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "靠着殿所造的旁屋，每層高五肘，香柏木的棟樑擱在殿牆坎上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The LORD’s word came to Solomon, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的话临到所罗门说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的話臨到所羅門說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“Concerning this house which you are building, if you will walk in my statutes, and execute my ordinances, and keep all my commandments to walk in them, then I will establish my word with you, which I spoke to David your father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「论到你所建的这殿，你若遵行我的律例，谨守我的典章，遵从我的一切诫命，我必向你应验我所应许你父亲大卫的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「論到你所建的這殿，你若遵行我的律例，謹守我的典章，遵從我的一切誡命，我必向你應驗我所應許你父親大衛的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "I will dwell among the children of Israel, and will not forsake my people Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必住在以色列人中间，并不丢弃我民以色列。」 （代下3·8—14）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必住在以色列人中間，並不丟棄我民以色列。」 （代下3‧8－14）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "So Solomon built the house and finished it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门建造殿宇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門建造殿宇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He built the walls of the house within with boards of cedar; from the floor of the house to the walls of the ceiling, he covered them on the inside with wood. He covered the floor of the house with cypress boards.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殿里面用香柏木板贴墙，从地到棚顶都用木板遮蔽，又用松木板铺地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殿裏面用香柏木板貼牆，從地到棚頂都用木板遮蔽，又用松木板鋪地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He built twenty cubits of the back part of the house with boards of cedar from the floor to the ceiling. He built this within, for an inner sanctuary, even for the most holy place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿，就是至圣所，长二十肘，从地到棚顶用香柏木板遮蔽。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:16 或译：隔断"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿，就是至聖所，長二十肘，從地到棚頂用香柏木板遮蔽。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:16 或譯：隔斷"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "In front of the temple sanctuary was forty cubits long.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿前的外殿，长四十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿前的外殿，長四十肘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "There was cedar on the house within, carved with buds and open flowers. All was cedar. No stone was visible.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殿里一点石头都不显露，一概用香柏木遮蔽；上面刻着野瓜和初开的花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殿裏一點石頭都不顯露，一概用香柏木遮蔽；上面刻着野瓜和初開的花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "He prepared an inner sanctuary in the middle of the house within, to set the ark of the LORD’s covenant there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "殿里预备了内殿，好安放耶和华的约柜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "殿裏預備了內殿，好安放耶和華的約櫃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Within the inner sanctuary was twenty cubits in length, and twenty cubits in width, and twenty cubits in its height. He overlaid it with pure gold. He covered the altar with cedar.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿长二十肘，宽二十肘，高二十肘，墙面都贴上精金；又用香柏木做坛，包上精金。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿長二十肘，寬二十肘，高二十肘，牆面都貼上精金；又用香柏木做壇，包上精金。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "So Solomon overlaid the house within with pure gold. He drew chains of gold across before the inner sanctuary, and he overlaid it with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门用精金贴了殿内的墙，又用金链子挂在内殿前门扇，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門用精金貼了殿內的牆，又用金鍊子掛在內殿前門扇，用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He overlaid the whole house with gold, until all the house was finished. He also overlaid the whole altar that belonged to the inner sanctuary with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "全殿都贴上金子，直到贴完；内殿前的坛，也都用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "全殿都貼上金子，直到貼完；內殿前的壇，也都用金包裹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "In the inner sanctuary he made two cherubim of olive wood, each ten cubits high.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:23 “Cherubim” is plural of “cherub”, an angelic being."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他用橄榄木做两个基路伯，各高十肘，安在内殿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他用橄欖木做兩個基路伯，各高十肘，安在內殿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Five cubits was the length of one wing of the cherub, and five cubits was the length of the other wing of the cherub. From the tip of one wing to the tip of the other was ten cubits.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一个基路伯有两个翅膀，各长五肘，从这翅膀尖到那翅膀尖共有十肘；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一個基路伯有兩個翅膀，各長五肘，從這翅膀尖到那翅膀尖共有十肘；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The other cherub was ten cubits. Both the cherubim were of one measure and one form.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那一个基路伯的两个翅膀也是十肘，两个基路伯的尺寸、形象都是一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那一個基路伯的兩個翅膀也是十肘，兩個基路伯的尺寸、形像都是一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "One cherub was ten cubits high, and so was the other cherub.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这基路伯高十肘，那基路伯也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這基路伯高十肘，那基路伯也是如此。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He set the cherubim within the inner house. The wings of the cherubim were stretched out, so that the wing of the one touched the one wall and the wing of the other cherub touched the other wall; and their wings touched one another in the middle of the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将两个基路伯安在内殿里；基路伯的翅膀是张开的，这基路伯的一个翅膀挨着这边的墙，那基路伯的一个翅膀挨着那边的墙，里边的两个翅膀在殿中间彼此相接；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將兩個基路伯安在內殿裏；基路伯的翅膀是張開的，這基路伯的一個翅膀挨着這邊的牆，那基路伯的一個翅膀挨着那邊的牆，裏邊的兩個翅膀在殿中間彼此相接；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He overlaid the cherubim with gold.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用金子包裹二基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用金子包裹二基路伯。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He carved all the walls of the house around with carved figures of cherubim, palm trees, and open flowers, inside and outside.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿、外殿周围的墙上都刻着基路伯、棕树，和初开的花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿、外殿周圍的牆上都刻着基路伯、棕樹，和初開的花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "He overlaid the floor of the house with gold, inside and outside.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "内殿、外殿的地板都贴上金子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "內殿、外殿的地板都貼上金子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "For the entrance of the inner sanctuary, he made doors of olive wood. The lintel and door posts were a fifth part of the wall.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用橄榄木制造内殿的门扇、门楣、门框；门口有墙的五分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用橄欖木製造內殿的門扇、門楣、門框；門口有牆的五分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "So he made two doors of olive wood; and he carved on them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold. He spread the gold on the cherubim and on the palm trees.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在橄榄木做的两门扇上刻着基路伯、棕树，和初开的花，都贴上金子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在橄欖木做的兩門扇上刻着基路伯、棕樹，和初開的花，都貼上金子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "He also made the entrance of the temple door posts of olive wood, out of a fourth part of the wall,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又用橄榄木制造外殿的门框，门口有墙的四分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又用橄欖木製造外殿的門框，門口有牆的四分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "and two doors of cypress wood. The two leaves of the one door were folding, and the two leaves of the other door were folding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "用松木做门两扇。这扇分两扇，是折叠的；那扇分两扇，也是折叠的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "用松木做門兩扇。這扇分兩扇，是摺疊的；那扇分兩扇，也是摺疊的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "He carved cherubim, palm trees, and open flowers; and he overlaid them with gold fitted on the engraved work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "上面刻着基路伯、棕树，和初开的花，都用金子贴了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上面刻着基路伯、棕樹，和初開的花，都用金子貼了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "He built the inner court with three courses of cut stone and a course of cedar beams.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他又用凿成的石头三层、香柏木一层建筑内院。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他又用鑿成的石頭三層、香柏木一層建築內院。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "The foundation of the LORD’s house was laid in the fourth year, in the month Ziv.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门 在位第四年西弗月，立了耶和华殿的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門 在位第四年西弗月，立了耶和華殿的根基。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts and according to all its specifications. So he spent seven years building it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "到十一年布勒月，就是八月，殿和一切属殿的都按着样式造成。他建殿的工夫共有七年。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "到十一年布勒月，就是八月，殿和一切屬殿的都按着樣式造成。他建殿的工夫共有七年。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

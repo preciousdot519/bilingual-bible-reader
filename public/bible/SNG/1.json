@@ -1,0 +1,320 @@
+{
+  "bookId": "SNG",
+  "chapter": 1,
+  "bookEnglish": "Song of Songs",
+  "bookChineseSimplified": "雅歌",
+  "bookChineseTraditional": "雅歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The Song of songs, which is Solomon’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门的歌，是歌中的雅歌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門的歌，是歌中的雅歌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Let him kiss me with the kisses of his mouth; for your love is better than wine.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿他用口与我亲嘴； 因你的爱情比酒更美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願他用口與我親嘴； 因你的愛情比酒更美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Your oils have a pleasing fragrance. Your name is oil poured out, therefore the virgins love you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的膏油馨香； 你的名如同倒出来的香膏， 所以众童女都爱你。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的膏油馨香； 你的名如同倒出來的香膏， 所以眾童女都愛你。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Take me away with you. Let’s hurry. The king has brought me into his rooms. We will be glad and rejoice in you. We will praise your love more than wine! They are right to love you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿你吸引我，我们就快跑跟随你。 王带我进了内室， 我们必因你欢喜快乐。 我们要称赞你的爱情， 胜似称赞美酒。 他们爱你是理所当然的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願你吸引我，我們就快跑跟隨你。 王帶我進了內室， 我們必因你歡喜快樂。 我們要稱讚你的愛情， 勝似稱讚美酒。 他們愛你是理所當然的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷的众女子啊， 我虽然黑，却是秀美， 如同基达的帐棚， 好像所罗门的幔子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷的眾女子啊， 我雖然黑，卻是秀美， 如同基達的帳棚， 好像所羅門的幔子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要因日头把我晒黑了就轻看我。 我同母的弟兄向我发怒， 他们使我看守葡萄园； 我自己的葡萄园却没有看守。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要因日頭把我曬黑了就輕看我。 我同母的弟兄向我發怒， 他們使我看守葡萄園； 我自己的葡萄園卻沒有看守。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我心所爱的啊，求你告诉我， 你在何处牧羊？ 晌午在何处使羊歇卧？ 我何必在你同伴的羊群旁边 好像蒙着脸的人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我心所愛的啊，求你告訴我， 你在何處牧羊？ 晌午在何處使羊歇臥？ 我何必在你同伴的羊群旁邊 好像蒙着臉的人呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你这女子中极美丽的， 你若不知道， 只管跟随羊群的脚踪去， 把你的山羊羔牧放在牧人帐棚的旁边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你這女子中極美麗的， 你若不知道， 只管跟隨羊群的腳蹤去， 把你的山羊羔牧放在牧人帳棚的旁邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "I have compared you, my love, to a steed in Pharaoh’s chariots.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的佳偶， 我将你比法老车上套的骏马。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的佳偶， 我將你比法老車上套的駿馬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Your cheeks are beautiful with earrings, your neck with strings of jewels.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的两腮因发辫而秀美； 你的颈项因珠串而华丽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的兩腮因髮辮而秀美； 你的頸項因珠串而華麗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "We will make you earrings of gold, with studs of silver.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们要为你编上金辫，镶上银钉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們要為你編上金辮，鑲上銀釘。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "While the king sat at his table, my perfume spread its fragrance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王正坐席的时候， 我的哪哒香膏发出香味。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王正坐席的時候， 我的哪噠香膏發出香味。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "My beloved is to me a sachet of myrrh, that lies between my breasts.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我以我的良人为一袋没药， 常在我怀中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我以我的良人為一袋沒藥， 常在我懷中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我以我的良人为一棵凤仙花， 在隐·基底葡萄园中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我以我的良人為一棵鳳仙花， 在隱‧基底葡萄園中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:15 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的佳偶，你甚美丽！你甚美丽！ 你的眼好像鸽子眼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的佳偶，你甚美麗！你甚美麗！ 你的眼好像鴿子眼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的良人哪，你甚美丽可爱！ 我们以青草为床榻，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的良人哪，你甚美麗可愛！ 我們以青草為床榻，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "The beams of our house are cedars. Our rafters are firs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以香柏树为房屋的栋梁， 以松树为椽子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以香柏樹為房屋的棟樑， 以松樹為椽子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

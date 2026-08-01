@@ -1,0 +1,271 @@
+{
+  "bookId": "ECC",
+  "chapter": 12,
+  "bookEnglish": "Ecclesiastes",
+  "bookChineseSimplified": "传道书",
+  "bookChineseTraditional": "傳道書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Remember also your Creator in the days of your youth, before the evil days come, and the years draw near, when you will say, “I have no pleasure in them;”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你趁着年幼、衰败的日子尚未来到，就是你所说，我毫无喜乐的那些年日未曾临近之先，当记念造你的主。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你趁着年幼、衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Before the sun, the light, the moon, and the stars are darkened, and the clouds return after the rain;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要等到日头、光明、月亮、星宿变为黑暗，雨后云彩反回，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要等到日頭、光明、月亮、星宿變為黑暗，雨後雲彩反回，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those who look out of the windows are darkened,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看守房屋的发颤，有力的屈身，推磨的稀少就止息，从窗户往外看的都昏暗；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看守房屋的發顫，有力的屈身，推磨的稀少就止息，從窗戶往外看的都昏暗；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "街门关闭，推磨的响声微小，雀鸟一叫，人就起来，唱歌的女子也都衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "街門關閉，推磨的響聲微小，雀鳥一叫，人就起來，唱歌的女子也都衰微。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "yes, they shall be afraid of heights, and terrors will be on the way; and the almond tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goes to his everlasting home, and the mourners go about the streets;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人怕高处，路上有惊慌，杏树开花，蚱蜢成为重担，人所愿的也都废掉；因为人归他永远的家，吊丧的在街上往来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人怕高處，路上有驚慌，杏樹開花，蚱蜢成為重擔，人所願的也都廢掉；因為人歸他永遠的家，弔喪的在街上往來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "before the silver cord is severed, or the golden bowl is broken, or the pitcher is broken at the spring, or the wheel broken at the cistern,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "银链折断，金罐破裂，瓶子在泉旁损坏，水轮在井口破烂，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "銀鍊折斷，金罐破裂，瓶子在泉旁損壞，水輪在井口破爛，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尘土仍归于地，灵仍归于赐灵的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "塵土仍歸於地，靈仍歸於賜靈的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Vanity of vanities,” says the Preacher. “All is vanity!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "传道者说：「虚空的虚空，凡事都是虚空。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "傳道者說：「虛空的虛空，凡事都是虛空。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "再者，传道者因有智慧，仍将知识教训众人；又默想，又考查，又陈说许多箴言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "再者，傳道者因有智慧，仍將知識教訓眾人；又默想，又考查，又陳說許多箴言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "传道者专心寻求可喜悦的言语，是凭正直写的诚实话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "傳道者專心尋求可喜悅的言語，是憑正直寫的誠實話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的言语好像刺棍；会中之师的言语又像钉稳的钉子，都是一个牧者所赐的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的言語好像刺棍；會中之師的言語又像釘穩的釘子，都是一個牧者所賜的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我儿，还有一层，你当受劝戒：著书多，没有穷尽；读书多，身体疲倦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兒，還有一層，你當受勸戒：著書多，沒有窮盡；讀書多，身體疲倦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些事都已听见了，总意就是：敬畏 神，谨守他的诫命，这是人所当尽的本分。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:13 或译：这是众人的本分"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些事都已聽見了，總意就是：敬畏上帝，謹守他的誡命，這是人所當盡的本分。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:13 或譯：這是眾人的本分"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为人所做的事，连一切隐藏的事，无论是善是恶， 神都必审问。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為人所做的事，連一切隱藏的事，無論是善是惡，上帝都必審問。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

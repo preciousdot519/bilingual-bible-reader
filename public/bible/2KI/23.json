@@ -1,0 +1,695 @@
+{
+  "bookId": "2KI",
+  "chapter": 23,
+  "bookEnglish": "2 Kings",
+  "bookChineseSimplified": "列王纪下",
+  "bookChineseTraditional": "列王紀下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The king sent, and they gathered to him all the elders of Judah and of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王差遣人招聚犹大和耶路撒冷的众长老来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王差遣人招聚猶大和耶路撒冷的眾長老來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The king went up to the LORD’s house, and all the men of Judah and all the inhabitants of Jerusalem with him—with the priests, the prophets, and all the people, both small and great; and he read in their hearing all the words of the book of the covenant which was found in the LORD’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王和犹大众人与耶路撒冷的居民，并祭司、先知，和所有的百姓，无论大小，都一同上到耶和华的殿；王就把耶和华殿里所得的约书念给他们听。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王和猶大眾人與耶路撒冷的居民，並祭司、先知，和所有的百姓，無論大小，都一同上到耶和華的殿；王就把耶和華殿裏所得的約書念給他們聽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The king stood by the pillar and made a covenant before the LORD to walk after the LORD and to keep his commandments, his testimonies, and his statutes with all his heart and all his soul, to confirm the words of this covenant that were written in this book; and all the people agreed to the covenant.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王站在柱旁，在耶和华面前立约，要尽心尽性地顺从耶和华，遵守他的诫命、法度、律例，成就这书上所记的约言。众民都服从这约。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王站在柱旁，在耶和華面前立約，要盡心盡性地順從耶和華，遵守他的誡命、法度、律例，成就這書上所記的約言。眾民都服從這約。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the threshold, to bring out of the LORD’s temple all the vessels that were made for Baal, for the Asherah, and for all the army of the sky; and he burned them outside of Jerusalem in the fields of the Kidron, and carried their ashes to Bethel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王吩咐大祭司希勒家和副祭司，并把门的，将那为巴力和亚舍拉，并天上万象所造的器皿，都从耶和华殿里搬出来，在耶路撒冷外汲沦溪旁的田间烧了，把灰拿到伯特利去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王吩咐大祭司希勒家和副祭司，並把門的，將那為巴力和亞舍拉，並天上萬象所造的器皿，都從耶和華殿裏搬出來，在耶路撒冷外汲淪溪旁的田間燒了，把灰拿到伯特利去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "He got rid of the idolatrous priests whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah and in the places around Jerusalem; those also who burned incense to Baal, to the sun, to the moon, to the planets, and to all the army of the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前犹大列王所立拜偶像的祭司，在犹大城邑的邱坛和耶路撒冷的周围烧香，现在王都废去，又废去向巴力和日、月、行星，并天上万象烧香的人；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:5 或译：十二宫"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前猶大列王所立拜偶像的祭司，在猶大城邑的邱壇和耶路撒冷的周圍燒香，現在王都廢去，又廢去向巴力和日、月、行星，並天上萬象燒香的人；",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:5 或譯：十二宮"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He brought out the Asherah from the LORD’s house, outside of Jerusalem, to the brook Kidron, and burned it at the brook Kidron, and beat it to dust, and cast its dust on the graves of the common people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又从耶和华殿里将亚舍拉搬到耶路撒冷外汲沦溪边焚烧，打碎成灰，将灰撒在平民的坟上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又從耶和華殿裏將亞舍拉搬到耶路撒冷外汲淪溪邊焚燒，打碎成灰，將灰撒在平民的墳上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "He broke down the houses of the male shrine prostitutes that were in the LORD’s house, where the women wove hangings for the Asherah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又拆毁耶和华殿里娈童的屋子，就是妇女为亚舍拉织帐子的屋子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又拆毀耶和華殿裏孌童的屋子，就是婦女為亞舍拉織帳子的屋子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba; and he broke down the high places of the gates that were at the entrance of the gate of Joshua the governor of the city, which were on a man’s left hand at the gate of the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且从犹大的城邑带众祭司来，污秽祭司烧香的邱坛，从迦巴直到别是巴，又拆毁城门旁的邱坛，这邱坛在邑宰约书亚门前，进城门的左边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且從猶大的城邑帶眾祭司來，污穢祭司燒香的邱壇，從迦巴直到別是巴，又拆毀城門旁的邱壇，這邱壇在邑宰約書亞門前，進城門的左邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Nevertheless the priests of the high places didn’t come up to the LORD’s altar in Jerusalem, but they ate unleavened bread among their brothers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但是邱坛的祭司不登耶路撒冷耶和华的坛，只在他们弟兄中间吃无酵饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但是邱壇的祭司不登耶路撒冷耶和華的壇，只在他們弟兄中間吃無酵餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又污秽欣嫩子谷的陀斐特，不许人在那里使儿女经火献给摩洛；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又污穢欣嫩子谷的陀斐特，不許人在那裏使兒女經火獻給摩洛；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He took away the horses that the kings of Judah had dedicated to the sun, at the entrance of the LORD’s house, by the room of Nathan Melech the officer who was in the court; and he burned the chariots of the sun with fire.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将犹大列王在耶和华殿门旁、太监拿单·米勒靠近游廊的屋子、向日头所献的马废去，且用火焚烧日车。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將猶大列王在耶和華殿門旁、太監拿單‧米勒靠近遊廊的屋子、向日頭所獻的馬廢去，且用火焚燒日車。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The king broke down the altars that were on the roof of the upper room of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the LORD’s house, and beat them down from there, and cast their dust into the brook Kidron.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大列王在亚哈斯楼顶上所筑的坛和玛拿西在耶和华殿两院中所筑的坛，王都拆毁打碎了，就把灰倒在汲沦溪中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大列王在亞哈斯樓頂上所築的壇和瑪拿西在耶和華殿兩院中所築的壇，王都拆毀打碎了，就把灰倒在汲淪溪中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The king defiled the high places that were before Jerusalem, which were on the right hand of the mountain of corruption, which Solomon the king of Israel had built for Ashtoreth the abomination of the Sidonians, and for Chemosh the abomination of Moab, and for Milcom the abomination of the children of Ammon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前以色列王所罗门在耶路撒冷前、邪僻山右边为西顿人可憎的神亚斯她录、摩押人可憎的神基抹、亚扪人可憎的神米勒公所筑的邱坛，王都污秽了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前以色列王所羅門在耶路撒冷前、邪僻山右邊為西頓人可憎的神亞斯她錄、摩押人可憎的神基抹、亞捫人可憎的神米勒公所築的邱壇，王都污穢了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "He broke in pieces the pillars, cut down the Asherah poles, and filled their places with men’s bones.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又打碎柱像，砍下木偶，将人的骨头充满了那地方。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又打碎柱像，砍下木偶，將人的骨頭充滿了那地方。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Moreover the altar that was at Bethel and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, even that altar and the high place he broke down; and he burned the high place and beat it to dust, and burned the Asherah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将伯特利的坛，就是叫以色列人陷在罪里、尼八的儿子耶罗波安所筑的那坛，都拆毁焚烧，打碎成灰，并焚烧了亚舍拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將伯特利的壇，就是叫以色列人陷在罪裏、尼八的兒子耶羅波安所築的那壇，都拆毀焚燒，打碎成灰，並焚燒了亞舍拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "As Josiah turned himself, he spied the tombs that were there in the mountain; and he sent, and took the bones out of the tombs, and burned them on the altar, and defiled it, according to the LORD’s word which the man of God proclaimed, who proclaimed these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约西亚回头，看见山上的坟墓，就打发人将坟墓里的骸骨取出来，烧在坛上，污秽了坛，正如从前神人宣传耶和华的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約西亞回頭，看見山上的墳墓，就打發人將墳墓裏的骸骨取出來，燒在壇上，污穢了壇，正如從前神人宣傳耶和華的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Then he said, “What monument is that which I see?” The men of the city told him, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done against the altar of Bethel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约西亚问说：「我所看见的是什么碑？」那城里的人回答说：「先前有神人从犹大来，预先说王现在向伯特利坛所行的事，这就是他的墓碑。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約西亞問說：「我所看見的是甚麼碑？」那城裏的人回答說：「先前有神人從猶大來，預先說王現在向伯特利壇所行的事，這就是他的墓碑。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He said, “Let him be! Let no one move his bones.” So they let his bones alone, with the bones of the prophet who came out of Samaria.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约西亚说：「由他吧！不要挪移他的骸骨。」他们就不动他的骸骨，也不动从撒马利亚来那先知的骸骨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約西亞說：「由他吧！不要挪移他的骸骨。」他們就不動他的骸骨，也不動從撒馬利亞來那先知的骸骨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "All the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the LORD to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前以色列诸王在撒马利亚的城邑建筑邱坛的殿，惹动耶和华的怒气，现在约西亚都废去了，就如他在伯特利所行的一般；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前以色列諸王在撒馬利亞的城邑建築邱壇的殿，惹動耶和華的怒氣，現在約西亞都廢去了，就如他在伯特利所行的一般；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He killed all the priests of the high places that were there, on the altars, and burned men’s bones on them; and he returned to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又将邱坛的祭司都杀在坛上，并在坛上烧人的骨头，就回耶路撒冷去了。 （代下35·1—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又將邱壇的祭司都殺在壇上，並在壇上燒人的骨頭，就回耶路撒冷去了。 （代下35‧1－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "The king commanded all the people, saying, “Keep the Passover to the LORD your God, as it is written in this book of the covenant.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王吩咐众民说：「你们当照这约书上所写的，向耶和华—你们的 神守逾越节。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王吩咐眾民說：「你們當照這約書上所寫的，向耶和華－你們的上帝守逾越節。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Surely there was not kept such a Passover from the days of the judges who judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "自从士师治理以色列人和以色列王、犹大王的时候，直到如今，实在没有守过这样的逾越节；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "自從士師治理以色列人和以色列王、猶大王的時候，直到如今，實在沒有守過這樣的逾越節；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "but in the eighteenth year of King Josiah, this Passover was kept to the LORD in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只有约西亚王十八年在耶路撒冷向耶和华守这逾越节。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只有約西亞王十八年在耶路撒冷向耶和華守這逾越節。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Moreover, Josiah removed those who had familiar spirits, the wizards, and the teraphim, and the idols, and all the abominations that were seen in the land of Judah and in Jerusalem, that he might confirm the words of the law which were written in the book that Hilkiah the priest found in the LORD’s house.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "23:24 teraphim were household idols."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡犹大国和耶路撒冷所有交鬼的、行巫术的，与家中的神像和偶像，并一切可憎之物，约西亚尽都除掉，成就了祭司希勒家在耶和华殿里所得律法书上所写的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡猶大國和耶路撒冷所有交鬼的、行巫術的，與家中的神像和偶像，並一切可憎之物，約西亞盡都除掉，成就了祭司希勒家在耶和華殿裏所得律法書上所寫的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "There was no king like him before him, who turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; and there was none like him who arose after him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在约西亚以前没有王像他尽心、尽性、尽力地归向耶和华，遵行摩西的一切律法；在他以后也没有兴起一个王像他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在約西亞以前沒有王像他盡心、盡性、盡力地歸向耶和華，遵行摩西的一切律法；在他以後也沒有興起一個王像他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Notwithstanding, the LORD didn’t turn from the fierceness of his great wrath, with which his anger burned against Judah, because of all the provocation with which Manasseh had provoked him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，耶和华向犹大所发猛烈的怒气仍不止息，是因玛拿西诸事惹动他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，耶和華向猶大所發猛烈的怒氣仍不止息，是因瑪拿西諸事惹動他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "The LORD said, “I will also remove Judah out of my sight, as I have removed Israel; and I will cast off this city which I have chosen, even Jerusalem, and the house of which I said, ‘My name shall be there.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我必将犹大人从我面前赶出，如同赶出以色列人一般；我必弃掉我从前所选择的这城—耶路撒冷和我所说立我名的殿。」 （代下35·20—36·1）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我必將猶大人從我面前趕出，如同趕出以色列人一般；我必棄掉我從前所選擇的這城－耶路撒冷和我所說立我名的殿。」 （代下35‧20－36‧1）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Now the rest of the acts of Josiah, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约西亚其余的事，凡他所行的都写在犹大列王记上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約西亞其餘的事，凡他所行的都寫在猶大列王記上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "In his days Pharaoh Necoh king of Egypt went up against the king of Assyria to the river Euphrates; and King Josiah went against him, but Pharaoh Necoh killed him at Megiddo when he saw him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约西亚年间，埃及王法老尼哥上到幼发拉底河攻击亚述王；约西亚王去抵挡他。埃及王遇见约西亚在米吉多，就杀了他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約西亞年間，埃及王法老尼哥上到幼發拉底河攻擊亞述王；約西亞王去抵擋他。埃及王遇見約西亞在米吉多，就殺了他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "His servants carried him dead in a chariot from Megiddo, brought him to Jerusalem, and buried him in his own tomb. The people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的臣仆用车将他的尸首从米吉多送到耶路撒冷，葬在他自己的坟墓里。国民膏约西亚的儿子约哈斯接续他父亲作王。 （代下36·2—4）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的臣僕用車將他的屍首從米吉多送到耶路撒冷，葬在他自己的墳墓裏。國民膏約西亞的兒子約哈斯接續他父親作王。 （代下36‧2－4）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Jehoahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约哈斯登基的时候年二十三岁，在耶路撒冷作王三个月。他母亲名叫哈慕她，是立拿人耶利米的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約哈斯登基的時候年二十三歲，在耶路撒冷作王三個月。他母親名叫哈慕她，是立拿人耶利米的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight, according to all that his fathers had done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约哈斯行耶和华眼中看为恶的事，效法他列祖一切所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約哈斯行耶和華眼中看為惡的事，效法他列祖一切所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Pharaoh Necoh put him in bonds at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of one hundred talents of silver and a talent of gold.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "23:33 A talent is about 30 kilograms or 66 pounds or 965 Troy ounces"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老尼哥将约哈斯锁禁在哈马地的利比拉，不许他在耶路撒冷作王，又罚犹大国银子一百他连得，金子一他连得。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老尼哥將約哈斯鎖禁在哈馬地的利比拉，不許他在耶路撒冷作王，又罰猶大國銀子一百他連得，金子一他連得。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Pharaoh Necoh made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim; but he took Jehoahaz away, and he came to Egypt and died there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法老尼哥立约西亚的儿子以利亚敬接续他父亲约西亚作王，给他改名叫约雅敬，却将约哈斯带到埃及，他就死在那里。 （代下36·5—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法老尼哥立約西亞的兒子以利亞敬接續他父親約西亞作王，給他改名叫約雅敬，卻將約哈斯帶到埃及，他就死在那裏。 （代下36‧5－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh. He exacted the silver and the gold of the people of the land, from everyone according to his assessment, to give it to Pharaoh Necoh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约雅敬将金银给法老，遵着法老的命向国民征取金银，按着各人的力量派定，索要金银，好给法老尼哥。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約雅敬將金銀給法老，遵着法老的命向國民徵取金銀，按着各人的力量派定，索要金銀，好給法老尼哥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah the daughter of Pedaiah of Rumah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约雅敬登基的时候年二十五岁，在耶路撒冷作王十一年。他母亲名叫西布大，是鲁玛人毗大雅的女儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約雅敬登基的時候年二十五歲，在耶路撒冷作王十一年。他母親名叫西布大，是魯瑪人毗大雅的女兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "He did that which was evil in the LORD’s sight, according to all that his fathers had done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约雅敬行耶和华眼中看为恶的事，效法他列祖一切所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約雅敬行耶和華眼中看為惡的事，效法他列祖一切所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

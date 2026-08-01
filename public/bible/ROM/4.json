@@ -1,0 +1,509 @@
+{
+  "bookId": "ROM",
+  "chapter": 4,
+  "bookEnglish": "Romans",
+  "bookChineseSimplified": "罗马书",
+  "bookChineseTraditional": "羅馬書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "What then will we say that Abraham, our forefather, has found according to the flesh?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如此说来，我们的祖宗亚伯拉罕凭着肉体得了什么呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此說來，我們的祖宗亞伯拉罕憑着肉體得了甚麼呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For if Abraham was justified by works, he has something to boast about, but not toward God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "倘若亚伯拉罕是因行为称义，就有可夸的；只是在 神面前并无可夸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "倘若亞伯拉罕是因行為稱義，就有可誇的；只是在上帝面前並無可誇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:3 Genesis 15:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "经上说什么呢？说：「亚伯拉罕信 神，这就算为他的义。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "經上說甚麼呢？說：「亞伯拉罕信上帝，這就算為他的義。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Now to him who works, the reward is not counted as grace, but as something owed.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "做工的得工价，不算恩典，乃是该得的；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "做工的得工價，不算恩典，乃是該得的；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟有不做工的，只信称罪人为义的 神，他的信就算为义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟有不做工的，只信稱罪人為義的上帝，他的信就算為義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正如大卫称那在行为以外蒙 神算为义的人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正如大衛稱那在行為以外蒙上帝算為義的人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Blessed are they whose iniquities are forgiven, whose sins are covered.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说： 得赦免其过、遮盖其罪的， 这人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說： 得赦免其過、遮蓋其罪的， 這人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Blessed is the man whom the Lord will by no means charge with sin.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:8 Psalms 32:1-2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "主不算为有罪的， 这人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主不算為有罪的， 這人是有福的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如此看来，这福是单加给那受割礼的人吗？不也是加给那未受割礼的人吗？因我们所说，亚伯拉罕的信，就算为他的义，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如此看來，這福是單加給那受割禮的人嗎？不也是加給那未受割禮的人嗎？因我們所說，亞伯拉罕的信，就算為他的義，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是怎么算的呢？是在他受割礼的时候呢？是在他未受割礼的时候呢？不是在受割礼的时候，乃是在未受割礼的时候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是怎麼算的呢？是在他受割禮的時候呢？是在他未受割禮的時候呢？不是在受割禮的時候，乃是在未受割禮的時候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且他受了割礼的记号，作他未受割礼的时候因信称义的印证，叫他作一切未受割礼而信之人的父，使他们也算为义；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且他受了割禮的記號，作他未受割禮的時候因信稱義的印證，叫他作一切未受割禮而信之人的父，使他們也算為義；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又作受割礼之人的父，就是那些不但受割礼，并且按我们的祖宗亚伯拉罕未受割礼而信之踪迹去行的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又作受割禮之人的父，就是那些不但受割禮，並且按我們的祖宗亞伯拉罕未受割禮而信之蹤跡去行的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "For the promise to Abraham and to his offspring that he would be heir of the world wasn’t through the law, but through the righteousness of faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为 神应许亚伯拉罕和他后裔，必得承受世界，不是因律法，乃是因信而得的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為上帝應許亞伯拉罕和他後裔，必得承受世界，不是因律法，乃是因信而得的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是属乎律法的人才得为后嗣，信就归于虚空，应许也就废弃了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是屬乎律法的人才得為後嗣，信就歸於虛空，應許也就廢棄了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "For the law produces wrath; for where there is no law, neither is there disobedience.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为律法是惹动忿怒的；哪里没有律法，那里就没有过犯。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:15 或译：叫人受刑的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為律法是惹動忿怒的；哪裏沒有律法，那裏就沒有過犯。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:15 或譯：叫人受刑的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the offspring, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以人得为后嗣是本乎信，因此就属乎恩，叫应许定然归给一切后裔；不但归给那属乎律法的，也归给那效法亚伯拉罕之信的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以人得為後嗣是本乎信，因此就屬乎恩，叫應許定然歸給一切後裔；不但歸給那屬乎律法的，也歸給那效法亞伯拉罕之信的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "As it is written, “I have made you a father of many nations.” This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:17 Genesis 17:5",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "亚伯拉罕所信的，是那叫死人复活、使无变为有的 神，他在主面前作我们世人的父。如经上所记：「我已经立你作多国的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞伯拉罕所信的，是那叫死人復活、使無變為有的上帝，他在主面前作我們世人的父。如經上所記：「我已經立你作多國的父。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Against hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:18 Genesis 15:5",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "他在无可指望的时候，因信仍有指望，就得以作多国的父，正如先前所说：「你的后裔将要如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他在無可指望的時候，因信仍有指望，就得以作多國的父，正如先前所說：「你的後裔將要如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他将近百岁的时候，虽然想到自己的身体如同已死，撒拉的生育已经断绝，他的信心还是不软弱；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他將近百歲的時候，雖然想到自己的身體如同已死，撒拉的生育已經斷絕，他的信心還是不軟弱；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且仰望 神的应许，总没有因不信心里起疑惑，反倒因信心里得坚固，将荣耀归给 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且仰望上帝的應許，總沒有因不信心裏起疑惑，反倒因信心裏得堅固，將榮耀歸給上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "and being fully assured that what he had promised, he was also able to perform.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "且满心相信 神所应许的必能做成。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "且滿心相信上帝所應許的必能做成。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Therefore it also was “credited to him for righteousness.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "4:22 Genesis 15:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所以，这就算为他的义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，這就算為他的義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Now it was not written that it was accounted to him for his sake alone,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「算为他义」的这句话不是单为他写的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「算為他義」的這句話不是單為他寫的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "but for our sake also, to whom it will be accounted, who believe in him who raised Jesus our Lord from the dead,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也是为我们将来得算为义之人写的，就是我们这信 神使我们的主耶稣从死里复活的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也是為我們將來得算為義之人寫的，就是我們這信上帝使我們的主耶穌從死裏復活的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "who was delivered up for our trespasses, and was raised for our justification.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:25 或译：耶稣是为我们的过犯交付了，是为我们称义复活了"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 4:25 或譯：耶穌是為我們的過犯交付了，是為我們稱義復活了"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

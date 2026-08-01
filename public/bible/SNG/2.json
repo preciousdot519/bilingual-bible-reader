@@ -1,0 +1,345 @@
+{
+  "bookId": "SNG",
+  "chapter": 2,
+  "bookEnglish": "Song of Songs",
+  "bookChineseSimplified": "雅歌",
+  "bookChineseTraditional": "雅歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I am a rose of Sharon, a lily of the valleys.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是沙 的玫瑰花， 是谷中的百合花。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:1 或译：水仙花"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是沙崙的玫瑰花， 是谷中的百合花。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:1 或譯：水仙花"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "As a lily among thorns, so is my love among the daughters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的佳偶在女子中， 好像百合花在荆棘内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的佳偶在女子中， 好像百合花在荊棘內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, his fruit was sweet to my taste.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的良人在男子中， 如同苹果树在树林中。 我欢欢喜喜坐在他的荫下， 尝他果子的滋味，觉得甘甜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的良人在男子中， 如同蘋果樹在樹林中。 我歡歡喜喜坐在他的蔭下， 嘗他果子的滋味，覺得甘甜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He brought me to the banquet hall. His banner over me is love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他带我入筵宴所， 以爱为旗在我以上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他帶我入筵宴所， 以愛為旗在我以上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Strengthen me with raisins, refresh me with apples; for I am faint with love.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求你们给我葡萄干增补我力， 给我苹果畅快我心， 因我思爱成病。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求你們給我葡萄乾增補我力， 給我蘋果暢快我心， 因我思愛成病。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "His left hand is under my head. His right hand embraces me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的左手在我头下； 他的右手将我抱住。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的左手在我頭下； 他的右手將我抱住。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷的众女子啊， 我指着羚羊或田野的母鹿嘱咐你们： 不要惊动、不要叫醒我所亲爱的， 等他自己情愿。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:7 不要叫醒......情愿：或译不要激动爱情，等它自发"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷的眾女子啊， 我指着羚羊或田野的母鹿囑咐你們： 不要驚動、不要叫醒我所親愛的， 等他自己情願。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:7 不要叫醒......情願：或譯不要激動愛情，等它自發"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "听啊！是我良人的声音； 看哪！他蹿山越岭而来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聽啊！是我良人的聲音； 看哪！他躥山越嶺而來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的良人好像羚羊，或像小鹿。 他站在我们墙壁后， 从窗户往里观看， 从窗棂往里窥探。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的良人好像羚羊，或像小鹿。 他站在我們牆壁後， 從窗戶往裏觀看， 從窗欞往裏窺探。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我良人对我说： 我的佳偶，我的美人， 起来，与我同去！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我良人對我說： 我的佳偶，我的美人， 起來，與我同去！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For behold, the winter is past. The rain is over and gone.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为冬天已往， 雨水止住过去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為冬天已往， 雨水止住過去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The flowers appear on the earth. The time of the singing has come, and the voice of the turtledove is heard in our land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地上百花开放， 百鸟鸣叫的时候已经来到； 斑鸠的声音在我们境内也听见了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 或译：修理葡萄树的时候"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地上百花開放， 百鳥鳴叫的時候已經來到； 斑鳩的聲音在我們境內也聽見了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 2:12 或譯：修理葡萄樹的時候"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无花果树的果子渐渐成熟； 葡萄树开花放香。 我的佳偶，我的美人， 起来，与我同去！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無花果樹的果子漸漸成熟； 葡萄樹開花放香。 我的佳偶，我的美人， 起來，與我同去！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的鸽子啊，你在磐石穴中， 在陡岩的隐密处。 求你容我得见你的面貌， 得听你的声音； 因为你的声音柔和， 你的面貌秀美。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的鴿子啊，你在磐石穴中， 在陡巖的隱密處。 求你容我得見你的面貌， 得聽你的聲音； 因為你的聲音柔和， 你的面貌秀美。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要给我们擒拿狐狸， 就是毁坏葡萄园的小狐狸， 因为我们的葡萄正在开花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要給我們擒拿狐狸， 就是毀壞葡萄園的小狐狸， 因為我們的葡萄正在開花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "My beloved is mine, and I am his. He browses among the lilies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "良人属我，我也属他； 他在百合花中牧放群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "良人屬我，我也屬他； 他在百合花中牧放群羊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的良人哪， 求你等到天起凉风、 日影飞去的时候， 你要转回，好像羚羊， 或像小鹿在比特山上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的良人哪， 求你等到天起涼風、 日影飛去的時候， 你要轉回，好像羚羊， 或像小鹿在比特山上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

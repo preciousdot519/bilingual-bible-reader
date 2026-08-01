@@ -1,0 +1,339 @@
+{
+  "bookId": "2CO",
+  "chapter": 10,
+  "bookEnglish": "2 Corinthians",
+  "bookChineseSimplified": "哥林多后书",
+  "bookChineseTraditional": "哥林多後書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—保罗，就是与你们见面的时候是谦卑的，不在你们那里的时候向你们是勇敢的，如今亲自借着基督的温柔、和平劝你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－保羅，就是與你們見面的時候是謙卑的，不在你們那裏的時候向你們是勇敢的，如今親自藉着基督的溫柔、和平勸你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人以为我是凭着血气行事，我也以为必须用勇敢待这等人；求你们不要叫我在你们那里的时候，有这样的勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人以為我是憑着血氣行事，我也以為必須用勇敢待這等人；求你們不要叫我在你們那裏的時候，有這樣的勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "For though we walk in the flesh, we don’t wage war according to the flesh;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我们虽然在血气中行事，却不凭着血气争战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們雖然在血氣中行事，卻不憑着血氣爭戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们争战的兵器本不是属血气的，乃是在 神面前有能力，可以攻破坚固的营垒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們爭戰的兵器本不是屬血氣的，乃是在上帝面前有能力，可以攻破堅固的營壘，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "throwing down imaginations and every high thing that is exalted against the knowledge of God and bringing every thought into captivity to the obedience of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将各样的计谋，各样拦阻人认识 神的那些自高之事，一概攻破了，又将人所有的心意夺回，使他都顺服基督。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將各樣的計謀，各樣攔阻人認識上帝的那些自高之事，一概攻破了，又將人所有的心意奪回，使他都順服基督。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "and being in readiness to avenge all disobedience when your obedience is made full.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并且我已经预备好了，等你们十分顺服的时候，要责罚那一切不顺服的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且我已經預備好了，等你們十分順服的時候，要責罰那一切不順服的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Do you look at things only as they appear in front of your face? If anyone trusts in himself that he is Christ’s, let him consider this again with himself, that even as he is Christ’s, so we also are Christ’s.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们是看眼前的吗？倘若有人自信是属基督的，他要再想想，他如何属基督，我们也是如何属基督的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們是看眼前的嗎？倘若有人自信是屬基督的，他要再想想，他如何屬基督，我們也是如何屬基督的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "For even if I boast somewhat abundantly concerning our authority, which the Lord gave for building you up and not for casting you down, I will not be ashamed,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主赐给我们权柄，是要造就你们，并不是要败坏你们；我就是为这权柄稍微夸口，也不至于惭愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主賜給我們權柄，是要造就你們，並不是要敗壞你們；我就是為這權柄稍微誇口，也不至於慚愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "that I may not seem as if I desire to terrify you by my letters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说这话，免得你们以为我写信是要威吓你们；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說這話，免得你們以為我寫信是要威嚇你們；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "For, “His letters”, they say, “are weighty and strong, but his bodily presence is weak, and his speech is despised.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有人说：「他的信又沉重又厉害，及至见面，却是气貌不扬，言语粗俗的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有人說：「他的信又沉重又厲害，及至見面，卻是氣貌不揚，言語粗俗的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这等人当想，我们不在那里的时候，信上的言语如何，见面的时候，行事也必如何。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這等人當想，我們不在那裏的時候，信上的言語如何，見面的時候，行事也必如何。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "For we are not bold to number or compare ourselves with some of those who commend themselves. But they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为我们不敢将自己和那自荐的人同列相比。他们用自己度量自己，用自己比较自己，乃是不通达的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為我們不敢將自己和那自薦的人同列相比。他們用自己度量自己，用自己比較自己，乃是不通達的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But we will not boast beyond proper limits, but within the boundaries with which God appointed to us, which reach even to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们不愿意分外夸口，只要照 神所量给我们的界限搆到你们那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們不願意分外誇口，只要照上帝所量給我們的界限搆到你們那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For we don’t stretch ourselves too much, as though we didn’t reach to you. For we came even as far as to you with the Good News of Christ,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们并非过了自己的界限，好像搆不到你们那里；因为我们早到你们那里，传了基督的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們並非過了自己的界限，好像搆不到你們那裏；因為我們早到你們那裏，傳了基督的福音。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "not boasting beyond proper limits in other men’s labors, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们不仗着别人所劳碌的，分外夸口；但指望你们信心增长的时候，所量给我们的界限，就可以因着你们更加开展，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們不仗着別人所勞碌的，分外誇口；但指望你們信心增長的時候，所量給我們的界限，就可以因着你們更加開展，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "so as to preach the Good News even to the parts beyond you, not to boast in what someone else has already done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得以将福音传到你们以外的地方；并不是在别人界限之内，借着他现成的事夸口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得以將福音傳到你們以外的地方；並不是在別人界限之內，藉着他現成的事誇口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "But “he who boasts, let him boast in the Lord.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "10:17 Jeremiah 9:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "但夸口的，当指着主夸口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但誇口的，當指着主誇口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For it isn’t he who commends himself who is approved, but whom the Lord commends.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为蒙悦纳的，不是自己称许的，乃是主所称许的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為蒙悅納的，不是自己稱許的，乃是主所稱許的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "bookId": "AMO",
+  "chapter": 3,
+  "bookEnglish": "Amos",
+  "bookChineseSimplified": "阿摩司书",
+  "bookChineseTraditional": "阿摩司書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Hear this word that the LORD has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人哪，你们全家是我从埃及地领上来的，当听耶和华攻击你们的话：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人哪，你們全家是我從埃及地領上來的，當聽耶和華攻擊你們的話：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“I have only chosen you of all the families of the earth. Therefore I will punish you for all of your sins.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在地上万族中，我只认识你们； 因此，我必追讨你们的一切罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在地上萬族中，我只認識你們； 因此，我必追討你們的一切罪孽。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Do two walk together, unless they have agreed?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人若不同心，岂能同行呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人若不同心，豈能同行呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Will a lion roar in the thicket, when he has no prey? Does a young lion cry out of his den, if he has caught nothing?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "狮子若非抓食，岂能在林中咆哮呢？ 少壮狮子若无所得，岂能从洞中发声呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "獅子若非抓食，豈能在林中咆哮呢？ 少壯獅子若無所得，豈能從洞中發聲呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Can a bird fall in a trap on the earth, where no snare is set for him? Does a snare spring up from the ground, when there is nothing to catch?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若没有机槛，雀鸟岂能陷在网罗里呢？ 网罗若无所得，岂能从地上翻起呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若沒有機檻，雀鳥豈能陷在網羅裏呢？ 網羅若無所得，豈能從地上翻起呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and the LORD hasn’t done it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城中若吹角，百姓岂不惊恐呢？ 灾祸若临到一城，岂非耶和华所降的吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城中若吹角，百姓豈不驚恐呢？ 災禍若臨到一城，豈非耶和華所降的嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Surely the Lord GOD will do nothing, unless he reveals his secret to his servants the prophets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华若不将奥秘指示他的仆人—众先知， 就一无所行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華若不將奧祕指示他的僕人－眾先知， 就一無所行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The lion has roared. Who will not fear? The Lord GOD has spoken. Who can but prophesy?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "狮子吼叫，谁不惧怕呢？ 主耶和华发命，谁能不说预言呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "獅子吼叫，誰不懼怕呢？ 主耶和華發命，誰能不說預言呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Proclaim in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, “Assemble yourselves on the mountains of Samaria, and see what unrest is in her, and what oppression is among them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要在亚实突的宫殿中 和埃及地的宫殿里传扬说： 你们要聚集在撒马利亚的山上， 就看见城中有何等大的扰乱与欺压的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要在亞實突的宮殿中 和埃及地的宮殿裏傳揚說： 你們要聚集在撒馬利亞的山上， 就看見城中有何等大的擾亂與欺壓的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“Indeed they don’t know to do right,” says the LORD, “Who hoard plunder and loot in their palaces.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那些以强暴抢夺财物、 积蓄在自己家中的人 不知道行正直的事。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那些以強暴搶奪財物、 積蓄在自己家中的人 不知道行正直的事。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therefore the Lord GOD says: “An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以主耶和华如此说： 敌人必来围攻这地， 使你的势力衰微， 抢掠你的家宅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以主耶和華如此說： 敵人必來圍攻這地， 使你的勢力衰微， 搶掠你的家宅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The LORD says: “As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华如此说：「牧人怎样从狮子口中抢回两条羊腿或半个耳朵，住撒马利亚的以色列人躺卧在床角上或铺绣花毯的榻上，他们得救也不过如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華如此說：「牧人怎樣從獅子口中搶回兩條羊腿或半個耳朵，住撒馬利亞的以色列人躺臥在床角上或鋪繡花毯的榻上，他們得救也不過如此。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“Listen, and testify against the house of Jacob,” says the Lord GOD, the God of Armies.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华—万军之 神说： 当听这话，警戒雅各家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華－萬軍之上帝說： 當聽這話，警戒雅各家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“For in the day that I visit the transgressions of Israel on him, I will also visit the altars of Bethel; and the horns of the altar will be cut off, and fall to the ground.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我讨以色列罪的日子，也要讨伯特利祭坛的罪； 坛角必被砍下，坠落于地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我討以色列罪的日子，也要討伯特利祭壇的罪； 壇角必被砍下，墜落於地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要拆毁过冬和过夏的房屋。 象牙的房屋也必毁灭； 高大的房屋都归无有。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要拆毀過冬和過夏的房屋。 象牙的房屋也必毀滅； 高大的房屋都歸無有。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

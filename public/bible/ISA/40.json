@@ -1,0 +1,597 @@
+{
+  "bookId": "ISA",
+  "chapter": 40,
+  "bookEnglish": "Isaiah",
+  "bookChineseSimplified": "以赛亚书",
+  "bookChineseTraditional": "以賽亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Comfort, comfort my people,” says your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们的 神说： 你们要安慰，安慰我的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們的上帝說： 你們要安慰，安慰我的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak comfortably to Jerusalem, and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of the LORD’s hand double for all her sins.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要对耶路撒冷说安慰的话， 又向她宣告说， 她争战的日子已满了； 她的罪孽赦免了； 她为自己的一切罪， 从耶和华手中加倍受罚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要對耶路撒冷說安慰的話， 又向她宣告說， 她爭戰的日子已滿了； 她的罪孽赦免了； 她為自己的一切罪， 從耶和華手中加倍受罰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The voice of one who calls out, “Prepare the way of the LORD in the wilderness! Make a level highway in the desert for our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人声喊着说： 在旷野预备耶和华的路， 在沙漠地修平我们 神的道。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:3 或译：在旷野，有人声喊着说：当预备耶和华的路"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人聲喊着說： 在曠野預備耶和華的路， 在沙漠地修平我們上帝的道。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:3 或譯：在曠野，有人聲喊着說：當預備耶和華的路"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一切山洼都要填满， 大小山冈都要削平； 高高低低的要改为平坦， 崎崎岖岖的必成为平原。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一切山窪都要填滿， 大小山岡都要削平； 高高低低的要改為平坦， 崎崎嶇嶇的必成為平原。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The LORD’s glory shall be revealed, and all flesh shall see it together; for the mouth of the LORD has spoken it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的荣耀必然显现； 凡有血气的必一同看见； 因为这是耶和华亲口说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的榮耀必然顯現； 凡有血氣的必一同看見； 因為這是耶和華親口說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The voice of one saying, “Cry out!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人声说：你喊叫吧！ 有一个说：我喊叫什么呢？ 说：凡有血气的尽都如草； 他的美容都像野地的花。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人聲說：你喊叫吧！ 有一個說：我喊叫甚麼呢？ 說：凡有血氣的盡都如草； 他的美容都像野地的花。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The grass withers, the flower fades, because the LORD’s breath blows on it. Surely the people are like grass.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "草必枯干，花必凋残， 因为耶和华的气吹在其上； 百姓诚然是草。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "草必枯乾，花必凋殘， 因為耶和華的氣吹在其上； 百姓誠然是草。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The grass withers, the flower fades; but the word of our God stands forever.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "草必枯干，花必凋残， 惟有我们 神的话必永远立定。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "草必枯乾，花必凋殘， 惟有我們上帝的話必永遠立定。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "You who tell good news to Zion, go up on a high mountain. You who tell good news to Jerusalem, lift up your voice with strength! Lift it up! Don’t be afraid! Say to the cities of Judah, “Behold, your God!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "报好信息给锡安的啊， 你要登高山； 报好信息给耶路撒冷的啊， 你要极力扬声。 扬声不要惧怕， 对犹大的城邑说： 看哪，你们的 神！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "報好信息給錫安的啊， 你要登高山； 報好信息給耶路撒冷的啊， 你要極力揚聲。 揚聲不要懼怕， 對猶大的城邑說： 看哪，你們的上帝！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Behold, the Lord GOD will come as a mighty one, and his arm will rule for him. Behold, his reward is with him, and his recompense before him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华必像大能者临到； 他的膀臂必为他掌权。 他的赏赐在他那里； 他的报应在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華必像大能者臨到； 他的膀臂必為他掌權。 他的賞賜在他那裏； 他的報應在他面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必像牧人牧养自己的羊群， 用膀臂聚集羊羔抱在怀中， 慢慢引导那乳养小羊的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必像牧人牧養自己的羊群， 用膀臂聚集羊羔抱在懷中， 慢慢引導那乳養小羊的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Who has measured the waters in the hollow of his hand, and marked off the sky with his span, and calculated the dust of the earth in a measuring basket, and weighed the mountains in scales, and the hills in a balance?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁曾用手心量诸水， 用手虎口量苍天， 用升斗盛大地的尘土， 用秤称山岭， 用天平平冈陵呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰曾用手心量諸水， 用手虎口量蒼天， 用升斗盛大地的塵土， 用秤稱山嶺， 用天平平岡陵呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Who has directed the LORD’s Spirit, or has taught him as his counselor?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁曾测度耶和华的心， 或作他的谋士指教他呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:13 或译：谁曾指示耶和华的灵"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰曾測度耶和華的心， 或作他的謀士指教他呢？",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:13 或譯：誰曾指示耶和華的靈"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Who did he take counsel with, and who instructed him, and taught him in the path of justice, and taught him knowledge, and showed him the way of understanding?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他与谁商议，谁教导他， 谁将公平的路指示他， 又将知识教训他， 将通达的道指教他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他與誰商議，誰教導他， 誰將公平的路指示他， 又將知識教訓他， 將通達的道指教他呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Behold, the nations are like a drop in a bucket, and are regarded as a speck of dust on a balance. Behold, he lifts up the islands like a very little thing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，万民都像水桶的一滴， 又算如天平上的微尘； 他举起众海岛，好像极微之物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，萬民都像水桶的一滴， 又算如天平上的微塵； 他舉起眾海島，好像極微之物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Lebanon is not sufficient to burn, nor its animals sufficient for a burnt offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "黎巴嫩的树林不够当柴烧； 其中的走兽也不够作燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "黎巴嫩的樹林不夠當柴燒； 其中的走獸也不夠作燔祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "All the nations are like nothing before him. They are regarded by him as less than nothing, and vanity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万民在他面前好像虚无， 被他看为不及虚无，乃为虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬民在他面前好像虛無， 被他看為不及虛無，乃為虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "To whom then will you liken God? Or what likeness will you compare to him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们究竟将谁比 神， 用什么形象与 神比较呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們究竟將誰比上帝， 用甚麼形像與上帝比較呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "A workman has cast an image, and the goldsmith overlays it with gold, and casts silver chains for it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "偶像是匠人铸造， 银匠用金包裹， 为它铸造银链。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "偶像是匠人鑄造， 銀匠用金包裹， 為它鑄造銀鍊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He who is too impoverished for such an offering chooses a tree that will not rot. He seeks a skillful workman to set up a carved image for him that will not be moved.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "穷乏献不起这样供物的， 就拣选不能朽坏的树木， 为自己寻找巧匠， 立起不能摇动的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "窮乏獻不起這樣供物的， 就揀選不能朽壞的樹木， 為自己尋找巧匠， 立起不能搖動的偶像。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Haven’t you known? Haven’t you heard? Haven’t you been told from the beginning? Haven’t you understood from the foundations of the earth?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们岂不曾知道吗？ 你们岂不曾听见吗？ 从起初岂没有人告诉你们吗？ 自从立地的根基， 你们岂没有明白吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們豈不曾知道嗎？ 你們豈不曾聽見嗎？ 從起初豈沒有人告訴你們嗎？ 自從立地的根基， 你們豈沒有明白嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神坐在地球大圈之上； 地上的居民好像蝗虫。 他铺张穹苍如幔子， 展开诸天如可住的帐棚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝坐在地球大圈之上； 地上的居民好像蝗蟲。 他鋪張穹蒼如幔子， 展開諸天如可住的帳棚。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "who brings princes to nothing, who makes the judges of the earth meaningless.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使君王归于虚无， 使地上的审判官成为虚空。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使君王歸於虛無， 使地上的審判官成為虛空。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "They are planted scarcely. They are sown scarcely. Their stock has scarcely taken root in the ground. He merely blows on them, and they wither, and the whirlwind takes them away as stubble.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们是刚才栽上， 刚才种上， 根也刚才扎在地里， 他一吹在其上，便都枯干； 旋风将他们吹去，像碎秸一样。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:24 或译：不曾；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們是剛才栽上， 剛才種上， 根也剛才扎在地裏， 他一吹在其上，便都枯乾； 旋風將他們吹去，像碎稭一樣。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 40:24 或譯：不曾；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“To whom then will you liken me? Who is my equal?” says the Holy One.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那圣者说：你们将谁比我， 叫他与我相等呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那聖者說：你們將誰比我， 叫他與我相等呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Lift up your eyes on high, and see who has created these, who brings out their army by number. He calls them all by name. By the greatness of his might, and because he is strong in power, not one is lacking.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们向上举目， 看谁创造这万象， 按数目领出， 他一一称其名； 因他的权能， 又因他的大能大力， 连一个都不缺。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們向上舉目， 看誰創造這萬象， 按數目領出， 他一一稱其名； 因他的權能， 又因他的大能大力， 連一個都不缺。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Why do you say, Jacob, and speak, Israel, “My way is hidden from the LORD, and the justice due me is disregarded by my God”?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各啊，你为何说， 我的道路向耶和华隐藏？ 以色列啊，你为何言， 我的冤屈 神并不查问？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各啊，你為何說， 我的道路向耶和華隱藏？ 以色列啊，你為何言， 我的冤屈上帝並不查問？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Haven’t you known? Haven’t you heard? The everlasting God, the LORD, the Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你岂不曾知道吗？ 你岂不曾听见吗？ 永在的 神耶和华，创造地极的主， 并不疲乏，也不困倦； 他的智慧无法测度。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你豈不曾知道嗎？ 你豈不曾聽見嗎？ 永在的上帝耶和華，創造地極的主， 並不疲乏，也不困倦； 他的智慧無法測度。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "He gives power to the weak. He increases the strength of him who has no might.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "疲乏的，他赐能力； 软弱的，他加力量。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "疲乏的，他賜能力； 軟弱的，他加力量。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Even the youths faint and get weary, and the young men utterly fall;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是少年人也要疲乏困倦； 强壮的也必全然跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是少年人也要疲乏困倦； 強壯的也必全然跌倒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "but those who wait for the LORD will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那等候耶和华的必从新得力。 他们必如鹰展翅上腾； 他们奔跑却不困倦， 行走却不疲乏。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那等候耶和華的必重新得力。 他們必如鷹展翅上騰； 他們奔跑卻不困倦， 行走卻不疲乏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "bookId": "DAN",
+  "chapter": 9,
+  "bookEnglish": "Daniel",
+  "bookChineseSimplified": "但以理书",
+  "bookChineseTraditional": "但以理書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "米底亚族亚哈随鲁的儿子大流士立为迦勒底国的王元年，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "米底亞族亞哈隨魯的兒子大流士立為迦勒底國的王元年，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’s word came to Jeremiah the prophet for the accomplishing of the desolations of Jerusalem, even seventy years.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:2 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就是他在位第一年，我—但以理从书上得知耶和华的话临到先知耶利米，论耶路撒冷荒凉的年数，七十年为满。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就是他在位第一年，我－但以理從書上得知耶和華的話臨到先知耶利米，論耶路撒冷荒涼的年數，七十年為滿。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便禁食，披麻蒙灰，定意向主 神祈祷恳求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便禁食，披麻蒙灰，定意向主上帝祈禱懇求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I prayed to the LORD my God, and made confession, and said, Lord, the great and dreadful God, who keeps covenant and loving kindness with those who love him and keep his commandments,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我向耶和华—我的 神祈祷、认罪，说：「主啊，大而可畏的 神，向爱主、守主诫命的人守约施慈爱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我向耶和華－我的上帝祈禱、認罪，說：「主啊，大而可畏的上帝，向愛主、守主誡命的人守約施慈愛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "we have sinned, and have dealt perversely, and have done wickedly, and have rebelled, even turning aside from your precepts and from your ordinances.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们犯罪作孽，行恶叛逆，偏离你的诫命典章，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們犯罪作孽，行惡叛逆，偏離你的誡命典章，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "We haven’t listened to your servants the prophets, who spoke in your name to our kings, our princes, and our fathers, and to all the people of the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "没有听从你仆人众先知奉你名向我们君王、首领、列祖，和国中一切百姓所说的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沒有聽從你僕人眾先知奉你名向我們君王、首領、列祖，和國中一切百姓所說的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Lord, righteousness belongs to you, but to us confusion of face, as it is today; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near and who are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，你是公义的，我们是脸上蒙羞的；因我们犹大人和耶路撒冷的居民，并以色列众人，或在近处，或在远处，被你赶到各国的人，都得罪了你，正如今日一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，你是公義的，我們是臉上蒙羞的；因我們猶大人和耶路撒冷的居民，並以色列眾人，或在近處，或在遠處，被你趕到各國的人，都得罪了你，正如今日一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Lord, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，我们和我们的君王、首领、列祖因得罪了你，就都脸上蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，我們和我們的君王、首領、列祖因得罪了你，就都臉上蒙羞。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "To the Lord our God belong mercies and forgiveness, for we have rebelled against him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主—我们的 神是怜悯饶恕人的，我们却违背了他，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主－我們的上帝是憐憫饒恕人的，我們卻違背了他，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "We haven’t obeyed the LORD our God’s voice, to walk in his laws, which he set before us by his servants the prophets.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也没有听从耶和华—我们 神的话，没有遵行他借仆人众先知向我们所陈明的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也沒有聽從耶和華－我們上帝的話，沒有遵行他藉僕人眾先知向我們所陳明的律法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Yes, all Israel have transgressed your law, turning aside, that they should not obey your voice. Therefore the curse and the oath written in the law of Moses the servant of God has been poured out on us, for we have sinned against him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列众人都犯了你的律法，偏行，不听从你的话；因此，在你仆人摩西律法上所写的咒诅和誓言都倾在我们身上，因我们得罪了 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列眾人都犯了你的律法，偏行，不聽從你的話；因此，在你僕人摩西律法上所寫的咒詛和誓言都傾在我們身上，因我們得罪了上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "He has confirmed his words, which he spoke against us and against our judges who judged us, by bringing on us a great evil; for under the whole sky, such has not been done as has been done to Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他使大灾祸临到我们，成就了警戒我们和审判我们官长的话；原来在普天之下未曾行过像在耶路撒冷所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他使大災禍臨到我們，成就了警戒我們和審判我們官長的話；原來在普天之下未曾行過像在耶路撒冷所行的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "As it is written in the law of Moses, all this evil has come on us. Yet we have not entreated the favor of the LORD our God, that we should turn from our iniquities and have discernment in your truth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这一切灾祸临到我们身上是照摩西律法上所写的，我们却没有求耶和华—我们 神的恩典，使我们回头离开罪孽，明白你的真理。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這一切災禍臨到我們身上是照摩西律法上所寫的，我們卻沒有求耶和華－我們上帝的恩典，使我們回頭離開罪孽，明白你的真理。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Therefore the LORD has watched over the evil, and brought it on us; for the LORD our God is righteous in all his works which he does, and we have not obeyed his voice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以耶和华留意使这灾祸临到我们身上，因为耶和华—我们的 神在他所行的事上都是公义；我们并没有听从他的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以耶和華留意使這災禍臨到我們身上，因為耶和華－我們的上帝在他所行的事上都是公義；我們並沒有聽從他的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Now, Lord our God, who has brought your people out of the land of Egypt with a mighty hand, and have gotten yourself renown, as it is today, we have sinned. We have done wickedly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主—我们的 神啊，你曾用大能的手领你的子民出埃及地，使自己得了名，正如今日一样。我们犯了罪，作了恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主－我們的上帝啊，你曾用大能的手領你的子民出埃及地，使自己得了名，正如今日一樣。我們犯了罪，作了惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Lord, according to all your righteousness, please let your anger and your wrath be turned away from your city Jerusalem, your holy mountain; because for our sins and for the iniquities of our fathers, Jerusalem and your people have become a reproach to all who are around us.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主啊，求你按你的大仁大义，使你的怒气和忿怒转离你的城耶路撒冷，就是你的圣山。耶路撒冷和你的子民，因我们的罪恶和我们列祖的罪孽被四围的人羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主啊，求你按你的大仁大義，使你的怒氣和忿怒轉離你的城耶路撒冷，就是你的聖山。耶路撒冷和你的子民，因我們的罪惡和我們列祖的罪孽被四圍的人羞辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "“Now therefore, our God, listen to the prayer of your servant and to his petitions, and cause your face to shine on your sanctuary that is desolate, for the Lord’s sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们的 神啊，现在求你垂听仆人的祈祷恳求，为自己使脸光照你荒凉的圣所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們的上帝啊，現在求你垂聽僕人的祈禱懇求，為自己使臉光照你荒涼的聖所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "My God, turn your ear and hear. Open your eyes and see our desolations, and the city which is called by your name; for we do not present our petitions before you for our righteousness, but for your great mercies’ sake.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的 神啊，求你侧耳而听，睁眼而看，眷顾我们荒凉之地和称为你名下的城。我们在你面前恳求，原不是因自己的义，乃因你的大怜悯。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的上帝啊，求你側耳而聽，睜眼而看，眷顧我們荒涼之地和稱為你名下的城。我們在你面前懇求，原不是因自己的義，乃因你的大憐憫。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Lord, hear. Lord, forgive. Lord, listen and do. Don’t defer, for your own sake, my God, because your city and your people are called by your name.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "求主垂听，求主赦免，求主应允而行，为你自己不要迟延。我的 神啊，因这城和这民都是称为你名下的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "求主垂聽，求主赦免，求主應允而行，為你自己不要遲延。我的上帝啊，因這城和這民都是稱為你名下的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "While I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说话，祷告，承认我的罪和本国之民以色列的罪，为我 神的圣山，在耶和华—我 神面前恳求。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說話，禱告，承認我的罪和本國之民以色列的罪，為我上帝的聖山，在耶和華－我上帝面前懇求。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "yes, while I was speaking in prayer—the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我正祷告的时候，先前在异象中所见的那位加百列，奉命迅速飞来，约在献晚祭的时候，按手在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我正禱告的時候，先前在異象中所見的那位加百列，奉命迅速飛來，約在獻晚祭的時候，按手在我身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "He instructed me and talked with me, and said, “Daniel, I have now come to give you wisdom and understanding.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他指教我说：「但以理啊，现在我出来要使你有智慧，有聪明。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他指教我說：「但以理啊，現在我出來要使你有智慧，有聰明。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "At the beginning of your petitions the commandment went out, and I have come to tell you, for you are greatly beloved. Therefore consider the matter and understand the vision.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你初恳求的时候，就发出命令，我来告诉你，因你大蒙眷爱；所以你要思想明白这以下的事和异象。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你初懇求的時候，就發出命令，我來告訴你，因你大蒙眷愛；所以你要思想明白這以下的事和異象。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“Seventy weeks are decreed on your people and on your holy city, to finish disobedience, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the most holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「为你本国之民和你圣城，已经定了七十个七。要止住罪过，除净罪恶，赎尽罪孽，引进永义，封住异象和预言，并膏至圣者。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 或译：彰显"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:24 者：或译所"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「為你本國之民和你聖城，已經定了七十個七。要止住罪過，除淨罪惡，贖盡罪孽，引進永義，封住異象和預言，並膏至聖者。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 或譯：彰顯"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:24 者：或譯所"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One, the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:25 “Anointed One” can also be translated “Messiah” (same as “Christ”)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你当知道，当明白，从出令重新建造耶路撒冷，直到有受膏君的时候，必有七个七和六十二个七。正在艰难的时候，耶路撒冷城连街带濠都必重新建造。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你當知道，當明白，從出令重新建造耶路撒冷，直到有受膏君的時候，必有七個七和六十二個七。正在艱難的時候，耶路撒冷城連街帶濠都必重新建造。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "After the sixty-two weeks the Anointed One will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:26 “Anointed One” can also be translated “Messiah” (same as “Christ”)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "过了六十二个七，那受膏者必被剪除，一无所有；必有一王的民来毁灭这城和圣所，至终必如洪水冲没。必有争战，一直到底，荒凉的事已经定了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:26 或译：有"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "過了六十二個七，那受膏者必被剪除，一無所有；必有一王的民來毀滅這城和聖所，至終必如洪水沖沒。必有爭戰，一直到底，荒涼的事已經定了。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:26 或譯：有"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "一七之内，他必与许多人坚定盟约；一七之半，他必使祭祀与供献止息。那行毁坏可憎的如飞而来，并且有忿怒倾在那行毁坏的身上，直到所定的结局。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:27 或译：使地荒凉的"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:27 或译：倾在那荒凉之地"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "一七之內，他必與許多人堅定盟約；一七之半，他必使祭祀與供獻止息。那行毀壞可憎的如飛而來，並且有忿怒傾在那行毀壞的身上，直到所定的結局。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:27 或譯：使地荒涼的"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:27 或譯：傾在那荒涼之地"
+          }
+        ],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "bookId": "LUK",
+  "chapter": 9,
+  "bookEnglish": "Luke",
+  "bookChineseSimplified": "路加福音",
+  "bookChineseTraditional": "路加福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "He called the twelve together and gave them power and authority over all demons, and to cure diseases.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:1 TR reads “his twelve disciples” instead of “the twelve”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣叫齐了十二个门徒，给他们能力、权柄，制伏一切的鬼，医治各样的病，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌叫齊了十二個門徒，給他們能力、權柄，制伏一切的鬼，醫治各樣的病，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He sent them out to preach God’s Kingdom and to heal the sick.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又差遣他们去宣传 神国的道，医治病人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又差遣他們去宣傳上帝國的道，醫治病人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He said to them, “Takenothing for your journey —no staffs, nor wallet, nor bread, nor money. Don’ t have two tunics each.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说：「行路的时候，不要带拐杖和口袋，不要带食物和银子，也不要带两件褂子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「行路的時候，不要帶柺杖和口袋，不要帶食物和銀子，也不要帶兩件褂子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Intowhatever house you enter, stay there, and depart from there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论进哪一家，就住在那里，也从那里起行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論進哪一家，就住在那裏，也從那裏起行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Asmany as don’ t receive you, when you depart from that city, shake off even the dust from your feet for a testimony against them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡不接待你们的，你们离开那城的时候，要把脚上的尘土跺下去，见证他们的不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡不接待你們的，你們離開那城的時候，要把腳上的塵土跺下去，見證他們的不是。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "They departed and went throughout the villages, preaching the Good News and healing everywhere.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒就出去，走遍各乡宣传福音，到处治病。 （太14·1—12；可6·14—29）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒就出去，走遍各鄉宣傳福音，到處治病。 （太14‧1－12；可6‧14－29）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Now Herod the tetrarch heard of all that was done by him; and he was very perplexed, because it was said by some that John had risen from the dead,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "分封的王希律听见耶稣所做的一切事，就游移不定；因为有人说：「是约翰从死里复活」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "分封的王希律聽見耶穌所做的一切事，就游移不定；因為有人說：「是約翰從死裏復活」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "and by some that Elijah had appeared, and by others that one of the old prophets had risen again.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有人说：「是以利亚显现」；还有人说：「是古时的一个先知又活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有人說：「是以利亞顯現」；還有人說：「是古時的一個先知又活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Herod said, “I beheaded John, but who is this about whom I hear such things?” He sought to see him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "希律说：「约翰我已经斩了，这却是什么人？我竟听见他这样的事呢？」就想要见他。 （太14·13—21；可6·30—44；约6·1—14）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "希律說：「約翰我已經斬了，這卻是甚麼人？我竟聽見他這樣的事呢？」就想要見他。 （太14‧13－21；可6‧30－44；約6‧1－14）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The apostles, when they had returned, told him what things they had done. He took them and withdrew apart to a desert region of a city called Bethsaida.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:10 NU omits “a desert region of”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使徒回来，将所做的事告诉耶稣，耶稣就带他们暗暗地离开那里，往一座城去；那城名叫伯赛大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使徒回來，將所做的事告訴耶穌，耶穌就帶他們暗暗地離開那裏，往一座城去；那城名叫伯賽大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But the multitudes, perceiving it, followed him. He welcomed them, spoke to them of God’s Kingdom, and he cured those who needed healing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但众人知道了，就跟着他去；耶稣便接待他们，对他们讲论 神国的道，医治那些需医的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但眾人知道了，就跟着他去；耶穌便接待他們，對他們講論上帝國的道，醫治那些需醫的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The day began to wear away; and the twelve came and said to him, “Send the multitude away, that they may go into the surrounding villages and farms and lodge and get food, for we are here in a deserted place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "日头快要平西，十二个门徒来对他说：「请叫众人散开，他们好往四面乡村里去借宿找吃的，因为我们这里是野地。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "日頭快要平西，十二個門徒來對他說：「請叫眾人散開，他們好往四面鄉村裏去借宿找吃的，因為我們這裏是野地。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "But he said to them, “Yougive them something to eat.” They said, “We have no more than five loaves and two fish, unless we should go and buy food for all these people.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们给他们吃吧！」门徒说：「我们不过有五个饼，两条鱼，若不去为这许多人买食物就不够。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們給他們吃吧！」門徒說：「我們不過有五個餅，兩條魚，若不去為這許多人買食物就不夠。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For they were about five thousand men. He said to his disciples, “Makethem sit down in groups of about fifty each.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，人数约有五千。耶稣对门徒说：「叫他们一排一排地坐下，每排大约五十个人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，人數約有五千。耶穌對門徒說：「叫他們一排一排地坐下，每排大約五十個人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "They did so, and made them all sit down.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒就如此行，叫众人都坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒就如此行，叫眾人都坐下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "He took the five loaves and the two fish, and looking up to the sky, he blessed them, broke them, and gave them to the disciples to set before the multitude.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣拿着这五个饼，两条鱼，望着天祝福，擘开，递给门徒，摆在众人面前。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌拿着這五個餅，兩條魚，望着天祝福，擘開，遞給門徒，擺在眾人面前。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They ate and were all filled. They gathered up twelve baskets of broken pieces that were left over.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就吃，并且都吃饱了；把剩下的零碎收拾起来，装满了十二篮子。 （太16·13—19；可8·27—29）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就吃，並且都吃飽了；把剩下的零碎收拾起來，裝滿了十二籃子。 （太16‧13－19；可8‧27－29）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "As he was praying alone, the disciples were near him, and he asked them, “Whodo the multitudes say that I am?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣自己祷告的时候，门徒也同他在那里。耶稣问他们说：「众人说我是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌自己禱告的時候，門徒也同他在那裏。耶穌問他們說：「眾人說我是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They answered, “‘John the Baptizer,’ but others say, ‘Elijah,’ and others, that one of the old prophets has risen again.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「有人说是施洗的约翰；有人说是以利亚；还有人说是古时的一个先知又活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「有人說是施洗的約翰；有人說是以利亞；還有人說是古時的一個先知又活了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He said to them, “Butwho do you say that I am?” Peter answered, “The Christ of God.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你们说我是谁？」彼得回答说：「是 神所立的基督。」 （太16·20—28；可8·30—9·1）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你們說我是誰？」彼得回答說：「是上帝所立的基督。」 （太16‧20－28；可8‧30－9‧1）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But he warned them and commanded them to tell this to no one,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣切切地嘱咐他们，不可将这事告诉人，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌切切地囑咐他們，不可將這事告訴人，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "saying, “TheSon of Man must suffer many things, and be rejected by the elders, chief priests, and scribes, and be killed, and the third day be raised up.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「人子必须受许多的苦，被长老、祭司长，和文士弃绝，并且被杀，第三日复活。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「人子必須受許多的苦，被長老、祭司長，和文士棄絕，並且被殺，第三日復活。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He said to all, “Ifanyone desires to come after me, let him deny himself, take up his cross, andfollow me.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:23 TR, NU add “daily”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣又对众人说：「若有人要跟从我，就当舍己，天天背起他的十字架来跟从我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌又對眾人說：「若有人要跟從我，就當捨己，天天背起他的十字架來跟從我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Forwhoever desires to save his life will lose it, but whoever will lose his life for my sake will save it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为，凡要救自己生命的，必丧掉生命；凡为我丧掉生命的，必救了生命。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 生命：或译灵魂；下同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為，凡要救自己生命的，必喪掉生命；凡為我喪掉生命的，必救了生命。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:24 生命：或譯靈魂；下同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Forwhat does it profit a man if he gains the whole world, and loses or forfeits his own self?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人若赚得全世界，却丧了自己，赔上自己，有什么益处呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人若賺得全世界，卻喪了自己，賠上自己，有甚麼益處呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Forwhoever will be ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory, and the glory of the Father, and of the holy angels.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡把我和我的道当作可耻的，人子在自己的荣耀里，并天父与圣天使的荣耀里降临的时候，也要把那人当作可耻的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡把我和我的道當作可恥的，人子在自己的榮耀裏，並天父與聖天使的榮耀裏降臨的時候，也要把那人當作可恥的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "ButI tell you the truth: There are some of those who stand here who will in no way taste of death until they see God’s Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我实在告诉你们，站在这里的，有人在没尝死味以前，必看见 神的国。」 （太17·1—8；可9·2—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我實在告訴你們，站在這裏的，有人在沒嘗死味以前，必看見上帝的國。」 （太17‧1－8；可9‧2－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "About eight days after these sayings, he took with him Peter, John, and James, and went up onto the mountain to pray.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说了这话以后约有八天，耶稣带着彼得、约翰、雅各上山去祷告。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說了這話以後約有八天，耶穌帶着彼得、約翰、雅各上山去禱告。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "As he was praying, the appearance of his face was altered, and his clothing became white and dazzling.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正祷告的时候，他的面貌就改变了，衣服洁白放光。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正禱告的時候，他的面貌就改變了，衣服潔白放光。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Behold, two men were talking with him, who were Moses and Elijah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "忽然有摩西、以利亚两个人同耶稣说话；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "忽然有摩西、以利亞兩個人同耶穌說話；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "who appeared in glory and spoke of his departure, which he was about to accomplish at Jerusalem.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:31 literally, “exodus”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们在荣光里显现，谈论耶稣去世的事，就是他在耶路撒冷将要成的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們在榮光裏顯現，談論耶穌去世的事，就是他在耶路撒冷將要成的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Now Peter and those who were with him were heavy with sleep, but when they were fully awake, they saw his glory, and the two men who stood with him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得和他的同伴都打盹，既清醒了，就看见耶稣的荣光，并同他站着的那两个人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得和他的同伴都打盹，既清醒了，就看見耶穌的榮光，並同他站着的那兩個人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "As they were parting from him, Peter said to Jesus, “Master, it is good for us to be here. Let’s make three tents: one for you, one for Moses, and one for Elijah,” not knowing what he said.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "二人正要和耶稣分离的时候，彼得对耶稣说：「夫子，我们在这里真好！可以搭三座棚，一座为你，一座为摩西，一座为以利亚。」他却不知道所说的是什么。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "二人正要和耶穌分離的時候，彼得對耶穌說：「夫子，我們在這裏真好！可以搭三座棚，一座為你，一座為摩西，一座為以利亞。」他卻不知道所說的是甚麼。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "While he said these things, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说这话的时候，有一朵云彩来遮盖他们；他们进入云彩里就惧怕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說這話的時候，有一朵雲彩來遮蓋他們；他們進入雲彩裏就懼怕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "A voice came out of the cloud, saying, “This is my beloved Son. Listen to him!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有声音从云彩里出来，说：「这是我的儿子，我所拣选的，你们要听他。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:35 有古卷：这是我的爱子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有聲音從雲彩裏出來，說：「這是我的兒子，我所揀選的，你們要聽他。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:35 有古卷：這是我的愛子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "When the voice came, Jesus was found alone. They were silent, and told no one in those days any of the things which they had seen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "声音住了，只见耶稣一人在那里。当那些日子，门徒不提所看见的事，一样也不告诉人。 （太17·14—18；可9·14—27）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "聲音住了，只見耶穌一人在那裏。當那些日子，門徒不提所看見的事，一樣也不告訴人。 （太17‧14－18；可9‧14－27）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "On the next day, when they had come down from the mountain, a great multitude met him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第二天，他们下了山，就有许多人迎见耶稣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第二天，他們下了山，就有許多人迎見耶穌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Behold, a man from the crowd called out, saying, “Teacher, I beg you to look at my son, for he is my only born child.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "9:38 The phrase “only born” is from the Greek word “μονογενη”, which is sometimes translated “only begotten” or “one and only”."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中有一人喊叫说：「夫子！求你看顾我的儿子，因为他是我的独生子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中有一人喊叫說：「夫子！求你看顧我的兒子，因為他是我的獨生子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Behold, a spirit takes him, he suddenly cries out, and it convulses him so that he foams; and it hardly departs from him, bruising him severely.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他被鬼抓住就忽然喊叫；鬼又叫他抽风，口中流沫，并且重重地伤害他，难以离开他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他被鬼抓住就忽然喊叫；鬼又叫他抽瘋，口中流沫，並且重重地傷害他，難以離開他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "I begged your disciples to cast it out, and they couldn’t.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我求过你的门徒，把鬼赶出去，他们却是不能。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我求過你的門徒，把鬼趕出去，他們卻是不能。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "Jesus answered, “Faithless andperverse generation, how long shall I be with you and bear with you? Bring your son here.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「嗳！这又不信又悖谬的世代啊，我在你们这里，忍耐你们要到几时呢？将你的儿子带到这里来吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「噯！這又不信又悖謬的世代啊，我在你們這裏，忍耐你們要到幾時呢？將你的兒子帶到這裏來吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "While he was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "正来的时候，鬼把他摔倒，叫他重重地抽风。耶稣就斥责那污鬼，把孩子治好了，交给他父亲。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "正來的時候，鬼把他摔倒，叫他重重地抽瘋。耶穌就斥責那污鬼，把孩子治好了，交給他父親。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "They were all astonished at the majesty of God. But while all were marveling at all the things which Jesus did, he said to his disciples,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人都诧异 神的大能。 （太17·22—23；可9·30—32）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:43 大能：或译威荣"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人都詫異上帝的大能 。 （太17‧22－23；可9‧30－32）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:43 大能：或譯威榮"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "“Letthese words sink into your ears, for the Son of Man will be delivered up into the hands of men.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要把这些话存在耳中，因为人子将要被交在人手里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要把這些話存在耳中，因為人子將要被交在人手裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "But they didn’t understand this saying. It was concealed from them, that they should not perceive it, and they were afraid to ask him about this saying.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不明白这话，意思乃是隐藏的，叫他们不能明白，他们也不敢问这话的意思。 （太18·1—5；可9·33—37）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不明白這話，意思乃是隱藏的，叫他們不能明白，他們也不敢問這話的意思。 （太18‧1－5；可9‧33－37）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "An argument arose among them about which of them was the greatest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒中间起了议论，谁将为大。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒中間起了議論，誰將為大。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "Jesus, perceiving the reasoning of their hearts, took a little child, and set him by his side,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看出他们心中的议论，就领一个小孩子来，叫他站在自己旁边，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看出他們心中的議論，就領一個小孩子來，叫他站在自己旁邊，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "48",
+      "en": {
+        "text": "and said to them, “Whoeverreceives this little child in my name receives me. Whoever receives me receives him who sent me. For whoever is least among you all, this one will be great.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "对他们说：「凡为我名接待这小孩子的，就是接待我；凡接待我的，就是接待那差我来的。你们中间最小的，他便为大。」 （可9·38—40）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「凡為我名接待這小孩子的，就是接待我；凡接待我的，就是接待那差我來的。你們中間最小的，他便為大。」 （可9‧38－40）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "49",
+      "en": {
+        "text": "John answered, “Master, we saw someone casting out demons in your name, and we forbade him, because he doesn’t follow with us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰说：「夫子，我们看见一个人奉你的名赶鬼，我们就禁止他，因为他不与我们一同跟从你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰說：「夫子，我們看見一個人奉你的名趕鬼，我們就禁止他，因為他不與我們一同跟從你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "50",
+      "en": {
+        "text": "Jesus said to him, “Don’t forbidhim, for he who is not against us is for us.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「不要禁止他；因为不敌挡你们的，就是帮助你们的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「不要禁止他；因為不敵擋你們的，就是幫助你們的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "51",
+      "en": {
+        "text": "It came to pass, when the days were near that he should be taken up, he intently set his face to go to Jerusalem",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣被接上升的日子将到，他就定意向耶路撒冷去，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌被接上升的日子將到，他就定意向耶路撒冷去，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "52",
+      "en": {
+        "text": "and sent messengers before his face. They went and entered into a village of the Samaritans, so as to prepare for him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便打发使者在他前头走。他们到了撒马利亚的一个村庄，要为他预备。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便打發使者在他前頭走。他們到了撒馬利亞的一個村莊，要為他預備。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "53",
+      "en": {
+        "text": "They didn’t receive him, because he was traveling with his face set toward Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那里的人不接待他，因他面向耶路撒冷去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那裏的人不接待他，因他面向耶路撒冷去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "54",
+      "en": {
+        "text": "When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky and destroy them, just as Elijah did?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的门徒雅各、约翰看见了，就说：「主啊，你要我们吩咐火从天上降下来烧灭他们，像以利亚所做的吗？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:54 有古卷没有像以利亚所做的这几个字"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的門徒雅各、約翰看見了，就說：「主啊，你要我們吩咐火從天上降下來燒滅他們，像以利亞所做的嗎？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:54 有古卷沒有像以利亞所做的這幾個字"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "55",
+      "en": {
+        "text": "But he turned and rebuked them, “You don’t know ofwhat kind of spirit you are.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣转身责备两个门徒，说：「你们的心如何，你们并不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌轉身責備兩個門徒，說：「你們的心如何，你們並不知道。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "56",
+      "en": {
+        "text": "Forthe Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人子来不是要灭人的性命，是要救人的性命。」说着就往别的村庄去了。 （太8·19—22）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:56 性命：或译灵魂；下同"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:56 有古卷只有五十五节首句，五十六节末句"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人子來不是要滅人的性命，是要救人的性命。」說着就往別的村莊去了。 （太8‧19－22）",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 9:56 性 命：或譯靈魂；下同"
+          },
+          {
+            "id": "f2",
+            "text": "- 9:56 有古卷只有五十五節首句，五十六節末句"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "57",
+      "en": {
+        "text": "As they went on the way, a certain man said to him, “I want to follow you wherever you go, Lord.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们走路的时候，有一人对耶稣说：「你无论往哪里去，我要跟从你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們走路的時候，有一人對耶穌說：「你無論往哪裏去，我要跟從你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "58",
+      "en": {
+        "text": "Jesus said to him, “Thefoxes have holes and the birds of the sky have nests, but the Son of Man has no place to lay his head.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「狐狸有洞，天空的飞鸟有窝，只是人子没有枕头的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「狐狸有洞，天空的飛鳥有窩，只是人子沒有枕頭的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "59",
+      "en": {
+        "text": "He said to another, “Followme!” But he said, “Lord, allow me first to go and bury my father.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又对一个人说：「跟从我来！」那人说：「主，容我先回去埋葬我的父亲。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又對一個人說：「跟從我來！」那人說：「主，容我先回去埋葬我的父親。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "60",
+      "en": {
+        "text": "But Jesus said to him, “Leave thedead to bury their own dead, but you go and announce God’s Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「任凭死人埋葬他们的死人，你只管去传扬 神国的道。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「任憑死人埋葬他們的死人，你只管去傳揚上帝國的道。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "61",
+      "en": {
+        "text": "Another also said, “I want to follow you, Lord, but first allow me to say good-bye to those who are at my house.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一人说：「主，我要跟从你，但容我先去辞别我家里的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一人說：「主，我要跟從你，但容我先去辭別我家裏的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "62",
+      "en": {
+        "text": "But Jesus said to him, “Noone, having put his hand to the plow and looking back, is fit for God’s Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「手扶着犁向后看的，不配进 神的国。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「手扶着犂向後看的，不配進上帝的國。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

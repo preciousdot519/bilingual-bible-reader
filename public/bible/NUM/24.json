@@ -1,0 +1,479 @@
+{
+  "bookId": "NUM",
+  "chapter": 24,
+  "bookEnglish": "Numbers",
+  "bookChineseSimplified": "民数记",
+  "bookChineseTraditional": "民數記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When Balaam saw that it pleased the LORD to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰见耶和华喜欢赐福与以色列，就不像前两次去求法术，却面向旷野。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭見耶和華喜歡賜福與以色列，就不像前兩次去求法術，卻面向曠野。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Balaam lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Spirit of God came on him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰举目，看见以色列人照着支派居住。 神的灵就临到他身上，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭舉目，看見以色列人照着支派居住。上帝的靈就臨到他身上，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He took up his parable, and said, “Balaam the son of Beor says, the man whose eyes are open says;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他便题起诗歌说： 比珥的儿子巴兰说， 眼目闭住的人说，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:3 或译：睁开"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他便題起詩歌說： 比珥的兒子巴蘭說， 眼目閉住的人說，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:3 或譯：睜開"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "he says, who hears the words of God, who sees the vision of the Almighty, falling down, and having his eyes open:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得听 神的言语， 得见全能者的异象， 眼目睁开而仆倒的人说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得聽上帝的言語， 得見全能者的異象， 眼目睜開而仆倒的人說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "How goodly are your tents, Jacob, and your dwellings, Israel!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "雅各啊，你的帐棚何等华美！ 以色列啊，你的帐幕何其华丽！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "雅各啊，你的帳棚何等華美！ 以色列啊，你的帳幕何其華麗！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "As valleys they are spread out, as gardens by the riverside, as aloes which the LORD has planted, as cedar trees beside the waters.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如接连的山谷， 如河旁的园子， 如耶和华所栽的沉香树， 如水边的香柏木。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如接連的山谷， 如河旁的園子， 如耶和華所栽的沉香樹， 如水邊的香柏木。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Water shall flow from his buckets. His seed shall be in many waters. His king shall be higher than Agag. His kingdom shall be exalted.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "水要从他的桶里流出； 种子要撒在多水之处。 他的王必超过亚甲； 他的国必要振兴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "水要從他的桶裏流出； 種子要撒在多水之處。 他的王必超過亞甲； 他的國必要振興。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "God brings him out of Egypt. He has as it were the strength of the wild ox. He shall consume the nations his adversaries, shall break their bones in pieces, and pierce them with his arrows.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "神领他出埃及； 他似乎有野牛之力。 他要吞吃敌国， 折断他们的骨头， 用箭射透他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "上帝領他出埃及； 他似乎有野牛之力。 他要吞吃敵國， 折斷他們的骨頭， 用箭射透他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He couched, he lay down as a lion, as a lioness; who shall rouse him up? Everyone who blesses you is blessed. Everyone who curses you is cursed.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他蹲如公狮， 卧如母狮，谁敢惹他？ 凡给你祝福的，愿他蒙福； 凡咒诅你的，愿他受咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他蹲如公獅， 臥如母獅，誰敢惹他？ 凡給你祝福的，願他蒙福； 凡咒詛你的，願他受咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Balak’s anger burned against Balaam, and he struck his hands together. Balak said to Balaam, “I called you to curse my enemies, and, behold, you have altogether blessed them these three times.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴勒向巴兰生气，就拍起手来，对巴兰说：「我召你来为我咒诅仇敌，不料，你这三次竟为他们祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴勒向巴蘭生氣，就拍起手來，對巴蘭說：「我召你來為我咒詛仇敵，不料，你這三次竟為他們祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Therefore, flee to your place, now! I thought to promote you to great honor; but, behold, the LORD has kept you back from honor.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "如今你快回本地去吧！我想使你得大尊荣，耶和华却阻止你不得尊荣。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "如今你快回本地去吧！我想使你得大尊榮，耶和華卻阻止你不得尊榮。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Balaam said to Balak, “Didn’t I also tell your messengers whom you sent to me, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰对巴勒说：「我岂不是对你所差遣到我那里的使者说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭對巴勒說：「我豈不是對你所差遣到我那裏的使者說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "‘If Balak would give me his house full of silver and gold, I can’t go beyond the LORD’s word, to do either good or bad from my own mind. I will say what the LORD says’?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『巴勒就是将他满屋的金银给我，我也不得越过耶和华的命，凭自己的心意行好行歹。耶和华说什么，我就要说什么』？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『巴勒就是將他滿屋的金銀給我，我也不得越過耶和華的命，憑自己的心意行好行歹。耶和華說甚麼，我就要說甚麼』？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "Now, behold, I go to my people. Come, I will inform you what this people shall do to your people in the latter days.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「现在我要回本族去。你来，我告诉你这民日后要怎样待你的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「現在我要回本族去。你來，我告訴你這民日後要怎樣待你的民。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He took up his parable, and said, “Balaam the son of Beor says, the man whose eyes are open says;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他就题起诗歌说： 比珥的儿子巴兰说： 眼目闭住的人说，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:15 或译：睁开"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他就題起詩歌說： 比珥的兒子巴蘭說： 眼目閉住的人說，",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 24:15 或譯：睜開"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "he says, who hears the words of God, knows the knowledge of the Most High, and who sees the vision of the Almighty, falling down, and having his eyes open:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得听 神的言语， 明白至高者的意旨， 看见全能者的异象， 眼目睁开而仆倒的人说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得聽上帝的言語， 明白至高者的意旨， 看見全能者的異象， 眼目睜開而仆倒的人說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I see him, but not now. I see him, but not near. A star will come out of Jacob. A scepter will rise out of Israel, and shall strike through the corners of Moab, and crush all the sons of Sheth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看他却不在现时； 我望他却不在近日。 有星要出于雅各，有杖要兴于以色列， 必打破摩押的四角，毁坏扰乱之子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看他卻不在現時； 我望他卻不在近日。 有星要出於雅各，有杖要興於以色列， 必打破摩押的四角，毀壞擾亂之子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Edom shall be a possession. Seir, his enemy, also shall be a possession, while Israel does valiantly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他必得以东为基业， 又得仇敌之地西珥为产业； 以色列必行事勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他必得以東為基業， 又得仇敵之地西珥為產業； 以色列必行事勇敢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Out of Jacob shall one have dominion, and shall destroy the remnant from the city.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一位出于雅各的，必掌大权； 他要除灭城中的余民。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一位出於雅各的，必掌大權； 他要除滅城中的餘民。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "He looked at Amalek, and took up his parable, and said, “Amalek was the first of the nations, but his latter end shall come to destruction.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰观看亚玛力，就题起诗歌说： 亚玛力原为诸国之首， 但他终必沉沦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭觀看亞瑪力，就題起詩歌說： 亞瑪力原為諸國之首， 但他終必沉淪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "He looked at the Kenite, and took up his parable, and said, “Your dwelling place is strong. Your nest is set in the rock.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰观看基尼人，就题起诗歌说： 你的住处本是坚固； 你的窝巢做在岩穴中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭觀看基尼人，就題起詩歌說： 你的住處本是堅固； 你的窩巢做在巖穴中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Nevertheless Kain shall be wasted, until Asshur carries you away captive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而基尼必至衰微， 直到亚述把你掳去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而基尼必至衰微， 直到亞述把你擄去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "He took up his parable, and said, “Alas, who shall live when God does this?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴兰又题起诗歌说： 哀哉！ 神行这事，谁能得活？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴蘭又題起詩歌說： 哀哉！上帝行這事，誰能得活？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "But ships shall come from the coast of Kittim. They shall afflict Asshur, and shall afflict Eber. He also shall come to destruction.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必有人乘船从基提界而来， 苦害亚述，苦害希伯； 他也必至沉沦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必有人乘船從基提界而來， 苦害亞述，苦害希伯； 他也必至沉淪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Balaam rose up, and went and returned to his place; and Balak also went his way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是巴兰起来，回他本地去；巴勒也回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是巴蘭起來，回他本地去；巴勒也回去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

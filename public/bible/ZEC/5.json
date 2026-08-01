@@ -1,0 +1,226 @@
+{
+  "bookId": "ZEC",
+  "chapter": 5,
+  "bookEnglish": "Zechariah",
+  "bookChineseSimplified": "撒迦利亚书",
+  "bookChineseTraditional": "撒迦利亞書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Then again I lifted up my eyes and saw, and behold, a flying scroll.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又举目观看，见有一飞行的书卷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又舉目觀看，見有一飛行的書卷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "He said to me, “What do you see?” I answered, “I see a flying scroll; its length is twenty cubits, and its width ten cubits.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:2 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他问我说：「你看见什么？」我回答说：「我看见一飞行的书卷，长二十肘，宽十肘。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他問我說：「你看見甚麼？」我回答說：「我看見一飛行的書卷，長二十肘，寬十肘。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Then he said to me, “This is the curse that goes out over the surface of the whole land, for everyone who steals shall be cut off according to it on the one side; and everyone who swears falsely shall be cut off according to it on the other side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「这是发出行在遍地上的咒诅。凡偷窃的必按卷上这面的话除灭；凡起假誓的必按卷上那面的话除灭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「這是發出行在遍地上的咒詛。凡偷竊的必按卷上這面的話除滅；凡起假誓的必按卷上那面的話除滅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I will cause it to go out,” says the LORD of Armies, “and it will enter into the house of the thief, and into the house of him who swears falsely by my name; and it will remain in the middle of his house, and will destroy it with its timber and its stones.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华说：我必使这书卷出去，进入偷窃人的家和指我名起假誓人的家，必常在他家里，连房屋带木石都毁灭了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華說：我必使這書卷出去，進入偷竊人的家和指我名起假誓人的家，必常在他家裏，連房屋帶木石都毀滅了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then the angel who talked with me came forward and said to me, “Lift up now your eyes and see what this is that is appearing.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与我说话的天使出来，对我说：「你要举目观看，见所出来的是什么？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與我說話的天使出來，對我說：「你要舉目觀看，見所出來的是甚麼？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I said, “What is it?” He said, “This is the ephah basket that is appearing.” He said moreover, “This is their appearance in all the land—",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:6 An ephah is a measure of volume of about 22 liters, 5.8 U. S. gallons, or about 2/3 of a bushel."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：「这是什么呢？」他说：「这出来的是量器。」他又说：「这是恶人在遍地的形状。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：「這是甚麼呢？」他說：「這出來的是量器。」他又說：「這是惡人在遍地的形狀。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and behold, a lead cover weighing one talent was lifted up—and there was a woman sitting in the middle of the ephahbasket.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "5:7 A talent is about 30 kilograms or 66 pounds."
+          },
+          {
+            "id": "f2",
+            "text": "5:7 1 ephah is about 22 liters or about 2/3 of a bushel"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "（我见有一片圆铅被举起来。）这坐在量器中的是个妇人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "（我見有一片圓鉛被舉起來。）這坐在量器中的是個婦人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said, “This is Wickedness;” and he threw her down into the middle of the ephah basket; and he threw the lead weight on its mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天使说：「这是罪恶。」他就把妇人扔在量器中，将那片圆铅扔在量器的口上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天使說：「這是罪惡。」他就把婦人扔在量器中，將那片圓鉛扔在量器的口上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Then I lifted up my eyes and saw, and behold, there were two women; and the wind was in their wings. Now they had wings like the wings of a stork, and they lifted up the ephah basket between earth and the sky.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又举目观看，见有两个妇人出来，在她们翅膀中有风，飞得甚快，翅膀如同鹳鸟的翅膀。她们将量器抬起来，悬在天地中间。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又舉目觀看，見有兩個婦人出來，在她們翅膀中有風，飛得甚快，翅膀如同鸛鳥的翅膀。她們將量器抬起來，懸在天地中間。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Then I said to the angel who talked with me, “Where are these carrying the ephah basket?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我问与我说话的天使说：「她们要将量器抬到哪里去呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我問與我說話的天使說：「她們要將量器抬到哪裏去呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "He said to me, “To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他对我说：「要往示拿地去，为它盖造房屋；等房屋齐备，就把它安置在自己的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他對我說：「要往示拿地去，為它蓋造房屋；等房屋齊備，就把它安置在自己的地方。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

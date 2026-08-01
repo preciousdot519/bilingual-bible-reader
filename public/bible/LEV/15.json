@@ -1,0 +1,603 @@
+{
+  "bookId": "LEV",
+  "chapter": 15,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses and to Aaron, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西、亚伦说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西、亞倫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to the children of Israel, and tell them, ‘When any man has a discharge from his body, because of his discharge he is unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们晓谕以色列人说：人若身患漏症，他因这漏症就不洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們曉諭以色列人說：人若身患漏症，他因這漏症就不潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "This shall be his uncleanness in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his uncleanness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他患漏症，无论是下流的，是止住的，都是不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他患漏症，無論是下流的，是止住的，都是不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“‘Every bed on which he who has the discharge lies shall be unclean; and everything he sits on shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他所躺的床都为不洁净，所坐的物也为不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他所躺的床都為不潔淨，所坐的物也為不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Whoever touches his bed shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡摸那床的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡摸那床的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "He who sits on anything on which the man who has the discharge sat shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那坐患漏症人所坐之物的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那坐患漏症人所坐之物的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“‘He who touches the body of him who has the discharge shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那摸患漏症人身体的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那摸患漏症人身體的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“‘If he who has the discharge spits on him who is clean, then he shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若患漏症人吐在洁净的人身上，那人必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若患漏症人吐在潔淨的人身上，那人必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘Whatever saddle he who has the discharge rides on shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "患漏症人所骑的鞍子也为不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "患漏症人所騎的鞍子也為不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Whoever touches anything that was under him shall be unclean until the evening. He who carries those things shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡摸了他身下之物的，必不洁净到晚上；拿了那物的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡摸了他身下之物的，必不潔淨到晚上；拿了那物的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“‘Whomever he who has the discharge touches, without having rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "患漏症的人没有用水涮手，无论摸了谁，谁必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "患漏症的人沒有用水涮手，無論摸了誰，誰必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“‘The earthen vessel, which he who has the discharge touches, shall be broken; and every vessel of wood shall be rinsed in water.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "患漏症人所摸的瓦器就必打破；所摸的一切木器也必用水涮洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "患漏症人所摸的瓦器就必打破；所摸的一切木器也必用水涮洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘When he who has a discharge is cleansed of his discharge, then he shall count to himself seven days for his cleansing, and wash his clothes; and he shall bathe his flesh in running water, and shall be clean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「患漏症的人痊愈了，就要为洁净自己计算七天，也必洗衣服，用活水洗身，就洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「患漏症的人痊癒了，就要為潔淨自己計算七天，也必洗衣服，用活水洗身，就潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "“‘On the eighth day he shall take two turtledoves, or two young pigeons, and come before the LORD to the door of the Tent of Meeting, and give them to the priest.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第八天，要取两只斑鸠或是两只雏鸽，来到会幕门口、耶和华面前，把鸟交给祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第八天，要取兩隻斑鳩或是兩隻雛鴿，來到會幕門口、耶和華面前，把鳥交給祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The priest shall offer them, the one for a sin offering, and the other for a burnt offering. The priest shall make atonement for him before the LORD for his discharge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要献上一只为赎罪祭，一只为燔祭；因那人患的漏症，祭司要在耶和华面前为他赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要獻上一隻為贖罪祭，一隻為燔祭；因那人患的漏症，祭司要在耶和華面前為他贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“‘If any man has an emission of semen, then he shall bathe all his flesh in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「人若梦遗，他必不洁净到晚上，并要用水洗全身。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「人若夢遺，他必不潔淨到晚上，並要用水洗全身。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Every garment and every skin which the semen is on shall be washed with water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是衣服是皮子，被精所染，必不洁净到晚上，并要用水洗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是衣服是皮子，被精所染，必不潔淨到晚上，並要用水洗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "If a man lies with a woman and there is an emission of semen, they shall both bathe themselves in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若男女交合，两个人必不洁净到晚上，并要用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若男女交合，兩個人必不潔淨到晚上，並要用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“‘If a woman has a discharge, and her discharge in her flesh is blood, she shall be in her impurity seven days. Whoever touches her shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「女人行经，必污秽七天；凡摸她的，必不洁净到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「女人行經，必污穢七天；凡摸她的，必不潔淨到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“‘Everything that she lies on in her impurity shall be unclean. Everything also that she sits on shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "女人在污秽之中，凡她所躺的物件都为不洁净，所坐的物件也都不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "女人在污穢之中，凡她所躺的物件都為不潔淨，所坐的物件也都不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Whoever touches her bed shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡摸她床的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡摸她床的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Whoever touches anything that she sits on shall wash his clothes, and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡摸她所坐什么物件的，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡摸她所坐甚麼物件的，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "If it is on the bed, or on anything she sits on, when he touches it, he shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在女人的床上，或在她坐的物上，若有别的物件，人一摸了，必不洁净到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在女人的床上，或在她坐的物上，若有別的物件，人一摸了，必不潔淨到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“‘If any man lies with her, and her monthly flow is on him, he shall be unclean seven days; and every bed he lies on shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "男人若与那女人同房，染了她的污秽，就要七天不洁净；所躺的床也为不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "男人若與那女人同房，染了她的污穢，就要七天不潔淨；所躺的床也為不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“‘If a woman has a discharge of her blood many days not in the time of her period, or if she has a discharge beyond the time of her period, all the days of the discharge of her uncleanness shall be as in the days of her period. She is unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「女人若在经期以外患多日的血漏，或是经期过长，有了漏症，她就因这漏症不洁净，与她在经期不洁净一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「女人若在經期以外患多日的血漏，或是經期過長，有了漏症，她就因這漏症不潔淨，與她在經期不潔淨一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Every bed she lies on all the days of her discharge shall be to her as the bed of her period. Everything she sits on shall be unclean, as the uncleanness of her period.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "她在患漏症的日子所躺的床、所坐的物都要看为不洁净，与她月经的时候一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "她在患漏症的日子所躺的床、所坐的物都要看為不潔淨，與她月經的時候一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Whoever touches these things shall be unclean, and shall wash his clothes and bathe himself in water, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡摸这些物件的，就为不洁净，必不洁净到晚上，并要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡摸這些物件的，就為不潔淨，必不潔淨到晚上，並要洗衣服，用水洗澡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "“‘But if she is cleansed of her discharge, then she shall count to herself seven days, and after that she shall be clean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "女人的漏症若好了，就要计算七天，然后才为洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "女人的漏症若好了，就要計算七天，然後才為潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "On the eighth day she shall take two turtledoves, or two young pigeons, and bring them to the priest, to the door of the Tent of Meeting.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第八天，要取两只斑鸠或是两只雏鸽，带到会幕门口给祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第八天，要取兩隻斑鳩或是兩隻雛鴿，帶到會幕門口給祭司。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "The priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make atonement for her before the LORD for the uncleanness of her discharge.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要献一只为赎罪祭，一只为燔祭；因那人血漏不洁，祭司要在耶和华面前为她赎罪。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要獻一隻為贖罪祭，一隻為燔祭；因那人血漏不潔，祭司要在耶和華面前為她贖罪。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "“‘Thus you shall separate the children of Israel from their uncleanness, so they will not die in their uncleanness when they defile my tabernacle that is among them.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要这样使以色列人与他们的污秽隔绝，免得他们玷污我的帐幕，就因自己的污秽死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要這樣使以色列人與他們的污穢隔絕，免得他們玷污我的帳幕，就因自己的污穢死亡。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "This is the law of him who has a discharge, and of him who has an emission of semen, so that he is unclean by it;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是患漏症和梦遗而不洁净的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是患漏症和夢遺而不潔淨的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "and of her who has her period, and of a man or woman who has a discharge, and of him who lies with her who is unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "并有月经病的和患漏症的，无论男女，并人与不洁净女人同房的条例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並有月經病的和患漏症的，無論男女，並人與不潔淨女人同房的條例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

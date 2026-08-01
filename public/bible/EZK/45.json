@@ -1,0 +1,511 @@
+{
+  "bookId": "EZK",
+  "chapter": 45,
+  "bookEnglish": "Ezekiel",
+  "bookChineseSimplified": "以西结书",
+  "bookChineseTraditional": "以西結書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to the LORD, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们拈阄分地为业，要献上一分给耶和华为圣供地，长二万五千肘，宽一万肘。这分以内，四围都为圣地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們拈鬮分地為業，要獻上一分給耶和華為聖供地，長二萬五千肘，寬一萬肘。這分以內，四圍都為聖地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Of this there shall be a five hundred by five hundred square for the holy place, and fifty cubits for its pasture lands all around.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:2 A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中有作为圣所之地，长五百肘，宽五百肘，四面见方。四围再有五十肘为郊野之地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中有作為聖所之地，長五百肘，寬五百肘，四面見方。四圍再有五十肘為郊野之地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Of this measure you shall measure a length of twenty-five thousand, and a width of ten thousand. In it shall be the sanctuary, which is most holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要以肘为度量地，长二万五千肘，宽一万肘。其中有圣所，是至圣的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要以肘為度量地，長二萬五千肘，寬一萬肘。其中有聖所，是至聖的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to the LORD. It shall be a place for their houses and a holy place for the sanctuary.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是全地的一分圣地，要归与供圣所职事的祭司，就是亲近事奉耶和华的，作为他们房屋之地与圣所之圣地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是全地的一分聖地，要歸與供聖所職事的祭司，就是親近事奉耶和華的，作為他們房屋之地與聖所之聖地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Twenty-five thousand cubits in length and ten thousand in width shall be for the Levites, the ministers of the house, as a possession for themselves, for twenty rooms.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有一分，长二万五千肘，宽一万肘，要归与在殿中供职的利未人，作为二十间房屋之业。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有一分，長二萬五千肘，寬一萬肘，要歸與在殿中供職的利未人，作為二十間房屋之業。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "“‘“You shall appoint the possession of the city five thousand cubits wide and twenty-five thousand long, side by side with the offering of the holy portion. It shall be for the whole house of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "也要分定属城的地业，宽五千肘，长二万五千肘，挨着那分圣供地，要归以色列全家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "也要分定屬城的地業，寬五千肘，長二萬五千肘，挨着那分聖供地，要歸以色列全家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“‘“What is for the prince shall be on the one side and on the other side of the holy allotment and of the possession of the city, in front of the holy allotment and in front of the possession of the city, on the west side westward, and on the east side eastward, and in length corresponding to one of the portions, from the west border to the east border.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "归王之地要在圣供地和属城之地的两旁，就是圣供地和属城之地的旁边，西至西头，东至东头，从西到东，其长与每支派的分一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "歸王之地要在聖供地和屬城之地的兩旁，就是聖供地和屬城之地的旁邊，西至西頭，東至東頭，從西到東，其長與每支派的分一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "In the land it shall be to him for a possession in Israel. My princes shall no more oppress my people, but they shall give the land to the house of Israel according to their tribes.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这地在以色列中必归王为业。我所立的王必不再欺压我的民，却要按支派将地分给以色列家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這地在以色列中必歸王為業。我所立的王必不再欺壓我的民，卻要按支派將地分給以色列家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘The Lord GOD says: “Enough, you princes of Israel! Remove violence and plunder, and execute justice and righteousness! Stop dispossessing my people!” says the Lord GOD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华如此说：「以色列的王啊，你们应当知足，要除掉强暴和抢夺的事，施行公平和公义，不再勒索我的民。这是主耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華如此說：「以色列的王啊，你們應當知足，要除掉強暴和搶奪的事，施行公平和公義，不再勒索我的民。這是主耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“You shall have just balances, a just ephah, and a just bath.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:10 1 ephah is about 22 liters or about 2/3 of a bushel"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们要用公道天平、公道伊法、公道罢特。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們要用公道天平、公道伊法、公道罷特。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The ephah and the bath shall be of one measure, that the bath may contain one tenth of a homer, and the ephah one tenth of a homer. Its measure shall be the same as the homer.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:11 1 homer is about 220 liters or 6 bushels"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "伊法与罢特大小要一样。罢特可盛贺梅珥十分之一，伊法也可盛贺梅珥十分之一，都以贺梅珥的大小为准。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "伊法與罷特大小要一樣。罷特可盛賀梅珥十分之一，伊法也可盛賀梅珥十分之一，都以賀梅珥的大小為準。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "The shekel shall be twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels shall be your mina.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:12 A shekel is about 10 grams or about 0.35 ounces."
+          },
+          {
+            "id": "f2",
+            "text": "45:12 a gerah is about 0.5 grams or about 7.7 grains"
+          },
+          {
+            "id": "f3",
+            "text": "45:12 A mina is about 600 grams or 1.3 U. S. pounds."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "舍客勒是二十季拉；二十舍客勒，二十五舍客勒，十五舍客勒，为你们的弥那。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "舍客勒是二十季拉；二十舍客勒，二十五舍客勒，十五舍客勒，為你們的彌那。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘“This is the offering that you shall offer: the sixth part of an ephah from a homer of wheat, and you shall give the sixth part of an ephah from a homer of barley,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们当献的供物乃是这样：一贺梅珥麦子要献伊法六分之一；一贺梅珥大麦要献伊法六分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們當獻的供物乃是這樣：一賀梅珥麥子要獻伊法六分之一；一賀梅珥大麥要獻伊法六分之一。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and the set portion of oil, of the bath of oil, one tenth of a bath out of the cor, which is ten baths, even a homer (for ten baths are a homer),",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:14 1 cor is the same as 1 homer in volume, and is about 211 liters, 55.9 gallons, or 6 bushels. 1 bath is about 21.1 liters, 5.59 gallons, or 2.4 pecks."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们献所分定的油，按油的罢特，一柯珥油要献罢特十分之一（原来十罢特就是一贺梅珥）。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們獻所分定的油，按油的罷特，一柯珥油要獻罷特十分之一（原來十罷特就是一賀梅珥）。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "and one lamb of the flock out of two hundred, from the well-watered pastures of Israel—for a meal offering, for a burnt offering, and for peace offerings, to make atonement for them,” says the Lord GOD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从以色列滋润的草场上每二百羊中，要献一只羊羔。这都可作素祭、燔祭、平安祭，为民赎罪。这是主耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從以色列滋潤的草場上每二百羊中，要獻一隻羊羔。這都可作素祭、燔祭、平安祭，為民贖罪。這是主耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "“All the people of the land shall give to this offering for the prince in Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "此地的民都要奉上这供物给以色列中的王。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "此地的民都要奉上這供物給以色列中的王。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "It shall be the prince’s part to give the burnt offerings, the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel. He shall prepare the sin offering, the meal offering, the burnt offering, and the peace offerings, to make atonement for the house of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王的本分是在节期、月朔、安息日，就是以色列家一切的节期，奉上燔祭、素祭、奠祭。他要预备赎罪祭、素祭、燔祭，和平安祭，为以色列家赎罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王的本分是在節期、月朔、安息日，就是以色列家一切的節期，奉上燔祭、素祭、奠祭。他要預備贖罪祭、素祭、燔祭，和平安祭，為以色列家贖罪。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "“‘The Lord GOD says: “In the first month, on the first day of the month, you shall take a young bull without defect, and you shall cleanse the sanctuary.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主耶和华如此说：「正月初一日，你要取无残疾的公牛犊，洁净圣所。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主耶和華如此說：「正月初一日，你要取無殘疾的公牛犢，潔淨聖所。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "The priest shall take of the blood of the sin offering and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司要取些赎罪祭牲的血，抹在殿的门柱上和坛磴台的四角上，并内院的门框上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司要取些贖罪祭牲的血，抹在殿的門柱上和壇磴臺的四角上，並內院的門框上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "So you shall do on the seventh day of the month for everyone who errs, and for him who is simple. So you shall make atonement for the house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "本月初七日也要为误犯罪的和愚蒙犯罪的如此行，为殿赎罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 45:20 七十士译本是七月初一日"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "本月初七日也要為誤犯罪的和愚蒙犯罪的如此行，為殿贖罪。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 45:20 七十士譯本是七月初一日"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“‘“In the first month, on the fourteenth day of the month, you shall have the Passover, a feast of seven days; unleavened bread shall be eaten.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「正月十四日，你们要守逾越节，守节七日，要吃无酵饼。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「正月十四日，你們要守逾越節，守節七日，要吃無酵餅。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "On that day the prince shall prepare for himself and for all the people of the land a bull for a sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日，王要为自己和国内的众民预备一只公牛作赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日，王要為自己和國內的眾民預備一隻公牛作贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The seven days of the feast he shall prepare a burnt offering to the LORD, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这节的七日，每日他要为耶和华预备无残疾的公牛七只、公绵羊七只为燔祭。每日又要预备公山羊一只为赎罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這節的七日，每日他要為耶和華預備無殘疾的公牛七隻、公綿羊七隻為燔祭。每日又要預備公山羊一隻為贖罪祭。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "He shall prepare a meal offering, an ephah for a bull, an ephah for a ram, and a hin of oil to an ephah.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "45:24 1 ephah is about 22 liters or about 2/3 of a bushel"
+          },
+          {
+            "id": "f2",
+            "text": "45:24 A hin is about 6.5 liters or 1.7 gallons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他也要预备素祭，就是为一只公牛同献一伊法细面，为一只公绵羊同献一伊法细面，每一伊法细面加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他也要預備素祭，就是為一隻公牛同獻一伊法細麵，為一隻公綿羊同獻一伊法細麵，每一伊法細麵加油一欣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“‘“In the seventh month, on the fifteenth day of the month, during the feast, he shall do like that for seven days. He shall make the same provision for sin offering, the burnt offering, the meal offering, and the oil.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "七月十五日守节的时候，七日他都要如此行，照逾越节的赎罪祭、燔祭、素祭，和油的条例一样。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "七月十五日守節的時候，七日他都要如此行，照逾越節的贖罪祭、燔祭、素祭，和油的條例一樣。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

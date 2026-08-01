@@ -1,0 +1,482 @@
+{
+  "bookId": "DEU",
+  "chapter": 27,
+  "bookEnglish": "Deuteronomy",
+  "bookChineseSimplified": "申命记",
+  "bookChineseTraditional": "申命記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Moses and the elders of Israel commanded the people, saying, “Keep all the commandment which I command you today.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西和以色列的众长老吩咐百姓说：「你们要遵守我今日所吩咐的一切诫命。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西和以色列的眾長老吩咐百姓說：「你們要遵守我今日所吩咐的一切誡命。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "It shall be on the day when you shall pass over the Jordan to the land which the LORD your God gives you, that you shall set yourself up great stones, and coat them with plaster.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们过约旦河，到了耶和华—你 神所赐给你的地，当天要立起几块大石头，墁上石灰，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們過約旦河，到了耶和華－你上帝所賜給你的地，當天要立起幾塊大石頭，墁上石灰，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "You shall write on them all the words of this law, when you have passed over, that you may go in to the land which the LORD your God gives you, a land flowing with milk and honey, as the LORD, the God of your fathers, has promised you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "把这律法的一切话写在石头上。你过了河，可以进入耶和华—你 神所赐你流奶与蜜之地，正如耶和华—你列祖之 神所应许你的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "把這律法的一切話寫在石頭上。你過了河，可以進入耶和華－你上帝所賜你流奶與蜜之地，正如耶和華－你列祖之上帝所應許你的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "It shall be, when you have crossed over the Jordan, that you shall set up these stones, which I command you today, on Mount Ebal, and you shall coat them with plaster.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们过了约旦河，就要在以巴路山上照我今日所吩咐的，将这些石头立起来，墁上石灰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們過了約旦河，就要在以巴路山上照我今日所吩咐的，將這些石頭立起來，墁上石灰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "There you shall build an altar to the LORD your God, an altar of stones. You shall not use any iron tool on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在那里要为耶和华—你的 神筑一座石坛；在石头上不可动铁器。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在那裏要為耶和華－你的上帝築一座石壇；在石頭上不可動鐵器。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "You shall build the LORD your God’s altar of uncut stones. You shall offer burnt offerings on it to the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要用没有凿过的石头筑耶和华—你 神的坛，在坛上要将燔祭献给耶和华—你的 神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要用沒有鑿過的石頭築耶和華－你上帝的壇，在壇上要將燔祭獻給耶和華－你的上帝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "You shall sacrifice peace offerings, and shall eat there. You shall rejoice before the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又要献平安祭，且在那里吃，在耶和华—你的 神面前欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又要獻平安祭，且在那裏吃，在耶和華－你的上帝面前歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall write on the stones all the words of this law very plainly.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你要将这律法的一切话明明地写在石头上。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你要將這律法的一切話明明地寫在石頭上。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Moses and the Levitical priests spoke to all Israel, saying, “Be silent and listen, Israel! Today you have become the people of the LORD your God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "摩西和祭司利未人晓谕以色列众人说：「以色列啊，要默默静听。你今日成为耶和华—你 神的百姓了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "摩西和祭司利未人曉諭以色列眾人說：「以色列啊，要默默靜聽。你今日成為耶和華－你上帝的百姓了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "You shall therefore obey the LORD your God’s voice, and do his commandments and his statutes, which I command you today.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以要听从耶和华—你 神的话，遵行他的诫命律例，就是我今日所吩咐你的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以要聽從耶和華－你上帝的話，遵行他的誡命律例，就是我今日所吩咐你的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Moses commanded the people the same day, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "当日，摩西嘱咐百姓说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當日，摩西囑咐百姓說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "“These shall stand on Mount Gerizim to bless the people, when you have crossed over the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们过了约旦河，西缅、利未、犹大、以萨迦、约瑟、便雅悯六个支派的人都要站在基利心山上为百姓祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們過了約旦河，西緬、利未、猶大、以薩迦、約瑟、便雅憫六個支派的人都要站在基利心山上為百姓祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "These shall stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吕便、迦得、亚设、西布伦、但、拿弗他利六个支派的人都要站在以巴路山上宣布咒诅。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "呂便、迦得、亞設、西布倫、但、拿弗他利六個支派的人都要站在以巴路山上宣布咒詛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "With a loud voice, the Levites shall say to all the men of Israel,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人要向以色列众人高声说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人要向以色列眾人高聲說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "‘Cursed is the man who makes an engraved or molten image, an abomination to the LORD, the work of the hands of the craftsman, and sets it up in secret.’ All the people shall answer and say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『有人制造耶和华所憎恶的偶像，或雕刻，或铸造，就是工匠手所做的，在暗中设立，那人必受咒诅！』百姓都要答应说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『有人製造耶和華所憎惡的偶像，或雕刻，或鑄造，就是工匠手所做的，在暗中設立，那人必受咒詛！』百姓都要答應說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "‘Cursed is he who dishonors his father or his mother.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『轻慢父母的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『輕慢父母的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "‘Cursed is he who removes his neighbor’s landmark.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『挪移邻舍地界的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『挪移鄰舍地界的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "‘Cursed is he who leads the blind astray on the road.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『使瞎子走差路的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『使瞎子走差路的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "‘Cursed is he who withholds justice from the foreigner, fatherless, and widow.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『向寄居的和孤儿寡妇屈枉正直的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『向寄居的和孤兒寡婦屈枉正直的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "‘Cursed is he who lies with his father’s wife, because he dishonors his father’s bed.’ All the people shall say, ‘Amen.’",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "27:20 i.e., has sexual relations with"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『与继母行淫的，必受咒诅！因为掀开他父亲的衣襟。』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『與繼母行淫的，必受咒詛！因為掀開他父親的衣襟。』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "‘Cursed is he who lies with any kind of animal.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『与兽淫合的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『與獸淫合的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "‘Cursed is he who lies with his sister, his father’s daughter or his mother’s daughter.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『与异母同父，或异父同母的姊妹行淫的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『與異母同父，或異父同母的姊妹行淫的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "‘Cursed is he who lies with his mother-in-law.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『与岳母行淫的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『與岳母行淫的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "‘Cursed is he who secretly kills his neighbor.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『暗中杀人的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『暗中殺人的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "‘Cursed is he who takes a bribe to kill an innocent person.’ All the people shall say, ‘Amen.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『受贿赂害死无辜之人的，必受咒诅！』百姓都要说：『阿们！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『受賄賂害死無辜之人的，必受咒詛！』百姓都要說：『阿們！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "‘Cursed is he who doesn’t uphold the words of this law by doing them.’ All the people shall say, ‘Amen.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「『不坚守遵行这律法言语的，必受咒诅！』百姓都要说：『阿们！』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「『不堅守遵行這律法言語的，必受咒詛！』百姓都要說：『阿們！』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

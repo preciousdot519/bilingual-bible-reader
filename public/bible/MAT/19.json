@@ -1,0 +1,607 @@
+{
+  "bookId": "MAT",
+  "chapter": 19,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When Jesus had finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说完了这些话，就离开加利利，来到犹太的境界约旦河外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說完了這些話，就離開加利利，來到猶太的境界約旦河外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Great multitudes followed him, and he healed them there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有许多人跟着他，他就在那里把他们的病人治好了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有許多人跟着他，他就在那裏把他們的病人治好了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Pharisees came to him, testing him and saying, “Is it lawful for a man to divorce his wife for any reason?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有法利赛人来试探耶稣，说：「人无论什么缘故都可以休妻吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有法利賽人來試探耶穌，說：「人無論甚麼緣故都可以休妻嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "He answered, “Haven’tyou read that he who made them from the beginning made them male and female,",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:4 Genesis 1:27",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「那起初造人的，是造男造女，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「那起初造人的，是造男造女，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "andsaid, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh’?",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:5 Genesis 2:24",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "并且说：『因此，人要离开父母，与妻子连合，二人成为一体。』这经你们没有念过吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "並且說：『因此，人要離開父母，與妻子連合，二人成為一體。』這經你們沒有念過嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Sothat they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "既然如此，夫妻不再是两个人，乃是一体的了。所以， 神配合的，人不可分开。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "既然如此，夫妻不再是兩個人，乃是一體的了。所以，上帝配合的，人不可分開。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "They asked him, “Why then did Moses command us to give her a certificate of divorce and divorce her?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "法利赛人说：「这样，摩西为什么吩咐给妻子休书，就可以休她呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "法利賽人說：「這樣，摩西為甚麼吩咐給妻子休書，就可以休她呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said to them, “Moses, because of the hardness of your hearts, allowed you to divorce your wives, but from the beginning it has not been so.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「摩西因为你们的心硬，所以许你们休妻，但起初并不是这样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「摩西因為你們的心硬，所以許你們休妻，但起初並不是這樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Itell you that whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and he who marries her when she is divorced commits adultery.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我告诉你们，凡休妻另娶的，若不是为淫乱的缘故，就是犯奸淫了；有人娶那被休的妇人，也是犯奸淫了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我告訴你們，凡休妻另娶的，若不是為淫亂的緣故，就是犯姦淫了；有人娶那被休的婦人，也是犯姦淫了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "His disciples said to him, “If this is the case of the man with his wife, it is not expedient to marry.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒对耶稣说：「人和妻子既是这样，倒不如不娶。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒對耶穌說：「人和妻子既是這樣，倒不如不娶。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "But he said to them, “Notall men can receive this saying, but those to whom it is given.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「这话不是人都能领受的，惟独赐给谁，谁才能领受。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「這話不是人都能領受的，惟獨賜給誰，誰才能領受。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Forthere are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为有生来是阉人，也有被人阉的，并有为天国的缘故自阉的。这话谁能领受就可以领受。」 （可10·13—16；路18·15—17）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為有生來是閹人，也有被人閹的，並有為天國的緣故自閹的。這話誰能領受就可以領受。」 （可10‧13－16；路18‧15－17）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Then little children were brought to him that he should lay his hands on them and pray; and the disciples rebuked them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时，有人带着小孩子来见耶稣，要耶稣给他们按手祷告，门徒就责备那些人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時，有人帶着小孩子來見耶穌，要耶穌給他們按手禱告，門徒就責備那些人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "But Jesus said, “Allow thelittle children, and don’ t forbid them to come to me; for the Kingdom of Heaven belongs to ones like these.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「让小孩子到我这里来，不要禁止他们；因为在天国的，正是这样的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「讓小孩子到我這裏來，不要禁止他們；因為在天國的，正是這樣的人。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "He laid his hands on them, and departed from there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣给他们按手，就离开那地方去了。 （可10·17—31；路18·18—30）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌給他們按手，就離開那地方去了。 （可10‧17－31；路18‧18－30）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Behold, one came to him and said, “Good teacher, what good thing shall I do, that I may have eternal life?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个人来见耶稣，说：「夫子，我该做什么善事才能得永生？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:16 有古卷：良善的夫子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個人來見耶穌，說：「夫子，我該做甚麼善事才能得永生？」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:16 有古卷：良善的夫子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He said to him, “Whydo you call me good? Noone is good but one, that is, God. But if you want to enter into life, keep the commandments.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "19:17 So MT and TR. NU reads “Why do you ask me about what is good?”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对他说：「你为什么以善事问我呢？只有一位是善的。你若要进入永生，就当遵守诫命。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:17 有古卷：你为什么称我是良善的？除了 神以外，没有一个良善的"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對他說：「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:17 有古卷：你為甚麼稱我是良善的？除了上帝以外，沒有一個良善的"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He said to him, “Which ones?” Jesus said, “‘Youshall not murder.’ ‘You shall not commit adultery.’ ‘You shall not steal.’ ‘You shall not offer false testimony.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「什么诫命？」耶稣说：「就是不可杀人；不可奸淫；不可偷盗；不可作假见证；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「甚麼誡命？」耶穌說：「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "‘Honoryour father and your mother.’ And, ‘You shall love your neighbor as yourself.’”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "19:19 Exodus 20:12-16; Deuteronomy 5:16-20",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "19:19 Leviticus 19:18",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "当孝敬父母；又当爱人如己。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "當孝敬父母；又當愛人如己。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The young man said to him, “All these things I have observed from my youth. What do I still lack?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那少年人说：「这一切我都遵守了，还缺少什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那少年人說：「這一切我都遵守了，還缺少甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jesus said to him, “Ifyou want to be perfect, go, sell what you have, and give to the poor, and you will have treasure in heaven; and come, follow me.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「你若愿意作完全人，可去变卖你所有的，分给穷人，就必有财宝在天上；你还要来跟从我。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「你若願意作完全人，可去變賣你所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But when the young man heard this, he went away sad, for he was one who had great possessions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那少年人听见这话，就忧忧愁愁地走了，因为他的产业很多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那少年人聽見這話，就憂憂愁愁地走了，因為他的產業很多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Jesus said to his disciples, “Most certainly Isay to you, a rich man will enter into the Kingdom of Heaven with difficulty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣对门徒说：「我实在告诉你们，财主进天国是难的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌對門徒說：「我實在告訴你們，財主進天國是難的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "AgainI tell you, it is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我又告诉你们，骆驼穿过针的眼，比财主进 神的国还容易呢！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我又告訴你們，駱駝穿過針的眼，比財主進上帝的國還容易呢！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "When the disciples heard it, they were exceedingly astonished, saying, “Who then can be saved?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒听见这话，就希奇得很，说：「这样谁能得救呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒聽見這話，就希奇得很，說：「這樣誰能得救呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "Looking at them, Jesus said, “Withmen this is impossible, but with God all things are possible.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣看着他们，说：「在人这是不能的，在 神凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌看着他們，說：「在人這是不能的，在上帝凡事都能。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Then Peter answered, “Behold, we have left everything and followed you. What then will we have?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "彼得就对他说：「看哪，我们已经撇下所有的跟从你，将来我们要得什么呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "彼得就對他說：「看哪，我們已經撇下所有的跟從你，將來我們要得甚麼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Jesus said to them, “Most certainlyI tell you that you who have followed me, in the regeneration when the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging the twelve tribes of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「我实在告诉你们，你们这跟从我的人，到复兴的时候，人子坐在他荣耀的宝座上，你们也要坐在十二个宝座上，审判以色列十二个支派。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「我實在告訴你們，你們這跟從我的人，到復興的時候，人子坐在他榮耀的寶座上，你們也要坐在十二個寶座上，審判以色列十二個支派。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Everyonewho has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡为我的名撇下房屋，或是弟兄、姊妹、父亲、母亲、儿女、田地的，必要得着百倍，并且承受永生。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:29 有古卷加：妻子、"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡為我的名撇下房屋，或是弟兄、姊妹、父親、母親、兒女、田地的，必要得着百倍，並且承受永生。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 19:29 有古卷加：妻子、"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Butmany will be last who are first, and first who are last.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "然而，有许多在前的，将要在后；在后的，将要在前。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "然而，有許多在前的，將要在後；在後的，將要在前。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

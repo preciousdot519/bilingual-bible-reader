@@ -1,0 +1,352 @@
+{
+  "bookId": "2CH",
+  "chapter": 2,
+  "bookEnglish": "2 Chronicles",
+  "bookChineseSimplified": "历代志下",
+  "bookChineseTraditional": "歷代志下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Now Solomon decided to build a house for the LORD’s name, and a house for his kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门定意要为耶和华的名建造殿宇，又为自己的国建造宫室。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門定意要為耶和華的名建造殿宇，又為自己的國建造宮室。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门就挑选七万扛抬的，八万在山上凿石头的，三千六百督工的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門就挑選七萬扛抬的，八萬在山上鑿石頭的，三千六百督工的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门差人去见泰尔王希兰，说：「你曾运香柏木与我父大卫建宫居住，求你也这样待我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門差人去見泰爾王希蘭，說：「你曾運香柏木與我父大衛建宮居住，求你也這樣待我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Behold, I am about to build a house for the name of the LORD my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of the LORD our God. This is an ordinance forever to Israel.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:4 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要为耶和华—我 神的名建造殿宇，分别为圣献给他，在他面前焚烧美香，常摆陈设饼，每早晚、安息日、月朔，并耶和华—我们 神所定的节期献燔祭。这是以色列人永远的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要為耶和華－我上帝的名建造殿宇，分別為聖獻給他，在他面前焚燒美香，常擺陳設餅，每早晚、安息日、月朔，並耶和華－我們上帝所定的節期獻燔祭。這是以色列人永遠的定例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“The house which I am building will be great, for our God is greater than all gods.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我所要建造的殿宇甚大；因为我们的 神至大，超乎诸神。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我所要建造的殿宇甚大；因為我們的上帝至大，超乎諸神。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天和天上的天，尚且不足他居住的，谁能为他建造殿宇呢？我是谁？能为他建造殿宇吗？不过在他面前烧香而已。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天和天上的天，尚且不足他居住的，誰能為他建造殿宇呢？我是誰？能為他建造殿宇嗎？不過在他面前燒香而已。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "现在求你差一个巧匠来，就是善用金、银、铜、铁，和紫色、朱红色、蓝色线，并精于雕刻之工的巧匠，与我父大卫在犹大和耶路撒冷所预备的巧匠一同做工；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "現在求你差一個巧匠來，就是善用金、銀、銅、鐵，和紫色、朱紅色、藍色線，並精於雕刻之工的巧匠，與我父大衛在猶大和耶路撒冷所預備的巧匠一同做工；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "“Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又求你从黎巴嫩运些香柏木、松木、檀香木到我这里来，因我知道你的仆人善于砍伐黎巴嫩的树木。我的仆人也必与你的仆人同工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又求你從黎巴嫩運些香柏木、松木、檀香木到我這裏來，因我知道你的僕人善於砍伐黎巴嫩的樹木。我的僕人也必與你的僕人同工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "even to prepare timber in abundance for me; for the house which I am about to build will be great and wonderful.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，可以给我预备许多的木料，因我要建造的殿宇高大出奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，可以給我預備許多的木料，因我要建造的殿宇高大出奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors of beaten wheat, twenty thousand baths of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:10 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels, so 20,000 cors of wheat would weigh about 545 metric tons"
+          },
+          {
+            "id": "f2",
+            "text": "2:10 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters or 2.4 pecks. 20,000 baths of barley would weigh about 262 metric tons."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你的仆人砍伐树木，我必给他们打好了的小麦二万歌珥，大麦二万歌珥，酒二万罢特，油二万罢特。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你的僕人砍伐樹木，我必給他們打好了的小麥二萬歌珥，大麥二萬歌珥，酒二萬罷特，油二萬罷特。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because the LORD loves his people, he has made you king over them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "泰尔王希兰写信回答所罗门说：「耶和华因为爱他的子民，所以立你作他们的王」；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "泰爾王希蘭寫信回答所羅門說：「耶和華因為愛他的子民，所以立你作他們的王」；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Huram continued, “Blessed be the LORD, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for the LORD and a house for his kingdom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「创造天地的耶和华—以色列的 神是应当称颂的！他赐给大卫王一个有智慧的儿子，使他有谋略聪明，可以为耶和华建造殿宇，又为自己的国建造宫室。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「創造天地的耶和華－以色列的上帝是應當稱頌的！他賜給大衛王一個有智慧的兒子，使他有謀略聰明，可以為耶和華建造殿宇，又為自己的國建造宮室。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Now I have sent a skillful man, endowed with understanding, Huram-abi,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "2:13 or, Huram, my father"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「现在我打发一个精巧有聪明的人去，他是我父亲希兰所用的，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「現在我打發一個精巧有聰明的人去，他是我父親希蘭所用的，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "是但支派一个妇人的儿子。他父亲是泰尔人，他善用金、银、铜、铁、石、木，和紫色、蓝色、朱红色线与细麻制造各物，并精于雕刻，又能想出各样的巧工。请你派定这人，与你的巧匠和你父—我主大卫的巧匠一同做工。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "是但支派一個婦人的兒子。他父親是泰爾人，他善用金、銀、銅、鐵、石、木，和紫色、藍色、朱紅色線與細麻製造各物，並精於雕刻，又能想出各樣的巧工。請你派定這人，與你的巧匠和你父－我主大衛的巧匠一同做工。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "“Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我主所说的小麦、大麦、酒、油，愿我主运来给众仆人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我主所說的小麥、大麥、酒、油，願我主運來給眾僕人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们必照你所需用的，从黎巴嫩砍伐树木，扎成筏子，浮海运到约帕；你可以从那里运到耶路撒冷。」 （王上6·1—38）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們必照你所需用的，從黎巴嫩砍伐樹木，紮成筏子，浮海運到約帕；你可以從那裏運到耶路撒冷。」 （王上6‧1－38）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门仿照他父大卫数点住在以色列地所有寄居的外邦人，共有十五万三千六百名；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門仿照他父大衛數點住在以色列地所有寄居的外邦人，共有十五萬三千六百名；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "使七万人扛抬材料，八万人在山上凿石头，三千六百人督理工作。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "使七萬人扛抬材料，八萬人在山上鑿石頭，三千六百人督理工作。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

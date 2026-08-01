@@ -1,0 +1,477 @@
+{
+  "bookId": "1CH",
+  "chapter": 5,
+  "bookEnglish": "1 Chronicles",
+  "bookChineseSimplified": "历代志上",
+  "bookChineseTraditional": "歷代志上",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的长子原是吕便；因他污秽了父亲的床，他长子的名分就归了约瑟。只是按家谱他不算长子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的長子原是呂便；因他污穢了父親的床，他長子的名分就歸了約瑟。只是按家譜他不算長子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "For Judah prevailed above his brothers, and from him came the prince; but the birthright was Joseph’s)—",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大胜过一切弟兄，君王也是从他而出；长子的名分却归约瑟。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大勝過一切弟兄，君王也是從他而出；長子的名分卻歸約瑟。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列长子吕便的儿子是哈诺、法路、希斯伦、迦米。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列長子呂便的兒子是哈諾、法路、希斯倫、迦米。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The sons of Joel: Shemaiah his son, Gog his son, Shimei his son,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约珥的儿子是示玛雅；示玛雅的儿子是歌革；歌革的儿子是示每；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約珥的兒子是示瑪雅；示瑪雅的兒子是歌革；歌革的兒子是示每；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Micah his son, Reaiah his son, Baal his son,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "示每的儿子是米迦；米迦的儿子是利亚雅；利亚雅的儿子是巴力；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "示每的兒子是米迦；米迦的兒子是利亞雅；利亞雅的兒子是巴力；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "and Beerah his son, whom Tilgath Pilneser king of Assyria carried away captive. He was prince of the Reubenites.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "巴力的儿子是备拉。这备拉作吕便支派的首领，被亚述王提革拉·毗列色掳去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "巴力的兒子是備拉。這備拉作呂便支派的首領，被亞述王提革拉‧毗列色擄去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "His brothers by their families, when the genealogy of their generations was listed: the chief, Jeiel, and Zechariah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他的弟兄照着宗族，按着家谱作族长的是耶利、撒迦利雅、比拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他的弟兄照着宗族，按着家譜作族長的是耶利、撒迦利雅、比拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "and Bela the son of Azaz, the son of Shema, the son of Joel, who lived in Aroer, even to Nebo and Baal Meon;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "比拉是亚撒的儿子；亚撒是示玛的儿子；示玛是约珥的儿子；约珥所住的地方是从亚罗珥直到尼波和巴力·免，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "比拉是亞撒的兒子；亞撒是示瑪的兒子；示瑪是約珥的兒子；約珥所住的地方是從亞羅珥直到尼波和巴力‧免，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "and he lived eastward even to the entrance of the wilderness from the river Euphrates, because their livestock were multiplied in the land of Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又向东延到幼发拉底河这边的旷野，因为他们在基列地牲畜增多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又向東延到幼發拉底河這邊的曠野，因為他們在基列地牲畜增多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "In the days of Saul, they made war with the Hagrites, who fell by their hand; and they lived in their tents throughout all the land east of Gilead.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗年间，他们与夏甲人争战，夏甲人倒在他们手下，他们就在基列东边的全地，住在夏甲人的帐棚里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅年間，他們與夏甲人爭戰，夏甲人倒在他們手下，他們就在基列東邊的全地，住在夏甲人的帳棚裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The sons of Gad lived beside them in the land of Bashan to Salecah:",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "迦得的子孙在吕便对面，住在巴珊地，延到撒迦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "迦得的子孫在呂便對面，住在巴珊地，延到撒迦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Joel the chief, Shapham the second, Janai, and Shaphat in Bashan.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们中间有作族长的约珥，有作副族长的沙番，还有雅乃和住在巴珊的沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們中間有作族長的約珥，有作副族長的沙番，還有雅乃和住在巴珊的沙法。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Their brothers of their fathers’ houses: Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber, seven.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们族弟兄是米迦勒、米书兰、示巴、约赖、雅干、细亚、希伯，共七人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們族弟兄是米迦勒、米書蘭、示巴、約賴、雅干、細亞、希伯，共七人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "These were the sons of Abihail, the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这都是亚比孩的儿子。亚比孩是户利的儿子；户利是耶罗亚的儿子；耶罗亚是基列的儿子；基列是米迦勒的儿子；米迦勒是耶示筛的儿子；耶示筛是耶哈多的儿子；耶哈多是布斯的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這都是亞比孩的兒子。亞比孩是戶利的兒子；戶利是耶羅亞的兒子；耶羅亞是基列的兒子；基列是米迦勒的兒子；米迦勒是耶示篩的兒子；耶示篩是耶哈多的兒子；耶哈多是布斯的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Ahi the son of Abdiel, the son of Guni, chief of their fathers’ houses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有古尼的孙子、押比叠的儿子亚希。这都是作族长的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有古尼的孫子、押比疊的兒子亞希。這都是作族長的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They lived in Gilead in Bashan and in its towns, and in all the pasture lands of Sharon as far as their borders.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们住在基列与巴珊和巴珊的乡村，并沙 的郊野，直到四围的交界。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們住在基列與巴珊和巴珊的鄉村，並沙崙的郊野，直到四圍的交界。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "All these were listed by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些人在犹大王约坦并在以色列王耶罗波安年间，都载入家谱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些人在猶大王約坦並在以色列王耶羅波安年間，都載入家譜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "The sons of Reuben, the Gadites, and the half-tribe of Manasseh, of valiant men, men able to bear buckler and sword, able to shoot with bow, and skillful in war, were forty-four thousand seven hundred sixty that were able to go out to war.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "吕便人、迦得人，和玛拿西半支派的人，能拿盾牌和刀剑、拉弓射箭、出征善战的勇士共有四万四千七百六十名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "呂便人、迦得人，和瑪拿西半支派的人，能拿盾牌和刀劍、拉弓射箭、出征善戰的勇士共有四萬四千七百六十名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "They made war with the Hagrites, with Jetur, and Naphish, and Nodab.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们与夏甲人、伊突人、拿非施人、挪答人争战。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們與夏甲人、伊突人、拿非施人、挪答人爭戰。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "They were helped against them, and the Hagrites were delivered into their hand, and all who were with them; for they cried to God in the battle, and he answered them because they put their trust in him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们得了 神的帮助，夏甲人和跟随夏甲的人都交在他们手中；因为他们在阵上呼求 神，倚赖 神， 神就应允他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們得了上帝的幫助，夏甲人和跟隨夏甲的人都交在他們手中；因為他們在陣上呼求上帝，倚賴上帝，上帝就應允他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "They took away their livestock: of their camels fifty thousand, and of sheep two hundred fifty thousand, and of donkeys two thousand, and of men one hundred thousand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们掳掠了夏甲人的牲畜，有骆驼五万，羊二十五万，驴二千；又有人十万。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們擄掠了夏甲人的牲畜，有駱駝五萬，羊二十五萬，驢二千；又有人十萬。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "For many fell slain, because the war was of God. They lived in their place until the captivity.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "敌人被杀仆倒的甚多，因为这争战是出乎 神。他们就住在敌人的地上，直到被掳的时候。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "敵人被殺仆倒的甚多，因為這爭戰是出乎上帝。他們就住在敵人的地上，直到被擄的時候。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "The children of the half-tribe of Manasseh lived in the land. They increased from Bashan to Baal Hermon, Senir, and Mount Hermon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "玛拿西半支派的人住在那地。从巴珊延到巴力·黑们、示尼珥与黑门山。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "瑪拿西半支派的人住在那地。從巴珊延到巴力‧黑們、示尼珥與黑門山。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "These were the heads of their fathers’ houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty men of valor, famous men, heads of their fathers’ houses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们的族长是以弗、以示、以列、亚斯列、耶利米、何达威雅、雅叠，都是大能的勇士，是有名的人，也是作族长的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們的族長是以弗、以示、以列、亞斯列、耶利米、何達威雅、雅疊，都是大能的勇士，是有名的人，也是作族長的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "They trespassed against the God of their fathers, and played the prostitute after the gods of the peoples of the land whom God destroyed before them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们得罪了他们列祖的 神，随从那地之民的神行邪淫；这民就是 神在他们面前所除灭的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們得罪了他們列祖的上帝，隨從那地之民的神行邪淫；這民就是上帝在他們面前所除滅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried away the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "故此，以色列的 神激动亚述王普勒和亚述王提革拉·毗列色的心，他们就把吕便人、迦得人、玛拿西半支派的人掳到哈腊、哈博、哈拉与歌散河边，直到今日还在那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "故此，以色列的上帝激動亞述王普勒和亞述王提革拉‧毗列色的心，他們就把呂便人、迦得人、瑪拿西半支派的人擄到哈臘、哈博、哈拉與歌散河邊，直到今日還在那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

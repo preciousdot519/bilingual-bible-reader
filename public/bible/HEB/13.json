@@ -1,0 +1,483 @@
+{
+  "bookId": "HEB",
+  "chapter": 13,
+  "bookEnglish": "Hebrews",
+  "bookChineseSimplified": "希伯来书",
+  "bookChineseTraditional": "希伯來書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Let brotherly love continue.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们务要常存弟兄相爱的心。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們務要常存弟兄相愛的心。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不可忘记用爱心接待客旅；因为曾有接待客旅的，不知不觉就接待了天使。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不可忘記用愛心接待客旅；因為曾有接待客旅的，不知不覺就接待了天使。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Remember those who are in bonds, as bound with them, and those who are ill-treated, since you are also in the body.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要记念被捆绑的人，好像与他们同受捆绑；也要记念遭苦害的人，想到自己也在肉身之内。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要記念被捆綁的人，好像與他們同受捆綁；也要記念遭苦害的人，想到自己也在肉身之內。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Let marriage be held in honor among all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "婚姻，人人都当尊重，床也不可污秽；因为苟合行淫的人， 神必要审判。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "婚姻，人人都當尊重，床也不可污穢；因為苟合行淫的人，上帝必要審判。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:5 Deuteronomy 31:6",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "你们存心不可贪爱钱财，要以自己所有的为足；因为主曾说：「我总不撇下你，也不丢弃你。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們存心不可貪愛錢財，要以自己所有的為足；因為主曾說：「我總不撇下你，也不丟棄你。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "So that with good courage we say, “The Lord is my helper. I will not fear. What can man do to me?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:6 Psalms 118:6-7",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "所以我们可以放胆说： 主是帮助我的，我必不惧怕； 人能把我怎么样呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我們可以放膽說： 主是幫助我的，我必不懼怕； 人能把我怎麼樣呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从前引导你们、传 神之道给你们的人，你们要想念他们，效法他们的信心，留心看他们为人的结局。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從前引導你們、傳上帝之道給你們的人，你們要想念他們，效法他們的信心，留心看他們為人的結局。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "Jesus Christ is the same yesterday, today, and forever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣基督昨日、今日、一直到永远，是一样的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌基督昨日、今日、一直到永遠，是一樣的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Don’t be carried away by various and strange teachings, for it is good that the heart be established by grace, not by foods, through which those who were so occupied were not benefited.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不要被那诸般怪异的教训勾引了去；因为人心靠恩得坚固才是好的，并不是靠饮食。那在饮食上专心的从来没有得着益处。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不要被那諸般怪異的教訓勾引了去；因為人心靠恩得堅固才是好的，並不是靠飲食。那在飲食上專心的從來沒有得着益處。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "We have an altar from which those who serve the holy tabernacle have no right to eat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们有一祭坛，上面的祭物是那些在帐幕中供职的人不可同吃的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們有一祭壇，上面的祭物是那些在帳幕中供職的人不可同吃的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:11 Leviticus 16:27",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "原来牲畜的血被大祭司带入圣所作赎罪祭；牲畜的身子被烧在营外。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "原來牲畜的血被大祭司帶入聖所作贖罪祭；牲畜的身子被燒在營外。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore Jesus also, that he might sanctify the people through his own blood, suffered outside of the gate.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以，耶稣要用自己的血叫百姓成圣，也就在城门外受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以，耶穌要用自己的血叫百姓成聖，也就在城門外受苦。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Let’s therefore go out to him outside of the camp, bearing his reproach.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这样，我们也当出到营外，就了他去，忍受他所受的凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這樣，我們也當出到營外，就了他去，忍受他所受的凌辱。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "For we don’t have here an enduring city, but we seek that which is to come.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我们在这里本没有常存的城，乃是寻求那将来的城。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們在這裏本沒有常存的城，乃是尋求那將來的城。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Through him, then, let’s offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name.",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "13:15 Psalms 50:23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "我们应当靠着耶稣，常常以颂赞为祭献给 神，这就是那承认主名之人嘴唇的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我們應當靠着耶穌，常常以頌讚為祭獻給上帝，這就是那承認主名之人嘴唇的果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "But don’t forget to be doing good and sharing, for with such sacrifices God is well pleased.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是不可忘记行善和捐输的事，因为这样的祭是 神所喜悦的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是不可忘記行善和捐輸的事，因為這樣的祭是上帝所喜悅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy and not with groaning, for that would be unprofitable for you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要依从那些引导你们的，且要顺服；因他们为你们的灵魂时刻警醒，好像那将来交帐的人。你们要使他们交的时候有快乐，不致忧愁；若忧愁就与你们无益了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要依從那些引導你們的，且要順服；因他們為你們的靈魂時刻警醒，好像那將來交帳的人。你們要使他們交的時候有快樂，不致憂愁；若憂愁就與你們無益了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Pray for us, for we are persuaded that we have a good conscience, desiring to live honorably in all things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请你们为我们祷告，因我们自觉良心无亏，愿意凡事按正道而行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請你們為我們禱告，因我們自覺良心無虧，願意凡事按正道而行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "I strongly urge you to do this, that I may be restored to you sooner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我更求你们为我祷告，使我快些回到你们那里去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我更求你們為我禱告，使我快些回到你們那裏去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但愿赐平安的 神，就是那凭永约之血、使群羊的大牧人—我主耶稣从死里复活的 神，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但願賜平安的上帝，就是那憑永約之血、使群羊的大牧人－我主耶穌從死裏復活的上帝，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在各样善事上成全你们，叫你们遵行他的旨意；又借着耶稣基督在你们心里行他所喜悦的事。愿荣耀归给他，直到永永远远。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在各樣善事上成全你們，叫你們遵行他的旨意；又藉着耶穌基督在你們心裏行他所喜悅的事。願榮耀歸給他，直到永永遠遠。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But I exhort you, brothers, endure the word of exhortation, for I have written to you in few words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弟兄们，我略略写信给你们，望你们听我劝勉的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "弟兄們，我略略寫信給你們，望你們聽我勸勉的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Know that our brother Timothy has been freed, with whom, if he comes shortly, I will see you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们该知道，我们的兄弟提摩太已经释放了；他若快来，我必同他去见你们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們該知道，我們的兄弟提摩太已經釋放了；他若快來，我必同他去見你們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Greet all of your leaders and all the saints. The Italians greet you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "请你们问引导你们的诸位和众圣徒安。从意大利来的人也问你们安。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "請你們問引導你們的諸位和眾聖徒安。從意大利來的人也問你們安。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Grace be with you all. Amen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "愿恩惠常与你们众人同在。阿们！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "願恩惠常與你們眾人同在。阿們！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

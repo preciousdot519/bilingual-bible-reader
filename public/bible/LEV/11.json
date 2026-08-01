@@ -1,0 +1,860 @@
+{
+  "bookId": "LEV",
+  "chapter": 11,
+  "bookEnglish": "Leviticus",
+  "bookChineseSimplified": "利未记",
+  "bookChineseTraditional": "利未記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The LORD spoke to Moses and to Aaron, saying to them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华对摩西、亚伦说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華對摩西、亞倫說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们晓谕以色列人说，在地上一切走兽中可吃的乃是这些：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們曉諭以色列人說，在地上一切走獸中可吃的乃是這些：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡蹄分两瓣、倒嚼的走兽，你们都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡蹄分兩瓣、倒嚼的走獸，你們都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "“‘Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但那倒嚼或分蹄之中不可吃的乃是：骆驼—因为倒嚼不分蹄，就与你们不洁净；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但那倒嚼或分蹄之中不可吃的乃是：駱駝－因為倒嚼不分蹄，就與你們不潔淨；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "The hyrax, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "11:5 or rock badger, or cony"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "沙番—因为倒嚼不分蹄，就与你们不洁净；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "沙番－因為倒嚼不分蹄，就與你們不潔淨；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The hare, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "兔子—因为倒嚼不分蹄，就与你们不洁净；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "觠子－因為倒嚼不分蹄，就與你們不潔淨；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "The pig, because it has a split hoof, and is cloven-footed, but doesn’t chew the cud, is unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "猪—因为蹄分两瓣，却不倒嚼，就与你们不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "豬－因為蹄分兩瓣，卻不倒嚼，就與你們不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "You shall not eat their meat. You shall not touch their carcasses. They are unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些兽的肉，你们不可吃；死的，你们不可摸，都与你们不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些獸的肉，你們不可吃；死的，你們不可摸，都與你們不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "“‘You may eat of all these that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「水中可吃的乃是这些：凡在水里、海里、河里、有翅有鳞的，都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「水中可吃的乃是這些：凡在水裏、海裏、河裏、有翅有鱗的，都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "All that don’t have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are an abomination to you,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡在海里、河里，并一切水里游动的活物，无翅无鳞的，你们都当以为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡在海裏、河裏，並一切水裏游動的活物，無翅無鱗的，你們都當以為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "and you shall detest them. You shall not eat of their meat, and you shall detest their carcasses.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些无翅无鳞、以为可憎的，你们不可吃它的肉；死的也当以为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些無翅無鱗、以為可憎的，你們不可吃牠的肉；死的也當以為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Whatever has no fins nor scales in the waters is an abomination to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡水里无翅无鳞的，你们都当以为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡水裏無翅無鱗的，你們都當以為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“‘You shall detest these among the birds; they shall not be eaten because they are an abomination: the eagle, the vulture, the black vulture,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「雀鸟中你们当以为可憎、不可吃的乃是：雕、狗头雕、红头雕、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「雀鳥中你們當以為可憎、不可吃的乃是：鵰、狗頭鵰、紅頭鵰、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "the red kite, any kind of black kite,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鹞鹰、小鹰与其类；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鷂鷹、小鷹與其類；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "any kind of raven,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "乌鸦与其类；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "烏鴉與其類；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "the horned owl, the screech owl, the gull, any kind of hawk,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鸵鸟、夜鹰、鱼鹰、鹰与其类；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鴕鳥、夜鷹、魚鷹、鷹與其類；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "the little owl, the cormorant, the great owl,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鸮鸟、鸬鹚、猫头鹰、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鴞鳥、鸕鶿、貓頭鷹、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "the white owl, the desert owl, the osprey,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "角鸱、鹈鹕、秃雕、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "角鴟、鵜鶘、禿鵰、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "the stork, any kind of heron, the hoopoe, and the bat.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "鹳、鹭鸶与其类；戴 与蝙蝠。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "鸛、鷺鷥與其類；戴鵀與蝙蝠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "“‘All flying insects that walk on all fours are an abomination to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡有翅膀用四足爬行的物，你们都当以为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡有翅膀用四足爬行的物，你們都當以為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Yet you may eat these: of all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "只是有翅膀用四足爬行的物中，有足有腿，在地上蹦跳的，你们还可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "只是有翅膀用四足爬行的物中，有足有腿，在地上蹦跳的，你們還可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中有蝗虫、蚂蚱、蟋蟀与其类；蚱蜢与其类；这些你们都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中有蝗蟲、螞蚱、蟋蟀與其類；蚱蜢與其類；這些你們都可以吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "But all winged creeping things which have four feet are an abomination to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但是有翅膀有四足的爬物，你们都当以为可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但是有翅膀有四足的爬物，你們都當以為可憎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "“‘By these you will become unclean: whoever touches their carcass shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「这些都能使你们不洁净。凡摸了死的，必不洁净到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「這些都能使你們不潔淨。凡摸了死的，必不潔淨到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Whoever carries any part of their carcass shall wash his clothes, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡拿了死的，必不洁净到晚上，并要洗衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡拿了死的，必不潔淨到晚上，並要洗衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "“‘Every animal which has a split hoof that isn’t completely divided, or doesn’t chew the cud, is unclean to you. Everyone who touches them shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡走兽分蹄不成两瓣、也不倒嚼的，是与你们不洁净；凡摸了的就不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡走獸分蹄不成兩瓣、也不倒嚼的，是與你們不潔淨；凡摸了的就不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "Whatever goes on its paws, among all animals that go on all fours, they are unclean to you. Whoever touches their carcass shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡四足的走兽，用掌行走的，是与你们不洁净；摸其尸的，必不洁净到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡四足的走獸，用掌行走的，是與你們不潔淨；摸其屍的，必不潔淨到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "He who carries their carcass shall wash his clothes, and be unclean until the evening. They are unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "拿其尸的，必不洁净到晚上，并要洗衣服。这些是与你们不洁净的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "拿其屍的，必不潔淨到晚上，並要洗衣服。這些是與你們不潔淨的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“‘These are they which are unclean to you among the creeping things that creep on the earth: the weasel, the rat, any kind of great lizard,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「地上爬物与你们不洁净的乃是这些：鼬鼠、鼫鼠、蜥蜴与其类；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「地上爬物與你們不潔淨的乃是這些：鼬鼠、鼫鼠、蜥蜴與其類；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "壁虎、龙子、守宫、蛇医、蝘蜓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "壁虎、龍子、守宮、蛇醫、蝘蜓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "These are they which are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这些爬物都是与你们不洁净的。在它死了以后，凡摸了的，必不洁净到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這些爬物都是與你們不潔淨的。在牠死了以後，凡摸了的，必不潔淨到晚上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Anything they fall on when they are dead shall be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中死了的，掉在什么东西上，这东西就不洁净，无论是木器、衣服、皮子、口袋，不拘是做什么工用的器皿，须要放在水中，必不洁净到晚上，到晚上才洁净了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中死了的，掉在甚麼東西上，這東西就不潔淨，無論是木器、衣服、皮子、口袋，不拘是做甚麼工用的器皿，須要放在水中，必不潔淨到晚上，到晚上才潔淨了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Every earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有死了掉在瓦器里的，其中不拘有什么，就不洁净，你们要把这瓦器打破了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有死了掉在瓦器裏的，其中不拘有甚麼，就不潔淨，你們要把這瓦器打破了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "All food which may be eaten which is soaked in water shall be unclean. All drink that may be drunk in every such vessel shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中一切可吃的食物，沾水的就不洁净，并且那样器皿中一切可喝的，也必不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中一切可吃的食物，沾水的就不潔淨，並且那樣器皿中一切可喝的，也必不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces. They are unclean, and shall be unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中已死的，若有一点掉在什么物件上，那物件就不洁净，不拘是炉子，是锅台，就要打碎，都不洁净，也必与你们不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中已死的，若有一點掉在甚麼物件上，那物件就不潔淨，不拘是爐子，是鍋臺，就要打碎，都不潔淨，也必與你們不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Nevertheless a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但是泉源或是聚水的池子仍是洁净；惟挨了那死的，就不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但是泉源或是聚水的池子仍是潔淨；惟挨了那死的，就不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "If part of their carcass falls on any sowing seed which is to be sown, it is clean.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若是死的，有一点掉在要种的子粒上，子粒仍是洁净；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若是死的，有一點掉在要種的子粒上，子粒仍是潔淨；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若水已经浇在子粒上，那死的有一点掉在上头，这子粒就与你们不洁净。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若水已經澆在子粒上，那死的有一點掉在上頭，這子粒就與你們不潔淨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "“‘If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们可吃的走兽若是死了，有人摸它，必不洁净到晚上；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們可吃的走獸若是死了，有人摸牠，必不潔淨到晚上；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有人吃那死了的走兽，必不洁净到晚上，并要洗衣服；拿了死走兽的，必不洁净到晚上，并要洗衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有人吃那死了的走獸，必不潔淨到晚上，並要洗衣服；拿了死走獸的，必不潔淨到晚上，並要洗衣服。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "“‘Every creeping thing that creeps on the earth is an abomination. It shall not be eaten.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「凡地上的爬物是可憎的，都不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「凡地上的爬物是可憎的，都不可吃。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth, them you shall not eat; for they are an abomination.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡用肚子行走的和用四足行走的，或是有许多足的，就是一切爬在地上的，你们都不可吃，因为是可憎的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡用肚子行走的和用四足行走的，或是有許多足的，就是一切爬在地上的，你們都不可吃，因為是可憎的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "You shall not make yourselves abominable with any creeping thing that creeps. You shall not make yourselves unclean with them, that you should be defiled by them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们不可因什么爬物使自己成为可憎的，也不可因这些使自己不洁净，以致染了污秽。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們不可因甚麼爬物使自己成為可憎的，也不可因這些使自己不潔淨，以致染了污穢。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "For I am the LORD your God. Sanctify yourselves therefore, and be holy; for I am holy. You shall not defile yourselves with any kind of creeping thing that moves on the earth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是耶和华—你们的 神；所以你们要成为圣洁，因为我是圣洁的。你们也不可在地上的爬物污秽自己。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是耶和華－你們的上帝；所以你們要成為聖潔，因為我是聖潔的。你們也不可在地上的爬物污穢自己。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "For I am the LORD who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我是把你们从埃及地领出来的耶和华，要作你们的 神；所以你们要圣洁，因为我是圣洁的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我是把你們從埃及地領出來的耶和華，要作你們的上帝；所以你們要聖潔，因為我是聖潔的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "“‘This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这是走兽、飞鸟，和水中游动的活物，并地上爬物的条例。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這是走獸、飛鳥，和水中游動的活物，並地上爬物的條例。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "47",
+      "en": {
+        "text": "to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "要把洁净的和不洁净的，可吃的与不可吃的活物，都分别出来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要把潔淨的和不潔淨的，可吃的與不可吃的活物，都分別出來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

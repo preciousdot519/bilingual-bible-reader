@@ -1,0 +1,340 @@
+{
+  "bookId": "REV",
+  "chapter": 6,
+  "bookEnglish": "Revelation",
+  "bookChineseSimplified": "启示录",
+  "bookChineseTraditional": "啟示錄",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come and see!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我看见羔羊揭开七印中第一印的时候，就听见四活物中的一个活物，声音如雷，说：「你来！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我看見羔羊揭開七印中第一印的時候，就聽見四活物中的一個活物，聲音如雷，說：「你來！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Then a white horse appeared, and he who sat on it had a bow. A crown was given to him, and he came out conquering, and to conquer.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就观看，见有一匹白马；骑在马上的，拿着弓，并有冠冕赐给他。他便出来，胜了又要胜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就觀看，見有一匹白馬；騎在馬上的，拿着弓，並有冠冕賜給他。他便出來，勝了又要勝。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "When he opened the second seal, I heard the second living creature saying, “Come!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "揭开第二印的时候，我听见第二个活物说：「你来！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "揭開第二印的時候，我聽見第二個活物說：「你來！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Another came out, a red horse. To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great sword.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "就另有一匹马出来，是红的，有权柄给了那骑马的，可以从地上夺去太平，使人彼此相杀；又有一把大刀赐给他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "就另有一匹馬出來，是紅的，有權柄給了那騎馬的，可以從地上奪去太平，使人彼此相殺；又有一把大刀賜給他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "When he opened the third seal, I heard the third living creature saying, “Come and see!” And behold, a black horse, and he who sat on it had a balance in his hand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "揭开第三印的时候，我听见第三个活物说：「你来！」我就观看，见有一匹黑马；骑在马上的，手里拿着天平。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "揭開第三印的時候，我聽見第三個活物說：「你來！」我就觀看，見有一匹黑馬；騎在馬上的，手裏拿着天平。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "I heard a voice in the middle of the four living creatures saying, “A choenix of wheat for a denarius, and three choenix of barley for a denarius! Don’t damage the oil and the wine!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:6 A choenix is a dry volume measure that is a little more than a liter (a little more than a quart)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见在四活物中似乎有声音说：「一钱银子买一升麦子，一钱银子买三升大麦；油和酒不可糟蹋。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見在四活物中似乎有聲音說：「一錢銀子買一升麥子，一錢銀子買三升大麥；油和酒不可糟蹋。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "When he opened the fourth seal, I heard the fourth living creature saying, “Come and see!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "揭开第四印的时候，我听见第四个活物说：「你来！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "揭開第四印的時候，我聽見第四個活物說：「你來！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "And behold, a pale horse, and the name of he who sat on it was Death. Hades followed with him. Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:8 or, Hell"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我就观看，见有一匹灰色马；骑在马上的，名字叫作死，阴府也随着他；有权柄赐给他们，可以用刀剑、饥荒、瘟疫、野兽，杀害地上四分之一的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:8 或译：死亡"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我就觀看，見有一匹灰色馬；騎在馬上的，名字叫作死，陰府也隨着他；有權柄賜給他們，可以用刀劍、饑荒、瘟疫、野獸，殺害地上四分之一的人。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 6:8 或譯：死亡"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "When he opened the fifth seal, I saw underneath the altar the souls of those who had been killed for the Word of God, and for the testimony of the Lamb which they had.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "揭开第五印的时候，我看见在祭坛底下，有为 神的道、并为作见证被杀之人的灵魂，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "揭開第五印的時候，我看見在祭壇底下，有為上帝的道、並為作見證被殺之人的靈魂，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "They cried with a loud voice, saying, “How long, Master, the holy and true, until you judge and avenge our blood on those who dwell on the earth?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大声喊着说：「圣洁真实的主啊，你不审判住在地上的人，给我们伸流血的冤，要等到几时呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大聲喊着說：「聖潔真實的主啊，你不審判住在地上的人，給我們伸流血的冤，要等到幾時呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "A long white robe was given to each of them. They were told that they should rest yet for a while, until their fellow servants and their brothers, who would also be killed even as they were, should complete their course.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "6:11 The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是有白衣赐给他们各人；又有话对他们说，还要安息片时，等着一同作仆人的和他们的弟兄也像他们被杀，满足了数目。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是有白衣賜給他們各人；又有話對他們說，還要安息片時，等着一同作僕人的和他們的弟兄也像他們被殺，滿足了數目。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "I saw when he opened the sixth seal, and there was a great earthquake. The sun became black as sackcloth made of hair, and the whole moon became as blood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "揭开第六印的时候，我又看见地大震动，日头变黑像毛布，满月变红像血，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "揭開第六印的時候，我又看見地大震動，日頭變黑像毛布，滿月變紅像血，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "The stars of the sky fell to the earth, like a fig tree dropping its unripe figs when it is shaken by a great wind.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天上的星辰坠落于地，如同无花果树被大风摇动，落下未熟的果子一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天上的星辰墜落於地，如同無花果樹被大風搖動，落下未熟的果子一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The sky was removed like a scroll when it is rolled up. Every mountain and island was moved out of its place.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "天就挪移，好像书卷被卷起来；山岭海岛都被挪移离开本位。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "天就挪移，好像書卷被捲起來；山嶺海島都被挪移離開本位。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "The kings of the earth, the princes, the commanding officers, the rich, the strong, and every slave and free person, hid themselves in the caves and in the rocks of the mountains.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地上的君王、臣宰、将军、富户、壮士，和一切为奴的、自主的，都藏在山洞和岩石穴里，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地上的君王、臣宰、將軍、富戶、壯士，和一切為奴的、自主的，都藏在山洞和巖石穴裏，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "They told the mountains and the rocks, “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "向山和岩石说：「倒在我们身上吧！把我们藏起来，躲避坐宝座者的面目和羔羊的忿怒；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "向山和巖石說：「倒在我們身上吧！把我們藏起來，躲避坐寶座者的面目和羔羊的忿怒；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "for the great day of his wrath has come, and who is able to stand?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为他们忿怒的大日到了，谁能站得住呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為他們忿怒的大日到了，誰能站得住呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

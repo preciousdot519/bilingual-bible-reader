@@ -1,0 +1,479 @@
+{
+  "bookId": "PRO",
+  "chapter": 13,
+  "bookEnglish": "Proverbs",
+  "bookChineseSimplified": "箴言",
+  "bookChineseTraditional": "箴言",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "A wise son listens to his father’s instruction, but a scoffer doesn’t listen to rebuke.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧子听父亲的教训； 亵慢人不听责备。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧子聽父親的教訓； 褻慢人不聽責備。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "By the fruit of his lips, a man enjoys good things, but the unfaithful crave violence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人因口所结的果子，必享美福； 奸诈人必遭强暴。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人因口所結的果子，必享美福； 奸詐人必遭強暴。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "He who guards his mouth guards his soul. One who opens wide his lips comes to ruin.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谨守口的，得保生命； 大张嘴的，必致败亡。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "謹守口的，得保生命； 大張嘴的，必致敗亡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "The soul of the sluggard desires, and has nothing, but the desire of the diligent shall be fully satisfied.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "懒惰人羡慕，却无所得； 殷勤人必得丰裕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "懶惰人羨慕，卻無所得； 殷勤人必得豐裕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "A righteous man hates lies, but a wicked man brings shame and disgrace.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人恨恶谎言； 恶人有臭名，且致惭愧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人恨惡謊言； 惡人有臭名，且致慚愧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Righteousness guards the way of integrity, but wickedness overthrows the sinner.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "行为正直的，有公义保守； 犯罪的，被邪恶倾覆。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "行為正直的，有公義保守； 犯罪的，被邪惡傾覆。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "There are some who pretend to be rich, yet have nothing. There are some who pretend to be poor, yet have great wealth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "假作富足的，却一无所有； 装作穷乏的，却广有财物。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "假作富足的，卻一無所有； 裝作窮乏的，卻廣有財物。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The ransom of a man’s life is his riches, but the poor hear no threats.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人的资财是他生命的赎价； 穷乏人却听不见威吓的话。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人的資財是他生命的贖價； 窮乏人卻聽不見威嚇的話。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人的光明亮； 恶人的灯要熄灭。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 13:9 原文是欢喜"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人的光明亮； 惡人的燈要熄滅。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 13:9 原文是歡喜"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Pride only breeds quarrels, but wisdom is with people who take advice.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "骄傲只启争竞； 听劝言的，却有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "驕傲只啟爭競； 聽勸言的，卻有智慧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不劳而得之财必然消耗； 勤劳积蓄的，必见加增。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不勞而得之財必然消耗； 勤勞積蓄的，必見加增。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Hope deferred makes the heart sick, but when longing is fulfilled, it is a tree of life.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所盼望的迟延未得，令人心忧； 所愿意的临到，却是生命树。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所盼望的遲延未得，令人心憂； 所願意的臨到，卻是生命樹。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "Whoever despises instruction will pay for it, but he who respects a command will be rewarded.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "藐视训言的，自取灭亡； 敬畏诫命的，必得善报。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "藐視訓言的，自取滅亡； 敬畏誡命的，必得善報。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The teaching of the wise is a spring of life, to turn from the snares of death.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人的法则是生命的泉源， 可以使人离开死亡的网罗。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 13:14 或译：指教"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人的法則是生命的泉源， 可以使人離開死亡的網羅。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 13:14 或譯：指教"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Good understanding wins favor, but the way of the unfaithful is hard.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "美好的聪明使人蒙恩； 奸诈人的道路崎岖难行。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "美好的聰明使人蒙恩； 奸詐人的道路崎嶇難行。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "Every prudent man acts from knowledge, but a fool exposes folly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡通达人都凭知识行事； 愚昧人张扬自己的愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡通達人都憑知識行事； 愚昧人張揚自己的愚昧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "A wicked messenger falls into trouble, but a trustworthy envoy gains healing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奸恶的使者必陷在祸患里； 忠信的使臣乃医人的良药。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奸惡的使者必陷在禍患裏； 忠信的使臣乃醫人的良藥。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Poverty and shame come to him who refuses discipline, but he who heeds correction shall be honored.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "弃绝管教的，必致贫受辱； 领受责备的，必得尊荣。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "棄絕管教的，必致貧受辱； 領受責備的，必得尊榮。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Longing fulfilled is sweet to the soul, but fools detest turning from evil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所欲的成就，心觉甘甜； 远离恶事，为愚昧人所憎恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所欲的成就，心覺甘甜； 遠離惡事，為愚昧人所憎惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "One who walks with wise men grows wise, but a companion of fools suffers harm.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "与智慧人同行的，必得智慧； 和愚昧人作伴的，必受亏损。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "與智慧人同行的，必得智慧； 和愚昧人作伴的，必受虧損。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Misfortune pursues sinners, but prosperity rewards the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祸患追赶罪人； 义人必得善报。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "禍患追趕罪人； 義人必得善報。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "A good man leaves an inheritance to his children’s children, but the wealth of the sinner is stored for the righteous.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "善人给子孙遗留产业； 罪人为义人积存资财。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "善人給子孫遺留產業； 罪人為義人積存資財。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "An abundance of food is in poor people’s fields, but injustice sweeps it away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "穷人耕种多得粮食， 但因不义，有消灭的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "窮人耕種多得糧食， 但因不義，有消滅的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "One who spares the rod hates his son, but one who loves him is careful to discipline him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不忍用杖打儿子的，是恨恶他； 疼爱儿子的，随时管教。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不忍用杖打兒子的，是恨惡他； 疼愛兒子的，隨時管教。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "The righteous one eats to the satisfying of his soul, but the belly of the wicked goes hungry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "义人吃得饱足； 恶人肚腹缺粮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "義人吃得飽足； 惡人肚腹缺糧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

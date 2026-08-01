@@ -1,0 +1,657 @@
+{
+  "bookId": "NEH",
+  "chapter": 11,
+  "bookEnglish": "Nehemiah",
+  "bookChineseSimplified": "尼希米记",
+  "bookChineseTraditional": "尼希米記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "The princes of the people lived in Jerusalem. The rest of the people also cast lots to bring one of ten to dwell in Jerusalem, the holy city, and nine parts in the other cities.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "百姓的首领住在耶路撒冷。其余的百姓掣签，每十人中使一人来住在圣城耶路撒冷，那九人住在别的城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "百姓的首領住在耶路撒冷。其餘的百姓掣籤，每十人中使一人來住在聖城耶路撒冷，那九人住在別的城邑。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "The people blessed all the men who willingly offered themselves to dwell in Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "凡甘心乐意住在耶路撒冷的，百姓都为他们祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "凡甘心樂意住在耶路撒冷的，百姓都為他們祝福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Now these are the chiefs of the province who lived in Jerusalem; but in the cities of Judah, everyone lived in his possession in their cities—Israel, the priests, the Levites, the temple servants, and the children of Solomon’s servants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列人、祭司、利未人、尼提宁，和所罗门仆人的后裔都住在犹大城邑，各在自己的地业中。本省的首领住在耶路撒冷的记在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列人、祭司、利未人、尼提寧，和所羅門僕人的後裔都住在猶大城邑，各在自己的地業中。本省的首領住在耶路撒冷的記在下面：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "Some of the children of Judah and of the children of Benjamin lived in Jerusalem. Of the children of Judah: Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, of the children of Perez;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其中有些犹大人和便雅悯人。犹大人中有法勒斯的子孙、乌西雅的儿子亚他雅。乌西雅是撒迦利雅的儿子；撒迦利雅是亚玛利雅的儿子；亚玛利雅是示法提雅的儿子；示法提雅是玛勒列的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其中有些猶大人和便雅憫人。猶大人中有法勒斯的子孫、烏西雅的兒子亞他雅。烏西雅是撒迦利雅的兒子；撒迦利雅是亞瑪利雅的兒子；亞瑪利雅是示法提雅的兒子；示法提雅是瑪勒列的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "and Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of the Shilonite.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有巴录的儿子玛西雅。巴录是谷何西的儿子；谷何西是哈赛雅的儿子；哈赛雅是亚大雅的儿子；亚大雅是约雅立的儿子；约雅立是撒迦利雅的儿子；撒迦利雅是示罗尼的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有巴錄的兒子瑪西雅。巴錄是谷何西的兒子；谷何西是哈賽雅的兒子；哈賽雅是亞大雅的兒子；亞大雅是約雅立的兒子；約雅立是撒迦利雅的兒子；撒迦利雅是示羅尼的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "All the sons of Perez who lived in Jerusalem were four hundred sixty-eight valiant men.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "住在耶路撒冷、法勒斯的子孙共四百六十八名，都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "住在耶路撒冷、法勒斯的子孫共四百六十八名，都是勇士。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "These are the sons of Benjamin: Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人中有米书兰的儿子撒路。米书兰是约叶的儿子；约叶是毗大雅的儿子；毗大雅是哥赖雅的儿子；哥赖雅是玛西雅的儿子；玛西雅是以铁的儿子；以铁是耶筛亚的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人中有米書蘭的兒子撒路。米書蘭是約葉的兒子；約葉是毗大雅的兒子；毗大雅是哥賴雅的兒子；哥賴雅是瑪西雅的兒子；瑪西雅是以鐵的兒子；以鐵是耶篩亞的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "After him Gabbai and Sallai, nine hundred twenty-eight.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其次有迦拜、撒来的子孙，共九百二十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其次有迦拜、撒來的子孫，共九百二十八名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Joel the son of Zichri was their overseer; and Judah the son of Hassenuah was second over the city.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "细基利的儿子约珥是他们的长官。哈西努亚的儿子犹大是耶路撒冷的副官。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "細基利的兒子約珥是他們的長官。哈西努亞的兒子猶大是耶路撒冷的副官。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Of the priests: Jedaiah the son of Joiarib, Jachin,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司中有雅斤，又有约雅立的儿子耶大雅；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司中有雅斤，又有約雅立的兒子耶大雅；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of God’s house,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有管理 神殿的西莱雅。西莱雅是希勒家的儿子；希勒家是米书兰的儿子；米书兰是撒督的儿子；撒督是米拉约的儿子；米拉约是亚希突的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有管理上帝殿的西萊雅。西萊雅是希勒家的兒子；希勒家是米書蘭的兒子；米書蘭是撒督的兒子；撒督是米拉約的兒子；米拉約是亞希突的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "and their brothers who did the work of the house, eight hundred twenty-two; and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有他们的弟兄在殿里供职的，共八百二十二名；又有耶罗罕的儿子亚大雅。耶罗罕是毗拉利的儿子；毗拉利是暗洗的儿子；暗洗是撒迦利亚的儿子；撒迦利亚是巴施户珥的儿子；巴施户珥是玛基雅的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有他們的弟兄在殿裏供職的，共八百二十二名；又有耶羅罕的兒子亞大雅。耶羅罕是毗拉利的兒子；毗拉利是暗洗的兒子；暗洗是撒迦利亞的兒子；撒迦利亞是巴施戶珥的兒子；巴施戶珥是瑪基雅的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "and his brothers, chiefs of fathers’ households, two hundred forty-two; and Amashsai the son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有他的弟兄作族长的，二百四十二名；又有亚萨列的儿子亚玛帅。亚萨列是亚哈赛的儿子；亚哈赛是米实利末的儿子；米实利末是音麦的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有他的弟兄作族長的，二百四十二名；又有亞薩列的兒子亞瑪帥。亞薩列是亞哈賽的兒子；亞哈賽是米實利末的兒子；米實利末是音麥的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "and their brothers, mighty men of valor, one hundred twenty-eight; and their overseer was Zabdiel, the son of Haggedolim.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "还有他们弟兄、大能的勇士共一百二十八名。哈基多琳的儿子撒巴第业是他们的长官。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "還有他們弟兄、大能的勇士共一百二十八名。哈基多琳的兒子撒巴第業是他們的長官。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人中有哈述的儿子示玛雅。哈述是押利甘的儿子；押利甘是哈沙比雅的儿子；哈沙比雅是布尼的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人中有哈述的兒子示瑪雅。哈述是押利甘的兒子；押利甘是哈沙比雅的兒子；哈沙比雅是布尼的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and Shabbethai and Jozabad, of the chiefs of the Levites, who had the oversight of the outward business of God’s house;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又有利未人的族长沙比太和约撒拔管理 神殿的外事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又有利未人的族長沙比太和約撒拔管理上帝殿的外事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "and Mattaniah the son of Mica, the son of Zabdi, the son of Asaph, who was the chief to begin the thanksgiving in prayer, and Bakbukiah, the second among his brothers; and Abda the son of Shammua, the son of Galal, the son of Jeduthun.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祈祷的时候，为称谢领首的是米迦的儿子玛他尼。米迦是撒底的儿子；撒底是亚萨的儿子；又有玛他尼弟兄中的八布迦为副。还有沙母亚的儿子押大。沙母亚是加拉的儿子；加拉是耶杜顿的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祈禱的時候，為稱謝領首的是米迦的兒子瑪他尼。米迦是撒底的兒子；撒底是亞薩的兒子；又有瑪他尼弟兄中的八布迦為副。還有沙母亞的兒子押大。沙母亞是加拉的兒子；加拉是耶杜頓的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "All the Levites in the holy city were two hundred eighty-four.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在圣城的利未人共二百八十四名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在聖城的利未人共二百八十四名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Moreover the gatekeepers, Akkub, Talmon, and their brothers, who kept watch at the gates, were one hundred seventy-two.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "守门的是亚谷和达们，并守门的弟兄，共一百七十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "守門的是亞谷和達們，並守門的弟兄，共一百七十二名。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The residue of Israel, of the priests, and the Levites were in all the cities of Judah, everyone in his inheritance.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "其余的以色列人、祭司、利未人都住在犹大的一切城邑，各在自己的地业中。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "其餘的以色列人、祭司、利未人都住在猶大的一切城邑，各在自己的地業中。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "But the temple servants lived in Ophel; and Ziha and Gishpa were over the temple servants.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "尼提宁却住在俄斐勒；西哈和基斯帕管理他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "尼提寧卻住在俄斐勒；西哈和基斯帕管理他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica, of the sons of Asaph, the singers responsible for the service of God’s house.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在耶路撒冷、利未人的长官，管理 神殿事务的是歌唱者亚萨的子孙、巴尼的儿子乌西。巴尼是哈沙比雅的儿子；哈沙比雅是玛他尼的儿子；玛他尼是米迦的儿子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在耶路撒冷、利未人的長官，管理上帝殿事務的是歌唱者亞薩的子孫、巴尼的兒子烏西。巴尼是哈沙比雅的兒子；哈沙比雅是瑪他尼的兒子；瑪他尼是米迦的兒子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "For there was a commandment from the king concerning them, and a settled provision for the singers, as every day required.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王为歌唱的出命令，每日供给他们必有一定之粮。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王為歌唱的出命令，每日供給他們必有一定之糧。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Pethahiah the son of Meshezabel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "犹大儿子谢拉的子孙、米示萨别的儿子毗他希雅辅助王办理犹大民的事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "猶大兒子謝拉的子孫、米示薩別的兒子毗他希雅輔助王辦理猶大民的事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "As for the villages with their fields, some of the children of Judah lived in Kiriath Arba and its towns, in Dibon and its towns, in Jekabzeel and its villages,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "至于村庄和属村庄的田地，有犹大人住在基列·亚巴和属基列·亚巴的乡村；底本和属底本的乡村；叶甲薛和属叶甲薛的村庄；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "至於村莊和屬村莊的田地，有猶大人住在基列‧亞巴和屬基列‧亞巴的鄉村；底本和屬底本的鄉村；葉甲薛和屬葉甲薛的村莊；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "in Jeshua, in Moladah, Beth Pelet,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶书亚、摩拉大、伯·帕列、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶書亞、摩拉大、伯‧帕列、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "in Hazar Shual, in Beersheba and its towns,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈萨·书亚、别是巴，和属别是巴的乡村；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈薩‧書亞、別是巴，和屬別是巴的鄉村；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "in Ziklag, in Meconah and in its towns,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "洗革拉、米哥拿，和属米哥拿的乡村；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "洗革拉、米哥拿，和屬米哥拿的鄉村；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "in En Rimmon, in Zorah, in Jarmuth,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "音·临门、琐拉、耶末、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "音‧臨門、瑣拉、耶末、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its towns. So they encamped from Beersheba to the valley of Hinnom.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "撒挪亚、亚杜兰，和属这两处的村庄；拉吉和属拉吉的田地；亚西加和属亚西加的乡村。他们所住的地方是从别是巴直到欣嫩谷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "撒挪亞、亞杜蘭，和屬這兩處的村莊；拉吉和屬拉吉的田地；亞西加和屬亞西加的鄉村。他們所住的地方是從別是巴直到欣嫩谷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "The children of Benjamin also lived from Geba onward, at Michmash and Aija, and at Bethel and its towns,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "便雅悯人从迦巴起，住在密抹、亚雅、伯特利和属伯特利的乡村。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "便雅憫人從迦巴起，住在密抹、亞雅、伯特利和屬伯特利的鄉村。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "at Anathoth, Nob, Ananiah,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "亚拿突、挪伯、亚难雅、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "亞拿突、挪伯、亞難雅、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "Hazor, Ramah, Gittaim,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "夏琐、拉玛、基他音、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "夏瑣、拉瑪、基他音、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Hadid, Zeboim, Neballat,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "哈叠、洗编、尼八拉、",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "哈疊、洗編、尼八拉、",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Lod, and Ono, the valley of craftsmen.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "罗德、阿挪、匠人之谷。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "羅德、阿挪、匠人之谷。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Of the Levites, certain divisions in Judah settled in Benjamin’s territory.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "利未人中有几班曾住在犹大地归于便雅悯的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "利未人中有幾班曾住在猶大地歸於便雅憫的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

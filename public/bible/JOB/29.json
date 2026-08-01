@@ -1,0 +1,469 @@
+{
+  "bookId": "JOB",
+  "chapter": 29,
+  "bookEnglish": "Job",
+  "bookChineseSimplified": "约伯记",
+  "bookChineseTraditional": "約伯記",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "Job again took up his parable, and said,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约伯又接着说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約伯又接着說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "“Oh that I were as in the months of old, as in the days when God watched over me;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "惟愿我的景况如从前的月份， 如 神保守我的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "惟願我的景況如從前的月份， 如上帝保守我的日子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "when his lamp shone on my head, and by his light I walked through darkness,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那时他的灯照在我头上； 我借他的光行过黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那時他的燈照在我頭上； 我藉他的光行過黑暗。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "as I was in my prime, when the friendship of God was in my tent,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我愿如壮年的时候： 那时我在帐棚中， 神待我有密友之情；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我願如壯年的時候： 那時我在帳棚中， 上帝待我有密友之情；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "when the Almighty was yet with me, and my children were around me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "全能者仍与我同在； 我的儿女都环绕我。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "全能者仍與我同在； 我的兒女都環繞我。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "when my steps were washed with butter, and the rock poured out streams of oil for me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "奶多可洗我的脚； 磐石为我出油成河。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "奶多可洗我的腳； 磐石為我出油成河。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "when I went out to the city gate, when I prepared my seat in the street.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我出到城门， 在街上设立座位；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我出到城門， 在街上設立座位；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "The young men saw me and hid themselves. The aged rose up and stood.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "少年人见我而回避， 老年人也起身站立；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "少年人見我而迴避， 老年人也起身站立；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The princes refrained from talking, and laid their hand on their mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "王子都停止说话， 用手捂口；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "王子都停止說話， 用手摀口；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "The voice of the nobles was hushed, and their tongue stuck to the roof of their mouth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "首领静默无声， 舌头贴住上膛。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "首領靜默無聲， 舌頭貼住上膛。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "For when the ear heard me, then it blessed me, and when the eye saw me, it commended me,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耳朵听我的，就称我有福； 眼睛看我的，便称赞我；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耳朵聽我的，就稱我有福； 眼睛看我的，便稱讚我；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "because I delivered the poor who cried, and the fatherless also, who had no one to help him,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因我拯救哀求的困苦人 和无人帮助的孤儿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因我拯救哀求的困苦人 和無人幫助的孤兒。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "the blessing of him who was ready to perish came on me, and I caused the widow’s heart to sing for joy.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "将要灭亡的为我祝福； 我也使寡妇心中欢乐。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "將要滅亡的為我祝福； 我也使寡婦心中歡樂。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "I put on righteousness, and it clothed me. My justice was as a robe and a diadem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我以公义为衣服， 以公平为外袍和冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我以公義為衣服， 以公平為外袍和冠冕。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "I was eyes to the blind, and feet to the lame.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为瞎子的眼， 瘸子的脚。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為瞎子的眼， 瘸子的腳。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "I was a father to the needy. I researched the cause of him whom I didn’t know.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为穷乏人的父； 素不认识的人，我查明他的案件。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為窮乏人的父； 素不認識的人，我查明他的案件。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "I broke the jaws of the unrighteous and plucked the prey out of his teeth.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我打破不义之人的牙床， 从他牙齿中夺了所抢的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我打破不義之人的牙床， 從他牙齒中奪了所搶的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Then I said, ‘I will die in my own house, I will count my days as the sand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我便说：我必死在家中， 必增添我的日子，多如尘沙。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:18 原文是窝中"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我便說：我必死在家中， 必增添我的日子，多如塵沙。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 29:18 原文是窩中"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "My root is spread out to the waters. The dew lies all night on my branch.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的根长到水边； 露水终夜沾在我的枝上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的根長到水邊； 露水終夜霑在我的枝上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "My glory is fresh in me. My bow is renewed in my hand.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我的荣耀在身上增新； 我的弓在手中日强。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我的榮耀在身上增新； 我的弓在手中日強。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "“Men listened to me, waited, and kept silence for my counsel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "人听见我而仰望， 静默等候我的指教。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "人聽見我而仰望， 靜默等候我的指教。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "After my words they didn’t speak again. My speech fell on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说话之后，他们就不再说； 我的言语像雨露滴在他们身上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說話之後，他們就不再說； 我的言語像雨露滴在他們身上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "They waited for me as for the rain. Their mouths drank as with the spring rain.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们仰望我如仰望雨， 又张开口如切慕春雨。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們仰望我如仰望雨， 又張開口如切慕春雨。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "I smiled on them when they had no confidence. They didn’t reject the light of my face.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们不敢自信，我就向他们含笑； 他们不使我脸上的光改变。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們不敢自信，我就向他們含笑； 他們不使我臉上的光改變。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "I chose out their way, and sat as chief. I lived as a king in the army, as one who comforts the mourners.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我为他们选择道路，又坐首位； 我如君王在军队中居住， 又如吊丧的安慰伤心的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我為他們選擇道路，又坐首位； 我如君王在軍隊中居住， 又如弔喪的安慰傷心的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

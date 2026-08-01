@@ -1,0 +1,263 @@
+{
+  "bookId": "DAN",
+  "chapter": 12,
+  "bookEnglish": "Daniel",
+  "bookChineseSimplified": "但以理书",
+  "bookChineseTraditional": "但以理書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「那时，保佑你本国之民的天使长米迦勒必站起来，并且有大艰难，从有国以来直到此时，没有这样的。你本国的民中，凡名录在册上的，必得拯救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:1 原文是大君"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「那時，保佑你本國之民的天使長米迦勒必站起來，並且有大艱難，從有國以來直到此時，沒有這樣的。你本國的民中，凡名錄在冊上的，必得拯救。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:1 原文是大君"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "睡在尘埃中的，必有多人复醒。其中有得永生的，有受羞辱永远被憎恶的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "睡在塵埃中的，必有多人復醒。其中有得永生的，有受羞辱永遠被憎惡的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "智慧人必发光如同天上的光；那使多人归义的，必发光如星，直到永永远远。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "智慧人必發光如同天上的光；那使多人歸義的，必發光如星，直到永永遠遠。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "But you, Daniel, shut up the words and seal the book, even to the time of the end. Many will run back and forth, and knowledge will be increased.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "但以理啊，你要隐藏这话，封闭这书，直到末时。必有多人来往奔跑，知识就必增长。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:4 或译：切心研究"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "但以理啊，你要隱藏這話，封閉這書，直到末時。必有多人來往奔跑，知識就必增長。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 12:4 或譯：切心研究"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "Then I, Daniel, looked, and behold, two others stood, one on the river bank on this side, and the other on the river bank on that side.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我—但以理观看，见另有两个人站立：一个在河这边，一个在河那边。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我－但以理觀看，見另有兩個人站立：一個在河這邊，一個在河那邊。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "One said to the man clothed in linen, who was above the waters of the river, “How long will it be to the end of these wonders?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有一个问那站在河水以上、穿细麻衣的说：「这奇异的事到几时才应验呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有一個問那站在河水以上、穿細麻衣的說：「這奇異的事到幾時才應驗呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "I heard the man clothed in linen, who was above the waters of the river, when he held up his right hand and his left hand to heaven, and swore by him who lives forever that it will be for a time, times, and a half; and when they have finished breaking in pieces the power of the holy people, all these things will be finished.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见那站在河水以上、穿细麻衣的，向天举起左右手，指着活到永远的主起誓说：「要到一载、二载、半载，打破圣民权力的时候，这一切事就都应验了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見那站在河水以上、穿細麻衣的，向天舉起左右手，指着活到永遠的主起誓說：「要到一載、二載、半載，打破聖民權力的時候，這一切事就都應驗了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "I heard, but I didn’t understand. Then I said, “My lord, what will be the outcome of these things?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我听见这话，却不明白，就说：「我主啊，这些事的结局是怎样呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我聽見這話，卻不明白，就說：「我主啊，這些事的結局是怎樣呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said, “Go your way, Daniel; for the words are shut up and sealed until the time of the end.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：「但以理啊，你只管去；因为这话已经隐藏封闭，直到末时。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：「但以理啊，你只管去；因為這話已經隱藏封閉，直到末時。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "Many will purify themselves, and make themselves white, and be refined, but the wicked will do wickedly; and none of the wicked will understand, but those who are wise will understand.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "必有许多人使自己清净洁白，且被熬炼；但恶人仍必行恶，一切恶人都不明白，惟独智慧人能明白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "必有許多人使自己清淨潔白，且被熬煉；但惡人仍必行惡，一切惡人都不明白，惟獨智慧人能明白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "“From the time that the continual burnt offering is taken away and the abomination that makes desolate set up, there will be one thousand two hundred ninety days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "从除掉常献的燔祭，并设立那行毁坏可憎之物的时候，必有一千二百九十日。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "從除掉常獻的燔祭，並設立那行毀壞可憎之物的時候，必有一千二百九十日。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Blessed is he who waits, and comes to the one thousand three hundred thirty-five days.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "等到一千三百三十五日的，那人便为有福。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "等到一千三百三十五日的，那人便為有福。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“But go your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你且去等候结局，因为你必安歇。到了末期，你必起来，享受你的福分。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你且去等候結局，因為你必安歇。到了末期，你必起來，享受你的福分。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

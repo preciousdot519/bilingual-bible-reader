@@ -1,0 +1,505 @@
+{
+  "bookId": "2SA",
+  "chapter": 1,
+  "bookEnglish": "2 Samuel",
+  "bookChineseSimplified": "撒母耳记下",
+  "bookChineseTraditional": "撒母耳記下",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗死后，大卫击杀亚玛力人回来，在洗革拉住了两天。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅死後，大衛擊殺亞瑪力人回來，在洗革拉住了兩天。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "on the third day, behold, a man came out of the camp from Saul, with his clothes torn and earth on his head. When he came to David, he fell to the earth and showed respect.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:2 “Behold”, from “הִנֵּה*”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "第三天，有一人从扫罗的营里出来，衣服撕裂，头蒙灰尘，到大卫面前伏地叩拜。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "第三天，有一人從掃羅的營裏出來，衣服撕裂，頭蒙灰塵，到大衛面前伏地叩拜。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "David said to him, “Where do you come from?” He said to him, “I have escaped out of the camp of Israel.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫问他说：「你从哪里来？」他说：「我从以色列的营里逃来。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛問他說：「你從哪裏來？」他說：「我從以色列的營裏逃來。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "David said to him, “How did it go? Please tell me.” He answered, “The people have fled from the battle, and many of the people also have fallen and are dead. Saul and Jonathan his son are dead also.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫又问他说：「事情怎样？请你告诉我。」他回答说：「百姓从阵上逃跑，也有许多人仆倒死亡；扫罗和他儿子约拿单也死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛又問他說：「事情怎樣？請你告訴我。」他回答說：「百姓從陣上逃跑，也有許多人仆倒死亡；掃羅和他兒子約拿單也死了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "David said to the young man who told him, “How do you know that Saul and Jonathan his son are dead?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫问报信的少年人说：「你怎么知道扫罗和他儿子约拿单死了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛問報信的少年人說：「你怎麼知道掃羅和他兒子約拿單死了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The young man who told him said, “As I happened by chance on Mount Gilboa, behold, Saul was leaning on his spear; and behold, the chariots and the horsemen followed close behind him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "报信的少年人说：「我偶然到基利波山，看见扫罗伏在自己枪上，有战车、马兵紧紧地追他。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "報信的少年人說：「我偶然到基利波山，看見掃羅伏在自己槍上，有戰車、馬兵緊緊地追他。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "When he looked behind him, he saw me and called to me. I answered, ‘Here I am.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他回头看见我，就呼叫我。我说：『我在这里。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他回頭看見我，就呼叫我。我說：『我在這裏。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "He said to me, ‘Who are you?’ I answered him, ‘I am an Amalekite.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他问我说：『你是什么人？』我说：『我是亚玛力人。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他問我說：『你是甚麼人？』我說：『我是亞瑪力人。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "He said to me, ‘Please stand beside me, and kill me, for anguish has taken hold of me because my life lingers in me.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他说：『请你来，将我杀死；因为痛苦抓住我，我的生命尚存。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他說：『請你來，將我殺死；因為痛苦抓住我，我的生命尚存。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "So I stood beside him and killed him, because I was sure that he could not live after he had fallen. I took the crown that was on his head and the bracelet that was on his arm, and have brought them here to my lord.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我准知他仆倒必不能活，就去将他杀死，把他头上的冠冕、臂上的镯子拿到我主这里。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我準知他仆倒必不能活，就去將他殺死，把他頭上的冠冕、臂上的鐲子拿到我主這裏。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Then David took hold of his clothes and tore them; and all the men who were with him did likewise.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫就撕裂衣服，跟随他的人也是如此，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛就撕裂衣服，跟隨他的人也是如此，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "They mourned, wept, and fasted until evening for Saul and for Jonathan his son, and for the people of the LORD, and for the house of Israel, because they had fallen by the sword.",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "1:12 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name (Hebrew “יהוה*”, usually pronounced Yahweh)."
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "而且悲哀哭号，禁食到晚上，是因扫罗和他儿子约拿单，并耶和华的民以色列家的人，倒在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "而且悲哀哭號，禁食到晚上，是因掃羅和他兒子約拿單，並耶和華的民以色列家的人，倒在刀下。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "David said to the young man who told him, “Where are you from?” He answered, “I am the son of a foreigner, an Amalekite.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫问报信的少年人说：「你是哪里的人？」他说：「我是亚玛力客人的儿子。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛問報信的少年人說：「你是哪裏的人？」他說：「我是亞瑪力客人的兒子。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "David said to him, “Why were you not afraid to stretch out your hand to destroy the LORD’s anointed?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫说：「你伸手杀害耶和华的受膏者，怎么不畏惧呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛說：「你伸手殺害耶和華的受膏者，怎麼不畏懼呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "David called one of the young men and said, “Go near, and cut him down!” He struck him so that he died.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫叫了一个少年人来，说：「你去杀他吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛叫了一個少年人來，說：「你去殺他吧！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "David said to him, “Your blood be on your head, for your mouth has testified against you, saying, ‘I have slain the LORD’s anointed.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫对他说：「你流人血的罪归到自己的头上，因为你亲口作见证说：『我杀了耶和华的受膏者。』」少年人就把他杀了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛對他說：「你流人血的罪歸到自己的頭上，因為你親口作見證說：『我殺了耶和華的受膏者。』」少年人就把他殺了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "David lamented with this lamentation over Saul and over Jonathan his son",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "大卫作哀歌，吊扫罗和他儿子约拿单，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "大衛作哀歌，弔掃羅和他兒子約拿單，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "(and he commanded them to teach the children of Judah the song of the bow; behold, it is written in the book of Jashar):",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "且吩咐将这歌教导犹大人。这歌名叫「弓歌」，写在雅煞珥书上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "且吩咐將這歌教導猶大人。這歌名叫「弓歌」，寫在雅煞珥書上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "“Your glory, Israel, was slain on your high places! How the mighty have fallen!",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "歌中说：以色列啊， 你尊荣者在山上被杀！ 大英雄何竟死亡！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "歌中說：以色列啊， 你尊榮者在山上被殺！ 大英雄何竟死亡！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "Don’t tell it in Gath. Don’t publish it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不要在迦特报告； 不要在亚实基伦街上传扬； 免得非利士的女子欢乐； 免得未受割礼之人的女子矜夸。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不要在迦特報告； 不要在亞實基倫街上傳揚； 免得非利士的女子歡樂； 免得未受割禮之人的女子矜誇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "You mountains of Gilboa, let there be no dew or rain on you, and no fields of offerings; for there the shield of the mighty was defiled and cast away, the shield of Saul was not anointed with oil.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "基利波山哪，愿你那里没有雨露！ 愿你田地无土产可作供物！ 因为英雄的盾牌在那里被污丢弃； 扫罗的盾牌仿佛未曾抹油。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "基利波山哪，願你那裏沒有雨露！ 願你田地無土產可作供物！ 因為英雄的盾牌在那裏被污丟棄； 掃羅的盾牌彷彿未曾抹油。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "From the blood of the slain, from the fat of the mighty, Jonathan’s bow didn’t turn back. Saul’s sword didn’t return empty.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约拿单的弓箭非流敌人的血不退缩； 扫罗的刀剑非剖勇士的油不收回。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約拿單的弓箭非流敵人的血不退縮； 掃羅的刀劍非剖勇士的油不收回。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "Saul and Jonathan were lovely and pleasant in their lives. In their death, they were not divided. They were swifter than eagles. They were stronger than lions.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "扫罗和约拿单— 活时相悦相爱，死时也不分离 —他们比鹰更快，比狮子还强。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "掃羅和約拿單－ 活時相悅相愛，死時也不分離 －他們比鷹更快，比獅子還強。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "You daughters of Israel, weep over Saul, who clothed you delicately in scarlet, who put ornaments of gold on your clothing.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "以色列的女子啊，当为扫罗哭号！ 他曾使你们穿朱红色的美衣， 使你们衣服有黄金的妆饰。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "以色列的女子啊，當為掃羅哭號！ 他曾使你們穿朱紅色的美衣， 使你們衣服有黃金的妝飾。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "How the mighty have fallen in the middle of the battle! Jonathan was slain on your high places.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "英雄何竟在阵上仆倒！ 约拿单何竟在山上被杀！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "英雄何竟在陣上仆倒！ 約拿單何竟在山上被殺！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "I am distressed for you, my brother Jonathan. You have been very pleasant to me. Your love to me was wonderful, surpassing the love of women.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我兄约拿单哪，我为你悲伤！ 我甚喜悦你！ 你向我发的爱情奇妙非常， 过于妇女的爱情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我兄約拿單哪，我為你悲傷！ 我甚喜悅你！ 你向我發的愛情奇妙非常， 過於婦女的愛情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "How the mighty have fallen, and the weapons of war have perished!”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "英雄何竟仆倒！ 战具何竟灭没！",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "英雄何竟仆倒！ 戰具何竟滅沒！",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

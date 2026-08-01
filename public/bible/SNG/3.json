@@ -1,0 +1,217 @@
+{
+  "bookId": "SNG",
+  "chapter": 3,
+  "bookEnglish": "Song of Songs",
+  "bookChineseSimplified": "雅歌",
+  "bookChineseTraditional": "雅歌",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我夜间躺卧在床上， 寻找我心所爱的； 我寻找他，却寻不见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我夜間躺臥在床上， 尋找我心所愛的； 我尋找他，卻尋不見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "I will get up now, and go about the city; in the streets and in the squares I will seek him whom my soul loves. I sought him, but I didn’t find him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我说：我要起来，游行城中， 在街市上，在宽阔处， 寻找我心所爱的。 我寻找他，却寻不见。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我說：我要起來，遊行城中， 在街市上，在寬闊處， 尋找我心所愛的。 我尋找他，卻尋不見。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "The watchmen who go about the city found me; “Have you seen him whom my soul loves?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "城中巡逻看守的人遇见我； 我问他们：你们看见我心所爱的没有？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "城中巡邏看守的人遇見我； 我問他們：你們看見我心所愛的沒有？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother’s house, into the room of her who conceived me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我刚离开他们就遇见我心所爱的。 我拉住他，不容他走， 领他入我母家， 到怀我者的内室。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我剛離開他們就遇見我心所愛的。 我拉住他，不容他走， 領他入我母家， 到懷我者的內室。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶路撒冷的众女子啊， 我指着羚羊或田野的母鹿嘱咐你们： 不要惊动、不要叫醒我所亲爱的， 等他自己情愿。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 不要叫醒......情愿：或译不要激动爱情，等它自发"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶路撒冷的眾女子啊， 我指着羚羊或田野的母鹿囑咐你們： 不要驚動、不要叫醒我所親愛的， 等他自己情願。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 3:5 不要叫醒......情願：或譯不要激動愛情，等它自發"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "那从旷野上来、形状如烟柱、 以没药和乳香并商人各样香粉薰的是谁呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "那從曠野上來、形狀如煙柱、 以沒藥和乳香並商人各樣香粉薰的是誰呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "Behold, it is Solomon’s carriage! Sixty mighty men are around it, of the mighty men of Israel.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪，是所罗门的轿； 四围有六十个勇士， 都是以色列中的勇士；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪，是所羅門的轎； 四圍有六十個勇士， 都是以色列中的勇士；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "They all handle the sword, and are expert in war. Every man has his sword on his thigh, because of fear in the night.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "手都持刀，善于争战， 腰间佩刀，防备夜间有惊慌。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "手都持刀，善於爭戰， 腰間佩刀，防備夜間有驚慌。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "King Solomon made himself a carriage of the wood of Lebanon.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所罗门王用黎巴嫩木 为自己制造一乘华轿。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所羅門王用黎巴嫩木 為自己製造一乘華轎。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "He made its pillars of silver, its bottom of gold, its seat of purple, the middle of it being paved with love, from the daughters of Jerusalem.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "轿柱是用银做的， 轿底是用金做的； 坐垫是紫色的， 其中所铺的乃耶路撒冷众女子的爱情。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "轎柱是用銀做的， 轎底是用金做的； 坐墊是紫色的， 其中所鋪的乃耶路撒冷眾女子的愛情。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "Go out, you daughters of Zion, and see King Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "锡安的众女子啊， 你们出去观看所罗门王！ 头戴冠冕，就是在他婚筵的日子、 心中喜乐的时候，他母亲给他戴上的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "錫安的眾女子啊， 你們出去觀看所羅門王！ 頭戴冠冕，就是在他婚筵的日子、 心中喜樂的時候，他母親給他戴上的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

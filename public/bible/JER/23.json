@@ -1,0 +1,739 @@
+{
+  "bookId": "JER",
+  "chapter": 23,
+  "bookEnglish": "Jeremiah",
+  "bookChineseSimplified": "耶利米书",
+  "bookChineseTraditional": "耶利米書",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "“Woe to the shepherds who destroy and scatter the sheep of my pasture!” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「那些残害、赶散我草场之羊的牧人有祸了！」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「那些殘害、趕散我草場之羊的牧人有禍了！」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "Therefore the LORD, the God of Israel, says against the shepherds who feed my people: “You have scattered my flock, driven them away, and have not visited them. Behold, I will visit on you the evil of your doings,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华—以色列的 神斥责那些牧养他百姓的牧人，如此说：「你们赶散我的羊群，并没有看顾他们；我必讨你们这行恶的罪。这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華－以色列的上帝斥責那些牧養他百姓的牧人，如此說：「你們趕散我的羊群，並沒有看顧他們；我必討你們這行惡的罪。這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "“I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they will be fruitful and multiply.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我要将我羊群中所余剩的，从我赶他们到的各国内招聚出来，领他们归回本圈；他们也必生养众多。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我要將我羊群中所餘剩的，從我趕他們到的各國內招聚出來，領他們歸回本圈；他們也必生養眾多。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "I will set up shepherds over them who will feed them. They will no longer be afraid or dismayed, neither will any be lacking,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我必设立照管他们的牧人，牧养他们。他们不再惧怕，不再惊惶，也不缺少一个；这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我必設立照管他們的牧人，牧養他們。他們不再懼怕，不再驚惶，也不缺少一個；這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Behold, the days come,” says the LORD, “that I will raise to David a righteous Branch; and he will reign as king and deal wisely, and will execute justice and righteousness in the land.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「日子将到，我要给大卫兴起一个公义的苗裔；他必掌王权，行事有智慧，在地上施行公平和公义。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「日子將到，我要給大衛興起一個公義的苗裔；他必掌王權，行事有智慧，在地上施行公平和公義。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "In his days Judah will be saved, and Israel will dwell safely. This is his name by which he will be called: The LORD our righteousness.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在他的日子，犹大必得救，以色列也安然居住。他的名必称为『耶和华—我们的义』。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在他的日子，猶大必得救，以色列也安然居住。他的名必稱為『耶和華－我們的義』。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "“Therefore, behold, the days come,” says the LORD, “that they will no more say, ‘As the LORD lives, who brought up the children of Israel out of the land of Egypt;’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「日子将到，人必不再指着那领以色列人从埃及地上来永生的耶和华起誓，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「日子將到，人必不再指着那領以色列人從埃及地上來永生的耶和華起誓，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "but, ‘As the LORD lives, who brought up and who led the offspring of the house of Israel out of the north country, and from all the countries where I had driven them.’ Then they will dwell in their own land.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "却要指着那领以色列家的后裔从北方和赶他们到的各国中上来、永生的耶和华起誓。他们必住在本地。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "卻要指着那領以色列家的後裔從北方和趕他們到的各國中上來、永生的耶和華起誓。他們必住在本地。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "Concerning the prophets: My heart within me is broken. All my bones shake. I am like a drunken man, and like a man whom wine has overcome, because of the LORD, and because of his holy words.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "论到那些先知， 我心在我里面忧伤， 我骨头都发颤； 因耶和华和他的圣言， 我像醉酒的人， 像被酒所胜的人。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "論到那些先知， 我心在我裏面憂傷， 我骨頭都發顫； 因耶和華和他的聖言， 我像醉酒的人， 像被酒所勝的人。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "“For the land is full of adulterers; for because of the curse the land mourns. The pastures of the wilderness have dried up. Their course is evil, and their might is not right;",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "地满了行淫的人！ 因妄自赌咒，地就悲哀； 旷野的草场都枯干了。 他们所行的道乃是恶的； 他们的勇力使得不正。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "地滿了行淫的人！ 因妄自賭咒，地就悲哀； 曠野的草場都枯乾了。 他們所行的道乃是惡的； 他們的勇力使得不正。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "for both prophet and priest are profane. Yes, in my house I have found their wickedness,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "连先知带祭司都是亵渎的， 就是在我殿中我也看见他们的恶。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "連先知帶祭司都是褻瀆的， 就是在我殿中我也看見他們的惡。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Therefore their way will be to them as slippery places in the darkness. They will be driven on, and fall therein; for I will bring evil on them, even the year of their visitation,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因此，他们的道路必像黑暗中的滑地， 他们必被追赶，在这路中仆倒； 因为当追讨之年， 我必使灾祸临到他们。 这是耶和华说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因此，他們的道路必像黑暗中的滑地， 他們必被追趕，在這路中仆倒； 因為當追討之年， 我必使災禍臨到他們。 這是耶和華說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "“I have seen folly in the prophets of Samaria. They prophesied by Baal, and caused my people Israel to err.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在撒马利亚的先知中曾见愚妄； 他们借巴力说预言， 使我的百姓以色列走错了路。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在撒馬利亞的先知中曾見愚妄； 他們藉巴力說預言， 使我的百姓以色列走錯了路。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "In the prophets of Jerusalem I have also seen a horrible thing: they commit adultery and walk in lies. They strengthen the hands of evildoers, so that no one returns from his wickedness. They have all become to me as Sodom, and its inhabitants as Gomorrah.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我在耶路撒冷的先知中曾见可憎恶的事； 他们行奸淫，做事虚妄， 又坚固恶人的手， 甚至无人回头离开他的恶。 他们在我面前都像所多玛； 耶路撒冷的居民都像蛾摩拉。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我在耶路撒冷的先知中曾見可憎惡的事； 他們行姦淫，做事虛妄， 又堅固惡人的手， 甚至無人回頭離開他的惡。 他們在我面前都像所多瑪； 耶路撒冷的居民都像蛾摩拉。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "Therefore the LORD of Armies says concerning the prophets: “Behold, I will feed them with wormwood, and make them drink poisoned water; for from the prophets of Jerusalem ungodliness has gone out into all the land.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以万军之耶和华论到先知如此说： 我必将茵 给他们吃， 又将苦胆水给他们喝； 因为亵渎的事出于耶路撒冷的先知，流行遍地。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以萬軍之耶和華論到先知如此說： 我必將茵蔯給他們吃， 又將苦膽水給他們喝； 因為褻瀆的事出於耶路撒冷的先知，流行遍地。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "The LORD of Armies says, “Don’t listen to the words of the prophets who prophesy to you. They teach you vanity. They speak a vision of their own heart, and not out of the mouth of the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "万军之耶和华如此说：「这些先知向你们说预言，你们不要听他们的话。他们以虚空教训你们，所说的异象是出于自己的心，不是出于耶和华的口。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "萬軍之耶和華如此說：「這些先知向你們說預言，你們不要聽他們的話。他們以虛空教訓你們，所說的異象是出於自己的心，不是出於耶和華的口。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "They say continually to those who despise me, ‘The LORD has said, “You will have peace;”’ and to everyone who walks in the stubbornness of his own heart they say, ‘No evil will come on you.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们常对藐视我的人说：『耶和华说：你们必享平安』；又对一切按自己顽梗之心而行的人说：『必没有灾祸临到你们。』」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們常對藐視我的人說：『耶和華說：你們必享平安』；又對一切按自己頑梗之心而行的人說：『必沒有災禍臨到你們。』」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "For who has stood in the council of the LORD, that he should perceive and hear his word? Who has listened to my word, and heard it?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "有谁站在耶和华的会中 得以听见并会悟他的话呢？ 有谁留心听他的话呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "有誰站在耶和華的會中 得以聽見並會悟他的話呢？ 有誰留心聽他的話呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Behold, the LORD’s storm, his wrath, has gone out. Yes, a whirling storm! It will burst on the head of the wicked.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看哪！耶和华的忿怒 好像暴风，已经发出； 是暴烈的旋风， 必转到恶人的头上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看哪！耶和華的忿怒 好像暴風，已經發出； 是暴烈的旋風， 必轉到惡人的頭上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "The LORD’s anger will not return until he has executed and performed the intents of his heart. In the latter days, you will understand it perfectly.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华的怒气必不转消， 直到他心中所拟定的成就了。 末后的日子你们要全然明白。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華的怒氣必不轉消， 直到他心中所擬定的成就了。 末後的日子你們要全然明白。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "I didn’t send these prophets, yet they ran. I didn’t speak to them, yet they prophesied.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我没有打发那些先知， 他们竟自奔跑； 我没有对他们说话， 他们竟自预言。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我沒有打發那些先知， 他們竟自奔跑； 我沒有對他們說話， 他們竟自預言。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "But if they had stood in my council, then they would have caused my people to hear my words, and would have turned them from their evil way, and from the evil of their doings.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们若是站在我的会中， 就必使我的百姓听我的话， 又使他们回头离开恶道和他们所行的恶。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們若是站在我的會中， 就必使我的百姓聽我的話， 又使他們回頭離開惡道和他們所行的惡。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "“Am I a God at hand,” says the LORD, “and not a God afar off?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我岂为近处的 神呢？不也为远处的 神吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我豈為近處的上帝呢？不也為遠處的上帝嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Can anyone hide himself in secret places so that I can’t see him?” says the LORD. “Don’t I fill heaven and earth?” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「人岂能在隐密处藏身，使我看不见他呢？」耶和华说：「我岂不充满天地吗？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「人豈能在隱密處藏身，使我看不見他呢？」耶和華說：「我豈不充滿天地嗎？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "“I have heard what the prophets have said, who prophesy lies in my name, saying, ‘I had a dream! I had a dream!’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "我已听见那些先知所说的，就是托我名说的假预言，他们说：『我做了梦！我做了梦！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "我已聽見那些先知所說的，就是託我名說的假預言，他們說：『我做了夢！我做了夢！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "How long will this be in the heart of the prophets who prophesy lies, even the prophets of the deceit of their own heart?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "说假预言的先知，就是预言本心诡诈的先知，他们这样存心要到几时呢？",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "說假預言的先知，就是預言本心詭詐的先知，他們這樣存心要到幾時呢？",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They intend to cause my people to forget my name by their dreams which they each tell his neighbor, as their fathers forgot my name because of Baal.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们各人将所做的梦对邻舍述说，想要使我的百姓忘记我的名，正如他们列祖因巴力忘记我的名一样。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們各人將所做的夢對鄰舍述說，想要使我的百姓忘記我的名，正如他們列祖因巴力忘記我的名一樣。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "The prophet who has a dream, let him tell a dream; and he who has my word, let him speak my word faithfully. What is the straw to the wheat?” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "得梦的先知可以述说那梦；得我话的人可以诚实讲说我的话。糠秕怎能与麦子比较呢？这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "得夢的先知可以述說那夢；得我話的人可以誠實講說我的話。糠詷怎能與麥子比較呢？這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "“Isn’t my word like fire?” says the LORD; “and like a hammer that breaks the rock in pieces?",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「我的话岂不像火，又像能打碎磐石的大锤吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「我的話豈不像火，又像能打碎磐石的大錘嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "“Therefore behold, I am against the prophets,” says the LORD, “who each steal my words from his neighbor.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「那些先知各从邻舍偷窃我的言语，因此我必与他们反对。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「那些先知各從鄰舍偷竊我的言語，因此我必與他們反對。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Behold, I am against the prophets,” says the LORD, “who use their tongues, and say, ‘He says.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「那些先知用舌头，说是耶和华说的；我必与他们反对。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「那些先知用舌頭，說是耶和華說的；我必與他們反對。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "Behold, I am against those who prophesy lying dreams,” says the LORD, “who tell them, and cause my people to err by their lies, and by their vain boasting; yet I didn’t send them or command them. They don’t profit this people at all,” says the LORD.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶和华说：「那些以幻梦为预言，又述说这梦，以谎言和矜夸使我百姓走错了路的，我必与他们反对。我没有打发他们，也没有吩咐他们。他们与这百姓毫无益处。这是耶和华说的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶和華說：「那些以幻夢為預言，又述說這夢，以謊言和矜誇使我百姓走錯了路的，我必與他們反對。我沒有打發他們，也沒有吩咐他們。他們與這百姓毫無益處。這是耶和華說的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“When this people, or the prophet, or a priest, asks you, saying, ‘What is the message from the LORD?’ Then you shall tell them, ‘“What message? I will cast you off,” says the LORD.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「无论是百姓，是先知，是祭司，问你说：『耶和华有什么默示呢？』你就对他们说：『什么默示啊？耶和华说：我要撇弃你们。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「無論是百姓，是先知，是祭司，問你說：『耶和華有甚麼默示呢？』你就對他們說：『甚麼默示啊？耶和華說：我要撇棄你們。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "As for the prophet, the priest, and the people, who say, ‘The message from the LORD,’ I will even punish that man and his household.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "无论是先知，是祭司，是百姓，说『耶和华的默示』，我必刑罚那人和他的家。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "無論是先知，是祭司，是百姓，說『耶和華的默示』，我必刑罰那人和他的家。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "You will say everyone to his neighbor, and everyone to his brother, ‘What has the LORD answered?’ and, ‘What has the LORD said?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们各人要对邻舍，各人要对弟兄如此说：『耶和华回答什么？』『耶和华说了什么呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們各人要對鄰舍，各人要對弟兄如此說：『耶和華回答甚麼？』『耶和華說了甚麼呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "You will mention the message from the LORD no more, for every man’s own word has become his message; for you have perverted the words of the living God, of the LORD of Armies, our God.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "『耶和华的默示』你们不可再提，各人所说的话必作自己的重担，因为你们谬用永生 神、万军之耶和华—我们 神的言语。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:36 重担和默示原文同"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "『耶和華的默示』你們不可再提，各人所說的話必作自己的重擔，因為你們謬用永生上帝、萬軍之耶和華－我們上帝的言語。",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 23:36 重擔和默示原文同"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "You will say to the prophet, ‘What has the LORD answered you?’ and, ‘What has the LORD spoken?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们要对先知如此说：『耶和华回答你什么？』『耶和华说了什么呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們要對先知如此說：『耶和華回答你甚麼？』『耶和華說了甚麼呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Although you say, ‘The message from the LORD,’ therefore the LORD says: ‘Because you say this word, “The message from the LORD,” and I have sent to you, telling you not to say, “The message from the LORD,”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们若说『耶和华的默示』，耶和华就如此说：『因你们说「耶和华的默示」这句话，我也打发人到你们那里去，告诉你们不可说「耶和华的默示」。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們若說『耶和華的默示』，耶和華就如此說：『因你們說「耶和華的默示」這句話，我也打發人到你們那裏去，告訴你們不可說「耶和華的默示」。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "therefore behold, I will utterly forget you, and I will cast you off with the city that I gave to you and to your fathers, away from my presence.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我必全然忘记你们，将你们和我所赐给你们并你们列祖的城撇弃了；",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我必全然忘記你們，將你們和我所賜給你們並你們列祖的城撇棄了；",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "I will bring an everlasting reproach on you, and a perpetual shame, which will not be forgotten.’”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又必使永远的凌辱和长久的羞耻临到你们，是不能忘记的。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又必使永遠的凌辱和長久的羞恥臨到你們，是不能忘記的。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

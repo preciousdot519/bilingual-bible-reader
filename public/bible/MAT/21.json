@@ -1,0 +1,902 @@
+{
+  "bookId": "MAT",
+  "chapter": 21,
+  "bookEnglish": "Matthew",
+  "bookChineseSimplified": "马太福音",
+  "bookChineseTraditional": "馬太福音",
+  "verses": [
+    {
+      "verse": "1",
+      "en": {
+        "text": "When they came near to Jerusalem and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples,",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:1 TR & NU read “Bethphage” instead of “Bethsphage”"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣和门徒将近耶路撒冷，到了伯法其，在橄榄山那里。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌和門徒將近耶路撒冷，到了伯法其，在橄欖山那裏。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "2",
+      "en": {
+        "text": "saying to them, “Gointo the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣就打发两个门徒，对他们说：「你们往对面村子里去，必看见一匹驴拴在那里，还有驴驹同在一处；你们解开，牵到我这里来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌就打發兩個門徒，對他們說：「你們往對面村子裏去，必看見一匹驢拴在那裏，還有驢駒同在一處；你們解開，牽到我這裏來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "3",
+      "en": {
+        "text": "Ifanyone says anything to you, you shall say, ‘The Lord needs them,’ and immediately he will send them.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若有人对你们说什么，你们就说：『主要用它。』那人必立时让你们牵来。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若有人對你們說甚麼，你們就說：『主要用牠。』那人必立時讓你們牽來。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "4",
+      "en": {
+        "text": "All this was done that it might be fulfilled which was spoken through the prophet, saying,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "这事成就是要应验先知的话，说：",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "這事成就是要應驗先知的話，說：",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "5",
+      "en": {
+        "text": "“Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey.”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "21:5 Zechariah 9:9",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "要对锡安的居民说： 看哪，你的王来到你这里， 是温柔的，又骑着驴， 就是骑着驴驹子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:5 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "要對錫安的居民說： 看哪，你的王來到你這裏， 是溫柔的，又騎着驢， 就是騎着驢駒子。」",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:5 原文是女子"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "6",
+      "en": {
+        "text": "The disciples went and did just as Jesus commanded them,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒就照耶稣所吩咐的去行，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒就照耶穌所吩咐的去行，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "7",
+      "en": {
+        "text": "and brought the donkey and the colt and laid their clothes on them; and he sat on them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "牵了驴和驴驹来，把自己的衣服搭在上面，耶稣就骑上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "牽了驢和驢駒來，把自己的衣服搭在上面，耶穌就騎上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "8",
+      "en": {
+        "text": "A very great multitude spread their clothes on the road. Others cut branches from the trees and spread them on the road.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人多半把衣服铺在路上；还有人砍下树枝来铺在路上。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人多半把衣服鋪在路上；還有人砍下樹枝來鋪在路上。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "9",
+      "en": {
+        "text": "The multitudes who went in front of him, and those who followed, kept shouting, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "21:9 “Hosanna” means “save us” or “help us, we pray”."
+          }
+        ],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "21:9 Psalms 118:26",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "前行后随的众人喊着说： 和散那归于大卫的子孙！ 奉主名来的是应当称颂的！ 高高在上和散那！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:9 原有求救的意思，在此是称颂的话"
+          }
+        ],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "前行後隨的眾人喊着說： 和散那歸於大衛的子孫！ 奉主名來的是應當稱頌的！ 高高在上和散那！",
+        "footnotes": [
+          {
+            "id": "f1",
+            "text": "- 21:9 原有求救的意思，在此是稱頌的話"
+          }
+        ],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "10",
+      "en": {
+        "text": "When he had come into Jerusalem, all the city was stirred up, saying, “Who is this?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣既进了耶路撒冷，合城都惊动了，说：「这是谁？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌既進了耶路撒冷，合城都驚動了，說：「這是誰？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "11",
+      "en": {
+        "text": "The multitudes said, “This is the prophet, Jesus, from Nazareth of Galilee.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "众人说：「这是加利利拿撒勒的先知耶稣。」 （可11·15—19；路19·45—48；约2·13—22）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "眾人說：「這是加利利拿撒勒的先知耶穌。」 （可11‧15－19；路19‧45－48；約2‧13－22）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "12",
+      "en": {
+        "text": "Jesus entered into the temple of God and drove out all of those who sold and bought in the temple, and overthrew the money changers’ tables and the seats of those who sold the doves.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣进了 神的殿，赶出殿里一切做买卖的人，推倒兑换银钱之人的桌子，和卖鸽子之人的凳子，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌進了上帝的殿，趕出殿裏一切做買賣的人，推倒兌換銀錢之人的桌子，和賣鴿子之人的凳子，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "13",
+      "en": {
+        "text": "He said to them, “Itis written, ‘My house shall be called a house of prayer,’ butyou have made it a den of robbers!”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "21:13 Isaiah 56:7",
+            "targets": []
+          },
+          {
+            "id": "x2",
+            "text": "21:13 Jeremiah 7:11",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "对他们说：「经上记着说： 我的殿必称为祷告的殿， 你们倒使它成为贼窝了。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他們說：「經上記着說： 我的殿必稱為禱告的殿， 你們倒使它成為賊窩了。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "14",
+      "en": {
+        "text": "The lame and the blind came to him in the temple, and he healed them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "在殿里有瞎子、瘸子到耶稣跟前，他就治好了他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "在殿裏有瞎子、瘸子到耶穌跟前，他就治好了他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "15",
+      "en": {
+        "text": "But when the chief priests and the scribes saw the wonderful things that he did, and the children who were crying in the temple and saying, “Hosanna to the son of David!” they were indignant,",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司长和文士看见耶稣所行的奇事，又见小孩子在殿里喊着说：「和散那归于大卫的子孙！」就甚恼怒，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司長和文士看見耶穌所行的奇事，又見小孩子在殿裏喊着說：「和散那歸於大衛的子孫！」就甚惱怒，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "16",
+      "en": {
+        "text": "and said to him, “Do you hear what these are saying?” Jesus said to them, “Yes. Did you never read, ‘Out of the mouth of children and nursing babies, you have perfected praise’?”",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "21:16 Psalms 8:2",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "对他说：「这些人所说的，你听见了吗？」耶稣说：「是的。经上说『你从婴孩和吃奶的口中完全了赞美』的话，你们没有念过吗？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "對他說：「這些人所說的，你聽見了嗎？」耶穌說：「是的。經上說『你從嬰孩和吃奶的口中完全了讚美』的話，你們沒有念過嗎？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "17",
+      "en": {
+        "text": "He left them and went out of the city to Bethany, and camped there.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是离开他们，出城到伯大尼去，在那里住宿。 （可11·12—14，20—24）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是離開他們，出城到伯大尼去，在那裏住宿。 （可11‧12－14，20－24）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "18",
+      "en": {
+        "text": "Now in the morning, as he returned to the city, he was hungry.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "早晨回城的时候，他饿了，",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "早晨回城的時候，他餓了，",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "19",
+      "en": {
+        "text": "Seeing a fig tree by the road, he came to it and found nothing on it but leaves. He said to it, “Letthere be no fruit from you forever!” Immediately the fig tree withered away.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "看见路旁有一棵无花果树，就走到跟前，在树上找不着什么，不过有叶子，就对树说：「从今以后，你永不结果子。」那无花果树就立刻枯干了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "看見路旁有一棵無花果樹，就走到跟前，在樹上找不着甚麼，不過有葉子，就對樹說：「從今以後，你永不結果子。」那無花果樹就立刻枯乾了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "20",
+      "en": {
+        "text": "When the disciples saw it, they marveled, saying, “How did the fig tree immediately wither away?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "门徒看见了，便希奇说：「无花果树怎么立刻枯干了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "門徒看見了，便希奇說：「無花果樹怎麼立刻枯乾了呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "21",
+      "en": {
+        "text": "Jesus answered them, “Most certainlyI tell you, if you have faith and don’ t doubt, you will not only do what was done to the fig tree, but even if you told this mountain, ‘Be taken up and cast into the sea,’ it would be done.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我实在告诉你们，你们若有信心，不疑惑，不但能行无花果树上所行的事，就是对这座山说：『你挪开此地，投在海里！』也必成就。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我實在告訴你們，你們若有信心，不疑惑，不但能行無花果樹上所行的事，就是對這座山說：『你挪開此地，投在海裏！』也必成就。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "22",
+      "en": {
+        "text": "Allthings, whatever you ask in prayer, believing, you will receive.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们祷告，无论求什么，只要信，就必得着。」 （可11·27—33；路20·1—8）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們禱告，無論求甚麼，只要信，就必得着。」 （可11‧27－33；路20‧1－8）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "23",
+      "en": {
+        "text": "When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, “By what authority do you do these things? Who gave you this authority?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣进了殿，正教训人的时候，祭司长和民间的长老来问他说：「你仗着什么权柄做这些事？给你这权柄的是谁呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌進了殿，正教訓人的時候，祭司長和民間的長老來問他說：「你仗着甚麼權柄做這些事？給你這權柄的是誰呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "24",
+      "en": {
+        "text": "Jesus answered them, “Ialso will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "耶稣回答说：「我也要问你们一句话，你们若告诉我，我就告诉你们我仗着什么权柄做这些事。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌回答說：「我也要問你們一句話，你們若告訴我，我就告訴你們我仗着甚麼權柄做這些事。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "25",
+      "en": {
+        "text": "Thebaptism of John, where was it from? From heaven or from men?” They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will ask us, ‘Why then did you not believe him?’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "约翰的洗礼是从哪里来的？是从天上来的？是从人间来的呢？」他们彼此商议说：「我们若说『从天上来』，他必对我们说：『这样，你们为什么不信他呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "約翰的洗禮是從哪裏來的？是從天上來的？是從人間來的呢？」他們彼此商議說：「我們若說『從天上來』，他必對我們說：『這樣，你們為甚麼不信他呢？』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "26",
+      "en": {
+        "text": "But if we say, ‘From men,’ we fear the multitude, for all hold John as a prophet.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "若说『从人间来』，我们又怕百姓，因为他们都以约翰为先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "若說『從人間來』，我們又怕百姓，因為他們都以約翰為先知。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "27",
+      "en": {
+        "text": "They answered Jesus, and said, “We don’t know.” He also said to them, “Neitherwill I tell you by what authority I do these things.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "于是回答耶稣说：「我们不知道。」耶稣说：「我也不告诉你们我仗着什么权柄做这些事。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "於是回答耶穌說：「我們不知道。」耶穌說：「我也不告訴你們我仗着甚麼權柄做這些事。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "28",
+      "en": {
+        "text": "Butwhat do you think? A man had two sons, and he came to the first, and said, ‘Son, go work today in my vineyard.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又说：「一个人有两个儿子。他来对大儿子说：『我儿，你今天到葡萄园里去做工。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又說：「一個人有兩個兒子。他來對大兒子說：『我兒，你今天到葡萄園裏去做工。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "29",
+      "en": {
+        "text": "Heanswered, ‘I will not,’ but afterward he changed his mind, and went.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他回答说：『我不去』，以后自己懊悔，就去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他回答說：『我不去』，以後自己懊悔，就去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "30",
+      "en": {
+        "text": "Hecame to the second, and said the same thing. He answered, ‘I’m going, sir,’ but he didn’ t go.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "又来对小儿子也是这样说。他回答说：『父啊，我去』，他却不去。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "又來對小兒子也是這樣說。他回答說：『父啊，我去』，他卻不去。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "31",
+      "en": {
+        "text": "Whichof the two did the will of his father?” They said to him, “The first.” Jesus said to them, “Mostcertainly I tell you that the tax collectors and the prostitutes are entering into God’s Kingdom before you.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "你们想，这两个儿子是哪一个遵行父命呢？」他们说：「大儿子。」耶稣说：「我实在告诉你们，税吏和娼妓倒比你们先进 神的国。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "你們想，這兩個兒子是哪一個遵行父命呢？」他們說：「大兒子。」耶穌說：「我實在告訴你們，稅吏和娼妓倒比你們先進上帝的國。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "32",
+      "en": {
+        "text": "ForJohn came to you in the way of righteousness, and you didn’ t believe him; but the tax collectors and the prostitutes believed him. When you saw it, you didn’ t even repent afterward, that you might believe him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "因为约翰遵着义路到你们这里来，你们却不信他；税吏和娼妓倒信他。你们看见了，后来还是不懊悔去信他。」 （可12·1—12；路20·9—19）",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "因為約翰遵着義路到你們這裏來，你們卻不信他；稅吏和娼妓倒信他。你們看見了，後來還是不懊悔去信他。」 （可12‧1－12；路20‧9－19）",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "33",
+      "en": {
+        "text": "“Hear anotherparable. There was a man who was a master of a household who planted a vineyard, set a hedge about it, dug a wine press in it, built a tower, leased it out to farmers, and went into another country.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "「你们再听一个比喻：有个家主栽了一个葡萄园，周围圈上篱笆，里面挖了一个压酒池，盖了一座楼，租给园户，就往外国去了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "「你們再聽一個比喻：有個家主栽了一個葡萄園，周圍圈上籬笆，裏面挖了一個壓酒池，蓋了一座樓，租給園戶，就往外國去了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "34",
+      "en": {
+        "text": "Whenthe season for the fruit came near, he sent his servants to the farmers to receive his fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "收果子的时候近了，就打发仆人到园户那里去收果子。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "收果子的時候近了，就打發僕人到園戶那裏去收果子。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "35",
+      "en": {
+        "text": "Thefarmers took his servants, beat one, killed another, and stoned another.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "园户拿住仆人，打了一个，杀了一个，用石头打死一个。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "園戶拿住僕人，打了一個，殺了一個，用石頭打死一個。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "36",
+      "en": {
+        "text": "Again, he sent other servants more than the first; and they treated them the same way.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "主人又打发别的仆人去，比先前更多；园户还是照样待他们。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "主人又打發別的僕人去，比先前更多；園戶還是照樣待他們。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "37",
+      "en": {
+        "text": "Butafterward he sent to them his son, saying, ‘They will respect my son.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "后来打发他的儿子到他们那里去，意思说：『他们必尊敬我的儿子。』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "後來打發他的兒子到他們那裏去，意思說：『他們必尊敬我的兒子。』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "38",
+      "en": {
+        "text": "Butthe farmers, when they saw the son, said among themselves, ‘This is the heir. Come, let’s kill him and seize his inheritance.’",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "不料，园户看见他儿子，就彼此说：『这是承受产业的。来吧，我们杀他，占他的产业！』",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "不料，園戶看見他兒子，就彼此說：『這是承受產業的。來吧，我們殺他，佔他的產業！』",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "39",
+      "en": {
+        "text": "Sothey took him and threw him out of the vineyard, then killed him.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们就拿住他，推出葡萄园外，杀了。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們就拿住他，推出葡萄園外，殺了。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "40",
+      "en": {
+        "text": "Whentherefore the lord of the vineyard comes, what will he do to those farmers?”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "园主来的时候要怎样处治这些园户呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "園主來的時候要怎樣處治這些園戶呢？」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "41",
+      "en": {
+        "text": "They told him, “He will miserably destroy those miserable men, and will lease out the vineyard to other farmers who will give him the fruit in its season.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们说：「要下毒手除灭那些恶人，将葡萄园另租给那按着时候交果子的园户。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們說：「要下毒手除滅那些惡人，將葡萄園另租給那按着時候交果子的園戶。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "42",
+      "en": {
+        "text": "Jesus said to them, “Didyou never read in the Scriptures, ‘Thestone which the builders rejected wasmade the head of the corner. Thiswas from the Lord. Itis marvelous in our eyes’?",
+        "footnotes": [],
+        "crossReferences": [
+          {
+            "id": "x1",
+            "text": "21:42 Psalms 118:22-23",
+            "targets": []
+          }
+        ]
+      },
+      "zhSimplified": {
+        "text": "耶稣说：「经上写着： 匠人所弃的石头 已作了房角的头块石头。 这是主所做的， 在我们眼中看为希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "耶穌說：「經上寫着： 匠人所棄的石頭 已作了房角的頭塊石頭。 這是主所做的， 在我們眼中看為希奇。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "43",
+      "en": {
+        "text": "“ThereforeI tell you, God’s Kingdom will be taken away from you and will be given to a nation producing its fruit.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "所以我告诉你们， 神的国必从你们夺去，赐给那能结果子的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "所以我告訴你們，上帝的國必從你們奪去，賜給那能結果子的百姓。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "44",
+      "en": {
+        "text": "Hewho falls on this stone will be broken to pieces, but on whomever it will fall, it will scatter him as dust.”",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "谁掉在这石头上，必要跌碎；这石头掉在谁的身上，就要把谁砸得稀烂。」",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "誰掉在這石頭上，必要跌碎；這石頭掉在誰的身上，就要把誰砸得稀爛。」",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "45",
+      "en": {
+        "text": "When the chief priests and the Pharisees heard his parables, they perceived that he spoke about them.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "祭司长和法利赛人听见他的比喻，就看出他是指着他们说的。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "祭司長和法利賽人聽見他的比喻，就看出他是指着他們說的。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    },
+    {
+      "verse": "46",
+      "en": {
+        "text": "When they sought to seize him, they feared the multitudes, because they considered him to be a prophet.",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhSimplified": {
+        "text": "他们想要捉拿他，只是怕众人，因为众人以他为先知。",
+        "footnotes": [],
+        "crossReferences": []
+      },
+      "zhTraditional": {
+        "text": "他們想要捉拿他，只是怕眾人，因為眾人以他為先知。",
+        "footnotes": [],
+        "crossReferences": []
+      }
+    }
+  ]
+}

@@ -50,14 +50,16 @@ select { min-width: 250px; border: 1px solid #d8dee6; background: white; border-
 .chapter-heading button { display: inline-flex; align-items: center; gap: 5px; width: fit-content; }
 .chapter-heading button:last-child { justify-self: end; }
 .chapter-heading button:disabled { opacity: .35; cursor: not-allowed; }
-.reader-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; align-items: start; }
-.translation-panel { background: rgba(255,255,255,.82); border: 1px solid rgba(148,163,184,.25); border-radius: 18px; overflow: hidden; box-shadow: 0 16px 50px rgba(30,41,59,.06); }
-.dark .translation-panel { background: #1b2432; border-color: #334155; }
+.reader-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 18px; background: rgba(255,255,255,.82); border: 1px solid rgba(148,163,184,.25); border-radius: 18px; overflow: hidden; box-shadow: 0 16px 50px rgba(30,41,59,.06); }
+.dark .reader-grid { background: #1b2432; border-color: #334155; }
+.verse-pair { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; padding: 0 16px; }
+.verse-pair:first-of-type { margin-top: 12px; }
+.verse-pair:last-of-type { margin-bottom: 12px; }
+.verse p { overflow-wrap: anywhere; }
 .panel-title { padding: 22px 24px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(148,163,184,.2); }
 .panel-title small { color: #527a98; font-weight: 700; letter-spacing: .14em; }
 .panel-title h3 { margin: 5px 0 0; font-family: "Noto Serif SC", Georgia, serif; }
 .panel-title > span { border: 1px solid #b9cad7; color: #527a98; border-radius: 999px; padding: 5px 9px; font-size: 12px; }
-.verses { padding: 12px 16px; }
 .verse { position: relative; display: grid; grid-template-columns: 28px 1fr 28px; gap: 4px; padding: 14px 8px; border-radius: 10px; transition: .15s; }
 .verse.active { background: #edf5f9; }
 .dark .verse.active { background: #26384b; }
@@ -65,6 +67,9 @@ select { min-width: 250px; border: 1px solid #d8dee6; background: white; border-
 .verse p { margin: 0; font-family: "Noto Serif SC", Georgia, serif; font-size: var(--verse-size); line-height: 1.9; }
 .verse button { opacity: 0; border: 0; background: transparent; color: #527a98; padding: 5px; }
 .verse:hover button, .verse.active button { opacity: 1; }
+.verse:focus-within { background: #edf5f9; }
+.dark .verse:focus-within { background: #26384b; }
+.verse:focus-within .copy-button { opacity: 1; }
 .attribution { font-size: 11px; line-height: 1.5; opacity: .58; padding: 0 24px 20px; }
 .licensing { margin-top: 28px; border: 1px solid rgba(148,163,184,.28); border-radius: 14px; padding: 22px; }
 .licensing h3 { margin-top: 0; }
@@ -78,6 +83,7 @@ footer { text-align: center; padding: 26px; opacity: .55; font-size: 13px; }
   .selector-row { display: grid; grid-template-columns: 1fr auto; }
   select { min-width: 0; width: 100%; }
   .reader-grid { grid-template-columns: 1fr; }
+  .verse-pair { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 10px 8px; border-bottom: 1px solid rgba(148,163,184,.2); }
   .chapter-heading button { padding-inline: 10px; font-size: 13px; }
   .chapter-heading h2 { font-size: 22px; }
 }
@@ -136,14 +142,20 @@ footer { text-align: center; padding: 26px; opacity: .55; font-size: 13px; }
 }
 
 .notes-panel {
-  margin-top: 18px;
+  margin: auto;
+  width: min(560px, calc(100vw - 28px));
+  max-height: calc(100dvh - 48px);
+  overflow-y: auto;
+  color: #243043;
   border: 1px solid rgba(148,163,184,.35);
   border-left: 4px solid #527a98;
   border-radius: 14px;
   padding: 20px 22px;
-  background: rgba(255,255,255,.88);
+  background: #fff;
   box-shadow: 0 12px 35px rgba(30,41,59,.06);
 }
+.notes-panel::backdrop { background: rgba(15,23,42,.45); }
+body:has(.notes-panel[open]) { overflow: hidden; }
 
 .notes-panel.crossReference {
   border-left-color: #70558f;
@@ -151,6 +163,7 @@ footer { text-align: center; padding: 26px; opacity: .55; font-size: 13px; }
 
 .dark .notes-panel {
   background: #1b2432;
+  color: #e5e7eb;
   border-color: #334155;
   border-left-color: #6fa1c4;
 }

@@ -30,6 +30,8 @@ import type {
   Chapter,
 } from "./types";
 
+import { groupVerses } from "./utils/verseAlignment";
+
 type OpenNote = {
   kind: "footnote" | "crossReference";
   translation: string;
@@ -183,6 +185,11 @@ export default function App() {
     selectedBookId,
     selectedChapter,
   ]);
+
+  const verseGroups = useMemo(
+    () => groupVerses(chapter?.verses ?? []),
+    [chapter],
+  );
 
   const books =
     manifest?.books ?? [];
@@ -389,27 +396,19 @@ export default function App() {
   async function copyVerse(
     verse: string,
   ) {
-    const item =
-      chapter?.verses.find(
-        (candidate) =>
-          candidate.verse === verse,
-      );
-
-    if (!item || !chapter) {
+    const group = verseGroups.find((candidate) => candidate.verse === verse);
+    if (!group || !chapter) {
       return;
     }
-
-    const chineseContent =
-      simplified
-        ? item.zhSimplified
-        : item.zhTraditional;
-
+    const chineseLanguage = simplified ? "zhSimplified" : "zhTraditional";
     const copiedText = [
       `${title}:${verse}`,
-      chineseContent.text,
+      ...group.entries.filter((item) => item[chineseLanguage].text.trim())
+        .map((item) => `${item.verse} ${item[chineseLanguage].text}`),
       "",
       `${chapter.bookEnglish} ${chapter.chapter}:${verse}`,
-      item.en.text,
+      ...group.entries.filter((item) => item.en.text.trim())
+        .map((item) => `${item.verse} ${item.en.text}`),
     ].join("\n");
 
     try {
@@ -679,74 +678,83 @@ export default function App() {
                 <span>WEB</span>
               </div>
 
-              {chapter.verses.map((item) => (
-                <div className="verse-pair" key={item.verse} data-verse={item.verse}>
-                  {(["zh", "en"] as const).map((language) => {
-                    const content = language === "en"
-                      ? item.en
-                      : simplified ? item.zhSimplified : item.zhTraditional;
-                    const translation = language === "en"
-                      ? "World English Bible"
-                      : simplified
-                        ? "Chinese Union Version — Simplified"
-                        : "Chinese Union Version — Traditional";
+              {verseGroups.map((group) => (
+                <div className="verse-pair" key={group.verse} data-verse={group.verse}>
+                  {(["zh", "en"] as const).map((language) => (
+                    <div className="verse-stack" key={language}>
+                      {group.entries.filter((item) => {
+                        const content = language === "en" ? item.en
+                          : simplified ? item.zhSimplified : item.zhTraditional;
+                        return content.text.trim() || content.footnotes.length || content.crossReferences.length;
+                      }).map((item) => {
+                        const content = language === "en"
+                          ? item.en
+                          : simplified ? item.zhSimplified : item.zhTraditional;
+                        const translation = language === "en"
+                          ? "World English Bible"
+                          : simplified
+                            ? "Chinese Union Version — Simplified"
+                            : "Chinese Union Version — Traditional";
 
-                    return (
-                      <div
-                        key={language}
-                        lang={language === "en" ? "en" : simplified ? "zh-Hans" : "zh-Hant"}
-                        className={activeVerse === item.verse ? "verse active" : "verse"}
-                        onMouseEnter={() => setActiveVerse(item.verse)}
-                        onMouseLeave={() => setActiveVerse(null)}
-                        onClick={() => setActiveVerse(item.verse)}
-                      >
-                        <sup>{item.verse}</sup>
-                        <p>{content.text}</p>
-                        <div className="verse-tools">
-                          {content.footnotes.map((note, index) => (
-                            <button
-                              key={note.id}
-                              className="note-marker footnote-marker"
-                              onClick={(event) => {
-                                event.stopPropagation();
-                                showNote("footnote", translation, item.verse, note.text);
-                              }}
-                              title="Open footnote"
-                              aria-haspopup="dialog"
-                              aria-label={`Open ${translation} footnote ${index + 1} for verse ${item.verse}`}
-                            >
-                              <FileText size={13} />F
-                            </button>
-                          ))}
-                          {content.crossReferences.map((reference, index) => (
-                            <button
-                              key={reference.id}
-                              className="note-marker reference-marker"
-                              onClick={(event) => {
-                                event.stopPropagation();
-                                showNote("crossReference", translation, item.verse, reference.text);
-                              }}
-                              title="Open cross-reference"
-                              aria-haspopup="dialog"
-                              aria-label={`Open ${translation} cross-reference ${index + 1} for verse ${item.verse}`}
-                            >
-                              <Link2 size={13} />R
-                            </button>
-                          ))}
-                          <button
-                            className="copy-button"
-                            onClick={(event) => {
-                              event.stopPropagation();
-                              void copyVerse(item.verse);
-                            }}
-                            aria-label={`Copy verse ${item.verse}`}
+                        return (
+                          <div
+                            key={item.verse}
+                            lang={language === "en" ? "en" : simplified ? "zh-Hans" : "zh-Hant"}
+                            className={activeVerse === group.verse ? "verse active" : "verse"}
+                            onMouseEnter={() => setActiveVerse(group.verse)}
+                            onMouseLeave={() => setActiveVerse(null)}
+                            onClick={() => setActiveVerse(group.verse)}
                           >
-                            <Copy size={15} />
-                          </button>
-                        </div>
+                            <sup>{item.verse}</sup>
+                            <p>{content.text}</p>
+                            <div className="verse-tools">
+                              {content.footnotes.map((note, index) => (
+                                <button
+                                  key={note.id}
+                                  className="note-marker footnote-marker"
+                                  onClick={(event) => {
+                                    event.stopPropagation();
+                                    showNote("footnote", translation, item.verse, note.text);
+                                  }}
+                                  title="Open footnote"
+                                  aria-haspopup="dialog"
+                                  aria-label={`Open ${translation} footnote ${index + 1} for verse ${item.verse}`}
+                                >
+                                  <FileText size={13} />F
+                                </button>
+                              ))}
+                              {content.crossReferences.map((reference, index) => (
+                                <button
+                                  key={reference.id}
+                                  className="note-marker reference-marker"
+                                  onClick={(event) => {
+                                    event.stopPropagation();
+                                    showNote("crossReference", translation, item.verse, reference.text);
+                                  }}
+                                  title="Open cross-reference"
+                                  aria-haspopup="dialog"
+                                  aria-label={`Open ${translation} cross-reference ${index + 1} for verse ${item.verse}`}
+                                >
+                                  <Link2 size={13} />R
+                                </button>
+                              ))}
+                              <button
+                                className="copy-button"
+                                onClick={(event) => {
+                                  event.stopPropagation();
+                                  void copyVerse(group.verse);
+                                }}
+                                aria-label={`Copy passage ${group.verse}`}
+                              >
+                                <Copy size={15} />
+                              </button>
+
+                    </div>
                       </div>
                     );
-                  })}
+                    })}
+                    </div>
+                  ))}
                 </div>
               ))}
               <p className="attribution">
